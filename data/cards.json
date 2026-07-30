@@ -1,1 +1,20 @@
-
+{
+  "project": "The Coffee Deck",
+  "edition": "1.0",
+  "status": "Building",
+  "cards": 120,
+  "categories": [
+    "ESP",
+    "MLK",
+    "FIL",
+    "EQP",
+    "WRK",
+    "SEN",
+    "GRN",
+    "PRC",
+    "RST",
+    "WTR",
+    "ORG",
+    "BUS"
+  ]
+}
