@@ -1,20 +1,20 @@
-{
-  "project": "The Coffee Deck",
-  "edition": "1.0",
-  "status": "Building",
-  "cards": 120,
-  "categories": [
-    "ESP",
-    "MLK",
-    "FIL",
-    "EQP",
-    "WRK",
-    "SEN",
-    "GRN",
-    "PRC",
-    "RST",
-    "WTR",
-    "ORG",
-    "BUS"
-  ]
-}
+[
+  {
+    "number": "001",
+    "title": "Brew Ratio",
+    "category": "ESP",
+    "definition": "The relationship between the weight of dry coffee used and the final beverage produced."
+  },
+  {
+    "number": "002",
+    "title": "Extraction Yield",
+    "category": "ESP",
+    "definition": "The percentage of soluble material removed from coffee during brewing."
+  },
+  {
+    "number": "003",
+    "title": "Grind Size",
+    "category": "ESP",
+    "definition": "Particle size determines how quickly water extracts flavour from coffee."
+  }
+]

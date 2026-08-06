@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>The Coffee Deck</title>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+
+<link rel="stylesheet" href="styles.css">
+
+</head>
+
+<body>
+
+<nav>
+
+<div class="logo">
+
+☕ The Coffee Deck
+
+</div>
+
+<div id="count">
+
+0 Cards
+
+</div>
+
+</nav>
+
+<header class="hero">
+
+<h1>
+
+Learn Coffee.<br>
+One Card at a Time.
+
+</h1>
+
+<p>
+
+A modern learning system for coffee professionals.
+
+</p>
+
+<input
+id="search"
+placeholder="Search cards..."
+>
+
+<div id="filters"></div>
+
+</header>
+
+<section id="dashboard">
+
+<div class="stat">
+
+<h3>Total Cards</h3>
+
+<span id="totalCards">0</span>
+
+</div>
+
+<div class="stat">
+
+<h3>Bookmarks</h3>
+
+<span id="bookmarkCount">0</span>
+
+</div>
+
+<div class="stat">
+
+<h3>Recently Viewed</h3>
+
+<span id="recentCount">0</span>
+
+</div>
+
+</section>
+
+<main id="cards"></main>
+
+<script type="module" src="./src/app.js"></script>
+
+</body>
+</html>

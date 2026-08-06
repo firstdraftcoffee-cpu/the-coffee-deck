@@ -1,0 +1,269 @@
+*{
+    box-sizing:border-box;
+}
+
+body{
+
+    margin:0;
+
+    font-family:Inter,sans-serif;
+
+    background:#f5f2ed;
+
+    color:#222;
+
+}
+
+nav{
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    padding:24px 40px;
+
+    background:white;
+
+    box-shadow:0 2px 10px rgba(0,0,0,.08);
+
+}
+
+.logo{
+
+    font-size:28px;
+
+    font-weight:700;
+
+}
+
+.hero{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    padding:60px 40px;
+
+}
+
+.hero h1{
+
+    font-size:64px;
+
+    margin:0;
+
+}
+
+.hero p{
+
+    font-size:22px;
+
+    color:#666;
+
+    margin:20px 0;
+
+}
+
+#search{
+
+    width:100%;
+
+    max-width:700px;
+
+    padding:18px;
+
+    border-radius:14px;
+
+    border:1px solid #ddd;
+
+    font-size:18px;
+
+}
+
+#filters{
+
+    display:flex;
+
+    gap:12px;
+
+    flex-wrap:wrap;
+
+    margin-top:24px;
+
+}
+
+.filter{
+
+    padding:10px 18px;
+
+    border:none;
+
+    border-radius:999px;
+
+    cursor:pointer;
+
+}
+
+.filter.active{
+
+    background:#6d4323;
+
+    color:white;
+
+}
+
+#dashboard{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:20px;
+
+    max-width:1200px;
+
+    margin:auto;
+
+    padding:0 40px 40px;
+
+}
+
+.stat{
+
+    background:white;
+
+    border-radius:18px;
+
+    padding:24px;
+
+    box-shadow:0 4px 20px rgba(0,0,0,.08);
+
+}
+
+.stat span{
+
+    font-size:42px;
+
+    font-weight:700;
+
+}
+
+#cards{
+
+    max-width:1200px;
+
+    margin:auto;
+
+    padding:0 40px 80px;
+
+    display:grid;
+
+    grid-template-columns:repeat(auto-fill,minmax(300px,1fr));
+
+    gap:24px;
+
+}
+
+.card{
+
+    background:white;
+
+    border-radius:20px;
+
+    padding:28px;
+
+    cursor:pointer;
+
+    box-shadow:0 4px 20px rgba(0,0,0,.08);
+
+    transition:.2s;
+
+}
+
+.card:hover{
+
+    transform:translateY(-4px);
+
+}
+
+.card-number{
+
+    color:#8c5a31;
+
+    font-size:13px;
+
+    letter-spacing:.15em;
+
+}
+
+.category{
+
+    display:inline-block;
+
+    padding:6px 12px;
+
+    border-radius:999px;
+
+    background:#efe7de;
+
+    margin:12px 0;
+
+}
+
+#viewer{
+
+    position:fixed;
+
+    inset:0;
+
+    background:rgba(0,0,0,.65);
+
+    display:flex;
+
+    justify-content:center;
+
+    align-items:center;
+
+}
+
+.viewer-window{
+
+    background:white;
+
+    width:min(800px,92vw);
+
+    border-radius:22px;
+
+    padding:40px;
+
+}
+
+.viewer-buttons{
+
+    display:flex;
+
+    gap:12px;
+
+    margin-top:24px;
+
+}
+
+.viewer-buttons button{
+
+    flex:1;
+
+    padding:16px;
+
+    border:none;
+
+    border-radius:12px;
+
+    cursor:pointer;
+
+    background:#6d4323;
+
+    color:white;
+
+}
