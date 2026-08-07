@@ -1,20 +1,2282 @@
 [
   {
     "number": "001",
-    "title": "Brew Ratio",
-    "category": "ESP",
-    "definition": "The relationship between the weight of dry coffee used and the final beverage produced."
+    "title": "Coffee Cost",
+    "category": "BUS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "111.jpg",
+    "definition": "Coffee cost is the total ingredient cost required to produce a drink or retail coffee product.",
+    "why": "Understanding cost is essential for setting sustainable prices.",
+    "tip": "Calculate costs using actual recipes, not estimates.",
+    "mistake": "Looking only at the cost of roasted coffee.",
+    "challenge": "Calculate the coffee cost of an 18g espresso from a €24/kg coffee.",
+    "related": [
+      "112",
+      "113",
+      "115"
+    ],
+    "id": 1
   },
   {
     "number": "002",
-    "title": "Extraction Yield",
-    "category": "ESP",
-    "definition": "The percentage of soluble material removed from coffee during brewing."
+    "title": "Gross Margin",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "112.jpg",
+    "definition": "Gross margin is the percentage of revenue remaining after the direct cost of producing a product is deducted.",
+    "why": "Margin shows whether pricing can support labour, rent and other operating costs.",
+    "tip": "Track margin by product category.",
+    "mistake": "Confusing margin with markup.",
+    "challenge": "A drink sells for €4 and costs €1 to produce. Calculate its gross margin.",
+    "related": [
+      "111",
+      "113",
+      "114"
+    ],
+    "id": 2
   },
   {
     "number": "003",
+    "title": "Pricing",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "113.jpg",
+    "definition": "Pricing balances product cost, labour, overhead, market position and customer value.",
+    "why": "Strong sales cannot rescue a product that is consistently underpriced.",
+    "tip": "Review prices whenever major input costs change.",
+    "mistake": "Copying competitor prices without knowing your own costs.",
+    "challenge": "List five factors you would consider before increasing coffee prices.",
+    "related": [
+      "111",
+      "112",
+      "114"
+    ],
+    "id": 3
+  },
+  {
+    "number": "004",
+    "title": "Average Transaction Value",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "114.jpg",
+    "definition": "Average transaction value is the average amount spent by a customer in a single transaction.",
+    "why": "Increasing spend per customer can grow revenue without increasing footfall.",
+    "tip": "Measure it weekly and look for useful upselling opportunities.",
+    "mistake": "Pushing unwanted add-ons instead of improving customer value.",
+    "challenge": "If 200 transactions generate €1,400, calculate the average transaction value.",
+    "related": [
+      "112",
+      "113",
+      "115"
+    ],
+    "id": 4
+  },
+  {
+    "number": "005",
+    "title": "Waste Control",
+    "category": "BUS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "115.jpg",
+    "definition": "Waste control measures and reduces unnecessary loss of coffee, milk, food and packaging.",
+    "why": "Small amounts of repeated waste can significantly reduce profit.",
+    "tip": "Measure waste before trying to reduce it.",
+    "mistake": "Treating waste as an unavoidable cost of doing business.",
+    "challenge": "Identify five sources of waste behind a coffee bar.",
+    "related": [
+      "025",
+      "111",
+      "116"
+    ],
+    "id": 5
+  },
+  {
+    "number": "006",
+    "title": "Labour Cost",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": "116.jpg",
+    "definition": "Labour cost includes wages and the associated employment costs required to operate the business.",
+    "why": "Labour is usually one of a café's largest controllable expenses.",
+    "tip": "Schedule to expected demand rather than habit.",
+    "mistake": "Reducing staffing so aggressively that service and sales suffer.",
+    "challenge": "Why can cutting labour sometimes reduce profitability?",
+    "related": [
+      "114",
+      "115",
+      "117"
+    ],
+    "id": 6
+  },
+  {
+    "number": "007",
+    "title": "Stock Control",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "117.jpg",
+    "definition": "Stock control tracks inventory from purchase through storage, use and sale.",
+    "why": "Accurate stock records reveal waste, shortages and cash tied up in inventory.",
+    "tip": "Count important stock on a consistent schedule.",
+    "mistake": "Ordering from memory rather than actual usage.",
+    "challenge": "Which five coffee-bar items would you count most frequently?",
+    "related": [
+      "115",
+      "116",
+      "118"
+    ],
+    "id": 7
+  },
+  {
+    "number": "008",
+    "title": "Wholesale Coffee",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": "118.jpg",
+    "definition": "Wholesale coffee involves supplying coffee and often training, equipment support and service to other businesses.",
+    "why": "Successful wholesale relationships depend on more than selling bags of coffee.",
+    "tip": "Treat support and training as part of the product.",
+    "mistake": "Competing only on price.",
+    "challenge": "List five things a strong wholesale coffee programme should provide.",
+    "related": [
+      "117",
+      "119",
+      "120"
+    ],
+    "id": 8
+  },
+  {
+    "number": "009",
+    "title": "Customer Retention",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "119.jpg",
+    "definition": "Customer retention is the ability to turn first-time customers into repeat customers.",
+    "why": "Repeat customers create more predictable revenue and stronger businesses.",
+    "tip": "Consistency is one of the strongest retention tools.",
+    "mistake": "Focusing entirely on attracting new customers.",
+    "challenge": "Name three reasons a customer would return to the same café every week.",
+    "related": [
+      "114",
+      "118",
+      "120"
+    ],
+    "id": 9
+  },
+  {
+    "number": "010",
+    "title": "Coffee Value",
+    "category": "BUS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "120.jpg",
+    "definition": "Coffee value is the combination of product quality, service, experience and trust perceived by the customer.",
+    "why": "Customers judge value by the complete experience rather than ingredient cost alone.",
+    "tip": "Compete on experience and consistency, not simply price.",
+    "mistake": "Assuming cheaper automatically means better value.",
+    "challenge": "Describe what makes a €4 coffee feel worth €4.",
+    "related": [
+      "113",
+      "118",
+      "119"
+    ],
+    "id": 10
+  },
+  {
+    "number": "011",
+    "title": "Espresso Machine",
+    "category": "EQP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "036.jpg",
+    "definition": "An espresso machine forces hot water through finely ground coffee under controlled pressure and temperature.",
+    "why": "It is the heart of most specialty coffee bars.",
+    "tip": "Allow the machine to fully warm before service.",
+    "mistake": "Assuming a machine is stable immediately after switching on.",
+    "challenge": "Why is thermal stability important?",
+    "related": [
+      "037",
+      "041",
+      "045"
+    ],
+    "id": 11
+  },
+  {
+    "number": "012",
+    "title": "Portafilter",
+    "category": "EQP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "037.jpg",
+    "definition": "The portafilter holds the coffee basket during espresso extraction.",
+    "why": "A clean, hot portafilter improves extraction consistency.",
+    "tip": "Keep the portafilter locked into the group between shots.",
+    "mistake": "Leaving baskets wet before dosing.",
+    "challenge": "Why should a portafilter stay hot?",
+    "related": [
+      "036",
+      "038",
+      "042"
+    ],
+    "id": 12
+  },
+  {
+    "number": "013",
+    "title": "Basket",
+    "category": "EQP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "038.jpg",
+    "definition": "The basket holds the ground coffee inside the portafilter.",
+    "why": "Basket size determines the appropriate dose range.",
+    "tip": "Match the basket to the recipe.",
+    "mistake": "Overfilling or underfilling baskets.",
+    "challenge": "Why does headspace matter?",
+    "related": [
+      "037",
+      "039",
+      "043"
+    ],
+    "id": 13
+  },
+  {
+    "number": "014",
+    "title": "Shower Screen",
+    "category": "EQP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "039.jpg",
+    "definition": "The shower screen distributes brewing water evenly across the puck.",
+    "why": "Clean screens improve extraction consistency.",
+    "tip": "Brush the group after every shot.",
+    "mistake": "Ignoring daily cleaning.",
+    "challenge": "What happens when a shower screen blocks?",
+    "related": [
+      "038",
+      "040",
+      "044"
+    ],
+    "id": 14
+  },
+  {
+    "number": "015",
+    "title": "Steam Wand",
+    "category": "EQP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "040.jpg",
+    "definition": "The steam wand injects steam into milk for heating and texturing.",
+    "why": "Correct steam pressure creates consistent microfoam.",
+    "tip": "Purge before and after every use.",
+    "mistake": "Leaving milk residue on the wand.",
+    "challenge": "Why purge twice?",
+    "related": [
+      "024",
+      "039",
+      "041"
+    ],
+    "id": 15
+  },
+  {
+    "number": "016",
+    "title": "Group Head",
+    "category": "EQP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "041.jpg",
+    "definition": "The group head is where the portafilter locks into the espresso machine.",
+    "why": "Temperature stability begins here.",
+    "tip": "Flush when appropriate for your machine.",
+    "mistake": "Ignoring group cleanliness.",
+    "challenge": "What does flushing achieve?",
+    "related": [
+      "036",
+      "037",
+      "039"
+    ],
+    "id": 16
+  },
+  {
+    "number": "017",
+    "title": "Grinder Burrs",
+    "category": "EQP",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": "042.jpg",
+    "definition": "Burrs crush coffee into consistently sized particles.",
+    "why": "Particle consistency drives extraction quality.",
+    "tip": "Replace burrs before they become excessively worn.",
+    "mistake": "Dialling around worn burrs.",
+    "challenge": "How do worn burrs affect flavour?",
+    "related": [
+      "006",
+      "043",
+      "044"
+    ],
+    "id": 17
+  },
+  {
+    "number": "018",
+    "title": "Grinder Calibration",
+    "category": "EQP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "043.jpg",
+    "definition": "Calibration ensures grinder settings correspond accurately to burr position.",
+    "why": "Reliable calibration makes dialling in repeatable.",
+    "tip": "Calibrate after major maintenance.",
+    "mistake": "Assuming factory zero never changes.",
+    "challenge": "When should grinders be recalibrated?",
+    "related": [
+      "042",
+      "006",
+      "044"
+    ],
+    "id": 18
+  },
+  {
+    "number": "019",
+    "title": "Water Filter",
+    "category": "EQP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "044.jpg",
+    "definition": "Water filtration protects equipment and improves cup quality.",
+    "why": "Poor water damages machines and affects flavour.",
+    "tip": "Replace filters on schedule.",
+    "mistake": "Waiting until flavour changes.",
+    "challenge": "What problems does scale cause?",
+    "related": [
+      "042",
+      "045",
+      "091"
+    ],
+    "id": 19
+  },
+  {
+    "number": "020",
+    "title": "Preventive Maintenance",
+    "category": "EQP",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": "045.jpg",
+    "definition": "Routine maintenance prevents breakdowns and maintains coffee quality.",
+    "why": "Prevention is cheaper than emergency repairs.",
+    "tip": "Use written maintenance schedules.",
+    "mistake": "Waiting until equipment fails.",
+    "challenge": "Name five daily maintenance tasks.",
+    "related": [
+      "036",
+      "040",
+      "044"
+    ],
+    "id": 20
+  },
+  {
+    "number": "021",
+    "title": "Espresso",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "001.jpg",
+    "definition": "Espresso is a concentrated coffee beverage brewed by forcing hot water through finely ground coffee under pressure.",
+    "why": "Nearly every café drink begins with espresso.",
+    "tip": "Master consistency before chasing perfection.",
+    "mistake": "Judging espresso by crema alone.",
+    "challenge": "Explain espresso in one sentence.",
+    "related": [
+      "002",
+      "003",
+      "004"
+    ],
+    "id": 21
+  },
+  {
+    "number": "022",
+    "title": "Dose",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "002.jpg",
+    "definition": "The weight of dry coffee placed into the portafilter.",
+    "why": "Dose affects puck depth, flow and extraction.",
+    "tip": "Always weigh every dose.",
+    "mistake": "Changing dose before checking grind.",
+    "challenge": "Why does dose affect flow?",
+    "related": [
+      "001",
+      "003",
+      "004"
+    ],
+    "id": 22
+  },
+  {
+    "number": "023",
+    "title": "Yield",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "003.jpg",
+    "definition": "The weight of espresso produced in the cup.",
+    "why": "Yield determines brew ratio and strength.",
+    "tip": "Measure by weight, never volume.",
+    "mistake": "Stopping shots by colour.",
+    "challenge": "Calculate a 1:2 brew ratio.",
+    "related": [
+      "002",
+      "004",
+      "005"
+    ],
+    "id": 23
+  },
+  {
+    "number": "024",
+    "title": "Brew Ratio",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "004.jpg",
+    "definition": "The relationship between coffee dose and beverage yield.",
+    "why": "One of the biggest flavour controls.",
+    "tip": "Start around 1:2.",
+    "mistake": "Thinking ratios are fixed rules.",
+    "challenge": "Compare 1:1.5 and 1:3.",
+    "related": [
+      "003",
+      "005",
+      "006"
+    ],
+    "id": 24
+  },
+  {
+    "number": "025",
+    "title": "Extraction",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": "005.jpg",
+    "definition": "The removal of soluble compounds from coffee using water.",
+    "why": "Extraction determines sweetness, acidity and bitterness.",
+    "tip": "Taste every shot.",
+    "mistake": "Relying on shot time alone.",
+    "challenge": "Describe over-extraction.",
+    "related": [
+      "004",
+      "006",
+      "007"
+    ],
+    "id": 25
+  },
+  {
+    "number": "026",
     "title": "Grind Size",
     "category": "ESP",
-    "definition": "Particle size determines how quickly water extracts flavour from coffee."
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "006.jpg",
+    "definition": "The particle size produced by the grinder.",
+    "why": "The primary dial-in adjustment.",
+    "tip": "Move the grinder in small increments.",
+    "mistake": "Making huge adjustments.",
+    "challenge": "How does finer grind affect flow?",
+    "related": [
+      "005",
+      "007",
+      "008"
+    ],
+    "id": 26
+  },
+  {
+    "number": "027",
+    "title": "Shot Time",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "007.jpg",
+    "definition": "The time taken to reach the target beverage weight.",
+    "why": "Useful only alongside yield and taste.",
+    "tip": "Record every shot.",
+    "mistake": "Dialling in by time only.",
+    "challenge": "Can identical times taste different?",
+    "related": [
+      "006",
+      "008",
+      "009"
+    ],
+    "id": 27
+  },
+  {
+    "number": "028",
+    "title": "Channeling",
+    "category": "ESP",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "008.jpg",
+    "definition": "Uneven water flow through weak points in the puck.",
+    "why": "Causes uneven extraction.",
+    "tip": "Improve puck preparation.",
+    "mistake": "Ignoring distribution.",
+    "challenge": "Name three causes.",
+    "related": [
+      "007",
+      "009",
+      "010"
+    ],
+    "id": 28
+  },
+  {
+    "number": "029",
+    "title": "Distribution",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "009.jpg",
+    "definition": "Evenly spreading coffee before tamping.",
+    "why": "Encourages uniform extraction.",
+    "tip": "Keep the technique simple.",
+    "mistake": "Leaving voids in the puck.",
+    "challenge": "Why is even density important?",
+    "related": [
+      "008",
+      "010",
+      "011"
+    ],
+    "id": 29
+  },
+  {
+    "number": "030",
+    "title": "Tamping",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "010.jpg",
+    "definition": "Compressing the coffee into a level puck.",
+    "why": "Levelness is more important than force.",
+    "tip": "Focus on repeatability.",
+    "mistake": "Twisting aggressively.",
+    "challenge": "Why is a level tamp important?",
+    "related": [
+      "009",
+      "011",
+      "012"
+    ],
+    "id": 30
+  },
+  {
+    "number": "031",
+    "title": "Pre-infusion",
+    "category": "ESP",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "011.jpg",
+    "definition": "Low-pressure wetting of the puck before full brewing pressure.",
+    "why": "Can improve extraction uniformity.",
+    "tip": "Evaluate by taste, not theory.",
+    "mistake": "Assuming longer is always better.",
+    "challenge": "When is pre-infusion useful?",
+    "related": [
+      "010",
+      "012",
+      "013"
+    ],
+    "id": 31
+  },
+  {
+    "number": "032",
+    "title": "Pressure",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "012.jpg",
+    "definition": "The force pushing water through the coffee puck.",
+    "why": "Pressure influences flow and extraction.",
+    "tip": "Stable pressure matters more than maximum pressure.",
+    "mistake": "Blaming pressure for every problem.",
+    "challenge": "What is the traditional brew pressure?",
+    "related": [
+      "011",
+      "013",
+      "014"
+    ],
+    "id": 32
+  },
+  {
+    "number": "033",
+    "title": "Temperature",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "013.jpg",
+    "definition": "The brewing water temperature during extraction.",
+    "why": "Temperature changes extraction efficiency.",
+    "tip": "Change only one variable at a time.",
+    "mistake": "Making large temperature jumps.",
+    "challenge": "How does hotter water affect extraction?",
+    "related": [
+      "012",
+      "014",
+      "015"
+    ],
+    "id": 33
+  },
+  {
+    "number": "034",
+    "title": "Dialling In",
+    "category": "ESP",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "014.jpg",
+    "definition": "The process of adjusting espresso variables to achieve the desired flavour.",
+    "why": "Every coffee requires dialling in.",
+    "tip": "Change one variable at a time.",
+    "mistake": "Changing multiple variables together.",
+    "challenge": "List the normal dial-in sequence.",
+    "related": [
+      "013",
+      "015",
+      "006"
+    ],
+    "id": 34
+  },
+  {
+    "number": "035",
+    "title": "Recipe",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "015.jpg",
+    "definition": "A documented combination of dose, yield, time and temperature used to produce espresso consistently.",
+    "why": "Recipes allow repeatability across staff and locations.",
+    "tip": "Write every recipe down.",
+    "mistake": "Trusting memory.",
+    "challenge": "Build a recipe for an 18g dose.",
+    "related": [
+      "014",
+      "004",
+      "003"
+    ],
+    "id": 35
+  },
+  {
+    "number": "036",
+    "title": "Filter Coffee",
+    "category": "FIL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "026.jpg",
+    "definition": "Filter coffee is brewed by allowing gravity to draw water through a bed of ground coffee.",
+    "why": "It highlights clarity, sweetness and origin character more than espresso.",
+    "tip": "Focus on even extraction rather than speed.",
+    "mistake": "Grinding too fine.",
+    "challenge": "List three differences between espresso and filter coffee.",
+    "related": [
+      "027",
+      "028",
+      "029"
+    ],
+    "id": 36
+  },
+  {
+    "number": "037",
+    "title": "Bloom",
+    "category": "FIL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "027.jpg",
+    "definition": "The bloom is the first pour, allowing carbon dioxide to escape before the main extraction.",
+    "why": "Proper blooming promotes even saturation.",
+    "tip": "Use roughly twice the coffee weight in water.",
+    "mistake": "Skipping the bloom.",
+    "challenge": "Why do fresh coffees bloom more?",
+    "related": [
+      "026",
+      "028",
+      "030"
+    ],
+    "id": 37
+  },
+  {
+    "number": "038",
+    "title": "Pouring Technique",
+    "category": "FIL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "028.jpg",
+    "definition": "Controlled pouring maintains an even slurry and promotes uniform extraction.",
+    "why": "Uneven pours create uneven extraction.",
+    "tip": "Pour slowly in consistent circles.",
+    "mistake": "Pouring directly onto the filter paper.",
+    "challenge": "Why avoid pouring down the sides?",
+    "related": [
+      "027",
+      "029",
+      "031"
+    ],
+    "id": 38
+  },
+  {
+    "number": "039",
+    "title": "Agitation",
+    "category": "FIL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "029.jpg",
+    "definition": "Agitation is movement of water or coffee during brewing.",
+    "why": "Too much or too little affects extraction.",
+    "tip": "Keep agitation intentional.",
+    "mistake": "Stirring excessively.",
+    "challenge": "Name three sources of agitation.",
+    "related": [
+      "028",
+      "030",
+      "032"
+    ],
+    "id": 39
+  },
+  {
+    "number": "040",
+    "title": "Drawdown",
+    "category": "FIL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "030.jpg",
+    "definition": "Drawdown is the final stage where water drains through the coffee bed.",
+    "why": "It influences contact time and extraction.",
+    "tip": "Watch for sudden stalls.",
+    "mistake": "Ignoring drawdown time.",
+    "challenge": "What causes a stalled drawdown?",
+    "related": [
+      "029",
+      "031",
+      "033"
+    ],
+    "id": 40
+  },
+  {
+    "number": "041",
+    "title": "Bypass",
+    "category": "FIL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "031.jpg",
+    "definition": "Bypass is adding water after brewing to adjust strength.",
+    "why": "It changes strength without altering extraction.",
+    "tip": "Record any bypass used.",
+    "mistake": "Confusing bypass with under-extraction.",
+    "challenge": "When would bypass be useful?",
+    "related": [
+      "030",
+      "032",
+      "034"
+    ],
+    "id": 41
+  },
+  {
+    "number": "042",
+    "title": "Extraction Time",
+    "category": "FIL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "032.jpg",
+    "definition": "The total time from first pour until the brewer finishes draining.",
+    "why": "Time provides useful brewing feedback.",
+    "tip": "Compare time with taste.",
+    "mistake": "Treating time as the goal.",
+    "challenge": "Can two brews with identical times taste different?",
+    "related": [
+      "031",
+      "033",
+      "035"
+    ],
+    "id": 42
+  },
+  {
+    "number": "043",
+    "title": "Paper Filters",
+    "category": "FIL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "033.jpg",
+    "definition": "Paper filters trap oils and fine particles, producing a cleaner cup.",
+    "why": "Filter choice changes flavour and body.",
+    "tip": "Rinse paper filters before brewing.",
+    "mistake": "Skipping the rinse.",
+    "challenge": "Why rinse paper filters?",
+    "related": [
+      "032",
+      "034",
+      "026"
+    ],
+    "id": 43
+  },
+  {
+    "number": "044",
+    "title": "Metal Filters",
+    "category": "FIL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "034.jpg",
+    "definition": "Metal filters allow more oils and fines into the cup.",
+    "why": "This increases body and mouthfeel.",
+    "tip": "Adjust grind slightly coarser if needed.",
+    "mistake": "Expecting paper-filter clarity.",
+    "challenge": "Compare metal and paper filters.",
+    "related": [
+      "033",
+      "035",
+      "026"
+    ],
+    "id": 44
+  },
+  {
+    "number": "045",
+    "title": "Brew Ratio",
+    "category": "FIL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "035.jpg",
+    "definition": "The relationship between coffee dose and brewing water.",
+    "why": "It determines beverage strength.",
+    "tip": "Start around 60g/L.",
+    "mistake": "Changing ratio and grind simultaneously.",
+    "challenge": "Calculate a 300ml brew using 60g/L.",
+    "related": [
+      "026",
+      "027",
+      "032"
+    ],
+    "id": 45
+  },
+  {
+    "number": "046",
+    "title": "Green Coffee",
+    "category": "GRN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "066.jpg",
+    "definition": "Green coffee is coffee that has been processed, dried and prepared for export before roasting.",
+    "why": "Every flavour in roasted coffee begins with green coffee quality.",
+    "tip": "Inspect green coffee before roasting.",
+    "mistake": "Judging quality from origin alone.",
+    "challenge": "What characteristics define high-quality green coffee?",
+    "related": [
+      "067",
+      "068",
+      "070"
+    ],
+    "id": 46
+  },
+  {
+    "number": "047",
+    "title": "Moisture Content",
+    "category": "GRN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "067.jpg",
+    "definition": "Moisture content is the percentage of water contained within green coffee.",
+    "why": "It affects roast behaviour, shelf life and stability.",
+    "tip": "Most specialty coffees perform best around 10–12% moisture.",
+    "mistake": "Ignoring moisture when profiling.",
+    "challenge": "How does high moisture affect roasting?",
+    "related": [
+      "066",
+      "068",
+      "071"
+    ],
+    "id": 47
+  },
+  {
+    "number": "048",
+    "title": "Density",
+    "category": "GRN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "068.jpg",
+    "definition": "Density measures how much mass is contained within a given volume of coffee.",
+    "why": "Density influences heat transfer during roasting.",
+    "tip": "Higher-density coffees often tolerate more energy early in the roast.",
+    "mistake": "Treating all origins the same.",
+    "challenge": "Which origins commonly produce high-density coffees?",
+    "related": [
+      "067",
+      "069",
+      "072"
+    ],
+    "id": 48
+  },
+  {
+    "number": "049",
+    "title": "Screen Size",
+    "category": "GRN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "069.jpg",
+    "definition": "Screen size refers to bean size measured using graded sieves.",
+    "why": "Uniform size generally promotes more even roasting.",
+    "tip": "Size is not the same as quality.",
+    "mistake": "Paying premiums purely for large beans.",
+    "challenge": "What does Screen 17 mean?",
+    "related": [
+      "068",
+      "070",
+      "073"
+    ],
+    "id": 49
+  },
+  {
+    "number": "050",
+    "title": "Water Activity",
+    "category": "GRN",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "070.jpg",
+    "definition": "Water activity measures how available moisture is for microbial growth.",
+    "why": "It predicts storage stability better than moisture alone.",
+    "tip": "Monitor water activity alongside moisture.",
+    "mistake": "Only measuring moisture percentage.",
+    "challenge": "Why is water activity important for long-term storage?",
+    "related": [
+      "066",
+      "067",
+      "071"
+    ],
+    "id": 50
+  },
+  {
+    "number": "051",
+    "title": "Storage",
+    "category": "GRN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "071.jpg",
+    "definition": "Green coffee should be stored in cool, dry, odour-free conditions.",
+    "why": "Poor storage accelerates quality loss.",
+    "tip": "Avoid direct sunlight and fluctuating humidity.",
+    "mistake": "Storing coffee beside strong smells.",
+    "challenge": "List three ideal storage conditions.",
+    "related": [
+      "070",
+      "072",
+      "074"
+    ],
+    "id": 51
+  },
+  {
+    "number": "052",
+    "title": "Crop Year",
+    "category": "GRN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "072.jpg",
+    "definition": "Crop year identifies when the coffee was harvested.",
+    "why": "Fresh crop coffees generally taste brighter and more vibrant.",
+    "tip": "Know the harvest calendar for your origins.",
+    "mistake": "Selling old crop as fresh crop.",
+    "challenge": "Why do harvest seasons differ globally?",
+    "related": [
+      "071",
+      "073",
+      "075"
+    ],
+    "id": 52
+  },
+  {
+    "number": "053",
+    "title": "Defects",
+    "category": "GRN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "073.jpg",
+    "definition": "Defects are physical imperfections that reduce coffee quality.",
+    "why": "Sorting defects improves consistency and flavour.",
+    "tip": "Learn the major SCA defect categories.",
+    "mistake": "Ignoring insect damage.",
+    "challenge": "Name three primary defects.",
+    "related": [
+      "069",
+      "072",
+      "074"
+    ],
+    "id": 53
+  },
+  {
+    "number": "054",
+    "title": "Sample Roasting",
+    "category": "GRN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "074.jpg",
+    "definition": "Sample roasting evaluates coffee quality before production roasting.",
+    "why": "It supports buying decisions and quality control.",
+    "tip": "Keep sample roast profiles consistent.",
+    "mistake": "Changing sample profiles between coffees.",
+    "challenge": "Why are sample roasts intentionally light?",
+    "related": [
+      "073",
+      "075",
+      "089"
+    ],
+    "id": 54
+  },
+  {
+    "number": "055",
+    "title": "Green Coffee Buying",
+    "category": "GRN",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "075.jpg",
+    "definition": "Green buying balances quality, availability, cost and customer needs.",
+    "why": "Successful buying affects every coffee sold.",
+    "tip": "Buy with purpose, not emotion.",
+    "mistake": "Buying purely because a coffee scores highly.",
+    "challenge": "What factors would you consider before purchasing 30 bags?",
+    "related": [
+      "074",
+      "066",
+      "072"
+    ],
+    "id": 55
+  },
+  {
+    "number": "056",
+    "title": "Milk Composition",
+    "category": "MLK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "016.jpg",
+    "definition": "Milk is made primarily of water, fat, proteins, lactose and minerals.",
+    "why": "Knowing how milk is built helps explain steaming, sweetness and foam quality.",
+    "tip": "Protein creates foam. Fat contributes texture and mouthfeel.",
+    "mistake": "Assuming fat creates foam.",
+    "challenge": "Which milk components are most responsible for microfoam?",
+    "related": [
+      "017",
+      "018",
+      "020"
+    ],
+    "id": 56
+  },
+  {
+    "number": "057",
+    "title": "Milk Temperature",
+    "category": "MLK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "017.jpg",
+    "definition": "Most milk drinks are served between 55°C and 65°C depending on the beverage and customer preference.",
+    "why": "Temperature changes sweetness, texture and drinkability.",
+    "tip": "Use your thermometer until you consistently recognise temperature by feel.",
+    "mistake": "Overheating milk above 70°C.",
+    "challenge": "Why does overheated milk taste less sweet?",
+    "related": [
+      "016",
+      "018",
+      "021"
+    ],
+    "id": 57
+  },
+  {
+    "number": "058",
+    "title": "Stretching",
+    "category": "MLK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "018.jpg",
+    "definition": "Stretching is the introduction of air during the first stage of steaming.",
+    "why": "The amount of stretching determines the final foam volume.",
+    "tip": "Introduce air early, then stop.",
+    "mistake": "Adding air throughout the entire steaming process.",
+    "challenge": "When should stretching stop?",
+    "related": [
+      "017",
+      "019",
+      "020"
+    ],
+    "id": 58
+  },
+  {
+    "number": "059",
+    "title": "Texturing",
+    "category": "MLK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "019.jpg",
+    "definition": "Texturing creates a whirlpool that folds air evenly into the milk.",
+    "why": "A smooth vortex produces glossy microfoam.",
+    "tip": "Listen for a gentle paper-tearing sound.",
+    "mistake": "Creating large bubbles.",
+    "challenge": "Describe perfect milk texture.",
+    "related": [
+      "018",
+      "020",
+      "021"
+    ],
+    "id": 59
+  },
+  {
+    "number": "060",
+    "title": "Microfoam",
+    "category": "MLK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "020.jpg",
+    "definition": "Microfoam is milk containing extremely fine, evenly distributed bubbles.",
+    "why": "It creates sweetness, body and latte art.",
+    "tip": "Think of wet white paint.",
+    "mistake": "Confusing froth with microfoam.",
+    "challenge": "How should perfect microfoam pour?",
+    "related": [
+      "019",
+      "021",
+      "022"
+    ],
+    "id": 60
+  },
+  {
+    "number": "061",
+    "title": "Latte Art",
+    "category": "MLK",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": "021.jpg",
+    "definition": "Latte art combines espresso, milk texture and pouring technique.",
+    "why": "Good latte art is evidence of good milk preparation.",
+    "tip": "Perfect texture before learning advanced patterns.",
+    "mistake": "Focusing on patterns instead of milk quality.",
+    "challenge": "Name three classic latte art designs.",
+    "related": [
+      "020",
+      "022",
+      "023"
+    ],
+    "id": 61
+  },
+  {
+    "number": "062",
+    "title": "Alternative Milks",
+    "category": "MLK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "022.jpg",
+    "definition": "Plant-based milks steam differently because their proteins and fats differ from dairy milk.",
+    "why": "Technique often needs adjusting between products.",
+    "tip": "Always read the manufacturer's recommendations.",
+    "mistake": "Steaming oat, soy and almond milk identically.",
+    "challenge": "Which alternative milk is usually easiest for latte art?",
+    "related": [
+      "021",
+      "023",
+      "024"
+    ],
+    "id": 62
+  },
+  {
+    "number": "063",
+    "title": "Milk Pitchers",
+    "category": "MLK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "023.jpg",
+    "definition": "Choose a pitcher size that matches the drink volume.",
+    "why": "Correct pitcher size improves texture and reduces waste.",
+    "tip": "Fill the pitcher to around one-third before steaming.",
+    "mistake": "Using one large pitcher for every drink.",
+    "challenge": "Why does pitcher size matter?",
+    "related": [
+      "022",
+      "024",
+      "025"
+    ],
+    "id": 63
+  },
+  {
+    "number": "064",
+    "title": "Steam Wand Hygiene",
+    "category": "MLK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "024.jpg",
+    "definition": "Steam wands should be purged before and after every use and wiped immediately.",
+    "why": "Milk residue becomes a food safety risk very quickly.",
+    "tip": "Purge, wipe, purge.",
+    "mistake": "Leaving milk to dry on the steam wand.",
+    "challenge": "Why should the wand be purged before steaming?",
+    "related": [
+      "023",
+      "025",
+      "017"
+    ],
+    "id": 64
+  },
+  {
+    "number": "065",
+    "title": "Milk Waste",
+    "category": "MLK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "025.jpg",
+    "definition": "Accurate milk measurement reduces waste and improves profitability.",
+    "why": "Milk is one of the highest ongoing costs in most cafés.",
+    "tip": "Steam only what you need.",
+    "mistake": "Overfilling pitchers every drink.",
+    "challenge": "Calculate the weekly cost of wasting 100ml per drink.",
+    "related": [
+      "024",
+      "023",
+      "020"
+    ],
+    "id": 65
+  },
+  {
+    "number": "066",
+    "title": "Coffee Origin",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "086.jpg",
+    "definition": "Origin refers to the country or region where coffee is grown.",
+    "why": "Climate, altitude, soil and processing all influence flavour.",
+    "tip": "Think of origin as one part of a coffee's story.",
+    "mistake": "Assuming every coffee from one country tastes the same.",
+    "challenge": "Name three major coffee-producing countries.",
+    "related": [
+      "087",
+      "088",
+      "089"
+    ],
+    "id": 66
+  },
+  {
+    "number": "067",
+    "title": "Altitude",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "087.jpg",
+    "definition": "Altitude influences bean development, density and flavour.",
+    "why": "Higher elevations often produce coffees with greater acidity and complexity.",
+    "tip": "Compare coffees from different elevations within the same origin.",
+    "mistake": "Believing higher altitude always means better coffee.",
+    "challenge": "Why does altitude affect bean density?",
+    "related": [
+      "086",
+      "088",
+      "090"
+    ],
+    "id": 67
+  },
+  {
+    "number": "068",
+    "title": "Terroir",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "088.jpg",
+    "definition": "Terroir describes the combined environmental factors that influence coffee flavour.",
+    "why": "It explains why coffees from different regions taste unique.",
+    "tip": "Consider soil, rainfall and climate together.",
+    "mistake": "Using terroir to explain every flavour difference.",
+    "challenge": "List four factors that make up terroir.",
+    "related": [
+      "086",
+      "087",
+      "089"
+    ],
+    "id": 68
+  },
+  {
+    "number": "069",
+    "title": "Coffee Variety",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "089.jpg",
+    "definition": "A variety is a genetically distinct type of coffee plant.",
+    "why": "Different varieties produce different flavour profiles and yields.",
+    "tip": "Learn common varieties like Bourbon, Typica, SL28 and Gesha.",
+    "mistake": "Confusing variety with origin.",
+    "challenge": "Name four coffee varieties.",
+    "related": [
+      "088",
+      "090",
+      "074"
+    ],
+    "id": 69
+  },
+  {
+    "number": "070",
+    "title": "Harvest Season",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "090.jpg",
+    "definition": "Harvest seasons vary by country and climate throughout the year.",
+    "why": "Knowing harvest calendars helps roasters buy fresher coffee.",
+    "tip": "Track harvest dates for your main suppliers.",
+    "mistake": "Ignoring crop season when purchasing.",
+    "challenge": "Why do Brazil and Ethiopia harvest at different times?",
+    "related": [
+      "072",
+      "086",
+      "087"
+    ],
+    "id": 70
+  },
+  {
+    "number": "071",
+    "title": "Central America",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "091.jpg",
+    "definition": "Central American coffees are often clean, balanced and bright.",
+    "why": "They form the backbone of many specialty espresso blends.",
+    "tip": "Compare Guatemala, Costa Rica and El Salvador side by side.",
+    "mistake": "Assuming all Central American coffees taste identical.",
+    "challenge": "Describe a typical Guatemalan profile.",
+    "related": [
+      "086",
+      "092",
+      "093"
+    ],
+    "id": 71
+  },
+  {
+    "number": "072",
+    "title": "Africa",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "092.jpg",
+    "definition": "African coffees are renowned for vibrant fruit, floral aromas and lively acidity.",
+    "why": "They often define modern specialty coffee.",
+    "tip": "Taste Ethiopia and Kenya together to compare styles.",
+    "mistake": "Expecting every African coffee to be fruity.",
+    "challenge": "Compare Ethiopia with Kenya.",
+    "related": [
+      "091",
+      "093",
+      "094"
+    ],
+    "id": 72
+  },
+  {
+    "number": "073",
+    "title": "South America",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "093.jpg",
+    "definition": "South American coffees commonly offer chocolate, nuts and caramel sweetness.",
+    "why": "They are widely used in espresso blends.",
+    "tip": "Brazil is often chosen for body and sweetness.",
+    "mistake": "Thinking South American coffees lack complexity.",
+    "challenge": "Why is Brazil popular in espresso?",
+    "related": [
+      "091",
+      "092",
+      "094"
+    ],
+    "id": 73
+  },
+  {
+    "number": "074",
+    "title": "Asia-Pacific",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "094.jpg",
+    "definition": "Asia-Pacific origins produce diverse flavour profiles ranging from syrupy Indonesian coffees to clean Papuan lots.",
+    "why": "The region offers exceptional diversity.",
+    "tip": "Taste Sumatra beside Papua New Guinea.",
+    "mistake": "Grouping all Asian coffees together.",
+    "challenge": "Name three producing countries in Asia-Pacific.",
+    "related": [
+      "092",
+      "093",
+      "095"
+    ],
+    "id": 74
+  },
+  {
+    "number": "075",
+    "title": "Single Origin vs Blend",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "095.jpg",
+    "definition": "Single origin coffees come from one defined source, while blends combine multiple coffees.",
+    "why": "Both have strengths depending on the desired flavour and consistency.",
+    "tip": "Judge the cup, not the label.",
+    "mistake": "Assuming single origin is always better.",
+    "challenge": "When would you choose a blend over a single origin?",
+    "related": [
+      "086",
+      "089",
+      "093"
+    ],
+    "id": 75
+  },
+  {
+    "number": "076",
+    "title": "Coffee Processing",
+    "category": "PRC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "076.jpg",
+    "definition": "Processing is the method used to remove the coffee seed from the fruit after harvesting.",
+    "why": "Processing has a major influence on flavour, body and acidity.",
+    "tip": "Always consider processing alongside origin and variety.",
+    "mistake": "Assuming origin alone determines flavour.",
+    "challenge": "Name the three most common processing methods.",
+    "related": [
+      "077",
+      "078",
+      "079"
+    ],
+    "id": 76
+  },
+  {
+    "number": "077",
+    "title": "Washed Process",
+    "category": "PRC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "077.jpg",
+    "definition": "Washed coffees have the fruit removed before drying, producing clean and transparent flavours.",
+    "why": "This process highlights origin character and acidity.",
+    "tip": "Expect clarity and precision in the cup.",
+    "mistake": "Assuming washed means better quality.",
+    "challenge": "What flavours are commonly associated with washed coffees?",
+    "related": [
+      "076",
+      "078",
+      "080"
+    ],
+    "id": 77
+  },
+  {
+    "number": "078",
+    "title": "Natural Process",
+    "category": "PRC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "078.jpg",
+    "definition": "Natural coffees are dried with the fruit intact before milling.",
+    "why": "Fruit contact often increases sweetness and body.",
+    "tip": "Expect berry and tropical fruit characteristics.",
+    "mistake": "Thinking all naturals taste fermented.",
+    "challenge": "Why are naturals usually sweeter than washed coffees?",
+    "related": [
+      "077",
+      "079",
+      "081"
+    ],
+    "id": 78
+  },
+  {
+    "number": "079",
+    "title": "Honey Process",
+    "category": "PRC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "079.jpg",
+    "definition": "Honey processing leaves some sticky mucilage on the seed during drying.",
+    "why": "It often balances clarity with sweetness.",
+    "tip": "Honey refers to the sticky mucilage, not added honey.",
+    "mistake": "Assuming honey coffees contain honey.",
+    "challenge": "Describe a typical honey processed flavour profile.",
+    "related": [
+      "078",
+      "080",
+      "082"
+    ],
+    "id": 79
+  },
+  {
+    "number": "080",
+    "title": "Anaerobic Fermentation",
+    "category": "PRC",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "080.jpg",
+    "definition": "Anaerobic processing ferments coffee in sealed tanks with limited oxygen.",
+    "why": "It can produce distinctive flavour profiles.",
+    "tip": "Judge the cup, not the process name.",
+    "mistake": "Assuming anaerobic coffees are automatically superior.",
+    "challenge": "What risks come with anaerobic processing?",
+    "related": [
+      "079",
+      "081",
+      "083"
+    ],
+    "id": 80
+  },
+  {
+    "number": "081",
+    "title": "Fermentation",
+    "category": "PRC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "081.jpg",
+    "definition": "Fermentation uses naturally occurring microorganisms to break down fruit material.",
+    "why": "Careful fermentation improves flavour complexity.",
+    "tip": "Fermentation is a controlled process, not spoilage.",
+    "mistake": "Thinking all fermentation flavours are defects.",
+    "challenge": "Name two variables affecting fermentation.",
+    "related": [
+      "080",
+      "082",
+      "084"
+    ],
+    "id": 81
+  },
+  {
+    "number": "082",
+    "title": "Drying",
+    "category": "PRC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "082.jpg",
+    "definition": "Drying reduces moisture to a safe storage level after processing.",
+    "why": "Even drying preserves quality.",
+    "tip": "Dry slowly and evenly.",
+    "mistake": "Drying too quickly.",
+    "challenge": "What moisture range is normally targeted?",
+    "related": [
+      "081",
+      "083",
+      "067"
+    ],
+    "id": 82
+  },
+  {
+    "number": "083",
+    "title": "Raised Beds",
+    "category": "PRC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "083.jpg",
+    "definition": "Raised beds improve airflow and drying consistency.",
+    "why": "They reduce the risk of mould and uneven drying.",
+    "tip": "Turn coffee regularly.",
+    "mistake": "Leaving coffee untouched for long periods.",
+    "challenge": "Why are raised beds preferred over concrete patios?",
+    "related": [
+      "082",
+      "084",
+      "085"
+    ],
+    "id": 83
+  },
+  {
+    "number": "084",
+    "title": "Mechanical Drying",
+    "category": "PRC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "084.jpg",
+    "definition": "Mechanical dryers reduce moisture when weather conditions are unsuitable.",
+    "why": "They improve reliability but require careful control.",
+    "tip": "Avoid excessive drying temperatures.",
+    "mistake": "Drying too aggressively.",
+    "challenge": "When is mechanical drying most useful?",
+    "related": [
+      "083",
+      "085",
+      "082"
+    ],
+    "id": 84
+  },
+  {
+    "number": "085",
+    "title": "Processing Selection",
+    "category": "PRC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "085.jpg",
+    "definition": "Processing choice depends on climate, variety, infrastructure and market demand.",
+    "why": "Different processes create different commercial opportunities.",
+    "tip": "Choose processing to suit the coffee, not trends.",
+    "mistake": "Following fashion instead of quality.",
+    "challenge": "How would you choose between washed and natural processing?",
+    "related": [
+      "076",
+      "077",
+      "078"
+    ],
+    "id": 85
+  },
+  {
+    "number": "086",
+    "title": "Roasting",
+    "category": "RST",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "096.jpg",
+    "definition": "Coffee roasting transforms green coffee into roasted coffee through controlled application of heat.",
+    "why": "Roasting unlocks aroma, sweetness and solubility while preserving the coffee's origin character.",
+    "tip": "Your goal is consistency, not simply reaching a colour.",
+    "mistake": "Roasting purely by time or colour.",
+    "challenge": "Name the three major stages of a roast.",
+    "related": [
+      "097",
+      "098",
+      "099"
+    ],
+    "id": 86
+  },
+  {
+    "number": "087",
+    "title": "Charge Temperature",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "097.jpg",
+    "definition": "Charge temperature is the drum temperature when green coffee is introduced.",
+    "why": "It determines how energy enters the roast from the very beginning.",
+    "tip": "Choose charge temperature according to batch size and bean density.",
+    "mistake": "Using the same charge temperature for every coffee.",
+    "challenge": "Why might a dense washed Ethiopian require a different charge temperature than a Brazilian natural?",
+    "related": [
+      "096",
+      "098",
+      "100"
+    ],
+    "id": 87
+  },
+  {
+    "number": "088",
+    "title": "Turning Point",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "098.jpg",
+    "definition": "The turning point is the moment bean temperature stops falling and begins rising.",
+    "why": "It marks the start of effective heat gain.",
+    "tip": "Observe it as a reference point rather than a target.",
+    "mistake": "Trying to force an early turning point.",
+    "challenge": "What factors influence turning point?",
+    "related": [
+      "097",
+      "099",
+      "101"
+    ],
+    "id": 88
+  },
+  {
+    "number": "089",
+    "title": "Drying Phase",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "099.jpg",
+    "definition": "The drying phase removes free moisture before browning reactions begin.",
+    "why": "A stable drying phase creates a foundation for an even roast.",
+    "tip": "Build momentum without rushing.",
+    "mistake": "Applying excessive heat too early.",
+    "challenge": "When does drying normally finish?",
+    "related": [
+      "098",
+      "100",
+      "102"
+    ],
+    "id": 89
+  },
+  {
+    "number": "090",
+    "title": "Maillard Reaction",
+    "category": "RST",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "100.jpg",
+    "definition": "The Maillard reaction creates hundreds of aroma and flavour compounds through reactions between sugars and amino acids.",
+    "why": "Much of coffee's sweetness and complexity develops here.",
+    "tip": "Manage energy carefully during this stage.",
+    "mistake": "Rushing through Maillard.",
+    "challenge": "How does Maillard influence sweetness?",
+    "related": [
+      "099",
+      "101",
+      "103"
+    ],
+    "id": 90
+  },
+  {
+    "number": "091",
+    "title": "First Crack",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "101.jpg",
+    "definition": "First crack occurs when internal pressure causes the bean structure to fracture audibly.",
+    "why": "It marks the beginning of development.",
+    "tip": "Listen as well as watch your data.",
+    "mistake": "Treating first crack as the finish line.",
+    "challenge": "Why does first crack occur?",
+    "related": [
+      "100",
+      "102",
+      "104"
+    ],
+    "id": 91
+  },
+  {
+    "number": "092",
+    "title": "Development Time",
+    "category": "RST",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "102.jpg",
+    "definition": "Development time is the period between first crack and the end of the roast.",
+    "why": "It strongly influences sweetness, acidity and roast character.",
+    "tip": "Judge development by flavour, not percentage alone.",
+    "mistake": "Chasing arbitrary development ratios.",
+    "challenge": "How can underdevelopment taste in the cup?",
+    "related": [
+      "101",
+      "103",
+      "105"
+    ],
+    "id": 92
+  },
+  {
+    "number": "093",
+    "title": "Rate of Rise",
+    "category": "RST",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "103.jpg",
+    "definition": "Rate of Rise (RoR) measures how quickly bean temperature is increasing.",
+    "why": "It helps the roaster manage roast momentum.",
+    "tip": "Aim for a smooth, steadily declining RoR.",
+    "mistake": "Allowing RoR to crash or flick dramatically.",
+    "challenge": "Explain what causes an RoR crash.",
+    "related": [
+      "100",
+      "102",
+      "104"
+    ],
+    "id": 93
+  },
+  {
+    "number": "094",
+    "title": "End Temperature",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "104.jpg",
+    "definition": "End temperature is the bean temperature at drop.",
+    "why": "It contributes to roast level but never tells the whole story.",
+    "tip": "Taste every roast rather than relying on numbers.",
+    "mistake": "Comparing end temperatures across different probe setups.",
+    "challenge": "Why can't end temperature alone define roast level?",
+    "related": [
+      "101",
+      "103",
+      "105"
+    ],
+    "id": 94
+  },
+  {
+    "number": "095",
+    "title": "Drop",
+    "category": "RST",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "105.jpg",
+    "definition": "Drop is the moment roasted coffee leaves the drum and enters cooling.",
+    "why": "Roasting continues until cooling begins.",
+    "tip": "Cool as quickly as possible without damaging the beans.",
+    "mistake": "Slow cooling.",
+    "challenge": "Why is rapid cooling important?",
+    "related": [
+      "104",
+      "106",
+      "107"
+    ],
+    "id": 95
+  },
+  {
+    "number": "096",
+    "title": "Roast Colour",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "106.jpg",
+    "definition": "Roast colour provides a measurable indication of roast degree.",
+    "why": "Colour supports consistency between batches.",
+    "tip": "Use colour alongside cupping.",
+    "mistake": "Roasting to colour alone.",
+    "challenge": "Why should colour never replace tasting?",
+    "related": [
+      "105",
+      "107",
+      "108"
+    ],
+    "id": 96
+  },
+  {
+    "number": "097",
+    "title": "Resting Coffee",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "107.jpg",
+    "definition": "Freshly roasted coffee requires time for carbon dioxide to escape before brewing.",
+    "why": "Resting improves flavour stability and extraction.",
+    "tip": "Experiment with different resting periods.",
+    "mistake": "Serving every coffee immediately after roasting.",
+    "challenge": "Why do espresso and filter coffees often require different resting times?",
+    "related": [
+      "105",
+      "108",
+      "109"
+    ],
+    "id": 97
+  },
+  {
+    "number": "098",
+    "title": "Roast Defects",
+    "category": "RST",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "108.jpg",
+    "definition": "Roast defects include scorching, tipping, baking, underdevelopment and overdevelopment.",
+    "why": "Recognising defects speeds up troubleshooting.",
+    "tip": "Link every defect back to roast energy management.",
+    "mistake": "Trying to diagnose defects by colour alone.",
+    "challenge": "Name five roast defects.",
+    "related": [
+      "106",
+      "109",
+      "110"
+    ],
+    "id": 98
+  },
+  {
+    "number": "099",
+    "title": "Cupping Roasts",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "109.jpg",
+    "definition": "Cupping validates whether roasting decisions achieved the intended flavour profile.",
+    "why": "Roasting without tasting is guesswork.",
+    "tip": "Cup every production roast regularly.",
+    "mistake": "Evaluating roasts from espresso alone.",
+    "challenge": "What information should you record during a roast cupping?",
+    "related": [
+      "107",
+      "108",
+      "110"
+    ],
+    "id": 99
+  },
+  {
+    "number": "100",
+    "title": "Roast Consistency",
+    "category": "RST",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "110.jpg",
+    "definition": "Consistency is achieved by repeating successful energy management across every batch.",
+    "why": "Consistency builds trust with customers.",
+    "tip": "Measure everything. Change one variable at a time.",
+    "mistake": "Making multiple adjustments simultaneously.",
+    "challenge": "What are the five most important roast variables to monitor?",
+    "related": [
+      "103",
+      "108",
+      "109"
+    ],
+    "id": 100
+  },
+  {
+    "number": "101",
+    "title": "Sensory Evaluation",
+    "category": "SEN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "056.jpg",
+    "definition": "Sensory evaluation is the systematic assessment of coffee using sight, aroma, taste and mouthfeel.",
+    "why": "Consistent sensory skills improve quality control and buying decisions.",
+    "tip": "Taste with purpose, not just preference.",
+    "mistake": "Confusing personal preference with objective quality.",
+    "challenge": "List the five senses involved in coffee evaluation.",
+    "related": [
+      "057",
+      "058",
+      "059"
+    ],
+    "id": 101
+  },
+  {
+    "number": "102",
+    "title": "Fragrance vs Aroma",
+    "category": "SEN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "057.jpg",
+    "definition": "Fragrance describes the smell of dry coffee, while aroma describes the smell after water is added.",
+    "why": "Each stage reveals different volatile compounds.",
+    "tip": "Spend time smelling before tasting.",
+    "mistake": "Using the terms interchangeably.",
+    "challenge": "Describe three aromas from a freshly brewed Ethiopian coffee.",
+    "related": [
+      "056",
+      "058",
+      "060"
+    ],
+    "id": 102
+  },
+  {
+    "number": "103",
+    "title": "Acidity",
+    "category": "SEN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "058.jpg",
+    "definition": "Acidity is the bright, lively sensation that adds structure and freshness to coffee.",
+    "why": "Good acidity creates balance and complexity.",
+    "tip": "Think citrus or ripe fruit rather than sourness.",
+    "mistake": "Calling all acidity 'sour'.",
+    "challenge": "Name three positive acidity descriptors.",
+    "related": [
+      "057",
+      "059",
+      "061"
+    ],
+    "id": 103
+  },
+  {
+    "number": "104",
+    "title": "Sweetness",
+    "category": "SEN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "059.jpg",
+    "definition": "Sweetness is a key indicator of balanced extraction and high-quality coffee.",
+    "why": "Greater sweetness usually indicates better balance.",
+    "tip": "Look for caramel, honey or fruit-like sweetness.",
+    "mistake": "Mistaking low bitterness for sweetness.",
+    "challenge": "How can roast development influence sweetness?",
+    "related": [
+      "058",
+      "060",
+      "062"
+    ],
+    "id": 104
+  },
+  {
+    "number": "105",
+    "title": "Bitterness",
+    "category": "SEN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "060.jpg",
+    "definition": "Bitterness is a natural taste characteristic that becomes unpleasant when excessive.",
+    "why": "Controlled bitterness contributes balance.",
+    "tip": "Judge bitterness alongside sweetness.",
+    "mistake": "Assuming all bitterness is a defect.",
+    "challenge": "Name two causes of excessive bitterness.",
+    "related": [
+      "059",
+      "061",
+      "063"
+    ],
+    "id": 105
+  },
+  {
+    "number": "106",
+    "title": "Body",
+    "category": "SEN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "061.jpg",
+    "definition": "Body describes the weight and tactile sensation of coffee in the mouth.",
+    "why": "Body contributes significantly to drinking experience.",
+    "tip": "Compare skimmed milk and cream to understand body differences.",
+    "mistake": "Confusing strength with body.",
+    "challenge": "Describe a coffee with a tea-like body.",
+    "related": [
+      "058",
+      "060",
+      "062"
+    ],
+    "id": 106
+  },
+  {
+    "number": "107",
+    "title": "Aftertaste",
+    "category": "SEN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "062.jpg",
+    "definition": "Aftertaste is the flavour sensation that remains after swallowing.",
+    "why": "A pleasant finish often reflects overall quality.",
+    "tip": "Wait several seconds before scoring.",
+    "mistake": "Ignoring the finish.",
+    "challenge": "Describe the finish of your favourite coffee.",
+    "related": [
+      "061",
+      "063",
+      "064"
+    ],
+    "id": 107
+  },
+  {
+    "number": "108",
+    "title": "Balance",
+    "category": "SEN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "063.jpg",
+    "definition": "Balance is the harmony between acidity, sweetness, bitterness and body.",
+    "why": "Balanced coffees are usually easier to enjoy repeatedly.",
+    "tip": "Avoid focusing on one flavour alone.",
+    "mistake": "Rewarding intensity over balance.",
+    "challenge": "Can a coffee be highly acidic and still be balanced?",
+    "related": [
+      "060",
+      "062",
+      "064"
+    ],
+    "id": 108
+  },
+  {
+    "number": "109",
+    "title": "Flavour Notes",
+    "category": "SEN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "064.jpg",
+    "definition": "Flavour notes are descriptive references that help communicate sensory experiences.",
+    "why": "They create a common language for tasting.",
+    "tip": "Use familiar foods rather than searching for exotic descriptors.",
+    "mistake": "Treating flavour notes as ingredients.",
+    "challenge": "Describe one coffee using five flavour notes.",
+    "related": [
+      "063",
+      "065",
+      "057"
+    ],
+    "id": 109
+  },
+  {
+    "number": "110",
+    "title": "Calibration",
+    "category": "SEN",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": "065.jpg",
+    "definition": "Calibration is the process of aligning sensory evaluations between multiple tasters.",
+    "why": "Calibration improves consistency across cafés, roasteries and QC teams.",
+    "tip": "Discuss differences openly after every cupping.",
+    "mistake": "Trying to agree before tasting independently.",
+    "challenge": "How would you calibrate a team of four tasters?",
+    "related": [
+      "056",
+      "057",
+      "064"
+    ],
+    "id": 110
+  },
+  {
+    "number": "111",
+    "title": "Workflow",
+    "category": "WRK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "046.jpg",
+    "definition": "Workflow is the sequence of actions used to prepare drinks efficiently and consistently.",
+    "why": "Good workflow reduces mistakes, waste and customer wait times.",
+    "tip": "Move with purpose rather than speed.",
+    "mistake": "Crossing over your own workspace.",
+    "challenge": "List three ways to improve workflow during a busy service.",
+    "related": [
+      "047",
+      "048",
+      "049"
+    ],
+    "id": 111
+  },
+  {
+    "number": "112",
+    "title": "Mise en Place",
+    "category": "WRK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "047.jpg",
+    "definition": "Mise en place means having everything prepared and organised before service begins.",
+    "why": "Preparation reduces stress and improves consistency.",
+    "tip": "Start every shift with the same setup routine.",
+    "mistake": "Preparing while customers are waiting.",
+    "challenge": "Name five items that should be checked before opening.",
+    "related": [
+      "046",
+      "048",
+      "050"
+    ],
+    "id": 112
+  },
+  {
+    "number": "113",
+    "title": "Station Organisation",
+    "category": "WRK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "048.jpg",
+    "definition": "A well-organised workstation keeps tools, milk and coffee within easy reach.",
+    "why": "Small improvements save hundreds of movements every day.",
+    "tip": "Return every tool to the same place.",
+    "mistake": "Leaving clutter on the bench.",
+    "challenge": "Describe your ideal espresso station layout.",
+    "related": [
+      "047",
+      "049",
+      "051"
+    ],
+    "id": 113
+  },
+  {
+    "number": "114",
+    "title": "Drink Sequencing",
+    "category": "WRK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "049.jpg",
+    "definition": "Drink sequencing is deciding the most efficient order to prepare multiple beverages.",
+    "why": "Correct sequencing improves speed without reducing quality.",
+    "tip": "Think two drinks ahead.",
+    "mistake": "Completing one drink at a time during rushes.",
+    "challenge": "How would you sequence four milk drinks and two black coffees?",
+    "related": [
+      "046",
+      "048",
+      "052"
+    ],
+    "id": 114
+  },
+  {
+    "number": "115",
+    "title": "Cleaning As You Go",
+    "category": "WRK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "050.jpg",
+    "definition": "Small cleaning tasks completed continuously prevent major cleaning later.",
+    "why": "A clean station supports speed and professionalism.",
+    "tip": "Reset the station after every customer.",
+    "mistake": "Waiting until closing time.",
+    "challenge": "List five things you should clean during service.",
+    "related": [
+      "047",
+      "051",
+      "053"
+    ],
+    "id": 115
+  },
+  {
+    "number": "116",
+    "title": "Communication",
+    "category": "WRK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "051.jpg",
+    "definition": "Clear communication keeps the team coordinated during service.",
+    "why": "Most service mistakes come from poor communication rather than poor coffee.",
+    "tip": "Use short, consistent language.",
+    "mistake": "Making assumptions.",
+    "challenge": "How should you communicate a delayed order?",
+    "related": [
+      "048",
+      "050",
+      "052"
+    ],
+    "id": 116
+  },
+  {
+    "number": "117",
+    "title": "Rush Management",
+    "category": "WRK",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": "052.jpg",
+    "definition": "Rush management is maintaining quality while serving high customer volumes.",
+    "why": "Consistency under pressure defines professional baristas.",
+    "tip": "Slow is smooth. Smooth becomes fast.",
+    "mistake": "Rushing and making preventable errors.",
+    "challenge": "How do you stay calm during a queue of twenty customers?",
+    "related": [
+      "049",
+      "051",
+      "053"
+    ],
+    "id": 117
+  },
+  {
+    "number": "118",
+    "title": "Consistency",
+    "category": "WRK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "053.jpg",
+    "definition": "Consistency means producing the same quality repeatedly throughout the day.",
+    "why": "Customers return because they trust the experience.",
+    "tip": "Measure everything you can.",
+    "mistake": "Relying on instinct alone.",
+    "challenge": "Name three variables you should measure every shift.",
+    "related": [
+      "050",
+      "052",
+      "054"
+    ],
+    "id": 118
+  },
+  {
+    "number": "119",
+    "title": "Time Management",
+    "category": "WRK",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "054.jpg",
+    "definition": "Time management is balancing preparation, service and cleaning efficiently.",
+    "why": "Effective time management reduces stress and improves service quality.",
+    "tip": "Prioritise tasks that affect customers first.",
+    "mistake": "Spending too long on low-value tasks.",
+    "challenge": "What jobs can be completed during quiet periods?",
+    "related": [
+      "053",
+      "055",
+      "047"
+    ],
+    "id": 119
+  },
+  {
+    "number": "120",
+    "title": "Closing Routine",
+    "category": "WRK",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "055.jpg",
+    "definition": "A structured closing routine prepares the café for the following day.",
+    "why": "A good close creates a good opening.",
+    "tip": "Use a written checklist every shift.",
+    "mistake": "Relying on memory.",
+    "challenge": "Write a ten-step closing routine for your café.",
+    "related": [
+      "054",
+      "050",
+      "045"
+    ],
+    "id": 120
   }
 ]
