@@ -13,6 +13,14 @@ import {
     getRecent
 } from "./storage.js";
 
+import {
+    createStudySession
+} from "./study.js";
+
+import {
+    startStudySession
+} from "./studySession.js";
+
 let activeCategory = "ALL";
 
 const search = document.getElementById("search");
@@ -30,9 +38,45 @@ async function init() {
 
     buildFilters();
 
+    createStudyButton();
+
     updateDashboard();
 
     render();
+
+}
+
+function createStudyButton() {
+
+    if (document.getElementById("studyButton")) return;
+
+    const button = document.createElement("button");
+
+    button.id = "studyButton";
+
+    button.className = "study-button";
+
+    button.textContent = "📚 Study Mode";
+
+    button.onclick = () => {
+
+        const cards = searchCards(
+            search.value,
+            activeCategory
+        );
+
+        const session = createStudySession(cards, {
+            shuffle: false
+        });
+
+        startStudySession(session);
+
+    };
+
+    filters.parentNode.insertBefore(
+        button,
+        filters.nextSibling
+    );
 
 }
 
@@ -56,7 +100,7 @@ function buildFilters() {
 
         button.className = "filter";
 
-        if(category === activeCategory){
+        if (category === activeCategory) {
 
             button.classList.add("active");
 
@@ -83,18 +127,15 @@ function buildFilters() {
 function render() {
 
     const cards = searchCards(
-
         search.value,
-
         activeCategory
-
     );
 
     counter.textContent = `${cards.length} Cards`;
 
     cardsContainer.innerHTML = "";
 
-    cards.forEach((card,index)=>{
+    cards.forEach((card, index) => {
 
         const div = document.createElement("div");
 
@@ -103,34 +144,26 @@ function render() {
         div.innerHTML = `
 
 <div class="card-number">
-
 ${card.number}
-
 </div>
 
 <h2>
-
 ${card.title}
-
 </h2>
 
 <div class="category">
-
 ${card.category}
-
 </div>
 
 <p>
-
 ${card.definition}
-
 </p>
 
 `;
 
-        div.onclick = ()=>{
+        div.onclick = () => {
 
-            openViewer(cards,index);
+            openViewer(cards, index);
 
             updateDashboard();
 
