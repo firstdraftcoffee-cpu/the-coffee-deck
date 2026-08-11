@@ -1,5 +1,7 @@
 const KEY = "coffeeDeckReviews";
 
+const DAY = 86400000;
+
 function load() {
 
     return JSON.parse(
@@ -32,7 +34,13 @@ export function getReviewData(cardNumber) {
 
         due: Date.now(),
 
-        reviews: 0
+        reviews: 0,
+
+        interval: 0,
+
+        ease: 2.5,
+
+        lastReviewed: null
 
     };
 
@@ -44,7 +52,9 @@ export function updateReview(cardNumber, rating) {
 
     const card = getReviewData(cardNumber);
 
-    const day = 86400000;
+    card.lastReviewed = Date.now();
+
+    card.reviews++;
 
     switch (rating) {
 
@@ -52,7 +62,15 @@ export function updateReview(cardNumber, rating) {
 
             card.state = "learning";
 
-            card.due = Date.now() + day;
+            card.interval = 1;
+
+            card.ease = Math.max(
+
+                1.3,
+
+                card.ease - 0.2
+
+            );
 
             break;
 
@@ -60,7 +78,22 @@ export function updateReview(cardNumber, rating) {
 
             card.state = "learning";
 
-            card.due = Date.now() + day * 3;
+            card.interval = Math.max(
+
+                3,
+
+                Math.round(
+                    (card.interval || 1) * 1.2
+                )
+            );
+
+            card.ease = Math.max(
+
+                1.3,
+
+                card.ease - 0.15
+
+            );
 
             break;
 
@@ -68,7 +101,14 @@ export function updateReview(cardNumber, rating) {
 
             card.state = "review";
 
-            card.due = Date.now() + day * 7;
+            card.interval = Math.max(
+
+                7,
+
+                Math.round(
+                    (card.interval || 1) * card.ease
+                )
+            );
 
             break;
 
@@ -76,17 +116,47 @@ export function updateReview(cardNumber, rating) {
 
             card.state = "mastered";
 
-            card.due = Date.now() + day * 30;
+            card.ease += 0.15;
+
+            card.interval = Math.max(
+
+                14,
+
+                Math.round(
+                    (card.interval || 3) *
+                    (card.ease + 0.3)
+                )
+            );
 
             break;
 
     }
 
-    card.reviews++;
+    card.due =
+
+        Date.now() +
+
+        (card.interval * DAY);
 
     data[cardNumber] = card;
 
     save(data);
+
+}
+
+export function resetReview(cardNumber) {
+
+    const data = load();
+
+    delete data[cardNumber];
+
+    save(data);
+
+}
+
+export function resetAllReviews() {
+
+    localStorage.removeItem(KEY);
 
 }
 
@@ -106,26 +176,64 @@ export function getDueCards(cards) {
 
 export function getReviewStats(cards) {
 
-    let stats = {
+    const stats = {
 
-        new:0,
+        new: 0,
 
-        learning:0,
+        learning: 0,
 
-        review:0,
+        review: 0,
 
-        mastered:0
+        mastered: 0,
+
+        dueToday: 0,
+
+        totalReviews: 0
 
     };
 
-    cards.forEach(card=>{
+    const now = Date.now();
 
-        const state = getReviewData(card.number).state;
+    cards.forEach(card => {
 
-        stats[state]++;
+        const review = getReviewData(card.number);
+
+        stats[review.state]++;
+
+        stats.totalReviews += review.reviews;
+
+        if (review.due <= now) {
+
+            stats.dueToday++;
+
+        }
 
     });
 
     return stats;
+
+}
+
+export function getReviewHistory(cards) {
+
+    return cards
+
+        .map(card => ({
+
+            card,
+
+            review: getReviewData(card.number)
+
+        }))
+
+        .sort(
+
+            (a, b) =>
+
+                (b.review.lastReviewed || 0) -
+
+                (a.review.lastReviewed || 0)
+
+        );
 
 }

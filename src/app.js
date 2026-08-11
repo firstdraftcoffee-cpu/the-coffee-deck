@@ -22,6 +22,7 @@ import {
 } from "./studySession.js";
 
 let activeCategory = "ALL";
+let currentSort = "number";
 
 const search = document.getElementById("search");
 const cardsContainer = document.getElementById("cards");
@@ -39,6 +40,8 @@ async function init() {
     buildFilters();
 
     createStudyButton();
+
+    createSortSelector();
 
     updateDashboard();
 
@@ -60,10 +63,7 @@ function createStudyButton() {
 
     button.onclick = () => {
 
-        const cards = searchCards(
-            search.value,
-            activeCategory
-        );
+        const cards = getVisibleCards();
 
         const session = createStudySession(cards, {
             shuffle: false
@@ -76,6 +76,47 @@ function createStudyButton() {
     filters.parentNode.insertBefore(
         button,
         filters.nextSibling
+    );
+
+}
+
+function createSortSelector() {
+
+    if (document.getElementById("sortSelector")) return;
+
+    const select = document.createElement("select");
+
+    select.id = "sortSelector";
+
+    select.className = "sort-selector";
+
+    [
+        ["number", "Sort: Card Number"],
+        ["title", "Sort: Title"],
+        ["category", "Sort: Category"]
+    ].forEach(([value, label]) => {
+
+        const option = document.createElement("option");
+
+        option.value = value;
+
+        option.textContent = label;
+
+        select.appendChild(option);
+
+    });
+
+    select.onchange = () => {
+
+        currentSort = select.value;
+
+        render();
+
+    };
+
+    filters.parentNode.insertBefore(
+        select,
+        document.getElementById("studyButton").nextSibling
     );
 
 }
@@ -124,12 +165,52 @@ function buildFilters() {
 
 }
 
-function render() {
+function getVisibleCards() {
 
     const cards = searchCards(
         search.value,
         activeCategory
     );
+
+    switch (currentSort) {
+
+        case "title":
+
+            return [...cards].sort((a, b) =>
+                a.title.localeCompare(b.title)
+            );
+
+        case "category":
+
+            return [...cards].sort((a, b) => {
+
+                const compare = a.category.localeCompare(
+                    b.category
+                );
+
+                if (compare !== 0) {
+
+                    return compare;
+
+                }
+
+                return a.number - b.number;
+
+            });
+
+        default:
+
+            return [...cards].sort((a, b) =>
+                a.number - b.number
+            );
+
+    }
+
+}
+
+function render() {
+
+    const cards = getVisibleCards();
 
     counter.textContent = `${cards.length} Cards`;
 

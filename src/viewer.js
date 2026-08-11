@@ -4,6 +4,10 @@ import {
     addRecent
 } from "./storage.js";
 
+import {
+    renderReviewButtons
+} from "./reviewButtons.js";
+
 let currentCards = [];
 let currentIndex = 0;
 
@@ -25,6 +29,7 @@ export function openViewer(cards, index) {
     if (!viewer) {
 
         viewer = document.createElement("div");
+
         viewer.id = "viewer";
 
         document.body.appendChild(viewer);
@@ -36,14 +41,21 @@ export function openViewer(cards, index) {
 
     const relatedCards =
         (card.related || [])
-            .map(id => currentCards.find(c => c.number === id))
+            .map(id =>
+                currentCards.find(
+                    c => c.number === id
+                )
+            )
             .filter(Boolean);
 
     viewer.innerHTML = `
 
 <div class="viewer-window">
 
-<button class="close" aria-label="Close">
+<button
+class="close"
+aria-label="Close"
+>
 
 &times;
 
@@ -53,7 +65,8 @@ export function openViewer(cards, index) {
 
 <div class="viewer-position">
 
-Card ${currentIndex + 1} of ${currentCards.length}
+Card ${currentIndex + 1}
+of ${currentCards.length}
 
 </div>
 
@@ -151,6 +164,8 @@ ${card.challenge}
 
 </section>
 
+<div id="viewer-review"></div>
+
 ${relatedCards.length
     ? `
 
@@ -221,6 +236,31 @@ ${bookmarked
 
     viewer.classList.add("show");
 
+    const reviewContainer =
+        viewer.querySelector(
+            "#viewer-review"
+        );
+
+    if (reviewContainer) {
+
+        reviewContainer.appendChild(
+
+            renderReviewButtons(
+                card.number,
+                () => {
+
+                    openViewer(
+                        currentCards,
+                        currentIndex
+                    );
+
+                }
+            )
+
+        );
+
+    }
+
     viewer
         .querySelector(".close")
         .addEventListener(
@@ -228,23 +268,26 @@ ${bookmarked
             closeViewer
         );
 
-    viewer.addEventListener(
-        "click",
-        e => {
+    viewer.onclick = e => {
 
-            if (e.target === viewer) {
+        if (e.target === viewer) {
 
-                closeViewer();
-
-            }
+            closeViewer();
 
         }
-    );
+
+    };
 
     document.onkeydown = e => {
 
-        if (!viewer.classList.contains("show")) {
+        if (
+            !viewer.classList.contains(
+                "show"
+            )
+        ) {
+
             return;
+
         }
 
         switch (e.key) {
@@ -272,16 +315,23 @@ ${bookmarked
     };
 
     const bookmarkButton =
-        document.getElementById("bookmark");
+        viewer.querySelector(
+            "#bookmark"
+        );
 
     bookmarkButton.addEventListener(
         "click",
         () => {
 
-            toggleBookmark(card.number);
+            toggleBookmark(
+                card.number
+            );
 
             const nowBookmarked =
-                getBookmarks().includes(card.number);
+                getBookmarks()
+                    .includes(
+                        card.number
+                    );
 
             bookmarkButton.textContent =
                 nowBookmarked
@@ -291,22 +341,24 @@ ${bookmarked
         }
     );
 
-    document
-        .getElementById("previous")
+    viewer
+        .querySelector("#previous")
         .addEventListener(
             "click",
             previous
         );
 
-    document
-        .getElementById("next")
+    viewer
+        .querySelector("#next")
         .addEventListener(
             "click",
             next
         );
 
     viewer
-        .querySelectorAll(".related-card")
+        .querySelectorAll(
+            ".related-card"
+        )
         .forEach(button => {
 
             button.addEventListener(
@@ -318,10 +370,14 @@ ${bookmarked
 
                     const relatedIndex =
                         currentCards.findIndex(
-                            c => c.number === number
+                            c =>
+                                c.number ===
+                                number
                         );
 
-                    if (relatedIndex !== -1) {
+                    if (
+                        relatedIndex !== -1
+                    ) {
 
                         openViewer(
                             currentCards,
@@ -378,15 +434,21 @@ function next() {
 export function closeViewer() {
 
     const viewer =
-        document.getElementById("viewer");
+        document.getElementById(
+            "viewer"
+        );
 
     if (!viewer) {
+
         return;
+
     }
 
     document.onkeydown = null;
 
-    viewer.classList.remove("show");
+    viewer.classList.remove(
+        "show"
+    );
 
     setTimeout(() => {
 
