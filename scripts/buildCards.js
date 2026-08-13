@@ -2,7 +2,10 @@ import fs from "fs";
 import path from "path";
 
 const contentDir = path.resolve("content");
-const outputFile = path.resolve("data/cards.json");
+const outputDir = path.resolve("public/data");
+const outputFile = path.join(outputDir, "cards.json");
+
+fs.mkdirSync(outputDir, { recursive: true });
 
 const files = fs
     .readdirSync(contentDir)
@@ -23,13 +26,31 @@ for (const file of files) {
 
 }
 
-cards = cards.map((card, index) => ({
+cards.sort((a, b) => a.number.localeCompare(b.number));
+
+const seen = new Map();
+
+for (const card of cards) {
+
+    if (seen.has(card.number)) {
+
+        console.warn(
+
+            `⚠️  Duplicate card number "${card.number}": "${seen.get(card.number)}" and "${card.title}" collide.`
+
+        );
+
+    }
+
+    seen.set(card.number, card.title);
+
+}
+
+cards = cards.map(card => ({
 
     ...card,
 
-    id: index + 1,
-
-    number: String(index + 1).padStart(3, "0")
+    id: Number(card.number)
 
 }));
 
