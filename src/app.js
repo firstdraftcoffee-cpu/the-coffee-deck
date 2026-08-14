@@ -1,7 +1,8 @@
 import {
     loadCards,
     searchCards,
-    getCategories
+    getCategories,
+    allCards
 } from "./cards.js";
 
 import {
@@ -14,12 +15,18 @@ import {
 } from "./storage.js";
 
 import {
-    createStudySession
+    createStudySession,
+    createBookmarkSession
 } from "./study.js";
 
 import {
     startStudySession
 } from "./studySession.js";
+
+import {
+    getDueCards,
+    getReviewStats
+} from "./review.js";
 
 let activeCategory = "ALL";
 let currentSort = "number";
@@ -32,6 +39,11 @@ const counter = document.getElementById("count");
 const totalCards = document.getElementById("totalCards");
 const bookmarkCount = document.getElementById("bookmarkCount");
 const recentCount = document.getElementById("recentCount");
+const dueCount = document.getElementById("dueCount");
+const masteredCount = document.getElementById("masteredCount");
+
+const dueStat = document.getElementById("dueStat");
+const bookmarkStat = bookmarkCount.closest(".stat");
 
 async function init() {
 
@@ -43,9 +55,52 @@ async function init() {
 
     createSortSelector();
 
+    setupDashboardActions();
+
     updateDashboard();
 
     render();
+
+}
+
+function setupDashboardActions() {
+
+    dueStat.classList.add("clickable");
+
+    dueStat.onclick = () => {
+
+        const due = getDueCards(allCards());
+
+        if (!due.length) return;
+
+        const session = createStudySession(due, {
+            shuffle: false
+        });
+
+        startStudySession(session, {
+            onClose: updateDashboard
+        });
+
+    };
+
+    bookmarkStat.classList.add("clickable");
+
+    bookmarkStat.onclick = () => {
+
+        const bookmarks = getBookmarks();
+
+        if (!bookmarks.length) return;
+
+        const session = createBookmarkSession(
+            allCards(),
+            bookmarks
+        );
+
+        startStudySession(session, {
+            onClose: updateDashboard
+        });
+
+    };
 
 }
 
@@ -69,7 +124,9 @@ function createStudyButton() {
             shuffle: false
         });
 
-        startStudySession(session);
+        startStudySession(session, {
+            onClose: updateDashboard
+        });
 
     };
 
@@ -128,6 +185,22 @@ function updateDashboard() {
     bookmarkCount.textContent = getBookmarks().length;
 
     recentCount.textContent = getRecent().length;
+
+    const stats = getReviewStats(allCards());
+
+    dueCount.textContent = stats.dueToday;
+
+    masteredCount.textContent = stats.mastered;
+
+    dueStat.classList.toggle(
+        "disabled",
+        stats.dueToday === 0
+    );
+
+    bookmarkStat.classList.toggle(
+        "disabled",
+        getBookmarks().length === 0
+    );
 
 }
 
@@ -244,9 +317,9 @@ ${card.definition}
 
         div.onclick = () => {
 
-            openViewer(cards, index);
-
-            updateDashboard();
+            openViewer(cards, index, {
+                onClose: updateDashboard
+            });
 
         };
 

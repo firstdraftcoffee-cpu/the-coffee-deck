@@ -3,15 +3,14 @@
   "private": true,
   "version": "1.0.0",
   "type": "module",
-
   "scripts": {
     "dev": "vite",
     "build": "npm run cards && vite build",
     "preview": "vite preview",
     "cards": "node scripts/buildCards.js"
   },
-
   "devDependencies": {
+    "jsdom": "^30.0.1",
     "vite": "^7.0.0"
   }
 }

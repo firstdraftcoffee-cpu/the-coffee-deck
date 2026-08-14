@@ -10,11 +10,18 @@ import {
 
 let currentCards = [];
 let currentIndex = 0;
+let onCloseCallback = null;
 
-export function openViewer(cards, index) {
+export function openViewer(cards, index, options = {}) {
 
     currentCards = cards;
     currentIndex = index;
+
+    if ("onClose" in options) {
+
+        onCloseCallback = options.onClose;
+
+    }
 
     const card = currentCards[currentIndex];
 
@@ -457,6 +464,12 @@ export function closeViewer() {
             viewer.remove();
 
         }
+
+        const callback = onCloseCallback;
+
+        onCloseCallback = null;
+
+        callback?.();
 
     }, 150);
 

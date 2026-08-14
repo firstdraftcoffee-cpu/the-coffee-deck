@@ -4,6 +4,7 @@ let cards = [];
 let index = 0;
 let revealed = false;
 let shuffle = false;
+let onCloseCallback = null;
 
 export function startStudySession(studyCards, options = {}) {
 
@@ -14,6 +15,8 @@ export function startStudySession(studyCards, options = {}) {
     revealed = false;
 
     shuffle = options.shuffle ?? false;
+
+    onCloseCallback = options.onClose ?? null;
 
     render();
 
@@ -421,5 +424,11 @@ export function closeStudySession() {
     document.onkeydown = null;
 
     document.getElementById("study-mode")?.remove();
+
+    const callback = onCloseCallback;
+
+    onCloseCallback = null;
+
+    callback?.();
 
 }

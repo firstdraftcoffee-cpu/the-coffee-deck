@@ -118,7 +118,7 @@ nav{
 
     display:grid;
 
-    grid-template-columns:repeat(3,1fr);
+    grid-template-columns:repeat(auto-fit,minmax(180px,1fr));
 
     gap:20px;
 
@@ -127,6 +127,38 @@ nav{
     margin:auto;
 
     padding:0 40px 40px;
+
+}
+
+.stat.clickable{
+
+    cursor:pointer;
+
+    transition:transform .15s ease, box-shadow .15s ease;
+
+}
+
+.stat.clickable:hover{
+
+    transform:translateY(-3px);
+
+    box-shadow:0 8px 28px rgba(0,0,0,.12);
+
+}
+
+.stat.clickable.disabled{
+
+    cursor:default;
+
+    opacity:.5;
+
+}
+
+.stat.clickable.disabled:hover{
+
+    transform:none;
+
+    box-shadow:0 4px 20px rgba(0,0,0,.08);
 
 }
 

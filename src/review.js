@@ -168,7 +168,7 @@ export function getDueCards(cards) {
 
         const review = getReviewData(card.number);
 
-        return review.due <= now;
+        return review.reviews > 0 && review.due <= now;
 
     });
 
@@ -202,7 +202,7 @@ export function getReviewStats(cards) {
 
         stats.totalReviews += review.reviews;
 
-        if (review.due <= now) {
+        if (review.reviews > 0 && review.due <= now) {
 
             stats.dueToday++;
 
