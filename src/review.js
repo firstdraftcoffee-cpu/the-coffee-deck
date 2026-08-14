@@ -1,5 +1,7 @@
 const KEY = "coffeeDeckReviews";
 
+const ACTIVITY_KEY = "coffeeDeckActivity";
+
 const DAY = 86400000;
 
 function load() {
@@ -21,6 +23,44 @@ function save(data) {
         JSON.stringify(data)
 
     );
+
+}
+
+function loadActivity() {
+
+    return JSON.parse(
+
+        localStorage.getItem(ACTIVITY_KEY) || "[]"
+
+    );
+
+}
+
+function saveActivity(entries) {
+
+    localStorage.setItem(
+
+        ACTIVITY_KEY,
+
+        JSON.stringify(entries)
+
+    );
+
+}
+
+function logActivity(cardNumber, rating, state) {
+
+    const entries = loadActivity();
+
+    entries.push({
+        date: new Date().toISOString().slice(0, 10),
+        timestamp: Date.now(),
+        cardNumber,
+        rating,
+        state
+    });
+
+    saveActivity(entries.slice(-2000));
 
 }
 
@@ -142,6 +182,8 @@ export function updateReview(cardNumber, rating) {
 
     save(data);
 
+    logActivity(cardNumber, rating, card.state);
+
 }
 
 export function resetReview(cardNumber) {
@@ -235,5 +277,115 @@ export function getReviewHistory(cards) {
                 (a.review.lastReviewed || 0)
 
         );
+
+}
+
+export function getDailyActivity(days = 84) {
+
+    const entries = loadActivity();
+
+    const counts = {};
+
+    entries.forEach(entry => {
+
+        counts[entry.date] = (counts[entry.date] || 0) + 1;
+
+    });
+
+    const result = [];
+
+    const today = new Date();
+
+    for (let i = days - 1; i >= 0; i--) {
+
+        const d = new Date(today);
+
+        d.setDate(d.getDate() - i);
+
+        const key = d.toISOString().slice(0, 10);
+
+        result.push({
+            date: key,
+            count: counts[key] || 0
+        });
+
+    }
+
+    return result;
+
+}
+
+export function getStreak() {
+
+    const daily = getDailyActivity(365);
+
+    let streak = 0;
+
+    for (let i = daily.length - 1; i >= 0; i--) {
+
+        if (daily[i].count > 0) {
+
+            streak++;
+
+        } else if (i === daily.length - 1) {
+
+            continue;
+
+        } else {
+
+            break;
+
+        }
+
+    }
+
+    return streak;
+
+}
+
+export function getCategoryStats(cards) {
+
+    const byCategory = {};
+
+    cards.forEach(card => {
+
+        const review = getReviewData(card.number);
+
+        if (!byCategory[card.category]) {
+
+            byCategory[card.category] = {
+                category: card.category,
+                totalReviews: 0,
+                cardsReviewed: 0,
+                totalEase: 0
+            };
+
+        }
+
+        const bucket = byCategory[card.category];
+
+        bucket.totalReviews += review.reviews;
+
+        if (review.reviews > 0) {
+
+            bucket.cardsReviewed++;
+
+            bucket.totalEase += review.ease;
+
+        }
+
+    });
+
+    return Object.values(byCategory).map(bucket => ({
+
+        category: bucket.category,
+        totalReviews: bucket.totalReviews,
+        cardsReviewed: bucket.cardsReviewed,
+
+        avgEase: bucket.cardsReviewed > 0
+            ? +(bucket.totalEase / bucket.cardsReviewed).toFixed(2)
+            : null
+
+    }));
 
 }

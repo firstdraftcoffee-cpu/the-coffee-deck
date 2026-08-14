@@ -249,4 +249,49 @@ if (resetBtn) {
     check("Reset Progress button no longer shows after reset (fresh card)", !doc.querySelector(".reset-progress"));
 }
 
+// --- Stats / Heatmap ---
+const statsButton = doc.getElementById("statsButton");
+check("Stats button exists", !!statsButton);
+
+statsButton.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 200));
+check("Stats overlay opens", !!doc.getElementById("stats-mode"));
+check("No errors opening stats with zero activity", errors.length === 0);
+check("Heatmap renders 84 day cells", doc.querySelectorAll(".heatmap-day").length === 84);
+check("Empty-state message shows when no category data", doc.querySelector(".stats-empty")?.textContent.includes("Study a few cards"));
+
+doc.getElementById("stats-close").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Stats overlay closes", !doc.getElementById("stats-mode"));
+
+// Simulate 5 consecutive days of activity plus real review data
+const activityLog = [];
+const today = new Date();
+for (let i = 0; i < 5; i++) {
+    const d = new Date(today);
+    d.setDate(d.getDate() - i);
+    const dateStr = d.toISOString().slice(0, 10);
+    activityLog.push({ date: dateStr, timestamp: d.getTime(), cardNumber: "001", rating: "good", state: "review" });
+}
+global.localStorage.setItem("coffeeDeckActivity", JSON.stringify(activityLog));
+
+const reviewState = {
+    "001": { state: "review", due: Date.now() + 86400000, reviews: 5, interval: 7, ease: 2.6, lastReviewed: Date.now() },
+    "002": { state: "learning", due: Date.now() + 86400000, reviews: 2, interval: 1, ease: 2.0, lastReviewed: Date.now() - 3600000 }
+};
+global.localStorage.setItem("coffeeDeckReviews", JSON.stringify(reviewState));
+
+statsButton.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 200));
+
+check("Streak reflects 5 consecutive active days", doc.querySelector(".stats-tile-value")?.textContent.includes("5"));
+check("Heatmap shows at least one active (non level-0) day", doc.querySelectorAll(".heatmap-day:not(.level-0)").length > 0);
+check("Category breakdown renders once there's review data", !!doc.querySelector(".category-column ul"));
+check("Recent Activity section shows reviewed cards", doc.querySelectorAll(".stats-recent-item").length > 0);
+check("No errors rendering populated stats", errors.length === 0);
+
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 250));
+check("Stats overlay closes via Escape key", !doc.getElementById("stats-mode"));
+
 console.log("\nDone.");

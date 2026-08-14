@@ -32,6 +32,10 @@ import {
     getReviewStats
 } from "./review.js";
 
+import {
+    openStats
+} from "./stats.js";
+
 let activeCategory = "ALL";
 let currentSort = "number";
 
@@ -59,6 +63,8 @@ async function init() {
     createStudyButton();
 
     createSortSelector();
+
+    createStatsButton();
 
     createRecentSearches();
 
@@ -200,6 +206,31 @@ function createSortSelector() {
     filters.parentNode.insertBefore(
         select,
         document.getElementById("studyButton").nextSibling
+    );
+
+}
+
+function createStatsButton() {
+
+    if (document.getElementById("statsButton")) return;
+
+    const button = document.createElement("button");
+
+    button.id = "statsButton";
+
+    button.className = "study-button stats-button";
+
+    button.textContent = "📊 Stats";
+
+    button.onclick = () => {
+
+        openStats();
+
+    };
+
+    filters.parentNode.insertBefore(
+        button,
+        document.getElementById("sortSelector").nextSibling
     );
 
 }
