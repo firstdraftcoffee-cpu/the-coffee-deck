@@ -645,9 +645,11 @@ nav{
 
 .home-actions button.bookmark-btn{
 
-    background:var(--accent);
+    background:var(--surface);
 
-    color:#fff;
+    color:var(--accent);
+
+    border:2px solid var(--accent);
 
     width:64px;
 
@@ -659,7 +661,11 @@ nav{
 
 .home-actions button.bookmark-btn.active{
 
-    background:var(--accent-dark);
+    background:var(--accent);
+
+    color:#fff;
+
+    border-color:var(--accent);
 
 }
 
@@ -915,9 +921,11 @@ nav{
 
 .viewer-buttons button.bookmark-btn{
 
-    background:var(--accent);
+    background:var(--surface);
 
-    color:#fff;
+    color:var(--accent);
+
+    border:2px solid var(--accent);
 
     width:60px;
 
@@ -929,7 +937,11 @@ nav{
 
 .viewer-buttons button.bookmark-btn.active{
 
-    background:var(--accent-dark);
+    background:var(--accent);
+
+    color:#fff;
+
+    border-color:var(--accent);
 
 }
 
