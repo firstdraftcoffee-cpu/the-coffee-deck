@@ -162,6 +162,32 @@ nav{
 
 }
 
+.recent-search-clear{
+
+    background:none;
+
+    border:none;
+
+    color:#999;
+
+    font-size:13px;
+
+    text-decoration:underline;
+
+    cursor:pointer;
+
+    padding:8px 4px;
+
+    margin-left:auto;
+
+}
+
+.recent-search-clear:hover{
+
+    color:#666;
+
+}
+
 #filters{
 
     display:flex;
@@ -398,6 +424,109 @@ nav{
     border-radius:18px;
 
 }
+
+.review-status{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:14px;
+
+    margin:24px 0 12px;
+
+    padding:14px 18px;
+
+    background:#f5f2ed;
+
+    border-radius:14px;
+
+    font-size:15px;
+
+}
+
+.review-status span{
+
+    color:#777;
+
+}
+
+.reset-progress{
+
+    margin-left:auto;
+
+    background:none;
+
+    border:none;
+
+    color:#999;
+
+    font-size:13px;
+
+    text-decoration:underline;
+
+    cursor:pointer;
+
+}
+
+.reset-progress:hover{
+
+    color:#6d4323;
+
+}
+
+.review-buttons{
+
+    display:grid;
+
+    grid-template-columns:repeat(4,1fr);
+
+    gap:10px;
+
+}
+
+.review-button{
+
+    padding:14px 8px;
+
+    border:1px solid #eee;
+
+    border-radius:12px;
+
+    background:white;
+
+    cursor:pointer;
+
+    text-align:center;
+
+}
+
+.review-button:hover{
+
+    border-color:#d5b892;
+
+    background:#faf7f2;
+
+}
+
+.review-button:disabled{
+
+    opacity:.5;
+
+    cursor:default;
+
+}
+
+.review-button small{
+
+    display:block;
+
+    color:#999;
+
+    margin-top:4px;
+
+}
+
 .study-button{
 
     display:block;

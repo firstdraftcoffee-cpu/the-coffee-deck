@@ -1,6 +1,7 @@
 import {
     updateReview,
-    getReviewData
+    getReviewData,
+    resetReview
 } from "./review.js";
 
 export function renderReviewButtons(
@@ -26,9 +27,31 @@ export function renderReviewButtons(
 Reviews: ${review.reviews}
 </span>
 
+${review.reviews > 0 ? `
+
+<button class="reset-progress">
+Reset Progress
+</button>
+
+` : ""}
+
 `;
 
     container.appendChild(title);
+
+    const resetButton = title.querySelector(".reset-progress");
+
+    if (resetButton) {
+
+        resetButton.onclick = () => {
+
+            resetReview(cardNumber);
+
+            onComplete();
+
+        };
+
+    }
 
     const ratings = [
 

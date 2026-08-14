@@ -204,4 +204,49 @@ const recentBox = doc.getElementById("recentSearches");
 check("Recent searches dropdown shows when input is empty and focused", recentBox?.classList.contains("show"));
 check("Recent search chip renders the saved term", recentBox?.textContent.includes("milk"));
 
+// --- Study Recently Viewed ---
+searchInput.value = "";
+searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 200));
+
+const recentStatEl = doc.getElementById("recentCount")?.closest(".stat");
+check("Recently Viewed count is > 0 after viewing a card earlier", parseInt(doc.getElementById("recentCount")?.textContent || "0") > 0);
+check("Recent stat has clickable class", recentStatEl?.classList.contains("clickable"));
+check("Recent stat not disabled (has viewed cards)", !recentStatEl?.classList.contains("disabled"));
+
+recentStatEl.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Clicking Recently Viewed opens a study session", !!doc.getElementById("study-mode"));
+
+if (doc.getElementById("study-exit")) {
+    doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 250));
+}
+
+// --- Clear recent searches ---
+searchInput.dispatchEvent(new window.Event("focus", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+const clearBtn = doc.querySelector(".recent-search-clear");
+check("Clear button exists in recent searches dropdown", !!clearBtn);
+clearBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+const clearedSearches = JSON.parse(global.localStorage.getItem("coffeeDeck:recentSearches") || "null");
+check("Recent searches actually cleared from storage", Array.isArray(clearedSearches) && clearedSearches.length === 0);
+
+// --- Reset Progress ---
+// card 001 has review history simulated earlier (reviews: 3)
+firstCard.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+const resetBtn = doc.querySelector(".reset-progress");
+check("Reset Progress button shows for a card with review history", !!resetBtn);
+
+if (resetBtn) {
+    resetBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 250));
+    const reviewsAfterReset = JSON.parse(global.localStorage.getItem("coffeeDeckReviews") || "{}");
+    check("Card 001's review data removed after reset", !reviewsAfterReset["001"]);
+    check("Reset Progress button no longer shows after reset (fresh card)", !doc.querySelector(".reset-progress"));
+}
+
 console.log("\nDone.");

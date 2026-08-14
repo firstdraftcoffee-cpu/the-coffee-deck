@@ -13,12 +13,14 @@ import {
     getBookmarks,
     getRecent,
     addRecentSearch,
-    getRecentSearches
+    getRecentSearches,
+    clearRecentSearches
 } from "./storage.js";
 
 import {
     createStudySession,
-    createBookmarkSession
+    createBookmarkSession,
+    createRecentSession
 } from "./study.js";
 
 import {
@@ -46,6 +48,7 @@ const masteredCount = document.getElementById("masteredCount");
 
 const dueStat = document.getElementById("dueStat");
 const bookmarkStat = bookmarkCount.closest(".stat");
+const recentStat = recentCount.closest(".stat");
 
 async function init() {
 
@@ -98,6 +101,25 @@ function setupDashboardActions() {
         const session = createBookmarkSession(
             allCards(),
             bookmarks
+        );
+
+        startStudySession(session, {
+            onClose: updateDashboard
+        });
+
+    };
+
+    recentStat.classList.add("clickable");
+
+    recentStat.onclick = () => {
+
+        const recent = getRecent();
+
+        if (!recent.length) return;
+
+        const session = createRecentSession(
+            allCards(),
+            recent
         );
 
         startStudySession(session, {
@@ -237,7 +259,9 @@ function showRecentSearches() {
             `<button class="recent-search-item">${term}</button>`
         )
 
-        .join("");
+        .join("") +
+
+        `<button class="recent-search-clear">Clear</button>`;
 
     box.querySelectorAll(".recent-search-item").forEach(
         (button, i) => {
@@ -255,6 +279,14 @@ function showRecentSearches() {
         }
 
     );
+
+    box.querySelector(".recent-search-clear").onclick = () => {
+
+        clearRecentSearches();
+
+        hideRecentSearches();
+
+    };
 
     box.classList.add("show");
 
@@ -311,6 +343,11 @@ function updateDashboard() {
     bookmarkStat.classList.toggle(
         "disabled",
         getBookmarks().length === 0
+    );
+
+    recentStat.classList.toggle(
+        "disabled",
+        getRecent().length === 0
     );
 
 }
