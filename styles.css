@@ -220,6 +220,16 @@ nav{
 
 }
 
+.filter-count{
+
+    margin-left:6px;
+
+    font-size:12px;
+
+    opacity:.65;
+
+}
+
 #dashboard{
 
     display:grid;
@@ -265,6 +275,34 @@ nav{
     transform:none;
 
     box-shadow:0 4px 20px rgba(0,0,0,.08);
+
+}
+
+.export-link{
+
+    display:none;
+
+    margin-top:8px;
+
+    background:none;
+
+    border:none;
+
+    color:#8c5a31;
+
+    font-size:13px;
+
+    text-decoration:underline;
+
+    cursor:pointer;
+
+    padding:0;
+
+}
+
+.export-link:hover{
+
+    color:#6d4323;
 
 }
 
@@ -364,6 +402,8 @@ nav{
 
     align-items:center;
 
+    padding:20px;
+
 }
 
 .viewer-window{
@@ -371,6 +411,10 @@ nav{
     background:white;
 
     width:min(800px,92vw);
+
+    max-height:88vh;
+
+    overflow-y:auto;
 
     border-radius:22px;
 
@@ -810,11 +854,17 @@ nav{
 
     z-index:3000;
 
+    padding:20px;
+
 }
 
 .study-window{
 
     width:min(700px,92vw);
+
+    max-height:88vh;
+
+    overflow-y:auto;
 
     background:white;
 
@@ -996,6 +1046,148 @@ nav{
         opacity:1;
 
         transform:translateY(0);
+
+    }
+
+}
+
+/* ===== Responsive ===== */
+
+@media (max-width:640px){
+
+    nav{
+
+        padding:16px 20px;
+
+    }
+
+    .logo{
+
+        font-size:22px;
+
+    }
+
+    .hero{
+
+        padding:32px 20px;
+
+    }
+
+    .hero h1{
+
+        font-size:36px;
+
+    }
+
+    .hero p{
+
+        font-size:16px;
+
+    }
+
+    #filters{
+
+        gap:8px;
+
+        margin-top:16px;
+
+    }
+
+    .filter{
+
+        padding:8px 14px;
+
+        font-size:14px;
+
+    }
+
+    #dashboard{
+
+        padding:0 20px 24px;
+
+        gap:14px;
+
+    }
+
+    .stat{
+
+        padding:18px;
+
+    }
+
+    .stat span{
+
+        font-size:30px;
+
+    }
+
+    #cards{
+
+        padding:0 20px 60px;
+
+        gap:16px;
+
+        grid-template-columns:1fr;
+
+    }
+
+    .card{
+
+        padding:20px;
+
+    }
+
+    .viewer-window,
+    .study-window,
+    .stats-window{
+
+        padding:24px;
+
+        border-radius:16px;
+
+    }
+
+    .viewer-window h1{
+
+        font-size:26px;
+
+    }
+
+    .viewer-buttons{
+
+        flex-wrap:wrap;
+
+    }
+
+    .viewer-buttons button{
+
+        min-width:100px;
+
+        padding:14px 10px;
+
+    }
+
+    .review-buttons{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    .heatmap-grid{
+
+        grid-template-columns:repeat(7,1fr);
+
+    }
+
+    .stats-summary{
+
+        grid-template-columns:repeat(2,1fr);
+
+    }
+
+    .study-actions{
+
+        flex-wrap:wrap;
 
     }
 

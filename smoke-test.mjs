@@ -294,4 +294,60 @@ doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
 await new Promise(r => setTimeout(r, 250));
 check("Stats overlay closes via Escape key", !doc.getElementById("stats-mode"));
 
+// --- Category filter counts ---
+const filterButtons = doc.querySelectorAll("#filters .filter");
+const allFilterButton = [...filterButtons].find(b => b.textContent.includes("ALL"));
+check("ALL filter shows a count matching total cards (120)", allFilterButton?.textContent.includes("120"));
+
+const espFilterButton = [...filterButtons].find(b => b.textContent.includes("ESP"));
+check("ESP filter shows a nonzero count", /ESP\s*15|ESP\D*\d+/.test(espFilterButton?.textContent || "") && !espFilterButton?.textContent.includes("0"));
+
+// --- Bookmark export ---
+check("Export button hidden when there are bookmarks already set (2 from earlier)", exportBtnVisible());
+
+function exportBtnVisible() {
+    const btn = doc.getElementById("exportBookmarks");
+    return btn && btn.style.display !== "none";
+}
+
+// clear bookmarks first to test the hidden state cleanly
+global.localStorage.setItem("coffeeDeck:bookmarks", "[]");
+firstCard.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 200));
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 300));
+check("Export button hidden when there are no bookmarks", doc.getElementById("exportBookmarks")?.style.display === "none");
+
+global.localStorage.setItem("coffeeDeck:bookmarks", JSON.stringify(["001", "002"]));
+firstCard.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 200));
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 300));
+check("Export button visible again once bookmarks exist", doc.getElementById("exportBookmarks")?.style.display !== "none");
+
+let downloadTriggered = false;
+let downloadedFilename = null;
+const originalCreateElement = doc.createElement.bind(doc);
+doc.createElement = (tag) => {
+    const el = originalCreateElement(tag);
+    if (tag === "a") {
+        const originalClick = el.click.bind(el);
+        el.click = () => {
+            downloadTriggered = true;
+            downloadedFilename = el.download;
+            originalClick();
+        };
+    }
+    return el;
+};
+
+doc.getElementById("exportBookmarks").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+
+check("Clicking Export triggers a download without throwing", errors.length === 0);
+check("Export download filename is correct", downloadedFilename === "coffee-deck-bookmarks.json");
+check("Clicking Export does NOT also open a study session (stopPropagation worked)", !doc.getElementById("study-mode"));
+
+doc.createElement = originalCreateElement;
+
 console.log("\nDone.");

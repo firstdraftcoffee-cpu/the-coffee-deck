@@ -53,6 +53,7 @@ const masteredCount = document.getElementById("masteredCount");
 const dueStat = document.getElementById("dueStat");
 const bookmarkStat = bookmarkCount.closest(".stat");
 const recentStat = recentCount.closest(".stat");
+const exportButton = document.getElementById("exportBookmarks");
 
 async function init() {
 
@@ -112,6 +113,25 @@ function setupDashboardActions() {
         startStudySession(session, {
             onClose: updateDashboard
         });
+
+    };
+
+    exportButton.onclick = e => {
+
+        e.stopPropagation();
+
+        const bookmarks = getBookmarks();
+
+        if (!bookmarks.length) return;
+
+        const cards = allCards().filter(
+            card => bookmarks.includes(card.number)
+        );
+
+        downloadJSON(
+            "coffee-deck-bookmarks.json",
+            buildBookmarkExport(cards)
+        );
 
     };
 
@@ -376,6 +396,9 @@ function updateDashboard() {
         getBookmarks().length === 0
     );
 
+    exportButton.style.display =
+        getBookmarks().length === 0 ? "none" : "inline-block";
+
     recentStat.classList.toggle(
         "disabled",
         getRecent().length === 0
@@ -383,9 +406,48 @@ function updateDashboard() {
 
 }
 
+function buildBookmarkExport(cards) {
+
+    const payload = cards.map(card => ({
+        number: card.number,
+        title: card.title,
+        category: card.category,
+        definition: card.definition
+    }));
+
+    return JSON.stringify(payload, null, 2);
+
+}
+
+function downloadJSON(filename, content) {
+
+    const blob = new Blob(
+        [content],
+        { type: "application/json" }
+    );
+
+    const url = URL.createObjectURL(blob);
+
+    const link = document.createElement("a");
+
+    link.href = url;
+    link.download = filename;
+
+    document.body.appendChild(link);
+
+    link.click();
+
+    document.body.removeChild(link);
+
+    URL.revokeObjectURL(url);
+
+}
+
 function buildFilters() {
 
     filters.innerHTML = "";
+
+    const total = allCards().length;
 
     getCategories().forEach(category => {
 
@@ -399,7 +461,19 @@ function buildFilters() {
 
         }
 
-        button.textContent = category;
+        const count = category === "ALL"
+            ? total
+            : allCards().filter(
+                card => card.category === category
+            ).length;
+
+        button.innerHTML = `
+
+${category}
+
+<span class="filter-count">${count}</span>
+
+`;
 
         button.onclick = () => {
 

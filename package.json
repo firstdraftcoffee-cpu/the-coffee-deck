@@ -10,6 +10,7 @@
     "cards": "node scripts/buildCards.js"
   },
   "devDependencies": {
+    "css": "^3.0.0",
     "jsdom": "^30.0.1",
     "vite": "^7.0.0"
   }
