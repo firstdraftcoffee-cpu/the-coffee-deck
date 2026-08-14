@@ -26,28 +26,39 @@ The Coffee Deck
 
 </div>
 
+<div class="nav-actions">
+
+<button id="filterToggle" class="icon-button" aria-label="Search and filter">
+
+⌕
+
+</button>
+
+<button id="studyToggle" class="icon-button" aria-label="Study mode">
+
+▶
+
+</button>
+
+<button id="statsToggle" class="icon-button" aria-label="Your progress">
+
+◔
+
+</button>
+
 <div id="count">
 
 0 Cards
 
 </div>
 
+</div>
+
 </nav>
 
-<header class="hero">
+<div id="filterPanel" class="filter-panel">
 
-<h1>
-
-Learn Coffee.<br>
-One Card at a Time.
-
-</h1>
-
-<p>
-
-A modern learning system for coffee professionals.
-
-</p>
+<div class="filter-panel-inner">
 
 <div class="search-wrapper">
 
@@ -59,57 +70,11 @@ placeholder="Search cards...">
 
 <div id="filters"></div>
 
-</header>
-
-<section id="dashboard">
-
-<div class="stat">
-
-<h2>Total Cards</h2>
-
-<span id="totalCards">0</span>
+</div>
 
 </div>
 
-<div class="stat">
-
-<h2>Bookmarks</h2>
-
-<span id="bookmarkCount">0</span>
-
-<button id="exportBookmarks" class="export-link">
-Export
-</button>
-
-</div>
-
-<div class="stat">
-
-<h2>Recently Viewed</h2>
-
-<span id="recentCount">0</span>
-
-</div>
-
-<div class="stat" id="dueStat">
-
-<h2>Due Today</h2>
-
-<span id="dueCount">0</span>
-
-</div>
-
-<div class="stat" id="masteredStat">
-
-<h2>Mastered</h2>
-
-<span id="masteredCount">0</span>
-
-</div>
-
-</section>
-
-<main id="cards"></main>
+<main id="home"></main>
 
 <script type="module" src="./src/app.js"></script>
 

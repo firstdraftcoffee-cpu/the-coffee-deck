@@ -5,8 +5,24 @@ import {
     getDailyActivity,
     getStreak,
     getCategoryStats,
-    getReviewHistory
+    getReviewHistory,
+    getDueCards
 } from "./review.js";
+
+import {
+    getBookmarks,
+    getRecent
+} from "./storage.js";
+
+import {
+    createStudySession,
+    createBookmarkSession,
+    createRecentSession
+} from "./study.js";
+
+import {
+    startStudySession
+} from "./studySession.js";
 
 export function openStats() {
 
@@ -20,6 +36,10 @@ export function openStats() {
     const history = getReviewHistory(cards)
         .filter(h => h.review.lastReviewed)
         .slice(0, 8);
+
+    const bookmarks = getBookmarks();
+    const recent = getRecent();
+    const dueCards = getDueCards(cards);
 
     const completionPct = cards.length
         ? Math.round(
@@ -64,6 +84,35 @@ export function openStats() {
 <button id="stats-close" aria-label="Close">&times;</button>
 
 </div>
+
+<h3>Library</h3>
+
+<div class="stats-summary">
+
+<div class="stats-tile">
+<span class="stats-tile-value">${cards.length}</span>
+<span class="stats-tile-label">Total Cards</span>
+</div>
+
+<div class="stats-tile clickable ${bookmarks.length ? "" : "disabled"}" id="tile-bookmarks">
+<span class="stats-tile-value">${bookmarks.length}</span>
+<span class="stats-tile-label">Bookmarks</span>
+${bookmarks.length ? `<button id="tile-export" class="export-link">Export</button>` : ""}
+</div>
+
+<div class="stats-tile clickable ${recent.length ? "" : "disabled"}" id="tile-recent">
+<span class="stats-tile-value">${recent.length}</span>
+<span class="stats-tile-label">Recently Viewed</span>
+</div>
+
+<div class="stats-tile clickable ${dueCards.length ? "" : "disabled"}" id="tile-due">
+<span class="stats-tile-value">${dueCards.length}</span>
+<span class="stats-tile-label">Due Today</span>
+</div>
+
+</div>
+
+<h3>Progress</h3>
 
 <div class="stats-summary">
 
@@ -171,6 +220,108 @@ ${history.map(h => `
     };
 
     document.addEventListener("keydown", statsKeyHandler);
+
+    document.getElementById("tile-due").onclick = () => {
+
+        if (!dueCards.length) return;
+
+        const session = createStudySession(dueCards, { shuffle: false });
+
+        closeStats();
+
+        startStudySession(session, { onClose: notifyRefresh });
+
+    };
+
+    document.getElementById("tile-bookmarks").onclick = e => {
+
+        if (e.target.id === "tile-export") return;
+
+        if (!bookmarks.length) return;
+
+        const session = createBookmarkSession(cards, bookmarks);
+
+        closeStats();
+
+        startStudySession(session, { onClose: notifyRefresh });
+
+    };
+
+    document.getElementById("tile-recent").onclick = () => {
+
+        if (!recent.length) return;
+
+        const session = createRecentSession(cards, recent);
+
+        closeStats();
+
+        startStudySession(session, { onClose: notifyRefresh });
+
+    };
+
+    const exportBtn = document.getElementById("tile-export");
+
+    if (exportBtn) {
+
+        exportBtn.onclick = e => {
+
+            e.stopPropagation();
+
+            const bookmarkedCards = cards.filter(
+                c => bookmarks.includes(c.number)
+            );
+
+            downloadJSON(
+                "coffee-deck-bookmarks.json",
+                buildBookmarkExport(bookmarkedCards)
+            );
+
+        };
+
+    }
+
+}
+
+function notifyRefresh() {
+
+    document.dispatchEvent(new CustomEvent("coffeedeck:refresh"));
+
+}
+
+function buildBookmarkExport(cards) {
+
+    const payload = cards.map(card => ({
+        number: card.number,
+        title: card.title,
+        category: card.category,
+        definition: card.definition
+    }));
+
+    return JSON.stringify(payload, null, 2);
+
+}
+
+function downloadJSON(filename, content) {
+
+    const blob = new Blob(
+        [content],
+        { type: "application/json" }
+    );
+
+    const url = URL.createObjectURL(blob);
+
+    const link = document.createElement("a");
+
+    link.href = url;
+    link.download = filename;
+
+    document.body.appendChild(link);
+
+    link.click();
+
+    document.body.removeChild(link);
+
+    URL.revokeObjectURL(url);
 
 }
 

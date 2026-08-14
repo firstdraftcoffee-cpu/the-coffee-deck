@@ -14,13 +14,12 @@ import {
     getRecent,
     addRecentSearch,
     getRecentSearches,
-    clearRecentSearches
+    clearRecentSearches,
+    toggleBookmark
 } from "./storage.js";
 
 import {
-    createStudySession,
-    createBookmarkSession,
-    createRecentSession
+    createStudySession
 } from "./study.js";
 
 import {
@@ -28,9 +27,8 @@ import {
 } from "./studySession.js";
 
 import {
-    getDueCards,
-    getReviewStats
-} from "./review.js";
+    setupSwipe
+} from "./swipe.js";
 
 import {
     openStats
@@ -38,22 +36,17 @@ import {
 
 let activeCategory = "ALL";
 let currentSort = "number";
+let homeCards = [];
+let homeIndex = 0;
 
 const search = document.getElementById("search");
-const cardsContainer = document.getElementById("cards");
+const home = document.getElementById("home");
 const filters = document.getElementById("filters");
 const counter = document.getElementById("count");
-
-const totalCards = document.getElementById("totalCards");
-const bookmarkCount = document.getElementById("bookmarkCount");
-const recentCount = document.getElementById("recentCount");
-const dueCount = document.getElementById("dueCount");
-const masteredCount = document.getElementById("masteredCount");
-
-const dueStat = document.getElementById("dueStat");
-const bookmarkStat = bookmarkCount.closest(".stat");
-const recentStat = recentCount.closest(".stat");
-const exportButton = document.getElementById("exportBookmarks");
+const filterToggle = document.getElementById("filterToggle");
+const filterPanel = document.getElementById("filterPanel");
+const studyToggle = document.getElementById("studyToggle");
+const statsToggle = document.getElementById("statsToggle");
 
 async function init() {
 
@@ -61,197 +54,65 @@ async function init() {
 
     buildFilters();
 
-    createStudyButton();
-
-    createSortSelector();
-
-    createStatsButton();
+    setupNav();
 
     createRecentSearches();
 
-    setupDashboardActions();
+    document.addEventListener("coffeedeck:refresh", renderHome);
 
-    updateDashboard();
-
-    render();
+    renderHome();
 
 }
 
-function setupDashboardActions() {
+function setupNav() {
 
-    dueStat.classList.add("clickable");
+    filterToggle.onclick = () => {
 
-    dueStat.onclick = () => {
+        filterPanel.classList.toggle("show");
 
-        const due = getDueCards(allCards());
+        if (filterPanel.classList.contains("show")) {
 
-        if (!due.length) return;
+            search.focus();
 
-        const session = createStudySession(due, {
-            shuffle: false
-        });
-
-        startStudySession(session, {
-            onClose: updateDashboard
-        });
+        }
 
     };
 
-    bookmarkStat.classList.add("clickable");
+    statsToggle.onclick = () => {
 
-    bookmarkStat.onclick = () => {
-
-        const bookmarks = getBookmarks();
-
-        if (!bookmarks.length) return;
-
-        const session = createBookmarkSession(
-            allCards(),
-            bookmarks
-        );
-
-        startStudySession(session, {
-            onClose: updateDashboard
-        });
+        openStats();
 
     };
 
-    exportButton.onclick = e => {
-
-        e.stopPropagation();
-
-        const bookmarks = getBookmarks();
-
-        if (!bookmarks.length) return;
-
-        const cards = allCards().filter(
-            card => bookmarks.includes(card.number)
-        );
-
-        downloadJSON(
-            "coffee-deck-bookmarks.json",
-            buildBookmarkExport(cards)
-        );
-
-    };
-
-    recentStat.classList.add("clickable");
-
-    recentStat.onclick = () => {
-
-        const recent = getRecent();
-
-        if (!recent.length) return;
-
-        const session = createRecentSession(
-            allCards(),
-            recent
-        );
-
-        startStudySession(session, {
-            onClose: updateDashboard
-        });
-
-    };
-
-}
-
-function createStudyButton() {
-
-    if (document.getElementById("studyButton")) return;
-
-    const button = document.createElement("button");
-
-    button.id = "studyButton";
-
-    button.className = "study-button";
-
-    button.textContent = "Study Mode";
-
-    button.onclick = () => {
+    studyToggle.onclick = () => {
 
         const cards = getVisibleCards();
+
+        if (!cards.length) return;
 
         const session = createStudySession(cards, {
             shuffle: false
         });
 
         startStudySession(session, {
-            onClose: updateDashboard
+            onClose: renderHome
         });
 
     };
 
-    filters.parentNode.insertBefore(
-        button,
-        filters.nextSibling
-    );
+    document.addEventListener("click", e => {
 
-}
+        if (
+            filterPanel.classList.contains("show") &&
+            !filterPanel.contains(e.target) &&
+            e.target !== filterToggle
+        ) {
 
-function createSortSelector() {
+            filterPanel.classList.remove("show");
 
-    if (document.getElementById("sortSelector")) return;
-
-    const select = document.createElement("select");
-
-    select.id = "sortSelector";
-
-    select.className = "sort-selector";
-
-    [
-        ["number", "Sort: Card Number"],
-        ["title", "Sort: Title"],
-        ["category", "Sort: Category"]
-    ].forEach(([value, label]) => {
-
-        const option = document.createElement("option");
-
-        option.value = value;
-
-        option.textContent = label;
-
-        select.appendChild(option);
+        }
 
     });
-
-    select.onchange = () => {
-
-        currentSort = select.value;
-
-        render();
-
-    };
-
-    filters.parentNode.insertBefore(
-        select,
-        document.getElementById("studyButton").nextSibling
-    );
-
-}
-
-function createStatsButton() {
-
-    if (document.getElementById("statsButton")) return;
-
-    const button = document.createElement("button");
-
-    button.id = "statsButton";
-
-    button.className = "study-button stats-button";
-
-    button.textContent = "Stats";
-
-    button.onclick = () => {
-
-        openStats();
-
-    };
-
-    filters.parentNode.insertBefore(
-        button,
-        document.getElementById("sortSelector").nextSibling
-    );
 
 }
 
@@ -323,7 +184,9 @@ function showRecentSearches() {
 
                 hideRecentSearches();
 
-                render();
+                homeIndex = 0;
+
+                renderHome();
 
             };
 
@@ -372,77 +235,6 @@ function highlightMatch(text, query) {
 
 }
 
-function updateDashboard() {
-
-    totalCards.textContent = searchCards().length;
-
-    bookmarkCount.textContent = getBookmarks().length;
-
-    recentCount.textContent = getRecent().length;
-
-    const stats = getReviewStats(allCards());
-
-    dueCount.textContent = stats.dueToday;
-
-    masteredCount.textContent = stats.mastered;
-
-    dueStat.classList.toggle(
-        "disabled",
-        stats.dueToday === 0
-    );
-
-    bookmarkStat.classList.toggle(
-        "disabled",
-        getBookmarks().length === 0
-    );
-
-    exportButton.style.display =
-        getBookmarks().length === 0 ? "none" : "inline-block";
-
-    recentStat.classList.toggle(
-        "disabled",
-        getRecent().length === 0
-    );
-
-}
-
-function buildBookmarkExport(cards) {
-
-    const payload = cards.map(card => ({
-        number: card.number,
-        title: card.title,
-        category: card.category,
-        definition: card.definition
-    }));
-
-    return JSON.stringify(payload, null, 2);
-
-}
-
-function downloadJSON(filename, content) {
-
-    const blob = new Blob(
-        [content],
-        { type: "application/json" }
-    );
-
-    const url = URL.createObjectURL(blob);
-
-    const link = document.createElement("a");
-
-    link.href = url;
-    link.download = filename;
-
-    document.body.appendChild(link);
-
-    link.click();
-
-    document.body.removeChild(link);
-
-    URL.revokeObjectURL(url);
-
-}
-
 function buildFilters() {
 
     filters.innerHTML = "";
@@ -454,12 +246,6 @@ function buildFilters() {
         const button = document.createElement("button");
 
         button.className = "filter";
-
-        if (category !== "ALL") {
-
-            button.classList.add("cat-" + category.toLowerCase());
-
-        }
 
         if (category === activeCategory) {
 
@@ -487,7 +273,11 @@ ${category}
 
             buildFilters();
 
-            render();
+            homeIndex = 0;
+
+            renderHome();
+
+            filterPanel.classList.remove("show");
 
         };
 
@@ -546,53 +336,164 @@ function getVisibleCards() {
 
 }
 
-function render() {
+export function renderHome() {
 
-    const cards = getVisibleCards();
+    homeCards = getVisibleCards();
 
-    const query = search.value.trim();
+    counter.textContent = `${homeCards.length} Cards`;
 
-    counter.textContent = `${cards.length} Cards`;
+    if (homeIndex >= homeCards.length) {
 
-    cardsContainer.innerHTML = "";
+        homeIndex = 0;
 
-    cards.forEach((card, index) => {
+    }
 
-        const div = document.createElement("div");
+    renderHomeCard();
 
-        div.className = "card";
+}
 
-        div.innerHTML = `
+function renderHomeCard() {
 
-<div class="card-number">
-${card.number}
+    home.innerHTML = "";
+
+    if (!homeCards.length) {
+
+        home.innerHTML = `
+
+<div class="home-empty">
+
+No cards match your search.
+
 </div>
-
-<h2>
-${highlightMatch(card.title, query)}
-</h2>
-
-<div class="category cat-${card.category.toLowerCase()}">
-${card.category}
-</div>
-
-<p>
-${highlightMatch(card.definition, query)}
-</p>
 
 `;
 
-        div.onclick = () => {
+        return;
 
-            openViewer(cards, index, {
-                onClose: updateDashboard
-            });
+    }
 
-        };
+    const card = homeCards[homeIndex];
 
-        cardsContainer.appendChild(div);
+    const query = search.value.trim();
 
-    });
+    const heroImage = card.hero_image
+        ? `/images/cards/${card.hero_image}`
+        : null;
+
+    const bookmarked = getBookmarks().includes(card.number);
+
+    const stage = document.createElement("div");
+
+    stage.className = "home-stage";
+
+    const el = document.createElement("div");
+
+    el.className = "home-card";
+
+    el.innerHTML = `
+
+${heroImage ? `
+
+<div class="home-card-image">
+<img src="${heroImage}" alt="${card.title}" onerror="this.parentElement.style.display='none'">
+</div>
+
+` : ""}
+
+<div class="home-card-body">
+
+<div class="home-card-top">
+
+<span class="card-number">${card.number}</span>
+
+<span class="category cat-${card.category.toLowerCase()}">${card.category}</span>
+
+</div>
+
+<h2>${highlightMatch(card.title, query)}</h2>
+
+<p>${highlightMatch(card.definition, query)}</p>
+
+</div>
+
+<div class="home-progress">${homeIndex + 1} / ${homeCards.length}</div>
+
+`;
+
+    let dragged = false;
+
+    el.onclick = () => {
+
+        if (dragged) {
+
+            dragged = false;
+
+            return;
+
+        }
+
+        openViewer(homeCards, homeIndex, {
+            onClose: renderHomeCard
+        });
+
+    };
+
+    stage.appendChild(el);
+
+    home.appendChild(stage);
+
+    const actions = document.createElement("div");
+
+    actions.className = "home-actions";
+
+    actions.innerHTML = `
+
+<button id="homePrev" aria-label="Previous card">←</button>
+
+<button id="homeBookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}">${bookmarked ? "♥" : "♡"}</button>
+
+<button id="homeNext" aria-label="Next card">→</button>
+
+`;
+
+    home.appendChild(actions);
+
+    actions.querySelector("#homePrev").onclick = previousHome;
+
+    actions.querySelector("#homeNext").onclick = nextHome;
+
+    actions.querySelector("#homeBookmark").onclick = e => {
+
+        e.stopPropagation();
+
+        toggleBookmark(card.number);
+
+        renderHomeCard();
+
+    };
+
+    setupSwipe(
+        el,
+        previousHome,
+        nextHome,
+        () => { dragged = true; }
+    );
+
+}
+
+function previousHome() {
+
+    homeIndex = (homeIndex - 1 + homeCards.length) % homeCards.length;
+
+    renderHomeCard();
+
+}
+
+function nextHome() {
+
+    homeIndex = (homeIndex + 1) % homeCards.length;
+
+    renderHomeCard();
 
 }
 
@@ -600,7 +501,9 @@ search.oninput = () => {
 
     hideRecentSearches();
 
-    render();
+    homeIndex = 0;
+
+    renderHome();
 
 };
 
@@ -611,6 +514,8 @@ search.addEventListener("keydown", e => {
         addRecentSearch(search.value);
 
         search.blur();
+
+        filterPanel.classList.remove("show");
 
     }
 
