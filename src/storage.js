@@ -76,3 +76,37 @@ export function getRecent() {
     return load("recent", []);
 
 }
+
+export function addRecentSearch(term) {
+
+    term = term.trim();
+
+    if (!term) return getRecentSearches();
+
+    let searches = load("recentSearches", []);
+
+    searches = searches.filter(
+        s => s.toLowerCase() !== term.toLowerCase()
+    );
+
+    searches.unshift(term);
+
+    searches = searches.slice(0, 8);
+
+    save("recentSearches", searches);
+
+    return searches;
+
+}
+
+export function getRecentSearches() {
+
+    return load("recentSearches", []);
+
+}
+
+export function clearRecentSearches() {
+
+    save("recentSearches", []);
+
+}

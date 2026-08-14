@@ -32,29 +32,103 @@ export function getCategories() {
 
 }
 
+function levenshtein(a, b) {
+
+    if (Math.abs(a.length - b.length) > 2) return 3;
+
+    const rows = a.length + 1;
+    const cols = b.length + 1;
+
+    const dp = Array.from(
+        { length: rows },
+        () => new Array(cols).fill(0)
+    );
+
+    for (let i = 0; i < rows; i++) dp[i][0] = i;
+    for (let j = 0; j < cols; j++) dp[0][j] = j;
+
+    for (let i = 1; i < rows; i++) {
+
+        for (let j = 1; j < cols; j++) {
+
+            if (a[i - 1] === b[j - 1]) {
+
+                dp[i][j] = dp[i - 1][j - 1];
+
+            } else {
+
+                dp[i][j] = 1 + Math.min(
+                    dp[i - 1][j],
+                    dp[i][j - 1],
+                    dp[i - 1][j - 1]
+                );
+
+            }
+
+        }
+
+    }
+
+    return dp[rows - 1][cols - 1];
+
+}
+
+function scoreCard(card, query) {
+
+    const title = card.title.toLowerCase();
+    const definition = card.definition.toLowerCase();
+
+    if (title === query) return 100;
+
+    if (title.startsWith(query)) return 80;
+
+    if (title.includes(query)) return 60;
+
+    if (definition.includes(query)) return 30;
+
+    if (query.length >= 3) {
+
+        const words = title.split(/\s+/);
+
+        for (const word of words) {
+
+            if (
+                Math.abs(word.length - query.length) <= 2 &&
+                levenshtein(word, query) <= 1
+            ) {
+
+                return 15;
+
+            }
+
+        }
+
+    }
+
+    return -1;
+
+}
+
 export function searchCards(text = "", category = "ALL") {
 
-    text = text.toLowerCase();
+    const query = text.toLowerCase().trim();
 
-    return cards.filter(card => {
+    return cards
 
-        const categoryMatch =
+        .filter(card =>
+            category === "ALL" || card.category === category
+        )
 
-            category === "ALL" ||
+        .map(card => ({
+            card,
+            score: query ? scoreCard(card, query) : 0
+        }))
 
-            card.category === category;
+        .filter(({ score }) => score >= 0)
 
-        const textMatch =
+        .sort((a, b) => b.score - a.score)
 
-            card.title.toLowerCase().includes(text)
-
-            ||
-
-            card.definition.toLowerCase().includes(text);
-
-        return categoryMatch && textMatch;
-
-    });
+        .map(({ card }) => card);
 
 }
 

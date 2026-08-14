@@ -82,6 +82,86 @@ nav{
 
 }
 
+.card mark, .study-window mark{
+
+    background:#f0d999;
+
+    color:#4a2f16;
+
+    padding:0 2px;
+
+    border-radius:3px;
+
+}
+
+.search-wrapper{
+
+    position:relative;
+
+    max-width:700px;
+
+    margin:0 auto;
+
+}
+
+.recent-searches{
+
+    display:none;
+
+    position:absolute;
+
+    top:calc(100% + 8px);
+
+    left:0;
+
+    right:0;
+
+    background:white;
+
+    border-radius:14px;
+
+    box-shadow:0 8px 28px rgba(0,0,0,.12);
+
+    padding:10px;
+
+    z-index:20;
+
+    flex-wrap:wrap;
+
+    gap:8px;
+
+}
+
+.recent-searches.show{
+
+    display:flex;
+
+}
+
+.recent-search-item{
+
+    background:#efe7de;
+
+    border:none;
+
+    border-radius:10px;
+
+    padding:8px 14px;
+
+    font-size:14px;
+
+    color:#6b4b2a;
+
+    cursor:pointer;
+
+}
+
+.recent-search-item:hover{
+
+    background:#e5d9c8;
+
+}
+
 #filters{
 
     display:flex;

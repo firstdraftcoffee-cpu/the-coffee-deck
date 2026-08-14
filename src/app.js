@@ -11,7 +11,9 @@ import {
 
 import {
     getBookmarks,
-    getRecent
+    getRecent,
+    addRecentSearch,
+    getRecentSearches
 } from "./storage.js";
 
 import {
@@ -54,6 +56,8 @@ async function init() {
     createStudyButton();
 
     createSortSelector();
+
+    createRecentSearches();
 
     setupDashboardActions();
 
@@ -178,6 +182,113 @@ function createSortSelector() {
 
 }
 
+function createRecentSearches() {
+
+    if (document.getElementById("recentSearches")) return;
+
+    const box = document.createElement("div");
+
+    box.id = "recentSearches";
+
+    box.className = "recent-searches";
+
+    search.parentNode.insertBefore(
+        box,
+        search.nextSibling
+    );
+
+    search.addEventListener("focus", showRecentSearches);
+
+    search.addEventListener("blur", () => {
+
+        setTimeout(hideRecentSearches, 150);
+
+    });
+
+}
+
+function showRecentSearches() {
+
+    const box = document.getElementById("recentSearches");
+
+    if (!box) return;
+
+    if (search.value.trim()) {
+
+        box.classList.remove("show");
+
+        return;
+
+    }
+
+    const recentTerms = getRecentSearches();
+
+    if (!recentTerms.length) {
+
+        box.classList.remove("show");
+
+        return;
+
+    }
+
+    box.innerHTML = recentTerms
+
+        .map(term =>
+            `<button class="recent-search-item">${term}</button>`
+        )
+
+        .join("");
+
+    box.querySelectorAll(".recent-search-item").forEach(
+        (button, i) => {
+
+            button.onclick = () => {
+
+                search.value = recentTerms[i];
+
+                hideRecentSearches();
+
+                render();
+
+            };
+
+        }
+
+    );
+
+    box.classList.add("show");
+
+}
+
+function hideRecentSearches() {
+
+    document.getElementById("recentSearches")
+        ?.classList.remove("show");
+
+}
+
+function escapeRegex(str) {
+
+    return str.replace(
+        /[.*+?^${}()|[\]\\]/g,
+        "\\$&"
+    );
+
+}
+
+function highlightMatch(text, query) {
+
+    if (!query) return text;
+
+    const pattern = new RegExp(
+        `(${escapeRegex(query)})`,
+        "gi"
+    );
+
+    return text.replace(pattern, "<mark>$1</mark>");
+
+}
+
 function updateDashboard() {
 
     totalCards.textContent = searchCards().length;
@@ -273,6 +384,12 @@ function getVisibleCards() {
 
         default:
 
+            if (search.value.trim()) {
+
+                return cards;
+
+            }
+
             return [...cards].sort((a, b) =>
                 a.number - b.number
             );
@@ -284,6 +401,8 @@ function getVisibleCards() {
 function render() {
 
     const cards = getVisibleCards();
+
+    const query = search.value.trim();
 
     counter.textContent = `${cards.length} Cards`;
 
@@ -302,7 +421,7 @@ ${card.number}
 </div>
 
 <h2>
-${card.title}
+${highlightMatch(card.title, query)}
 </h2>
 
 <div class="category">
@@ -310,7 +429,7 @@ ${card.category}
 </div>
 
 <p>
-${card.definition}
+${highlightMatch(card.definition, query)}
 </p>
 
 `;
@@ -329,6 +448,34 @@ ${card.definition}
 
 }
 
-search.oninput = render;
+search.oninput = () => {
+
+    hideRecentSearches();
+
+    render();
+
+};
+
+search.addEventListener("keydown", e => {
+
+    if (e.key === "Enter") {
+
+        addRecentSearch(search.value);
+
+        search.blur();
+
+    }
+
+});
+
+search.addEventListener("blur", () => {
+
+    if (search.value.trim()) {
+
+        addRecentSearch(search.value);
+
+    }
+
+});
 
 init();

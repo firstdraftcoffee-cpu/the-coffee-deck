@@ -153,4 +153,55 @@ await new Promise(r => setTimeout(r, 250));
 check("Clicking Bookmarks opens a study session", !!doc.getElementById("study-mode"));
 check("Bookmark study session has exactly 2 cards", doc.querySelector(".study-counter")?.textContent.includes("of 2"));
 
+if (doc.getElementById("study-exit")) {
+    doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 250));
+}
+
+// --- Search relevance ranking ---
+const searchInput = doc.getElementById("search");
+searchInput.value = "espresso";
+searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+
+const resultTitles = [...doc.querySelectorAll("#cards .card h2")].map(h => h.textContent.trim());
+check("Searching 'espresso' returns results", resultTitles.length > 0);
+check("Exact title match 'Espresso' ranks first", resultTitles[0].toLowerCase().includes("espresso"));
+
+// --- Highlighting ---
+const firstResultH2 = doc.querySelector("#cards .card h2");
+check("Search term is wrapped in <mark> in results", firstResultH2?.innerHTML.toLowerCase().includes("<mark>"));
+
+// --- Fuzzy typo tolerance ---
+searchInput.value = "expresso"; // common misspelling
+searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+const fuzzyTitles = [...doc.querySelectorAll("#cards .card h2")].map(h => h.textContent.trim());
+check("Typo 'expresso' still finds Espresso via fuzzy match", fuzzyTitles.some(t => t.toLowerCase().includes("espresso")));
+
+// --- No results for nonsense query, no crash ---
+searchInput.value = "zzzznonexistentqueryzzzz";
+searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+check("Nonsense query returns 0 results without throwing", doc.querySelectorAll("#cards .card").length === 0 && errors.length === 0);
+
+// --- Recent searches ---
+searchInput.value = "";
+searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+searchInput.value = "milk";
+searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+searchInput.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Enter", bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+
+const savedSearches = JSON.parse(global.localStorage.getItem("coffeeDeck:recentSearches") || "[]");
+check("Search term saved to recent searches on Enter", savedSearches.includes("milk"));
+
+searchInput.value = "";
+searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+searchInput.dispatchEvent(new window.Event("focus", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+const recentBox = doc.getElementById("recentSearches");
+check("Recent searches dropdown shows when input is empty and focused", recentBox?.classList.contains("show"));
+check("Recent search chip renders the saved term", recentBox?.textContent.includes("milk"));
+
 console.log("\nDone.");
