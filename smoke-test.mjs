@@ -387,4 +387,54 @@ if (doc.getElementById("study-exit")) {
 
 check("No errors introduced by redesign changes", errors.length === 0);
 
+// --- Swipe gesture ---
+firstCard.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+
+const viewerWindow = doc.querySelector(".viewer-window");
+check("Viewer window exists for swipe testing", !!viewerWindow);
+
+function simulateDrag(el, dxTotal) {
+    const down = new window.PointerEvent("pointerdown", { clientX: 200, bubbles: true, pointerId: 1 });
+    Object.defineProperty(down, "target", { value: el, enumerable: true });
+    el.dispatchEvent(down);
+    const move = new window.PointerEvent("pointermove", { clientX: 200 + dxTotal, bubbles: true, pointerId: 1 });
+    el.dispatchEvent(move);
+    const up = new window.PointerEvent("pointerup", { clientX: 200 + dxTotal, bubbles: true, pointerId: 1 });
+    el.dispatchEvent(up);
+}
+
+const titleBefore = doc.querySelector(".viewer-window h2")?.textContent.trim();
+simulateDrag(viewerWindow, 200); // big drag right, should go to previous card
+await new Promise(r => setTimeout(r, 300));
+const titleAfterBigDrag = doc.querySelector(".viewer-window h2")?.textContent.trim();
+check("Large drag (>120px) on viewer navigates to a different card", titleBefore !== titleAfterBigDrag);
+check("No errors from swipe gesture on viewer", errors.length === 0);
+
+const titleBeforeSmall = doc.querySelector(".viewer-window h2")?.textContent.trim();
+const vw2 = doc.querySelector(".viewer-window");
+simulateDrag(vw2, 30); // small drag, should snap back not navigate
+await new Promise(r => setTimeout(r, 300));
+const titleAfterSmallDrag = doc.querySelector(".viewer-window h2")?.textContent.trim();
+check("Small drag (<120px) on viewer does NOT navigate (snaps back)", titleBeforeSmall === titleAfterSmallDrag);
+
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 300));
+
+// Swipe on study mode too
+studyButton.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+const studyWindow = doc.querySelector(".study-window");
+const studyCounterBefore = doc.querySelector(".study-counter")?.textContent;
+simulateDrag(studyWindow, -200); // drag left, should go to next card
+await new Promise(r => setTimeout(r, 300));
+const studyCounterAfter = doc.querySelector(".study-counter")?.textContent;
+check("Large drag on study window navigates to next card", studyCounterBefore !== studyCounterAfter);
+check("No errors from swipe gesture on study mode", errors.length === 0);
+
+if (doc.getElementById("study-exit")) {
+    doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 250));
+}
+
 console.log("\nDone.");

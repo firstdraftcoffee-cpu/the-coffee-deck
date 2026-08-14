@@ -215,21 +215,19 @@ ${c.title}
 
 <div class="viewer-buttons">
 
-<button id="previous">
+<button id="previous" aria-label="Previous card">
 
 ←
 
 </button>
 
-<button id="bookmark">
+<button id="bookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}">
 
-${bookmarked
-    ? "★ Bookmarked"
-    : "☆ Bookmark"}
+${bookmarked ? "♥" : "♡"}
 
 </button>
 
-<button id="next">
+<button id="next" aria-label="Next card">
 
 →
 
@@ -342,8 +340,13 @@ ${bookmarked
 
             bookmarkButton.textContent =
                 nowBookmarked
-                    ? "★ Bookmarked"
-                    : "☆ Bookmark";
+                    ? "♥"
+                    : "♡";
+
+            bookmarkButton.classList.toggle(
+                "active",
+                nowBookmarked
+            );
 
         }
     );
@@ -397,6 +400,95 @@ ${bookmarked
             );
 
         });
+
+    setupSwipe(
+        viewer.querySelector(".viewer-window"),
+        previous,
+        next
+    );
+
+}
+
+function setupSwipe(element, onPrev, onNext) {
+
+    let startX = 0;
+    let dx = 0;
+    let dragging = false;
+
+    element.addEventListener("pointerdown", e => {
+
+        if (e.target.closest("button, a, .related-card")) return;
+
+        dragging = true;
+
+        startX = e.clientX;
+
+        element.style.transition = "none";
+
+        try {
+
+            element.setPointerCapture(e.pointerId);
+
+        } catch {}
+
+    });
+
+    element.addEventListener("pointermove", e => {
+
+        if (!dragging) return;
+
+        dx = e.clientX - startX;
+
+        element.style.transform =
+            `translateX(${dx}px) rotate(${dx / 25}deg)`;
+
+    });
+
+    const release = () => {
+
+        if (!dragging) return;
+
+        dragging = false;
+
+        element.style.transition =
+            "transform .25s ease, opacity .25s ease";
+
+        if (Math.abs(dx) > 120) {
+
+            const dir = dx > 0 ? 1 : -1;
+
+            element.style.transform =
+                `translateX(${dir * 500}px) rotate(${dir * 25}deg)`;
+
+            element.style.opacity = "0";
+
+            setTimeout(() => {
+
+                if (dir > 0) {
+
+                    onPrev();
+
+                } else {
+
+                    onNext();
+
+                }
+
+            }, 180);
+
+        } else {
+
+            element.style.transform = "";
+
+        }
+
+        dx = 0;
+
+    };
+
+    element.addEventListener("pointerup", release);
+
+    element.addEventListener("pointercancel", release);
 
 }
 
