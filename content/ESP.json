@@ -11,7 +11,11 @@
     "tip": "Master consistency before chasing perfection.",
     "mistake": "Judging espresso by crema alone.",
     "challenge": "Explain espresso in one sentence.",
-    "related": ["002","003","004"]
+    "related": [
+      "002",
+      "003",
+      "004"
+    ]
   },
   {
     "number": "002",
@@ -19,13 +23,17 @@
     "category": "ESP",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": "002.jpg",
+    "hero_image": null,
     "definition": "The weight of dry coffee placed into the portafilter.",
     "why": "Dose affects puck depth, flow and extraction.",
     "tip": "Always weigh every dose.",
     "mistake": "Changing dose before checking grind.",
     "challenge": "Why does dose affect flow?",
-    "related": ["001","003","004"]
+    "related": [
+      "001",
+      "003",
+      "004"
+    ]
   },
   {
     "number": "003",
@@ -33,13 +41,17 @@
     "category": "ESP",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": "003.jpg",
+    "hero_image": null,
     "definition": "The weight of espresso produced in the cup.",
     "why": "Yield determines brew ratio and strength.",
     "tip": "Measure by weight, never volume.",
     "mistake": "Stopping shots by colour.",
     "challenge": "Calculate a 1:2 brew ratio.",
-    "related": ["002","004","005"]
+    "related": [
+      "002",
+      "004",
+      "005"
+    ]
   },
   {
     "number": "004",
@@ -47,13 +59,17 @@
     "category": "ESP",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "004.jpg",
+    "hero_image": null,
     "definition": "The relationship between coffee dose and beverage yield.",
     "why": "One of the biggest flavour controls.",
     "tip": "Start around 1:2.",
     "mistake": "Thinking ratios are fixed rules.",
     "challenge": "Compare 1:1.5 and 1:3.",
-    "related": ["003","005","006"]
+    "related": [
+      "003",
+      "005",
+      "006"
+    ]
   },
   {
     "number": "005",
@@ -67,7 +83,11 @@
     "tip": "Taste every shot.",
     "mistake": "Relying on shot time alone.",
     "challenge": "Describe over-extraction.",
-    "related": ["004","006","007"]
+    "related": [
+      "004",
+      "006",
+      "007"
+    ]
   },
   {
     "number": "006",
@@ -75,13 +95,17 @@
     "category": "ESP",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "006.jpg",
+    "hero_image": null,
     "definition": "The particle size produced by the grinder.",
     "why": "The primary dial-in adjustment.",
     "tip": "Move the grinder in small increments.",
     "mistake": "Making huge adjustments.",
     "challenge": "How does finer grind affect flow?",
-    "related": ["005","007","008"]
+    "related": [
+      "005",
+      "007",
+      "008"
+    ]
   },
   {
     "number": "007",
@@ -95,7 +119,11 @@
     "tip": "Record every shot.",
     "mistake": "Dialling in by time only.",
     "challenge": "Can identical times taste different?",
-    "related": ["006","008","009"]
+    "related": [
+      "006",
+      "008",
+      "009"
+    ]
   },
   {
     "number": "008",
@@ -103,13 +131,17 @@
     "category": "ESP",
     "difficulty": 3,
     "reading_time": 3,
-    "hero_image": "008.jpg",
+    "hero_image": null,
     "definition": "Uneven water flow through weak points in the puck.",
     "why": "Causes uneven extraction.",
     "tip": "Improve puck preparation.",
     "mistake": "Ignoring distribution.",
     "challenge": "Name three causes.",
-    "related": ["007","009","010"]
+    "related": [
+      "007",
+      "009",
+      "010"
+    ]
   },
   {
     "number": "009",
@@ -123,7 +155,11 @@
     "tip": "Keep the technique simple.",
     "mistake": "Leaving voids in the puck.",
     "challenge": "Why is even density important?",
-    "related": ["008","010","011"]
+    "related": [
+      "008",
+      "010",
+      "011"
+    ]
   },
   {
     "number": "010",
@@ -131,13 +167,17 @@
     "category": "ESP",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "010.jpg",
+    "hero_image": null,
     "definition": "Compressing the coffee into a level puck.",
     "why": "Levelness is more important than force.",
     "tip": "Focus on repeatability.",
     "mistake": "Twisting aggressively.",
     "challenge": "Why is a level tamp important?",
-    "related": ["009","011","012"]
+    "related": [
+      "009",
+      "011",
+      "012"
+    ]
   },
   {
     "number": "011",
@@ -145,13 +185,17 @@
     "category": "ESP",
     "difficulty": 3,
     "reading_time": 3,
-    "hero_image": "011.jpg",
+    "hero_image": null,
     "definition": "Low-pressure wetting of the puck before full brewing pressure.",
     "why": "Can improve extraction uniformity.",
     "tip": "Evaluate by taste, not theory.",
     "mistake": "Assuming longer is always better.",
     "challenge": "When is pre-infusion useful?",
-    "related": ["010","012","013"]
+    "related": [
+      "010",
+      "012",
+      "013"
+    ]
   },
   {
     "number": "012",
@@ -159,13 +203,17 @@
     "category": "ESP",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "012.jpg",
+    "hero_image": null,
     "definition": "The force pushing water through the coffee puck.",
     "why": "Pressure influences flow and extraction.",
     "tip": "Stable pressure matters more than maximum pressure.",
     "mistake": "Blaming pressure for every problem.",
     "challenge": "What is the traditional brew pressure?",
-    "related": ["011","013","014"]
+    "related": [
+      "011",
+      "013",
+      "014"
+    ]
   },
   {
     "number": "013",
@@ -173,13 +221,17 @@
     "category": "ESP",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "013.jpg",
+    "hero_image": null,
     "definition": "The brewing water temperature during extraction.",
     "why": "Temperature changes extraction efficiency.",
     "tip": "Change only one variable at a time.",
     "mistake": "Making large temperature jumps.",
     "challenge": "How does hotter water affect extraction?",
-    "related": ["012","014","015"]
+    "related": [
+      "012",
+      "014",
+      "015"
+    ]
   },
   {
     "number": "014",
@@ -187,13 +239,17 @@
     "category": "ESP",
     "difficulty": 3,
     "reading_time": 3,
-    "hero_image": "014.jpg",
+    "hero_image": null,
     "definition": "The process of adjusting espresso variables to achieve the desired flavour.",
     "why": "Every coffee requires dialling in.",
     "tip": "Change one variable at a time.",
     "mistake": "Changing multiple variables together.",
     "challenge": "List the normal dial-in sequence.",
-    "related": ["013","015","006"]
+    "related": [
+      "013",
+      "015",
+      "006"
+    ]
   },
   {
     "number": "015",
@@ -201,12 +257,16 @@
     "category": "ESP",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "015.jpg",
+    "hero_image": null,
     "definition": "A documented combination of dose, yield, time and temperature used to produce espresso consistently.",
     "why": "Recipes allow repeatability across staff and locations.",
     "tip": "Write every recipe down.",
     "mistake": "Trusting memory.",
     "challenge": "Build a recipe for an 18g dose.",
-    "related": ["014","004","003"]
+    "related": [
+      "014",
+      "004",
+      "003"
+    ]
   }
 ]
