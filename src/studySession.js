@@ -34,11 +34,7 @@ function render() {
 
     document.getElementById("study-mode")?.remove();
 
-    const progress = Math.round(
-
-        ((index + 1) / cards.length) * 100
-
-    );
+    const progress = (index + 1) / cards.length;
 
     const card = cards[index];
 
@@ -49,6 +45,16 @@ function render() {
     overlay.innerHTML = `
 
 <div class="study-window">
+
+<button
+class="close close-lg"
+id="study-exit-x"
+aria-label="Close"
+>
+
+&times;
+
+</button>
 
 <div class="study-top">
 
@@ -68,7 +74,7 @@ Card ${index + 1} of ${cards.length}
 
 <div
 class="study-progress-fill"
-style="width:${progress}%">
+style="transform:scaleX(${progress})">
 
 </div>
 
@@ -83,17 +89,17 @@ id="studyShuffle"
 type="checkbox"
 ${shuffle ? "checked" : ""}>
 
-Shuffle Session
+Shuffle session
 
 </label>
 
-<h1>
+<h3>
 
 ${card.title}
 
-</h1>
+</h3>
 
-<div class="study-category">
+<div class="study-category cat-${card.category.toLowerCase()}">
 
 ${card.category}
 
@@ -105,7 +111,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h3>Definition</h3>
+<h4>Definition</h4>
 
 <p>${card.definition}</p>
 
@@ -113,7 +119,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h3>Why it Matters</h3>
+<h4>Why it matters</h4>
 
 <p>${card.why}</p>
 
@@ -121,7 +127,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h3>Pro Tip</h3>
+<h4>Pro tip</h4>
 
 <p>${card.tip}</p>
 
@@ -129,7 +135,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h3>Common Mistake</h3>
+<h4>Common mistake</h4>
 
 <p>${card.mistake}</p>
 
@@ -137,7 +143,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h3>Challenge</h3>
+<h4>Challenge</h4>
 
 <p>${card.challenge}</p>
 
@@ -147,25 +153,29 @@ ${revealed ? `
 
 <button data-rating="again">
 
-🔴 Again
+<span class="dot dot-red"></span>
+Again
 
 </button>
 
 <button data-rating="hard">
 
-🟠 Hard
+<span class="dot dot-orange"></span>
+Hard
 
 </button>
 
 <button data-rating="good">
 
-🟢 Good
+<span class="dot dot-green"></span>
+Good
 
 </button>
 
 <button data-rating="easy">
 
-🔵 Easy
+<span class="dot dot-blue"></span>
+Easy
 
 </button>
 
@@ -179,7 +189,7 @@ Think of the answer first.
 
 <br><br>
 
-Press Reveal when ready.
+Press reveal when ready.
 
 </div>
 
@@ -211,7 +221,7 @@ Next →
 
 <button id="study-exit">
 
-Exit Study Mode
+Exit study mode
 
 </button>
 
@@ -239,6 +249,8 @@ Exit Study Mode
     };
 
     document.getElementById("study-exit").onclick = closeStudySession;
+
+    document.getElementById("study-exit-x").onclick = closeStudySession;
 
     document.querySelectorAll(".review-buttons button").forEach(button => {
 
@@ -357,11 +369,11 @@ function finishSession() {
     overlay.innerHTML = `
     <div class="study-window">
 
-<h1>
+<h2>
 
-🎉 Session Complete
+Session complete
 
-</h1>
+</h2>
 
 <p>
 
@@ -377,7 +389,7 @@ cards.
 
 <div
 class="study-progress-fill"
-style="width:100%">
+style="transform:scaleX(1)">
 
 </div>
 
@@ -387,13 +399,13 @@ style="width:100%">
 
 <button id="restartStudy">
 
-Study Again
+Study again
 
 </button>
 
 <button id="closeStudy">
 
-Return Home
+Return home
 
 </button>
 

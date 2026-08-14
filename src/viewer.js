@@ -60,7 +60,7 @@ export function openViewer(cards, index, options = {}) {
 <div class="viewer-window">
 
 <button
-class="close"
+class="close close-lg"
 aria-label="Close"
 >
 
@@ -83,7 +83,7 @@ of ${currentCards.length}
 
 </div>
 
-<div class="viewer-category">
+<div class="viewer-category cat-${card.category.toLowerCase()}">
 
 ${card.category}
 
@@ -91,11 +91,11 @@ ${card.category}
 
 </div>
 
-<h1>
+<h2>
 
 ${card.title}
 
-</h1>
+</h2>
 
 ${heroImage ? `
 

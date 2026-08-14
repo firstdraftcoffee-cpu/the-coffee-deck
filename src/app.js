@@ -166,7 +166,7 @@ function createStudyButton() {
 
     button.className = "study-button";
 
-    button.textContent = "📚 Study Mode";
+    button.textContent = "Study Mode";
 
     button.onclick = () => {
 
@@ -240,7 +240,7 @@ function createStatsButton() {
 
     button.className = "study-button stats-button";
 
-    button.textContent = "📊 Stats";
+    button.textContent = "Stats";
 
     button.onclick = () => {
 
@@ -455,6 +455,12 @@ function buildFilters() {
 
         button.className = "filter";
 
+        if (category !== "ALL") {
+
+            button.classList.add("cat-" + category.toLowerCase());
+
+        }
+
         if (category === activeCategory) {
 
             button.classList.add("active");
@@ -566,7 +572,7 @@ ${card.number}
 ${highlightMatch(card.title, query)}
 </h2>
 
-<div class="category">
+<div class="category cat-${card.category.toLowerCase()}">
 ${card.category}
 </div>
 

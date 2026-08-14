@@ -59,7 +59,7 @@ export function openStats() {
 
 <div class="stats-top">
 
-<h2>📊 Your Progress</h2>
+<h2>Your progress</h2>
 
 <button id="stats-close" aria-label="Close">&times;</button>
 
@@ -68,7 +68,7 @@ export function openStats() {
 <div class="stats-summary">
 
 <div class="stats-tile">
-<span class="stats-tile-value">🔥 ${streak}</span>
+<span class="stats-tile-value">${streak}</span>
 <span class="stats-tile-label">Day Streak</span>
 </div>
 
@@ -143,7 +143,7 @@ ${history.map(h => `
 
 <div class="stats-recent-item">
 <span class="stats-recent-title">${h.card.title}</span>
-<span class="stats-recent-badge">${formatRating(h.review)}</span>
+<span class="stats-recent-badge badge-${h.review.state}">${formatRating(h.review)}</span>
 </div>
 
 `).join("")}
@@ -226,7 +226,7 @@ function renderCategoryList(items, formatValue) {
     return `<ul>${items.map(c => `
 
 <li>
-<span>${c.category}</span>
+<span><span class="dot cat-dot-${c.category.toLowerCase()}"></span>${c.category}</span>
 <span>${formatValue(c)}</span>
 </li>
 
@@ -238,10 +238,10 @@ function formatRating(review) {
 
     switch (review.state) {
 
-        case "learning": return "🟠 Learning";
-        case "review": return "🟢 Reviewing";
-        case "mastered": return "🏆 Mastered";
-        default: return "⚪ New";
+        case "learning": return "Learning";
+        case "review": return "Reviewing";
+        case "mastered": return "Mastered";
+        default: return "New";
 
     }
 

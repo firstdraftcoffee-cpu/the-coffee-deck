@@ -9,37 +9,39 @@ export function renderReviewButtons(
     onComplete
 ) {
 
+    const wrapper = document.createElement("div");
+
+    wrapper.className = "review-wrapper";
+
     const review = getReviewData(cardNumber);
 
-    const container = document.createElement("div");
+    const status = document.createElement("div");
 
-    container.className = "review-buttons";
+    status.className = "review-status";
 
-    const title = document.createElement("div");
+    status.innerHTML = `
 
-    title.className = "review-status";
-
-    title.innerHTML = `
+<span class="dot ${stateDotClass(review.state)}"></span>
 
 <strong>${formatState(review.state)}</strong>
 
-<span>
+<span class="review-count">
 Reviews: ${review.reviews}
 </span>
 
 ${review.reviews > 0 ? `
 
 <button class="reset-progress">
-Reset Progress
+Reset progress
 </button>
 
 ` : ""}
 
 `;
 
-    container.appendChild(title);
+    wrapper.appendChild(status);
 
-    const resetButton = title.querySelector(".reset-progress");
+    const resetButton = status.querySelector(".reset-progress");
 
     if (resetButton) {
 
@@ -53,29 +55,37 @@ Reset Progress
 
     }
 
+    const container = document.createElement("div");
+
+    container.className = "review-buttons";
+
     const ratings = [
 
         {
             id: "again",
-            label: "🔴 Again",
+            dot: "dot-red",
+            label: "Again",
             hint: "<1 min"
         },
 
         {
             id: "hard",
-            label: "🟠 Hard",
+            dot: "dot-orange",
+            label: "Hard",
             hint: "~3 days"
         },
 
         {
             id: "good",
-            label: "🟢 Good",
+            dot: "dot-green",
+            label: "Good",
             hint: "~1 week"
         },
 
         {
             id: "easy",
-            label: "🔵 Easy",
+            dot: "dot-blue",
+            label: "Easy",
             hint: "2+ weeks"
         }
 
@@ -88,6 +98,8 @@ Reset Progress
         button.className = "review-button";
 
         button.innerHTML = `
+
+<span class="dot ${item.dot}"></span>
 
 <div>${item.label}</div>
 
@@ -112,7 +124,22 @@ Reset Progress
 
     });
 
-    return container;
+    wrapper.appendChild(container);
+
+    return wrapper;
+
+}
+
+function stateDotClass(state) {
+
+    switch (state) {
+
+        case "learning": return "dot-orange";
+        case "review": return "dot-green";
+        case "mastered": return "dot-gold";
+        default: return "dot-gray";
+
+    }
 
 }
 
@@ -120,21 +147,10 @@ function formatState(state) {
 
     switch (state) {
 
-        case "learning":
-
-            return "🟠 Learning";
-
-        case "review":
-
-            return "🟢 Reviewing";
-
-        case "mastered":
-
-            return "🏆 Mastered";
-
-        default:
-
-            return "⚪ New";
+        case "learning": return "Learning";
+        case "review": return "Reviewing";
+        case "mastered": return "Mastered";
+        default: return "New";
 
     }
 

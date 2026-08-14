@@ -350,4 +350,41 @@ check("Clicking Export does NOT also open a study session (stopPropagation worke
 
 doc.createElement = originalCreateElement;
 
+// --- Redesign verification ---
+check("Exactly one <h1> in the DOM (no duplicate page-level headings)", doc.querySelectorAll("h1").length === 1);
+check("No skipped heading level: no jump of more than 1 between consecutive heading levels", (() => {
+    const headings = [...doc.querySelectorAll("h1,h2,h3,h4")].map(h => parseInt(h.tagName[1]));
+    for (let i = 1; i < headings.length; i++) {
+        if (headings[i] - headings[i-1] > 1) return false;
+    }
+    return true;
+})());
+
+const fullHtml = doc.documentElement.innerHTML;
+const emojiPattern = /[\u{1F300}-\u{1FAFF}\u{2600}-\u{27BF}]/u;
+check("No emoji anywhere in the rendered page", !emojiPattern.test(fullHtml));
+
+firstCard.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+const reviewButtonsGrid = doc.querySelector(".review-buttons");
+check("Review-buttons grid contains exactly 4 buttons (status bug fixed)", reviewButtonsGrid?.children.length === 4);
+check("Review status is a separate element, not inside the button grid", !!doc.querySelector(".review-status") && !reviewButtonsGrid.querySelector(".review-status"));
+check("Viewer category badge has a category color class", doc.querySelector(".viewer-category")?.className.includes("cat-"));
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 300));
+
+check("Card grid category tags have color classes", doc.querySelector("#cards .card .category")?.className.includes("cat-"));
+check("Filter pills have color classes", [...doc.querySelectorAll("#filters .filter")].some(f => f.className.includes("cat-")));
+
+studyButton.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+const progressFill = doc.querySelector(".study-progress-fill");
+check("Progress bar uses transform, not width, for animation", progressFill?.style.transform?.includes("scaleX") && !progressFill?.style.width);
+if (doc.getElementById("study-exit")) {
+    doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 250));
+}
+
+check("No errors introduced by redesign changes", errors.length === 0);
+
 console.log("\nDone.");
