@@ -505,11 +505,17 @@ nav{
 
     width:100%;
 
-    aspect-ratio:4/3;
+    max-height:480px;
 
     overflow:hidden;
 
     background:var(--bg);
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
 
 }
 
@@ -517,9 +523,11 @@ nav{
 
     width:100%;
 
-    height:100%;
+    height:auto;
 
-    object-fit:cover;
+    max-height:480px;
+
+    object-fit:contain;
 
     display:block;
 
@@ -1782,6 +1790,7 @@ nav{
     .filter{ padding:var(--sp-2) var(--sp-3); font-size:var(--text-xs); }
     #home{ padding:var(--sp-4) var(--sp-4) var(--sp-7); min-height:auto; }
     .home-card-body{ padding:var(--sp-5); }
+    .home-card-image, .home-card-image img{ max-height:320px; }
     .home-card h2{ font-size:var(--text-lg); }
     .home-actions button{ width:50px; height:50px; font-size:20px; }
     .home-actions button.bookmark-btn{ width:56px; height:56px; }
