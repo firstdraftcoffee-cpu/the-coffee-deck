@@ -72,6 +72,11 @@ const doc = global.document;
 check("No uncaught errors during module load/init", errors.length === 0);
 if (errors.length) console.log(errors.join("\n---\n"));
 
+// --- Nav buttons have visible text labels, not just ambiguous icons ---
+check("Search button has a visible text label", doc.getElementById("filterToggle")?.textContent.includes("Search"));
+check("Study button has a visible text label", doc.getElementById("studyToggle")?.textContent.includes("Study"));
+check("Progress button has a visible text label", doc.getElementById("statsToggle")?.textContent.includes("Progress"));
+
 // --- Home swipe card ---
 check("Total card count shows 120", doc.getElementById("count")?.textContent.includes("120"));
 check("Home card renders", !!doc.querySelector(".home-card"));

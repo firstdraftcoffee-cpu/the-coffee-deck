@@ -145,11 +145,9 @@ nav{
 
 .icon-button{
 
-    width:38px;
+    padding:var(--sp-2) var(--sp-4);
 
-    height:38px;
-
-    border-radius:50%;
+    border-radius:var(--radius-pill);
 
     border:1px solid var(--line);
 
@@ -157,7 +155,11 @@ nav{
 
     color:var(--ink-soft);
 
-    font-size:16px;
+    font-size:var(--text-sm);
+
+    font-family:"Nunito",sans-serif;
+
+    font-weight:700;
 
     cursor:pointer;
 
@@ -165,9 +167,19 @@ nav{
 
     align-items:center;
 
-    justify-content:center;
+    gap:6px;
+
+    white-space:nowrap;
 
     transition:.15s;
+
+}
+
+.icon-button .icon-glyph{
+
+    font-size:16px;
+
+    line-height:1;
 
 }
 
@@ -1819,9 +1831,10 @@ nav{
 
 @media (max-width:640px){
 
-    nav{ padding:var(--sp-3) var(--sp-4); }
+    nav{ padding:var(--sp-3) var(--sp-4); flex-wrap:wrap; gap:var(--sp-2); }
     .logo{ font-size:var(--text-md); }
-    .nav-actions{ gap:var(--sp-2); }
+    .nav-actions{ gap:var(--sp-2); width:100%; justify-content:flex-start; }
+    .icon-button{ padding:6px var(--sp-3); font-size:var(--text-xs); }
     #count{ display:none; }
     .filter-panel-inner{ padding:var(--sp-4); }
     #filters{ gap:var(--sp-2); }
