@@ -1,6 +1,12 @@
 export function setupSwipe(element, onPrev, onNext, onDragStart) {
 
+    const DISTANCE_THRESHOLD = 80;
+    const VELOCITY_THRESHOLD = 0.5;
+    const MAX_ROTATE = 18;
+    const FADE_DISTANCE = 220;
+
     let startX = 0;
+    let startTime = 0;
     let dx = 0;
     let dragging = false;
 
@@ -11,6 +17,8 @@ export function setupSwipe(element, onPrev, onNext, onDragStart) {
         dragging = true;
 
         startX = e.clientX;
+
+        startTime = Date.now();
 
         element.style.transition = "none";
 
@@ -34,8 +42,20 @@ export function setupSwipe(element, onPrev, onNext, onDragStart) {
 
         }
 
+        const rotate = Math.max(
+            -MAX_ROTATE,
+            Math.min(MAX_ROTATE, dx / 12)
+        );
+
+        const fade = Math.max(
+            0.5,
+            1 - Math.abs(dx) / FADE_DISTANCE
+        );
+
         element.style.transform =
-            `translateX(${dx}px) rotate(${dx / 25}deg)`;
+            `translateX(${dx}px) rotate(${rotate}deg)`;
+
+        element.style.opacity = `${fade}`;
 
     });
 
@@ -45,15 +65,26 @@ export function setupSwipe(element, onPrev, onNext, onDragStart) {
 
         dragging = false;
 
+        const elapsed = Math.max(
+            Date.now() - startTime,
+            1
+        );
+
+        const velocity = Math.abs(dx) / elapsed;
+
+        const committed =
+            Math.abs(dx) > DISTANCE_THRESHOLD ||
+            velocity > VELOCITY_THRESHOLD;
+
         element.style.transition =
             "transform .25s ease, opacity .25s ease";
 
-        if (Math.abs(dx) > 120) {
+        if (committed && dx !== 0) {
 
             const dir = dx > 0 ? 1 : -1;
 
             element.style.transform =
-                `translateX(${dir * 500}px) rotate(${dir * 25}deg)`;
+                `translateX(${dir * 600}px) rotate(${dir * MAX_ROTATE}deg)`;
 
             element.style.opacity = "0";
 
@@ -69,11 +100,13 @@ export function setupSwipe(element, onPrev, onNext, onDragStart) {
 
                 }
 
-            }, 180);
+            }, 160);
 
         } else {
 
             element.style.transform = "";
+
+            element.style.opacity = "1";
 
         }
 

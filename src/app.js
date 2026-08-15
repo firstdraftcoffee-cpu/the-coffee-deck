@@ -386,6 +386,16 @@ No cards match your search.
 
     stage.className = "home-stage";
 
+    if (homeCards.length > 1) {
+
+        const peek = document.createElement("div");
+
+        peek.className = "home-card-peek";
+
+        stage.appendChild(peek);
+
+    }
+
     const el = document.createElement("div");
 
     el.className = "home-card";

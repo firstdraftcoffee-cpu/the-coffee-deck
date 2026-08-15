@@ -48,6 +48,17 @@ function simulateDrag(el, dxTotal) {
     el.dispatchEvent(up);
 }
 
+async function simulateFastFlick(el, dxTotal, elapsedMs) {
+    const down = new window.PointerEvent("pointerdown", { clientX: 200, bubbles: true, pointerId: 1 });
+    Object.defineProperty(down, "target", { value: el, enumerable: true });
+    el.dispatchEvent(down);
+    const move = new window.PointerEvent("pointermove", { clientX: 200 + dxTotal, bubbles: true, pointerId: 1 });
+    el.dispatchEvent(move);
+    await new Promise(r => setTimeout(r, elapsedMs));
+    const up = new window.PointerEvent("pointerup", { clientX: 200 + dxTotal, bubbles: true, pointerId: 1 });
+    el.dispatchEvent(up);
+}
+
 try {
     await import(`./dist/assets/${jsFile}?t=${Date.now()}`);
 } catch (e) {
@@ -84,6 +95,28 @@ const afterPrevTitle = doc.querySelector(".home-card h2")?.textContent.trim();
 check("Dragging back right returns to the first card", afterPrevTitle === firstTitle);
 
 check("No errors from home card swipe", errors.length === 0);
+
+// A real quick flick: short distance (60px, under the 80px distance threshold) but fast (50ms)
+// should still commit via velocity detection - this is the actual "feels stiff" fix
+const beforeFlick = doc.querySelector(".home-progress")?.textContent.trim();
+const flickCard = doc.querySelector(".home-card");
+await simulateFastFlick(flickCard, -60, 50);
+await new Promise(r => setTimeout(r, 300));
+const afterFlick = doc.querySelector(".home-progress")?.textContent.trim();
+check("A fast short flick (60px in 50ms) commits via velocity, not just distance", beforeFlick !== afterFlick);
+
+// A slow drag of the same short distance should NOT commit (snaps back)
+const beforeSlowDrag = doc.querySelector(".home-progress")?.textContent.trim();
+const slowCard = doc.querySelector(".home-card");
+await simulateFastFlick(slowCard, 60, 600);
+await new Promise(r => setTimeout(r, 300));
+const afterSlowDrag = doc.querySelector(".home-progress")?.textContent.trim();
+check("A slow short drag (60px in 600ms) does NOT commit (below both thresholds)", beforeSlowDrag === afterSlowDrag);
+
+check("No errors from flick/slow-drag tests", errors.length === 0);
+
+// peek card renders behind when there's more than one card
+check("A peek card renders behind the front card for deck depth", !!doc.querySelector(".home-card-peek"));
 
 // prev/next buttons work too
 document.getElementById("homeNext").dispatchEvent(new window.Event("click", { bubbles: true }));

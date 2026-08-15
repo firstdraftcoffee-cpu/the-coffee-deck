@@ -467,9 +467,31 @@ nav{
 
     max-width:420px;
 
+    position:relative;
+
     display:flex;
 
     justify-content:center;
+
+}
+
+.home-card-peek{
+
+    position:absolute;
+
+    inset:0;
+
+    background:var(--surface);
+
+    border-radius:var(--radius-lg);
+
+    box-shadow:var(--shadow-md);
+
+    transform:scale(.94) translateY(10px);
+
+    opacity:.6;
+
+    z-index:0;
 
 }
 
@@ -492,6 +514,8 @@ nav{
     touch-action:pan-y;
 
     position:relative;
+
+    z-index:1;
 
 }
 
