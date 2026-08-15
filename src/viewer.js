@@ -12,6 +12,11 @@ import {
     setupSwipe
 } from "./swipe.js";
 
+import {
+    lockScroll,
+    unlockScroll
+} from "./scrollLock.js";
+
 let currentCards = [];
 let currentIndex = 0;
 let onCloseCallback = null;
@@ -44,6 +49,8 @@ export function openViewer(cards, index, options = {}) {
         viewer.id = "viewer";
 
         document.body.appendChild(viewer);
+
+        lockScroll();
 
     }
 
@@ -466,6 +473,8 @@ export function closeViewer() {
     }
 
     document.onkeydown = null;
+
+    unlockScroll();
 
     viewer.classList.remove(
         "show"

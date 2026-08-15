@@ -1,5 +1,6 @@
 import { updateReview } from "./review.js";
 import { setupSwipe } from "./swipe.js";
+import { lockScroll, unlockScroll } from "./scrollLock.js";
 
 let cards = [];
 let index = 0;
@@ -18,6 +19,8 @@ export function startStudySession(studyCards, options = {}) {
     shuffle = options.shuffle ?? false;
 
     onCloseCallback = options.onClose ?? null;
+
+    lockScroll();
 
     render();
 
@@ -441,6 +444,8 @@ Return home
 export function closeStudySession() {
 
     document.onkeydown = null;
+
+    unlockScroll();
 
     document.getElementById("study-mode")?.remove();
 

@@ -140,9 +140,11 @@ check("Clicking bookmark does not also open the viewer (stopPropagation)", !doc.
 doc.querySelector(".home-card").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Tapping the home card opens the full viewer modal", !!doc.getElementById("viewer"));
+check("Body scroll is locked while the viewer is open (background can't scroll behind it)", doc.body.style.position === "fixed");
 doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
 await new Promise(r => setTimeout(r, 300));
 check("Viewer closes via Escape", !doc.getElementById("viewer"));
+check("Body scroll unlocks after the viewer closes", doc.body.style.position !== "fixed");
 
 // --- Filter panel ---
 const filterPanel = doc.getElementById("filterPanel");
@@ -205,6 +207,7 @@ await new Promise(r => setTimeout(r, 100));
 doc.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Study toggle opens study mode", !!doc.getElementById("study-mode"));
+check("Body scroll is locked during study mode too", doc.body.style.position === "fixed");
 check("Study session includes all 120 cards (no active filter)", doc.querySelector(".study-counter")?.textContent.includes("of 120"));
 
 const studyWindow = doc.querySelector(".study-window");
@@ -212,16 +215,19 @@ const counterBefore = doc.querySelector(".study-counter")?.textContent;
 simulateDrag(studyWindow, -200);
 await new Promise(r => setTimeout(r, 300));
 check("Swipe navigates within study mode", doc.querySelector(".study-counter")?.textContent !== counterBefore);
+check("Body scroll stays locked during internal navigation (no flicker)", doc.body.style.position === "fixed");
 check("No errors from study mode swipe", errors.length === 0);
 
 doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Study mode closes", !doc.getElementById("study-mode"));
+check("Body scroll unlocks after study mode closes", doc.body.style.position !== "fixed");
 
 // --- Stats modal (with Library tiles) ---
 doc.getElementById("statsToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
 check("Stats modal opens", !!doc.getElementById("stats-mode"));
+check("Body scroll is locked during stats modal too", doc.body.style.position === "fixed");
 check("Total Cards tile shows 120", doc.getElementById("stats-mode")?.textContent.includes("120"));
 check("Bookmarks tile exists and is clickable (1 bookmark set earlier)", !!doc.getElementById("tile-bookmarks") && !doc.getElementById("tile-bookmarks").classList.contains("disabled"));
 check("Export link appears since a bookmark exists", !!doc.getElementById("tile-export"));
@@ -238,6 +244,7 @@ if (doc.getElementById("study-exit")) {
     await new Promise(r => setTimeout(r, 250));
 }
 check("Home refreshes after returning from a stats-triggered study session", !!doc.querySelector(".home-card"));
+check("Body scroll is fully unlocked back on the home page", doc.body.style.position !== "fixed");
 
 // --- Reset Progress ---
 const reviewState = {

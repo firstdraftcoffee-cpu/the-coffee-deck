@@ -24,6 +24,11 @@ import {
     startStudySession
 } from "./studySession.js";
 
+import {
+    lockScroll,
+    unlockScroll
+} from "./scrollLock.js";
+
 export function openStats() {
 
     const cards = allCards();
@@ -207,6 +212,8 @@ ${history.map(h => `
 
     overlay.classList.add("show");
 
+    lockScroll();
+
     document.getElementById("stats-close").onclick = closeStats;
 
     overlay.onclick = e => {
@@ -342,6 +349,8 @@ export function closeStats() {
     if (!overlay) return;
 
     overlay.classList.remove("show");
+
+    unlockScroll();
 
     document.removeEventListener("keydown", statsKeyHandler);
 
