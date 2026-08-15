@@ -6,8 +6,11 @@ import {
 
 export function renderReviewButtons(
     cardNumber,
-    onComplete
+    onComplete,
+    options = {}
 ) {
+
+    const showRatings = options.showRatings ?? true;
 
     const wrapper = document.createElement("div");
 
@@ -52,6 +55,20 @@ Reset progress
             onComplete();
 
         };
+
+    }
+
+    if (!showRatings) {
+
+        const hint = document.createElement("p");
+
+        hint.className = "review-hint";
+
+        hint.textContent = "Rate your recall in Study Mode to schedule reviews.";
+
+        wrapper.appendChild(hint);
+
+        return wrapper;
 
     }
 

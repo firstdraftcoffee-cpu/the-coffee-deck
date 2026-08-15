@@ -263,7 +263,8 @@ ${bookmarked ? "♥" : "♡"}
                         currentIndex
                     );
 
-                }
+                },
+                { showRatings: false }
             )
 
         );

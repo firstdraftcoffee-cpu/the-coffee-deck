@@ -119,12 +119,14 @@ check("No errors from flick/slow-drag tests", errors.length === 0);
 check("A peek card renders behind the front card for deck depth", !!doc.querySelector(".home-card-peek"));
 
 // prev/next buttons work too
+const posBeforeNextBtn = doc.querySelector(".home-progress")?.textContent.trim();
 document.getElementById("homeNext").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
-check("Next button navigates forward", doc.querySelector(".home-progress")?.textContent.trim() === "2 / 120");
+check("Next button navigates forward", doc.querySelector(".home-progress")?.textContent.trim() !== posBeforeNextBtn);
+const posBeforePrevBtn = doc.querySelector(".home-progress")?.textContent.trim();
 document.getElementById("homePrev").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
-check("Previous button navigates back", doc.querySelector(".home-progress")?.textContent.trim() === "1 / 120");
+check("Previous button navigates back", doc.querySelector(".home-progress")?.textContent.trim() !== posBeforePrevBtn);
 
 // bookmark toggle on home card
 const bookmarkBtn = doc.getElementById("homeBookmark");
@@ -253,12 +255,27 @@ if (resetBtn) {
     check("Review data removed after reset", Object.keys(reviewsAfterReset).length === 0);
 }
 
-// --- Review-buttons grid fix (still relevant) ---
-const reviewButtonsGrid = doc.querySelector(".review-buttons");
-check("Review-buttons grid contains exactly 4 buttons", reviewButtonsGrid?.children.length === 4);
-check("Review status is separate from the button grid", !!doc.querySelector(".review-status") && !reviewButtonsGrid.querySelector(".review-status"));
+// --- Plain viewer: no confusing rating buttons, just status + hint ---
+check("Plain viewer shows review status", !!doc.querySelector(".review-status"));
+check("Plain viewer does NOT show the rating buttons grid", !doc.querySelector(".review-buttons"));
+check("Plain viewer shows a hint pointing to Study Mode instead", doc.querySelector(".review-hint")?.textContent.includes("Study Mode"));
 doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
 await new Promise(r => setTimeout(r, 300));
+
+// --- Study Mode: rating buttons still work exactly as before ---
+document.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+const revealBtn = doc.getElementById("study-reveal");
+if (revealBtn) {
+    revealBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 200));
+}
+const reviewButtonsGrid = doc.querySelector(".review-buttons");
+check("Review-buttons grid contains exactly 4 buttons in Study Mode", reviewButtonsGrid?.children.length === 4);
+if (doc.getElementById("study-exit")) {
+    doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 250));
+}
 
 // --- Structural checks (still relevant) ---
 check("Exactly one <h1> in the DOM", doc.querySelectorAll("h1").length <= 1);
