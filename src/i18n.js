@@ -89,7 +89,21 @@ const strings = {
         notEnoughData: "Not enough data yet.",
         heatmapTooltip: (date, count) => `${date}: ${count} review${count === 1 ? "" : "s"}`,
 
-        languageLabel: "Language"
+        languageLabel: "Language",
+
+        welcomeEyebrow: "Welcome",
+        welcomeTitle: "The Coffee Deck",
+        welcomeTagline: "A flashcard app built for coffee professionals — 120 topics across espresso, milk, filter, roasting, sensory, green coffee, processing, origin, equipment, workflow and business, in one place.",
+        welcomeFeature1Title: "Browse",
+        welcomeFeature1Desc: "Swipe or tap the arrows to move through the deck. Tap a card to see the full definition, why it matters, a pro tip, a common mistake and a challenge.",
+        welcomeFeature2Title: "Study",
+        welcomeFeature2Desc: "Open Study Mode for spaced-repetition review — rate how well you knew each card and it schedules your next review automatically.",
+        welcomeFeature3Title: "Bookmark",
+        welcomeFeature3Desc: "Save any card to revisit later, and export your bookmarks whenever you like.",
+        welcomeFeature4Title: "Track progress",
+        welcomeFeature4Desc: "See your streak, mastery and review history any time in Progress.",
+        welcomeCta: "Get started",
+        welcomeAbout: "About"
     },
 
     es: {
@@ -173,7 +187,21 @@ const strings = {
         notEnoughData: "Aún no hay suficientes datos.",
         heatmapTooltip: (date, count) => `${date}: ${count} repaso${count === 1 ? "" : "s"}`,
 
-        languageLabel: "Idioma"
+        languageLabel: "Idioma",
+
+        welcomeEyebrow: "Bienvenido",
+        welcomeTitle: "The Coffee Deck",
+        welcomeTagline: "Una app de tarjetas para profesionales del café: 120 temas de espresso, leche, filtro, tueste, análisis sensorial, café verde, procesamiento, origen, equipos, flujo de trabajo y negocio, todo en un solo lugar.",
+        welcomeFeature1Title: "Explora",
+        welcomeFeature1Desc: "Desliza o toca las flechas para recorrer las tarjetas. Toca una tarjeta para ver la definición completa, por qué importa, un consejo profesional, un error común y un desafío.",
+        welcomeFeature2Title: "Estudia",
+        welcomeFeature2Desc: "Abre el Modo estudio para repaso espaciado: califica cuánto recordabas cada tarjeta y programa tu próximo repaso automáticamente.",
+        welcomeFeature3Title: "Guarda",
+        welcomeFeature3Desc: "Guarda cualquier tarjeta para verla más tarde y exporta tus tarjetas guardadas cuando quieras.",
+        welcomeFeature4Title: "Sigue tu progreso",
+        welcomeFeature4Desc: "Consulta tu racha, dominio e historial de repasos en cualquier momento en Progreso.",
+        welcomeCta: "Empezar",
+        welcomeAbout: "Acerca de"
     },
 
     pt: {
@@ -257,7 +285,21 @@ const strings = {
         notEnoughData: "Ainda não há dados suficientes.",
         heatmapTooltip: (date, count) => `${date}: ${count} revisõe${count === 1 ? "" : "s"}`,
 
-        languageLabel: "Idioma"
+        languageLabel: "Idioma",
+
+        welcomeEyebrow: "Bem-vindo",
+        welcomeTitle: "The Coffee Deck",
+        welcomeTagline: "Um app de cartões para profissionais do café: 120 temas de espresso, leite, filtrado, torra, avaliação sensorial, café verde, processamento, origem, equipamentos, fluxo de trabalho e negócio, tudo em um só lugar.",
+        welcomeFeature1Title: "Explore",
+        welcomeFeature1Desc: "Deslize ou toque nas setas para percorrer os cartões. Toque em um cartão para ver a definição completa, por que importa, uma dica profissional, um erro comum e um desafio.",
+        welcomeFeature2Title: "Estude",
+        welcomeFeature2Desc: "Abra o Modo estudo para revisão espaçada: avalie sua lembrança de cada cartão e as próximas revisões são agendadas automaticamente.",
+        welcomeFeature3Title: "Salve",
+        welcomeFeature3Desc: "Salve qualquer cartão para ver depois e exporte seus cartões salvos quando quiser.",
+        welcomeFeature4Title: "Acompanhe seu progresso",
+        welcomeFeature4Desc: "Veja sua sequência, domínio e histórico de revisões a qualquer momento em Progresso.",
+        welcomeCta: "Começar",
+        welcomeAbout: "Sobre"
     }
 
 };

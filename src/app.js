@@ -40,6 +40,10 @@ import {
 } from "./stats.js";
 
 import {
+    openWelcome
+} from "./welcome.js";
+
+import {
     t,
     LOCALES,
     getLocale,
@@ -95,6 +99,20 @@ async function init() {
     });
 
     renderHome();
+
+    if (!load("hasSeenWelcome", false)) {
+
+        openWelcome({
+
+            onClose: () => {
+
+                save("hasSeenWelcome", true);
+
+            }
+
+        });
+
+    }
 
 }
 

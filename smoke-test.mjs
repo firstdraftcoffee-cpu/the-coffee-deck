@@ -72,6 +72,15 @@ const doc = global.document;
 check("No uncaught errors during module load/init", errors.length === 0);
 if (errors.length) console.log(errors.join("\n---\n"));
 
+// --- Welcome overlay: shows on first visit, dismiss it like a real user would ---
+check("Welcome overlay shows on first visit", !!doc.getElementById("welcome-mode"));
+check("Body scroll is locked while the welcome overlay is open", doc.body.style.position === "fixed");
+doc.getElementById("welcome-cta")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Welcome overlay closes on Get Started", !doc.getElementById("welcome-mode")?.classList.contains("show"));
+check("Body scroll unlocks after dismissing the welcome overlay", doc.body.style.position !== "fixed");
+check("Dismissing the welcome overlay marks it as seen in storage", global.localStorage.getItem("coffeeDeck:hasSeenWelcome") === JSON.stringify(true));
+
 // --- Nav buttons have visible text labels, not just ambiguous icons ---
 check("Search button has a visible text label", doc.getElementById("filterToggle")?.textContent.includes("Search"));
 check("Study button has a visible text label", doc.getElementById("studyToggle")?.textContent.includes("Study"));
@@ -458,5 +467,19 @@ doc.getElementById("themeToggle").dispatchEvent(new window.Event("click", { bubb
 await new Promise(r => setTimeout(r, 100));
 check("Clicking the theme toggle again flips back to light", htmlEl.getAttribute("data-theme") === "light");
 check("Theme choice updates to light in storage", global.localStorage.getItem("coffeeDeck:theme") === JSON.stringify("light"));
+
+// --- Reopening the welcome overlay from Progress > About (for demos, not just first-visit) ---
+document.getElementById("statsToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+const aboutLink = doc.getElementById("stats-about");
+check("Stats modal includes an About link back to the welcome overlay", !!aboutLink);
+aboutLink?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Clicking About closes the stats modal", !doc.getElementById("stats-mode")?.classList.contains("show"));
+check("Clicking About reopens the welcome overlay", !!doc.getElementById("welcome-mode")?.classList.contains("show"));
+doc.getElementById("welcome-close")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Welcome overlay closes via the X button too", !doc.getElementById("welcome-mode")?.classList.contains("show"));
+check("Body scroll is unlocked after closing the re-opened welcome overlay", doc.body.style.position !== "fixed");
 
 console.log("\nDone.");

@@ -29,6 +29,8 @@ import {
     unlockScroll
 } from "./scrollLock.js";
 
+import { openWelcome } from "./welcome.js";
+
 import { t, onLocaleChange } from "./i18n.js";
 
 onLocaleChange(() => {
@@ -220,6 +222,8 @@ ${history.map(h => `
 
 ` : ""}
 
+<button id="stats-about" class="stats-about-link">${t("welcomeAbout")}</button>
+
 </div>
 
 `;
@@ -229,6 +233,14 @@ ${history.map(h => `
     lockScroll();
 
     document.getElementById("stats-close").onclick = closeStats;
+
+    document.getElementById("stats-about").onclick = () => {
+
+        closeStats();
+
+        openWelcome();
+
+    };
 
     overlay.onclick = e => {
 
