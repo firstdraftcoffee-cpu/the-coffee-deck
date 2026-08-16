@@ -81,6 +81,10 @@ check("Progress button has a visible text label", doc.getElementById("statsToggl
 check("Total card count shows 120", doc.getElementById("count")?.textContent.includes("120"));
 check("Home card renders", !!doc.querySelector(".home-card"));
 check("Home card shows a title", !!doc.querySelector(".home-card h2")?.textContent.trim());
+const homeImg = doc.querySelector(".home-card-image img");
+check("Home card renders an actual <img> for a card with a photo", !!homeImg && homeImg.getAttribute("src")?.includes(".jpg"));
+check("Home card image does not use a negative z-index (regression: this hid the photo behind the card's own background)", global.window.getComputedStyle(homeImg).zIndex !== "-1");
+check("Home card has a dedicated scrim layer distinct from the image itself", !!doc.querySelector(".home-card-scrim"));
 check("Home card shows a category badge", !!doc.querySelector(".home-card .home-card-cat"));
 check("Home card data-total reflects 120 cards (not shown visibly, just for verification)", doc.querySelector(".home-card")?.dataset.total === "120");
 check("Home card starts at index 0", doc.querySelector(".home-card")?.dataset.index === "0");

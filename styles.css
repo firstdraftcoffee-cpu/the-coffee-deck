@@ -712,7 +712,9 @@ nav{
 
     position:relative;
 
-    background:var(--card-scrim), linear-gradient(160deg, var(--accent-dark), var(--accent));
+    overflow:hidden;
+
+    background:linear-gradient(160deg, var(--accent-dark), var(--accent));
 
 }
 
@@ -732,7 +734,17 @@ nav{
 
     pointer-events:none;
 
-    z-index:-1;
+}
+
+.home-card-scrim{
+
+    position:absolute;
+
+    inset:0;
+
+    background:var(--card-scrim);
+
+    pointer-events:none;
 
 }
 

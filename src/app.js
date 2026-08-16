@@ -544,6 +544,8 @@ ${t("noResults")}
 
 ${heroImage ? `<img src="${heroImage}" alt="${card.title}" loading="eager" decoding="async" fetchpriority="high" onerror="this.style.display='none'">` : ""}
 
+<div class="home-card-scrim"></div>
+
 <div class="home-card-image-top">
 
 <span class="home-card-number">${card.number}</span>
