@@ -177,7 +177,7 @@ nav{
 
 .icon-button .icon-glyph{
 
-    font-size:16px;
+    font-size:var(--text-md);
 
     line-height:1;
 
@@ -200,6 +200,68 @@ nav{
     color:var(--accent-dark);
 
     margin-left:var(--sp-2);
+
+}
+
+/* ===== Language switch ===== */
+
+.lang-switch{
+
+    display:flex;
+
+    align-items:center;
+
+    gap:2px;
+
+    margin-left:var(--sp-2);
+
+    padding:2px;
+
+    background:var(--bg);
+
+    border-radius:var(--radius-pill);
+
+    border:1px solid var(--line);
+
+}
+
+.lang-switch button{
+
+    font-family:inherit;
+
+    font-size:11px;
+
+    font-weight:800;
+
+    letter-spacing:.02em;
+
+    padding:4px 9px;
+
+    border:none;
+
+    border-radius:var(--radius-pill);
+
+    background:transparent;
+
+    color:var(--ink-soft);
+
+    cursor:pointer;
+
+    transition:.15s;
+
+}
+
+.lang-switch button:hover{
+
+    color:var(--accent-dark);
+
+}
+
+.lang-switch button.active{
+
+    background:var(--accent);
+
+    color:#fff;
 
 }
 

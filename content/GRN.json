@@ -15,7 +15,25 @@
       "067",
       "068",
       "070"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Café Verde",
+        "definition": "El café verde es el café que ha sido procesado, secado y preparado para su exportación antes del tostado.",
+        "why": "Todo el sabor del café tostado comienza con la calidad del café verde.",
+        "tip": "Inspecciona el café verde antes de tostarlo.",
+        "mistake": "Juzgar la calidad solo por el origen.",
+        "challenge": "¿Qué características definen un café verde de alta calidad?"
+      },
+      "pt": {
+        "title": "Café Verde",
+        "definition": "Café verde é o café que foi processado, seco e preparado para exportação antes da torra.",
+        "why": "Todo o sabor do café torrado começa com a qualidade do café verde.",
+        "tip": "Inspecione o café verde antes de torrar.",
+        "mistake": "Julgar a qualidade apenas pela origem.",
+        "challenge": "Quais características definem um café verde de alta qualidade?"
+      }
+    }
   },
   {
     "number": "067",
@@ -26,7 +44,7 @@
     "hero_image": "067.jpg",
     "definition": "Moisture content is the percentage of water contained within green coffee.",
     "why": "It affects roast behaviour, shelf life and stability.",
-    "tip": "Most specialty coffees perform best around 10\u201312% moisture.",
+    "tip": "Most specialty coffees perform best around 10–12% moisture.",
     "mistake": "Ignoring moisture when profiling.",
     "challenge": "How does high moisture affect roasting?",
     "related": [

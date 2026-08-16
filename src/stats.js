@@ -29,6 +29,20 @@ import {
     unlockScroll
 } from "./scrollLock.js";
 
+import { t, onLocaleChange } from "./i18n.js";
+
+onLocaleChange(() => {
+
+    const overlay = document.getElementById("stats-mode");
+
+    if (overlay && overlay.classList.contains("show")) {
+
+        openStats();
+
+    }
+
+});
+
 export function openStats() {
 
     const cards = allCards();
@@ -84,66 +98,66 @@ export function openStats() {
 
 <div class="stats-top">
 
-<h2>Your progress</h2>
+<h2>${t("statsTitle")}</h2>
 
-<button id="stats-close" aria-label="Close">&times;</button>
+<button id="stats-close" aria-label="${t("close")}">&times;</button>
 
 </div>
 
-<h3>Library</h3>
+<h3>${t("libraryHeading")}</h3>
 
 <div class="stats-summary">
 
 <div class="stats-tile">
 <span class="stats-tile-value">${cards.length}</span>
-<span class="stats-tile-label">Total Cards</span>
+<span class="stats-tile-label">${t("totalCards")}</span>
 </div>
 
 <div class="stats-tile clickable ${bookmarks.length ? "" : "disabled"}" id="tile-bookmarks">
 <span class="stats-tile-value">${bookmarks.length}</span>
-<span class="stats-tile-label">Bookmarks</span>
-${bookmarks.length ? `<button id="tile-export" class="export-link">Export</button>` : ""}
+<span class="stats-tile-label">${t("bookmarks")}</span>
+${bookmarks.length ? `<button id="tile-export" class="export-link">${t("export")}</button>` : ""}
 </div>
 
 <div class="stats-tile clickable ${recent.length ? "" : "disabled"}" id="tile-recent">
 <span class="stats-tile-value">${recent.length}</span>
-<span class="stats-tile-label">Recently Viewed</span>
+<span class="stats-tile-label">${t("recentlyViewed")}</span>
 </div>
 
 <div class="stats-tile clickable ${dueCards.length ? "" : "disabled"}" id="tile-due">
 <span class="stats-tile-value">${dueCards.length}</span>
-<span class="stats-tile-label">Due Today</span>
+<span class="stats-tile-label">${t("dueToday")}</span>
 </div>
 
 </div>
 
-<h3>Progress</h3>
+<h3>${t("progressHeading")}</h3>
 
 <div class="stats-summary">
 
 <div class="stats-tile">
 <span class="stats-tile-value">${streak}</span>
-<span class="stats-tile-label">Day Streak</span>
+<span class="stats-tile-label">${t("dayStreak")}</span>
 </div>
 
 <div class="stats-tile">
 <span class="stats-tile-value">${stats.totalReviews}</span>
-<span class="stats-tile-label">Total Reviews</span>
+<span class="stats-tile-label">${t("totalReviews")}</span>
 </div>
 
 <div class="stats-tile">
 <span class="stats-tile-value">${stats.mastered}</span>
-<span class="stats-tile-label">Mastered</span>
+<span class="stats-tile-label">${t("mastered")}</span>
 </div>
 
 <div class="stats-tile">
 <span class="stats-tile-value">${completionPct}%</span>
-<span class="stats-tile-label">Completion</span>
+<span class="stats-tile-label">${t("completion")}</span>
 </div>
 
 </div>
 
-<h3>Activity, Last 12 Weeks</h3>
+<h3>${t("activityHeading")}</h3>
 
 <div class="heatmap-grid">
 
@@ -151,7 +165,7 @@ ${daily.map(day => `
 
 <div
 class="heatmap-day ${heatLevel(day.count)}"
-title="${day.date}: ${day.count} review${day.count === 1 ? "" : "s"}"
+title="${t("heatmapTooltip", day.date, day.count)}"
 ></div>
 
 `).join("")}
@@ -163,18 +177,18 @@ ${categoryStats.length ? `
 <div class="stats-categories">
 
 <div class="category-column">
-<h4>Most Studied</h4>
-${renderCategoryList(mostStudied, c => `${c.totalReviews} reviews`)}
+<h4>${t("mostStudied")}</h4>
+${renderCategoryList(mostStudied, c => t("reviewsSuffix", c.totalReviews))}
 </div>
 
 <div class="category-column">
-<h4>Strongest</h4>
-${renderCategoryList(strongest, c => `${c.avgEase.toFixed(2)} ease`)}
+<h4>${t("strongest")}</h4>
+${renderCategoryList(strongest, c => t("easeSuffix", c.avgEase.toFixed(2)))}
 </div>
 
 <div class="category-column">
-<h4>Needs Work</h4>
-${renderCategoryList(weakest, c => `${c.avgEase.toFixed(2)} ease`)}
+<h4>${t("needsWork")}</h4>
+${renderCategoryList(weakest, c => t("easeSuffix", c.avgEase.toFixed(2)))}
 </div>
 
 </div>
@@ -182,14 +196,14 @@ ${renderCategoryList(weakest, c => `${c.avgEase.toFixed(2)} ease`)}
 ` : `
 
 <p class="stats-empty">
-Study a few cards to see category breakdowns here.
+${t("studyFewCards")}
 </p>
 
 `}
 
 ${history.length ? `
 
-<h3>Recent Activity</h3>
+<h3>${t("recentActivity")}</h3>
 
 <div class="stats-recent">
 
@@ -379,7 +393,7 @@ function renderCategoryList(items, formatValue) {
 
     if (!items.length) {
 
-        return `<p class="category-empty">Not enough data yet.</p>`;
+        return `<p class="category-empty">${t("notEnoughData")}</p>`;
 
     }
 
@@ -398,10 +412,10 @@ function formatRating(review) {
 
     switch (review.state) {
 
-        case "learning": return "Learning";
-        case "review": return "Reviewing";
-        case "mastered": return "Mastered";
-        default: return "New";
+        case "learning": return t("stateLearning");
+        case "review": return t("stateReview");
+        case "mastered": return t("stateMastered");
+        default: return t("stateNew");
 
     }
 

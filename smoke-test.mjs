@@ -307,6 +307,66 @@ const htmlWithoutApprovedSymbols = fullHtml.replace(approvedSymbols, "");
 const emojiPattern = /[\u{1F300}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]/u;
 check("No emoji anywhere in the rendered page (excluding approved plain-text icon symbols)", !emojiPattern.test(htmlWithoutApprovedSymbols));
 
+// --- Localization: language switcher ---
+doc.getElementById("search").value = "";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+document.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+const allFilterBtn = [...doc.querySelectorAll(".filter")].find(b => b.textContent.trim().startsWith("ALL"));
+if (allFilterBtn) {
+    allFilterBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 150));
+}
+
+const langButtons = () => [...doc.querySelectorAll("#langSwitch button")];
+check("Language switcher renders EN/ES/PT buttons", langButtons().length === 3);
+
+const esButton = langButtons().find(b => b.textContent.trim() === "ES");
+check("Spanish option exists in language switcher", !!esButton);
+
+if (esButton) {
+
+    esButton.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 150));
+
+    check("Nav label updates to Spanish after switching language", doc.getElementById("studyToggle")?.textContent.includes("Estudiar"));
+    check("Locale choice persists to storage", global.localStorage.getItem("coffeeDeck:locale") === JSON.stringify("es"));
+
+    const homeCardEs = doc.querySelector(".home-card");
+    check("Translated pilot card (Espresso #001) shows Spanish definition text", homeCardEs?.textContent.includes("El espresso es una bebida"));
+
+    doc.getElementById("homeNext")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 150));
+    const homeCardNext = doc.querySelector(".home-card");
+    check("Untranslated card (Dose #002) falls back to English content while locale is Spanish", homeCardNext?.textContent.includes("The weight of dry coffee"));
+
+}
+
+const ptButton = langButtons().find(b => b.textContent.trim() === "PT");
+
+if (ptButton) {
+
+    ptButton.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 150));
+
+    check("Nav label updates to Portuguese after switching language", doc.getElementById("studyToggle")?.textContent.includes("Estudar"));
+    check("Active language button reflects Portuguese selection", langButtons().find(b => b.textContent.trim() === "PT")?.classList.contains("active"));
+
+}
+
+const enButton = langButtons().find(b => b.textContent.trim() === "EN");
+
+if (enButton) {
+
+    enButton.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 150));
+
+    check("Switching back to English restores original nav labels", doc.getElementById("studyToggle")?.textContent.includes("Study"));
+    check("Locale choice updates to English in storage", global.localStorage.getItem("coffeeDeck:locale") === JSON.stringify("en"));
+
+}
+
 check("No errors across the full run", errors.length === 0);
 
 console.log("\nDone.");

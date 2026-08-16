@@ -15,7 +15,25 @@
       "047",
       "048",
       "049"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Flujo de Trabajo",
+        "definition": "El flujo de trabajo es la secuencia de acciones utilizada para preparar bebidas de forma eficiente y consistente.",
+        "why": "Un buen flujo de trabajo reduce los errores, el desperdicio y los tiempos de espera del cliente.",
+        "tip": "Muévete con propósito, no con prisa.",
+        "mistake": "Cruzarte a través de tu propio espacio de trabajo.",
+        "challenge": "Enumera tres formas de mejorar el flujo de trabajo durante un servicio de mucho ritmo."
+      },
+      "pt": {
+        "title": "Fluxo de Trabalho",
+        "definition": "Fluxo de trabalho é a sequência de ações usada para preparar bebidas de forma eficiente e consistente.",
+        "why": "Um bom fluxo de trabalho reduz erros, desperdício e o tempo de espera do cliente.",
+        "tip": "Mova-se com propósito, não com pressa.",
+        "mistake": "Cruzar o seu próprio espaço de trabalho.",
+        "challenge": "Liste três formas de melhorar o fluxo de trabalho durante um serviço movimentado."
+      }
+    }
   },
   {
     "number": "047",
@@ -168,11 +186,11 @@
     "difficulty": 1,
     "reading_time": 2,
     "hero_image": "055.jpg",
-    "definition": "A structured closing routine prepares the caf\u00e9 for the following day.",
+    "definition": "A structured closing routine prepares the café for the following day.",
     "why": "A good close creates a good opening.",
     "tip": "Use a written checklist every shift.",
     "mistake": "Relying on memory.",
-    "challenge": "Write a ten-step closing routine for your caf\u00e9.",
+    "challenge": "Write a ten-step closing routine for your café.",
     "related": [
       "054",
       "050",

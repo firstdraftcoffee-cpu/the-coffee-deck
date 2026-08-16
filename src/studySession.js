@@ -1,6 +1,17 @@
 import { updateReview } from "./review.js";
 import { setupSwipe } from "./swipe.js";
 import { lockScroll, unlockScroll } from "./scrollLock.js";
+import { t, onLocaleChange } from "./i18n.js";
+
+onLocaleChange(() => {
+
+    if (document.getElementById("study-mode")) {
+
+        render();
+
+    }
+
+});
 
 let cards = [];
 let index = 0;
@@ -53,7 +64,7 @@ function render() {
 <button
 class="close close-lg"
 id="study-exit-x"
-aria-label="Close"
+aria-label="${t("close")}"
 >
 
 &times;
@@ -62,7 +73,7 @@ aria-label="Close"
 
 <div class="study-top">
 
-<h2>Study Mode</h2>
+<h2>${t("studyModeTitle")}</h2>
 
 <div class="study-progress">
 
@@ -83,7 +94,7 @@ id="studyShuffle"
 type="checkbox"
 ${shuffle ? "checked" : ""}>
 
-Shuffle session
+${t("shuffleSession")}
 
 </label>
 
@@ -105,7 +116,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h4>Definition</h4>
+<h4>${t("sectionDefinition")}</h4>
 
 <p>${card.definition}</p>
 
@@ -113,7 +124,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h4>Why it matters</h4>
+<h4>${t("studyWhySection")}</h4>
 
 <p>${card.why}</p>
 
@@ -121,7 +132,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h4>Pro tip</h4>
+<h4>${t("studyTipSection")}</h4>
 
 <p>${card.tip}</p>
 
@@ -129,7 +140,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h4>Common mistake</h4>
+<h4>${t("studyMistakeSection")}</h4>
 
 <p>${card.mistake}</p>
 
@@ -137,7 +148,7 @@ ${revealed ? `
 
 <div class="study-section">
 
-<h4>Challenge</h4>
+<h4>${t("studyChallengeSection")}</h4>
 
 <p>${card.challenge}</p>
 
@@ -148,28 +159,28 @@ ${revealed ? `
 <button data-rating="again">
 
 <span class="dot dot-red"></span>
-Again
+${t("ratingAgain")}
 
 </button>
 
 <button data-rating="hard">
 
 <span class="dot dot-orange"></span>
-Hard
+${t("ratingHard")}
 
 </button>
 
 <button data-rating="good">
 
 <span class="dot dot-green"></span>
-Good
+${t("ratingGood")}
 
 </button>
 
 <button data-rating="easy">
 
 <span class="dot dot-blue"></span>
-Easy
+${t("ratingEasy")}
 
 </button>
 
@@ -179,11 +190,11 @@ Easy
 
 <div class="study-hidden">
 
-Think of the answer first.
+${t("thinkFirst")}
 
 <br><br>
 
-Press reveal when ready.
+${t("pressReveal")}
 
 </div>
 
@@ -193,7 +204,7 @@ Press reveal when ready.
 
 <div class="study-actions">
 
-<button id="study-prev" aria-label="Previous card">
+<button id="study-prev" aria-label="${t("previousCard")}">
 
 ←
 
@@ -201,11 +212,11 @@ Press reveal when ready.
 
 <button id="study-reveal">
 
-${revealed ? "Hide" : "Reveal"}
+${revealed ? t("hide") : t("reveal")}
 
 </button>
 
-<button id="study-next" aria-label="Next card">
+<button id="study-next" aria-label="${t("nextCard")}">
 
 →
 
@@ -215,7 +226,7 @@ ${revealed ? "Hide" : "Reveal"}
 
 <button id="study-exit">
 
-Exit study mode
+${t("exitStudyMode")}
 
 </button>
 
@@ -371,17 +382,17 @@ function finishSession() {
 
 <h2>
 
-Session complete
+${t("sessionComplete")}
 
 </h2>
 
 <p>
 
-You studied
+${t("youStudiedPrefix")}
 
 <strong>${cards.length}</strong>
 
-cards.
+${t("youStudiedSuffix", cards.length)}
 
 </p>
 
@@ -399,13 +410,13 @@ style="transform:scaleX(1)">
 
 <button id="restartStudy">
 
-Study again
+${t("studyAgain")}
 
 </button>
 
 <button id="closeStudy">
 
-Return home
+${t("returnHome")}
 
 </button>
 

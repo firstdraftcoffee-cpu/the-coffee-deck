@@ -4,6 +4,8 @@ import {
     resetReview
 } from "./review.js";
 
+import { t } from "./i18n.js";
+
 export function renderReviewButtons(
     cardNumber,
     onComplete,
@@ -29,13 +31,13 @@ export function renderReviewButtons(
 <strong>${formatState(review.state)}</strong>
 
 <span class="review-count">
-Reviews: ${review.reviews}
+${t("reviewsLabel", review.reviews)}
 </span>
 
 ${review.reviews > 0 ? `
 
 <button class="reset-progress">
-Reset progress
+${t("resetProgress")}
 </button>
 
 ` : ""}
@@ -64,7 +66,7 @@ Reset progress
 
         hint.className = "review-hint";
 
-        hint.textContent = "Rate your recall in Study Mode to schedule reviews.";
+        hint.textContent = t("rateInStudyMode");
 
         wrapper.appendChild(hint);
 
@@ -81,29 +83,29 @@ Reset progress
         {
             id: "again",
             dot: "dot-red",
-            label: "Again",
-            hint: "<1 min"
+            label: t("ratingAgain"),
+            hint: t("ratingAgainHint")
         },
 
         {
             id: "hard",
             dot: "dot-orange",
-            label: "Hard",
-            hint: "~3 days"
+            label: t("ratingHard"),
+            hint: t("ratingHardHint")
         },
 
         {
             id: "good",
             dot: "dot-green",
-            label: "Good",
-            hint: "~1 week"
+            label: t("ratingGood"),
+            hint: t("ratingGoodHint")
         },
 
         {
             id: "easy",
             dot: "dot-blue",
-            label: "Easy",
-            hint: "2+ weeks"
+            label: t("ratingEasy"),
+            hint: t("ratingEasyHint")
         }
 
     ];
@@ -164,10 +166,10 @@ function formatState(state) {
 
     switch (state) {
 
-        case "learning": return "Learning";
-        case "review": return "Reviewing";
-        case "mastered": return "Mastered";
-        default: return "New";
+        case "learning": return t("stateLearning");
+        case "review": return t("stateReview");
+        case "mastered": return t("stateMastered");
+        default: return t("stateNew");
 
     }
 

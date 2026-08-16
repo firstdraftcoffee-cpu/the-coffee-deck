@@ -15,7 +15,25 @@
       "077",
       "078",
       "079"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Procesamiento del Café",
+        "definition": "El procesamiento es el método utilizado para separar la semilla del café de la fruta tras la cosecha.",
+        "why": "El procesamiento influye de forma importante en el sabor, el cuerpo y la acidez.",
+        "tip": "Considera siempre el procesamiento junto con el origen y la variedad.",
+        "mistake": "Suponer que el origen por sí solo determina el sabor.",
+        "challenge": "Nombra los tres métodos de procesamiento más comunes."
+      },
+      "pt": {
+        "title": "Processamento do Café",
+        "definition": "O processamento é o método usado para remover a semente do café do fruto após a colheita.",
+        "why": "O processamento tem grande influência no sabor, no corpo e na acidez.",
+        "tip": "Considere sempre o processamento junto com a origem e a variedade.",
+        "mistake": "Supor que apenas a origem determina o sabor.",
+        "challenge": "Nomeie os três métodos de processamento mais comuns."
+      }
+    }
   },
   {
     "number": "077",

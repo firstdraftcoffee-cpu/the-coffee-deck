@@ -15,7 +15,25 @@
       "057",
       "058",
       "059"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Evaluación Sensorial",
+        "definition": "La evaluación sensorial es la valoración sistemática del café mediante la vista, el aroma, el sabor y la sensación en boca.",
+        "why": "Unas habilidades sensoriales consistentes mejoran el control de calidad y las decisiones de compra.",
+        "tip": "Cata con un propósito, no solo por preferencia.",
+        "mistake": "Confundir la preferencia personal con la calidad objetiva.",
+        "challenge": "Enumera los cinco sentidos implicados en la evaluación del café."
+      },
+      "pt": {
+        "title": "Avaliação Sensorial",
+        "definition": "A avaliação sensorial é a avaliação sistemática do café usando visão, aroma, sabor e sensação na boca.",
+        "why": "Habilidades sensoriais consistentes melhoram o controle de qualidade e as decisões de compra.",
+        "tip": "Prove com propósito, não apenas por preferência.",
+        "mistake": "Confundir a preferência pessoal com a qualidade objetiva.",
+        "challenge": "Liste os cinco sentidos envolvidos na avaliação do café."
+      }
+    }
   },
   {
     "number": "057",
@@ -169,7 +187,7 @@
     "reading_time": 3,
     "hero_image": "065.jpg",
     "definition": "Calibration is the process of aligning sensory evaluations between multiple tasters.",
-    "why": "Calibration improves consistency across caf\u00e9s, roasteries and QC teams.",
+    "why": "Calibration improves consistency across cafés, roasteries and QC teams.",
     "tip": "Discuss differences openly after every cupping.",
     "mistake": "Trying to agree before tasting independently.",
     "challenge": "How would you calibrate a team of four tasters?",

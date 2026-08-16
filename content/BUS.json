@@ -10,12 +10,30 @@
     "why": "Understanding cost is essential for setting sustainable prices.",
     "tip": "Calculate costs using actual recipes, not estimates.",
     "mistake": "Looking only at the cost of roasted coffee.",
-    "challenge": "Calculate the coffee cost of an 18g espresso from a \u20ac24/kg coffee.",
+    "challenge": "Calculate the coffee cost of an 18g espresso from a €24/kg coffee.",
     "related": [
       "112",
       "113",
       "115"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Costo del Café",
+        "definition": "El costo del café es el costo total de los ingredientes necesarios para producir una bebida o un producto de café al por menor.",
+        "why": "Comprender el costo es esencial para establecer precios sostenibles.",
+        "tip": "Calcula los costos usando recetas reales, no estimaciones.",
+        "mistake": "Fijarse solo en el costo del café tostado.",
+        "challenge": "Calcula el costo del café de un espresso de 18 g a partir de un café de 24 €/kg."
+      },
+      "pt": {
+        "title": "Custo do Café",
+        "definition": "O custo do café é o custo total dos ingredientes necessários para produzir uma bebida ou um produto de café para venda.",
+        "why": "Entender o custo é essencial para definir preços sustentáveis.",
+        "tip": "Calcule os custos usando receitas reais, não estimativas.",
+        "mistake": "Olhar apenas para o custo do café torrado.",
+        "challenge": "Calcule o custo do café de um espresso de 18g a partir de um café de €24/kg."
+      }
+    }
   },
   {
     "number": "112",
@@ -28,7 +46,7 @@
     "why": "Margin shows whether pricing can support labour, rent and other operating costs.",
     "tip": "Track margin by product category.",
     "mistake": "Confusing margin with markup.",
-    "challenge": "A drink sells for \u20ac4 and costs \u20ac1 to produce. Calculate its gross margin.",
+    "challenge": "A drink sells for €4 and costs €1 to produce. Calculate its gross margin.",
     "related": [
       "111",
       "113",
@@ -64,7 +82,7 @@
     "why": "Increasing spend per customer can grow revenue without increasing footfall.",
     "tip": "Measure it weekly and look for useful upselling opportunities.",
     "mistake": "Pushing unwanted add-ons instead of improving customer value.",
-    "challenge": "If 200 transactions generate \u20ac1,400, calculate the average transaction value.",
+    "challenge": "If 200 transactions generate €1,400, calculate the average transaction value.",
     "related": [
       "112",
       "113",
@@ -97,7 +115,7 @@
     "reading_time": 3,
     "hero_image": "116.jpg",
     "definition": "Labour cost includes wages and the associated employment costs required to operate the business.",
-    "why": "Labour is usually one of a caf\u00e9's largest controllable expenses.",
+    "why": "Labour is usually one of a café's largest controllable expenses.",
     "tip": "Schedule to expected demand rather than habit.",
     "mistake": "Reducing staffing so aggressively that service and sales suffer.",
     "challenge": "Why can cutting labour sometimes reduce profitability?",
@@ -154,7 +172,7 @@
     "why": "Repeat customers create more predictable revenue and stronger businesses.",
     "tip": "Consistency is one of the strongest retention tools.",
     "mistake": "Focusing entirely on attracting new customers.",
-    "challenge": "Name three reasons a customer would return to the same caf\u00e9 every week.",
+    "challenge": "Name three reasons a customer would return to the same café every week.",
     "related": [
       "114",
       "118",
@@ -172,7 +190,7 @@
     "why": "Customers judge value by the complete experience rather than ingredient cost alone.",
     "tip": "Compete on experience and consistency, not simply price.",
     "mistake": "Assuming cheaper automatically means better value.",
-    "challenge": "Describe what makes a \u20ac4 coffee feel worth \u20ac4.",
+    "challenge": "Describe what makes a €4 coffee feel worth €4.",
     "related": [
       "113",
       "118",

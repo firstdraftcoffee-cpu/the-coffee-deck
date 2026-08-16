@@ -7,7 +7,7 @@
     "reading_time": 2,
     "hero_image": "001.jpg",
     "definition": "Espresso is a concentrated coffee beverage brewed by forcing hot water through finely ground coffee under pressure.",
-    "why": "Nearly every caf\u00e9 drink begins with espresso.",
+    "why": "Nearly every café drink begins with espresso.",
     "tip": "Master consistency before chasing perfection.",
     "mistake": "Judging espresso by crema alone.",
     "challenge": "Explain espresso in one sentence.",
@@ -15,7 +15,25 @@
       "002",
       "003",
       "004"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Espresso",
+        "definition": "El espresso es una bebida de café concentrada que se prepara forzando agua caliente a través de café molido fino bajo presión.",
+        "why": "Casi todas las bebidas de cafetería comienzan con un espresso.",
+        "tip": "Domina la consistencia antes de perseguir la perfección.",
+        "mistake": "Juzgar el espresso solo por la crema.",
+        "challenge": "Explica el espresso en una sola frase."
+      },
+      "pt": {
+        "title": "Espresso",
+        "definition": "O espresso é uma bebida de café concentrada preparada forçando água quente através de café moído fino sob pressão.",
+        "why": "Quase toda bebida de cafeteria começa com um espresso.",
+        "tip": "Domine a consistência antes de buscar a perfeição.",
+        "mistake": "Julgar o espresso apenas pela crema.",
+        "challenge": "Explique o espresso em uma frase."
+      }
+    }
   },
   {
     "number": "002",

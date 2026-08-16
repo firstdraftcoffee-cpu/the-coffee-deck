@@ -34,6 +34,14 @@ import {
     openStats
 } from "./stats.js";
 
+import {
+    t,
+    LOCALES,
+    getLocale,
+    setLocale,
+    onLocaleChange
+} from "./i18n.js";
+
 let activeCategory = "ALL";
 let currentSort = "number";
 let homeCards = [];
@@ -47,10 +55,15 @@ const filterToggle = document.getElementById("filterToggle");
 const filterPanel = document.getElementById("filterPanel");
 const studyToggle = document.getElementById("studyToggle");
 const statsToggle = document.getElementById("statsToggle");
+const langSwitch = document.getElementById("langSwitch");
 
 async function init() {
 
     await loadCards();
+
+    applyStaticStrings();
+
+    renderLangSwitch();
 
     buildFilters();
 
@@ -60,7 +73,68 @@ async function init() {
 
     document.addEventListener("coffeedeck:refresh", renderHome);
 
+    onLocaleChange(() => {
+
+        applyStaticStrings();
+
+        renderLangSwitch();
+
+        buildFilters();
+
+        renderHome();
+
+    });
+
     renderHome();
+
+}
+
+function applyStaticStrings() {
+
+    search.placeholder = t("searchPlaceholder");
+
+    filterToggle.setAttribute("aria-label", t("navSearchLabel"));
+    filterToggle.querySelector(".icon-label").textContent = t("navSearch");
+
+    studyToggle.setAttribute("aria-label", t("navStudyLabel"));
+    studyToggle.querySelector(".icon-label").textContent = t("navStudy");
+
+    statsToggle.setAttribute("aria-label", t("navProgressLabel"));
+    statsToggle.querySelector(".icon-label").textContent = t("navProgress");
+
+}
+
+function renderLangSwitch() {
+
+    langSwitch.innerHTML = "";
+
+    langSwitch.setAttribute("aria-label", t("languageLabel"));
+
+    const current = getLocale();
+
+    LOCALES.forEach(locale => {
+
+        const button = document.createElement("button");
+
+        button.type = "button";
+        button.textContent = locale.label;
+        button.title = locale.name;
+
+        if (locale.code === current) {
+
+            button.classList.add("active");
+
+        }
+
+        button.onclick = () => {
+
+            setLocale(locale.code);
+
+        };
+
+        langSwitch.appendChild(button);
+
+    });
 
 }
 
@@ -173,7 +247,7 @@ function showRecentSearches() {
 
         .join("") +
 
-        `<button class="recent-search-clear">Clear</button>`;
+        `<button class="recent-search-clear">${t("clear")}</button>`;
 
     box.querySelectorAll(".recent-search-item").forEach(
         (button, i) => {
@@ -340,7 +414,7 @@ export function renderHome() {
 
     homeCards = getVisibleCards();
 
-    counter.textContent = `${homeCards.length} Cards`;
+    counter.textContent = t("cardCount", homeCards.length);
 
     if (homeIndex >= homeCards.length) {
 
@@ -362,7 +436,7 @@ function renderHomeCard() {
 
 <div class="home-empty">
 
-No cards match your search.
+${t("noResults")}
 
 </div>
 
@@ -459,11 +533,11 @@ ${heroImage ? `
 
     actions.innerHTML = `
 
-<button id="homePrev" aria-label="Previous card">←</button>
+<button id="homePrev" aria-label="${t("previousCard")}">←</button>
 
-<button id="homeBookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}">${bookmarked ? "♥" : "♡"}</button>
+<button id="homeBookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? t("removeBookmark") : t("bookmark")}">${bookmarked ? "♥" : "♡"}</button>
 
-<button id="homeNext" aria-label="Next card">→</button>
+<button id="homeNext" aria-label="${t("nextCard")}">→</button>
 
 `;
 

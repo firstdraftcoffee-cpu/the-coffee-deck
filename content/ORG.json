@@ -15,7 +15,25 @@
       "087",
       "088",
       "089"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Origen del Café",
+        "definition": "El origen se refiere al país o región donde se cultiva el café.",
+        "why": "El clima, la altitud, el suelo y el procesamiento influyen todos en el sabor.",
+        "tip": "Piensa en el origen como una parte de la historia de un café.",
+        "mistake": "Suponer que todo café de un mismo país sabe igual.",
+        "challenge": "Nombra tres países productores de café importantes."
+      },
+      "pt": {
+        "title": "Origem do Café",
+        "definition": "Origem refere-se ao país ou região onde o café é cultivado.",
+        "why": "Clima, altitude, solo e processamento influenciam todos o sabor.",
+        "tip": "Pense na origem como uma parte da história de um café.",
+        "mistake": "Supor que todo café de um mesmo país tem o mesmo sabor.",
+        "challenge": "Nomeie três países grandes produtores de café."
+      }
+    }
   },
   {
     "number": "087",

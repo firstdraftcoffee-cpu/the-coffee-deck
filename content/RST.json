@@ -15,7 +15,25 @@
       "097",
       "098",
       "099"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tostado",
+        "definition": "El tostado del café transforma el café verde en café tostado mediante la aplicación controlada de calor.",
+        "why": "El tostado libera aroma, dulzura y solubilidad mientras conserva el carácter de origen del café.",
+        "tip": "Tu objetivo es la consistencia, no simplemente alcanzar un color.",
+        "mistake": "Tostar guiándose solo por el tiempo o el color.",
+        "challenge": "Nombra las tres etapas principales de un tueste."
+      },
+      "pt": {
+        "title": "Torra",
+        "definition": "A torra do café transforma o café verde em café torrado através da aplicação controlada de calor.",
+        "why": "A torra libera aroma, doçura e solubilidade, preservando o caráter de origem do café.",
+        "tip": "Seu objetivo é a consistência, não simplesmente atingir uma cor.",
+        "mistake": "Torrar guiando-se apenas pelo tempo ou pela cor.",
+        "challenge": "Nomeie as três principais etapas de uma torra."
+      }
+    }
   },
   {
     "number": "097",

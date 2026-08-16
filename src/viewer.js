@@ -17,6 +17,20 @@ import {
     unlockScroll
 } from "./scrollLock.js";
 
+import { t, onLocaleChange } from "./i18n.js";
+
+onLocaleChange(() => {
+
+    const viewer = document.getElementById("viewer");
+
+    if (viewer && viewer.classList.contains("show")) {
+
+        openViewer(currentCards, currentIndex);
+
+    }
+
+});
+
 let currentCards = [];
 let currentIndex = 0;
 let onCloseCallback = null;
@@ -72,7 +86,7 @@ export function openViewer(cards, index, options = {}) {
 
 <button
 class="close close-lg"
-aria-label="Close"
+aria-label="${t("close")}"
 >
 
 &times;
@@ -117,7 +131,7 @@ onerror="this.parentElement.style.display='none'"
 
 <section class="viewer-section">
 
-<h3>Definition</h3>
+<h3>${t("sectionDefinition")}</h3>
 
 <p>
 
@@ -129,7 +143,7 @@ ${card.definition}
 
 <section class="viewer-section">
 
-<h3>Why it Matters</h3>
+<h3>${t("sectionWhy")}</h3>
 
 <p>
 
@@ -141,7 +155,7 @@ ${card.why}
 
 <section class="viewer-section">
 
-<h3>Pro Tip</h3>
+<h3>${t("sectionTip")}</h3>
 
 <p>
 
@@ -153,7 +167,7 @@ ${card.tip}
 
 <section class="viewer-section">
 
-<h3>Common Mistake</h3>
+<h3>${t("sectionMistake")}</h3>
 
 <p>
 
@@ -165,7 +179,7 @@ ${card.mistake}
 
 <section class="viewer-section">
 
-<h3>Challenge</h3>
+<h3>${t("sectionChallenge")}</h3>
 
 <p>
 
@@ -182,7 +196,7 @@ ${relatedCards.length
 
 <section class="viewer-related">
 
-<h3>Related Cards</h3>
+<h3>${t("sectionRelated")}</h3>
 
 <div class="related-grid">
 
@@ -219,19 +233,19 @@ ${c.title}
 
 <div class="viewer-buttons">
 
-<button id="previous" aria-label="Previous card">
+<button id="previous" aria-label="${t("previousCard")}">
 
 ←
 
 </button>
 
-<button id="bookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? "Remove bookmark" : "Bookmark"}">
+<button id="bookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? t("removeBookmark") : t("bookmark")}">
 
 ${bookmarked ? "♥" : "♡"}
 
 </button>
 
-<button id="next" aria-label="Next card">
+<button id="next" aria-label="${t("nextCard")}">
 
 →
 

@@ -1,10 +1,56 @@
+import { getLocale, onLocaleChange } from "./i18n.js";
+
+const TRANSLATABLE_FIELDS = [
+    "title",
+    "definition",
+    "why",
+    "tip",
+    "mistake",
+    "challenge"
+];
+
+let rawCards = [];
 let cards = [];
+
+function localize(card, locale) {
+
+    const overrides = card.translations?.[locale];
+
+    if (!overrides) return card;
+
+    const localized = { ...card };
+
+    TRANSLATABLE_FIELDS.forEach(field => {
+
+        if (overrides[field]) {
+
+            localized[field] = overrides[field];
+
+        }
+
+    });
+
+    return localized;
+
+}
+
+function applyLocale() {
+
+    const locale = getLocale();
+
+    cards = rawCards.map(card => localize(card, locale));
+
+}
+
+onLocaleChange(applyLocale);
 
 export async function loadCards() {
 
     const response = await fetch("./data/cards.json");
 
-    cards = await response.json();
+    rawCards = await response.json();
+
+    applyLocale();
 
     return cards;
 

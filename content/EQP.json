@@ -15,7 +15,25 @@
       "037",
       "041",
       "045"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Máquina de Espresso",
+        "definition": "Una máquina de espresso hace pasar agua caliente a través de café molido fino bajo presión y temperatura controladas.",
+        "why": "Es el corazón de la mayoría de las cafeterías de especialidad.",
+        "tip": "Deja que la máquina se caliente por completo antes de empezar el servicio.",
+        "mistake": "Suponer que la máquina está estable inmediatamente después de encenderla.",
+        "challenge": "¿Por qué es importante la estabilidad térmica?"
+      },
+      "pt": {
+        "title": "Máquina de Espresso",
+        "definition": "Uma máquina de espresso força água quente através de café moído fino sob pressão e temperatura controladas.",
+        "why": "É o coração da maioria das cafeterias especiais.",
+        "tip": "Deixe a máquina aquecer totalmente antes do atendimento.",
+        "mistake": "Supor que a máquina está estável imediatamente após ser ligada.",
+        "challenge": "Por que a estabilidade térmica é importante?"
+      }
+    }
   },
   {
     "number": "037",

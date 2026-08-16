@@ -15,7 +15,25 @@
       "017",
       "018",
       "020"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Composición de la Leche",
+        "definition": "La leche está compuesta principalmente por agua, grasa, proteínas, lactosa y minerales.",
+        "why": "Conocer la composición de la leche ayuda a explicar el vaporizado, la dulzura y la calidad de la espuma.",
+        "tip": "La proteína crea espuma. La grasa aporta textura y sensación en boca.",
+        "mistake": "Suponer que la grasa crea la espuma.",
+        "challenge": "¿Qué componentes de la leche son los principales responsables del microfoam?"
+      },
+      "pt": {
+        "title": "Composição do Leite",
+        "definition": "O leite é composto principalmente por água, gordura, proteínas, lactose e minerais.",
+        "why": "Saber como o leite é composto ajuda a explicar a vaporização, a doçura e a qualidade da espuma.",
+        "tip": "A proteína cria espuma. A gordura contribui para a textura e a sensação na boca.",
+        "mistake": "Supor que a gordura cria espuma.",
+        "challenge": "Quais componentes do leite são mais responsáveis pelo microfoam?"
+      }
+    }
   },
   {
     "number": "017",
@@ -24,10 +42,10 @@
     "difficulty": 1,
     "reading_time": 2,
     "hero_image": "017.jpg",
-    "definition": "Most milk drinks are served between 55\u00b0C and 65\u00b0C depending on the beverage and customer preference.",
+    "definition": "Most milk drinks are served between 55°C and 65°C depending on the beverage and customer preference.",
     "why": "Temperature changes sweetness, texture and drinkability.",
     "tip": "Use your thermometer until you consistently recognise temperature by feel.",
-    "mistake": "Overheating milk above 70\u00b0C.",
+    "mistake": "Overheating milk above 70°C.",
     "challenge": "Why does overheated milk taste less sweet?",
     "related": [
       "016",
@@ -169,7 +187,7 @@
     "reading_time": 2,
     "hero_image": "025.jpg",
     "definition": "Accurate milk measurement reduces waste and improves profitability.",
-    "why": "Milk is one of the highest ongoing costs in most caf\u00e9s.",
+    "why": "Milk is one of the highest ongoing costs in most cafés.",
     "tip": "Steam only what you need.",
     "mistake": "Overfilling pitchers every drink.",
     "challenge": "Calculate the weekly cost of wasting 100ml per drink.",

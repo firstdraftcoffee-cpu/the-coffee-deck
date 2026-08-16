@@ -15,7 +15,25 @@
       "027",
       "028",
       "029"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Café de Filtro",
+        "definition": "El café de filtro se prepara dejando que la gravedad haga pasar el agua a través de un lecho de café molido.",
+        "why": "Resalta la claridad, la dulzura y el carácter de origen más que el espresso.",
+        "tip": "Concéntrate en una extracción uniforme en lugar de la velocidad.",
+        "mistake": "Moler demasiado fino.",
+        "challenge": "Enumera tres diferencias entre el espresso y el café de filtro."
+      },
+      "pt": {
+        "title": "Café Filtrado",
+        "definition": "O café filtrado é preparado deixando a gravidade puxar a água através de uma camada de café moído.",
+        "why": "Destaca a clareza, a doçura e o caráter de origem mais do que o espresso.",
+        "tip": "Concentre-se numa extração uniforme em vez da velocidade.",
+        "mistake": "Moer o café fino demais.",
+        "challenge": "Liste três diferenças entre o espresso e o café filtrado."
+      }
+    }
   },
   {
     "number": "027",
