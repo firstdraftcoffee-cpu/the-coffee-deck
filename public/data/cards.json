@@ -4438,5 +4438,338 @@
       }
     },
     "id": 120
+  },
+  {
+    "number": "121",
+    "title": "Pour-Over (V60)",
+    "category": "MTH",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Pour-over brewing using a conical single-hole filter (like the Hario V60) where the brewer controls extraction through pour rate, agitation and timing.",
+    "why": "Because the flow rate is entirely manual, it gives the brewer more real-time control over extraction than almost any other method.",
+    "tip": "Keep your pour steady and consistent rather than fast or slow — repeatability matters more than speed.",
+    "mistake": "Pouring too fast and flooding the bed, which drowns out manual control entirely.",
+    "challenge": "What happens to extraction if you pour in one continuous stream versus several pulses?",
+    "related": [
+      "027",
+      "028",
+      "032"
+    ],
+    "translations": {
+      "es": {
+        "title": "Vertido Manual (V60)",
+        "definition": "Preparación por vertido manual usando un filtro cónico de un solo orificio (como el Hario V60), donde quien prepara controla la extracción mediante el ritmo de vertido, la agitación y el tiempo.",
+        "why": "Como el flujo se controla completamente a mano, ofrece más control en tiempo real sobre la extracción que casi cualquier otro método.",
+        "tip": "Mantén tu vertido constante y uniforme en lugar de rápido o lento: la repetibilidad importa más que la velocidad.",
+        "mistake": "Verter demasiado rápido e inundar la pastilla, lo que anula por completo el control manual.",
+        "challenge": "¿Qué le sucede a la extracción si viertes en un solo chorro continuo en comparación con varios pulsos?"
+      },
+      "pt": {
+        "title": "Coado Manual (V60)",
+        "definition": "Preparo por coado manual usando um filtro cônico de furo único (como o Hario V60), no qual quem prepara controla a extração pelo ritmo do despejo, agitação e tempo.",
+        "why": "Como o fluxo é controlado totalmente à mão, oferece mais controle em tempo real sobre a extração do que quase qualquer outro método.",
+        "tip": "Mantenha o despejo constante e uniforme em vez de rápido ou lento — a repetibilidade importa mais do que a velocidade.",
+        "mistake": "Despejar rápido demais e inundar a pastilha, o que anula completamente o controle manual.",
+        "challenge": "O que acontece com a extração se você despejar em um único fluxo contínuo em vez de vários pulsos?"
+      }
+    },
+    "id": 121
+  },
+  {
+    "number": "122",
+    "title": "Chemex",
+    "category": "MTH",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A pour-over brewer using thick, bonded filter paper that produces an unusually clean, tea-like cup.",
+    "why": "The heavier filter paper removes more oils and fines than standard paper, changing body and clarity dramatically.",
+    "tip": "Pre-wet the filter thoroughly — Chemex paper is thicker and needs more rinsing to avoid papery taste.",
+    "mistake": "Using standard-weight filter paper instead of proper Chemex filters.",
+    "challenge": "Why does a Chemex cup taste noticeably cleaner than a V60 cup brewed with the same coffee?",
+    "related": [
+      "033",
+      "121",
+      "035"
+    ],
+    "translations": {
+      "es": {
+        "title": "Chemex",
+        "definition": "Un preparador de vertido manual que usa papel filtro grueso y adherido, produciendo una taza inusualmente limpia y con carácter de té.",
+        "why": "El papel filtro más pesado elimina más aceites y finos que el papel estándar, cambiando drásticamente el cuerpo y la claridad.",
+        "tip": "Enjuaga bien el filtro; el papel Chemex es más grueso y necesita más enjuague para evitar el sabor a papel.",
+        "mistake": "Usar papel filtro de peso estándar en lugar de los filtros propios de Chemex.",
+        "challenge": "¿Por qué una taza de Chemex sabe notablemente más limpia que una de V60 preparada con el mismo café?"
+      },
+      "pt": {
+        "title": "Chemex",
+        "definition": "Um preparador de coado manual que usa papel filtro grosso e colado, produzindo uma xícara incomumente limpa, com caráter de chá.",
+        "why": "O papel filtro mais pesado remove mais óleos e finos do que o papel padrão, mudando drasticamente o corpo e a clareza.",
+        "tip": "Enxágue bem o filtro — o papel Chemex é mais grosso e precisa de mais enxágue para evitar sabor de papel.",
+        "mistake": "Usar papel filtro de peso padrão em vez dos filtros próprios do Chemex.",
+        "challenge": "Por que uma xícara de Chemex tem sabor visivelmente mais limpo do que uma de V60 preparada com o mesmo café?"
+      }
+    },
+    "id": 122
+  },
+  {
+    "number": "123",
+    "title": "AeroPress",
+    "category": "MTH",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A hybrid brewer that combines immersion steeping with manual pressure filtration through a paper or metal cap.",
+    "why": "Its flexibility lets a single device produce wildly different results depending on grind, ratio and press technique.",
+    "tip": "Change one variable at a time — grind, steep time, or press pressure — to understand what each one does.",
+    "mistake": "Pressing too hard and too fast, forcing bitter compounds through under excess pressure.",
+    "challenge": "How does the inverted method change what happens during steeping?",
+    "related": [
+      "011",
+      "012",
+      "029"
+    ],
+    "translations": {
+      "es": {
+        "title": "AeroPress",
+        "definition": "Un preparador híbrido que combina el remojo por inmersión con filtración manual a presión a través de una tapa de papel o metal.",
+        "why": "Su flexibilidad permite que un solo dispositivo produzca resultados muy distintos según la molienda, la relación y la técnica de prensado.",
+        "tip": "Cambia una variable a la vez —molienda, tiempo de remojo o presión de prensado— para entender qué hace cada una.",
+        "mistake": "Presionar con demasiada fuerza y rapidez, forzando compuestos amargos bajo presión excesiva.",
+        "challenge": "¿Cómo cambia el método invertido lo que sucede durante el remojo?"
+      },
+      "pt": {
+        "title": "AeroPress",
+        "definition": "Um preparador híbrido que combina imersão com filtragem manual sob pressão através de uma tampa de papel ou metal.",
+        "why": "Sua flexibilidade permite que um único dispositivo produza resultados bem diferentes dependendo da moagem, proporção e técnica de prensagem.",
+        "tip": "Mude uma variável de cada vez — moagem, tempo de imersão ou pressão de prensagem — para entender o que cada uma faz.",
+        "mistake": "Prensar com força e rapidez demais, forçando compostos amargos sob pressão excessiva.",
+        "challenge": "Como o método invertido muda o que acontece durante a imersão?"
+      }
+    },
+    "id": 123
+  },
+  {
+    "number": "124",
+    "title": "French Press",
+    "category": "MTH",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A full-immersion brewer using a mesh metal filter to separate grounds from brewed coffee.",
+    "why": "Because oils and fine particles pass through the metal mesh, French press produces a heavier body than paper-filtered coffee.",
+    "tip": "Break the crust and skim floating grounds before pressing for a cleaner cup.",
+    "mistake": "Leaving the plunger down after pressing, which keeps extracting the coffee.",
+    "challenge": "Why does French press coffee usually have more sediment than pour-over?",
+    "related": [
+      "034",
+      "005",
+      "030"
+    ],
+    "translations": {
+      "es": {
+        "title": "Prensa Francesa",
+        "definition": "Un preparador de inmersión total que usa un filtro metálico de malla para separar los posos del café preparado.",
+        "why": "Como los aceites y las partículas finas pasan a través de la malla metálica, la prensa francesa produce un cuerpo más pesado que el café filtrado con papel.",
+        "tip": "Rompe la costra y retira los posos flotantes antes de prensar, para obtener una taza más limpia.",
+        "mistake": "Dejar el émbolo abajo después de prensar, lo que sigue extrayendo el café.",
+        "challenge": "¿Por qué el café de prensa francesa suele tener más sedimento que el de vertido manual?"
+      },
+      "pt": {
+        "title": "Prensa Francesa",
+        "definition": "Um preparador de imersão total que usa um filtro metálico de malha para separar o pó do café preparado.",
+        "why": "Como óleos e partículas finas passam pela malha metálica, a prensa francesa produz um corpo mais encorpado do que o café filtrado em papel.",
+        "tip": "Quebre a crosta e retire os grãos flutuantes antes de prensar, para uma xícara mais limpa.",
+        "mistake": "Deixar o êmbolo pressionado depois de prensar, o que continua extraindo o café.",
+        "challenge": "Por que o café de prensa francesa costuma ter mais sedimento do que o de coado manual?"
+      }
+    },
+    "id": 124
+  },
+  {
+    "number": "125",
+    "title": "Siphon (Vacuum Brewer)",
+    "category": "MTH",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A brewer that uses vapor pressure and vacuum to move water between two chambers through a coffee bed.",
+    "why": "It's one of the only brew methods where the entire extraction happens visibly, making it a genuinely theatrical way to brew.",
+    "tip": "Keep agitation gentle and consistent through the steep phase for even extraction.",
+    "mistake": "Removing the heat source too early, which stalls the vacuum draw-down.",
+    "challenge": "What physically causes the brewed coffee to return to the lower chamber?",
+    "related": [
+      "029",
+      "005",
+      "032"
+    ],
+    "translations": {
+      "es": {
+        "title": "Sifón (Vacuum Pot)",
+        "definition": "Un preparador que usa presión de vapor y vacío para mover el agua entre dos cámaras a través de un lecho de café.",
+        "why": "Es uno de los pocos métodos donde toda la extracción ocurre a la vista, lo que lo convierte en una forma genuinamente teatral de preparar café.",
+        "tip": "Mantén la agitación suave y constante durante la fase de remojo para una extracción uniforme.",
+        "mistake": "Retirar la fuente de calor demasiado pronto, lo que detiene el descenso por vacío.",
+        "challenge": "¿Qué causa físicamente que el café preparado regrese a la cámara inferior?"
+      },
+      "pt": {
+        "title": "Sifão (Vacuum Pot)",
+        "definition": "Um preparador que usa pressão de vapor e vácuo para mover a água entre duas câmaras através de um leito de café.",
+        "why": "É um dos únicos métodos em que toda a extração acontece de forma visível, tornando-o uma maneira genuinamente teatral de preparar café.",
+        "tip": "Mantenha a agitação suave e constante durante a fase de imersão para uma extração uniforme.",
+        "mistake": "Retirar a fonte de calor cedo demais, o que trava a descida por vácuo.",
+        "challenge": "O que causa fisicamente o retorno do café preparado para a câmara inferior?"
+      }
+    },
+    "id": 125
+  },
+  {
+    "number": "126",
+    "title": "Cold Brew",
+    "category": "MTH",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee steeped in room-temperature or cold water for an extended period, typically 12 to 24 hours.",
+    "why": "Cold water extracts more slowly and selectively than hot water, producing a naturally low-acid, smoother concentrate.",
+    "tip": "Start with a coarse grind — fine grounds over-extract badly across such a long steep.",
+    "mistake": "Treating cold brew concentrate as ready-to-drink strength without diluting it.",
+    "challenge": "Why does cold brew taste smoother even though it's steeped so much longer than hot coffee?",
+    "related": [
+      "005",
+      "006",
+      "035"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cold Brew",
+        "definition": "Café remojado en agua a temperatura ambiente o fría durante un período prolongado, típicamente entre 12 y 24 horas.",
+        "why": "El agua fría extrae de forma más lenta y selectiva que el agua caliente, produciendo un concentrado naturalmente bajo en acidez y suave.",
+        "tip": "Empieza con una molienda gruesa; los granos finos se sobreextraen fácilmente durante un remojo tan largo.",
+        "mistake": "Tratar el concentrado de cold brew como si tuviera la fuerza lista para beber, sin diluirlo.",
+        "challenge": "¿Por qué el cold brew sabe más suave a pesar de remojarse mucho más tiempo que el café caliente?"
+      },
+      "pt": {
+        "title": "Cold Brew",
+        "definition": "Café em infusão em água à temperatura ambiente ou fria por um período prolongado, tipicamente entre 12 e 24 horas.",
+        "why": "A água fria extrai de forma mais lenta e seletiva do que a água quente, produzindo um concentrado naturalmente baixo em acidez e suave.",
+        "tip": "Comece com uma moagem grossa — grãos finos superextraem facilmente ao longo de uma infusão tão longa.",
+        "mistake": "Tratar o concentrado de cold brew como se já estivesse na força pronta para beber, sem diluir.",
+        "challenge": "Por que o cold brew tem sabor mais suave mesmo ficando em infusão por muito mais tempo do que o café quente?"
+      }
+    },
+    "id": 126
+  },
+  {
+    "number": "127",
+    "title": "Moka Pot",
+    "category": "MTH",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A stovetop brewer that pushes hot water up through coffee using steam pressure, producing a strong, concentrated cup.",
+    "why": "It's the everyday coffee format across much of Italy and a genuinely distinct brewing category from espresso.",
+    "tip": "Use water that's already hot to fill the base — it reduces the time metal spends over direct heat.",
+    "mistake": "Calling moka pot coffee \"espresso\" — the pressure is far lower and the result is a different drink entirely.",
+    "challenge": "Why can't a moka pot reach true espresso pressure?",
+    "related": [
+      "012",
+      "013",
+      "004"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cafetera Moka (Moka Pot)",
+        "definition": "Un preparador de estufa que empuja agua caliente hacia arriba a través del café usando presión de vapor, produciendo una taza fuerte y concentrada.",
+        "why": "Es el formato de café cotidiano en gran parte de Italia y una categoría de preparación genuinamente distinta al espresso.",
+        "tip": "Llena la base con agua ya caliente; reduce el tiempo que el metal pasa sobre fuego directo.",
+        "mistake": "Llamar \"espresso\" al café de moka: la presión es mucho menor y el resultado es una bebida completamente distinta.",
+        "challenge": "¿Por qué una cafetera moka no puede alcanzar la presión real del espresso?"
+      },
+      "pt": {
+        "title": "Cafeteira Moka (Moka Pot)",
+        "definition": "Um preparador de fogão que empurra água quente para cima através do café usando pressão de vapor, produzindo uma xícara forte e concentrada.",
+        "why": "É o formato de café do dia a dia em grande parte da Itália e uma categoria de preparo genuinamente distinta do espresso.",
+        "tip": "Encha a base com água já quente — reduz o tempo que o metal passa sobre o fogo direto.",
+        "mistake": "Chamar o café de moka de \"espresso\" — a pressão é muito menor e o resultado é uma bebida completamente diferente.",
+        "challenge": "Por que uma cafeteira moka não consegue atingir a pressão real do espresso?"
+      }
+    },
+    "id": 127
+  },
+  {
+    "number": "128",
+    "title": "Batch Brew",
+    "category": "MTH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "High-volume drip brewing designed to produce consistent coffee at scale for cafés.",
+    "why": "It's the method most cafés actually rely on for everyday volume, even ones known for pour-over.",
+    "tip": "Dial in batch brew with the same discipline as a pour-over recipe — dose, ratio, and time all still matter.",
+    "mistake": "Treating batch brew as \"good enough\" and skipping proper dial-in.",
+    "challenge": "Why does batch brew consistency matter more commercially than pour-over precision?",
+    "related": [
+      "035",
+      "032",
+      "006"
+    ],
+    "translations": {
+      "es": {
+        "title": "Preparación por Lotes (Batch Brew)",
+        "definition": "Preparación por goteo de alto volumen, diseñada para producir café consistente a escala en las cafeterías.",
+        "why": "Es el método del que realmente dependen la mayoría de las cafeterías para su volumen diario, incluso las conocidas por su vertido manual.",
+        "tip": "Calibra el batch brew con la misma disciplina que una receta de vertido manual: la dosis, la relación y el tiempo siguen importando.",
+        "mistake": "Tratar el batch brew como \"suficientemente bueno\" y saltarse una calibración adecuada.",
+        "challenge": "¿Por qué la consistencia del batch brew importa más comercialmente que la precisión del vertido manual?"
+      },
+      "pt": {
+        "title": "Preparo em Lote (Batch Brew)",
+        "definition": "Preparo por gotejamento de alto volume, projetado para produzir café consistente em escala nas cafeterias.",
+        "why": "É o método do qual a maioria das cafeterias realmente depende para o volume diário, mesmo as conhecidas pelo coado manual.",
+        "tip": "Calibre o batch brew com a mesma disciplina de uma receita de coado manual — dose, proporção e tempo continuam importando.",
+        "mistake": "Tratar o batch brew como \"bom o suficiente\" e pular uma calibração adequada.",
+        "challenge": "Por que a consistência do batch brew importa mais comercialmente do que a precisão do coado manual?"
+      }
+    },
+    "id": 128
+  },
+  {
+    "number": "129",
+    "title": "Immersion vs Percolation",
+    "category": "MTH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The two fundamental brewing families — immersion holds water and coffee together for a set time, while percolation continuously moves fresh water through the grounds.",
+    "why": "Understanding which family a method belongs to explains most of its flavour characteristics.",
+    "tip": "Ask \"is the water moving through, or just sitting with the coffee?\" to classify any new brew method quickly.",
+    "mistake": "Assuming brew methods within the same family (e.g. French press and cold brew) will taste similar just because they're both immersion.",
+    "challenge": "Classify V60, French press, AeroPress and cold brew as immersion or percolation — is AeroPress really only one or the other?",
+    "related": [
+      "121",
+      "124",
+      "123"
+    ],
+    "translations": {
+      "es": {
+        "title": "Inmersión vs. Percolación",
+        "definition": "Las dos familias fundamentales de preparación: la inmersión mantiene el agua y el café juntos durante un tiempo determinado, mientras que la percolación mueve continuamente agua fresca a través de los posos.",
+        "why": "Entender a qué familia pertenece un método explica la mayoría de sus características de sabor.",
+        "tip": "Pregúntate \"¿el agua está pasando a través, o simplemente está con el café?\" para clasificar rápidamente cualquier método nuevo.",
+        "mistake": "Suponer que los métodos dentro de la misma familia (por ejemplo, prensa francesa y cold brew) sabrán parecido solo porque ambos son de inmersión.",
+        "challenge": "Clasifica el V60, la prensa francesa, el AeroPress y el cold brew como inmersión o percolación: ¿el AeroPress realmente pertenece a una sola categoría?"
+      },
+      "pt": {
+        "title": "Imersão vs. Percolação",
+        "definition": "As duas famílias fundamentais de preparo: a imersão mantém a água e o café juntos por um tempo determinado, enquanto a percolação move continuamente água nova através do pó.",
+        "why": "Entender a qual família um método pertence explica a maior parte de suas características de sabor.",
+        "tip": "Pergunte-se \"a água está passando através, ou apenas ficando com o café?\" para classificar rapidamente qualquer método novo.",
+        "mistake": "Supor que métodos da mesma família (por exemplo, prensa francesa e cold brew) terão sabor parecido só por serem ambos de imersão.",
+        "challenge": "Classifique o V60, a prensa francesa, o AeroPress e o cold brew como imersão ou percolação — o AeroPress realmente pertence a apenas uma categoria?"
+      }
+    },
+    "id": 129
   }
 ]

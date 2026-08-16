@@ -3,6 +3,7 @@ import fs from "fs";
 
 const html = fs.readFileSync("./dist/index.html", "utf8");
 const cardsData = JSON.parse(fs.readFileSync("./dist/data/cards.json", "utf8"));
+const TOTAL_CARDS = String(cardsData.length);
 const jsFile = fs.readdirSync("./dist/assets").find(f => f.endsWith(".js"));
 
 const dom = new JSDOM(html, {
@@ -88,7 +89,7 @@ check("Study button has a visible text label", doc.getElementById("studyToggle")
 check("Progress button has a visible text label", doc.getElementById("statsToggle")?.textContent.includes("Progress"));
 
 // --- Home swipe card ---
-check("Total card count shows 120", doc.getElementById("count")?.textContent.includes("120"));
+check(`Total card count shows ${TOTAL_CARDS}`, doc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 check("Home card renders", !!doc.querySelector(".home-card"));
 check("Home card shows a title", !!doc.querySelector(".home-card h2")?.textContent.trim());
 const homeImg = doc.querySelector(".home-card-image img");
@@ -96,7 +97,7 @@ check("Home card renders an actual <img> for a card with a photo", !!homeImg && 
 check("Home card image does not use a negative z-index (regression: this hid the photo behind the card's own background)", global.window.getComputedStyle(homeImg).zIndex !== "-1");
 check("Home card has a dedicated scrim layer distinct from the image itself", !!doc.querySelector(".home-card-scrim"));
 check("Home card shows a category badge", !!doc.querySelector(".home-card .home-card-cat"));
-check("Home card data-total reflects 120 cards (not shown visibly, just for verification)", doc.querySelector(".home-card")?.dataset.total === "120");
+check(`Home card data-total reflects ${TOTAL_CARDS} cards (not shown visibly, just for verification)`, doc.querySelector(".home-card")?.dataset.total === TOTAL_CARDS);
 check("Home card starts at index 0", doc.querySelector(".home-card")?.dataset.index === "0");
 check("No visible '1 / 120' style counter text on the home card", !/\d+\s*\/\s*\d+/.test(doc.querySelector(".home-card")?.textContent || ""));
 
@@ -186,7 +187,7 @@ check("Home card now shows an ESP card", doc.querySelector(".home-card .home-car
 const allFilter = [...doc.querySelectorAll("#filters .filter")].find(f => f.textContent.includes("ALL"));
 allFilter.dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
-check("Resetting to ALL restores 120 cards", doc.getElementById("count")?.textContent.includes("120"));
+check(`Resetting to ALL restores ${TOTAL_CARDS} cards`, doc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 
 // --- Search ---
 doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
@@ -229,7 +230,7 @@ doc.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubb
 await new Promise(r => setTimeout(r, 250));
 check("Study toggle opens study mode", !!doc.getElementById("study-mode"));
 check("Body scroll is locked during study mode too", doc.body.style.position === "fixed");
-check("Study session includes all 120 cards (no active filter)", doc.querySelector(".study-window")?.dataset.total === "120");
+check(`Study session includes all ${TOTAL_CARDS} cards (no active filter)`, doc.querySelector(".study-window")?.dataset.total === TOTAL_CARDS);
 check("No visible 'Card X of Y' counter text in study mode", !/Card\s+\d+\s+of\s+\d+/.test(doc.querySelector(".study-window")?.textContent || ""));
 
 const studyWindow = doc.querySelector(".study-window");
@@ -250,7 +251,7 @@ doc.getElementById("statsToggle").dispatchEvent(new window.Event("click", { bubb
 await new Promise(r => setTimeout(r, 200));
 check("Stats modal opens", !!doc.getElementById("stats-mode"));
 check("Body scroll is locked during stats modal too", doc.body.style.position === "fixed");
-check("Total Cards tile shows 120", doc.getElementById("stats-mode")?.textContent.includes("120"));
+check(`Total Cards tile shows ${TOTAL_CARDS}`, doc.getElementById("stats-mode")?.textContent.includes(TOTAL_CARDS));
 check("Bookmarks tile exists and is clickable (1 bookmark set earlier)", !!doc.getElementById("tile-bookmarks") && !doc.getElementById("tile-bookmarks").classList.contains("disabled"));
 check("Export link appears since a bookmark exists", !!doc.getElementById("tile-export"));
 check("Recently Viewed tile exists", !!doc.getElementById("tile-recent"));
@@ -326,7 +327,7 @@ await new Promise(r => setTimeout(r, 250));
 
 check("Clicking the home button closes an open viewer", !doc.getElementById("viewer")?.classList.contains("show"));
 check("Clicking the home button clears the search field", doc.getElementById("search").value === "");
-check("Clicking the home button resets the filter back to ALL (120 cards)", doc.getElementById("count")?.textContent.includes("120"));
+check(`Clicking the home button resets the filter back to ALL (${TOTAL_CARDS} cards)`, doc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 check("Home stack is visible again after clicking the home button", !!doc.querySelector(".home-card"));
 check("Clicking the home button also opens the welcome overlay", !!doc.getElementById("welcome-mode")?.classList.contains("show"));
 check("Body scroll is locked while that welcome overlay is showing", doc.body.style.position === "fixed");
