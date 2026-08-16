@@ -4445,7 +4445,7 @@
     "category": "MTH",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "121.jpg",
     "definition": "Pour-over brewing using a conical single-hole filter (like the Hario V60) where the brewer controls extraction through pour rate, agitation and timing.",
     "why": "Because the flow rate is entirely manual, it gives the brewer more real-time control over extraction than almost any other method.",
     "tip": "Keep your pour steady and consistent rather than fast or slow — repeatability matters more than speed.",
@@ -4482,7 +4482,7 @@
     "category": "MTH",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "122.jpg",
     "definition": "A pour-over brewer using thick, bonded filter paper that produces an unusually clean, tea-like cup.",
     "why": "The heavier filter paper removes more oils and fines than standard paper, changing body and clarity dramatically.",
     "tip": "Pre-wet the filter thoroughly — Chemex paper is thicker and needs more rinsing to avoid papery taste.",
@@ -4519,7 +4519,7 @@
     "category": "MTH",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "123.jpg",
     "definition": "A hybrid brewer that combines immersion steeping with manual pressure filtration through a paper or metal cap.",
     "why": "Its flexibility lets a single device produce wildly different results depending on grind, ratio and press technique.",
     "tip": "Change one variable at a time — grind, steep time, or press pressure — to understand what each one does.",
@@ -4556,7 +4556,7 @@
     "category": "MTH",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "124.jpg",
     "definition": "A full-immersion brewer using a mesh metal filter to separate grounds from brewed coffee.",
     "why": "Because oils and fine particles pass through the metal mesh, French press produces a heavier body than paper-filtered coffee.",
     "tip": "Break the crust and skim floating grounds before pressing for a cleaner cup.",
@@ -4593,7 +4593,7 @@
     "category": "MTH",
     "difficulty": 2,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "125.jpg",
     "definition": "A brewer that uses vapor pressure and vacuum to move water between two chambers through a coffee bed.",
     "why": "It's one of the only brew methods where the entire extraction happens visibly, making it a genuinely theatrical way to brew.",
     "tip": "Keep agitation gentle and consistent through the steep phase for even extraction.",
@@ -4630,7 +4630,7 @@
     "category": "MTH",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "126.jpg",
     "definition": "Coffee steeped in room-temperature or cold water for an extended period, typically 12 to 24 hours.",
     "why": "Cold water extracts more slowly and selectively than hot water, producing a naturally low-acid, smoother concentrate.",
     "tip": "Start with a coarse grind — fine grounds over-extract badly across such a long steep.",
@@ -4667,7 +4667,7 @@
     "category": "MTH",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "127.jpg",
     "definition": "A stovetop brewer that pushes hot water up through coffee using steam pressure, producing a strong, concentrated cup.",
     "why": "It's the everyday coffee format across much of Italy and a genuinely distinct brewing category from espresso.",
     "tip": "Use water that's already hot to fill the base — it reduces the time metal spends over direct heat.",
@@ -4771,5 +4771,1629 @@
       }
     },
     "id": 129
+  },
+  {
+    "number": "130",
+    "title": "Ethiopia: Yirgacheffe",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A washed-coffee region in southern Ethiopia known for intensely floral, citrus-driven cups often described as tea-like.",
+    "why": "It's widely considered the archetype for what washed Ethiopian coffee can taste like, and a benchmark many other origins get compared against.",
+    "tip": "Brew it lighter and let the aromatics lead — over-extraction buries the delicacy that makes Yirgacheffe distinctive.",
+    "mistake": "Assuming all Ethiopian coffee tastes like Yirgacheffe — the country's regions vary enormously.",
+    "challenge": "What processing method is Yirgacheffe most associated with, and how does that shape its flavor?",
+    "related": [
+      "092",
+      "077",
+      "088"
+    ],
+    "translations": {
+      "es": {
+        "title": "Etiopía: Yirgacheffe",
+        "definition": "Una región de café lavado en el sur de Etiopía, conocida por tazas intensamente florales y cítricas, a menudo descritas como parecidas al té.",
+        "why": "Es ampliamente considerada el arquetipo de lo que puede saber el café lavado etíope, y un punto de referencia con el que se compara a otros orígenes.",
+        "tip": "Prepáralo más suave y deja que los aromáticos guíen la experiencia; la sobreextracción entierra la delicadeza que hace distintivo a Yirgacheffe.",
+        "mistake": "Suponer que todo el café etíope sabe como Yirgacheffe; las regiones del país varían enormemente.",
+        "challenge": "¿Con qué método de procesamiento se asocia más Yirgacheffe, y cómo moldea eso su sabor?"
+      },
+      "pt": {
+        "title": "Etiópia: Yirgacheffe",
+        "definition": "Uma região de café lavado no sul da Etiópia, conhecida por xícaras intensamente florais e cítricas, muitas vezes descritas como parecidas com chá.",
+        "why": "É amplamente considerada o arquétipo do que pode ser o sabor do café lavado etíope, e um ponto de referência com o qual outras origens são comparadas.",
+        "tip": "Prepare-o mais leve e deixe os aromáticos liderarem; a superextração enterra a delicadeza que torna Yirgacheffe distinto.",
+        "mistake": "Supor que todo café etíope tem o sabor de Yirgacheffe; as regiões do país variam enormemente.",
+        "challenge": "A qual método de processamento Yirgacheffe está mais associado, e como isso molda seu sabor?"
+      }
+    },
+    "id": 130
+  },
+  {
+    "number": "131",
+    "title": "Ethiopia: Guji",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A southern Ethiopian region that rose to prominence largely through natural-processed lots with intense blueberry and strawberry character.",
+    "why": "Guji naturals are a big part of why natural process gained serious credibility in specialty coffee over the last decade.",
+    "tip": "Cup Guji naturals side by side with a Yirgacheffe washed lot to hear exactly what processing changes.",
+    "mistake": "Treating 'fruity' as automatically meaning 'fermented' or 'defective' — that intensity is often intentional and controlled.",
+    "challenge": "Why might a buyer specifically seek out Guji for a natural-process offering rather than Yirgacheffe?",
+    "related": [
+      "078",
+      "092",
+      "081"
+    ],
+    "translations": {
+      "es": {
+        "title": "Etiopía: Guji",
+        "definition": "Una región del sur de Etiopía que ganó reconocimiento principalmente por sus lotes de proceso natural con intenso carácter a arándano y fresa.",
+        "why": "Los naturales de Guji son gran parte de la razón por la que el proceso natural ganó credibilidad seria en el café de especialidad en la última década.",
+        "tip": "Cata los naturales de Guji junto a un lavado de Yirgacheffe para escuchar exactamente qué cambia el procesamiento.",
+        "mistake": "Tratar 'afrutado' como sinónimo automático de 'fermentado' o 'defectuoso'; esa intensidad suele ser intencional y controlada.",
+        "challenge": "¿Por qué un comprador buscaría específicamente Guji para una oferta de proceso natural en lugar de Yirgacheffe?"
+      },
+      "pt": {
+        "title": "Etiópia: Guji",
+        "definition": "Uma região do sul da Etiópia que ganhou destaque principalmente por seus lotes de processo natural com intenso caráter de mirtilo e morango.",
+        "why": "Os naturais de Guji são grande parte da razão pela qual o processo natural ganhou credibilidade séria no café especial na última década.",
+        "tip": "Prove os naturais de Guji lado a lado com um lavado de Yirgacheffe para perceber exatamente o que o processamento muda.",
+        "mistake": "Tratar 'frutado' como sinônimo automático de 'fermentado' ou 'defeituoso'; essa intensidade costuma ser intencional e controlada.",
+        "challenge": "Por que um comprador buscaria especificamente Guji para uma oferta de processo natural em vez de Yirgacheffe?"
+      }
+    },
+    "id": 131
+  },
+  {
+    "number": "132",
+    "title": "Colombia: Huila",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Colombia's most productive coffee-growing department, known for balanced sweetness and reliable quality across a huge number of small farms.",
+    "why": "Huila alone supplies a large share of Colombia's specialty exports, making it the backbone of much of the country's reputation.",
+    "tip": "Use Huila as your baseline for what 'classic Colombian' tastes like before exploring more extreme regional profiles.",
+    "mistake": "Assuming a huge growing region can only produce generic, unremarkable coffee.",
+    "challenge": "Why does Colombia's huge number of small farms (rather than few large estates) shape how its coffee is bought and sold?",
+    "related": [
+      "093",
+      "089"
+    ],
+    "translations": {
+      "es": {
+        "title": "Colombia: Huila",
+        "definition": "El departamento cafetero más productivo de Colombia, conocido por su dulzura equilibrada y calidad confiable en una enorme cantidad de pequeñas fincas.",
+        "why": "Huila por sí sola suministra gran parte de las exportaciones de especialidad de Colombia, siendo la columna vertebral de la reputación del país.",
+        "tip": "Usa Huila como tu punto de referencia para lo que sabe el 'colombiano clásico' antes de explorar perfiles regionales más extremos.",
+        "mistake": "Suponer que una región de cultivo tan grande solo puede producir café genérico y poco destacable.",
+        "challenge": "¿Por qué el enorme número de pequeñas fincas de Colombia (en lugar de pocas grandes haciendas) moldea la forma en que se compra y vende su café?"
+      },
+      "pt": {
+        "title": "Colômbia: Huila",
+        "definition": "O departamento cafeeiro mais produtivo da Colômbia, conhecido por sua doçura equilibrada e qualidade confiável em um enorme número de pequenas fazendas.",
+        "why": "Huila sozinha fornece grande parte das exportações especiais da Colômbia, sendo a espinha dorsal da reputação do país.",
+        "tip": "Use Huila como sua referência para o que é o 'colombiano clássico' antes de explorar perfis regionais mais extremos.",
+        "mistake": "Supor que uma região de cultivo tão grande só pode produzir café genérico e sem destaque.",
+        "challenge": "Por que o enorme número de pequenas fazendas da Colômbia (em vez de poucas grandes propriedades) molda a forma como seu café é comprado e vendido?"
+      }
+    },
+    "id": 132
+  },
+  {
+    "number": "133",
+    "title": "Colombia: Nariño",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A high-altitude region near the Ecuadorian border, some of the highest coffee-growing land in Colombia, producing bright, structured acidity.",
+    "why": "Its extreme altitude and near-equator latitude combine to slow cherry maturation, concentrating sugars and acids.",
+    "tip": "Expect more pronounced acidity here than in most other Colombian regions — it's part of the signature, not a flaw.",
+    "mistake": "Judging Nariño by the same flavor expectations as lower-altitude Huila.",
+    "challenge": "Why does growing near the equator, rather than latitude alone, allow such high-altitude cultivation here?",
+    "related": [
+      "087",
+      "093"
+    ],
+    "translations": {
+      "es": {
+        "title": "Colombia: Nariño",
+        "definition": "Una región de gran altitud cerca de la frontera con Ecuador, entre las tierras cafeteras más altas de Colombia, que produce una acidez brillante y estructurada.",
+        "why": "Su altitud extrema y su latitud cercana al ecuador se combinan para ralentizar la maduración de la cereza, concentrando azúcares y ácidos.",
+        "tip": "Espera una acidez más pronunciada aquí que en la mayoría de las demás regiones colombianas; es parte de su firma, no un defecto.",
+        "mistake": "Juzgar Nariño con las mismas expectativas de sabor que Huila, de menor altitud.",
+        "challenge": "¿Por qué cultivar cerca del ecuador, más que la latitud por sí sola, permite un cultivo a tanta altitud aquí?"
+      },
+      "pt": {
+        "title": "Colômbia: Nariño",
+        "definition": "Uma região de grande altitude perto da fronteira com o Equador, entre as terras cafeeiras mais altas da Colômbia, produzindo uma acidez brilhante e estruturada.",
+        "why": "Sua altitude extrema e sua latitude próxima ao equador se combinam para desacelerar a maturação da cereja, concentrando açúcares e ácidos.",
+        "tip": "Espere uma acidez mais pronunciada aqui do que na maioria das outras regiões colombianas; é parte de sua assinatura, não um defeito.",
+        "mistake": "Julgar Nariño com as mesmas expectativas de sabor de Huila, de menor altitude.",
+        "challenge": "Por que cultivar perto do equador, mais do que a latitude sozinha, permite um cultivo em altitude tão elevada aqui?"
+      }
+    },
+    "id": 133
+  },
+  {
+    "number": "134",
+    "title": "Kenya: AA/AB Grading",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Kenya's screen-size-based grading system, where AA refers to the largest bean size, followed by AB and smaller grades.",
+    "why": "It's one of the most misunderstood grading systems in coffee — size-based, not quality-based.",
+    "tip": "Always cup Kenyan lots regardless of grade — some of the best cups on record have been AB, not AA.",
+    "mistake": "Assuming AA is automatically the best-tasting grade because it sounds premium.",
+    "challenge": "If AA doesn't guarantee quality, why does it still command higher prices?",
+    "related": [
+      "069",
+      "092"
+    ],
+    "translations": {
+      "es": {
+        "title": "Kenia: Clasificación AA/AB",
+        "definition": "El sistema de clasificación de Kenia basado en el tamaño de malla, donde AA se refiere al tamaño de grano más grande, seguido de AB y grados menores.",
+        "why": "Es uno de los sistemas de clasificación más incomprendidos del café: se basa en el tamaño, no en la calidad.",
+        "tip": "Cata siempre los lotes kenianos sin importar el grado; algunas de las mejores tazas registradas han sido AB, no AA.",
+        "mistake": "Suponer que AA es automáticamente el grado de mejor sabor solo porque suena premium.",
+        "challenge": "Si AA no garantiza calidad, ¿por qué sigue teniendo precios más altos?"
+      },
+      "pt": {
+        "title": "Quênia: Classificação AA/AB",
+        "definition": "O sistema de classificação do Quênia baseado no tamanho da peneira, em que AA se refere ao maior tamanho de grão, seguido por AB e graus menores.",
+        "why": "É um dos sistemas de classificação mais mal compreendidos no café: baseado em tamanho, não em qualidade.",
+        "tip": "Sempre prove os lotes quenianos independentemente do grau; algumas das melhores xícaras já registradas foram AB, não AA.",
+        "mistake": "Supor que AA é automaticamente o grau de melhor sabor só porque soa premium.",
+        "challenge": "Se AA não garante qualidade, por que ainda tem preços mais altos?"
+      }
+    },
+    "id": 134
+  },
+  {
+    "number": "135",
+    "title": "Guatemala: Antigua",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A historic growing valley surrounded by three volcanoes, producing coffee with distinctive smoky, spicy complexity from its rich volcanic soil.",
+    "why": "It's one of the oldest protected coffee designations in the world and a reference point for volcanic-soil character.",
+    "tip": "Look for a soft smokiness alongside chocolate and spice notes — that's the Antigua signature.",
+    "mistake": "Confusing Antigua the coffee region with Antigua the colonial city it surrounds — the growing area extends well beyond it.",
+    "challenge": "How might volcanic soil composition influence coffee flavor differently than typical tropical soil?",
+    "related": [
+      "091",
+      "088"
+    ],
+    "translations": {
+      "es": {
+        "title": "Guatemala: Antigua",
+        "definition": "Un histórico valle cafetero rodeado por tres volcanes, que produce café con una complejidad distintiva ahumada y especiada gracias a su rico suelo volcánico.",
+        "why": "Es una de las denominaciones de café protegidas más antiguas del mundo y un punto de referencia para el carácter del suelo volcánico.",
+        "tip": "Busca un ahumado suave junto con notas de chocolate y especias; esa es la firma de Antigua.",
+        "mistake": "Confundir Antigua la región cafetera con Antigua la ciudad colonial que rodea; el área de cultivo se extiende mucho más allá.",
+        "challenge": "¿Cómo podría la composición del suelo volcánico influir en el sabor del café de manera diferente al suelo tropical típico?"
+      },
+      "pt": {
+        "title": "Guatemala: Antigua",
+        "definition": "Um histórico vale cafeeiro cercado por três vulcões, produzindo café com uma complexidade distinta, defumada e especiada, graças ao seu rico solo vulcânico.",
+        "why": "É uma das denominações de café protegidas mais antigas do mundo e uma referência para o caráter do solo vulcânico.",
+        "tip": "Procure um leve toque defumado junto com notas de chocolate e especiarias; essa é a assinatura de Antigua.",
+        "mistake": "Confundir Antigua a região cafeeira com Antigua a cidade colonial que ela cerca; a área de cultivo se estende bem além dela.",
+        "challenge": "Como a composição do solo vulcânico poderia influenciar o sabor do café de forma diferente do solo tropical típico?"
+      }
+    },
+    "id": 135
+  },
+  {
+    "number": "136",
+    "title": "Panama: Boquete and the Geisha Boom",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A high-altitude Panamanian region that became world-famous after Hacienda La Esmeralda's Geisha variety won Best of Panama in 2004, redefining what buyers would pay for exceptional coffee.",
+    "why": "It single-handedly changed the ceiling on coffee auction prices and put an entire variety on the map worldwide.",
+    "tip": "Geisha from Boquete tends toward intense jasmine, bergamot and tropical fruit — taste it once to understand the hype.",
+    "mistake": "Assuming every Geisha-labeled coffee will deliver Esmeralda-level quality just because of the variety name.",
+    "challenge": "What does the Boquete story reveal about how much variety and terroir can outweigh processing alone?",
+    "related": [
+      "089",
+      "091"
+    ],
+    "translations": {
+      "es": {
+        "title": "Panamá: Boquete y el Boom de Geisha",
+        "definition": "Una región panameña de gran altitud que se hizo mundialmente famosa después de que la variedad Geisha de Hacienda La Esmeralda ganara el Best of Panama en 2004, redefiniendo lo que los compradores pagarían por un café excepcional.",
+        "why": "Cambió por sí sola el techo de los precios en subastas de café y puso a toda una variedad en el mapa mundial.",
+        "tip": "El Geisha de Boquete tiende hacia intenso jazmín, bergamota y fruta tropical; pruébalo una vez para entender el fenómeno.",
+        "mistake": "Suponer que todo café etiquetado como Geisha ofrecerá una calidad al nivel de Esmeralda solo por el nombre de la variedad.",
+        "challenge": "¿Qué revela la historia de Boquete sobre cuánto pueden pesar la variedad y el terruño por encima del procesamiento por sí solo?"
+      },
+      "pt": {
+        "title": "Panamá: Boquete e o Boom do Geisha",
+        "definition": "Uma região panamenha de grande altitude que se tornou mundialmente famosa depois que a variedade Geisha da Hacienda La Esmeralda venceu o Best of Panama em 2004, redefinindo o quanto os compradores pagariam por um café excepcional.",
+        "why": "Isso mudou sozinho o teto dos preços em leilões de café e colocou uma variedade inteira no mapa mundial.",
+        "tip": "O Geisha de Boquete tende a jasmim intenso, bergamota e fruta tropical; prove uma vez para entender o fenômeno.",
+        "mistake": "Supor que todo café rotulado como Geisha entregará qualidade no nível da Esmeralda só pelo nome da variedade.",
+        "challenge": "O que a história de Boquete revela sobre o quanto a variedade e o terroir podem superar o processamento sozinho?"
+      }
+    },
+    "id": 136
+  },
+  {
+    "number": "137",
+    "title": "Brazil: Cerrado",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A relatively flat, high-altitude plateau region that enabled Brazil to mechanize harvesting at massive scale, producing nutty, chocolatey, low-acid coffee.",
+    "why": "Its flat terrain (unlike most steep coffee-growing land) is exactly why Brazil became the world's largest coffee producer.",
+    "tip": "Use Cerrado as a reference point for what mechanically-harvested coffee can still taste like when done well.",
+    "mistake": "Assuming mechanized harvesting always means lower quality — Cerrado consistently disproves that.",
+    "challenge": "Why does flat terrain matter so much for harvest method and cost?",
+    "related": [
+      "093",
+      "095"
+    ],
+    "translations": {
+      "es": {
+        "title": "Brasil: Cerrado",
+        "definition": "Una meseta relativamente plana y de gran altitud que permitió a Brasil mecanizar la cosecha a escala masiva, produciendo café con notas a nuez y chocolate, y baja acidez.",
+        "why": "Su terreno plano (a diferencia de la mayoría de las tierras cafeteras empinadas) es precisamente por lo que Brasil se convirtió en el mayor productor de café del mundo.",
+        "tip": "Usa Cerrado como referencia de lo que puede seguir sabiendo el café cosechado mecánicamente cuando se hace bien.",
+        "mistake": "Suponer que la cosecha mecanizada siempre significa menor calidad; Cerrado lo desmiente constantemente.",
+        "challenge": "¿Por qué importa tanto el terreno plano para el método de cosecha y el costo?"
+      },
+      "pt": {
+        "title": "Brasil: Cerrado",
+        "definition": "Um planalto relativamente plano e de grande altitude que permitiu ao Brasil mecanizar a colheita em escala massiva, produzindo café com notas de castanha e chocolate, e baixa acidez.",
+        "why": "Seu terreno plano (diferente da maioria das terras cafeeiras íngremes) é exatamente o motivo pelo qual o Brasil se tornou o maior produtor de café do mundo.",
+        "tip": "Use o Cerrado como referência do que o café colhido mecanicamente ainda pode ter de sabor quando bem feito.",
+        "mistake": "Supor que a colheita mecanizada sempre significa menor qualidade; o Cerrado desmente isso constantemente.",
+        "challenge": "Por que o terreno plano importa tanto para o método de colheita e o custo?"
+      }
+    },
+    "id": 137
+  },
+  {
+    "number": "138",
+    "title": "Costa Rica: Tarrazú",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A mountainous region south of San José known for pioneering the honey-process micro-mill movement that reshaped how small Costa Rican farms compete.",
+    "why": "Tarrazú's micro-mills let individual farms process and market their own coffee instead of selling cherry to large mills, changing who captures value in the supply chain.",
+    "tip": "Look for clean, bright, citrusy cups with a distinct sweetness typical of honey-processed Tarrazú lots.",
+    "mistake": "Assuming 'micro-mill' automatically means small-scale or hobbyist — many produce serious commercial volume.",
+    "challenge": "How did the rise of micro-mills change who profits from a bag of Costa Rican coffee?",
+    "related": [
+      "079",
+      "091"
+    ],
+    "translations": {
+      "es": {
+        "title": "Costa Rica: Tarrazú",
+        "definition": "Una región montañosa al sur de San José, conocida por ser pionera del movimiento de micro-beneficios con proceso honey que transformó la forma en que compiten las pequeñas fincas costarricenses.",
+        "why": "Los micro-beneficios de Tarrazú permiten que fincas individuales procesen y comercialicen su propio café en lugar de vender cereza a grandes beneficios, cambiando quién capta el valor en la cadena de suministro.",
+        "tip": "Busca tazas limpias, brillantes y cítricas con una dulzura distintiva, típica de los lotes honey de Tarrazú.",
+        "mistake": "Suponer que 'micro-beneficio' significa automáticamente pequeña escala o afición; muchos producen un volumen comercial serio.",
+        "challenge": "¿Cómo cambió el auge de los micro-beneficios quién se beneficia de una bolsa de café costarricense?"
+      },
+      "pt": {
+        "title": "Costa Rica: Tarrazú",
+        "definition": "Uma região montanhosa ao sul de San José, conhecida por ser pioneira no movimento de micro-beneficiamentos com processo honey que transformou a forma como as pequenas fazendas costarriquenhas competem.",
+        "why": "Os micro-beneficiamentos de Tarrazú permitem que fazendas individuais processem e comercializem seu próprio café em vez de vender cereja a grandes beneficiamentos, mudando quem capta valor na cadeia de suprimentos.",
+        "tip": "Procure xícaras limpas, brilhantes e cítricas com uma doçura distinta, típica dos lotes honey de Tarrazú.",
+        "mistake": "Supor que 'micro-beneficiamento' significa automaticamente pequena escala ou hobby; muitos produzem volume comercial sério.",
+        "challenge": "Como a ascensão dos micro-beneficiamentos mudou quem lucra com um saco de café costarriquenho?"
+      }
+    },
+    "id": 138
+  },
+  {
+    "number": "139",
+    "title": "Typica",
+    "category": "CUL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "139.jpg",
+    "definition": "One of the two foundational coffee varieties, believed to be the original strain carried out of Ethiopia and Yemen into cultivation worldwide.",
+    "why": "Nearly every arabica variety grown today traces back to Typica or Bourbon, making it a genetic starting point for the whole industry.",
+    "tip": "Expect a tall, low-yielding plant — Typica trades productivity for reliably clean, sweet cup quality.",
+    "mistake": "Assuming an 'original' variety must taste more authentic or superior to modern ones.",
+    "challenge": "Why would farmers keep growing a low-yield variety like Typica instead of switching entirely to higher-producing hybrids?",
+    "related": [
+      "089",
+      "140"
+    ],
+    "translations": {
+      "es": {
+        "title": "Typica",
+        "definition": "Una de las dos variedades fundacionales del café, considerada la cepa original llevada desde Etiopía y Yemen hacia el cultivo mundial.",
+        "why": "Casi toda variedad arábica cultivada hoy se remonta a Typica o Bourbon, convirtiéndola en el punto de partida genético de toda la industria.",
+        "tip": "Espera una planta alta y de bajo rendimiento; Typica sacrifica productividad a cambio de una calidad de taza limpia y dulce y confiable.",
+        "mistake": "Suponer que una variedad 'original' debe saber más auténtica o superior a las modernas.",
+        "challenge": "¿Por qué los caficultores seguirían cultivando una variedad de bajo rendimiento como Typica en lugar de cambiar por completo a híbridos más productivos?"
+      },
+      "pt": {
+        "title": "Typica",
+        "definition": "Uma das duas variedades fundamentais do café, considerada a cepa original levada da Etiópia e do Iêmen para o cultivo mundial.",
+        "why": "Quase toda variedade arábica cultivada hoje remonta à Typica ou à Bourbon, tornando-a o ponto de partida genético de toda a indústria.",
+        "tip": "Espere uma planta alta e de baixo rendimento; a Typica troca produtividade por uma qualidade de xícara limpa, doce e confiável.",
+        "mistake": "Supor que uma variedade 'original' deve ter sabor mais autêntico ou superior às modernas.",
+        "challenge": "Por que os produtores continuariam cultivando uma variedade de baixo rendimento como a Typica em vez de mudar totalmente para híbridos mais produtivos?"
+      }
+    },
+    "id": 139
+  },
+  {
+    "number": "140",
+    "title": "Bourbon",
+    "category": "CUL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "140.jpg",
+    "definition": "A natural mutation of Typica discovered on Bourbon Island (now Réunion), known for rounder cherries and often a sweeter, more complex cup.",
+    "why": "Bourbon and Typica between them form the genetic root of most specialty coffee grown today.",
+    "tip": "Look for red and yellow Bourbon sub-variants — the color refers to ripe cherry color, not bean color.",
+    "mistake": "Treating 'Bourbon' as a single uniform variety rather than a family with several natural sub-mutations.",
+    "challenge": "How did a natural mutation on one island end up shaping coffee varieties on almost every continent?",
+    "related": [
+      "139",
+      "141"
+    ],
+    "translations": {
+      "es": {
+        "title": "Bourbon",
+        "definition": "Una mutación natural de Typica descubierta en la Isla Bourbon (hoy Reunión), conocida por cerezas más redondeadas y a menudo una taza más dulce y compleja.",
+        "why": "Bourbon y Typica forman juntas la raíz genética de la mayoría del café de especialidad cultivado hoy.",
+        "tip": "Busca las subvariantes Bourbon rojo y amarillo; el color se refiere al color de la cereza madura, no al del grano.",
+        "mistake": "Tratar 'Bourbon' como una única variedad uniforme en lugar de una familia con varias mutaciones naturales.",
+        "challenge": "¿Cómo terminó una mutación natural en una sola isla moldeando variedades de café en casi todos los continentes?"
+      },
+      "pt": {
+        "title": "Bourbon",
+        "definition": "Uma mutação natural da Typica descoberta na Ilha Bourbon (hoje Reunião), conhecida por cerejas mais arredondadas e frequentemente uma xícara mais doce e complexa.",
+        "why": "Bourbon e Typica formam juntas a raiz genética da maior parte do café especial cultivado hoje.",
+        "tip": "Procure as subvariedades Bourbon vermelho e amarelo; a cor se refere à cor da cereja madura, não à do grão.",
+        "mistake": "Tratar 'Bourbon' como uma única variedade uniforme em vez de uma família com várias mutações naturais.",
+        "challenge": "Como uma mutação natural em uma única ilha acabou moldando variedades de café em quase todos os continentes?"
+      }
+    },
+    "id": 140
+  },
+  {
+    "number": "141",
+    "title": "Caturra",
+    "category": "CUL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "141.jpg",
+    "definition": "A natural dwarf mutation of Bourbon discovered in Brazil, with a compact plant that allows much denser planting and higher yields.",
+    "why": "Its short stature made modern high-density coffee farming economically viable in a way tall Bourbon and Typica couldn't support.",
+    "tip": "Expect a brighter, more acidic cup than Bourbon, generally with less body.",
+    "mistake": "Assuming a compact plant automatically means lower quality — Caturra can cup exceptionally well when well cared for.",
+    "challenge": "Why does plant height matter so much for how many trees can be planted per hectare?",
+    "related": [
+      "140",
+      "142"
+    ],
+    "translations": {
+      "es": {
+        "title": "Caturra",
+        "definition": "Una mutación natural enana de Bourbon descubierta en Brasil, con una planta compacta que permite una siembra mucho más densa y mayores rendimientos.",
+        "why": "Su baja estatura hizo económicamente viable el cultivo moderno de alta densidad de una forma que Bourbon y Typica, más altas, no podían sostener.",
+        "tip": "Espera una taza más brillante y ácida que Bourbon, generalmente con menos cuerpo.",
+        "mistake": "Suponer que una planta compacta significa automáticamente menor calidad; Caturra puede dar tazas excepcionales con buen cuidado.",
+        "challenge": "¿Por qué importa tanto la altura de la planta para cuántos árboles se pueden sembrar por hectárea?"
+      },
+      "pt": {
+        "title": "Caturra",
+        "definition": "Uma mutação natural anã da Bourbon descoberta no Brasil, com uma planta compacta que permite um plantio muito mais denso e maiores rendimentos.",
+        "why": "Sua baixa estatura tornou economicamente viável o cultivo moderno de alta densidade de uma forma que a Bourbon e a Typica, mais altas, não conseguiam sustentar.",
+        "tip": "Espere uma xícara mais brilhante e ácida do que a Bourbon, geralmente com menos corpo.",
+        "mistake": "Supor que uma planta compacta significa automaticamente menor qualidade; a Caturra pode render xícaras excepcionais com bons cuidados.",
+        "challenge": "Por que a altura da planta importa tanto para quantas árvores podem ser plantadas por hectare?"
+      }
+    },
+    "id": 141
+  },
+  {
+    "number": "142",
+    "title": "Catuai",
+    "category": "CUL",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "142.jpg",
+    "definition": "A deliberate hybrid of Caturra and Mundo Novo, bred in Brazil for a sturdy plant that holds up well to wind and rain.",
+    "why": "It combines Caturra's compact yield advantage with a hardier structure suited to harsher growing conditions.",
+    "tip": "Catuai is often chosen specifically for its resilience, not primarily for a distinctive flavor signature.",
+    "mistake": "Expecting every hybrid variety to have been bred purely for cup quality — many are bred first for farming practicality.",
+    "challenge": "What tradeoffs might a farmer accept in exchange for a hardier, more wind-resistant plant?",
+    "related": [
+      "141",
+      "146"
+    ],
+    "translations": {
+      "es": {
+        "title": "Catuaí",
+        "definition": "Un híbrido deliberado de Caturra y Mundo Novo, desarrollado en Brasil para lograr una planta resistente que soporte bien el viento y la lluvia.",
+        "why": "Combina la ventaja de rendimiento compacto de Caturra con una estructura más resistente, adecuada para condiciones de cultivo más duras.",
+        "tip": "Catuaí suele elegirse específicamente por su resistencia, no principalmente por una firma de sabor distintiva.",
+        "mistake": "Esperar que toda variedad híbrida haya sido criada puramente por calidad de taza; muchas se crían primero por practicidad agrícola.",
+        "challenge": "¿Qué concesiones podría aceptar un caficultor a cambio de una planta más resistente al viento?"
+      },
+      "pt": {
+        "title": "Catuaí",
+        "definition": "Um híbrido deliberado de Caturra e Mundo Novo, desenvolvido no Brasil para obter uma planta resistente que suporte bem vento e chuva.",
+        "why": "Combina a vantagem de rendimento compacto da Caturra com uma estrutura mais resistente, adequada a condições de cultivo mais difíceis.",
+        "tip": "A Catuaí costuma ser escolhida especificamente por sua resistência, não principalmente por uma assinatura de sabor distinta.",
+        "mistake": "Esperar que toda variedade híbrida tenha sido criada puramente pela qualidade da xícara; muitas são criadas primeiro pela praticidade agrícola.",
+        "challenge": "Que concessões um produtor poderia aceitar em troca de uma planta mais resistente ao vento?"
+      }
+    },
+    "id": 142
+  },
+  {
+    "number": "143",
+    "title": "SL28 and SL34",
+    "category": "CUL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "143.jpg",
+    "definition": "Two varieties selected in Kenya during the 1930s-40s by Scott Agricultural Laboratories for drought tolerance and disease resistance, now famous for intense blackcurrant-like acidity.",
+    "why": "They're a huge part of why Kenyan coffee has such a distinctive, instantly recognizable flavor signature.",
+    "tip": "SL28 tends toward deeper, winey acidity; SL34 often performs better at higher altitudes with heavier rainfall.",
+    "mistake": "Assuming SL28 and SL34 are interchangeable just because they share Kenyan origins and a naming convention.",
+    "challenge": "Why would deliberately selecting for drought tolerance also end up shaping a variety's flavor profile?",
+    "related": [
+      "092",
+      "134"
+    ],
+    "translations": {
+      "es": {
+        "title": "SL28 y SL34",
+        "definition": "Dos variedades seleccionadas en Kenia durante los años 1930-40 por los Scott Agricultural Laboratories por su tolerancia a la sequía y resistencia a enfermedades, hoy famosas por su intensa acidez a grosella negra.",
+        "why": "Son gran parte de la razón por la que el café keniano tiene una firma de sabor tan distintiva e inmediatamente reconocible.",
+        "tip": "SL28 tiende a una acidez más profunda y vinosa; SL34 suele rendir mejor a mayor altitud con lluvias más intensas.",
+        "mistake": "Suponer que SL28 y SL34 son intercambiables solo porque comparten origen keniano y una convención de nombres.",
+        "challenge": "¿Por qué seleccionar deliberadamente por tolerancia a la sequía terminaría también moldeando el perfil de sabor de una variedad?"
+      },
+      "pt": {
+        "title": "SL28 e SL34",
+        "definition": "Duas variedades selecionadas no Quênia durante os anos 1930-40 pelos Scott Agricultural Laboratories por sua tolerância à seca e resistência a doenças, hoje famosas por sua intensa acidez de groselha preta.",
+        "why": "São grande parte da razão pela qual o café queniano tem uma assinatura de sabor tão distinta e imediatamente reconhecível.",
+        "tip": "A SL28 tende a uma acidez mais profunda e vinosa; a SL34 costuma render melhor em altitudes maiores com chuvas mais intensas.",
+        "mistake": "Supor que SL28 e SL34 são intercambiáveis só por compartilharem origem queniana e uma convenção de nomes.",
+        "challenge": "Por que selecionar deliberadamente pela tolerância à seca acabaria também moldando o perfil de sabor de uma variedade?"
+      }
+    },
+    "id": 143
+  },
+  {
+    "number": "144",
+    "title": "Gesha (Geisha)",
+    "category": "CUL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "144.jpg",
+    "definition": "A variety originally from Ethiopia that became world-famous after a Panamanian lot won Best of Panama in 2004, prized for intense jasmine, bergamot and tropical fruit character.",
+    "why": "It redefined how much buyers would pay for exceptional coffee and put a single variety name on menus worldwide.",
+    "tip": "Yields are typically low and the plant is delicate — part of why Gesha commands such high prices.",
+    "mistake": "Assuming every coffee labeled Gesha will deliver the same intensity — growing conditions matter enormously for this variety.",
+    "challenge": "Why might the same variety produce a legendary cup in Panama but a merely average one elsewhere?",
+    "related": [
+      "136",
+      "089"
+    ],
+    "translations": {
+      "es": {
+        "title": "Gesha (Geisha)",
+        "definition": "Una variedad originaria de Etiopía que se hizo mundialmente famosa después de que un lote panameño ganara el Best of Panama en 2004, apreciada por su intenso carácter a jazmín, bergamota y fruta tropical.",
+        "why": "Redefinió cuánto pagarían los compradores por un café excepcional y puso el nombre de una sola variedad en menús de todo el mundo.",
+        "tip": "Los rendimientos suelen ser bajos y la planta es delicada; en parte por eso Gesha alcanza precios tan altos.",
+        "mistake": "Suponer que todo café etiquetado como Gesha ofrecerá la misma intensidad; las condiciones de cultivo importan enormemente para esta variedad.",
+        "challenge": "¿Por qué la misma variedad podría producir una taza legendaria en Panamá pero apenas una promedio en otro lugar?"
+      },
+      "pt": {
+        "title": "Gesha (Geisha)",
+        "definition": "Uma variedade originária da Etiópia que se tornou mundialmente famosa depois que um lote panamenho venceu o Best of Panama em 2004, apreciada por seu intenso caráter de jasmim, bergamota e fruta tropical.",
+        "why": "Redefiniu quanto os compradores pagariam por um café excepcional e colocou o nome de uma única variedade em cardápios do mundo todo.",
+        "tip": "Os rendimentos costumam ser baixos e a planta é delicada; parte do motivo pelo qual a Gesha alcança preços tão altos.",
+        "mistake": "Supor que todo café rotulado como Gesha entregará a mesma intensidade; as condições de cultivo importam enormemente para essa variedade.",
+        "challenge": "Por que a mesma variedade poderia produzir uma xícara lendária no Panamá, mas apenas mediana em outro lugar?"
+      }
+    },
+    "id": 144
+  },
+  {
+    "number": "145",
+    "title": "Pacamara",
+    "category": "CUL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "145.jpg",
+    "definition": "A deliberate hybrid of Pacas and Maragogype, bred in El Salvador for unusually large bean size alongside strong cup quality.",
+    "why": "It's a good example of breeding aimed specifically at bean size and cup quality together, not just yield or hardiness.",
+    "tip": "Its large bean size affects roasting — dial in roast profiles separately rather than assuming standard timing applies.",
+    "mistake": "Assuming bigger beans automatically mean better flavor — size and cup quality are bred for separately.",
+    "challenge": "What roasting adjustments might an unusually large bean size require?",
+    "related": [
+      "142",
+      "146"
+    ],
+    "translations": {
+      "es": {
+        "title": "Pacamara",
+        "definition": "Un híbrido deliberado de Pacas y Maragogype, desarrollado en El Salvador para lograr un tamaño de grano inusualmente grande junto con una fuerte calidad de taza.",
+        "why": "Es un buen ejemplo de mejoramiento dirigido específicamente al tamaño del grano y a la calidad de taza juntos, no solo al rendimiento o la resistencia.",
+        "tip": "Su gran tamaño de grano afecta el tostado; calibra los perfiles de tueste por separado en lugar de suponer que aplican los tiempos estándar.",
+        "mistake": "Suponer que granos más grandes significan automáticamente mejor sabor; el tamaño y la calidad de taza se seleccionan por separado.",
+        "challenge": "¿Qué ajustes de tueste podría requerir un tamaño de grano inusualmente grande?"
+      },
+      "pt": {
+        "title": "Pacamara",
+        "definition": "Um híbrido deliberado de Pacas e Maragogype, desenvolvido em El Salvador para obter um tamanho de grão incomumente grande junto com forte qualidade de xícara.",
+        "why": "É um bom exemplo de melhoramento voltado especificamente para tamanho do grão e qualidade de xícara juntos, não apenas rendimento ou resistência.",
+        "tip": "Seu grande tamanho de grão afeta a torra; calibre os perfis de torra separadamente em vez de supor que os tempos padrão se aplicam.",
+        "mistake": "Supor que grãos maiores significam automaticamente melhor sabor; tamanho e qualidade de xícara são selecionados separadamente.",
+        "challenge": "Que ajustes de torra um tamanho de grão incomumente grande poderia exigir?"
+      }
+    },
+    "id": 145
+  },
+  {
+    "number": "146",
+    "title": "Castillo",
+    "category": "CUL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "146.jpg",
+    "definition": "A Colombian-bred hybrid developed to resist coffee leaf rust while maintaining competitive yield and cup quality, created to replace disease-vulnerable Caturra.",
+    "why": "Leaf rust epidemics have devastated entire harvests across Latin America — disease-resistant hybrids like Castillo are now essential to many farms' survival.",
+    "tip": "Don't assume disease resistance means a flavor compromise — modern breeding programs actively select for cup quality too.",
+    "mistake": "Dismissing rust-resistant hybrids as automatically lower quality than heirloom varieties like Typica or Bourbon.",
+    "challenge": "Why might a farm's economic survival now depend more on disease resistance than on chasing the highest possible cup score?",
+    "related": [
+      "141",
+      "132"
+    ],
+    "translations": {
+      "es": {
+        "title": "Castillo",
+        "definition": "Un híbrido desarrollado en Colombia para resistir la roya del café mientras mantiene un rendimiento y calidad de taza competitivos, creado para reemplazar a la vulnerable Caturra.",
+        "why": "Las epidemias de roya han devastado cosechas enteras en toda Latinoamérica; híbridos resistentes a enfermedades como Castillo son ahora esenciales para la supervivencia de muchas fincas.",
+        "tip": "No supongas que la resistencia a enfermedades implica un sacrificio de sabor; los programas modernos de mejoramiento también seleccionan activamente por calidad de taza.",
+        "mistake": "Descartar los híbridos resistentes a roya como automáticamente de menor calidad que variedades heredadas como Typica o Bourbon.",
+        "challenge": "¿Por qué la supervivencia económica de una finca podría depender ahora más de la resistencia a enfermedades que de perseguir la puntuación de taza más alta posible?"
+      },
+      "pt": {
+        "title": "Castillo",
+        "definition": "Um híbrido desenvolvido na Colômbia para resistir à ferrugem do café mantendo rendimento e qualidade de xícara competitivos, criado para substituir a vulnerável Caturra.",
+        "why": "Epidemias de ferrugem devastaram safras inteiras em toda a América Latina; híbridos resistentes a doenças como o Castillo são agora essenciais para a sobrevivência de muitas fazendas.",
+        "tip": "Não suponha que resistência a doenças significa sacrifício de sabor; programas modernos de melhoramento também selecionam ativamente pela qualidade da xícara.",
+        "mistake": "Descartar híbridos resistentes à ferrugem como automaticamente de menor qualidade do que variedades tradicionais como Typica ou Bourbon.",
+        "challenge": "Por que a sobrevivência econômica de uma fazenda pode agora depender mais da resistência a doenças do que de buscar a maior pontuação de xícara possível?"
+      }
+    },
+    "id": 146
+  },
+  {
+    "number": "147",
+    "title": "What Makes a Cultivar",
+    "category": "CUL",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "147.jpg",
+    "definition": "A cultivar is a genetically distinct type of coffee plant, arising either from a natural mutation or a deliberate cross between parent varieties.",
+    "why": "Understanding this distinction explains why some varieties (like Bourbon) emerged by accident, while others (like Castillo) were engineered for a specific purpose.",
+    "tip": "Ask whether a variety was 'found' or 'bred' — it usually tells you what tradeoff it was optimized for.",
+    "mistake": "Treating 'variety' and 'origin' as the same thing — the same variety can be grown in completely different countries.",
+    "challenge": "Sort Typica, Caturra, Gesha and Castillo into natural mutations versus deliberate hybrids.",
+    "related": [
+      "139",
+      "146",
+      "144"
+    ],
+    "translations": {
+      "es": {
+        "title": "Qué Define a un Cultivar",
+        "definition": "Un cultivar es un tipo genéticamente distinto de planta de café, que surge ya sea de una mutación natural o de un cruce deliberado entre variedades parentales.",
+        "why": "Entender esta distinción explica por qué algunas variedades (como Bourbon) surgieron por accidente, mientras que otras (como Castillo) fueron diseñadas con un propósito específico.",
+        "tip": "Pregúntate si una variedad fue 'encontrada' o 'criada'; normalmente eso te dice para qué compromiso fue optimizada.",
+        "mistake": "Tratar 'variedad' y 'origen' como si fueran lo mismo; la misma variedad puede cultivarse en países completamente distintos.",
+        "challenge": "Clasifica Typica, Caturra, Gesha y Castillo entre mutaciones naturales e híbridos deliberados."
+      },
+      "pt": {
+        "title": "O Que Define um Cultivar",
+        "definition": "Um cultivar é um tipo geneticamente distinto de planta de café, surgido de uma mutação natural ou de um cruzamento deliberado entre variedades parentais.",
+        "why": "Entender essa distinção explica por que algumas variedades (como a Bourbon) surgiram por acidente, enquanto outras (como a Castillo) foram projetadas com um propósito específico.",
+        "tip": "Pergunte-se se uma variedade foi 'encontrada' ou 'criada'; isso geralmente indica para qual compromisso ela foi otimizada.",
+        "mistake": "Tratar 'variedade' e 'origem' como se fossem a mesma coisa; a mesma variedade pode ser cultivada em países completamente diferentes.",
+        "challenge": "Classifique Typica, Caturra, Gesha e Castillo entre mutações naturais e híbridos deliberados."
+      }
+    },
+    "id": 147
+  },
+  {
+    "number": "148",
+    "title": "Casein Proteins",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The most abundant protein group in milk, existing as tiny clustered particles called micelles that stay suspended and give milk its white color.",
+    "why": "Casein's structure is a big part of why steamed milk holds its shape and body rather than collapsing instantly.",
+    "tip": "Casein coagulates under heat and acid — that's the same mechanism behind cheese-making, not just a steaming quirk.",
+    "mistake": "Assuming all milk proteins behave the same way under heat — casein and whey respond very differently.",
+    "challenge": "Why does milk curdle when both heat and acid (like citrus or old milk) are present together?",
+    "related": [
+      "017",
+      "149"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proteínas de Caseína",
+        "definition": "El grupo de proteínas más abundante en la leche, presente como diminutas partículas agrupadas llamadas micelas que permanecen en suspensión y le dan a la leche su color blanco.",
+        "why": "La estructura de la caseína es gran parte de la razón por la que la leche vaporizada mantiene su forma y cuerpo en lugar de colapsar de inmediato.",
+        "tip": "La caseína coagula con el calor y el ácido; ese es el mismo mecanismo detrás de la elaboración del queso, no solo una peculiaridad del vaporizado.",
+        "mistake": "Suponer que todas las proteínas de la leche se comportan igual bajo calor; la caseína y el suero responden de forma muy diferente.",
+        "challenge": "¿Por qué se corta la leche cuando hay calor y ácido presentes juntos (como cítricos o leche vieja)?"
+      },
+      "pt": {
+        "title": "Proteínas de Caseína",
+        "definition": "O grupo de proteínas mais abundante no leite, presente como pequenas partículas agrupadas chamadas micelas que permanecem em suspensão e dão ao leite sua cor branca.",
+        "why": "A estrutura da caseína é grande parte da razão pela qual o leite vaporizado mantém sua forma e corpo em vez de colapsar imediatamente.",
+        "tip": "A caseína coagula com calor e ácido; esse é o mesmo mecanismo por trás da fabricação de queijo, não apenas uma peculiaridade da vaporização.",
+        "mistake": "Supor que todas as proteínas do leite se comportam da mesma forma sob calor; caseína e soro respondem de maneira muito diferente.",
+        "challenge": "Por que o leite talha quando calor e ácido (como cítricos ou leite velho) estão presentes juntos?"
+      }
+    },
+    "id": 148
+  },
+  {
+    "number": "149",
+    "title": "Whey Proteins",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The minority protein group in milk, more heat-sensitive than casein and central to how foam actually forms and stabilizes.",
+    "why": "Whey proteins unfold and trap air more readily than casein, making them the real workhorses behind microfoam texture.",
+    "tip": "Overheating milk denatures whey proteins excessively, which is part of why scalded milk loses foaming ability.",
+    "mistake": "Blaming poor foam only on technique when the milk itself may already be past its ideal temperature for whey structure.",
+    "challenge": "Why might two milks with identical fat content still foam completely differently?",
+    "related": [
+      "148",
+      "156"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proteínas del Suero",
+        "definition": "El grupo minoritario de proteínas en la leche, más sensible al calor que la caseína y central en cómo se forma y estabiliza realmente la espuma.",
+        "why": "Las proteínas del suero se despliegan y atrapan aire más fácilmente que la caseína, siendo las verdaderas responsables de la textura del microfoam.",
+        "tip": "Sobrecalentar la leche desnaturaliza en exceso las proteínas del suero, lo que en parte explica por qué la leche escaldada pierde capacidad de espumar.",
+        "mistake": "Culpar solo a la técnica por una espuma pobre cuando la leche misma puede haber superado ya su temperatura ideal para la estructura del suero.",
+        "challenge": "¿Por qué dos leches con el mismo contenido de grasa podrían espumar de forma completamente distinta?"
+      },
+      "pt": {
+        "title": "Proteínas do Soro",
+        "definition": "O grupo minoritário de proteínas no leite, mais sensível ao calor do que a caseína e central para como a espuma realmente se forma e se estabiliza.",
+        "why": "As proteínas do soro se desdobram e prendem ar mais facilmente do que a caseína, sendo as verdadeiras responsáveis pela textura do microfoam.",
+        "tip": "Superaquecer o leite desnatura excessivamente as proteínas do soro, o que em parte explica por que o leite escaldado perde a capacidade de espumar.",
+        "mistake": "Culpar apenas a técnica por uma espuma ruim quando o próprio leite já pode ter ultrapassado sua temperatura ideal para a estrutura do soro.",
+        "challenge": "Por que dois leites com o mesmo teor de gordura poderiam espumar de forma completamente diferente?"
+      }
+    },
+    "id": 149
+  },
+  {
+    "number": "150",
+    "title": "Milk Fat and Mouthfeel",
+    "category": "MLS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The fat content and fat globule structure in milk directly shape body, richness and how texture is perceived in the mouth.",
+    "why": "Fat coats the palate and slows how quickly other flavors are perceived, changing the whole drinking experience, not just 'creaminess'.",
+    "tip": "Compare whole, semi-skimmed and skimmed milk side by side to isolate what fat alone contributes to mouthfeel.",
+    "mistake": "Assuming higher fat always means better foam — fat can actually work against foam stability past a certain point.",
+    "challenge": "Why might a barista choose a lower-fat milk specifically for latte art rather than whole milk?",
+    "related": [
+      "151",
+      "156"
+    ],
+    "translations": {
+      "es": {
+        "title": "Grasa de la Leche y Sensación en Boca",
+        "definition": "El contenido de grasa y la estructura de los glóbulos grasos en la leche moldean directamente el cuerpo, la riqueza y cómo se percibe la textura en boca.",
+        "why": "La grasa recubre el paladar y ralentiza la percepción de otros sabores, cambiando toda la experiencia de beber, no solo la 'cremosidad'.",
+        "tip": "Compara leche entera, semidesnatada y desnatada una junto a otra para aislar lo que aporta la grasa por sí sola a la sensación en boca.",
+        "mistake": "Suponer que más grasa siempre significa mejor espuma; la grasa en realidad puede trabajar contra la estabilidad de la espuma a partir de cierto punto.",
+        "challenge": "¿Por qué un barista podría elegir una leche con menos grasa específicamente para latte art en lugar de leche entera?"
+      },
+      "pt": {
+        "title": "Gordura do Leite e Sensação na Boca",
+        "definition": "O teor de gordura e a estrutura dos glóbulos de gordura no leite moldam diretamente o corpo, a riqueza e como a textura é percebida na boca.",
+        "why": "A gordura reveste o paladar e retarda a percepção de outros sabores, mudando toda a experiência de beber, não apenas a 'cremosidade'.",
+        "tip": "Compare leite integral, semidesnatado e desnatado lado a lado para isolar o que a gordura sozinha contribui para a sensação na boca.",
+        "mistake": "Supor que mais gordura sempre significa melhor espuma; a gordura na verdade pode prejudicar a estabilidade da espuma a partir de certo ponto.",
+        "challenge": "Por que um barista poderia escolher um leite com menos gordura especificamente para latte art em vez de leite integral?"
+      }
+    },
+    "id": 150
+  },
+  {
+    "number": "151",
+    "title": "Fat Globule Size",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Homogenization breaks milk fat into much smaller, evenly distributed globules than raw milk naturally has.",
+    "why": "Smaller, evenly distributed fat globules are why modern homogenized milk doesn't separate into a visible cream layer.",
+    "tip": "Non-homogenized milk can behave noticeably differently when steamed — don't assume all whole milk foams identically.",
+    "mistake": "Assuming fat content alone predicts foaming behavior without accounting for how that fat is physically distributed.",
+    "challenge": "Why does breaking fat into smaller globules change how milk looks and pours, not just how it tastes?",
+    "related": [
+      "150",
+      "156"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tamaño del Glóbulo Graso",
+        "definition": "La homogeneización rompe la grasa de la leche en glóbulos mucho más pequeños y distribuidos uniformemente que los que tiene naturalmente la leche cruda.",
+        "why": "Los glóbulos de grasa más pequeños y uniformemente distribuidos son la razón por la que la leche homogeneizada moderna no se separa en una capa visible de nata.",
+        "tip": "La leche no homogeneizada puede comportarse de forma notablemente distinta al vaporizarse; no supongas que toda leche entera espuma igual.",
+        "mistake": "Suponer que el contenido de grasa por sí solo predice el comportamiento de la espuma sin tener en cuenta cómo está distribuida físicamente esa grasa.",
+        "challenge": "¿Por qué romper la grasa en glóbulos más pequeños cambia cómo se ve y se vierte la leche, no solo su sabor?"
+      },
+      "pt": {
+        "title": "Tamanho do Glóbulo de Gordura",
+        "definition": "A homogeneização quebra a gordura do leite em glóbulos muito menores e distribuídos uniformemente do que os que o leite cru naturalmente possui.",
+        "why": "Glóbulos de gordura menores e uniformemente distribuídos são a razão pela qual o leite homogeneizado moderno não se separa em uma camada visível de nata.",
+        "tip": "O leite não homogeneizado pode se comportar de forma notavelmente diferente ao ser vaporizado; não suponha que todo leite integral espuma igual.",
+        "mistake": "Supor que o teor de gordura sozinho prevê o comportamento da espuma sem considerar como essa gordura está fisicamente distribuída.",
+        "challenge": "Por que quebrar a gordura em glóbulos menores muda como o leite parece e é despejado, não apenas seu sabor?"
+      }
+    },
+    "id": 151
+  },
+  {
+    "number": "152",
+    "title": "Lactose and Perceived Sweetness",
+    "category": "MLS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Lactose is milk's natural sugar, and heat measurably increases how sweet steamed milk tastes compared to cold milk.",
+    "why": "This is why a well-steamed latte can taste noticeably sweeter than the same milk poured cold, with no sugar added at all.",
+    "tip": "Taste milk cold, then steamed, side by side — the sweetness shift is real and repeatable, not just perception.",
+    "mistake": "Assuming a sweeter-tasting milk drink must contain added sugar rather than recognizing lactose's own heat response.",
+    "challenge": "Why would overheating milk past the ideal range actually reduce perceived sweetness rather than increase it further?",
+    "related": [
+      "148",
+      "017"
+    ],
+    "translations": {
+      "es": {
+        "title": "Lactosa y Dulzura Percibida",
+        "definition": "La lactosa es el azúcar natural de la leche, y el calor aumenta de forma medible cuánto más dulce sabe la leche vaporizada en comparación con la leche fría.",
+        "why": "Esta es la razón por la que un latte bien vaporizado puede saber notablemente más dulce que la misma leche servida fría, sin ningún azúcar añadido.",
+        "tip": "Prueba la leche fría y luego vaporizada, una junto a la otra; el cambio en dulzura es real y repetible, no solo percepción.",
+        "mistake": "Suponer que una bebida de leche más dulce debe contener azúcar añadida en lugar de reconocer la respuesta propia de la lactosa al calor.",
+        "challenge": "¿Por qué sobrecalentar la leche más allá del rango ideal en realidad reduciría la dulzura percibida en lugar de aumentarla más?"
+      },
+      "pt": {
+        "title": "Lactose e Doçura Percebida",
+        "definition": "A lactose é o açúcar natural do leite, e o calor aumenta de forma mensurável o quanto mais doce o leite vaporizado tem sabor em comparação ao leite frio.",
+        "why": "Esta é a razão pela qual um latte bem vaporizado pode ter sabor visivelmente mais doce do que o mesmo leite servido frio, sem nenhum açúcar adicionado.",
+        "tip": "Prove o leite frio e depois vaporizado, lado a lado; a mudança na doçura é real e repetível, não apenas percepção.",
+        "mistake": "Supor que uma bebida de leite mais doce deve conter açúcar adicionado em vez de reconhecer a própria resposta da lactose ao calor.",
+        "challenge": "Por que superaquecer o leite além da faixa ideal na verdade reduziria a doçura percebida em vez de aumentá-la ainda mais?"
+      }
+    },
+    "id": 152
+  },
+  {
+    "number": "153",
+    "title": "UHT vs Pasteurized Milk",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "UHT (ultra-high temperature) milk is heated far hotter and faster than standard pasteurized milk, denaturing proteins more heavily for long shelf life.",
+    "why": "That extra heat treatment is exactly why UHT milk often steams and foams differently than fresh pasteurized milk.",
+    "tip": "If a milk behaves unexpectedly under the steam wand, check whether it's UHT before blaming technique.",
+    "mistake": "Assuming all shelf-stable and fresh milks are functionally identical for steaming purposes.",
+    "challenge": "Why would heavier heat processing during production affect how milk responds to a second round of heating at the espresso bar?",
+    "related": [
+      "149",
+      "017"
+    ],
+    "translations": {
+      "es": {
+        "title": "UHT vs. Leche Pasteurizada",
+        "definition": "La leche UHT (ultra alta temperatura) se calienta mucho más fuerte y rápido que la pasteurización estándar, desnaturalizando más las proteínas para lograr una vida útil más larga.",
+        "why": "Ese tratamiento térmico adicional es exactamente la razón por la que la leche UHT suele vaporizarse y espumar de forma diferente a la leche pasteurizada fresca.",
+        "tip": "Si una leche se comporta de forma inesperada bajo el vaporizador, verifica si es UHT antes de culpar a la técnica.",
+        "mistake": "Suponer que toda leche de larga vida y toda leche fresca son funcionalmente idénticas para efectos de vaporizado.",
+        "challenge": "¿Por qué un procesamiento térmico más intenso durante la producción afectaría cómo responde la leche a una segunda ronda de calentamiento en la barra de café?"
+      },
+      "pt": {
+        "title": "UHT vs. Leite Pasteurizado",
+        "definition": "O leite UHT (ultra alta temperatura) é aquecido muito mais forte e rápido do que a pasteurização padrão, desnaturando mais as proteínas para obter uma vida útil mais longa.",
+        "why": "Esse tratamento térmico extra é exatamente a razão pela qual o leite UHT costuma vaporizar e espumar de forma diferente do leite pasteurizado fresco.",
+        "tip": "Se um leite se comportar de forma inesperada sob o vaporizador, verifique se é UHT antes de culpar a técnica.",
+        "mistake": "Supor que todo leite de longa vida e todo leite fresco são funcionalmente idênticos para fins de vaporização.",
+        "challenge": "Por que um processamento térmico mais intenso durante a produção afetaria como o leite responde a uma segunda rodada de aquecimento no balcão de café?"
+      }
+    },
+    "id": 153
+  },
+  {
+    "number": "154",
+    "title": "Milk pH and Protein Stability",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Milk's natural pH sits close to neutral, and small shifts toward acidity — from age or added ingredients — can destabilize its protein structure.",
+    "why": "This is part of why older milk, or milk mixed with acidic syrups, can behave unpredictably or curdle when steamed.",
+    "tip": "Fresher milk generally gives more stable, predictable foam than milk nearing its use-by date.",
+    "mistake": "Blaming inconsistent foam entirely on technique without considering milk freshness and pH drift over time.",
+    "challenge": "Why might adding an acidic syrup before steaming cause visibly different results than adding it after?",
+    "related": [
+      "148",
+      "022"
+    ],
+    "translations": {
+      "es": {
+        "title": "pH de la Leche y Estabilidad de las Proteínas",
+        "definition": "El pH natural de la leche está cerca de neutro, y pequeños cambios hacia la acidez —por edad o ingredientes añadidos— pueden desestabilizar su estructura proteica.",
+        "why": "Esto explica en parte por qué la leche más vieja, o mezclada con jarabes ácidos, puede comportarse de forma impredecible o cortarse al vaporizarse.",
+        "tip": "La leche más fresca generalmente da una espuma más estable y predecible que la leche cerca de su fecha de caducidad.",
+        "mistake": "Culpar por completo a la técnica por una espuma inconsistente sin considerar la frescura de la leche y el desplazamiento de pH con el tiempo.",
+        "challenge": "¿Por qué agregar un jarabe ácido antes de vaporizar podría causar resultados visiblemente distintos que agregarlo después?"
+      },
+      "pt": {
+        "title": "pH do Leite e Estabilidade das Proteínas",
+        "definition": "O pH natural do leite fica próximo do neutro, e pequenas mudanças em direção à acidez — por idade ou ingredientes adicionados — podem desestabilizar sua estrutura proteica.",
+        "why": "Isso explica em parte por que o leite mais velho, ou misturado com xaropes ácidos, pode se comportar de forma imprevisível ou talhar ao ser vaporizado.",
+        "tip": "O leite mais fresco geralmente dá uma espuma mais estável e previsível do que o leite próximo da data de validade.",
+        "mistake": "Culpar totalmente a técnica por uma espuma inconsistente sem considerar a frescura do leite e a variação de pH ao longo do tempo.",
+        "challenge": "Por que adicionar um xarope ácido antes de vaporizar poderia causar resultados visivelmente diferentes de adicioná-lo depois?"
+      }
+    },
+    "id": 154
+  },
+  {
+    "number": "155",
+    "title": "Plant-Based Milk Proteins",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Oat, soy, almond and pea-based milks each rely on completely different protein structures than dairy, which is why they steam so differently from each other.",
+    "why": "Barista-formulated plant milks often add stabilizers and gums specifically to compensate for protein structures that don't naturally foam like dairy.",
+    "tip": "Treat each plant-based milk as its own category rather than a single substitute — oat and almond can behave nothing alike.",
+    "mistake": "Applying dairy steaming technique unchanged to plant-based milk and blaming the milk when results differ.",
+    "challenge": "Why do most 'barista' plant-milk products contain added ingredients that regular plant milk doesn't?",
+    "related": [
+      "022",
+      "149"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proteínas de Leches Vegetales",
+        "definition": "Las leches de avena, soya, almendra y guisante dependen de estructuras proteicas completamente distintas a las lácteas, por lo que se vaporizan de forma tan diferente entre sí.",
+        "why": "Las leches vegetales formuladas para baristas suelen añadir estabilizantes y gomas específicamente para compensar estructuras proteicas que no espuman de forma natural como la leche.",
+        "tip": "Trata cada leche vegetal como su propia categoría en lugar de un sustituto único; la avena y la almendra pueden comportarse de forma completamente distinta.",
+        "mistake": "Aplicar la técnica de vaporizado de la leche láctea sin cambios a la leche vegetal y culpar a la leche cuando los resultados difieren.",
+        "challenge": "¿Por qué la mayoría de los productos de leche vegetal 'para barista' contienen ingredientes añadidos que la leche vegetal regular no tiene?"
+      },
+      "pt": {
+        "title": "Proteínas de Leites Vegetais",
+        "definition": "Os leites de aveia, soja, amêndoa e ervilha dependem de estruturas proteicas completamente diferentes das do leite, por isso vaporizam de forma tão diferente entre si.",
+        "why": "Os leites vegetais formulados para baristas costumam adicionar estabilizantes e gomas especificamente para compensar estruturas proteicas que não espumam naturalmente como o leite.",
+        "tip": "Trate cada leite vegetal como sua própria categoria em vez de um substituto único; aveia e amêndoa podem se comportar de forma completamente diferente.",
+        "mistake": "Aplicar a técnica de vaporização do leite comum sem alterações ao leite vegetal e culpar o leite quando os resultados diferem.",
+        "challenge": "Por que a maioria dos produtos de leite vegetal 'para barista' contém ingredientes adicionados que o leite vegetal comum não tem?"
+      }
+    },
+    "id": 155
+  },
+  {
+    "number": "156",
+    "title": "The Physics of Foam Stability",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "Stable milk foam depends on a thin protein film forming around trapped air bubbles, while fat works to destabilize that same structure over time.",
+    "why": "Understanding this tension between protein and fat explains almost every practical foam problem baristas encounter.",
+    "tip": "If foam looks great immediately but collapses fast, suspect fat interference or insufficient protein structure, not just air volume.",
+    "mistake": "Judging foam quality only in the moment it's poured, without considering how it holds up over the next minute.",
+    "challenge": "Why does foam that looks identical right after steaming sometimes collapse at very different rates?",
+    "related": [
+      "148",
+      "149",
+      "150"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Física de la Estabilidad de la Espuma",
+        "definition": "La espuma de leche estable depende de una fina película proteica que se forma alrededor de las burbujas de aire atrapadas, mientras que la grasa trabaja para desestabilizar esa misma estructura con el tiempo.",
+        "why": "Entender esta tensión entre proteína y grasa explica casi todos los problemas prácticos de espuma que enfrentan los baristas.",
+        "tip": "Si la espuma se ve genial de inmediato pero colapsa rápido, sospecha de interferencia de la grasa o estructura proteica insuficiente, no solo del volumen de aire.",
+        "mistake": "Juzgar la calidad de la espuma solo en el momento en que se sirve, sin considerar cómo se sostiene durante el minuto siguiente.",
+        "challenge": "¿Por qué una espuma que se ve idéntica justo después de vaporizar a veces colapsa a ritmos muy distintos?"
+      },
+      "pt": {
+        "title": "A Física da Estabilidade da Espuma",
+        "definition": "A espuma de leite estável depende de uma fina película proteica que se forma ao redor das bolhas de ar aprisionadas, enquanto a gordura trabalha para desestabilizar essa mesma estrutura com o tempo.",
+        "why": "Entender essa tensão entre proteína e gordura explica quase todos os problemas práticos de espuma que os baristas enfrentam.",
+        "tip": "Se a espuma parece ótima logo após vaporizar mas colapsa rápido, suspeite de interferência da gordura ou estrutura proteica insuficiente, não apenas do volume de ar.",
+        "mistake": "Julgar a qualidade da espuma apenas no momento em que é servida, sem considerar como ela se sustenta no minuto seguinte.",
+        "challenge": "Por que uma espuma que parece idêntica logo após a vaporização às vezes colapsa em ritmos muito diferentes?"
+      }
+    },
+    "id": 156
+  },
+  {
+    "number": "157",
+    "title": "Extraction Yield",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The percentage of the coffee's dry mass that actually dissolves into the brewed beverage, typically targeted between 18-22% for balanced cups.",
+    "why": "It's a completely different measurement from strength — a coffee can be strong and under-extracted, or weak and over-extracted, at the same time.",
+    "tip": "Think of extraction yield as 'how much of the coffee did I use' and strength as 'how concentrated is the result' — they answer different questions.",
+    "mistake": "Using extraction yield and strength interchangeably when discussing why a brew tastes a certain way.",
+    "challenge": "Could two brews with identical extraction yield taste completely different? Why?",
+    "related": [
+      "005",
+      "158"
+    ],
+    "translations": {
+      "es": {
+        "title": "Rendimiento de Extracción",
+        "definition": "El porcentaje de la masa seca del café que realmente se disuelve en la bebida preparada, típicamente entre el 18-22% para tazas equilibradas.",
+        "why": "Es una medida completamente distinta de la fuerza; un café puede ser fuerte y estar subextraído, o débil y sobreextraído, al mismo tiempo.",
+        "tip": "Piensa en el rendimiento de extracción como 'cuánto del café usé' y en la fuerza como 'qué tan concentrado quedó el resultado'; responden preguntas diferentes.",
+        "mistake": "Usar el rendimiento de extracción y la fuerza como sinónimos al hablar de por qué una preparación sabe de cierta manera.",
+        "challenge": "¿Podrían dos preparaciones con el mismo rendimiento de extracción saber completamente distinto? ¿Por qué?"
+      },
+      "pt": {
+        "title": "Rendimento de Extração",
+        "definition": "A porcentagem da massa seca do café que realmente se dissolve na bebida preparada, tipicamente entre 18-22% para xícaras equilibradas.",
+        "why": "É uma medida completamente diferente da força; um café pode estar forte e subextraído, ou fraco e superextraído, ao mesmo tempo.",
+        "tip": "Pense no rendimento de extração como 'quanto do café eu usei' e na força como 'quão concentrado ficou o resultado'; respondem perguntas diferentes.",
+        "mistake": "Usar rendimento de extração e força como sinônimos ao discutir por que um preparo tem determinado sabor.",
+        "challenge": "Dois preparos com rendimento de extração idêntico poderiam ter sabores completamente diferentes? Por quê?"
+      }
+    },
+    "id": 157
+  },
+  {
+    "number": "158",
+    "title": "TDS and Refractometry",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "158.jpg",
+    "definition": "Total Dissolved Solids (TDS) measures the concentration of dissolved coffee compounds in a brew, typically read using a refractometer.",
+    "why": "TDS gives an objective number for strength, replacing guesswork with a measurement that's directly comparable across brews.",
+    "tip": "A refractometer reads TDS in seconds, but always combine it with tasting — the number alone doesn't tell you if a brew tastes good.",
+    "mistake": "Treating a 'correct' TDS number as proof of quality without actually tasting the coffee.",
+    "challenge": "Why do a refractometer's TDS reading and extraction yield need to be calculated together, not read independently?",
+    "related": [
+      "157",
+      "159"
+    ],
+    "translations": {
+      "es": {
+        "title": "TDS y Refractometría",
+        "definition": "Los Sólidos Disueltos Totales (TDS) miden la concentración de compuestos de café disueltos en una preparación, generalmente medidos con un refractómetro.",
+        "why": "El TDS da un número objetivo para la fuerza, reemplazando las suposiciones con una medición directamente comparable entre preparaciones.",
+        "tip": "Un refractómetro mide el TDS en segundos, pero combínalo siempre con la cata; el número solo no indica si una preparación sabe bien.",
+        "mistake": "Tratar un número de TDS 'correcto' como prueba de calidad sin realmente probar el café.",
+        "challenge": "¿Por qué la lectura de TDS de un refractómetro y el rendimiento de extracción deben calcularse juntos, no leerse por separado?"
+      },
+      "pt": {
+        "title": "TDS e Refratometria",
+        "definition": "Os Sólidos Dissolvidos Totais (TDS) medem a concentração de compostos de café dissolvidos em um preparo, geralmente medidos com um refratômetro.",
+        "why": "O TDS fornece um número objetivo para a força, substituindo suposições por uma medição diretamente comparável entre preparos.",
+        "tip": "Um refratômetro mede o TDS em segundos, mas sempre combine isso com a prova; o número sozinho não diz se um preparo tem bom sabor.",
+        "mistake": "Tratar um número de TDS 'correto' como prova de qualidade sem realmente provar o café.",
+        "challenge": "Por que a leitura de TDS de um refratômetro e o rendimento de extração precisam ser calculados juntos, não lidos separadamente?"
+      }
+    },
+    "id": 158
+  },
+  {
+    "number": "159",
+    "title": "The SCA Brewing Control Chart",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A chart plotting extraction yield against strength (TDS), defining a target zone where most tasters agree coffee is well-balanced.",
+    "why": "It gives brewers a shared, measurable reference point instead of relying purely on subjective taste descriptions.",
+    "tip": "Use the chart to diagnose problems, not just confirm success — a cup outside the zone tells you exactly which direction to adjust.",
+    "mistake": "Treating the target zone as a strict rule rather than a general reference most people tend to prefer.",
+    "challenge": "If a cup falls outside the ideal zone but you genuinely enjoy it, what does that tell you about the chart's limits?",
+    "related": [
+      "157",
+      "158"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Gráfico de Control de Preparación de la SCA",
+        "definition": "Un gráfico que compara el rendimiento de extracción con la fuerza (TDS), definiendo una zona objetivo donde la mayoría de catadores coincide en que el café está bien equilibrado.",
+        "why": "Da a quienes preparan café un punto de referencia compartido y medible en lugar de depender solo de descripciones subjetivas de sabor.",
+        "tip": "Usa el gráfico para diagnosticar problemas, no solo para confirmar el éxito; una taza fuera de la zona te dice exactamente en qué dirección ajustar.",
+        "mistake": "Tratar la zona objetivo como una regla estricta en lugar de una referencia general que la mayoría tiende a preferir.",
+        "challenge": "Si una taza cae fuera de la zona ideal pero genuinamente te gusta, ¿qué te dice eso sobre los límites del gráfico?"
+      },
+      "pt": {
+        "title": "O Gráfico de Controle de Preparo da SCA",
+        "definition": "Um gráfico que compara o rendimento de extração com a força (TDS), definindo uma zona-alvo onde a maioria dos provadores concorda que o café está bem equilibrado.",
+        "why": "Dá a quem prepara café um ponto de referência compartilhado e mensurável em vez de depender apenas de descrições subjetivas de sabor.",
+        "tip": "Use o gráfico para diagnosticar problemas, não apenas para confirmar sucesso; uma xícara fora da zona diz exatamente em qual direção ajustar.",
+        "mistake": "Tratar a zona-alvo como uma regra rígida em vez de uma referência geral que a maioria tende a preferir.",
+        "challenge": "Se uma xícara cai fora da zona ideal mas você genuinamente gosta dela, o que isso diz sobre os limites do gráfico?"
+      }
+    },
+    "id": 159
+  },
+  {
+    "number": "160",
+    "title": "Solubility and Extraction Kinetics",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Different compounds in coffee dissolve at different rates — acids and sugars extract early, while bitter compounds extract later in the brewing process.",
+    "why": "This ordering is exactly why brew time has such a direct effect on flavor balance, not just overall strength.",
+    "tip": "A stalled or overly long brew keeps pulling more bitter compounds even after the pleasant ones are already extracted.",
+    "mistake": "Assuming a longer brew time always means 'more flavor' rather than a different, often more bitter, balance.",
+    "challenge": "Why might slightly shortening a brew time improve balance even if it slightly lowers extraction yield?",
+    "related": [
+      "005",
+      "032"
+    ],
+    "translations": {
+      "es": {
+        "title": "Solubilidad y Cinética de Extracción",
+        "definition": "Distintos compuestos del café se disuelven a diferentes velocidades; los ácidos y azúcares se extraen primero, mientras que los compuestos amargos se extraen más tarde en el proceso de preparación.",
+        "why": "Este orden es exactamente la razón por la que el tiempo de preparación tiene un efecto tan directo en el equilibrio de sabor, no solo en la fuerza general.",
+        "tip": "Una preparación estancada o demasiado larga sigue extrayendo más compuestos amargos incluso después de que los agradables ya se extrajeron.",
+        "mistake": "Suponer que un tiempo de preparación más largo siempre significa 'más sabor' en lugar de un equilibrio distinto, a menudo más amargo.",
+        "challenge": "¿Por qué acortar ligeramente un tiempo de preparación podría mejorar el equilibrio incluso si reduce un poco el rendimiento de extracción?"
+      },
+      "pt": {
+        "title": "Solubilidade e Cinética de Extração",
+        "definition": "Diferentes compostos do café se dissolvem em ritmos diferentes; ácidos e açúcares extraem primeiro, enquanto compostos amargos extraem mais tarde no processo de preparo.",
+        "why": "Essa ordem é exatamente a razão pela qual o tempo de preparo tem um efeito tão direto no equilíbrio do sabor, não apenas na força geral.",
+        "tip": "Um preparo travado ou longo demais continua extraindo mais compostos amargos mesmo depois que os agradáveis já foram extraídos.",
+        "mistake": "Supor que um tempo de preparo mais longo sempre significa 'mais sabor' em vez de um equilíbrio diferente, muitas vezes mais amargo.",
+        "challenge": "Por que encurtar ligeiramente um tempo de preparo poderia melhorar o equilíbrio mesmo reduzindo um pouco o rendimento de extração?"
+      }
+    },
+    "id": 160
+  },
+  {
+    "number": "161",
+    "title": "Water Alkalinity vs Hardness",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Alkalinity measures water's buffering capacity against acid, while hardness measures its mineral content — two distinct properties often confused as one.",
+    "why": "High alkalinity can flatten acidity and mute flavor even when hardness looks perfectly fine on paper.",
+    "tip": "Check both numbers separately when troubleshooting water — a hardness reading alone doesn't tell the full story.",
+    "mistake": "Assuming 'soft water' is automatically good brewing water without checking alkalinity too.",
+    "challenge": "Why could two waters with identical hardness produce noticeably different-tasting coffee?",
+    "related": [
+      "044",
+      "162"
+    ],
+    "translations": {
+      "es": {
+        "title": "Alcalinidad vs. Dureza del Agua",
+        "definition": "La alcalinidad mide la capacidad amortiguadora del agua frente al ácido, mientras que la dureza mide su contenido mineral; dos propiedades distintas que suelen confundirse como una sola.",
+        "why": "Una alcalinidad alta puede aplanar la acidez y apagar el sabor incluso cuando la dureza se ve perfectamente bien en el papel.",
+        "tip": "Revisa ambos valores por separado al solucionar problemas de agua; una lectura de dureza sola no cuenta toda la historia.",
+        "mistake": "Suponer que 'agua blanda' es automáticamente buena agua de preparación sin revisar también la alcalinidad.",
+        "challenge": "¿Por qué dos aguas con la misma dureza podrían producir café con sabores notablemente distintos?"
+      },
+      "pt": {
+        "title": "Alcalinidade vs. Dureza da Água",
+        "definition": "A alcalinidade mede a capacidade de tamponamento da água contra o ácido, enquanto a dureza mede seu teor mineral; duas propriedades distintas frequentemente confundidas como uma só.",
+        "why": "Uma alcalinidade alta pode achatar a acidez e apagar o sabor mesmo quando a dureza parece perfeitamente bem no papel.",
+        "tip": "Verifique os dois números separadamente ao solucionar problemas de água; uma leitura de dureza sozinha não conta toda a história.",
+        "mistake": "Supor que 'água mole' é automaticamente boa água de preparo sem verificar também a alcalinidade.",
+        "challenge": "Por que duas águas com a mesma dureza poderiam produzir café com sabores visivelmente diferentes?"
+      }
+    },
+    "id": 161
+  },
+  {
+    "number": "162",
+    "title": "Diffusion vs Agitation",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Diffusion is the passive movement of dissolved compounds from coffee into surrounding water, while agitation actively speeds that process by physically moving water and grounds together.",
+    "why": "Understanding which mechanism dominates in a given brew method explains why agitation-heavy methods extract faster than passive ones.",
+    "tip": "More agitation isn't automatically better — it speeds extraction, which can just as easily overshoot the target.",
+    "mistake": "Adding more agitation to fix a weak-tasting brew without considering it might actually already be over-extracted.",
+    "challenge": "Why does a French press typically need a coarser grind than a method relying more on diffusion alone?",
+    "related": [
+      "029",
+      "160"
+    ],
+    "translations": {
+      "es": {
+        "title": "Difusión vs. Agitación",
+        "definition": "La difusión es el movimiento pasivo de compuestos disueltos desde el café hacia el agua circundante, mientras que la agitación acelera activamente ese proceso al mover físicamente el agua y los posos juntos.",
+        "why": "Entender qué mecanismo domina en un método de preparación explica por qué los métodos con mucha agitación extraen más rápido que los pasivos.",
+        "tip": "Más agitación no es automáticamente mejor; acelera la extracción, lo que fácilmente puede sobrepasar el objetivo.",
+        "mistake": "Añadir más agitación para corregir una preparación de sabor débil sin considerar que quizás ya esté sobreextraída.",
+        "challenge": "¿Por qué una prensa francesa suele necesitar una molienda más gruesa que un método que depende más solo de la difusión?"
+      },
+      "pt": {
+        "title": "Difusão vs. Agitação",
+        "definition": "A difusão é o movimento passivo de compostos dissolvidos do café para a água ao redor, enquanto a agitação acelera ativamente esse processo ao mover fisicamente água e pó juntos.",
+        "why": "Entender qual mecanismo domina em um método de preparo explica por que métodos com muita agitação extraem mais rápido do que os passivos.",
+        "tip": "Mais agitação não é automaticamente melhor; ela acelera a extração, o que pode facilmente ultrapassar o alvo.",
+        "mistake": "Adicionar mais agitação para corrigir um preparo de sabor fraco sem considerar que ele já pode estar superextraído.",
+        "challenge": "Por que uma prensa francesa costuma precisar de uma moagem mais grossa do que um método que depende mais apenas da difusão?"
+      }
+    },
+    "id": 162
+  },
+  {
+    "number": "163",
+    "title": "Channeling Physics",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Water naturally follows the path of least resistance through a coffee bed, creating channels that extract those areas heavily while leaving others under-extracted.",
+    "why": "Channeling is one of the most common causes of an uneven, inconsistent-tasting cup, even when overall recipe numbers look correct.",
+    "tip": "Even distribution before brewing matters specifically because it removes the weak points water would otherwise exploit.",
+    "mistake": "Assuming a fast or uneven flow is always a grind problem, when bed preparation is often the real cause.",
+    "challenge": "Why can a bed with an uneven surface cause channeling even if the grind size itself is perfectly consistent?",
+    "related": [
+      "008",
+      "009"
+    ],
+    "translations": {
+      "es": {
+        "title": "Física de la Canalización",
+        "definition": "El agua sigue naturalmente el camino de menor resistencia a través de un lecho de café, creando canales que extraen intensamente esas áreas mientras dejan otras subextraídas.",
+        "why": "La canalización es una de las causas más comunes de una taza desigual e inconsistente, incluso cuando los números de la receta parecen correctos.",
+        "tip": "La distribución uniforme antes de preparar importa específicamente porque elimina los puntos débiles que el agua explotaría de otro modo.",
+        "mistake": "Suponer que un flujo rápido o desigual siempre es un problema de molienda, cuando la preparación del lecho suele ser la causa real.",
+        "challenge": "¿Por qué una superficie desigual en el lecho puede causar canalización incluso si el tamaño de molienda es perfectamente uniforme?"
+      },
+      "pt": {
+        "title": "Física da Canalização",
+        "definition": "A água naturalmente segue o caminho de menor resistência através de um leito de café, criando canais que extraem intensamente essas áreas enquanto deixam outras subextraídas.",
+        "why": "A canalização é uma das causas mais comuns de uma xícara desigual e inconsistente, mesmo quando os números da receita parecem corretos.",
+        "tip": "A distribuição uniforme antes do preparo importa especificamente porque elimina os pontos fracos que a água exploraria.",
+        "mistake": "Supor que um fluxo rápido ou desigual é sempre um problema de moagem, quando o preparo do leito costuma ser a causa real.",
+        "challenge": "Por que uma superfície desigual no leito pode causar canalização mesmo que o tamanho da moagem seja perfeitamente uniforme?"
+      }
+    },
+    "id": 163
+  },
+  {
+    "number": "164",
+    "title": "Degassing and CO2's Effect on Extraction",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Freshly roasted coffee traps carbon dioxide that slowly releases over days to weeks, actively interfering with water saturation during brewing.",
+    "why": "Trapped CO2 pushes water away from the grounds, which is exactly why very fresh coffee can taste inconsistent or under-extracted despite a good recipe.",
+    "tip": "Rest coffee for at least a few days after roasting before expecting fully predictable extraction.",
+    "mistake": "Assuming coffee brewed the same day as roasting will automatically taste best simply because it's freshest.",
+    "challenge": "Why does bloom in pour-over brewing visually reveal how much CO2 a coffee still has left?",
+    "related": [
+      "107",
+      "027"
+    ],
+    "translations": {
+      "es": {
+        "title": "Desgasificación y el Efecto del CO2 en la Extracción",
+        "definition": "El café recién tostado atrapa dióxido de carbono que se libera lentamente durante días o semanas, interfiriendo activamente con la saturación de agua durante la preparación.",
+        "why": "El CO2 atrapado empuja el agua lejos de los posos, que es exactamente la razón por la que el café muy fresco puede saber inconsistente o subextraído a pesar de una buena receta.",
+        "tip": "Deja reposar el café al menos unos días después del tueste antes de esperar una extracción completamente predecible.",
+        "mistake": "Suponer que el café preparado el mismo día del tueste sabrá automáticamente mejor solo por ser el más fresco.",
+        "challenge": "¿Por qué el bloom en el vertido manual revela visualmente cuánto CO2 le queda a un café?"
+      },
+      "pt": {
+        "title": "Degaseificação e o Efeito do CO2 na Extração",
+        "definition": "O café recém-torrado retém dióxido de carbono que se libera lentamente ao longo de dias ou semanas, interferindo ativamente na saturação da água durante o preparo.",
+        "why": "O CO2 retido empurra a água para longe do pó, que é exatamente a razão pela qual o café muito fresco pode ter sabor inconsistente ou subextraído apesar de uma boa receita.",
+        "tip": "Deixe o café descansar pelo menos alguns dias após a torra antes de esperar uma extração totalmente previsível.",
+        "mistake": "Supor que o café preparado no mesmo dia da torra terá automaticamente o melhor sabor só por ser o mais fresco.",
+        "challenge": "Por que o bloom no coado manual revela visualmente quanto CO2 um café ainda tem?"
+      }
+    },
+    "id": 164
+  },
+  {
+    "number": "165",
+    "title": "Particle Size Distribution",
+    "category": "BRW",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The full spread of particle sizes a grinder produces — including unwanted fines and boulders — not just the average grind setting.",
+    "why": "Two grinders set to the 'same' grind size can produce very different distributions, and that spread affects extraction evenness as much as the average size does.",
+    "tip": "A tighter, more uniform distribution generally allows more predictable, repeatable extraction than a wide one.",
+    "mistake": "Judging grind quality by average particle size alone without considering how consistent that size actually is.",
+    "challenge": "Why might fines and boulders in the same brew extract at completely different rates, even brewed together?",
+    "related": [
+      "006",
+      "042"
+    ],
+    "translations": {
+      "es": {
+        "title": "Distribución del Tamaño de Partícula",
+        "definition": "La gama completa de tamaños de partícula que produce un molinillo —incluyendo finos y boulders no deseados— no solo el ajuste promedio de molienda.",
+        "why": "Dos molinillos ajustados al 'mismo' tamaño de molienda pueden producir distribuciones muy distintas, y esa dispersión afecta la uniformidad de extracción tanto como el tamaño promedio.",
+        "tip": "Una distribución más ajustada y uniforme generalmente permite una extracción más predecible y repetible que una amplia.",
+        "mistake": "Juzgar la calidad de la molienda solo por el tamaño promedio de partícula sin considerar qué tan consistente es realmente ese tamaño.",
+        "challenge": "¿Por qué los finos y los boulders en la misma preparación podrían extraerse a ritmos completamente distintos, incluso preparados juntos?"
+      },
+      "pt": {
+        "title": "Distribuição do Tamanho de Partícula",
+        "definition": "A gama completa de tamanhos de partícula que um moedor produz — incluindo finos e boulders indesejados — não apenas o ajuste médio de moagem.",
+        "why": "Dois moedores ajustados no 'mesmo' tamanho de moagem podem produzir distribuições bem diferentes, e essa dispersão afeta a uniformidade da extração tanto quanto o tamanho médio.",
+        "tip": "Uma distribuição mais estreita e uniforme geralmente permite uma extração mais previsível e repetível do que uma ampla.",
+        "mistake": "Julgar a qualidade da moagem apenas pelo tamanho médio de partícula sem considerar quão consistente esse tamanho realmente é.",
+        "challenge": "Por que finos e boulders no mesmo preparo poderiam extrair em ritmos completamente diferentes, mesmo preparados juntos?"
+      }
+    },
+    "id": 165
+  },
+  {
+    "number": "166",
+    "title": "Retronasal vs Orthonasal Olfaction",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Orthonasal smell happens by sniffing through the nose, while retronasal smell happens when aroma compounds travel up from the mouth to the nose during swallowing.",
+    "why": "Most of what people call 'taste' is actually retronasal smell — it's why food seems flavorless with a blocked nose.",
+    "tip": "Compare the aroma you get sniffing a coffee versus what you notice right after swallowing — they're genuinely different pathways, not the same sensation twice.",
+    "mistake": "Assuming 'smell' and 'flavor' are separate senses rather than two different routes to the same olfactory system.",
+    "challenge": "Why does pinching your nose while drinking coffee dramatically flatten its flavor even though your tongue still works normally?",
+    "related": [
+      "057",
+      "168"
+    ],
+    "translations": {
+      "es": {
+        "title": "Olfacción Retronasal vs. Ortonasal",
+        "definition": "El olfato ortonasal ocurre al oler por la nariz, mientras que el olfato retronasal ocurre cuando los compuestos aromáticos viajan desde la boca hacia la nariz al tragar.",
+        "why": "Gran parte de lo que la gente llama 'sabor' es en realidad olfato retronasal; por eso la comida parece insípida con la nariz tapada.",
+        "tip": "Compara el aroma que percibes al oler un café con lo que notas justo después de tragarlo; son rutas genuinamente distintas, no la misma sensación dos veces.",
+        "mistake": "Suponer que 'olor' y 'sabor' son sentidos separados en lugar de dos rutas diferentes hacia el mismo sistema olfativo.",
+        "challenge": "¿Por qué taparse la nariz al beber café aplana drásticamente su sabor aunque la lengua siga funcionando con normalidad?"
+      },
+      "pt": {
+        "title": "Olfação Retronasal vs. Ortonasal",
+        "definition": "O olfato ortonasal ocorre ao cheirar pelo nariz, enquanto o olfato retronasal ocorre quando compostos aromáticos viajam da boca para o nariz ao engolir.",
+        "why": "Grande parte do que as pessoas chamam de 'sabor' é na verdade olfato retronasal; por isso a comida parece sem graça com o nariz entupido.",
+        "tip": "Compare o aroma que você percebe ao cheirar um café com o que percebe logo depois de engolir; são rotas genuinamente diferentes, não a mesma sensação duas vezes.",
+        "mistake": "Supor que 'cheiro' e 'sabor' são sentidos separados em vez de duas rotas diferentes para o mesmo sistema olfativo.",
+        "challenge": "Por que tapar o nariz ao beber café achata drasticamente seu sabor mesmo com a língua funcionando normalmente?"
+      }
+    },
+    "id": 166
+  },
+  {
+    "number": "167",
+    "title": "Taste Receptor Biology",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Taste buds on the tongue detect only five basic qualities — sweet, sour, salty, bitter and umami — everything else attributed to 'taste' actually comes from smell or texture.",
+    "why": "Understanding this distinction explains why cupping relies so heavily on aroma and mouthfeel, not just what the tongue alone detects.",
+    "tip": "Try isolating pure taste by holding your nose while tasting something — you'll notice how much information disappears.",
+    "mistake": "Describing a complex flavor note like 'blueberry' as something the tongue detects, when it's actually an aroma perception.",
+    "challenge": "If the tongue only detects five basic qualities, where does a sensation like 'fruity' actually come from?",
+    "related": [
+      "166",
+      "058"
+    ],
+    "translations": {
+      "es": {
+        "title": "Biología de los Receptores del Gusto",
+        "definition": "Las papilas gustativas de la lengua detectan solo cinco cualidades básicas —dulce, ácido, salado, amargo y umami—; todo lo demás atribuido al 'sabor' en realidad proviene del olfato o la textura.",
+        "why": "Entender esta distinción explica por qué la catación depende tanto del aroma y la sensación en boca, no solo de lo que detecta la lengua sola.",
+        "tip": "Intenta aislar el gusto puro tapándote la nariz mientras pruebas algo; notarás cuánta información desaparece.",
+        "mistake": "Describir una nota de sabor compleja como 'arándano' como algo que detecta la lengua, cuando en realidad es una percepción aromática.",
+        "challenge": "Si la lengua solo detecta cinco cualidades básicas, ¿de dónde viene realmente una sensación como 'afrutado'?"
+      },
+      "pt": {
+        "title": "Biologia dos Receptores de Gosto",
+        "definition": "As papilas gustativas da língua detectam apenas cinco qualidades básicas —doce, ácido, salgado, amargo e umami—; tudo mais atribuído ao 'sabor' na verdade vem do olfato ou da textura.",
+        "why": "Entender essa distinção explica por que a prova depende tanto do aroma e da sensação na boca, não apenas do que a língua sozinha detecta.",
+        "tip": "Tente isolar o gosto puro tapando o nariz enquanto prova algo; você notará quanta informação desaparece.",
+        "mistake": "Descrever uma nota de sabor complexa como 'mirtilo' como algo que a língua detecta, quando na verdade é uma percepção aromática.",
+        "challenge": "Se a língua detecta apenas cinco qualidades básicas, de onde realmente vem uma sensação como 'frutado'?"
+      }
+    },
+    "id": 167
+  },
+  {
+    "number": "168",
+    "title": "Psychophysics and Thresholds",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A detection threshold is the lowest concentration at which someone notices a compound is present; a recognition threshold is the higher concentration needed to identify what it actually is.",
+    "why": "This gap explains why a taster can sense 'something's different' about a cup well before they can name what that something is.",
+    "tip": "Give yourself permission to say 'something is off' during cupping even if you can't yet identify exactly what.",
+    "mistake": "Assuming an inability to name a flavor means you didn't actually perceive anything at all.",
+    "challenge": "Why might two tasters with identical detection thresholds still disagree about what a compound actually tastes like?",
+    "related": [
+      "065",
+      "167"
+    ],
+    "translations": {
+      "es": {
+        "title": "Psicofísica y Umbrales",
+        "definition": "El umbral de detección es la concentración más baja a la que alguien nota que un compuesto está presente; el umbral de reconocimiento es la concentración más alta necesaria para identificar qué es exactamente.",
+        "why": "Esta diferencia explica por qué un catador puede sentir que 'algo es distinto' en una taza mucho antes de poder nombrar qué es.",
+        "tip": "Date permiso de decir 'algo no está bien' durante la catación aunque aún no puedas identificar exactamente qué es.",
+        "mistake": "Suponer que no poder nombrar un sabor significa que en realidad no percibiste nada.",
+        "challenge": "¿Por qué dos catadores con umbrales de detección idénticos podrían seguir en desacuerdo sobre a qué sabe realmente un compuesto?"
+      },
+      "pt": {
+        "title": "Psicofísica e Limiares",
+        "definition": "O limiar de detecção é a concentração mais baixa em que alguém percebe que um composto está presente; o limiar de reconhecimento é a concentração mais alta necessária para identificar o que ele realmente é.",
+        "why": "Essa diferença explica por que um provador pode sentir que 'algo está diferente' em uma xícara bem antes de conseguir nomear o quê.",
+        "tip": "Permita-se dizer 'algo não está certo' durante a prova mesmo que ainda não consiga identificar exatamente o quê.",
+        "mistake": "Supor que não conseguir nomear um sabor significa que você não percebeu nada de fato.",
+        "challenge": "Por que dois provadores com limiares de detecção idênticos ainda poderiam discordar sobre o real sabor de um composto?"
+      }
+    },
+    "id": 168
+  },
+  {
+    "number": "169",
+    "title": "Cross-Modal Flavor Perception",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Senses outside taste and smell — sound, color, temperature, even the weight of a cup — measurably change how flavor is perceived.",
+    "why": "This is why serving vessel, lighting and environment genuinely affect how a coffee is experienced, not just its actual chemistry.",
+    "tip": "Notice how a coffee tastes different in a heavy ceramic mug versus a thin paper cup — the weight itself shifts perception.",
+    "mistake": "Assuming flavor perception is a purely chemical response, isolated from every other sense in the room.",
+    "challenge": "Why might a barista competition venue's lighting or noise level actually influence how judges score the coffee?",
+    "related": [
+      "063",
+      "057"
+    ],
+    "translations": {
+      "es": {
+        "title": "Percepción de Sabor Cross-Modal",
+        "definition": "Sentidos ajenos al gusto y el olfato —sonido, color, temperatura, incluso el peso de una taza— cambian de forma medible cómo se percibe el sabor.",
+        "why": "Por esto el recipiente de servicio, la iluminación y el entorno afectan genuinamente cómo se experimenta un café, no solo su química real.",
+        "tip": "Nota cómo sabe distinto un café en una taza de cerámica pesada frente a un vaso de papel delgado; el peso mismo cambia la percepción.",
+        "mistake": "Suponer que la percepción del sabor es una respuesta puramente química, aislada de cualquier otro sentido presente.",
+        "challenge": "¿Por qué la iluminación o el nivel de ruido en la sede de una competencia de baristas podría influir realmente en cómo los jueces puntúan el café?"
+      },
+      "pt": {
+        "title": "Percepção de Sabor Cross-Modal",
+        "definition": "Sentidos além do gosto e do olfato —som, cor, temperatura, até o peso de uma xícara— mudam de forma mensurável como o sabor é percebido.",
+        "why": "É por isso que o recipiente de serviço, a iluminação e o ambiente afetam genuinamente como um café é vivenciado, não apenas sua química real.",
+        "tip": "Perceba como um café tem sabor diferente em uma caneca de cerâmica pesada em comparação a um copo de papel fino; o peso em si muda a percepção.",
+        "mistake": "Supor que a percepção de sabor é uma resposta puramente química, isolada de qualquer outro sentido presente.",
+        "challenge": "Por que a iluminação ou o nível de ruído no local de uma competição de baristas poderia realmente influenciar como os jurados pontuam o café?"
+      }
+    },
+    "id": 169
+  },
+  {
+    "number": "170",
+    "title": "Supertasters and Non-Tasters",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Genetic variation in taste bud density means some people (supertasters) perceive bitterness and intensity far more strongly than others (non-tasters), with most people falling somewhere in between.",
+    "why": "This is a big part of why palates genuinely differ between people, not just a matter of experience or training.",
+    "tip": "When calibrating as a team, remember that a colleague's different palate sensitivity isn't necessarily wrong — it may be genuinely biological.",
+    "mistake": "Assuming everyone's baseline sensitivity to bitterness or intensity starts from the same place.",
+    "challenge": "Why might a supertaster and a non-taster genuinely disagree about whether the same coffee is 'too bitter'?",
+    "related": [
+      "060",
+      "065"
+    ],
+    "translations": {
+      "es": {
+        "title": "Supercatadores y No Catadores",
+        "definition": "La variación genética en la densidad de papilas gustativas hace que algunas personas (supercatadores) perciban el amargor y la intensidad mucho más fuerte que otras (no catadores), con la mayoría en un punto intermedio.",
+        "why": "Esta es gran parte de la razón por la que los paladares genuinamente difieren entre personas, no solo una cuestión de experiencia o entrenamiento.",
+        "tip": "Al calibrar en equipo, recuerda que la sensibilidad de paladar distinta de un colega no es necesariamente incorrecta; puede ser genuinamente biológica.",
+        "mistake": "Suponer que la sensibilidad base de todos al amargor o la intensidad parte del mismo punto.",
+        "challenge": "¿Por qué un supercatador y un no catador podrían discrepar genuinamente sobre si el mismo café es 'demasiado amargo'?"
+      },
+      "pt": {
+        "title": "Superprovadores e Não Provadores",
+        "definition": "A variação genética na densidade de papilas gustativas faz com que algumas pessoas (superprovadores) percebam o amargor e a intensidade muito mais fortemente do que outras (não provadores), com a maioria em algum ponto intermediário.",
+        "why": "Essa é grande parte da razão pela qual os paladares genuinamente diferem entre as pessoas, não apenas uma questão de experiência ou treinamento.",
+        "tip": "Ao calibrar em equipe, lembre-se de que a sensibilidade de paladar diferente de um colega não é necessariamente errada; pode ser genuinamente biológica.",
+        "mistake": "Supor que a sensibilidade básica de todos ao amargor ou à intensidade parte do mesmo ponto.",
+        "challenge": "Por que um superprovador e um não provador poderiam genuinamente discordar sobre se o mesmo café está 'amargo demais'?"
+      }
+    },
+    "id": 170
+  },
+  {
+    "number": "171",
+    "title": "Palate Fatigue and Sensory Adaptation",
+    "category": "SCI",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Repeated exposure to similar stimuli during a long cupping or tasting session causes sensitivity to gradually decline, known as sensory adaptation.",
+    "why": "It's a major reason cupping scores can drift over a long session, independent of any actual change in the coffee itself.",
+    "tip": "Taste your most important or most ambiguous samples earlier in a session, before fatigue sets in.",
+    "mistake": "Assuming a coffee tasted at the end of a long session is being judged as fairly as one tasted first.",
+    "challenge": "How might you structure a long cupping session specifically to minimize the effect of palate fatigue?",
+    "related": [
+      "065",
+      "168"
+    ],
+    "translations": {
+      "es": {
+        "title": "Fatiga del Paladar y Adaptación Sensorial",
+        "definition": "La exposición repetida a estímulos similares durante una sesión larga de catación provoca que la sensibilidad disminuya gradualmente, lo que se conoce como adaptación sensorial.",
+        "why": "Es una razón importante por la que las puntuaciones de catación pueden variar a lo largo de una sesión larga, independientemente de cualquier cambio real en el café.",
+        "tip": "Prueba tus muestras más importantes o ambiguas al principio de una sesión, antes de que aparezca la fatiga.",
+        "mistake": "Suponer que un café probado al final de una sesión larga se está juzgando con la misma justicia que uno probado al principio.",
+        "challenge": "¿Cómo podrías estructurar una sesión larga de catación específicamente para minimizar el efecto de la fatiga del paladar?"
+      },
+      "pt": {
+        "title": "Fadiga do Paladar e Adaptação Sensorial",
+        "definition": "A exposição repetida a estímulos semelhantes durante uma sessão longa de prova faz com que a sensibilidade diminua gradualmente, conhecida como adaptação sensorial.",
+        "why": "É uma razão importante pela qual as pontuações de prova podem variar ao longo de uma sessão longa, independentemente de qualquer mudança real no café.",
+        "tip": "Prove suas amostras mais importantes ou ambíguas no início de uma sessão, antes que a fadiga se instale.",
+        "mistake": "Supor que um café provado no fim de uma sessão longa está sendo julgado com a mesma justiça que um provado no início.",
+        "challenge": "Como você poderia estruturar uma sessão longa de prova especificamente para minimizar o efeito da fadiga do paladar?"
+      }
+    },
+    "id": 171
+  },
+  {
+    "number": "172",
+    "title": "The Flavor Wheel",
+    "category": "SCI",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A standardized visual lexicon of flavor and aroma descriptors, developed to give tasters a shared vocabulary for communicating what they perceive.",
+    "why": "Without shared vocabulary, two tasters can perceive the same thing but describe it so differently that they seem to disagree when they actually don't.",
+    "tip": "Use the wheel to narrow from broad categories toward more specific descriptors, rather than guessing a specific note first.",
+    "mistake": "Treating flavor wheel terms as the only correct way to describe a sensation, rather than as a shared communication tool.",
+    "challenge": "Why might two tasters use completely different words for the same underlying sensation without either being wrong?",
+    "related": [
+      "064",
+      "169"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Rueda de Sabores",
+        "definition": "Un léxico visual estandarizado de descriptores de sabor y aroma, desarrollado para dar a los catadores un vocabulario compartido para comunicar lo que perciben.",
+        "why": "Sin vocabulario compartido, dos catadores pueden percibir lo mismo pero describirlo de forma tan distinta que parecen estar en desacuerdo cuando en realidad no lo están.",
+        "tip": "Usa la rueda para pasar de categorías amplias a descriptores más específicos, en lugar de adivinar primero una nota concreta.",
+        "mistake": "Tratar los términos de la rueda de sabores como la única forma correcta de describir una sensación, en lugar de como una herramienta de comunicación compartida.",
+        "challenge": "¿Por qué dos catadores podrían usar palabras completamente distintas para la misma sensación subyacente sin que ninguno esté equivocado?"
+      },
+      "pt": {
+        "title": "A Roda de Sabores",
+        "definition": "Um léxico visual padronizado de descritores de sabor e aroma, desenvolvido para dar aos provadores um vocabulário compartilhado para comunicar o que percebem.",
+        "why": "Sem vocabulário compartilhado, dois provadores podem perceber a mesma coisa mas descrevê-la de forma tão diferente que parecem discordar quando na verdade não discordam.",
+        "tip": "Use a roda para ir de categorias amplas a descritores mais específicos, em vez de adivinhar uma nota específica primeiro.",
+        "mistake": "Tratar os termos da roda de sabores como a única forma correta de descrever uma sensação, em vez de uma ferramenta de comunicação compartilhada.",
+        "challenge": "Por que dois provadores poderiam usar palavras completamente diferentes para a mesma sensação subjacente sem que nenhum dos dois esteja errado?"
+      }
+    },
+    "id": 172
+  },
+  {
+    "number": "173",
+    "title": "Trigeminal Sensation",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The trigeminal nerve detects physical sensations like astringency, cooling and spiciness — a completely separate system from taste or smell.",
+    "why": "It's why sensations like astringency feel physical rather than flavorful, and why they persist differently than taste or aroma do.",
+    "tip": "When describing astringency, focus on the physical drying or puckering sensation rather than searching for a taste or aroma word.",
+    "mistake": "Trying to classify a purely trigeminal sensation like astringency as a taste or an aroma note.",
+    "challenge": "Why does astringency feel like it lingers differently in the mouth compared to a lingering aroma or aftertaste?",
+    "related": [
+      "062",
+      "167"
+    ],
+    "translations": {
+      "es": {
+        "title": "Sensación Trigeminal",
+        "definition": "El nervio trigémino detecta sensaciones físicas como la astringencia, el frescor y el picor; un sistema completamente separado del gusto o el olfato.",
+        "why": "Es la razón por la que sensaciones como la astringencia se sienten físicas en lugar de saborosas, y por qué persisten de forma distinta al gusto o al aroma.",
+        "tip": "Al describir la astringencia, enfócate en la sensación física de sequedad o aspereza en lugar de buscar una palabra de gusto o aroma.",
+        "mistake": "Intentar clasificar una sensación puramente trigeminal como la astringencia como una nota de gusto o de aroma.",
+        "challenge": "¿Por qué la astringencia parece persistir de forma distinta en la boca en comparación con un aroma o retrogusto persistente?"
+      },
+      "pt": {
+        "title": "Sensação Trigeminal",
+        "definition": "O nervo trigêmeo detecta sensações físicas como adstringência, resfriamento e picância; um sistema completamente separado do gosto ou do olfato.",
+        "why": "É a razão pela qual sensações como a adstringência parecem físicas em vez de saborosas, e por que persistem de forma diferente do gosto ou do aroma.",
+        "tip": "Ao descrever a adstringência, foque na sensação física de secura ou aspereza em vez de buscar uma palavra de gosto ou aroma.",
+        "mistake": "Tentar classificar uma sensação puramente trigeminal como a adstringência como uma nota de gosto ou de aroma.",
+        "challenge": "Por que a adstringência parece persistir de forma diferente na boca em comparação com um aroma ou retrogosto persistente?"
+      }
+    },
+    "id": 173
+  },
+  {
+    "number": "174",
+    "title": "Sensory Memory and Blind Tasting",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Prior expectations and memory of past tastes measurably bias current perception, which is exactly why blind tasting is used to reduce that influence.",
+    "why": "Knowing a coffee's origin, price or reputation in advance can shift how it's actually perceived, not just how it's described.",
+    "tip": "Cup blind whenever a genuinely unbiased evaluation matters, especially for purchasing or competition decisions.",
+    "mistake": "Assuming your evaluation is purely objective just because you're confident in your palate.",
+    "challenge": "Why might revealing a coffee's price before tasting it change how good it actually seems to taste?",
+    "related": [
+      "065",
+      "168"
+    ],
+    "translations": {
+      "es": {
+        "title": "Memoria Sensorial y Catación a Ciegas",
+        "definition": "Las expectativas previas y el recuerdo de sabores pasados sesgan de forma medible la percepción actual, que es exactamente la razón por la que se usa la catación a ciegas para reducir esa influencia.",
+        "why": "Conocer de antemano el origen, precio o reputación de un café puede cambiar cómo se percibe realmente, no solo cómo se describe.",
+        "tip": "Cata a ciegas siempre que una evaluación genuinamente imparcial importe, especialmente para decisiones de compra o competencia.",
+        "mistake": "Suponer que tu evaluación es puramente objetiva solo porque confías en tu paladar.",
+        "challenge": "¿Por qué revelar el precio de un café antes de probarlo podría cambiar cuán bueno realmente parece saber?"
+      },
+      "pt": {
+        "title": "Memória Sensorial e Prova às Cegas",
+        "definition": "Expectativas prévias e a memória de sabores passados enviesam de forma mensurável a percepção atual, exatamente por isso a prova às cegas é usada para reduzir essa influência.",
+        "why": "Saber de antemão a origem, o preço ou a reputação de um café pode mudar como ele é realmente percebido, não apenas como é descrito.",
+        "tip": "Prove às cegas sempre que uma avaliação genuinamente imparcial importar, especialmente para decisões de compra ou competição.",
+        "mistake": "Supor que sua avaliação é puramente objetiva só porque você confia no seu paladar.",
+        "challenge": "Por que revelar o preço de um café antes de prová-lo poderia mudar o quão bom ele realmente parece ter de sabor?"
+      }
+    },
+    "id": 174
   }
 ]

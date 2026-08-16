@@ -358,5 +358,322 @@
         "challenge": "Quando você escolheria um blend em vez de uma origem única?"
       }
     }
+  },
+  {
+    "number": "130",
+    "title": "Ethiopia: Yirgacheffe",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A washed-coffee region in southern Ethiopia known for intensely floral, citrus-driven cups often described as tea-like.",
+    "why": "It's widely considered the archetype for what washed Ethiopian coffee can taste like, and a benchmark many other origins get compared against.",
+    "tip": "Brew it lighter and let the aromatics lead — over-extraction buries the delicacy that makes Yirgacheffe distinctive.",
+    "mistake": "Assuming all Ethiopian coffee tastes like Yirgacheffe — the country's regions vary enormously.",
+    "challenge": "What processing method is Yirgacheffe most associated with, and how does that shape its flavor?",
+    "related": [
+      "092",
+      "077",
+      "088"
+    ],
+    "translations": {
+      "es": {
+        "title": "Etiopía: Yirgacheffe",
+        "definition": "Una región de café lavado en el sur de Etiopía, conocida por tazas intensamente florales y cítricas, a menudo descritas como parecidas al té.",
+        "why": "Es ampliamente considerada el arquetipo de lo que puede saber el café lavado etíope, y un punto de referencia con el que se compara a otros orígenes.",
+        "tip": "Prepáralo más suave y deja que los aromáticos guíen la experiencia; la sobreextracción entierra la delicadeza que hace distintivo a Yirgacheffe.",
+        "mistake": "Suponer que todo el café etíope sabe como Yirgacheffe; las regiones del país varían enormemente.",
+        "challenge": "¿Con qué método de procesamiento se asocia más Yirgacheffe, y cómo moldea eso su sabor?"
+      },
+      "pt": {
+        "title": "Etiópia: Yirgacheffe",
+        "definition": "Uma região de café lavado no sul da Etiópia, conhecida por xícaras intensamente florais e cítricas, muitas vezes descritas como parecidas com chá.",
+        "why": "É amplamente considerada o arquétipo do que pode ser o sabor do café lavado etíope, e um ponto de referência com o qual outras origens são comparadas.",
+        "tip": "Prepare-o mais leve e deixe os aromáticos liderarem; a superextração enterra a delicadeza que torna Yirgacheffe distinto.",
+        "mistake": "Supor que todo café etíope tem o sabor de Yirgacheffe; as regiões do país variam enormemente.",
+        "challenge": "A qual método de processamento Yirgacheffe está mais associado, e como isso molda seu sabor?"
+      }
+    }
+  },
+  {
+    "number": "131",
+    "title": "Ethiopia: Guji",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A southern Ethiopian region that rose to prominence largely through natural-processed lots with intense blueberry and strawberry character.",
+    "why": "Guji naturals are a big part of why natural process gained serious credibility in specialty coffee over the last decade.",
+    "tip": "Cup Guji naturals side by side with a Yirgacheffe washed lot to hear exactly what processing changes.",
+    "mistake": "Treating 'fruity' as automatically meaning 'fermented' or 'defective' — that intensity is often intentional and controlled.",
+    "challenge": "Why might a buyer specifically seek out Guji for a natural-process offering rather than Yirgacheffe?",
+    "related": [
+      "078",
+      "092",
+      "081"
+    ],
+    "translations": {
+      "es": {
+        "title": "Etiopía: Guji",
+        "definition": "Una región del sur de Etiopía que ganó reconocimiento principalmente por sus lotes de proceso natural con intenso carácter a arándano y fresa.",
+        "why": "Los naturales de Guji son gran parte de la razón por la que el proceso natural ganó credibilidad seria en el café de especialidad en la última década.",
+        "tip": "Cata los naturales de Guji junto a un lavado de Yirgacheffe para escuchar exactamente qué cambia el procesamiento.",
+        "mistake": "Tratar 'afrutado' como sinónimo automático de 'fermentado' o 'defectuoso'; esa intensidad suele ser intencional y controlada.",
+        "challenge": "¿Por qué un comprador buscaría específicamente Guji para una oferta de proceso natural en lugar de Yirgacheffe?"
+      },
+      "pt": {
+        "title": "Etiópia: Guji",
+        "definition": "Uma região do sul da Etiópia que ganhou destaque principalmente por seus lotes de processo natural com intenso caráter de mirtilo e morango.",
+        "why": "Os naturais de Guji são grande parte da razão pela qual o processo natural ganhou credibilidade séria no café especial na última década.",
+        "tip": "Prove os naturais de Guji lado a lado com um lavado de Yirgacheffe para perceber exatamente o que o processamento muda.",
+        "mistake": "Tratar 'frutado' como sinônimo automático de 'fermentado' ou 'defeituoso'; essa intensidade costuma ser intencional e controlada.",
+        "challenge": "Por que um comprador buscaria especificamente Guji para uma oferta de processo natural em vez de Yirgacheffe?"
+      }
+    }
+  },
+  {
+    "number": "132",
+    "title": "Colombia: Huila",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Colombia's most productive coffee-growing department, known for balanced sweetness and reliable quality across a huge number of small farms.",
+    "why": "Huila alone supplies a large share of Colombia's specialty exports, making it the backbone of much of the country's reputation.",
+    "tip": "Use Huila as your baseline for what 'classic Colombian' tastes like before exploring more extreme regional profiles.",
+    "mistake": "Assuming a huge growing region can only produce generic, unremarkable coffee.",
+    "challenge": "Why does Colombia's huge number of small farms (rather than few large estates) shape how its coffee is bought and sold?",
+    "related": [
+      "093",
+      "089"
+    ],
+    "translations": {
+      "es": {
+        "title": "Colombia: Huila",
+        "definition": "El departamento cafetero más productivo de Colombia, conocido por su dulzura equilibrada y calidad confiable en una enorme cantidad de pequeñas fincas.",
+        "why": "Huila por sí sola suministra gran parte de las exportaciones de especialidad de Colombia, siendo la columna vertebral de la reputación del país.",
+        "tip": "Usa Huila como tu punto de referencia para lo que sabe el 'colombiano clásico' antes de explorar perfiles regionales más extremos.",
+        "mistake": "Suponer que una región de cultivo tan grande solo puede producir café genérico y poco destacable.",
+        "challenge": "¿Por qué el enorme número de pequeñas fincas de Colombia (en lugar de pocas grandes haciendas) moldea la forma en que se compra y vende su café?"
+      },
+      "pt": {
+        "title": "Colômbia: Huila",
+        "definition": "O departamento cafeeiro mais produtivo da Colômbia, conhecido por sua doçura equilibrada e qualidade confiável em um enorme número de pequenas fazendas.",
+        "why": "Huila sozinha fornece grande parte das exportações especiais da Colômbia, sendo a espinha dorsal da reputação do país.",
+        "tip": "Use Huila como sua referência para o que é o 'colombiano clássico' antes de explorar perfis regionais mais extremos.",
+        "mistake": "Supor que uma região de cultivo tão grande só pode produzir café genérico e sem destaque.",
+        "challenge": "Por que o enorme número de pequenas fazendas da Colômbia (em vez de poucas grandes propriedades) molda a forma como seu café é comprado e vendido?"
+      }
+    }
+  },
+  {
+    "number": "133",
+    "title": "Colombia: Nariño",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A high-altitude region near the Ecuadorian border, some of the highest coffee-growing land in Colombia, producing bright, structured acidity.",
+    "why": "Its extreme altitude and near-equator latitude combine to slow cherry maturation, concentrating sugars and acids.",
+    "tip": "Expect more pronounced acidity here than in most other Colombian regions — it's part of the signature, not a flaw.",
+    "mistake": "Judging Nariño by the same flavor expectations as lower-altitude Huila.",
+    "challenge": "Why does growing near the equator, rather than latitude alone, allow such high-altitude cultivation here?",
+    "related": [
+      "087",
+      "093"
+    ],
+    "translations": {
+      "es": {
+        "title": "Colombia: Nariño",
+        "definition": "Una región de gran altitud cerca de la frontera con Ecuador, entre las tierras cafeteras más altas de Colombia, que produce una acidez brillante y estructurada.",
+        "why": "Su altitud extrema y su latitud cercana al ecuador se combinan para ralentizar la maduración de la cereza, concentrando azúcares y ácidos.",
+        "tip": "Espera una acidez más pronunciada aquí que en la mayoría de las demás regiones colombianas; es parte de su firma, no un defecto.",
+        "mistake": "Juzgar Nariño con las mismas expectativas de sabor que Huila, de menor altitud.",
+        "challenge": "¿Por qué cultivar cerca del ecuador, más que la latitud por sí sola, permite un cultivo a tanta altitud aquí?"
+      },
+      "pt": {
+        "title": "Colômbia: Nariño",
+        "definition": "Uma região de grande altitude perto da fronteira com o Equador, entre as terras cafeeiras mais altas da Colômbia, produzindo uma acidez brilhante e estruturada.",
+        "why": "Sua altitude extrema e sua latitude próxima ao equador se combinam para desacelerar a maturação da cereja, concentrando açúcares e ácidos.",
+        "tip": "Espere uma acidez mais pronunciada aqui do que na maioria das outras regiões colombianas; é parte de sua assinatura, não um defeito.",
+        "mistake": "Julgar Nariño com as mesmas expectativas de sabor de Huila, de menor altitude.",
+        "challenge": "Por que cultivar perto do equador, mais do que a latitude sozinha, permite um cultivo em altitude tão elevada aqui?"
+      }
+    }
+  },
+  {
+    "number": "134",
+    "title": "Kenya: AA/AB Grading",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Kenya's screen-size-based grading system, where AA refers to the largest bean size, followed by AB and smaller grades.",
+    "why": "It's one of the most misunderstood grading systems in coffee — size-based, not quality-based.",
+    "tip": "Always cup Kenyan lots regardless of grade — some of the best cups on record have been AB, not AA.",
+    "mistake": "Assuming AA is automatically the best-tasting grade because it sounds premium.",
+    "challenge": "If AA doesn't guarantee quality, why does it still command higher prices?",
+    "related": [
+      "069",
+      "092"
+    ],
+    "translations": {
+      "es": {
+        "title": "Kenia: Clasificación AA/AB",
+        "definition": "El sistema de clasificación de Kenia basado en el tamaño de malla, donde AA se refiere al tamaño de grano más grande, seguido de AB y grados menores.",
+        "why": "Es uno de los sistemas de clasificación más incomprendidos del café: se basa en el tamaño, no en la calidad.",
+        "tip": "Cata siempre los lotes kenianos sin importar el grado; algunas de las mejores tazas registradas han sido AB, no AA.",
+        "mistake": "Suponer que AA es automáticamente el grado de mejor sabor solo porque suena premium.",
+        "challenge": "Si AA no garantiza calidad, ¿por qué sigue teniendo precios más altos?"
+      },
+      "pt": {
+        "title": "Quênia: Classificação AA/AB",
+        "definition": "O sistema de classificação do Quênia baseado no tamanho da peneira, em que AA se refere ao maior tamanho de grão, seguido por AB e graus menores.",
+        "why": "É um dos sistemas de classificação mais mal compreendidos no café: baseado em tamanho, não em qualidade.",
+        "tip": "Sempre prove os lotes quenianos independentemente do grau; algumas das melhores xícaras já registradas foram AB, não AA.",
+        "mistake": "Supor que AA é automaticamente o grau de melhor sabor só porque soa premium.",
+        "challenge": "Se AA não garante qualidade, por que ainda tem preços mais altos?"
+      }
+    }
+  },
+  {
+    "number": "135",
+    "title": "Guatemala: Antigua",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A historic growing valley surrounded by three volcanoes, producing coffee with distinctive smoky, spicy complexity from its rich volcanic soil.",
+    "why": "It's one of the oldest protected coffee designations in the world and a reference point for volcanic-soil character.",
+    "tip": "Look for a soft smokiness alongside chocolate and spice notes — that's the Antigua signature.",
+    "mistake": "Confusing Antigua the coffee region with Antigua the colonial city it surrounds — the growing area extends well beyond it.",
+    "challenge": "How might volcanic soil composition influence coffee flavor differently than typical tropical soil?",
+    "related": [
+      "091",
+      "088"
+    ],
+    "translations": {
+      "es": {
+        "title": "Guatemala: Antigua",
+        "definition": "Un histórico valle cafetero rodeado por tres volcanes, que produce café con una complejidad distintiva ahumada y especiada gracias a su rico suelo volcánico.",
+        "why": "Es una de las denominaciones de café protegidas más antiguas del mundo y un punto de referencia para el carácter del suelo volcánico.",
+        "tip": "Busca un ahumado suave junto con notas de chocolate y especias; esa es la firma de Antigua.",
+        "mistake": "Confundir Antigua la región cafetera con Antigua la ciudad colonial que rodea; el área de cultivo se extiende mucho más allá.",
+        "challenge": "¿Cómo podría la composición del suelo volcánico influir en el sabor del café de manera diferente al suelo tropical típico?"
+      },
+      "pt": {
+        "title": "Guatemala: Antigua",
+        "definition": "Um histórico vale cafeeiro cercado por três vulcões, produzindo café com uma complexidade distinta, defumada e especiada, graças ao seu rico solo vulcânico.",
+        "why": "É uma das denominações de café protegidas mais antigas do mundo e uma referência para o caráter do solo vulcânico.",
+        "tip": "Procure um leve toque defumado junto com notas de chocolate e especiarias; essa é a assinatura de Antigua.",
+        "mistake": "Confundir Antigua a região cafeeira com Antigua a cidade colonial que ela cerca; a área de cultivo se estende bem além dela.",
+        "challenge": "Como a composição do solo vulcânico poderia influenciar o sabor do café de forma diferente do solo tropical típico?"
+      }
+    }
+  },
+  {
+    "number": "136",
+    "title": "Panama: Boquete and the Geisha Boom",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A high-altitude Panamanian region that became world-famous after Hacienda La Esmeralda's Geisha variety won Best of Panama in 2004, redefining what buyers would pay for exceptional coffee.",
+    "why": "It single-handedly changed the ceiling on coffee auction prices and put an entire variety on the map worldwide.",
+    "tip": "Geisha from Boquete tends toward intense jasmine, bergamot and tropical fruit — taste it once to understand the hype.",
+    "mistake": "Assuming every Geisha-labeled coffee will deliver Esmeralda-level quality just because of the variety name.",
+    "challenge": "What does the Boquete story reveal about how much variety and terroir can outweigh processing alone?",
+    "related": [
+      "089",
+      "091"
+    ],
+    "translations": {
+      "es": {
+        "title": "Panamá: Boquete y el Boom de Geisha",
+        "definition": "Una región panameña de gran altitud que se hizo mundialmente famosa después de que la variedad Geisha de Hacienda La Esmeralda ganara el Best of Panama en 2004, redefiniendo lo que los compradores pagarían por un café excepcional.",
+        "why": "Cambió por sí sola el techo de los precios en subastas de café y puso a toda una variedad en el mapa mundial.",
+        "tip": "El Geisha de Boquete tiende hacia intenso jazmín, bergamota y fruta tropical; pruébalo una vez para entender el fenómeno.",
+        "mistake": "Suponer que todo café etiquetado como Geisha ofrecerá una calidad al nivel de Esmeralda solo por el nombre de la variedad.",
+        "challenge": "¿Qué revela la historia de Boquete sobre cuánto pueden pesar la variedad y el terruño por encima del procesamiento por sí solo?"
+      },
+      "pt": {
+        "title": "Panamá: Boquete e o Boom do Geisha",
+        "definition": "Uma região panamenha de grande altitude que se tornou mundialmente famosa depois que a variedade Geisha da Hacienda La Esmeralda venceu o Best of Panama em 2004, redefinindo o quanto os compradores pagariam por um café excepcional.",
+        "why": "Isso mudou sozinho o teto dos preços em leilões de café e colocou uma variedade inteira no mapa mundial.",
+        "tip": "O Geisha de Boquete tende a jasmim intenso, bergamota e fruta tropical; prove uma vez para entender o fenômeno.",
+        "mistake": "Supor que todo café rotulado como Geisha entregará qualidade no nível da Esmeralda só pelo nome da variedade.",
+        "challenge": "O que a história de Boquete revela sobre o quanto a variedade e o terroir podem superar o processamento sozinho?"
+      }
+    }
+  },
+  {
+    "number": "137",
+    "title": "Brazil: Cerrado",
+    "category": "ORG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A relatively flat, high-altitude plateau region that enabled Brazil to mechanize harvesting at massive scale, producing nutty, chocolatey, low-acid coffee.",
+    "why": "Its flat terrain (unlike most steep coffee-growing land) is exactly why Brazil became the world's largest coffee producer.",
+    "tip": "Use Cerrado as a reference point for what mechanically-harvested coffee can still taste like when done well.",
+    "mistake": "Assuming mechanized harvesting always means lower quality — Cerrado consistently disproves that.",
+    "challenge": "Why does flat terrain matter so much for harvest method and cost?",
+    "related": [
+      "093",
+      "095"
+    ],
+    "translations": {
+      "es": {
+        "title": "Brasil: Cerrado",
+        "definition": "Una meseta relativamente plana y de gran altitud que permitió a Brasil mecanizar la cosecha a escala masiva, produciendo café con notas a nuez y chocolate, y baja acidez.",
+        "why": "Su terreno plano (a diferencia de la mayoría de las tierras cafeteras empinadas) es precisamente por lo que Brasil se convirtió en el mayor productor de café del mundo.",
+        "tip": "Usa Cerrado como referencia de lo que puede seguir sabiendo el café cosechado mecánicamente cuando se hace bien.",
+        "mistake": "Suponer que la cosecha mecanizada siempre significa menor calidad; Cerrado lo desmiente constantemente.",
+        "challenge": "¿Por qué importa tanto el terreno plano para el método de cosecha y el costo?"
+      },
+      "pt": {
+        "title": "Brasil: Cerrado",
+        "definition": "Um planalto relativamente plano e de grande altitude que permitiu ao Brasil mecanizar a colheita em escala massiva, produzindo café com notas de castanha e chocolate, e baixa acidez.",
+        "why": "Seu terreno plano (diferente da maioria das terras cafeeiras íngremes) é exatamente o motivo pelo qual o Brasil se tornou o maior produtor de café do mundo.",
+        "tip": "Use o Cerrado como referência do que o café colhido mecanicamente ainda pode ter de sabor quando bem feito.",
+        "mistake": "Supor que a colheita mecanizada sempre significa menor qualidade; o Cerrado desmente isso constantemente.",
+        "challenge": "Por que o terreno plano importa tanto para o método de colheita e o custo?"
+      }
+    }
+  },
+  {
+    "number": "138",
+    "title": "Costa Rica: Tarrazú",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A mountainous region south of San José known for pioneering the honey-process micro-mill movement that reshaped how small Costa Rican farms compete.",
+    "why": "Tarrazú's micro-mills let individual farms process and market their own coffee instead of selling cherry to large mills, changing who captures value in the supply chain.",
+    "tip": "Look for clean, bright, citrusy cups with a distinct sweetness typical of honey-processed Tarrazú lots.",
+    "mistake": "Assuming 'micro-mill' automatically means small-scale or hobbyist — many produce serious commercial volume.",
+    "challenge": "How did the rise of micro-mills change who profits from a bag of Costa Rican coffee?",
+    "related": [
+      "079",
+      "091"
+    ],
+    "translations": {
+      "es": {
+        "title": "Costa Rica: Tarrazú",
+        "definition": "Una región montañosa al sur de San José, conocida por ser pionera del movimiento de micro-beneficios con proceso honey que transformó la forma en que compiten las pequeñas fincas costarricenses.",
+        "why": "Los micro-beneficios de Tarrazú permiten que fincas individuales procesen y comercialicen su propio café en lugar de vender cereza a grandes beneficios, cambiando quién capta el valor en la cadena de suministro.",
+        "tip": "Busca tazas limpias, brillantes y cítricas con una dulzura distintiva, típica de los lotes honey de Tarrazú.",
+        "mistake": "Suponer que 'micro-beneficio' significa automáticamente pequeña escala o afición; muchos producen un volumen comercial serio.",
+        "challenge": "¿Cómo cambió el auge de los micro-beneficios quién se beneficia de una bolsa de café costarricense?"
+      },
+      "pt": {
+        "title": "Costa Rica: Tarrazú",
+        "definition": "Uma região montanhosa ao sul de San José, conhecida por ser pioneira no movimento de micro-beneficiamentos com processo honey que transformou a forma como as pequenas fazendas costarriquenhas competem.",
+        "why": "Os micro-beneficiamentos de Tarrazú permitem que fazendas individuais processem e comercializem seu próprio café em vez de vender cereja a grandes beneficiamentos, mudando quem capta valor na cadeia de suprimentos.",
+        "tip": "Procure xícaras limpas, brilhantes e cítricas com uma doçura distinta, típica dos lotes honey de Tarrazú.",
+        "mistake": "Supor que 'micro-beneficiamento' significa automaticamente pequena escala ou hobby; muitos produzem volume comercial sério.",
+        "challenge": "Como a ascensão dos micro-beneficiamentos mudou quem lucra com um saco de café costarriquenho?"
+      }
+    }
   }
 ]

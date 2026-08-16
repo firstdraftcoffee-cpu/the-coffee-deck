@@ -1,0 +1,318 @@
+[
+  {
+    "number": "148",
+    "title": "Casein Proteins",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The most abundant protein group in milk, existing as tiny clustered particles called micelles that stay suspended and give milk its white color.",
+    "why": "Casein's structure is a big part of why steamed milk holds its shape and body rather than collapsing instantly.",
+    "tip": "Casein coagulates under heat and acid — that's the same mechanism behind cheese-making, not just a steaming quirk.",
+    "mistake": "Assuming all milk proteins behave the same way under heat — casein and whey respond very differently.",
+    "challenge": "Why does milk curdle when both heat and acid (like citrus or old milk) are present together?",
+    "related": [
+      "017",
+      "149"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proteínas de Caseína",
+        "definition": "El grupo de proteínas más abundante en la leche, presente como diminutas partículas agrupadas llamadas micelas que permanecen en suspensión y le dan a la leche su color blanco.",
+        "why": "La estructura de la caseína es gran parte de la razón por la que la leche vaporizada mantiene su forma y cuerpo en lugar de colapsar de inmediato.",
+        "tip": "La caseína coagula con el calor y el ácido; ese es el mismo mecanismo detrás de la elaboración del queso, no solo una peculiaridad del vaporizado.",
+        "mistake": "Suponer que todas las proteínas de la leche se comportan igual bajo calor; la caseína y el suero responden de forma muy diferente.",
+        "challenge": "¿Por qué se corta la leche cuando hay calor y ácido presentes juntos (como cítricos o leche vieja)?"
+      },
+      "pt": {
+        "title": "Proteínas de Caseína",
+        "definition": "O grupo de proteínas mais abundante no leite, presente como pequenas partículas agrupadas chamadas micelas que permanecem em suspensão e dão ao leite sua cor branca.",
+        "why": "A estrutura da caseína é grande parte da razão pela qual o leite vaporizado mantém sua forma e corpo em vez de colapsar imediatamente.",
+        "tip": "A caseína coagula com calor e ácido; esse é o mesmo mecanismo por trás da fabricação de queijo, não apenas uma peculiaridade da vaporização.",
+        "mistake": "Supor que todas as proteínas do leite se comportam da mesma forma sob calor; caseína e soro respondem de maneira muito diferente.",
+        "challenge": "Por que o leite talha quando calor e ácido (como cítricos ou leite velho) estão presentes juntos?"
+      }
+    }
+  },
+  {
+    "number": "149",
+    "title": "Whey Proteins",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The minority protein group in milk, more heat-sensitive than casein and central to how foam actually forms and stabilizes.",
+    "why": "Whey proteins unfold and trap air more readily than casein, making them the real workhorses behind microfoam texture.",
+    "tip": "Overheating milk denatures whey proteins excessively, which is part of why scalded milk loses foaming ability.",
+    "mistake": "Blaming poor foam only on technique when the milk itself may already be past its ideal temperature for whey structure.",
+    "challenge": "Why might two milks with identical fat content still foam completely differently?",
+    "related": [
+      "148",
+      "156"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proteínas del Suero",
+        "definition": "El grupo minoritario de proteínas en la leche, más sensible al calor que la caseína y central en cómo se forma y estabiliza realmente la espuma.",
+        "why": "Las proteínas del suero se despliegan y atrapan aire más fácilmente que la caseína, siendo las verdaderas responsables de la textura del microfoam.",
+        "tip": "Sobrecalentar la leche desnaturaliza en exceso las proteínas del suero, lo que en parte explica por qué la leche escaldada pierde capacidad de espumar.",
+        "mistake": "Culpar solo a la técnica por una espuma pobre cuando la leche misma puede haber superado ya su temperatura ideal para la estructura del suero.",
+        "challenge": "¿Por qué dos leches con el mismo contenido de grasa podrían espumar de forma completamente distinta?"
+      },
+      "pt": {
+        "title": "Proteínas do Soro",
+        "definition": "O grupo minoritário de proteínas no leite, mais sensível ao calor do que a caseína e central para como a espuma realmente se forma e se estabiliza.",
+        "why": "As proteínas do soro se desdobram e prendem ar mais facilmente do que a caseína, sendo as verdadeiras responsáveis pela textura do microfoam.",
+        "tip": "Superaquecer o leite desnatura excessivamente as proteínas do soro, o que em parte explica por que o leite escaldado perde a capacidade de espumar.",
+        "mistake": "Culpar apenas a técnica por uma espuma ruim quando o próprio leite já pode ter ultrapassado sua temperatura ideal para a estrutura do soro.",
+        "challenge": "Por que dois leites com o mesmo teor de gordura poderiam espumar de forma completamente diferente?"
+      }
+    }
+  },
+  {
+    "number": "150",
+    "title": "Milk Fat and Mouthfeel",
+    "category": "MLS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The fat content and fat globule structure in milk directly shape body, richness and how texture is perceived in the mouth.",
+    "why": "Fat coats the palate and slows how quickly other flavors are perceived, changing the whole drinking experience, not just 'creaminess'.",
+    "tip": "Compare whole, semi-skimmed and skimmed milk side by side to isolate what fat alone contributes to mouthfeel.",
+    "mistake": "Assuming higher fat always means better foam — fat can actually work against foam stability past a certain point.",
+    "challenge": "Why might a barista choose a lower-fat milk specifically for latte art rather than whole milk?",
+    "related": [
+      "151",
+      "156"
+    ],
+    "translations": {
+      "es": {
+        "title": "Grasa de la Leche y Sensación en Boca",
+        "definition": "El contenido de grasa y la estructura de los glóbulos grasos en la leche moldean directamente el cuerpo, la riqueza y cómo se percibe la textura en boca.",
+        "why": "La grasa recubre el paladar y ralentiza la percepción de otros sabores, cambiando toda la experiencia de beber, no solo la 'cremosidad'.",
+        "tip": "Compara leche entera, semidesnatada y desnatada una junto a otra para aislar lo que aporta la grasa por sí sola a la sensación en boca.",
+        "mistake": "Suponer que más grasa siempre significa mejor espuma; la grasa en realidad puede trabajar contra la estabilidad de la espuma a partir de cierto punto.",
+        "challenge": "¿Por qué un barista podría elegir una leche con menos grasa específicamente para latte art en lugar de leche entera?"
+      },
+      "pt": {
+        "title": "Gordura do Leite e Sensação na Boca",
+        "definition": "O teor de gordura e a estrutura dos glóbulos de gordura no leite moldam diretamente o corpo, a riqueza e como a textura é percebida na boca.",
+        "why": "A gordura reveste o paladar e retarda a percepção de outros sabores, mudando toda a experiência de beber, não apenas a 'cremosidade'.",
+        "tip": "Compare leite integral, semidesnatado e desnatado lado a lado para isolar o que a gordura sozinha contribui para a sensação na boca.",
+        "mistake": "Supor que mais gordura sempre significa melhor espuma; a gordura na verdade pode prejudicar a estabilidade da espuma a partir de certo ponto.",
+        "challenge": "Por que um barista poderia escolher um leite com menos gordura especificamente para latte art em vez de leite integral?"
+      }
+    }
+  },
+  {
+    "number": "151",
+    "title": "Fat Globule Size",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Homogenization breaks milk fat into much smaller, evenly distributed globules than raw milk naturally has.",
+    "why": "Smaller, evenly distributed fat globules are why modern homogenized milk doesn't separate into a visible cream layer.",
+    "tip": "Non-homogenized milk can behave noticeably differently when steamed — don't assume all whole milk foams identically.",
+    "mistake": "Assuming fat content alone predicts foaming behavior without accounting for how that fat is physically distributed.",
+    "challenge": "Why does breaking fat into smaller globules change how milk looks and pours, not just how it tastes?",
+    "related": [
+      "150",
+      "156"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tamaño del Glóbulo Graso",
+        "definition": "La homogeneización rompe la grasa de la leche en glóbulos mucho más pequeños y distribuidos uniformemente que los que tiene naturalmente la leche cruda.",
+        "why": "Los glóbulos de grasa más pequeños y uniformemente distribuidos son la razón por la que la leche homogeneizada moderna no se separa en una capa visible de nata.",
+        "tip": "La leche no homogeneizada puede comportarse de forma notablemente distinta al vaporizarse; no supongas que toda leche entera espuma igual.",
+        "mistake": "Suponer que el contenido de grasa por sí solo predice el comportamiento de la espuma sin tener en cuenta cómo está distribuida físicamente esa grasa.",
+        "challenge": "¿Por qué romper la grasa en glóbulos más pequeños cambia cómo se ve y se vierte la leche, no solo su sabor?"
+      },
+      "pt": {
+        "title": "Tamanho do Glóbulo de Gordura",
+        "definition": "A homogeneização quebra a gordura do leite em glóbulos muito menores e distribuídos uniformemente do que os que o leite cru naturalmente possui.",
+        "why": "Glóbulos de gordura menores e uniformemente distribuídos são a razão pela qual o leite homogeneizado moderno não se separa em uma camada visível de nata.",
+        "tip": "O leite não homogeneizado pode se comportar de forma notavelmente diferente ao ser vaporizado; não suponha que todo leite integral espuma igual.",
+        "mistake": "Supor que o teor de gordura sozinho prevê o comportamento da espuma sem considerar como essa gordura está fisicamente distribuída.",
+        "challenge": "Por que quebrar a gordura em glóbulos menores muda como o leite parece e é despejado, não apenas seu sabor?"
+      }
+    }
+  },
+  {
+    "number": "152",
+    "title": "Lactose and Perceived Sweetness",
+    "category": "MLS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Lactose is milk's natural sugar, and heat measurably increases how sweet steamed milk tastes compared to cold milk.",
+    "why": "This is why a well-steamed latte can taste noticeably sweeter than the same milk poured cold, with no sugar added at all.",
+    "tip": "Taste milk cold, then steamed, side by side — the sweetness shift is real and repeatable, not just perception.",
+    "mistake": "Assuming a sweeter-tasting milk drink must contain added sugar rather than recognizing lactose's own heat response.",
+    "challenge": "Why would overheating milk past the ideal range actually reduce perceived sweetness rather than increase it further?",
+    "related": [
+      "148",
+      "017"
+    ],
+    "translations": {
+      "es": {
+        "title": "Lactosa y Dulzura Percibida",
+        "definition": "La lactosa es el azúcar natural de la leche, y el calor aumenta de forma medible cuánto más dulce sabe la leche vaporizada en comparación con la leche fría.",
+        "why": "Esta es la razón por la que un latte bien vaporizado puede saber notablemente más dulce que la misma leche servida fría, sin ningún azúcar añadido.",
+        "tip": "Prueba la leche fría y luego vaporizada, una junto a la otra; el cambio en dulzura es real y repetible, no solo percepción.",
+        "mistake": "Suponer que una bebida de leche más dulce debe contener azúcar añadida en lugar de reconocer la respuesta propia de la lactosa al calor.",
+        "challenge": "¿Por qué sobrecalentar la leche más allá del rango ideal en realidad reduciría la dulzura percibida en lugar de aumentarla más?"
+      },
+      "pt": {
+        "title": "Lactose e Doçura Percebida",
+        "definition": "A lactose é o açúcar natural do leite, e o calor aumenta de forma mensurável o quanto mais doce o leite vaporizado tem sabor em comparação ao leite frio.",
+        "why": "Esta é a razão pela qual um latte bem vaporizado pode ter sabor visivelmente mais doce do que o mesmo leite servido frio, sem nenhum açúcar adicionado.",
+        "tip": "Prove o leite frio e depois vaporizado, lado a lado; a mudança na doçura é real e repetível, não apenas percepção.",
+        "mistake": "Supor que uma bebida de leite mais doce deve conter açúcar adicionado em vez de reconhecer a própria resposta da lactose ao calor.",
+        "challenge": "Por que superaquecer o leite além da faixa ideal na verdade reduziria a doçura percebida em vez de aumentá-la ainda mais?"
+      }
+    }
+  },
+  {
+    "number": "153",
+    "title": "UHT vs Pasteurized Milk",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "UHT (ultra-high temperature) milk is heated far hotter and faster than standard pasteurized milk, denaturing proteins more heavily for long shelf life.",
+    "why": "That extra heat treatment is exactly why UHT milk often steams and foams differently than fresh pasteurized milk.",
+    "tip": "If a milk behaves unexpectedly under the steam wand, check whether it's UHT before blaming technique.",
+    "mistake": "Assuming all shelf-stable and fresh milks are functionally identical for steaming purposes.",
+    "challenge": "Why would heavier heat processing during production affect how milk responds to a second round of heating at the espresso bar?",
+    "related": [
+      "149",
+      "017"
+    ],
+    "translations": {
+      "es": {
+        "title": "UHT vs. Leche Pasteurizada",
+        "definition": "La leche UHT (ultra alta temperatura) se calienta mucho más fuerte y rápido que la pasteurización estándar, desnaturalizando más las proteínas para lograr una vida útil más larga.",
+        "why": "Ese tratamiento térmico adicional es exactamente la razón por la que la leche UHT suele vaporizarse y espumar de forma diferente a la leche pasteurizada fresca.",
+        "tip": "Si una leche se comporta de forma inesperada bajo el vaporizador, verifica si es UHT antes de culpar a la técnica.",
+        "mistake": "Suponer que toda leche de larga vida y toda leche fresca son funcionalmente idénticas para efectos de vaporizado.",
+        "challenge": "¿Por qué un procesamiento térmico más intenso durante la producción afectaría cómo responde la leche a una segunda ronda de calentamiento en la barra de café?"
+      },
+      "pt": {
+        "title": "UHT vs. Leite Pasteurizado",
+        "definition": "O leite UHT (ultra alta temperatura) é aquecido muito mais forte e rápido do que a pasteurização padrão, desnaturando mais as proteínas para obter uma vida útil mais longa.",
+        "why": "Esse tratamento térmico extra é exatamente a razão pela qual o leite UHT costuma vaporizar e espumar de forma diferente do leite pasteurizado fresco.",
+        "tip": "Se um leite se comportar de forma inesperada sob o vaporizador, verifique se é UHT antes de culpar a técnica.",
+        "mistake": "Supor que todo leite de longa vida e todo leite fresco são funcionalmente idênticos para fins de vaporização.",
+        "challenge": "Por que um processamento térmico mais intenso durante a produção afetaria como o leite responde a uma segunda rodada de aquecimento no balcão de café?"
+      }
+    }
+  },
+  {
+    "number": "154",
+    "title": "Milk pH and Protein Stability",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Milk's natural pH sits close to neutral, and small shifts toward acidity — from age or added ingredients — can destabilize its protein structure.",
+    "why": "This is part of why older milk, or milk mixed with acidic syrups, can behave unpredictably or curdle when steamed.",
+    "tip": "Fresher milk generally gives more stable, predictable foam than milk nearing its use-by date.",
+    "mistake": "Blaming inconsistent foam entirely on technique without considering milk freshness and pH drift over time.",
+    "challenge": "Why might adding an acidic syrup before steaming cause visibly different results than adding it after?",
+    "related": [
+      "148",
+      "022"
+    ],
+    "translations": {
+      "es": {
+        "title": "pH de la Leche y Estabilidad de las Proteínas",
+        "definition": "El pH natural de la leche está cerca de neutro, y pequeños cambios hacia la acidez —por edad o ingredientes añadidos— pueden desestabilizar su estructura proteica.",
+        "why": "Esto explica en parte por qué la leche más vieja, o mezclada con jarabes ácidos, puede comportarse de forma impredecible o cortarse al vaporizarse.",
+        "tip": "La leche más fresca generalmente da una espuma más estable y predecible que la leche cerca de su fecha de caducidad.",
+        "mistake": "Culpar por completo a la técnica por una espuma inconsistente sin considerar la frescura de la leche y el desplazamiento de pH con el tiempo.",
+        "challenge": "¿Por qué agregar un jarabe ácido antes de vaporizar podría causar resultados visiblemente distintos que agregarlo después?"
+      },
+      "pt": {
+        "title": "pH do Leite e Estabilidade das Proteínas",
+        "definition": "O pH natural do leite fica próximo do neutro, e pequenas mudanças em direção à acidez — por idade ou ingredientes adicionados — podem desestabilizar sua estrutura proteica.",
+        "why": "Isso explica em parte por que o leite mais velho, ou misturado com xaropes ácidos, pode se comportar de forma imprevisível ou talhar ao ser vaporizado.",
+        "tip": "O leite mais fresco geralmente dá uma espuma mais estável e previsível do que o leite próximo da data de validade.",
+        "mistake": "Culpar totalmente a técnica por uma espuma inconsistente sem considerar a frescura do leite e a variação de pH ao longo do tempo.",
+        "challenge": "Por que adicionar um xarope ácido antes de vaporizar poderia causar resultados visivelmente diferentes de adicioná-lo depois?"
+      }
+    }
+  },
+  {
+    "number": "155",
+    "title": "Plant-Based Milk Proteins",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Oat, soy, almond and pea-based milks each rely on completely different protein structures than dairy, which is why they steam so differently from each other.",
+    "why": "Barista-formulated plant milks often add stabilizers and gums specifically to compensate for protein structures that don't naturally foam like dairy.",
+    "tip": "Treat each plant-based milk as its own category rather than a single substitute — oat and almond can behave nothing alike.",
+    "mistake": "Applying dairy steaming technique unchanged to plant-based milk and blaming the milk when results differ.",
+    "challenge": "Why do most 'barista' plant-milk products contain added ingredients that regular plant milk doesn't?",
+    "related": [
+      "022",
+      "149"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proteínas de Leches Vegetales",
+        "definition": "Las leches de avena, soya, almendra y guisante dependen de estructuras proteicas completamente distintas a las lácteas, por lo que se vaporizan de forma tan diferente entre sí.",
+        "why": "Las leches vegetales formuladas para baristas suelen añadir estabilizantes y gomas específicamente para compensar estructuras proteicas que no espuman de forma natural como la leche.",
+        "tip": "Trata cada leche vegetal como su propia categoría en lugar de un sustituto único; la avena y la almendra pueden comportarse de forma completamente distinta.",
+        "mistake": "Aplicar la técnica de vaporizado de la leche láctea sin cambios a la leche vegetal y culpar a la leche cuando los resultados difieren.",
+        "challenge": "¿Por qué la mayoría de los productos de leche vegetal 'para barista' contienen ingredientes añadidos que la leche vegetal regular no tiene?"
+      },
+      "pt": {
+        "title": "Proteínas de Leites Vegetais",
+        "definition": "Os leites de aveia, soja, amêndoa e ervilha dependem de estruturas proteicas completamente diferentes das do leite, por isso vaporizam de forma tão diferente entre si.",
+        "why": "Os leites vegetais formulados para baristas costumam adicionar estabilizantes e gomas especificamente para compensar estruturas proteicas que não espumam naturalmente como o leite.",
+        "tip": "Trate cada leite vegetal como sua própria categoria em vez de um substituto único; aveia e amêndoa podem se comportar de forma completamente diferente.",
+        "mistake": "Aplicar a técnica de vaporização do leite comum sem alterações ao leite vegetal e culpar o leite quando os resultados diferem.",
+        "challenge": "Por que a maioria dos produtos de leite vegetal 'para barista' contém ingredientes adicionados que o leite vegetal comum não tem?"
+      }
+    }
+  },
+  {
+    "number": "156",
+    "title": "The Physics of Foam Stability",
+    "category": "MLS",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "Stable milk foam depends on a thin protein film forming around trapped air bubbles, while fat works to destabilize that same structure over time.",
+    "why": "Understanding this tension between protein and fat explains almost every practical foam problem baristas encounter.",
+    "tip": "If foam looks great immediately but collapses fast, suspect fat interference or insufficient protein structure, not just air volume.",
+    "mistake": "Judging foam quality only in the moment it's poured, without considering how it holds up over the next minute.",
+    "challenge": "Why does foam that looks identical right after steaming sometimes collapse at very different rates?",
+    "related": [
+      "148",
+      "149",
+      "150"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Física de la Estabilidad de la Espuma",
+        "definition": "La espuma de leche estable depende de una fina película proteica que se forma alrededor de las burbujas de aire atrapadas, mientras que la grasa trabaja para desestabilizar esa misma estructura con el tiempo.",
+        "why": "Entender esta tensión entre proteína y grasa explica casi todos los problemas prácticos de espuma que enfrentan los baristas.",
+        "tip": "Si la espuma se ve genial de inmediato pero colapsa rápido, sospecha de interferencia de la grasa o estructura proteica insuficiente, no solo del volumen de aire.",
+        "mistake": "Juzgar la calidad de la espuma solo en el momento en que se sirve, sin considerar cómo se sostiene durante el minuto siguiente.",
+        "challenge": "¿Por qué una espuma que se ve idéntica justo después de vaporizar a veces colapsa a ritmos muy distintos?"
+      },
+      "pt": {
+        "title": "A Física da Estabilidade da Espuma",
+        "definition": "A espuma de leite estável depende de uma fina película proteica que se forma ao redor das bolhas de ar aprisionadas, enquanto a gordura trabalha para desestabilizar essa mesma estrutura com o tempo.",
+        "why": "Entender essa tensão entre proteína e gordura explica quase todos os problemas práticos de espuma que os baristas enfrentam.",
+        "tip": "Se a espuma parece ótima logo após vaporizar mas colapsa rápido, suspeite de interferência da gordura ou estrutura proteica insuficiente, não apenas do volume de ar.",
+        "mistake": "Julgar a qualidade da espuma apenas no momento em que é servida, sem considerar como ela se sustenta no minuto seguinte.",
+        "challenge": "Por que uma espuma que parece idêntica logo após a vaporização às vezes colapsa em ritmos muito diferentes?"
+      }
+    }
+  }
+]

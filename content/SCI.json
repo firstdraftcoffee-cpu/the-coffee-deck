@@ -1,0 +1,317 @@
+[
+  {
+    "number": "166",
+    "title": "Retronasal vs Orthonasal Olfaction",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Orthonasal smell happens by sniffing through the nose, while retronasal smell happens when aroma compounds travel up from the mouth to the nose during swallowing.",
+    "why": "Most of what people call 'taste' is actually retronasal smell — it's why food seems flavorless with a blocked nose.",
+    "tip": "Compare the aroma you get sniffing a coffee versus what you notice right after swallowing — they're genuinely different pathways, not the same sensation twice.",
+    "mistake": "Assuming 'smell' and 'flavor' are separate senses rather than two different routes to the same olfactory system.",
+    "challenge": "Why does pinching your nose while drinking coffee dramatically flatten its flavor even though your tongue still works normally?",
+    "related": [
+      "057",
+      "168"
+    ],
+    "translations": {
+      "es": {
+        "title": "Olfacción Retronasal vs. Ortonasal",
+        "definition": "El olfato ortonasal ocurre al oler por la nariz, mientras que el olfato retronasal ocurre cuando los compuestos aromáticos viajan desde la boca hacia la nariz al tragar.",
+        "why": "Gran parte de lo que la gente llama 'sabor' es en realidad olfato retronasal; por eso la comida parece insípida con la nariz tapada.",
+        "tip": "Compara el aroma que percibes al oler un café con lo que notas justo después de tragarlo; son rutas genuinamente distintas, no la misma sensación dos veces.",
+        "mistake": "Suponer que 'olor' y 'sabor' son sentidos separados en lugar de dos rutas diferentes hacia el mismo sistema olfativo.",
+        "challenge": "¿Por qué taparse la nariz al beber café aplana drásticamente su sabor aunque la lengua siga funcionando con normalidad?"
+      },
+      "pt": {
+        "title": "Olfação Retronasal vs. Ortonasal",
+        "definition": "O olfato ortonasal ocorre ao cheirar pelo nariz, enquanto o olfato retronasal ocorre quando compostos aromáticos viajam da boca para o nariz ao engolir.",
+        "why": "Grande parte do que as pessoas chamam de 'sabor' é na verdade olfato retronasal; por isso a comida parece sem graça com o nariz entupido.",
+        "tip": "Compare o aroma que você percebe ao cheirar um café com o que percebe logo depois de engolir; são rotas genuinamente diferentes, não a mesma sensação duas vezes.",
+        "mistake": "Supor que 'cheiro' e 'sabor' são sentidos separados em vez de duas rotas diferentes para o mesmo sistema olfativo.",
+        "challenge": "Por que tapar o nariz ao beber café achata drasticamente seu sabor mesmo com a língua funcionando normalmente?"
+      }
+    }
+  },
+  {
+    "number": "167",
+    "title": "Taste Receptor Biology",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Taste buds on the tongue detect only five basic qualities — sweet, sour, salty, bitter and umami — everything else attributed to 'taste' actually comes from smell or texture.",
+    "why": "Understanding this distinction explains why cupping relies so heavily on aroma and mouthfeel, not just what the tongue alone detects.",
+    "tip": "Try isolating pure taste by holding your nose while tasting something — you'll notice how much information disappears.",
+    "mistake": "Describing a complex flavor note like 'blueberry' as something the tongue detects, when it's actually an aroma perception.",
+    "challenge": "If the tongue only detects five basic qualities, where does a sensation like 'fruity' actually come from?",
+    "related": [
+      "166",
+      "058"
+    ],
+    "translations": {
+      "es": {
+        "title": "Biología de los Receptores del Gusto",
+        "definition": "Las papilas gustativas de la lengua detectan solo cinco cualidades básicas —dulce, ácido, salado, amargo y umami—; todo lo demás atribuido al 'sabor' en realidad proviene del olfato o la textura.",
+        "why": "Entender esta distinción explica por qué la catación depende tanto del aroma y la sensación en boca, no solo de lo que detecta la lengua sola.",
+        "tip": "Intenta aislar el gusto puro tapándote la nariz mientras pruebas algo; notarás cuánta información desaparece.",
+        "mistake": "Describir una nota de sabor compleja como 'arándano' como algo que detecta la lengua, cuando en realidad es una percepción aromática.",
+        "challenge": "Si la lengua solo detecta cinco cualidades básicas, ¿de dónde viene realmente una sensación como 'afrutado'?"
+      },
+      "pt": {
+        "title": "Biologia dos Receptores de Gosto",
+        "definition": "As papilas gustativas da língua detectam apenas cinco qualidades básicas —doce, ácido, salgado, amargo e umami—; tudo mais atribuído ao 'sabor' na verdade vem do olfato ou da textura.",
+        "why": "Entender essa distinção explica por que a prova depende tanto do aroma e da sensação na boca, não apenas do que a língua sozinha detecta.",
+        "tip": "Tente isolar o gosto puro tapando o nariz enquanto prova algo; você notará quanta informação desaparece.",
+        "mistake": "Descrever uma nota de sabor complexa como 'mirtilo' como algo que a língua detecta, quando na verdade é uma percepção aromática.",
+        "challenge": "Se a língua detecta apenas cinco qualidades básicas, de onde realmente vem uma sensação como 'frutado'?"
+      }
+    }
+  },
+  {
+    "number": "168",
+    "title": "Psychophysics and Thresholds",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A detection threshold is the lowest concentration at which someone notices a compound is present; a recognition threshold is the higher concentration needed to identify what it actually is.",
+    "why": "This gap explains why a taster can sense 'something's different' about a cup well before they can name what that something is.",
+    "tip": "Give yourself permission to say 'something is off' during cupping even if you can't yet identify exactly what.",
+    "mistake": "Assuming an inability to name a flavor means you didn't actually perceive anything at all.",
+    "challenge": "Why might two tasters with identical detection thresholds still disagree about what a compound actually tastes like?",
+    "related": [
+      "065",
+      "167"
+    ],
+    "translations": {
+      "es": {
+        "title": "Psicofísica y Umbrales",
+        "definition": "El umbral de detección es la concentración más baja a la que alguien nota que un compuesto está presente; el umbral de reconocimiento es la concentración más alta necesaria para identificar qué es exactamente.",
+        "why": "Esta diferencia explica por qué un catador puede sentir que 'algo es distinto' en una taza mucho antes de poder nombrar qué es.",
+        "tip": "Date permiso de decir 'algo no está bien' durante la catación aunque aún no puedas identificar exactamente qué es.",
+        "mistake": "Suponer que no poder nombrar un sabor significa que en realidad no percibiste nada.",
+        "challenge": "¿Por qué dos catadores con umbrales de detección idénticos podrían seguir en desacuerdo sobre a qué sabe realmente un compuesto?"
+      },
+      "pt": {
+        "title": "Psicofísica e Limiares",
+        "definition": "O limiar de detecção é a concentração mais baixa em que alguém percebe que um composto está presente; o limiar de reconhecimento é a concentração mais alta necessária para identificar o que ele realmente é.",
+        "why": "Essa diferença explica por que um provador pode sentir que 'algo está diferente' em uma xícara bem antes de conseguir nomear o quê.",
+        "tip": "Permita-se dizer 'algo não está certo' durante a prova mesmo que ainda não consiga identificar exatamente o quê.",
+        "mistake": "Supor que não conseguir nomear um sabor significa que você não percebeu nada de fato.",
+        "challenge": "Por que dois provadores com limiares de detecção idênticos ainda poderiam discordar sobre o real sabor de um composto?"
+      }
+    }
+  },
+  {
+    "number": "169",
+    "title": "Cross-Modal Flavor Perception",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Senses outside taste and smell — sound, color, temperature, even the weight of a cup — measurably change how flavor is perceived.",
+    "why": "This is why serving vessel, lighting and environment genuinely affect how a coffee is experienced, not just its actual chemistry.",
+    "tip": "Notice how a coffee tastes different in a heavy ceramic mug versus a thin paper cup — the weight itself shifts perception.",
+    "mistake": "Assuming flavor perception is a purely chemical response, isolated from every other sense in the room.",
+    "challenge": "Why might a barista competition venue's lighting or noise level actually influence how judges score the coffee?",
+    "related": [
+      "063",
+      "057"
+    ],
+    "translations": {
+      "es": {
+        "title": "Percepción de Sabor Cross-Modal",
+        "definition": "Sentidos ajenos al gusto y el olfato —sonido, color, temperatura, incluso el peso de una taza— cambian de forma medible cómo se percibe el sabor.",
+        "why": "Por esto el recipiente de servicio, la iluminación y el entorno afectan genuinamente cómo se experimenta un café, no solo su química real.",
+        "tip": "Nota cómo sabe distinto un café en una taza de cerámica pesada frente a un vaso de papel delgado; el peso mismo cambia la percepción.",
+        "mistake": "Suponer que la percepción del sabor es una respuesta puramente química, aislada de cualquier otro sentido presente.",
+        "challenge": "¿Por qué la iluminación o el nivel de ruido en la sede de una competencia de baristas podría influir realmente en cómo los jueces puntúan el café?"
+      },
+      "pt": {
+        "title": "Percepção de Sabor Cross-Modal",
+        "definition": "Sentidos além do gosto e do olfato —som, cor, temperatura, até o peso de uma xícara— mudam de forma mensurável como o sabor é percebido.",
+        "why": "É por isso que o recipiente de serviço, a iluminação e o ambiente afetam genuinamente como um café é vivenciado, não apenas sua química real.",
+        "tip": "Perceba como um café tem sabor diferente em uma caneca de cerâmica pesada em comparação a um copo de papel fino; o peso em si muda a percepção.",
+        "mistake": "Supor que a percepção de sabor é uma resposta puramente química, isolada de qualquer outro sentido presente.",
+        "challenge": "Por que a iluminação ou o nível de ruído no local de uma competição de baristas poderia realmente influenciar como os jurados pontuam o café?"
+      }
+    }
+  },
+  {
+    "number": "170",
+    "title": "Supertasters and Non-Tasters",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Genetic variation in taste bud density means some people (supertasters) perceive bitterness and intensity far more strongly than others (non-tasters), with most people falling somewhere in between.",
+    "why": "This is a big part of why palates genuinely differ between people, not just a matter of experience or training.",
+    "tip": "When calibrating as a team, remember that a colleague's different palate sensitivity isn't necessarily wrong — it may be genuinely biological.",
+    "mistake": "Assuming everyone's baseline sensitivity to bitterness or intensity starts from the same place.",
+    "challenge": "Why might a supertaster and a non-taster genuinely disagree about whether the same coffee is 'too bitter'?",
+    "related": [
+      "060",
+      "065"
+    ],
+    "translations": {
+      "es": {
+        "title": "Supercatadores y No Catadores",
+        "definition": "La variación genética en la densidad de papilas gustativas hace que algunas personas (supercatadores) perciban el amargor y la intensidad mucho más fuerte que otras (no catadores), con la mayoría en un punto intermedio.",
+        "why": "Esta es gran parte de la razón por la que los paladares genuinamente difieren entre personas, no solo una cuestión de experiencia o entrenamiento.",
+        "tip": "Al calibrar en equipo, recuerda que la sensibilidad de paladar distinta de un colega no es necesariamente incorrecta; puede ser genuinamente biológica.",
+        "mistake": "Suponer que la sensibilidad base de todos al amargor o la intensidad parte del mismo punto.",
+        "challenge": "¿Por qué un supercatador y un no catador podrían discrepar genuinamente sobre si el mismo café es 'demasiado amargo'?"
+      },
+      "pt": {
+        "title": "Superprovadores e Não Provadores",
+        "definition": "A variação genética na densidade de papilas gustativas faz com que algumas pessoas (superprovadores) percebam o amargor e a intensidade muito mais fortemente do que outras (não provadores), com a maioria em algum ponto intermediário.",
+        "why": "Essa é grande parte da razão pela qual os paladares genuinamente diferem entre as pessoas, não apenas uma questão de experiência ou treinamento.",
+        "tip": "Ao calibrar em equipe, lembre-se de que a sensibilidade de paladar diferente de um colega não é necessariamente errada; pode ser genuinamente biológica.",
+        "mistake": "Supor que a sensibilidade básica de todos ao amargor ou à intensidade parte do mesmo ponto.",
+        "challenge": "Por que um superprovador e um não provador poderiam genuinamente discordar sobre se o mesmo café está 'amargo demais'?"
+      }
+    }
+  },
+  {
+    "number": "171",
+    "title": "Palate Fatigue and Sensory Adaptation",
+    "category": "SCI",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Repeated exposure to similar stimuli during a long cupping or tasting session causes sensitivity to gradually decline, known as sensory adaptation.",
+    "why": "It's a major reason cupping scores can drift over a long session, independent of any actual change in the coffee itself.",
+    "tip": "Taste your most important or most ambiguous samples earlier in a session, before fatigue sets in.",
+    "mistake": "Assuming a coffee tasted at the end of a long session is being judged as fairly as one tasted first.",
+    "challenge": "How might you structure a long cupping session specifically to minimize the effect of palate fatigue?",
+    "related": [
+      "065",
+      "168"
+    ],
+    "translations": {
+      "es": {
+        "title": "Fatiga del Paladar y Adaptación Sensorial",
+        "definition": "La exposición repetida a estímulos similares durante una sesión larga de catación provoca que la sensibilidad disminuya gradualmente, lo que se conoce como adaptación sensorial.",
+        "why": "Es una razón importante por la que las puntuaciones de catación pueden variar a lo largo de una sesión larga, independientemente de cualquier cambio real en el café.",
+        "tip": "Prueba tus muestras más importantes o ambiguas al principio de una sesión, antes de que aparezca la fatiga.",
+        "mistake": "Suponer que un café probado al final de una sesión larga se está juzgando con la misma justicia que uno probado al principio.",
+        "challenge": "¿Cómo podrías estructurar una sesión larga de catación específicamente para minimizar el efecto de la fatiga del paladar?"
+      },
+      "pt": {
+        "title": "Fadiga do Paladar e Adaptação Sensorial",
+        "definition": "A exposição repetida a estímulos semelhantes durante uma sessão longa de prova faz com que a sensibilidade diminua gradualmente, conhecida como adaptação sensorial.",
+        "why": "É uma razão importante pela qual as pontuações de prova podem variar ao longo de uma sessão longa, independentemente de qualquer mudança real no café.",
+        "tip": "Prove suas amostras mais importantes ou ambíguas no início de uma sessão, antes que a fadiga se instale.",
+        "mistake": "Supor que um café provado no fim de uma sessão longa está sendo julgado com a mesma justiça que um provado no início.",
+        "challenge": "Como você poderia estruturar uma sessão longa de prova especificamente para minimizar o efeito da fadiga do paladar?"
+      }
+    }
+  },
+  {
+    "number": "172",
+    "title": "The Flavor Wheel",
+    "category": "SCI",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A standardized visual lexicon of flavor and aroma descriptors, developed to give tasters a shared vocabulary for communicating what they perceive.",
+    "why": "Without shared vocabulary, two tasters can perceive the same thing but describe it so differently that they seem to disagree when they actually don't.",
+    "tip": "Use the wheel to narrow from broad categories toward more specific descriptors, rather than guessing a specific note first.",
+    "mistake": "Treating flavor wheel terms as the only correct way to describe a sensation, rather than as a shared communication tool.",
+    "challenge": "Why might two tasters use completely different words for the same underlying sensation without either being wrong?",
+    "related": [
+      "064",
+      "169"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Rueda de Sabores",
+        "definition": "Un léxico visual estandarizado de descriptores de sabor y aroma, desarrollado para dar a los catadores un vocabulario compartido para comunicar lo que perciben.",
+        "why": "Sin vocabulario compartido, dos catadores pueden percibir lo mismo pero describirlo de forma tan distinta que parecen estar en desacuerdo cuando en realidad no lo están.",
+        "tip": "Usa la rueda para pasar de categorías amplias a descriptores más específicos, en lugar de adivinar primero una nota concreta.",
+        "mistake": "Tratar los términos de la rueda de sabores como la única forma correcta de describir una sensación, en lugar de como una herramienta de comunicación compartida.",
+        "challenge": "¿Por qué dos catadores podrían usar palabras completamente distintas para la misma sensación subyacente sin que ninguno esté equivocado?"
+      },
+      "pt": {
+        "title": "A Roda de Sabores",
+        "definition": "Um léxico visual padronizado de descritores de sabor e aroma, desenvolvido para dar aos provadores um vocabulário compartilhado para comunicar o que percebem.",
+        "why": "Sem vocabulário compartilhado, dois provadores podem perceber a mesma coisa mas descrevê-la de forma tão diferente que parecem discordar quando na verdade não discordam.",
+        "tip": "Use a roda para ir de categorias amplas a descritores mais específicos, em vez de adivinhar uma nota específica primeiro.",
+        "mistake": "Tratar os termos da roda de sabores como a única forma correta de descrever uma sensação, em vez de uma ferramenta de comunicação compartilhada.",
+        "challenge": "Por que dois provadores poderiam usar palavras completamente diferentes para a mesma sensação subjacente sem que nenhum dos dois esteja errado?"
+      }
+    }
+  },
+  {
+    "number": "173",
+    "title": "Trigeminal Sensation",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The trigeminal nerve detects physical sensations like astringency, cooling and spiciness — a completely separate system from taste or smell.",
+    "why": "It's why sensations like astringency feel physical rather than flavorful, and why they persist differently than taste or aroma do.",
+    "tip": "When describing astringency, focus on the physical drying or puckering sensation rather than searching for a taste or aroma word.",
+    "mistake": "Trying to classify a purely trigeminal sensation like astringency as a taste or an aroma note.",
+    "challenge": "Why does astringency feel like it lingers differently in the mouth compared to a lingering aroma or aftertaste?",
+    "related": [
+      "062",
+      "167"
+    ],
+    "translations": {
+      "es": {
+        "title": "Sensación Trigeminal",
+        "definition": "El nervio trigémino detecta sensaciones físicas como la astringencia, el frescor y el picor; un sistema completamente separado del gusto o el olfato.",
+        "why": "Es la razón por la que sensaciones como la astringencia se sienten físicas en lugar de saborosas, y por qué persisten de forma distinta al gusto o al aroma.",
+        "tip": "Al describir la astringencia, enfócate en la sensación física de sequedad o aspereza en lugar de buscar una palabra de gusto o aroma.",
+        "mistake": "Intentar clasificar una sensación puramente trigeminal como la astringencia como una nota de gusto o de aroma.",
+        "challenge": "¿Por qué la astringencia parece persistir de forma distinta en la boca en comparación con un aroma o retrogusto persistente?"
+      },
+      "pt": {
+        "title": "Sensação Trigeminal",
+        "definition": "O nervo trigêmeo detecta sensações físicas como adstringência, resfriamento e picância; um sistema completamente separado do gosto ou do olfato.",
+        "why": "É a razão pela qual sensações como a adstringência parecem físicas em vez de saborosas, e por que persistem de forma diferente do gosto ou do aroma.",
+        "tip": "Ao descrever a adstringência, foque na sensação física de secura ou aspereza em vez de buscar uma palavra de gosto ou aroma.",
+        "mistake": "Tentar classificar uma sensação puramente trigeminal como a adstringência como uma nota de gosto ou de aroma.",
+        "challenge": "Por que a adstringência parece persistir de forma diferente na boca em comparação com um aroma ou retrogosto persistente?"
+      }
+    }
+  },
+  {
+    "number": "174",
+    "title": "Sensory Memory and Blind Tasting",
+    "category": "SCI",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Prior expectations and memory of past tastes measurably bias current perception, which is exactly why blind tasting is used to reduce that influence.",
+    "why": "Knowing a coffee's origin, price or reputation in advance can shift how it's actually perceived, not just how it's described.",
+    "tip": "Cup blind whenever a genuinely unbiased evaluation matters, especially for purchasing or competition decisions.",
+    "mistake": "Assuming your evaluation is purely objective just because you're confident in your palate.",
+    "challenge": "Why might revealing a coffee's price before tasting it change how good it actually seems to taste?",
+    "related": [
+      "065",
+      "168"
+    ],
+    "translations": {
+      "es": {
+        "title": "Memoria Sensorial y Catación a Ciegas",
+        "definition": "Las expectativas previas y el recuerdo de sabores pasados sesgan de forma medible la percepción actual, que es exactamente la razón por la que se usa la catación a ciegas para reducir esa influencia.",
+        "why": "Conocer de antemano el origen, precio o reputación de un café puede cambiar cómo se percibe realmente, no solo cómo se describe.",
+        "tip": "Cata a ciegas siempre que una evaluación genuinamente imparcial importe, especialmente para decisiones de compra o competencia.",
+        "mistake": "Suponer que tu evaluación es puramente objetiva solo porque confías en tu paladar.",
+        "challenge": "¿Por qué revelar el precio de un café antes de probarlo podría cambiar cuán bueno realmente parece saber?"
+      },
+      "pt": {
+        "title": "Memória Sensorial e Prova às Cegas",
+        "definition": "Expectativas prévias e a memória de sabores passados enviesam de forma mensurável a percepção atual, exatamente por isso a prova às cegas é usada para reduzir essa influência.",
+        "why": "Saber de antemão a origem, o preço ou a reputação de um café pode mudar como ele é realmente percebido, não apenas como é descrito.",
+        "tip": "Prove às cegas sempre que uma avaliação genuinamente imparcial importar, especialmente para decisões de compra ou competição.",
+        "mistake": "Supor que sua avaliação é puramente objetiva só porque você confia no seu paladar.",
+        "challenge": "Por que revelar o preço de um café antes de prová-lo poderia mudar o quão bom ele realmente parece ter de sabor?"
+      }
+    }
+  }
+]
