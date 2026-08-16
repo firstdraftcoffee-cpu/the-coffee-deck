@@ -51,7 +51,25 @@
       "076",
       "078",
       "080"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Proceso Lavado",
+        "definition": "A los cafés lavados se les retira la fruta antes del secado, produciendo sabores limpios y transparentes.",
+        "why": "Este proceso resalta el carácter de origen y la acidez.",
+        "tip": "Espera claridad y precisión en la taza.",
+        "mistake": "Suponer que lavado significa mejor calidad.",
+        "challenge": "¿Qué sabores se asocian comúnmente con los cafés lavados?"
+      },
+      "pt": {
+        "title": "Processo Lavado",
+        "definition": "Nos cafés lavados a fruta é removida antes da secagem, produzindo sabores limpos e transparentes.",
+        "why": "Esse processo destaca o caráter de origem e a acidez.",
+        "tip": "Espere clareza e precisão na xícara.",
+        "mistake": "Supor que lavado significa melhor qualidade.",
+        "challenge": "Que sabores costumam estar associados aos cafés lavados?"
+      }
+    }
   },
   {
     "number": "078",
@@ -69,7 +87,25 @@
       "077",
       "079",
       "081"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Proceso Natural",
+        "definition": "Los cafés naturales se secan con la fruta intacta antes del trillado.",
+        "why": "El contacto con la fruta a menudo aumenta la dulzura y el cuerpo.",
+        "tip": "Espera características de frutos rojos y frutas tropicales.",
+        "mistake": "Pensar que todos los naturales saben fermentados.",
+        "challenge": "¿Por qué los naturales suelen ser más dulces que los lavados?"
+      },
+      "pt": {
+        "title": "Processo Natural",
+        "definition": "Os cafés naturais são secos com a fruta intacta antes do beneficiamento.",
+        "why": "O contato com a fruta costuma aumentar a doçura e o corpo.",
+        "tip": "Espere características de frutas vermelhas e tropicais.",
+        "mistake": "Pensar que todos os naturais têm sabor fermentado.",
+        "challenge": "Por que os naturais costumam ser mais doces que os lavados?"
+      }
+    }
   },
   {
     "number": "079",
@@ -87,7 +123,25 @@
       "078",
       "080",
       "082"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Proceso Honey",
+        "definition": "El proceso honey deja parte del mucílago pegajoso en la semilla durante el secado.",
+        "why": "A menudo equilibra la claridad con la dulzura.",
+        "tip": "Honey se refiere al mucílago pegajoso, no a miel añadida.",
+        "mistake": "Suponer que los cafés honey contienen miel.",
+        "challenge": "Describe un perfil de sabor típico de proceso honey."
+      },
+      "pt": {
+        "title": "Processo Honey",
+        "definition": "O processo honey deixa parte da mucilagem pegajosa na semente durante a secagem.",
+        "why": "Frequentemente equilibra clareza com doçura.",
+        "tip": "Honey se refere à mucilagem pegajosa, não a mel adicionado.",
+        "mistake": "Supor que cafés honey contêm mel.",
+        "challenge": "Descreva um perfil de sabor típico de processo honey."
+      }
+    }
   },
   {
     "number": "080",
@@ -105,7 +159,25 @@
       "079",
       "081",
       "083"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Fermentación Anaeróbica",
+        "definition": "El procesamiento anaeróbico fermenta el café en tanques sellados con oxígeno limitado.",
+        "why": "Puede producir perfiles de sabor distintivos.",
+        "tip": "Juzga la taza, no el nombre del proceso.",
+        "mistake": "Suponer que los cafés anaeróbicos son automáticamente superiores.",
+        "challenge": "¿Qué riesgos conlleva el procesamiento anaeróbico?"
+      },
+      "pt": {
+        "title": "Fermentação Anaeróbica",
+        "definition": "O processamento anaeróbico fermenta o café em tanques selados com oxigênio limitado.",
+        "why": "Pode produzir perfis de sabor distintos.",
+        "tip": "Julgue a xícara, não o nome do processo.",
+        "mistake": "Supor que cafés anaeróbicos são automaticamente superiores.",
+        "challenge": "Que riscos vêm com o processamento anaeróbico?"
+      }
+    }
   },
   {
     "number": "081",
@@ -123,7 +195,25 @@
       "080",
       "082",
       "084"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Fermentación",
+        "definition": "La fermentación utiliza microorganismos naturales para descomponer el material de la fruta.",
+        "why": "Una fermentación cuidadosa mejora la complejidad del sabor.",
+        "tip": "La fermentación es un proceso controlado, no un deterioro.",
+        "mistake": "Pensar que todos los sabores de fermentación son defectos.",
+        "challenge": "Nombra dos variables que afectan la fermentación."
+      },
+      "pt": {
+        "title": "Fermentação",
+        "definition": "A fermentação usa microrganismos naturais para decompor o material da fruta.",
+        "why": "Uma fermentação cuidadosa melhora a complexidade do sabor.",
+        "tip": "A fermentação é um processo controlado, não deterioração.",
+        "mistake": "Pensar que todos os sabores de fermentação são defeitos.",
+        "challenge": "Nomeie duas variáveis que afetam a fermentação."
+      }
+    }
   },
   {
     "number": "082",
@@ -141,7 +231,25 @@
       "081",
       "083",
       "067"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Secado",
+        "definition": "El secado reduce la humedad a un nivel seguro de almacenamiento después del procesamiento.",
+        "why": "Un secado uniforme preserva la calidad.",
+        "tip": "Seca de forma lenta y uniforme.",
+        "mistake": "Secar demasiado rápido.",
+        "challenge": "¿Qué rango de humedad se busca normalmente?"
+      },
+      "pt": {
+        "title": "Secagem",
+        "definition": "A secagem reduz a umidade a um nível seguro de armazenamento após o processamento.",
+        "why": "Uma secagem uniforme preserva a qualidade.",
+        "tip": "Seque de forma lenta e uniforme.",
+        "mistake": "Secar rápido demais.",
+        "challenge": "Qual faixa de umidade normalmente é o alvo?"
+      }
+    }
   },
   {
     "number": "083",
@@ -159,7 +267,25 @@
       "082",
       "084",
       "085"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Camas Africanas (Raised Beds)",
+        "definition": "Las camas elevadas mejoran el flujo de aire y la consistencia del secado.",
+        "why": "Reducen el riesgo de moho y de secado desigual.",
+        "tip": "Voltea el café regularmente.",
+        "mistake": "Dejar el café sin remover por largos períodos.",
+        "challenge": "¿Por qué se prefieren las camas elevadas sobre los patios de concreto?"
+      },
+      "pt": {
+        "title": "Camas Elevadas (Raised Beds)",
+        "definition": "As camas elevadas melhoram o fluxo de ar e a consistência da secagem.",
+        "why": "Reduzem o risco de mofo e secagem desigual.",
+        "tip": "Vire o café regularmente.",
+        "mistake": "Deixar o café sem revirar por longos períodos.",
+        "challenge": "Por que as camas elevadas são preferidas em relação aos terreiros de concreto?"
+      }
+    }
   },
   {
     "number": "084",
@@ -177,7 +303,25 @@
       "083",
       "085",
       "082"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Secado Mecánico",
+        "definition": "Los secadores mecánicos reducen la humedad cuando las condiciones climáticas no son adecuadas.",
+        "why": "Mejoran la fiabilidad pero requieren un control cuidadoso.",
+        "tip": "Evita temperaturas de secado excesivas.",
+        "mistake": "Secar de forma demasiado agresiva.",
+        "challenge": "¿Cuándo es más útil el secado mecánico?"
+      },
+      "pt": {
+        "title": "Secagem Mecânica",
+        "definition": "Os secadores mecânicos reduzem a umidade quando as condições climáticas não são adequadas.",
+        "why": "Melhoram a confiabilidade, mas exigem controle cuidadoso.",
+        "tip": "Evite temperaturas de secagem excessivas.",
+        "mistake": "Secar de forma agressiva demais.",
+        "challenge": "Quando a secagem mecânica é mais útil?"
+      }
+    }
   },
   {
     "number": "085",
@@ -195,6 +339,24 @@
       "076",
       "077",
       "078"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Selección de Procesamiento",
+        "definition": "La elección del procesamiento depende del clima, la variedad, la infraestructura y la demanda del mercado.",
+        "why": "Distintos procesos crean diferentes oportunidades comerciales.",
+        "tip": "Elige el procesamiento según el café, no según las tendencias.",
+        "mistake": "Seguir la moda en lugar de la calidad.",
+        "challenge": "¿Cómo elegirías entre procesamiento lavado y natural?"
+      },
+      "pt": {
+        "title": "Seleção de Processamento",
+        "definition": "A escolha do processamento depende do clima, da variedade, da infraestrutura e da demanda de mercado.",
+        "why": "Processos diferentes criam oportunidades comerciais diferentes.",
+        "tip": "Escolha o processamento para combinar com o café, não com as tendências.",
+        "mistake": "Seguir a moda em vez da qualidade.",
+        "challenge": "Como você escolheria entre processamento lavado e natural?"
+      }
+    }
   }
 ]

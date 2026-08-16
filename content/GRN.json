@@ -51,7 +51,25 @@
       "066",
       "068",
       "071"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Contenido de Humedad",
+        "definition": "El contenido de humedad es el porcentaje de agua contenido en el café verde.",
+        "why": "Afecta el comportamiento del tueste, la vida útil y la estabilidad.",
+        "tip": "La mayoría de los cafés de especialidad rinden mejor con una humedad de entre el 10 y el 12%.",
+        "mistake": "Ignorar la humedad al perfilar el tueste.",
+        "challenge": "¿Cómo afecta la humedad alta al tostado?"
+      },
+      "pt": {
+        "title": "Teor de Umidade",
+        "definition": "O teor de umidade é a porcentagem de água contida no café verde.",
+        "why": "Afeta o comportamento da torra, a vida útil e a estabilidade.",
+        "tip": "A maioria dos cafés especiais rende melhor com umidade entre 10% e 12%.",
+        "mistake": "Ignorar a umidade ao definir o perfil de torra.",
+        "challenge": "Como a umidade alta afeta a torra?"
+      }
+    }
   },
   {
     "number": "068",
@@ -69,7 +87,25 @@
       "067",
       "069",
       "072"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Densidad",
+        "definition": "La densidad mide cuánta masa está contenida en un volumen determinado de café.",
+        "why": "La densidad influye en la transferencia de calor durante el tueste.",
+        "tip": "Los cafés de mayor densidad suelen tolerar más energía al inicio del tueste.",
+        "mistake": "Tratar todos los orígenes de la misma manera.",
+        "challenge": "¿Qué orígenes suelen producir cafés de alta densidad?"
+      },
+      "pt": {
+        "title": "Densidade",
+        "definition": "A densidade mede quanta massa está contida em um determinado volume de café.",
+        "why": "A densidade influencia a transferência de calor durante a torra.",
+        "tip": "Cafés de maior densidade geralmente toleram mais energia no início da torra.",
+        "mistake": "Tratar todas as origens da mesma forma.",
+        "challenge": "Quais origens costumam produzir cafés de alta densidade?"
+      }
+    }
   },
   {
     "number": "069",
@@ -87,7 +123,25 @@
       "068",
       "070",
       "073"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tamaño de Malla (Screen Size)",
+        "definition": "El tamaño de malla se refiere al tamaño del grano medido con tamices graduados.",
+        "why": "Un tamaño uniforme generalmente favorece un tueste más parejo.",
+        "tip": "El tamaño no es lo mismo que la calidad.",
+        "mistake": "Pagar sobreprecio solo por granos grandes.",
+        "challenge": "¿Qué significa Screen 17?"
+      },
+      "pt": {
+        "title": "Tamanho da Peneira (Screen Size)",
+        "definition": "O tamanho da peneira refere-se ao tamanho do grão medido com peneiras graduadas.",
+        "why": "Um tamanho uniforme geralmente favorece uma torra mais uniforme.",
+        "tip": "Tamanho não é o mesmo que qualidade.",
+        "mistake": "Pagar mais caro apenas por grãos grandes.",
+        "challenge": "O que significa Screen 17?"
+      }
+    }
   },
   {
     "number": "070",
@@ -105,7 +159,25 @@
       "066",
       "067",
       "071"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Actividad de Agua",
+        "definition": "La actividad de agua mide cuán disponible está la humedad para el crecimiento microbiano.",
+        "why": "Predice la estabilidad de almacenamiento mejor que la humedad por sí sola.",
+        "tip": "Monitorea la actividad de agua junto con la humedad.",
+        "mistake": "Medir solo el porcentaje de humedad.",
+        "challenge": "¿Por qué es importante la actividad de agua para el almacenamiento a largo plazo?"
+      },
+      "pt": {
+        "title": "Atividade de Água",
+        "definition": "A atividade de água mede o quanto a umidade está disponível para o crescimento microbiano.",
+        "why": "Prevê a estabilidade de armazenamento melhor do que a umidade sozinha.",
+        "tip": "Monitore a atividade de água junto com a umidade.",
+        "mistake": "Medir apenas a porcentagem de umidade.",
+        "challenge": "Por que a atividade de água é importante para o armazenamento de longo prazo?"
+      }
+    }
   },
   {
     "number": "071",
@@ -123,7 +195,25 @@
       "070",
       "072",
       "074"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Almacenamiento",
+        "definition": "El café verde debe almacenarse en condiciones frescas, secas y sin olores.",
+        "why": "Un almacenamiento deficiente acelera la pérdida de calidad.",
+        "tip": "Evita la luz solar directa y la humedad fluctuante.",
+        "mistake": "Almacenar el café junto a olores fuertes.",
+        "challenge": "Enumera tres condiciones ideales de almacenamiento."
+      },
+      "pt": {
+        "title": "Armazenamento",
+        "definition": "O café verde deve ser armazenado em condições frescas, secas e livres de odores.",
+        "why": "Um armazenamento inadequado acelera a perda de qualidade.",
+        "tip": "Evite luz solar direta e umidade flutuante.",
+        "mistake": "Armazenar o café perto de odores fortes.",
+        "challenge": "Liste três condições ideais de armazenamento."
+      }
+    }
   },
   {
     "number": "072",
@@ -141,7 +231,25 @@
       "071",
       "073",
       "075"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Año de Cosecha",
+        "definition": "El año de cosecha identifica cuándo se cosechó el café.",
+        "why": "Los cafés de cosecha reciente generalmente saben más vivos y vibrantes.",
+        "tip": "Conoce el calendario de cosecha de tus orígenes.",
+        "mistake": "Vender café de cosecha vieja como si fuera reciente.",
+        "challenge": "¿Por qué las temporadas de cosecha difieren globalmente?"
+      },
+      "pt": {
+        "title": "Ano de Colheita",
+        "definition": "O ano de colheita identifica quando o café foi colhido.",
+        "why": "Cafés de colheita recente geralmente têm sabor mais vivo e vibrante.",
+        "tip": "Conheça o calendário de colheita das suas origens.",
+        "mistake": "Vender café de colheita antiga como se fosse recente.",
+        "challenge": "Por que as temporadas de colheita diferem globalmente?"
+      }
+    }
   },
   {
     "number": "073",
@@ -159,7 +267,25 @@
       "069",
       "072",
       "074"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Defectos",
+        "definition": "Los defectos son imperfecciones físicas que reducen la calidad del café.",
+        "why": "Clasificar los defectos mejora la consistencia y el sabor.",
+        "tip": "Aprende las principales categorías de defectos de la SCA.",
+        "mistake": "Ignorar el daño por insectos.",
+        "challenge": "Nombra tres defectos principales."
+      },
+      "pt": {
+        "title": "Defeitos",
+        "definition": "Defeitos são imperfeições físicas que reduzem a qualidade do café.",
+        "why": "Classificar os defeitos melhora a consistência e o sabor.",
+        "tip": "Aprenda as principais categorias de defeitos da SCA.",
+        "mistake": "Ignorar danos causados por insetos.",
+        "challenge": "Nomeie três defeitos principais."
+      }
+    }
   },
   {
     "number": "074",
@@ -177,7 +303,25 @@
       "073",
       "075",
       "089"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tueste de Muestra",
+        "definition": "El tueste de muestra evalúa la calidad del café antes del tueste de producción.",
+        "why": "Apoya las decisiones de compra y el control de calidad.",
+        "tip": "Mantén los perfiles de tueste de muestra consistentes.",
+        "mistake": "Cambiar los perfiles de muestra entre cafés.",
+        "challenge": "¿Por qué los tuestes de muestra son intencionalmente claros?"
+      },
+      "pt": {
+        "title": "Torra de Amostra",
+        "definition": "A torra de amostra avalia a qualidade do café antes da torra de produção.",
+        "why": "Apoia as decisões de compra e o controle de qualidade.",
+        "tip": "Mantenha os perfis de torra de amostra consistentes.",
+        "mistake": "Mudar os perfis de amostra entre cafés.",
+        "challenge": "Por que as torras de amostra são intencionalmente claras?"
+      }
+    }
   },
   {
     "number": "075",
@@ -195,6 +339,24 @@
       "074",
       "066",
       "072"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Compra de Café Verde",
+        "definition": "La compra de café verde equilibra la calidad, la disponibilidad, el costo y las necesidades del cliente.",
+        "why": "Una compra exitosa afecta a cada café vendido.",
+        "tip": "Compra con propósito, no con emoción.",
+        "mistake": "Comprar solo porque un café obtiene una puntuación alta.",
+        "challenge": "¿Qué factores considerarías antes de comprar 30 sacos?"
+      },
+      "pt": {
+        "title": "Compra de Café Verde",
+        "definition": "A compra de café verde equilibra qualidade, disponibilidade, custo e necessidades do cliente.",
+        "why": "Uma compra bem-sucedida afeta cada café vendido.",
+        "tip": "Compre com propósito, não com emoção.",
+        "mistake": "Comprar apenas porque um café tem pontuação alta.",
+        "challenge": "Que fatores você consideraria antes de comprar 30 sacas?"
+      }
+    }
   }
 ]

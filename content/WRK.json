@@ -51,7 +51,25 @@
       "046",
       "048",
       "050"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Mise en Place",
+        "definition": "Mise en place significa tener todo preparado y organizado antes de que comience el servicio.",
+        "why": "La preparación reduce el estrés y mejora la consistencia.",
+        "tip": "Empieza cada turno con la misma rutina de montaje.",
+        "mistake": "Prepararse mientras los clientes esperan.",
+        "challenge": "Nombra cinco cosas que deberían revisarse antes de abrir."
+      },
+      "pt": {
+        "title": "Mise en Place",
+        "definition": "Mise en place significa ter tudo preparado e organizado antes do início do atendimento.",
+        "why": "A preparação reduz o estresse e melhora a consistência.",
+        "tip": "Comece cada turno com a mesma rotina de montagem.",
+        "mistake": "Preparar-se enquanto os clientes esperam.",
+        "challenge": "Nomeie cinco itens que devem ser verificados antes de abrir."
+      }
+    }
   },
   {
     "number": "048",
@@ -69,7 +87,25 @@
       "047",
       "049",
       "051"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Organización de la Estación",
+        "definition": "Una estación de trabajo bien organizada mantiene herramientas, leche y café al alcance de la mano.",
+        "why": "Pequeñas mejoras ahorran cientos de movimientos cada día.",
+        "tip": "Devuelve cada herramienta al mismo lugar.",
+        "mistake": "Dejar la barra desordenada.",
+        "challenge": "Describe tu diseño ideal de estación de espresso."
+      },
+      "pt": {
+        "title": "Organização da Estação",
+        "definition": "Uma estação de trabalho bem organizada mantém ferramentas, leite e café ao alcance da mão.",
+        "why": "Pequenas melhorias economizam centenas de movimentos por dia.",
+        "tip": "Devolva cada ferramenta ao mesmo lugar.",
+        "mistake": "Deixar o balcão desorganizado.",
+        "challenge": "Descreva o layout ideal da sua estação de espresso."
+      }
+    }
   },
   {
     "number": "049",
@@ -87,7 +123,25 @@
       "046",
       "048",
       "052"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Secuenciación de Bebidas",
+        "definition": "La secuenciación de bebidas es decidir el orden más eficiente para preparar múltiples bebidas.",
+        "why": "Una secuenciación correcta mejora la velocidad sin reducir la calidad.",
+        "tip": "Piensa con dos bebidas de anticipación.",
+        "mistake": "Terminar una bebida a la vez durante las horas de mayor afluencia.",
+        "challenge": "¿Cómo secuenciarías cuatro bebidas con leche y dos cafés negros?"
+      },
+      "pt": {
+        "title": "Sequenciamento de Bebidas",
+        "definition": "O sequenciamento de bebidas é decidir a ordem mais eficiente para preparar várias bebidas.",
+        "why": "Um sequenciamento correto melhora a velocidade sem reduzir a qualidade.",
+        "tip": "Pense com duas bebidas de antecedência.",
+        "mistake": "Terminar uma bebida de cada vez durante os horários de pico.",
+        "challenge": "Como você sequenciaria quatro bebidas com leite e dois cafés pretos?"
+      }
+    }
   },
   {
     "number": "050",
@@ -105,7 +159,25 @@
       "047",
       "051",
       "053"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Limpiar Sobre la Marcha",
+        "definition": "Pequeñas tareas de limpieza realizadas continuamente evitan una limpieza mayor después.",
+        "why": "Una estación limpia favorece la velocidad y la profesionalidad.",
+        "tip": "Reinicia la estación después de cada cliente.",
+        "mistake": "Esperar hasta la hora de cierre.",
+        "challenge": "Enumera cinco cosas que deberías limpiar durante el servicio."
+      },
+      "pt": {
+        "title": "Limpar Durante o Serviço",
+        "definition": "Pequenas tarefas de limpeza realizadas continuamente evitam uma limpeza maior depois.",
+        "why": "Uma estação limpa favorece a velocidade e o profissionalismo.",
+        "tip": "Reorganize a estação após cada cliente.",
+        "mistake": "Esperar até a hora de fechar.",
+        "challenge": "Liste cinco coisas que você deveria limpar durante o atendimento."
+      }
+    }
   },
   {
     "number": "051",
@@ -123,7 +195,25 @@
       "048",
       "050",
       "052"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Comunicación",
+        "definition": "Una comunicación clara mantiene al equipo coordinado durante el servicio.",
+        "why": "La mayoría de los errores de servicio provienen de una mala comunicación, no de un mal café.",
+        "tip": "Usa un lenguaje corto y consistente.",
+        "mistake": "Hacer suposiciones.",
+        "challenge": "¿Cómo deberías comunicar un pedido retrasado?"
+      },
+      "pt": {
+        "title": "Comunicação",
+        "definition": "Uma comunicação clara mantém a equipe coordenada durante o atendimento.",
+        "why": "A maioria dos erros de atendimento vem de uma comunicação ruim, não de um café ruim.",
+        "tip": "Use uma linguagem curta e consistente.",
+        "mistake": "Fazer suposições.",
+        "challenge": "Como você deveria comunicar um pedido atrasado?"
+      }
+    }
   },
   {
     "number": "052",
@@ -141,7 +231,25 @@
       "049",
       "051",
       "053"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Gestión de Horas Pico",
+        "definition": "La gestión de horas pico consiste en mantener la calidad mientras se atiende un alto volumen de clientes.",
+        "why": "La consistencia bajo presión define a los baristas profesionales.",
+        "tip": "Lento es suave. Suave se vuelve rápido.",
+        "mistake": "Apresurarse y cometer errores evitables.",
+        "challenge": "¿Cómo te mantienes tranquilo ante una fila de veinte clientes?"
+      },
+      "pt": {
+        "title": "Gestão de Horários de Pico",
+        "definition": "A gestão de horários de pico consiste em manter a qualidade enquanto se atende um alto volume de clientes.",
+        "why": "A consistência sob pressão define os baristas profissionais.",
+        "tip": "Devagar é suave. Suave se torna rápido.",
+        "mistake": "Apressar-se e cometer erros evitáveis.",
+        "challenge": "Como você se mantém calmo diante de uma fila de vinte clientes?"
+      }
+    }
   },
   {
     "number": "053",
@@ -159,7 +267,25 @@
       "050",
       "052",
       "054"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Consistencia",
+        "definition": "Consistencia significa producir la misma calidad repetidamente a lo largo del día.",
+        "why": "Los clientes regresan porque confían en la experiencia.",
+        "tip": "Mide todo lo que puedas.",
+        "mistake": "Confiar solo en el instinto.",
+        "challenge": "Nombra tres variables que deberías medir en cada turno."
+      },
+      "pt": {
+        "title": "Consistência",
+        "definition": "Consistência significa produzir a mesma qualidade repetidamente ao longo do dia.",
+        "why": "Os clientes voltam porque confiam na experiência.",
+        "tip": "Meça tudo o que puder.",
+        "mistake": "Confiar apenas no instinto.",
+        "challenge": "Nomeie três variáveis que você deveria medir em cada turno."
+      }
+    }
   },
   {
     "number": "054",
@@ -177,7 +303,25 @@
       "053",
       "055",
       "047"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Gestión del Tiempo",
+        "definition": "La gestión del tiempo consiste en equilibrar la preparación, el servicio y la limpieza de manera eficiente.",
+        "why": "Una gestión eficaz del tiempo reduce el estrés y mejora la calidad del servicio.",
+        "tip": "Prioriza primero las tareas que afectan a los clientes.",
+        "mistake": "Dedicar demasiado tiempo a tareas de bajo valor.",
+        "challenge": "¿Qué tareas se pueden completar durante los períodos tranquilos?"
+      },
+      "pt": {
+        "title": "Gestão de Tempo",
+        "definition": "A gestão de tempo consiste em equilibrar preparo, atendimento e limpeza de forma eficiente.",
+        "why": "Uma gestão de tempo eficaz reduz o estresse e melhora a qualidade do atendimento.",
+        "tip": "Priorize primeiro as tarefas que afetam os clientes.",
+        "mistake": "Gastar tempo demais em tarefas de baixo valor.",
+        "challenge": "Que tarefas podem ser concluídas durante os períodos tranquilos?"
+      }
+    }
   },
   {
     "number": "055",
@@ -195,6 +339,24 @@
       "054",
       "050",
       "045"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Rutina de Cierre",
+        "definition": "Una rutina de cierre estructurada prepara la cafetería para el día siguiente.",
+        "why": "Un buen cierre crea una buena apertura.",
+        "tip": "Usa una lista de verificación por escrito en cada turno.",
+        "mistake": "Confiar en la memoria.",
+        "challenge": "Escribe una rutina de cierre de diez pasos para tu cafetería."
+      },
+      "pt": {
+        "title": "Rotina de Fechamento",
+        "definition": "Uma rotina de fechamento estruturada prepara a cafeteria para o dia seguinte.",
+        "why": "Um bom fechamento cria uma boa abertura.",
+        "tip": "Use uma lista de verificação por escrito em cada turno.",
+        "mistake": "Confiar na memória.",
+        "challenge": "Escreva uma rotina de fechamento de dez passos para sua cafeteria."
+      }
+    }
   }
 ]

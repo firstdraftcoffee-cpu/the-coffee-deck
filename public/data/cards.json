@@ -53,6 +53,24 @@
       "003",
       "004"
     ],
+    "translations": {
+      "es": {
+        "title": "Dosis",
+        "definition": "El peso del café seco colocado en el portafiltro.",
+        "why": "La dosis afecta la profundidad de la pastilla, el flujo y la extracción.",
+        "tip": "Pesa siempre cada dosis.",
+        "mistake": "Cambiar la dosis antes de revisar la molienda.",
+        "challenge": "¿Por qué la dosis afecta el flujo?"
+      },
+      "pt": {
+        "title": "Dose",
+        "definition": "O peso do café seco colocado no porta-filtro.",
+        "why": "A dose afeta a profundidade da pastilha, o fluxo e a extração.",
+        "tip": "Sempre pese cada dose.",
+        "mistake": "Mudar a dose antes de verificar a moagem.",
+        "challenge": "Por que a dose afeta o fluxo?"
+      }
+    },
     "id": 2
   },
   {
@@ -72,6 +90,24 @@
       "004",
       "005"
     ],
+    "translations": {
+      "es": {
+        "title": "Rendimiento",
+        "definition": "El peso del espresso producido en la taza.",
+        "why": "El rendimiento determina la relación de preparación y la fuerza.",
+        "tip": "Mide por peso, nunca por volumen.",
+        "mistake": "Detener la extracción según el color.",
+        "challenge": "Calcula una relación de preparación de 1:2."
+      },
+      "pt": {
+        "title": "Rendimento",
+        "definition": "O peso do espresso produzido na xícara.",
+        "why": "O rendimento determina a proporção de preparo e a força.",
+        "tip": "Meça por peso, nunca por volume.",
+        "mistake": "Parar a extração pela cor.",
+        "challenge": "Calcule uma proporção de preparo de 1:2."
+      }
+    },
     "id": 3
   },
   {
@@ -91,6 +127,24 @@
       "005",
       "006"
     ],
+    "translations": {
+      "es": {
+        "title": "Relación de Preparación",
+        "definition": "La relación entre la dosis de café y el rendimiento de la bebida.",
+        "why": "Uno de los mayores controles de sabor.",
+        "tip": "Empieza alrededor de 1:2.",
+        "mistake": "Pensar que las relaciones son reglas fijas.",
+        "challenge": "Compara 1:1.5 y 1:3."
+      },
+      "pt": {
+        "title": "Proporção de Preparo",
+        "definition": "A relação entre a dose de café e o rendimento da bebida.",
+        "why": "Um dos maiores controles de sabor.",
+        "tip": "Comece em torno de 1:2.",
+        "mistake": "Pensar que as proporções são regras fixas.",
+        "challenge": "Compare 1:1.5 e 1:3."
+      }
+    },
     "id": 4
   },
   {
@@ -110,6 +164,24 @@
       "006",
       "007"
     ],
+    "translations": {
+      "es": {
+        "title": "Extracción",
+        "definition": "La remoción de compuestos solubles del café usando agua.",
+        "why": "La extracción determina la dulzura, la acidez y el amargor.",
+        "tip": "Prueba cada extracción.",
+        "mistake": "Confiar solo en el tiempo de extracción.",
+        "challenge": "Describe la sobreextracción."
+      },
+      "pt": {
+        "title": "Extração",
+        "definition": "A remoção de compostos solúveis do café usando água.",
+        "why": "A extração determina a doçura, a acidez e o amargor.",
+        "tip": "Prove cada extração.",
+        "mistake": "Confiar apenas no tempo de extração.",
+        "challenge": "Descreva a superextração."
+      }
+    },
     "id": 5
   },
   {
@@ -129,6 +201,24 @@
       "007",
       "008"
     ],
+    "translations": {
+      "es": {
+        "title": "Tamaño de Molienda",
+        "definition": "El tamaño de partícula producido por el molinillo.",
+        "why": "El ajuste principal para calibrar la extracción.",
+        "tip": "Mueve el molinillo en pequeños incrementos.",
+        "mistake": "Hacer ajustes enormes.",
+        "challenge": "¿Cómo afecta una molienda más fina al flujo?"
+      },
+      "pt": {
+        "title": "Tamanho da Moagem",
+        "definition": "O tamanho de partícula produzido pelo moedor.",
+        "why": "O principal ajuste para calibrar a extração.",
+        "tip": "Mova o moedor em pequenos incrementos.",
+        "mistake": "Fazer ajustes enormes.",
+        "challenge": "Como uma moagem mais fina afeta o fluxo?"
+      }
+    },
     "id": 6
   },
   {
@@ -148,6 +238,24 @@
       "008",
       "009"
     ],
+    "translations": {
+      "es": {
+        "title": "Tiempo de Extracción",
+        "definition": "El tiempo necesario para alcanzar el peso objetivo de la bebida.",
+        "why": "Solo es útil junto con el rendimiento y el sabor.",
+        "tip": "Registra cada extracción.",
+        "mistake": "Calibrar solo por tiempo.",
+        "challenge": "¿Pueden tiempos idénticos saber diferente?"
+      },
+      "pt": {
+        "title": "Tempo de Extração",
+        "definition": "O tempo necessário para atingir o peso alvo da bebida.",
+        "why": "Só é útil junto com o rendimento e o sabor.",
+        "tip": "Registre cada extração.",
+        "mistake": "Calibrar apenas pelo tempo.",
+        "challenge": "Tempos idênticos podem ter sabores diferentes?"
+      }
+    },
     "id": 7
   },
   {
@@ -167,6 +275,24 @@
       "009",
       "010"
     ],
+    "translations": {
+      "es": {
+        "title": "Canalización",
+        "definition": "Flujo de agua desigual a través de puntos débiles en la pastilla.",
+        "why": "Provoca una extracción desigual.",
+        "tip": "Mejora la preparación de la pastilla.",
+        "mistake": "Ignorar la distribución.",
+        "challenge": "Nombra tres causas."
+      },
+      "pt": {
+        "title": "Canalização",
+        "definition": "Fluxo de água desigual através de pontos fracos na pastilha.",
+        "why": "Provoca uma extração desigual.",
+        "tip": "Melhore o preparo da pastilha.",
+        "mistake": "Ignorar a distribuição.",
+        "challenge": "Nomeie três causas."
+      }
+    },
     "id": 8
   },
   {
@@ -186,6 +312,24 @@
       "010",
       "011"
     ],
+    "translations": {
+      "es": {
+        "title": "Distribución",
+        "definition": "Repartir el café de manera uniforme antes de apisonar.",
+        "why": "Favorece una extracción uniforme.",
+        "tip": "Mantén la técnica simple.",
+        "mistake": "Dejar huecos en la pastilla.",
+        "challenge": "¿Por qué es importante una densidad uniforme?"
+      },
+      "pt": {
+        "title": "Distribuição",
+        "definition": "Espalhar o café uniformemente antes de apisoar.",
+        "why": "Favorece uma extração uniforme.",
+        "tip": "Mantenha a técnica simples.",
+        "mistake": "Deixar vazios na pastilha.",
+        "challenge": "Por que a densidade uniforme é importante?"
+      }
+    },
     "id": 9
   },
   {
@@ -205,6 +349,24 @@
       "011",
       "012"
     ],
+    "translations": {
+      "es": {
+        "title": "Apisonado (Tamping)",
+        "definition": "Comprimir el café en una pastilla nivelada.",
+        "why": "La nivelación es más importante que la fuerza.",
+        "tip": "Concéntrate en la repetibilidad.",
+        "mistake": "Girar de forma agresiva.",
+        "challenge": "¿Por qué es importante un apisonado nivelado?"
+      },
+      "pt": {
+        "title": "Apisoamento (Tamping)",
+        "definition": "Comprimir o café em uma pastilha nivelada.",
+        "why": "O nivelamento é mais importante do que a força.",
+        "tip": "Concentre-se na repetibilidade.",
+        "mistake": "Girar de forma agressiva.",
+        "challenge": "Por que um apisoamento nivelado é importante?"
+      }
+    },
     "id": 10
   },
   {
@@ -224,6 +386,24 @@
       "012",
       "013"
     ],
+    "translations": {
+      "es": {
+        "title": "Pre-infusión",
+        "definition": "Humedecimiento a baja presión de la pastilla antes de la presión completa de preparación.",
+        "why": "Puede mejorar la uniformidad de la extracción.",
+        "tip": "Evalúa por sabor, no por teoría.",
+        "mistake": "Suponer que más tiempo siempre es mejor.",
+        "challenge": "¿Cuándo es útil la pre-infusión?"
+      },
+      "pt": {
+        "title": "Pré-infusão",
+        "definition": "Umedecimento a baixa pressão da pastilha antes da pressão total de preparo.",
+        "why": "Pode melhorar a uniformidade da extração.",
+        "tip": "Avalie pelo sabor, não pela teoria.",
+        "mistake": "Supor que mais tempo é sempre melhor.",
+        "challenge": "Quando a pré-infusão é útil?"
+      }
+    },
     "id": 11
   },
   {
@@ -243,6 +423,24 @@
       "013",
       "014"
     ],
+    "translations": {
+      "es": {
+        "title": "Presión",
+        "definition": "La fuerza que empuja el agua a través de la pastilla de café.",
+        "why": "La presión influye en el flujo y la extracción.",
+        "tip": "La presión estable importa más que la presión máxima.",
+        "mistake": "Culpar a la presión de todos los problemas.",
+        "challenge": "¿Cuál es la presión de preparación tradicional?"
+      },
+      "pt": {
+        "title": "Pressão",
+        "definition": "A força que empurra a água através da pastilha de café.",
+        "why": "A pressão influencia o fluxo e a extração.",
+        "tip": "Pressão estável importa mais do que pressão máxima.",
+        "mistake": "Culpar a pressão por todos os problemas.",
+        "challenge": "Qual é a pressão de preparo tradicional?"
+      }
+    },
     "id": 12
   },
   {
@@ -262,6 +460,24 @@
       "014",
       "015"
     ],
+    "translations": {
+      "es": {
+        "title": "Temperatura",
+        "definition": "La temperatura del agua de preparación durante la extracción.",
+        "why": "La temperatura cambia la eficiencia de la extracción.",
+        "tip": "Cambia solo una variable a la vez.",
+        "mistake": "Hacer grandes saltos de temperatura.",
+        "challenge": "¿Cómo afecta el agua más caliente a la extracción?"
+      },
+      "pt": {
+        "title": "Temperatura",
+        "definition": "A temperatura da água de preparo durante a extração.",
+        "why": "A temperatura muda a eficiência da extração.",
+        "tip": "Mude apenas uma variável de cada vez.",
+        "mistake": "Fazer grandes saltos de temperatura.",
+        "challenge": "Como água mais quente afeta a extração?"
+      }
+    },
     "id": 13
   },
   {
@@ -281,6 +497,24 @@
       "015",
       "006"
     ],
+    "translations": {
+      "es": {
+        "title": "Calibración (Dialling In)",
+        "definition": "El proceso de ajustar las variables del espresso para lograr el sabor deseado.",
+        "why": "Cada café requiere su propia calibración.",
+        "tip": "Cambia una variable a la vez.",
+        "mistake": "Cambiar varias variables juntas.",
+        "challenge": "Enumera la secuencia normal de calibración."
+      },
+      "pt": {
+        "title": "Calibração (Dialling In)",
+        "definition": "O processo de ajustar as variáveis do espresso para alcançar o sabor desejado.",
+        "why": "Cada café requer sua própria calibração.",
+        "tip": "Mude uma variável de cada vez.",
+        "mistake": "Mudar várias variáveis juntas.",
+        "challenge": "Liste a sequência normal de calibração."
+      }
+    },
     "id": 14
   },
   {
@@ -300,6 +534,24 @@
       "004",
       "003"
     ],
+    "translations": {
+      "es": {
+        "title": "Receta",
+        "definition": "Una combinación documentada de dosis, rendimiento, tiempo y temperatura utilizada para producir espresso de forma consistente.",
+        "why": "Las recetas permiten la repetibilidad entre el personal y las sucursales.",
+        "tip": "Escribe cada receta.",
+        "mistake": "Confiar en la memoria.",
+        "challenge": "Elabora una receta para una dosis de 18 g."
+      },
+      "pt": {
+        "title": "Receita",
+        "definition": "Uma combinação documentada de dose, rendimento, tempo e temperatura usada para produzir espresso de forma consistente.",
+        "why": "Receitas permitem repetibilidade entre a equipe e as unidades.",
+        "tip": "Escreva cada receita.",
+        "mistake": "Confiar na memória.",
+        "challenge": "Elabore uma receita para uma dose de 18g."
+      }
+    },
     "id": 15
   },
   {
@@ -356,6 +608,24 @@
       "018",
       "021"
     ],
+    "translations": {
+      "es": {
+        "title": "Temperatura de la Leche",
+        "definition": "La mayoría de las bebidas con leche se sirven entre 55 °C y 65 °C, según la bebida y la preferencia del cliente.",
+        "why": "La temperatura cambia la dulzura, la textura y la bebilidad.",
+        "tip": "Usa tu termómetro hasta que reconozcas la temperatura al tacto de forma consistente.",
+        "mistake": "Sobrecalentar la leche por encima de 70 °C.",
+        "challenge": "¿Por qué la leche sobrecalentada sabe menos dulce?"
+      },
+      "pt": {
+        "title": "Temperatura do Leite",
+        "definition": "A maioria das bebidas com leite é servida entre 55°C e 65°C, dependendo da bebida e da preferência do cliente.",
+        "why": "A temperatura muda a doçura, a textura e a bebibilidade.",
+        "tip": "Use seu termômetro até reconhecer a temperatura pelo toque de forma consistente.",
+        "mistake": "Superaquecer o leite acima de 70°C.",
+        "challenge": "Por que o leite superaquecido tem sabor menos doce?"
+      }
+    },
     "id": 17
   },
   {
@@ -375,6 +645,24 @@
       "019",
       "020"
     ],
+    "translations": {
+      "es": {
+        "title": "Estiramiento (Stretching)",
+        "definition": "El estiramiento es la introducción de aire durante la primera etapa del vaporizado.",
+        "why": "La cantidad de estiramiento determina el volumen final de espuma.",
+        "tip": "Introduce aire al principio y luego detente.",
+        "mistake": "Agregar aire durante todo el proceso de vaporizado.",
+        "challenge": "¿Cuándo debería detenerse el estiramiento?"
+      },
+      "pt": {
+        "title": "Alongamento (Stretching)",
+        "definition": "O alongamento é a introdução de ar durante a primeira etapa da vaporização.",
+        "why": "A quantidade de alongamento determina o volume final de espuma.",
+        "tip": "Introduza ar no início e depois pare.",
+        "mistake": "Adicionar ar durante todo o processo de vaporização.",
+        "challenge": "Quando o alongamento deve parar?"
+      }
+    },
     "id": 18
   },
   {
@@ -394,6 +682,24 @@
       "020",
       "021"
     ],
+    "translations": {
+      "es": {
+        "title": "Texturizado",
+        "definition": "El texturizado crea un remolino que incorpora aire de manera uniforme en la leche.",
+        "why": "Un vórtice suave produce un microfoam brillante.",
+        "tip": "Escucha un sonido suave, como de papel rasgándose.",
+        "mistake": "Crear burbujas grandes.",
+        "challenge": "Describe la textura perfecta de la leche."
+      },
+      "pt": {
+        "title": "Texturização",
+        "definition": "A texturização cria um redemoinho que incorpora ar uniformemente ao leite.",
+        "why": "Um vórtice suave produz um microfoam brilhante.",
+        "tip": "Ouça um som suave, como de papel rasgando.",
+        "mistake": "Criar bolhas grandes.",
+        "challenge": "Descreva a textura perfeita do leite."
+      }
+    },
     "id": 19
   },
   {
@@ -413,6 +719,24 @@
       "021",
       "022"
     ],
+    "translations": {
+      "es": {
+        "title": "Microfoam",
+        "definition": "El microfoam es leche que contiene burbujas extremadamente finas y distribuidas de manera uniforme.",
+        "why": "Crea dulzura, cuerpo y permite el latte art.",
+        "tip": "Piensa en pintura blanca húmeda.",
+        "mistake": "Confundir la espuma común con el microfoam.",
+        "challenge": "¿Cómo debería fluir un microfoam perfecto al servir?"
+      },
+      "pt": {
+        "title": "Microfoam",
+        "definition": "O microfoam é o leite que contém bolhas extremamente finas e distribuídas uniformemente.",
+        "why": "Cria doçura, corpo e permite o latte art.",
+        "tip": "Pense em tinta branca molhada.",
+        "mistake": "Confundir espuma comum com microfoam.",
+        "challenge": "Como um microfoam perfeito deveria fluir ao servir?"
+      }
+    },
     "id": 20
   },
   {
@@ -432,6 +756,24 @@
       "022",
       "023"
     ],
+    "translations": {
+      "es": {
+        "title": "Latte Art",
+        "definition": "El latte art combina el espresso, la textura de la leche y la técnica de vertido.",
+        "why": "Un buen latte art es evidencia de una buena preparación de la leche.",
+        "tip": "Perfecciona la textura antes de aprender patrones avanzados.",
+        "mistake": "Concentrarse en los patrones en lugar de en la calidad de la leche.",
+        "challenge": "Nombra tres diseños clásicos de latte art."
+      },
+      "pt": {
+        "title": "Latte Art",
+        "definition": "O latte art combina o espresso, a textura do leite e a técnica de despejo.",
+        "why": "Um bom latte art é evidência de um bom preparo do leite.",
+        "tip": "Aperfeiçoe a textura antes de aprender padrões avançados.",
+        "mistake": "Focar nos padrões em vez da qualidade do leite.",
+        "challenge": "Nomeie três desenhos clássicos de latte art."
+      }
+    },
     "id": 21
   },
   {
@@ -451,6 +793,24 @@
       "023",
       "024"
     ],
+    "translations": {
+      "es": {
+        "title": "Leches Alternativas",
+        "definition": "Las leches vegetales se vaporizan de manera diferente porque sus proteínas y grasas difieren de la leche de vaca.",
+        "why": "La técnica a menudo necesita ajustarse entre productos.",
+        "tip": "Lee siempre las recomendaciones del fabricante.",
+        "mistake": "Vaporizar la leche de avena, soya y almendra de la misma manera.",
+        "challenge": "¿Qué leche alternativa suele ser más fácil para el latte art?"
+      },
+      "pt": {
+        "title": "Leites Alternativos",
+        "definition": "Os leites vegetais são vaporizados de forma diferente porque suas proteínas e gorduras diferem do leite de vaca.",
+        "why": "A técnica frequentemente precisa ser ajustada entre produtos.",
+        "tip": "Sempre leia as recomendações do fabricante.",
+        "mistake": "Vaporizar leite de aveia, soja e amêndoa da mesma forma.",
+        "challenge": "Qual leite alternativo costuma ser mais fácil para o latte art?"
+      }
+    },
     "id": 22
   },
   {
@@ -470,6 +830,24 @@
       "024",
       "025"
     ],
+    "translations": {
+      "es": {
+        "title": "Jarras de Leche",
+        "definition": "Elige un tamaño de jarra que coincida con el volumen de la bebida.",
+        "why": "El tamaño correcto de jarra mejora la textura y reduce el desperdicio.",
+        "tip": "Llena la jarra hasta aproximadamente un tercio antes de vaporizar.",
+        "mistake": "Usar una sola jarra grande para todas las bebidas.",
+        "challenge": "¿Por qué importa el tamaño de la jarra?"
+      },
+      "pt": {
+        "title": "Jarras de Leite",
+        "definition": "Escolha um tamanho de jarra que corresponda ao volume da bebida.",
+        "why": "O tamanho correto da jarra melhora a textura e reduz o desperdício.",
+        "tip": "Encha a jarra até cerca de um terço antes de vaporizar.",
+        "mistake": "Usar uma única jarra grande para todas as bebidas.",
+        "challenge": "Por que o tamanho da jarra importa?"
+      }
+    },
     "id": 23
   },
   {
@@ -489,6 +867,24 @@
       "025",
       "017"
     ],
+    "translations": {
+      "es": {
+        "title": "Higiene del Vaporizador",
+        "definition": "Los vaporizadores deben purgarse antes y después de cada uso y limpiarse de inmediato.",
+        "why": "Los residuos de leche se convierten en un riesgo de seguridad alimentaria muy rápidamente.",
+        "tip": "Purga, limpia, purga.",
+        "mistake": "Dejar que la leche se seque en el vaporizador.",
+        "challenge": "¿Por qué debería purgarse el vaporizador antes de vaporizar?"
+      },
+      "pt": {
+        "title": "Higiene do Vaporizador",
+        "definition": "Os vaporizadores devem ser purgados antes e depois de cada uso e limpos imediatamente.",
+        "why": "Resíduos de leite se tornam um risco de segurança alimentar muito rapidamente.",
+        "tip": "Purgue, limpe, purgue.",
+        "mistake": "Deixar o leite secar no vaporizador.",
+        "challenge": "Por que o vaporizador deve ser purgado antes de vaporizar?"
+      }
+    },
     "id": 24
   },
   {
@@ -508,6 +904,24 @@
       "023",
       "020"
     ],
+    "translations": {
+      "es": {
+        "title": "Desperdicio de Leche",
+        "definition": "Una medición precisa de la leche reduce el desperdicio y mejora la rentabilidad.",
+        "why": "La leche es uno de los costos continuos más altos en la mayoría de las cafeterías.",
+        "tip": "Vaporiza solo lo que necesitas.",
+        "mistake": "Llenar en exceso las jarras en cada bebida.",
+        "challenge": "Calcula el costo semanal de desperdiciar 100 ml por bebida."
+      },
+      "pt": {
+        "title": "Desperdício de Leite",
+        "definition": "Uma medição precisa do leite reduz o desperdício e melhora a rentabilidade.",
+        "why": "O leite é um dos custos contínuos mais altos na maioria das cafeterias.",
+        "tip": "Vaporize apenas o que você precisa.",
+        "mistake": "Encher demais as jarras em cada bebida.",
+        "challenge": "Calcule o custo semanal de desperdiçar 100ml por bebida."
+      }
+    },
     "id": 25
   },
   {
@@ -564,6 +978,24 @@
       "028",
       "030"
     ],
+    "translations": {
+      "es": {
+        "title": "Bloom (Prehumectación)",
+        "definition": "El bloom es el primer vertido, que permite que el dióxido de carbono escape antes de la extracción principal.",
+        "why": "Un bloom adecuado favorece una saturación uniforme.",
+        "tip": "Usa aproximadamente el doble del peso del café en agua.",
+        "mistake": "Omitir el bloom.",
+        "challenge": "¿Por qué los cafés frescos hacen más bloom?"
+      },
+      "pt": {
+        "title": "Bloom (Pré-infusão)",
+        "definition": "O bloom é o primeiro despejo, que permite que o dióxido de carbono escape antes da extração principal.",
+        "why": "Um bloom adequado favorece uma saturação uniforme.",
+        "tip": "Use aproximadamente o dobro do peso do café em água.",
+        "mistake": "Pular o bloom.",
+        "challenge": "Por que cafés frescos fazem mais bloom?"
+      }
+    },
     "id": 27
   },
   {
@@ -583,6 +1015,24 @@
       "029",
       "031"
     ],
+    "translations": {
+      "es": {
+        "title": "Técnica de Vertido",
+        "definition": "Un vertido controlado mantiene una mezcla uniforme y favorece una extracción homogénea.",
+        "why": "Los vertidos desiguales crean una extracción desigual.",
+        "tip": "Vierte lentamente en círculos consistentes.",
+        "mistake": "Verter directamente sobre el papel filtro.",
+        "challenge": "¿Por qué evitar verter por los bordes?"
+      },
+      "pt": {
+        "title": "Técnica de Despejo",
+        "definition": "Um despejo controlado mantém uma mistura uniforme e favorece uma extração homogênea.",
+        "why": "Despejos desiguais criam uma extração desigual.",
+        "tip": "Despeje lentamente em círculos consistentes.",
+        "mistake": "Despejar diretamente sobre o papel filtro.",
+        "challenge": "Por que evitar despejar pelas bordas?"
+      }
+    },
     "id": 28
   },
   {
@@ -602,6 +1052,24 @@
       "030",
       "032"
     ],
+    "translations": {
+      "es": {
+        "title": "Agitación",
+        "definition": "La agitación es el movimiento del agua o el café durante la preparación.",
+        "why": "Demasiada o muy poca afecta la extracción.",
+        "tip": "Mantén la agitación intencional.",
+        "mistake": "Remover en exceso.",
+        "challenge": "Nombra tres fuentes de agitación."
+      },
+      "pt": {
+        "title": "Agitação",
+        "definition": "A agitação é o movimento da água ou do café durante o preparo.",
+        "why": "Agitação em excesso ou de menos afeta a extração.",
+        "tip": "Mantenha a agitação intencional.",
+        "mistake": "Mexer excessivamente.",
+        "challenge": "Nomeie três fontes de agitação."
+      }
+    },
     "id": 29
   },
   {
@@ -621,6 +1089,24 @@
       "031",
       "033"
     ],
+    "translations": {
+      "es": {
+        "title": "Drenaje Final (Drawdown)",
+        "definition": "El drenaje final es la etapa final en la que el agua drena a través del lecho de café.",
+        "why": "Influye en el tiempo de contacto y la extracción.",
+        "tip": "Presta atención a paradas repentinas.",
+        "mistake": "Ignorar el tiempo de drenaje final.",
+        "challenge": "¿Qué causa un drenaje final estancado?"
+      },
+      "pt": {
+        "title": "Drenagem Final (Drawdown)",
+        "definition": "A drenagem final é a etapa final em que a água drena através do leito de café.",
+        "why": "Influencia o tempo de contato e a extração.",
+        "tip": "Fique atento a paradas repentinas.",
+        "mistake": "Ignorar o tempo de drenagem final.",
+        "challenge": "O que causa uma drenagem final travada?"
+      }
+    },
     "id": 30
   },
   {
@@ -640,6 +1126,24 @@
       "032",
       "034"
     ],
+    "translations": {
+      "es": {
+        "title": "Bypass",
+        "definition": "El bypass consiste en agregar agua después de la preparación para ajustar la fuerza.",
+        "why": "Cambia la fuerza sin alterar la extracción.",
+        "tip": "Registra cualquier bypass utilizado.",
+        "mistake": "Confundir el bypass con la subextracción.",
+        "challenge": "¿Cuándo sería útil el bypass?"
+      },
+      "pt": {
+        "title": "Bypass",
+        "definition": "O bypass consiste em adicionar água depois do preparo para ajustar a força.",
+        "why": "Muda a força sem alterar a extração.",
+        "tip": "Registre qualquer bypass utilizado.",
+        "mistake": "Confundir bypass com subextração.",
+        "challenge": "Quando o bypass seria útil?"
+      }
+    },
     "id": 31
   },
   {
@@ -659,6 +1163,24 @@
       "033",
       "035"
     ],
+    "translations": {
+      "es": {
+        "title": "Tiempo de Extracción",
+        "definition": "El tiempo total desde el primer vertido hasta que el preparador termina de drenar.",
+        "why": "El tiempo aporta información útil sobre la preparación.",
+        "tip": "Compara el tiempo con el sabor.",
+        "mistake": "Tratar el tiempo como el objetivo.",
+        "challenge": "¿Pueden dos preparaciones con tiempos idénticos saber diferente?"
+      },
+      "pt": {
+        "title": "Tempo de Extração",
+        "definition": "O tempo total desde o primeiro despejo até o preparador terminar de drenar.",
+        "why": "O tempo fornece um retorno útil sobre o preparo.",
+        "tip": "Compare o tempo com o sabor.",
+        "mistake": "Tratar o tempo como o objetivo.",
+        "challenge": "Dois preparos com tempos idênticos podem ter sabores diferentes?"
+      }
+    },
     "id": 32
   },
   {
@@ -678,6 +1200,24 @@
       "034",
       "026"
     ],
+    "translations": {
+      "es": {
+        "title": "Filtros de Papel",
+        "definition": "Los filtros de papel retienen aceites y partículas finas, produciendo una taza más limpia.",
+        "why": "La elección del filtro cambia el sabor y el cuerpo.",
+        "tip": "Enjuaga los filtros de papel antes de preparar.",
+        "mistake": "Omitir el enjuague.",
+        "challenge": "¿Por qué enjuagar los filtros de papel?"
+      },
+      "pt": {
+        "title": "Filtros de Papel",
+        "definition": "Os filtros de papel retêm óleos e partículas finas, produzindo uma xícara mais limpa.",
+        "why": "A escolha do filtro muda o sabor e o corpo.",
+        "tip": "Enxágue os filtros de papel antes de preparar.",
+        "mistake": "Pular o enxágue.",
+        "challenge": "Por que enxaguar os filtros de papel?"
+      }
+    },
     "id": 33
   },
   {
@@ -697,6 +1237,24 @@
       "035",
       "026"
     ],
+    "translations": {
+      "es": {
+        "title": "Filtros Metálicos",
+        "definition": "Los filtros metálicos permiten que pasen más aceites y finos a la taza.",
+        "why": "Esto aumenta el cuerpo y la sensación en boca.",
+        "tip": "Ajusta la molienda un poco más gruesa si es necesario.",
+        "mistake": "Esperar la claridad propia de un filtro de papel.",
+        "challenge": "Compara los filtros metálicos y de papel."
+      },
+      "pt": {
+        "title": "Filtros Metálicos",
+        "definition": "Os filtros metálicos permitem que mais óleos e finos passem para a xícara.",
+        "why": "Isso aumenta o corpo e a sensação na boca.",
+        "tip": "Ajuste a moagem um pouco mais grossa se necessário.",
+        "mistake": "Esperar a clareza típica de um filtro de papel.",
+        "challenge": "Compare os filtros metálicos e de papel."
+      }
+    },
     "id": 34
   },
   {
@@ -716,6 +1274,24 @@
       "027",
       "032"
     ],
+    "translations": {
+      "es": {
+        "title": "Relación de Preparación",
+        "definition": "La relación entre la dosis de café y el agua de preparación.",
+        "why": "Determina la fuerza de la bebida.",
+        "tip": "Empieza alrededor de 60 g/L.",
+        "mistake": "Cambiar la relación y la molienda al mismo tiempo.",
+        "challenge": "Calcula una preparación de 300 ml usando 60 g/L."
+      },
+      "pt": {
+        "title": "Proporção de Preparo",
+        "definition": "A relação entre a dose de café e a água de preparo.",
+        "why": "Determina a força da bebida.",
+        "tip": "Comece em torno de 60g/L.",
+        "mistake": "Mudar a proporção e a moagem ao mesmo tempo.",
+        "challenge": "Calcule um preparo de 300ml usando 60g/L."
+      }
+    },
     "id": 35
   },
   {
@@ -772,6 +1348,24 @@
       "038",
       "042"
     ],
+    "translations": {
+      "es": {
+        "title": "Portafiltro",
+        "definition": "El portafiltro sostiene la canasta de café durante la extracción del espresso.",
+        "why": "Un portafiltro limpio y caliente mejora la consistencia de la extracción.",
+        "tip": "Mantén el portafiltro enganchado en el grupo entre extracciones.",
+        "mistake": "Dejar las canastas mojadas antes de dosificar.",
+        "challenge": "¿Por qué el portafiltro debe mantenerse caliente?"
+      },
+      "pt": {
+        "title": "Porta-filtro",
+        "definition": "O porta-filtro sustenta o cesto de café durante a extração do espresso.",
+        "why": "Um porta-filtro limpo e quente melhora a consistência da extração.",
+        "tip": "Mantenha o porta-filtro encaixado no grupo entre as extrações.",
+        "mistake": "Deixar os cestos molhados antes de dosar.",
+        "challenge": "Por que o porta-filtro deve permanecer quente?"
+      }
+    },
     "id": 37
   },
   {
@@ -791,6 +1385,24 @@
       "039",
       "043"
     ],
+    "translations": {
+      "es": {
+        "title": "Canasta",
+        "definition": "La canasta sostiene el café molido dentro del portafiltro.",
+        "why": "El tamaño de la canasta determina el rango de dosis adecuado.",
+        "tip": "Haz coincidir la canasta con la receta.",
+        "mistake": "Llenar de más o de menos las canastas.",
+        "challenge": "¿Por qué importa el espacio libre superior?"
+      },
+      "pt": {
+        "title": "Cesto",
+        "definition": "O cesto sustenta o café moído dentro do porta-filtro.",
+        "why": "O tamanho do cesto determina a faixa de dose adequada.",
+        "tip": "Combine o cesto com a receita.",
+        "mistake": "Encher demais ou de menos os cestos.",
+        "challenge": "Por que o espaço livre superior importa?"
+      }
+    },
     "id": 38
   },
   {
@@ -810,6 +1422,24 @@
       "040",
       "044"
     ],
+    "translations": {
+      "es": {
+        "title": "Ducha (Shower Screen)",
+        "definition": "La ducha distribuye el agua de preparación de manera uniforme sobre la pastilla de café.",
+        "why": "Las duchas limpias mejoran la consistencia de la extracción.",
+        "tip": "Cepilla el grupo después de cada extracción.",
+        "mistake": "Ignorar la limpieza diaria.",
+        "challenge": "¿Qué ocurre cuando una ducha se obstruye?"
+      },
+      "pt": {
+        "title": "Chuveiro (Shower Screen)",
+        "definition": "O chuveiro distribui a água de preparo uniformemente sobre a pastilha de café.",
+        "why": "Chuveiros limpos melhoram a consistência da extração.",
+        "tip": "Escove o grupo após cada extração.",
+        "mistake": "Ignorar a limpeza diária.",
+        "challenge": "O que acontece quando um chuveiro entope?"
+      }
+    },
     "id": 39
   },
   {
@@ -829,6 +1459,24 @@
       "039",
       "041"
     ],
+    "translations": {
+      "es": {
+        "title": "Vaporizador",
+        "definition": "El vaporizador inyecta vapor en la leche para calentarla y texturizarla.",
+        "why": "La presión de vapor correcta crea un microfoam consistente.",
+        "tip": "Purga antes y después de cada uso.",
+        "mistake": "Dejar residuos de leche en el vaporizador.",
+        "challenge": "¿Por qué purgar dos veces?"
+      },
+      "pt": {
+        "title": "Vaporizador",
+        "definition": "O vaporizador injeta vapor no leite para aquecê-lo e texturizá-lo.",
+        "why": "A pressão de vapor correta cria um microfoam consistente.",
+        "tip": "Purgue antes e depois de cada uso.",
+        "mistake": "Deixar resíduos de leite no vaporizador.",
+        "challenge": "Por que purgar duas vezes?"
+      }
+    },
     "id": 40
   },
   {
@@ -848,6 +1496,24 @@
       "037",
       "039"
     ],
+    "translations": {
+      "es": {
+        "title": "Grupo",
+        "definition": "El grupo es donde el portafiltro se engancha en la máquina de espresso.",
+        "why": "La estabilidad térmica comienza aquí.",
+        "tip": "Purga el grupo cuando corresponda según tu máquina.",
+        "mistake": "Ignorar la limpieza del grupo.",
+        "challenge": "¿Qué logra purgar el grupo?"
+      },
+      "pt": {
+        "title": "Grupo",
+        "definition": "O grupo é onde o porta-filtro se encaixa na máquina de espresso.",
+        "why": "A estabilidade térmica começa aqui.",
+        "tip": "Purgue o grupo quando apropriado para sua máquina.",
+        "mistake": "Ignorar a limpeza do grupo.",
+        "challenge": "O que a purga do grupo alcança?"
+      }
+    },
     "id": 41
   },
   {
@@ -867,6 +1533,24 @@
       "043",
       "044"
     ],
+    "translations": {
+      "es": {
+        "title": "Muelas del Molinillo",
+        "definition": "Las muelas trituran el café en partículas de tamaño consistente.",
+        "why": "La consistencia de las partículas impulsa la calidad de la extracción.",
+        "tip": "Reemplaza las muelas antes de que estén excesivamente desgastadas.",
+        "mistake": "Ajustar la molienda para compensar muelas desgastadas.",
+        "challenge": "¿Cómo afectan al sabor las muelas desgastadas?"
+      },
+      "pt": {
+        "title": "Rebolos do Moedor",
+        "definition": "Os rebolos trituram o café em partículas de tamanho consistente.",
+        "why": "A consistência das partículas impulsiona a qualidade da extração.",
+        "tip": "Substitua os rebolos antes que fiquem excessivamente desgastados.",
+        "mistake": "Ajustar a moagem para compensar rebolos desgastados.",
+        "challenge": "Como rebolos desgastados afetam o sabor?"
+      }
+    },
     "id": 42
   },
   {
@@ -886,6 +1570,24 @@
       "006",
       "044"
     ],
+    "translations": {
+      "es": {
+        "title": "Calibración del Molinillo",
+        "definition": "La calibración asegura que los ajustes del molinillo correspondan con precisión a la posición de las muelas.",
+        "why": "Una calibración confiable hace que el ajuste de molienda sea repetible.",
+        "tip": "Calibra después de un mantenimiento importante.",
+        "mistake": "Suponer que el cero de fábrica nunca cambia.",
+        "challenge": "¿Cuándo deberían recalibrarse los molinillos?"
+      },
+      "pt": {
+        "title": "Calibração do Moedor",
+        "definition": "A calibração garante que os ajustes do moedor correspondam com precisão à posição dos rebolos.",
+        "why": "Uma calibração confiável torna o ajuste de moagem repetível.",
+        "tip": "Calibre após manutenções importantes.",
+        "mistake": "Supor que o zero de fábrica nunca muda.",
+        "challenge": "Quando os moedores devem ser recalibrados?"
+      }
+    },
     "id": 43
   },
   {
@@ -905,6 +1607,24 @@
       "045",
       "091"
     ],
+    "translations": {
+      "es": {
+        "title": "Filtro de Agua",
+        "definition": "La filtración de agua protege el equipo y mejora la calidad en taza.",
+        "why": "El agua de mala calidad daña las máquinas y afecta el sabor.",
+        "tip": "Reemplaza los filtros según el calendario indicado.",
+        "mistake": "Esperar hasta que cambie el sabor.",
+        "challenge": "¿Qué problemas causa la cal (incrustaciones)?"
+      },
+      "pt": {
+        "title": "Filtro de Água",
+        "definition": "A filtragem de água protege o equipamento e melhora a qualidade na xícara.",
+        "why": "Água de má qualidade danifica as máquinas e afeta o sabor.",
+        "tip": "Substitua os filtros conforme o cronograma.",
+        "mistake": "Esperar até o sabor mudar.",
+        "challenge": "Que problemas o calcário causa?"
+      }
+    },
     "id": 44
   },
   {
@@ -924,6 +1644,24 @@
       "040",
       "044"
     ],
+    "translations": {
+      "es": {
+        "title": "Mantenimiento Preventivo",
+        "definition": "El mantenimiento rutinario previene averías y mantiene la calidad del café.",
+        "why": "La prevención es más barata que las reparaciones de emergencia.",
+        "tip": "Usa calendarios de mantenimiento por escrito.",
+        "mistake": "Esperar hasta que el equipo falle.",
+        "challenge": "Nombra cinco tareas de mantenimiento diario."
+      },
+      "pt": {
+        "title": "Manutenção Preventiva",
+        "definition": "A manutenção de rotina previne quebras e mantém a qualidade do café.",
+        "why": "Prevenir é mais barato do que reparos de emergência.",
+        "tip": "Use cronogramas de manutenção por escrito.",
+        "mistake": "Esperar até o equipamento falhar.",
+        "challenge": "Nomeie cinco tarefas de manutenção diária."
+      }
+    },
     "id": 45
   },
   {
@@ -980,6 +1718,24 @@
       "048",
       "050"
     ],
+    "translations": {
+      "es": {
+        "title": "Mise en Place",
+        "definition": "Mise en place significa tener todo preparado y organizado antes de que comience el servicio.",
+        "why": "La preparación reduce el estrés y mejora la consistencia.",
+        "tip": "Empieza cada turno con la misma rutina de montaje.",
+        "mistake": "Prepararse mientras los clientes esperan.",
+        "challenge": "Nombra cinco cosas que deberían revisarse antes de abrir."
+      },
+      "pt": {
+        "title": "Mise en Place",
+        "definition": "Mise en place significa ter tudo preparado e organizado antes do início do atendimento.",
+        "why": "A preparação reduz o estresse e melhora a consistência.",
+        "tip": "Comece cada turno com a mesma rotina de montagem.",
+        "mistake": "Preparar-se enquanto os clientes esperam.",
+        "challenge": "Nomeie cinco itens que devem ser verificados antes de abrir."
+      }
+    },
     "id": 47
   },
   {
@@ -999,6 +1755,24 @@
       "049",
       "051"
     ],
+    "translations": {
+      "es": {
+        "title": "Organización de la Estación",
+        "definition": "Una estación de trabajo bien organizada mantiene herramientas, leche y café al alcance de la mano.",
+        "why": "Pequeñas mejoras ahorran cientos de movimientos cada día.",
+        "tip": "Devuelve cada herramienta al mismo lugar.",
+        "mistake": "Dejar la barra desordenada.",
+        "challenge": "Describe tu diseño ideal de estación de espresso."
+      },
+      "pt": {
+        "title": "Organização da Estação",
+        "definition": "Uma estação de trabalho bem organizada mantém ferramentas, leite e café ao alcance da mão.",
+        "why": "Pequenas melhorias economizam centenas de movimentos por dia.",
+        "tip": "Devolva cada ferramenta ao mesmo lugar.",
+        "mistake": "Deixar o balcão desorganizado.",
+        "challenge": "Descreva o layout ideal da sua estação de espresso."
+      }
+    },
     "id": 48
   },
   {
@@ -1018,6 +1792,24 @@
       "048",
       "052"
     ],
+    "translations": {
+      "es": {
+        "title": "Secuenciación de Bebidas",
+        "definition": "La secuenciación de bebidas es decidir el orden más eficiente para preparar múltiples bebidas.",
+        "why": "Una secuenciación correcta mejora la velocidad sin reducir la calidad.",
+        "tip": "Piensa con dos bebidas de anticipación.",
+        "mistake": "Terminar una bebida a la vez durante las horas de mayor afluencia.",
+        "challenge": "¿Cómo secuenciarías cuatro bebidas con leche y dos cafés negros?"
+      },
+      "pt": {
+        "title": "Sequenciamento de Bebidas",
+        "definition": "O sequenciamento de bebidas é decidir a ordem mais eficiente para preparar várias bebidas.",
+        "why": "Um sequenciamento correto melhora a velocidade sem reduzir a qualidade.",
+        "tip": "Pense com duas bebidas de antecedência.",
+        "mistake": "Terminar uma bebida de cada vez durante os horários de pico.",
+        "challenge": "Como você sequenciaria quatro bebidas com leite e dois cafés pretos?"
+      }
+    },
     "id": 49
   },
   {
@@ -1037,6 +1829,24 @@
       "051",
       "053"
     ],
+    "translations": {
+      "es": {
+        "title": "Limpiar Sobre la Marcha",
+        "definition": "Pequeñas tareas de limpieza realizadas continuamente evitan una limpieza mayor después.",
+        "why": "Una estación limpia favorece la velocidad y la profesionalidad.",
+        "tip": "Reinicia la estación después de cada cliente.",
+        "mistake": "Esperar hasta la hora de cierre.",
+        "challenge": "Enumera cinco cosas que deberías limpiar durante el servicio."
+      },
+      "pt": {
+        "title": "Limpar Durante o Serviço",
+        "definition": "Pequenas tarefas de limpeza realizadas continuamente evitam uma limpeza maior depois.",
+        "why": "Uma estação limpa favorece a velocidade e o profissionalismo.",
+        "tip": "Reorganize a estação após cada cliente.",
+        "mistake": "Esperar até a hora de fechar.",
+        "challenge": "Liste cinco coisas que você deveria limpar durante o atendimento."
+      }
+    },
     "id": 50
   },
   {
@@ -1056,6 +1866,24 @@
       "050",
       "052"
     ],
+    "translations": {
+      "es": {
+        "title": "Comunicación",
+        "definition": "Una comunicación clara mantiene al equipo coordinado durante el servicio.",
+        "why": "La mayoría de los errores de servicio provienen de una mala comunicación, no de un mal café.",
+        "tip": "Usa un lenguaje corto y consistente.",
+        "mistake": "Hacer suposiciones.",
+        "challenge": "¿Cómo deberías comunicar un pedido retrasado?"
+      },
+      "pt": {
+        "title": "Comunicação",
+        "definition": "Uma comunicação clara mantém a equipe coordenada durante o atendimento.",
+        "why": "A maioria dos erros de atendimento vem de uma comunicação ruim, não de um café ruim.",
+        "tip": "Use uma linguagem curta e consistente.",
+        "mistake": "Fazer suposições.",
+        "challenge": "Como você deveria comunicar um pedido atrasado?"
+      }
+    },
     "id": 51
   },
   {
@@ -1075,6 +1903,24 @@
       "051",
       "053"
     ],
+    "translations": {
+      "es": {
+        "title": "Gestión de Horas Pico",
+        "definition": "La gestión de horas pico consiste en mantener la calidad mientras se atiende un alto volumen de clientes.",
+        "why": "La consistencia bajo presión define a los baristas profesionales.",
+        "tip": "Lento es suave. Suave se vuelve rápido.",
+        "mistake": "Apresurarse y cometer errores evitables.",
+        "challenge": "¿Cómo te mantienes tranquilo ante una fila de veinte clientes?"
+      },
+      "pt": {
+        "title": "Gestão de Horários de Pico",
+        "definition": "A gestão de horários de pico consiste em manter a qualidade enquanto se atende um alto volume de clientes.",
+        "why": "A consistência sob pressão define os baristas profissionais.",
+        "tip": "Devagar é suave. Suave se torna rápido.",
+        "mistake": "Apressar-se e cometer erros evitáveis.",
+        "challenge": "Como você se mantém calmo diante de uma fila de vinte clientes?"
+      }
+    },
     "id": 52
   },
   {
@@ -1094,6 +1940,24 @@
       "052",
       "054"
     ],
+    "translations": {
+      "es": {
+        "title": "Consistencia",
+        "definition": "Consistencia significa producir la misma calidad repetidamente a lo largo del día.",
+        "why": "Los clientes regresan porque confían en la experiencia.",
+        "tip": "Mide todo lo que puedas.",
+        "mistake": "Confiar solo en el instinto.",
+        "challenge": "Nombra tres variables que deberías medir en cada turno."
+      },
+      "pt": {
+        "title": "Consistência",
+        "definition": "Consistência significa produzir a mesma qualidade repetidamente ao longo do dia.",
+        "why": "Os clientes voltam porque confiam na experiência.",
+        "tip": "Meça tudo o que puder.",
+        "mistake": "Confiar apenas no instinto.",
+        "challenge": "Nomeie três variáveis que você deveria medir em cada turno."
+      }
+    },
     "id": 53
   },
   {
@@ -1113,6 +1977,24 @@
       "055",
       "047"
     ],
+    "translations": {
+      "es": {
+        "title": "Gestión del Tiempo",
+        "definition": "La gestión del tiempo consiste en equilibrar la preparación, el servicio y la limpieza de manera eficiente.",
+        "why": "Una gestión eficaz del tiempo reduce el estrés y mejora la calidad del servicio.",
+        "tip": "Prioriza primero las tareas que afectan a los clientes.",
+        "mistake": "Dedicar demasiado tiempo a tareas de bajo valor.",
+        "challenge": "¿Qué tareas se pueden completar durante los períodos tranquilos?"
+      },
+      "pt": {
+        "title": "Gestão de Tempo",
+        "definition": "A gestão de tempo consiste em equilibrar preparo, atendimento e limpeza de forma eficiente.",
+        "why": "Uma gestão de tempo eficaz reduz o estresse e melhora a qualidade do atendimento.",
+        "tip": "Priorize primeiro as tarefas que afetam os clientes.",
+        "mistake": "Gastar tempo demais em tarefas de baixo valor.",
+        "challenge": "Que tarefas podem ser concluídas durante os períodos tranquilos?"
+      }
+    },
     "id": 54
   },
   {
@@ -1132,6 +2014,24 @@
       "050",
       "045"
     ],
+    "translations": {
+      "es": {
+        "title": "Rutina de Cierre",
+        "definition": "Una rutina de cierre estructurada prepara la cafetería para el día siguiente.",
+        "why": "Un buen cierre crea una buena apertura.",
+        "tip": "Usa una lista de verificación por escrito en cada turno.",
+        "mistake": "Confiar en la memoria.",
+        "challenge": "Escribe una rutina de cierre de diez pasos para tu cafetería."
+      },
+      "pt": {
+        "title": "Rotina de Fechamento",
+        "definition": "Uma rotina de fechamento estruturada prepara a cafeteria para o dia seguinte.",
+        "why": "Um bom fechamento cria uma boa abertura.",
+        "tip": "Use uma lista de verificação por escrito em cada turno.",
+        "mistake": "Confiar na memória.",
+        "challenge": "Escreva uma rotina de fechamento de dez passos para sua cafeteria."
+      }
+    },
     "id": 55
   },
   {
@@ -1188,6 +2088,24 @@
       "058",
       "060"
     ],
+    "translations": {
+      "es": {
+        "title": "Fragancia vs. Aroma",
+        "definition": "La fragancia describe el olor del café seco, mientras que el aroma describe el olor después de añadir agua.",
+        "why": "Cada etapa revela diferentes compuestos volátiles.",
+        "tip": "Dedica tiempo a oler antes de probar.",
+        "mistake": "Usar los términos indistintamente.",
+        "challenge": "Describe tres aromas de un café etíope recién preparado."
+      },
+      "pt": {
+        "title": "Fragrância vs. Aroma",
+        "definition": "A fragrância descreve o cheiro do café seco, enquanto o aroma descreve o cheiro depois de adicionada a água.",
+        "why": "Cada etapa revela compostos voláteis diferentes.",
+        "tip": "Dedique tempo a cheirar antes de provar.",
+        "mistake": "Usar os termos de forma intercambiável.",
+        "challenge": "Descreva três aromas de um café etíope recém-preparado."
+      }
+    },
     "id": 57
   },
   {
@@ -1207,6 +2125,24 @@
       "059",
       "061"
     ],
+    "translations": {
+      "es": {
+        "title": "Acidez",
+        "definition": "La acidez es la sensación viva y brillante que aporta estructura y frescura al café.",
+        "why": "Una buena acidez crea equilibrio y complejidad.",
+        "tip": "Piensa en cítricos o fruta madura en lugar de en algo agrio.",
+        "mistake": "Llamar 'agria' a toda acidez.",
+        "challenge": "Nombra tres descriptores positivos de acidez."
+      },
+      "pt": {
+        "title": "Acidez",
+        "definition": "A acidez é a sensação viva e brilhante que traz estrutura e frescor ao café.",
+        "why": "Uma boa acidez cria equilíbrio e complexidade.",
+        "tip": "Pense em cítricos ou frutas maduras em vez de algo azedo.",
+        "mistake": "Chamar toda acidez de 'azeda'.",
+        "challenge": "Nomeie três descritores positivos de acidez."
+      }
+    },
     "id": 58
   },
   {
@@ -1226,6 +2162,24 @@
       "060",
       "062"
     ],
+    "translations": {
+      "es": {
+        "title": "Dulzura",
+        "definition": "La dulzura es un indicador clave de una extracción equilibrada y un café de alta calidad.",
+        "why": "Una mayor dulzura suele indicar un mejor equilibrio.",
+        "tip": "Busca dulzura de caramelo, miel o fruta.",
+        "mistake": "Confundir baja amargura con dulzura.",
+        "challenge": "¿Cómo puede el desarrollo del tueste influir en la dulzura?"
+      },
+      "pt": {
+        "title": "Doçura",
+        "definition": "A doçura é um indicador-chave de uma extração equilibrada e de café de alta qualidade.",
+        "why": "Maior doçura geralmente indica melhor equilíbrio.",
+        "tip": "Procure doçura de caramelo, mel ou fruta.",
+        "mistake": "Confundir baixo amargor com doçura.",
+        "challenge": "Como o desenvolvimento da torra pode influenciar a doçura?"
+      }
+    },
     "id": 59
   },
   {
@@ -1245,6 +2199,24 @@
       "061",
       "063"
     ],
+    "translations": {
+      "es": {
+        "title": "Amargor",
+        "definition": "El amargor es una característica de sabor natural que se vuelve desagradable cuando es excesiva.",
+        "why": "El amargor controlado contribuye al equilibrio.",
+        "tip": "Juzga el amargor junto con la dulzura.",
+        "mistake": "Suponer que todo amargor es un defecto.",
+        "challenge": "Nombra dos causas de amargor excesivo."
+      },
+      "pt": {
+        "title": "Amargor",
+        "definition": "O amargor é uma característica de sabor natural que se torna desagradável quando excessiva.",
+        "why": "O amargor controlado contribui para o equilíbrio.",
+        "tip": "Julgue o amargor junto com a doçura.",
+        "mistake": "Supor que todo amargor é um defeito.",
+        "challenge": "Nomeie duas causas de amargor excessivo."
+      }
+    },
     "id": 60
   },
   {
@@ -1264,6 +2236,24 @@
       "060",
       "062"
     ],
+    "translations": {
+      "es": {
+        "title": "Cuerpo",
+        "definition": "El cuerpo describe el peso y la sensación táctil del café en la boca.",
+        "why": "El cuerpo contribuye significativamente a la experiencia de beber.",
+        "tip": "Compara leche descremada y crema para entender las diferencias de cuerpo.",
+        "mistake": "Confundir fuerza con cuerpo.",
+        "challenge": "Describe un café con un cuerpo similar al del té."
+      },
+      "pt": {
+        "title": "Corpo",
+        "definition": "O corpo descreve o peso e a sensação tátil do café na boca.",
+        "why": "O corpo contribui significativamente para a experiência de beber.",
+        "tip": "Compare leite desnatado e creme para entender as diferenças de corpo.",
+        "mistake": "Confundir força com corpo.",
+        "challenge": "Descreva um café com corpo semelhante ao de um chá."
+      }
+    },
     "id": 61
   },
   {
@@ -1283,6 +2273,24 @@
       "063",
       "064"
     ],
+    "translations": {
+      "es": {
+        "title": "Retrogusto",
+        "definition": "El retrogusto es la sensación de sabor que permanece después de tragar.",
+        "why": "Un final agradable a menudo refleja la calidad general.",
+        "tip": "Espera varios segundos antes de puntuar.",
+        "mistake": "Ignorar el final.",
+        "challenge": "Describe el final de tu café favorito."
+      },
+      "pt": {
+        "title": "Retrogosto",
+        "definition": "O retrogosto é a sensação de sabor que permanece depois de engolir.",
+        "why": "Um final agradável costuma refletir a qualidade geral.",
+        "tip": "Espere vários segundos antes de pontuar.",
+        "mistake": "Ignorar o final.",
+        "challenge": "Descreva o final do seu café favorito."
+      }
+    },
     "id": 62
   },
   {
@@ -1302,6 +2310,24 @@
       "062",
       "064"
     ],
+    "translations": {
+      "es": {
+        "title": "Equilibrio",
+        "definition": "El equilibrio es la armonía entre la acidez, la dulzura, el amargor y el cuerpo.",
+        "why": "Los cafés equilibrados suelen ser más fáciles de disfrutar repetidamente.",
+        "tip": "Evita centrarte en un solo sabor.",
+        "mistake": "Premiar la intensidad por encima del equilibrio.",
+        "challenge": "¿Puede un café ser muy ácido y aun así estar equilibrado?"
+      },
+      "pt": {
+        "title": "Equilíbrio",
+        "definition": "O equilíbrio é a harmonia entre acidez, doçura, amargor e corpo.",
+        "why": "Cafés equilibrados costumam ser mais fáceis de apreciar repetidamente.",
+        "tip": "Evite focar em um único sabor.",
+        "mistake": "Premiar a intensidade em vez do equilíbrio.",
+        "challenge": "Um café pode ser muito ácido e ainda assim ser equilibrado?"
+      }
+    },
     "id": 63
   },
   {
@@ -1321,6 +2347,24 @@
       "065",
       "057"
     ],
+    "translations": {
+      "es": {
+        "title": "Notas de Sabor",
+        "definition": "Las notas de sabor son referencias descriptivas que ayudan a comunicar experiencias sensoriales.",
+        "why": "Crean un lenguaje común para la catación.",
+        "tip": "Usa alimentos familiares en lugar de buscar descriptores exóticos.",
+        "mistake": "Tratar las notas de sabor como ingredientes.",
+        "challenge": "Describe un café usando cinco notas de sabor."
+      },
+      "pt": {
+        "title": "Notas de Sabor",
+        "definition": "As notas de sabor são referências descritivas que ajudam a comunicar experiências sensoriais.",
+        "why": "Criam uma linguagem comum para a prova.",
+        "tip": "Use alimentos familiares em vez de buscar descritores exóticos.",
+        "mistake": "Tratar as notas de sabor como ingredientes.",
+        "challenge": "Descreva um café usando cinco notas de sabor."
+      }
+    },
     "id": 64
   },
   {
@@ -1340,6 +2384,24 @@
       "057",
       "064"
     ],
+    "translations": {
+      "es": {
+        "title": "Calibración",
+        "definition": "La calibración es el proceso de alinear las evaluaciones sensoriales entre varios catadores.",
+        "why": "La calibración mejora la consistencia entre cafeterías, tostadurías y equipos de control de calidad.",
+        "tip": "Discute las diferencias abiertamente después de cada catación.",
+        "mistake": "Intentar ponerse de acuerdo antes de catar de forma independiente.",
+        "challenge": "¿Cómo calibrarías a un equipo de cuatro catadores?"
+      },
+      "pt": {
+        "title": "Calibração",
+        "definition": "A calibração é o processo de alinhar as avaliações sensoriais entre vários provadores.",
+        "why": "A calibração melhora a consistência entre cafeterias, torrefações e equipes de controle de qualidade.",
+        "tip": "Discuta as diferenças abertamente após cada prova.",
+        "mistake": "Tentar chegar a um acordo antes de provar de forma independente.",
+        "challenge": "Como você calibraria uma equipe de quatro provadores?"
+      }
+    },
     "id": 65
   },
   {
@@ -1396,6 +2458,24 @@
       "068",
       "071"
     ],
+    "translations": {
+      "es": {
+        "title": "Contenido de Humedad",
+        "definition": "El contenido de humedad es el porcentaje de agua contenido en el café verde.",
+        "why": "Afecta el comportamiento del tueste, la vida útil y la estabilidad.",
+        "tip": "La mayoría de los cafés de especialidad rinden mejor con una humedad de entre el 10 y el 12%.",
+        "mistake": "Ignorar la humedad al perfilar el tueste.",
+        "challenge": "¿Cómo afecta la humedad alta al tostado?"
+      },
+      "pt": {
+        "title": "Teor de Umidade",
+        "definition": "O teor de umidade é a porcentagem de água contida no café verde.",
+        "why": "Afeta o comportamento da torra, a vida útil e a estabilidade.",
+        "tip": "A maioria dos cafés especiais rende melhor com umidade entre 10% e 12%.",
+        "mistake": "Ignorar a umidade ao definir o perfil de torra.",
+        "challenge": "Como a umidade alta afeta a torra?"
+      }
+    },
     "id": 67
   },
   {
@@ -1415,6 +2495,24 @@
       "069",
       "072"
     ],
+    "translations": {
+      "es": {
+        "title": "Densidad",
+        "definition": "La densidad mide cuánta masa está contenida en un volumen determinado de café.",
+        "why": "La densidad influye en la transferencia de calor durante el tueste.",
+        "tip": "Los cafés de mayor densidad suelen tolerar más energía al inicio del tueste.",
+        "mistake": "Tratar todos los orígenes de la misma manera.",
+        "challenge": "¿Qué orígenes suelen producir cafés de alta densidad?"
+      },
+      "pt": {
+        "title": "Densidade",
+        "definition": "A densidade mede quanta massa está contida em um determinado volume de café.",
+        "why": "A densidade influencia a transferência de calor durante a torra.",
+        "tip": "Cafés de maior densidade geralmente toleram mais energia no início da torra.",
+        "mistake": "Tratar todas as origens da mesma forma.",
+        "challenge": "Quais origens costumam produzir cafés de alta densidade?"
+      }
+    },
     "id": 68
   },
   {
@@ -1434,6 +2532,24 @@
       "070",
       "073"
     ],
+    "translations": {
+      "es": {
+        "title": "Tamaño de Malla (Screen Size)",
+        "definition": "El tamaño de malla se refiere al tamaño del grano medido con tamices graduados.",
+        "why": "Un tamaño uniforme generalmente favorece un tueste más parejo.",
+        "tip": "El tamaño no es lo mismo que la calidad.",
+        "mistake": "Pagar sobreprecio solo por granos grandes.",
+        "challenge": "¿Qué significa Screen 17?"
+      },
+      "pt": {
+        "title": "Tamanho da Peneira (Screen Size)",
+        "definition": "O tamanho da peneira refere-se ao tamanho do grão medido com peneiras graduadas.",
+        "why": "Um tamanho uniforme geralmente favorece uma torra mais uniforme.",
+        "tip": "Tamanho não é o mesmo que qualidade.",
+        "mistake": "Pagar mais caro apenas por grãos grandes.",
+        "challenge": "O que significa Screen 17?"
+      }
+    },
     "id": 69
   },
   {
@@ -1453,6 +2569,24 @@
       "067",
       "071"
     ],
+    "translations": {
+      "es": {
+        "title": "Actividad de Agua",
+        "definition": "La actividad de agua mide cuán disponible está la humedad para el crecimiento microbiano.",
+        "why": "Predice la estabilidad de almacenamiento mejor que la humedad por sí sola.",
+        "tip": "Monitorea la actividad de agua junto con la humedad.",
+        "mistake": "Medir solo el porcentaje de humedad.",
+        "challenge": "¿Por qué es importante la actividad de agua para el almacenamiento a largo plazo?"
+      },
+      "pt": {
+        "title": "Atividade de Água",
+        "definition": "A atividade de água mede o quanto a umidade está disponível para o crescimento microbiano.",
+        "why": "Prevê a estabilidade de armazenamento melhor do que a umidade sozinha.",
+        "tip": "Monitore a atividade de água junto com a umidade.",
+        "mistake": "Medir apenas a porcentagem de umidade.",
+        "challenge": "Por que a atividade de água é importante para o armazenamento de longo prazo?"
+      }
+    },
     "id": 70
   },
   {
@@ -1472,6 +2606,24 @@
       "072",
       "074"
     ],
+    "translations": {
+      "es": {
+        "title": "Almacenamiento",
+        "definition": "El café verde debe almacenarse en condiciones frescas, secas y sin olores.",
+        "why": "Un almacenamiento deficiente acelera la pérdida de calidad.",
+        "tip": "Evita la luz solar directa y la humedad fluctuante.",
+        "mistake": "Almacenar el café junto a olores fuertes.",
+        "challenge": "Enumera tres condiciones ideales de almacenamiento."
+      },
+      "pt": {
+        "title": "Armazenamento",
+        "definition": "O café verde deve ser armazenado em condições frescas, secas e livres de odores.",
+        "why": "Um armazenamento inadequado acelera a perda de qualidade.",
+        "tip": "Evite luz solar direta e umidade flutuante.",
+        "mistake": "Armazenar o café perto de odores fortes.",
+        "challenge": "Liste três condições ideais de armazenamento."
+      }
+    },
     "id": 71
   },
   {
@@ -1491,6 +2643,24 @@
       "073",
       "075"
     ],
+    "translations": {
+      "es": {
+        "title": "Año de Cosecha",
+        "definition": "El año de cosecha identifica cuándo se cosechó el café.",
+        "why": "Los cafés de cosecha reciente generalmente saben más vivos y vibrantes.",
+        "tip": "Conoce el calendario de cosecha de tus orígenes.",
+        "mistake": "Vender café de cosecha vieja como si fuera reciente.",
+        "challenge": "¿Por qué las temporadas de cosecha difieren globalmente?"
+      },
+      "pt": {
+        "title": "Ano de Colheita",
+        "definition": "O ano de colheita identifica quando o café foi colhido.",
+        "why": "Cafés de colheita recente geralmente têm sabor mais vivo e vibrante.",
+        "tip": "Conheça o calendário de colheita das suas origens.",
+        "mistake": "Vender café de colheita antiga como se fosse recente.",
+        "challenge": "Por que as temporadas de colheita diferem globalmente?"
+      }
+    },
     "id": 72
   },
   {
@@ -1510,6 +2680,24 @@
       "072",
       "074"
     ],
+    "translations": {
+      "es": {
+        "title": "Defectos",
+        "definition": "Los defectos son imperfecciones físicas que reducen la calidad del café.",
+        "why": "Clasificar los defectos mejora la consistencia y el sabor.",
+        "tip": "Aprende las principales categorías de defectos de la SCA.",
+        "mistake": "Ignorar el daño por insectos.",
+        "challenge": "Nombra tres defectos principales."
+      },
+      "pt": {
+        "title": "Defeitos",
+        "definition": "Defeitos são imperfeições físicas que reduzem a qualidade do café.",
+        "why": "Classificar os defeitos melhora a consistência e o sabor.",
+        "tip": "Aprenda as principais categorias de defeitos da SCA.",
+        "mistake": "Ignorar danos causados por insetos.",
+        "challenge": "Nomeie três defeitos principais."
+      }
+    },
     "id": 73
   },
   {
@@ -1529,6 +2717,24 @@
       "075",
       "089"
     ],
+    "translations": {
+      "es": {
+        "title": "Tueste de Muestra",
+        "definition": "El tueste de muestra evalúa la calidad del café antes del tueste de producción.",
+        "why": "Apoya las decisiones de compra y el control de calidad.",
+        "tip": "Mantén los perfiles de tueste de muestra consistentes.",
+        "mistake": "Cambiar los perfiles de muestra entre cafés.",
+        "challenge": "¿Por qué los tuestes de muestra son intencionalmente claros?"
+      },
+      "pt": {
+        "title": "Torra de Amostra",
+        "definition": "A torra de amostra avalia a qualidade do café antes da torra de produção.",
+        "why": "Apoia as decisões de compra e o controle de qualidade.",
+        "tip": "Mantenha os perfis de torra de amostra consistentes.",
+        "mistake": "Mudar os perfis de amostra entre cafés.",
+        "challenge": "Por que as torras de amostra são intencionalmente claras?"
+      }
+    },
     "id": 74
   },
   {
@@ -1548,6 +2754,24 @@
       "066",
       "072"
     ],
+    "translations": {
+      "es": {
+        "title": "Compra de Café Verde",
+        "definition": "La compra de café verde equilibra la calidad, la disponibilidad, el costo y las necesidades del cliente.",
+        "why": "Una compra exitosa afecta a cada café vendido.",
+        "tip": "Compra con propósito, no con emoción.",
+        "mistake": "Comprar solo porque un café obtiene una puntuación alta.",
+        "challenge": "¿Qué factores considerarías antes de comprar 30 sacos?"
+      },
+      "pt": {
+        "title": "Compra de Café Verde",
+        "definition": "A compra de café verde equilibra qualidade, disponibilidade, custo e necessidades do cliente.",
+        "why": "Uma compra bem-sucedida afeta cada café vendido.",
+        "tip": "Compre com propósito, não com emoção.",
+        "mistake": "Comprar apenas porque um café tem pontuação alta.",
+        "challenge": "Que fatores você consideraria antes de comprar 30 sacas?"
+      }
+    },
     "id": 75
   },
   {
@@ -1604,6 +2828,24 @@
       "078",
       "080"
     ],
+    "translations": {
+      "es": {
+        "title": "Proceso Lavado",
+        "definition": "A los cafés lavados se les retira la fruta antes del secado, produciendo sabores limpios y transparentes.",
+        "why": "Este proceso resalta el carácter de origen y la acidez.",
+        "tip": "Espera claridad y precisión en la taza.",
+        "mistake": "Suponer que lavado significa mejor calidad.",
+        "challenge": "¿Qué sabores se asocian comúnmente con los cafés lavados?"
+      },
+      "pt": {
+        "title": "Processo Lavado",
+        "definition": "Nos cafés lavados a fruta é removida antes da secagem, produzindo sabores limpos e transparentes.",
+        "why": "Esse processo destaca o caráter de origem e a acidez.",
+        "tip": "Espere clareza e precisão na xícara.",
+        "mistake": "Supor que lavado significa melhor qualidade.",
+        "challenge": "Que sabores costumam estar associados aos cafés lavados?"
+      }
+    },
     "id": 77
   },
   {
@@ -1623,6 +2865,24 @@
       "079",
       "081"
     ],
+    "translations": {
+      "es": {
+        "title": "Proceso Natural",
+        "definition": "Los cafés naturales se secan con la fruta intacta antes del trillado.",
+        "why": "El contacto con la fruta a menudo aumenta la dulzura y el cuerpo.",
+        "tip": "Espera características de frutos rojos y frutas tropicales.",
+        "mistake": "Pensar que todos los naturales saben fermentados.",
+        "challenge": "¿Por qué los naturales suelen ser más dulces que los lavados?"
+      },
+      "pt": {
+        "title": "Processo Natural",
+        "definition": "Os cafés naturais são secos com a fruta intacta antes do beneficiamento.",
+        "why": "O contato com a fruta costuma aumentar a doçura e o corpo.",
+        "tip": "Espere características de frutas vermelhas e tropicais.",
+        "mistake": "Pensar que todos os naturais têm sabor fermentado.",
+        "challenge": "Por que os naturais costumam ser mais doces que os lavados?"
+      }
+    },
     "id": 78
   },
   {
@@ -1642,6 +2902,24 @@
       "080",
       "082"
     ],
+    "translations": {
+      "es": {
+        "title": "Proceso Honey",
+        "definition": "El proceso honey deja parte del mucílago pegajoso en la semilla durante el secado.",
+        "why": "A menudo equilibra la claridad con la dulzura.",
+        "tip": "Honey se refiere al mucílago pegajoso, no a miel añadida.",
+        "mistake": "Suponer que los cafés honey contienen miel.",
+        "challenge": "Describe un perfil de sabor típico de proceso honey."
+      },
+      "pt": {
+        "title": "Processo Honey",
+        "definition": "O processo honey deixa parte da mucilagem pegajosa na semente durante a secagem.",
+        "why": "Frequentemente equilibra clareza com doçura.",
+        "tip": "Honey se refere à mucilagem pegajosa, não a mel adicionado.",
+        "mistake": "Supor que cafés honey contêm mel.",
+        "challenge": "Descreva um perfil de sabor típico de processo honey."
+      }
+    },
     "id": 79
   },
   {
@@ -1661,6 +2939,24 @@
       "081",
       "083"
     ],
+    "translations": {
+      "es": {
+        "title": "Fermentación Anaeróbica",
+        "definition": "El procesamiento anaeróbico fermenta el café en tanques sellados con oxígeno limitado.",
+        "why": "Puede producir perfiles de sabor distintivos.",
+        "tip": "Juzga la taza, no el nombre del proceso.",
+        "mistake": "Suponer que los cafés anaeróbicos son automáticamente superiores.",
+        "challenge": "¿Qué riesgos conlleva el procesamiento anaeróbico?"
+      },
+      "pt": {
+        "title": "Fermentação Anaeróbica",
+        "definition": "O processamento anaeróbico fermenta o café em tanques selados com oxigênio limitado.",
+        "why": "Pode produzir perfis de sabor distintos.",
+        "tip": "Julgue a xícara, não o nome do processo.",
+        "mistake": "Supor que cafés anaeróbicos são automaticamente superiores.",
+        "challenge": "Que riscos vêm com o processamento anaeróbico?"
+      }
+    },
     "id": 80
   },
   {
@@ -1680,6 +2976,24 @@
       "082",
       "084"
     ],
+    "translations": {
+      "es": {
+        "title": "Fermentación",
+        "definition": "La fermentación utiliza microorganismos naturales para descomponer el material de la fruta.",
+        "why": "Una fermentación cuidadosa mejora la complejidad del sabor.",
+        "tip": "La fermentación es un proceso controlado, no un deterioro.",
+        "mistake": "Pensar que todos los sabores de fermentación son defectos.",
+        "challenge": "Nombra dos variables que afectan la fermentación."
+      },
+      "pt": {
+        "title": "Fermentação",
+        "definition": "A fermentação usa microrganismos naturais para decompor o material da fruta.",
+        "why": "Uma fermentação cuidadosa melhora a complexidade do sabor.",
+        "tip": "A fermentação é um processo controlado, não deterioração.",
+        "mistake": "Pensar que todos os sabores de fermentação são defeitos.",
+        "challenge": "Nomeie duas variáveis que afetam a fermentação."
+      }
+    },
     "id": 81
   },
   {
@@ -1699,6 +3013,24 @@
       "083",
       "067"
     ],
+    "translations": {
+      "es": {
+        "title": "Secado",
+        "definition": "El secado reduce la humedad a un nivel seguro de almacenamiento después del procesamiento.",
+        "why": "Un secado uniforme preserva la calidad.",
+        "tip": "Seca de forma lenta y uniforme.",
+        "mistake": "Secar demasiado rápido.",
+        "challenge": "¿Qué rango de humedad se busca normalmente?"
+      },
+      "pt": {
+        "title": "Secagem",
+        "definition": "A secagem reduz a umidade a um nível seguro de armazenamento após o processamento.",
+        "why": "Uma secagem uniforme preserva a qualidade.",
+        "tip": "Seque de forma lenta e uniforme.",
+        "mistake": "Secar rápido demais.",
+        "challenge": "Qual faixa de umidade normalmente é o alvo?"
+      }
+    },
     "id": 82
   },
   {
@@ -1718,6 +3050,24 @@
       "084",
       "085"
     ],
+    "translations": {
+      "es": {
+        "title": "Camas Africanas (Raised Beds)",
+        "definition": "Las camas elevadas mejoran el flujo de aire y la consistencia del secado.",
+        "why": "Reducen el riesgo de moho y de secado desigual.",
+        "tip": "Voltea el café regularmente.",
+        "mistake": "Dejar el café sin remover por largos períodos.",
+        "challenge": "¿Por qué se prefieren las camas elevadas sobre los patios de concreto?"
+      },
+      "pt": {
+        "title": "Camas Elevadas (Raised Beds)",
+        "definition": "As camas elevadas melhoram o fluxo de ar e a consistência da secagem.",
+        "why": "Reduzem o risco de mofo e secagem desigual.",
+        "tip": "Vire o café regularmente.",
+        "mistake": "Deixar o café sem revirar por longos períodos.",
+        "challenge": "Por que as camas elevadas são preferidas em relação aos terreiros de concreto?"
+      }
+    },
     "id": 83
   },
   {
@@ -1737,6 +3087,24 @@
       "085",
       "082"
     ],
+    "translations": {
+      "es": {
+        "title": "Secado Mecánico",
+        "definition": "Los secadores mecánicos reducen la humedad cuando las condiciones climáticas no son adecuadas.",
+        "why": "Mejoran la fiabilidad pero requieren un control cuidadoso.",
+        "tip": "Evita temperaturas de secado excesivas.",
+        "mistake": "Secar de forma demasiado agresiva.",
+        "challenge": "¿Cuándo es más útil el secado mecánico?"
+      },
+      "pt": {
+        "title": "Secagem Mecânica",
+        "definition": "Os secadores mecânicos reduzem a umidade quando as condições climáticas não são adequadas.",
+        "why": "Melhoram a confiabilidade, mas exigem controle cuidadoso.",
+        "tip": "Evite temperaturas de secagem excessivas.",
+        "mistake": "Secar de forma agressiva demais.",
+        "challenge": "Quando a secagem mecânica é mais útil?"
+      }
+    },
     "id": 84
   },
   {
@@ -1756,6 +3124,24 @@
       "077",
       "078"
     ],
+    "translations": {
+      "es": {
+        "title": "Selección de Procesamiento",
+        "definition": "La elección del procesamiento depende del clima, la variedad, la infraestructura y la demanda del mercado.",
+        "why": "Distintos procesos crean diferentes oportunidades comerciales.",
+        "tip": "Elige el procesamiento según el café, no según las tendencias.",
+        "mistake": "Seguir la moda en lugar de la calidad.",
+        "challenge": "¿Cómo elegirías entre procesamiento lavado y natural?"
+      },
+      "pt": {
+        "title": "Seleção de Processamento",
+        "definition": "A escolha do processamento depende do clima, da variedade, da infraestrutura e da demanda de mercado.",
+        "why": "Processos diferentes criam oportunidades comerciais diferentes.",
+        "tip": "Escolha o processamento para combinar com o café, não com as tendências.",
+        "mistake": "Seguir a moda em vez da qualidade.",
+        "challenge": "Como você escolheria entre processamento lavado e natural?"
+      }
+    },
     "id": 85
   },
   {
@@ -1812,6 +3198,24 @@
       "088",
       "090"
     ],
+    "translations": {
+      "es": {
+        "title": "Altitud",
+        "definition": "La altitud influye en el desarrollo del grano, la densidad y el sabor.",
+        "why": "Las elevaciones más altas suelen producir cafés con mayor acidez y complejidad.",
+        "tip": "Compara cafés de diferentes elevaciones dentro del mismo origen.",
+        "mistake": "Creer que mayor altitud siempre significa mejor café.",
+        "challenge": "¿Por qué la altitud afecta la densidad del grano?"
+      },
+      "pt": {
+        "title": "Altitude",
+        "definition": "A altitude influencia o desenvolvimento do grão, a densidade e o sabor.",
+        "why": "Elevações mais altas costumam produzir cafés com maior acidez e complexidade.",
+        "tip": "Compare cafés de diferentes elevações dentro da mesma origem.",
+        "mistake": "Acreditar que altitude maior sempre significa café melhor.",
+        "challenge": "Por que a altitude afeta a densidade do grão?"
+      }
+    },
     "id": 87
   },
   {
@@ -1831,6 +3235,24 @@
       "087",
       "089"
     ],
+    "translations": {
+      "es": {
+        "title": "Terruño (Terroir)",
+        "definition": "El terruño describe el conjunto de factores ambientales que influyen en el sabor del café.",
+        "why": "Explica por qué los cafés de diferentes regiones saben distintos.",
+        "tip": "Considera el suelo, la lluvia y el clima en conjunto.",
+        "mistake": "Usar el terruño para explicar cada diferencia de sabor.",
+        "challenge": "Enumera cuatro factores que componen el terruño."
+      },
+      "pt": {
+        "title": "Terroir",
+        "definition": "O terroir descreve o conjunto de fatores ambientais que influenciam o sabor do café.",
+        "why": "Explica por que os cafés de diferentes regiões têm sabores únicos.",
+        "tip": "Considere o solo, a chuva e o clima em conjunto.",
+        "mistake": "Usar o terroir para explicar cada diferença de sabor.",
+        "challenge": "Liste quatro fatores que compõem o terroir."
+      }
+    },
     "id": 88
   },
   {
@@ -1850,6 +3272,24 @@
       "090",
       "074"
     ],
+    "translations": {
+      "es": {
+        "title": "Variedad de Café",
+        "definition": "Una variedad es un tipo genéticamente distinto de planta de café.",
+        "why": "Distintas variedades producen diferentes perfiles de sabor y rendimientos.",
+        "tip": "Aprende variedades comunes como Bourbon, Typica, SL28 y Gesha.",
+        "mistake": "Confundir variedad con origen.",
+        "challenge": "Nombra cuatro variedades de café."
+      },
+      "pt": {
+        "title": "Variedade de Café",
+        "definition": "Uma variedade é um tipo geneticamente distinto de planta de café.",
+        "why": "Variedades diferentes produzem perfis de sabor e rendimentos diferentes.",
+        "tip": "Aprenda variedades comuns como Bourbon, Typica, SL28 e Gesha.",
+        "mistake": "Confundir variedade com origem.",
+        "challenge": "Nomeie quatro variedades de café."
+      }
+    },
     "id": 89
   },
   {
@@ -1869,6 +3309,24 @@
       "086",
       "087"
     ],
+    "translations": {
+      "es": {
+        "title": "Temporada de Cosecha",
+        "definition": "Las temporadas de cosecha varían según el país y el clima a lo largo del año.",
+        "why": "Conocer los calendarios de cosecha ayuda a los tostadores a comprar café más fresco.",
+        "tip": "Haz seguimiento de las fechas de cosecha de tus principales proveedores.",
+        "mistake": "Ignorar la temporada de cosecha al comprar.",
+        "challenge": "¿Por qué Brasil y Etiopía cosechan en épocas diferentes?"
+      },
+      "pt": {
+        "title": "Temporada de Colheita",
+        "definition": "As temporadas de colheita variam por país e clima ao longo do ano.",
+        "why": "Conhecer os calendários de colheita ajuda os torrefadores a comprar café mais fresco.",
+        "tip": "Acompanhe as datas de colheita dos seus principais fornecedores.",
+        "mistake": "Ignorar a temporada de colheita ao comprar.",
+        "challenge": "Por que o Brasil e a Etiópia colhem em épocas diferentes?"
+      }
+    },
     "id": 90
   },
   {
@@ -1888,6 +3346,24 @@
       "092",
       "093"
     ],
+    "translations": {
+      "es": {
+        "title": "Centroamérica",
+        "definition": "Los cafés centroamericanos suelen ser limpios, equilibrados y brillantes.",
+        "why": "Forman la columna vertebral de muchas mezclas de espresso de especialidad.",
+        "tip": "Compara Guatemala, Costa Rica y El Salvador uno junto al otro.",
+        "mistake": "Suponer que todos los cafés centroamericanos saben igual.",
+        "challenge": "Describe un perfil típico de Guatemala."
+      },
+      "pt": {
+        "title": "América Central",
+        "definition": "Os cafés centro-americanos costumam ser limpos, equilibrados e vibrantes.",
+        "why": "Formam a espinha dorsal de muitas misturas de espresso especiais.",
+        "tip": "Compare Guatemala, Costa Rica e El Salvador lado a lado.",
+        "mistake": "Supor que todos os cafés centro-americanos têm o mesmo sabor.",
+        "challenge": "Descreva um perfil típico da Guatemala."
+      }
+    },
     "id": 91
   },
   {
@@ -1907,6 +3383,24 @@
       "093",
       "094"
     ],
+    "translations": {
+      "es": {
+        "title": "África",
+        "definition": "Los cafés africanos son reconocidos por su fruta vibrante, aromas florales y acidez animada.",
+        "why": "A menudo definen el café de especialidad moderno.",
+        "tip": "Prueba Etiopía y Kenia juntos para comparar estilos.",
+        "mistake": "Esperar que todo café africano sea afrutado.",
+        "challenge": "Compara Etiopía con Kenia."
+      },
+      "pt": {
+        "title": "África",
+        "definition": "Os cafés africanos são reconhecidos por sua fruta vibrante, aromas florais e acidez animada.",
+        "why": "Frequentemente definem o café especial moderno.",
+        "tip": "Prove Etiópia e Quênia juntos para comparar estilos.",
+        "mistake": "Esperar que todo café africano seja frutado.",
+        "challenge": "Compare Etiópia com Quênia."
+      }
+    },
     "id": 92
   },
   {
@@ -1926,6 +3420,24 @@
       "092",
       "094"
     ],
+    "translations": {
+      "es": {
+        "title": "Sudamérica",
+        "definition": "Los cafés sudamericanos suelen ofrecer dulzura a chocolate, frutos secos y caramelo.",
+        "why": "Se usan ampliamente en mezclas de espresso.",
+        "tip": "Brasil suele elegirse por su cuerpo y dulzura.",
+        "mistake": "Pensar que los cafés sudamericanos carecen de complejidad.",
+        "challenge": "¿Por qué Brasil es popular en el espresso?"
+      },
+      "pt": {
+        "title": "América do Sul",
+        "definition": "Os cafés sul-americanos costumam oferecer doçura de chocolate, castanhas e caramelo.",
+        "why": "São amplamente usados em misturas de espresso.",
+        "tip": "O Brasil costuma ser escolhido pelo corpo e pela doçura.",
+        "mistake": "Pensar que os cafés sul-americanos carecem de complexidade.",
+        "challenge": "Por que o Brasil é popular no espresso?"
+      }
+    },
     "id": 93
   },
   {
@@ -1945,6 +3457,24 @@
       "093",
       "095"
     ],
+    "translations": {
+      "es": {
+        "title": "Asia-Pacífico",
+        "definition": "Los orígenes de Asia-Pacífico producen perfiles de sabor diversos, desde cafés indonesios almibarados hasta lotes papúes limpios.",
+        "why": "La región ofrece una diversidad excepcional.",
+        "tip": "Prueba Sumatra junto a Papúa Nueva Guinea.",
+        "mistake": "Agrupar todos los cafés asiáticos por igual.",
+        "challenge": "Nombra tres países productores en Asia-Pacífico."
+      },
+      "pt": {
+        "title": "Ásia-Pacífico",
+        "definition": "As origens da Ásia-Pacífico produzem perfis de sabor diversos, de cafés indonésios encorpados a lotes papuásios limpos.",
+        "why": "A região oferece uma diversidade excepcional.",
+        "tip": "Prove Sumatra ao lado de Papua-Nova Guiné.",
+        "mistake": "Agrupar todos os cafés asiáticos da mesma forma.",
+        "challenge": "Nomeie três países produtores na Ásia-Pacífico."
+      }
+    },
     "id": 94
   },
   {
@@ -1964,6 +3494,24 @@
       "089",
       "093"
     ],
+    "translations": {
+      "es": {
+        "title": "Origen Único vs. Mezcla",
+        "definition": "Los cafés de origen único provienen de una sola fuente definida, mientras que las mezclas combinan varios cafés.",
+        "why": "Ambos tienen fortalezas según el sabor y la consistencia deseados.",
+        "tip": "Juzga la taza, no la etiqueta.",
+        "mistake": "Suponer que el origen único siempre es mejor.",
+        "challenge": "¿Cuándo elegirías una mezcla en lugar de un origen único?"
+      },
+      "pt": {
+        "title": "Origem Única vs. Blend",
+        "definition": "Os cafés de origem única vêm de uma única fonte definida, enquanto os blends combinam vários cafés.",
+        "why": "Ambos têm pontos fortes dependendo do sabor e da consistência desejados.",
+        "tip": "Julgue a xícara, não o rótulo.",
+        "mistake": "Supor que a origem única é sempre melhor.",
+        "challenge": "Quando você escolheria um blend em vez de uma origem única?"
+      }
+    },
     "id": 95
   },
   {
@@ -2020,6 +3568,24 @@
       "098",
       "100"
     ],
+    "translations": {
+      "es": {
+        "title": "Temperatura de Carga",
+        "definition": "La temperatura de carga es la temperatura del tambor cuando se introduce el café verde.",
+        "why": "Determina cómo entra la energía en el tueste desde el principio.",
+        "tip": "Elige la temperatura de carga según el tamaño del lote y la densidad del grano.",
+        "mistake": "Usar la misma temperatura de carga para cada café.",
+        "challenge": "¿Por qué un etíope lavado y denso podría requerir una temperatura de carga diferente a la de un natural brasileño?"
+      },
+      "pt": {
+        "title": "Temperatura de Carga",
+        "definition": "A temperatura de carga é a temperatura do tambor quando o café verde é introduzido.",
+        "why": "Determina como a energia entra na torra desde o início.",
+        "tip": "Escolha a temperatura de carga de acordo com o tamanho do lote e a densidade do grão.",
+        "mistake": "Usar a mesma temperatura de carga para todo café.",
+        "challenge": "Por que um etíope lavado e denso pode exigir uma temperatura de carga diferente de um natural brasileiro?"
+      }
+    },
     "id": 97
   },
   {
@@ -2039,6 +3605,24 @@
       "099",
       "101"
     ],
+    "translations": {
+      "es": {
+        "title": "Punto de Inflexión (Turning Point)",
+        "definition": "El punto de inflexión es el momento en que la temperatura del grano deja de caer y comienza a subir.",
+        "why": "Marca el inicio de la ganancia efectiva de calor.",
+        "tip": "Obsérvalo como un punto de referencia, no como un objetivo.",
+        "mistake": "Intentar forzar un punto de inflexión temprano.",
+        "challenge": "¿Qué factores influyen en el punto de inflexión?"
+      },
+      "pt": {
+        "title": "Ponto de Virada (Turning Point)",
+        "definition": "O ponto de virada é o momento em que a temperatura do grão para de cair e começa a subir.",
+        "why": "Marca o início do ganho efetivo de calor.",
+        "tip": "Observe-o como um ponto de referência, não como uma meta.",
+        "mistake": "Tentar forçar um ponto de virada precoce.",
+        "challenge": "Que fatores influenciam o ponto de virada?"
+      }
+    },
     "id": 98
   },
   {
@@ -2058,6 +3642,24 @@
       "100",
       "102"
     ],
+    "translations": {
+      "es": {
+        "title": "Fase de Secado",
+        "definition": "La fase de secado elimina la humedad libre antes de que comiencen las reacciones de pardeamiento.",
+        "why": "Una fase de secado estable crea la base para un tueste uniforme.",
+        "tip": "Genera impulso sin apresurarte.",
+        "mistake": "Aplicar calor excesivo demasiado pronto.",
+        "challenge": "¿Cuándo termina normalmente el secado?"
+      },
+      "pt": {
+        "title": "Fase de Secagem",
+        "definition": "A fase de secagem remove a umidade livre antes que as reações de escurecimento comecem.",
+        "why": "Uma fase de secagem estável cria a base para uma torra uniforme.",
+        "tip": "Ganhe impulso sem se apressar.",
+        "mistake": "Aplicar calor excessivo cedo demais.",
+        "challenge": "Quando a secagem normalmente termina?"
+      }
+    },
     "id": 99
   },
   {
@@ -2077,6 +3679,24 @@
       "101",
       "103"
     ],
+    "translations": {
+      "es": {
+        "title": "Reacción de Maillard",
+        "definition": "La reacción de Maillard crea cientos de compuestos de aroma y sabor mediante reacciones entre azúcares y aminoácidos.",
+        "why": "Gran parte de la dulzura y complejidad del café se desarrolla aquí.",
+        "tip": "Gestiona la energía con cuidado durante esta etapa.",
+        "mistake": "Apresurar la etapa de Maillard.",
+        "challenge": "¿Cómo influye Maillard en la dulzura?"
+      },
+      "pt": {
+        "title": "Reação de Maillard",
+        "definition": "A reação de Maillard cria centenas de compostos de aroma e sabor por meio de reações entre açúcares e aminoácidos.",
+        "why": "Grande parte da doçura e complexidade do café se desenvolve aqui.",
+        "tip": "Gerencie a energia com cuidado durante esta etapa.",
+        "mistake": "Apressar a etapa de Maillard.",
+        "challenge": "Como Maillard influencia a doçura?"
+      }
+    },
     "id": 100
   },
   {
@@ -2096,6 +3716,24 @@
       "102",
       "104"
     ],
+    "translations": {
+      "es": {
+        "title": "Primer Crack",
+        "definition": "El primer crack ocurre cuando la presión interna hace que la estructura del grano se fracture audiblemente.",
+        "why": "Marca el inicio del desarrollo.",
+        "tip": "Escucha tanto como observas tus datos.",
+        "mistake": "Tratar el primer crack como la línea de meta.",
+        "challenge": "¿Por qué ocurre el primer crack?"
+      },
+      "pt": {
+        "title": "Primeiro Crack",
+        "definition": "O primeiro crack ocorre quando a pressão interna faz com que a estrutura do grão se frature de forma audível.",
+        "why": "Marca o início do desenvolvimento.",
+        "tip": "Ouça tanto quanto observa seus dados.",
+        "mistake": "Tratar o primeiro crack como a linha de chegada.",
+        "challenge": "Por que o primeiro crack ocorre?"
+      }
+    },
     "id": 101
   },
   {
@@ -2115,6 +3753,24 @@
       "103",
       "105"
     ],
+    "translations": {
+      "es": {
+        "title": "Tiempo de Desarrollo",
+        "definition": "El tiempo de desarrollo es el período entre el primer crack y el final del tueste.",
+        "why": "Influye fuertemente en la dulzura, la acidez y el carácter del tueste.",
+        "tip": "Juzga el desarrollo por el sabor, no solo por el porcentaje.",
+        "mistake": "Perseguir relaciones de desarrollo arbitrarias.",
+        "challenge": "¿Cómo puede saber en taza un desarrollo insuficiente?"
+      },
+      "pt": {
+        "title": "Tempo de Desenvolvimento",
+        "definition": "O tempo de desenvolvimento é o período entre o primeiro crack e o fim da torra.",
+        "why": "Influencia fortemente a doçura, a acidez e o caráter da torra.",
+        "tip": "Julgue o desenvolvimento pelo sabor, não apenas pela porcentagem.",
+        "mistake": "Perseguir proporções de desenvolvimento arbitrárias.",
+        "challenge": "Como um desenvolvimento insuficiente pode ter sabor na xícara?"
+      }
+    },
     "id": 102
   },
   {
@@ -2134,6 +3790,24 @@
       "102",
       "104"
     ],
+    "translations": {
+      "es": {
+        "title": "Tasa de Subida (RoR)",
+        "definition": "La Tasa de Subida (Rate of Rise, RoR) mide qué tan rápido está aumentando la temperatura del grano.",
+        "why": "Ayuda al tostador a gestionar el impulso del tueste.",
+        "tip": "Busca un RoR suave y en descenso constante.",
+        "mistake": "Dejar que el RoR se desplome o oscile bruscamente.",
+        "challenge": "Explica qué causa un desplome del RoR."
+      },
+      "pt": {
+        "title": "Taxa de Subida (RoR)",
+        "definition": "A Taxa de Subida (Rate of Rise, RoR) mede quão rapidamente a temperatura do grão está aumentando.",
+        "why": "Ajuda o torrefador a gerenciar o ritmo da torra.",
+        "tip": "Busque um RoR suave e em queda constante.",
+        "mistake": "Deixar o RoR despencar ou oscilar drasticamente.",
+        "challenge": "Explique o que causa um colapso no RoR."
+      }
+    },
     "id": 103
   },
   {
@@ -2153,6 +3827,24 @@
       "103",
       "105"
     ],
+    "translations": {
+      "es": {
+        "title": "Temperatura Final",
+        "definition": "La temperatura final es la temperatura del grano en el momento de descarga.",
+        "why": "Contribuye al nivel de tueste, pero nunca cuenta toda la historia.",
+        "tip": "Prueba cada tueste en lugar de confiar solo en números.",
+        "mistake": "Comparar temperaturas finales entre diferentes configuraciones de sonda.",
+        "challenge": "¿Por qué la temperatura final por sí sola no puede definir el nivel de tueste?"
+      },
+      "pt": {
+        "title": "Temperatura Final",
+        "definition": "A temperatura final é a temperatura do grão no momento da descarga.",
+        "why": "Contribui para o nível de torra, mas nunca conta toda a história.",
+        "tip": "Prove cada torra em vez de confiar apenas em números.",
+        "mistake": "Comparar temperaturas finais entre diferentes configurações de sonda.",
+        "challenge": "Por que a temperatura final sozinha não pode definir o nível de torra?"
+      }
+    },
     "id": 104
   },
   {
@@ -2172,6 +3864,24 @@
       "106",
       "107"
     ],
+    "translations": {
+      "es": {
+        "title": "Descarga (Drop)",
+        "definition": "La descarga es el momento en que el café tostado sale del tambor y entra en enfriamiento.",
+        "why": "El tueste continúa hasta que comienza el enfriamiento.",
+        "tip": "Enfría lo más rápido posible sin dañar los granos.",
+        "mistake": "Enfriar lentamente.",
+        "challenge": "¿Por qué es importante un enfriamiento rápido?"
+      },
+      "pt": {
+        "title": "Descarga (Drop)",
+        "definition": "A descarga é o momento em que o café torrado sai do tambor e entra em resfriamento.",
+        "why": "A torra continua até que o resfriamento comece.",
+        "tip": "Resfrie o mais rápido possível sem danificar os grãos.",
+        "mistake": "Resfriar lentamente.",
+        "challenge": "Por que um resfriamento rápido é importante?"
+      }
+    },
     "id": 105
   },
   {
@@ -2191,6 +3901,24 @@
       "107",
       "108"
     ],
+    "translations": {
+      "es": {
+        "title": "Color de Tueste",
+        "definition": "El color de tueste ofrece una indicación medible del grado de tueste.",
+        "why": "El color apoya la consistencia entre lotes.",
+        "tip": "Usa el color junto con la catación.",
+        "mistake": "Tostar guiándose solo por el color.",
+        "challenge": "¿Por qué el color nunca debería reemplazar la catación?"
+      },
+      "pt": {
+        "title": "Cor da Torra",
+        "definition": "A cor da torra fornece uma indicação mensurável do grau de torra.",
+        "why": "A cor apoia a consistência entre lotes.",
+        "tip": "Use a cor junto com a avaliação sensorial.",
+        "mistake": "Torrar guiando-se apenas pela cor.",
+        "challenge": "Por que a cor nunca deve substituir a prova?"
+      }
+    },
     "id": 106
   },
   {
@@ -2210,6 +3938,24 @@
       "108",
       "109"
     ],
+    "translations": {
+      "es": {
+        "title": "Reposo del Café",
+        "definition": "El café recién tostado necesita tiempo para que el dióxido de carbono escape antes de prepararse.",
+        "why": "El reposo mejora la estabilidad del sabor y la extracción.",
+        "tip": "Experimenta con diferentes períodos de reposo.",
+        "mistake": "Servir cada café inmediatamente después de tostarlo.",
+        "challenge": "¿Por qué el espresso y el café de filtro suelen requerir tiempos de reposo diferentes?"
+      },
+      "pt": {
+        "title": "Descanso do Café",
+        "definition": "O café recém-torrado precisa de tempo para que o dióxido de carbono escape antes do preparo.",
+        "why": "O descanso melhora a estabilidade do sabor e a extração.",
+        "tip": "Experimente diferentes períodos de descanso.",
+        "mistake": "Servir cada café imediatamente após a torra.",
+        "challenge": "Por que o espresso e o café filtrado costumam exigir tempos de descanso diferentes?"
+      }
+    },
     "id": 107
   },
   {
@@ -2229,6 +3975,24 @@
       "109",
       "110"
     ],
+    "translations": {
+      "es": {
+        "title": "Defectos de Tueste",
+        "definition": "Los defectos de tueste incluyen quemado, tipping, horneado, subdesarrollo y sobredesarrollo.",
+        "why": "Reconocer los defectos acelera la resolución de problemas.",
+        "tip": "Vincula cada defecto con la gestión de energía del tueste.",
+        "mistake": "Intentar diagnosticar defectos solo por el color.",
+        "challenge": "Nombra cinco defectos de tueste."
+      },
+      "pt": {
+        "title": "Defeitos de Torra",
+        "definition": "Os defeitos de torra incluem queima, tipping, cozimento, subdesenvolvimento e superdesenvolvimento.",
+        "why": "Reconhecer os defeitos acelera a solução de problemas.",
+        "tip": "Relacione cada defeito à gestão de energia da torra.",
+        "mistake": "Tentar diagnosticar defeitos apenas pela cor.",
+        "challenge": "Nomeie cinco defeitos de torra."
+      }
+    },
     "id": 108
   },
   {
@@ -2248,6 +4012,24 @@
       "108",
       "110"
     ],
+    "translations": {
+      "es": {
+        "title": "Catación de Tuestes",
+        "definition": "La catación valida si las decisiones de tueste lograron el perfil de sabor previsto.",
+        "why": "Tostar sin catar es adivinar.",
+        "tip": "Cata regularmente cada tueste de producción.",
+        "mistake": "Evaluar los tuestes solo a partir del espresso.",
+        "challenge": "¿Qué información deberías registrar durante una catación de tueste?"
+      },
+      "pt": {
+        "title": "Prova de Torras",
+        "definition": "A prova (cupping) valida se as decisões de torra alcançaram o perfil de sabor pretendido.",
+        "why": "Torrar sem provar é um chute.",
+        "tip": "Prove regularmente cada torra de produção.",
+        "mistake": "Avaliar as torras apenas pelo espresso.",
+        "challenge": "Que informações você deveria registrar durante uma prova de torra?"
+      }
+    },
     "id": 109
   },
   {
@@ -2267,6 +4049,24 @@
       "108",
       "109"
     ],
+    "translations": {
+      "es": {
+        "title": "Consistencia de Tueste",
+        "definition": "La consistencia se logra repitiendo una gestión de energía exitosa en cada lote.",
+        "why": "La consistencia genera confianza con los clientes.",
+        "tip": "Mide todo. Cambia una variable a la vez.",
+        "mistake": "Hacer varios ajustes simultáneamente.",
+        "challenge": "¿Cuáles son las cinco variables de tueste más importantes a monitorear?"
+      },
+      "pt": {
+        "title": "Consistência de Torra",
+        "definition": "A consistência é alcançada repetindo uma gestão de energia bem-sucedida em cada lote.",
+        "why": "A consistência gera confiança com os clientes.",
+        "tip": "Meça tudo. Mude uma variável de cada vez.",
+        "mistake": "Fazer vários ajustes simultaneamente.",
+        "challenge": "Quais são as cinco variáveis de torra mais importantes para monitorar?"
+      }
+    },
     "id": 110
   },
   {
@@ -2323,6 +4123,24 @@
       "113",
       "114"
     ],
+    "translations": {
+      "es": {
+        "title": "Margen Bruto",
+        "definition": "El margen bruto es el porcentaje de los ingresos que queda después de deducir el costo directo de producir un producto.",
+        "why": "El margen muestra si el precio puede cubrir la mano de obra, el alquiler y otros costos operativos.",
+        "tip": "Haz seguimiento del margen por categoría de producto.",
+        "mistake": "Confundir el margen con el margen de beneficio sobre el costo (markup).",
+        "challenge": "Una bebida se vende a 4 € y cuesta 1 € producirla. Calcula su margen bruto."
+      },
+      "pt": {
+        "title": "Margem Bruta",
+        "definition": "A margem bruta é a porcentagem da receita que resta depois de deduzido o custo direto de produção de um produto.",
+        "why": "A margem mostra se o preço consegue cobrir mão de obra, aluguel e outros custos operacionais.",
+        "tip": "Acompanhe a margem por categoria de produto.",
+        "mistake": "Confundir margem com markup.",
+        "challenge": "Uma bebida é vendida por €4 e custa €1 para produzir. Calcule sua margem bruta."
+      }
+    },
     "id": 112
   },
   {
@@ -2342,6 +4160,24 @@
       "112",
       "114"
     ],
+    "translations": {
+      "es": {
+        "title": "Fijación de Precios",
+        "definition": "La fijación de precios equilibra el costo del producto, la mano de obra, los gastos generales, la posición de mercado y el valor para el cliente.",
+        "why": "Unas ventas fuertes no pueden salvar un producto que está constantemente mal valorado.",
+        "tip": "Revisa los precios cada vez que cambien los costos importantes de los insumos.",
+        "mistake": "Copiar los precios de la competencia sin conocer tus propios costos.",
+        "challenge": "Enumera cinco factores que considerarías antes de subir los precios del café."
+      },
+      "pt": {
+        "title": "Precificação",
+        "definition": "A precificação equilibra o custo do produto, a mão de obra, os custos indiretos, a posição de mercado e o valor para o cliente.",
+        "why": "Vendas fortes não conseguem salvar um produto que está sistematicamente subvalorizado.",
+        "tip": "Revise os preços sempre que os custos importantes dos insumos mudarem.",
+        "mistake": "Copiar os preços da concorrência sem conhecer os próprios custos.",
+        "challenge": "Liste cinco fatores que você consideraria antes de aumentar os preços do café."
+      }
+    },
     "id": 113
   },
   {
@@ -2361,6 +4197,24 @@
       "113",
       "115"
     ],
+    "translations": {
+      "es": {
+        "title": "Valor Promedio de Transacción",
+        "definition": "El valor promedio de transacción es el monto promedio gastado por un cliente en una sola transacción.",
+        "why": "Aumentar el gasto por cliente puede hacer crecer los ingresos sin necesidad de más clientes.",
+        "tip": "Mídelo semanalmente y busca oportunidades útiles de venta adicional.",
+        "mistake": "Insistir con complementos no deseados en lugar de mejorar el valor para el cliente.",
+        "challenge": "Si 200 transacciones generan 1.400 €, calcula el valor promedio de transacción."
+      },
+      "pt": {
+        "title": "Ticket Médio",
+        "definition": "O ticket médio é o valor médio gasto por um cliente em uma única transação.",
+        "why": "Aumentar o gasto por cliente pode gerar mais receita sem aumentar o número de clientes.",
+        "tip": "Meça-o semanalmente e busque oportunidades úteis de venda adicional.",
+        "mistake": "Empurrar complementos indesejados em vez de melhorar o valor para o cliente.",
+        "challenge": "Se 200 transações geram €1.400, calcule o ticket médio."
+      }
+    },
     "id": 114
   },
   {
@@ -2380,6 +4234,24 @@
       "111",
       "116"
     ],
+    "translations": {
+      "es": {
+        "title": "Control de Desperdicio",
+        "definition": "El control de desperdicio mide y reduce la pérdida innecesaria de café, leche, alimentos y envases.",
+        "why": "Pequeñas cantidades de desperdicio repetido pueden reducir significativamente las ganancias.",
+        "tip": "Mide el desperdicio antes de intentar reducirlo.",
+        "mistake": "Tratar el desperdicio como un costo inevitable del negocio.",
+        "challenge": "Identifica cinco fuentes de desperdicio detrás de una barra de café."
+      },
+      "pt": {
+        "title": "Controle de Desperdício",
+        "definition": "O controle de desperdício mede e reduz a perda desnecessária de café, leite, alimentos e embalagens.",
+        "why": "Pequenas quantidades de desperdício repetido podem reduzir significativamente o lucro.",
+        "tip": "Meça o desperdício antes de tentar reduzi-lo.",
+        "mistake": "Tratar o desperdício como um custo inevitável do negócio.",
+        "challenge": "Identifique cinco fontes de desperdício atrás de um balcão de café."
+      }
+    },
     "id": 115
   },
   {
@@ -2399,6 +4271,24 @@
       "115",
       "117"
     ],
+    "translations": {
+      "es": {
+        "title": "Costo de Mano de Obra",
+        "definition": "El costo de mano de obra incluye los salarios y los costos laborales asociados necesarios para operar el negocio.",
+        "why": "La mano de obra suele ser uno de los mayores gastos controlables de una cafetería.",
+        "tip": "Programa los turnos según la demanda esperada, no según la costumbre.",
+        "mistake": "Reducir tanto el personal que el servicio y las ventas se resienten.",
+        "challenge": "¿Por qué recortar la mano de obra a veces puede reducir la rentabilidad?"
+      },
+      "pt": {
+        "title": "Custo de Mão de Obra",
+        "definition": "O custo de mão de obra inclui salários e os custos trabalhistas associados necessários para operar o negócio.",
+        "why": "A mão de obra costuma ser uma das maiores despesas controláveis de uma cafeteria.",
+        "tip": "Programe a escala conforme a demanda esperada, não pelo hábito.",
+        "mistake": "Reduzir o quadro de pessoal de forma tão agressiva que o atendimento e as vendas sofrem.",
+        "challenge": "Por que reduzir a mão de obra às vezes pode diminuir a lucratividade?"
+      }
+    },
     "id": 116
   },
   {
@@ -2418,6 +4308,24 @@
       "116",
       "118"
     ],
+    "translations": {
+      "es": {
+        "title": "Control de Inventario",
+        "definition": "El control de inventario hace seguimiento del stock desde la compra hasta el almacenamiento, uso y venta.",
+        "why": "Los registros precisos de inventario revelan desperdicio, faltantes y efectivo inmovilizado en existencias.",
+        "tip": "Cuenta el inventario importante en un horario constante.",
+        "mistake": "Pedir de memoria en lugar de basarse en el uso real.",
+        "challenge": "¿Qué cinco artículos de la barra de café contarías con más frecuencia?"
+      },
+      "pt": {
+        "title": "Controle de Estoque",
+        "definition": "O controle de estoque acompanha o inventário desde a compra até o armazenamento, uso e venda.",
+        "why": "Registros precisos de estoque revelam desperdício, faltas e dinheiro parado em inventário.",
+        "tip": "Conte o estoque importante em uma programação consistente.",
+        "mistake": "Fazer pedidos de memória em vez de com base no uso real.",
+        "challenge": "Quais cinco itens do balcão de café você contaria com mais frequência?"
+      }
+    },
     "id": 117
   },
   {
@@ -2437,6 +4345,24 @@
       "119",
       "120"
     ],
+    "translations": {
+      "es": {
+        "title": "Café al por Mayor",
+        "definition": "El café al por mayor implica suministrar café y, a menudo, capacitación, soporte de equipos y servicio a otros negocios.",
+        "why": "Las relaciones exitosas de venta al por mayor dependen de más que solo vender bolsas de café.",
+        "tip": "Trata el soporte y la capacitación como parte del producto.",
+        "mistake": "Competir solo por precio.",
+        "challenge": "Enumera cinco cosas que debería ofrecer un buen programa de café al por mayor."
+      },
+      "pt": {
+        "title": "Café por Atacado",
+        "definition": "O café por atacado envolve fornecer café e, frequentemente, treinamento, suporte de equipamentos e serviço a outras empresas.",
+        "why": "Relações de atacado bem-sucedidas dependem de mais do que apenas vender pacotes de café.",
+        "tip": "Trate o suporte e o treinamento como parte do produto.",
+        "mistake": "Competir apenas por preço.",
+        "challenge": "Liste cinco coisas que um bom programa de café por atacado deveria oferecer."
+      }
+    },
     "id": 118
   },
   {
@@ -2456,6 +4382,24 @@
       "118",
       "120"
     ],
+    "translations": {
+      "es": {
+        "title": "Retención de Clientes",
+        "definition": "La retención de clientes es la capacidad de convertir a clientes primerizos en clientes habituales.",
+        "why": "Los clientes habituales generan ingresos más predecibles y negocios más sólidos.",
+        "tip": "La consistencia es una de las herramientas de retención más fuertes.",
+        "mistake": "Centrarse por completo en atraer nuevos clientes.",
+        "challenge": "Nombra tres razones por las que un cliente volvería a la misma cafetería cada semana."
+      },
+      "pt": {
+        "title": "Retenção de Clientes",
+        "definition": "Retenção de clientes é a capacidade de transformar clientes de primeira vez em clientes recorrentes.",
+        "why": "Clientes recorrentes geram receita mais previsível e negócios mais sólidos.",
+        "tip": "Consistência é uma das ferramentas de retenção mais fortes.",
+        "mistake": "Focar inteiramente em atrair novos clientes.",
+        "challenge": "Nomeie três razões pelas quais um cliente voltaria à mesma cafeteria toda semana."
+      }
+    },
     "id": 119
   },
   {
@@ -2475,6 +4419,24 @@
       "118",
       "119"
     ],
+    "translations": {
+      "es": {
+        "title": "Valor del Café",
+        "definition": "El valor del café es la combinación de calidad del producto, servicio, experiencia y confianza percibidos por el cliente.",
+        "why": "Los clientes juzgan el valor por la experiencia completa, no solo por el costo de los ingredientes.",
+        "tip": "Compite por experiencia y consistencia, no solo por precio.",
+        "mistake": "Suponer que más barato significa automáticamente mejor valor.",
+        "challenge": "Describe qué hace que un café de 4 € se sienta como que vale 4 €."
+      },
+      "pt": {
+        "title": "Valor do Café",
+        "definition": "O valor do café é a combinação de qualidade do produto, atendimento, experiência e confiança percebidos pelo cliente.",
+        "why": "Os clientes julgam o valor pela experiência completa, não apenas pelo custo dos ingredientes.",
+        "tip": "Compita por experiência e consistência, não apenas por preço.",
+        "mistake": "Supor que mais barato significa automaticamente mais valor.",
+        "challenge": "Descreva o que faz um café de €4 parecer valer €4."
+      }
+    },
     "id": 120
   }
 ]

@@ -51,7 +51,25 @@
       "001",
       "003",
       "004"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Dosis",
+        "definition": "El peso del café seco colocado en el portafiltro.",
+        "why": "La dosis afecta la profundidad de la pastilla, el flujo y la extracción.",
+        "tip": "Pesa siempre cada dosis.",
+        "mistake": "Cambiar la dosis antes de revisar la molienda.",
+        "challenge": "¿Por qué la dosis afecta el flujo?"
+      },
+      "pt": {
+        "title": "Dose",
+        "definition": "O peso do café seco colocado no porta-filtro.",
+        "why": "A dose afeta a profundidade da pastilha, o fluxo e a extração.",
+        "tip": "Sempre pese cada dose.",
+        "mistake": "Mudar a dose antes de verificar a moagem.",
+        "challenge": "Por que a dose afeta o fluxo?"
+      }
+    }
   },
   {
     "number": "003",
@@ -69,7 +87,25 @@
       "002",
       "004",
       "005"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Rendimiento",
+        "definition": "El peso del espresso producido en la taza.",
+        "why": "El rendimiento determina la relación de preparación y la fuerza.",
+        "tip": "Mide por peso, nunca por volumen.",
+        "mistake": "Detener la extracción según el color.",
+        "challenge": "Calcula una relación de preparación de 1:2."
+      },
+      "pt": {
+        "title": "Rendimento",
+        "definition": "O peso do espresso produzido na xícara.",
+        "why": "O rendimento determina a proporção de preparo e a força.",
+        "tip": "Meça por peso, nunca por volume.",
+        "mistake": "Parar a extração pela cor.",
+        "challenge": "Calcule uma proporção de preparo de 1:2."
+      }
+    }
   },
   {
     "number": "004",
@@ -87,7 +123,25 @@
       "003",
       "005",
       "006"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Relación de Preparación",
+        "definition": "La relación entre la dosis de café y el rendimiento de la bebida.",
+        "why": "Uno de los mayores controles de sabor.",
+        "tip": "Empieza alrededor de 1:2.",
+        "mistake": "Pensar que las relaciones son reglas fijas.",
+        "challenge": "Compara 1:1.5 y 1:3."
+      },
+      "pt": {
+        "title": "Proporção de Preparo",
+        "definition": "A relação entre a dose de café e o rendimento da bebida.",
+        "why": "Um dos maiores controles de sabor.",
+        "tip": "Comece em torno de 1:2.",
+        "mistake": "Pensar que as proporções são regras fixas.",
+        "challenge": "Compare 1:1.5 e 1:3."
+      }
+    }
   },
   {
     "number": "005",
@@ -105,7 +159,25 @@
       "004",
       "006",
       "007"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Extracción",
+        "definition": "La remoción de compuestos solubles del café usando agua.",
+        "why": "La extracción determina la dulzura, la acidez y el amargor.",
+        "tip": "Prueba cada extracción.",
+        "mistake": "Confiar solo en el tiempo de extracción.",
+        "challenge": "Describe la sobreextracción."
+      },
+      "pt": {
+        "title": "Extração",
+        "definition": "A remoção de compostos solúveis do café usando água.",
+        "why": "A extração determina a doçura, a acidez e o amargor.",
+        "tip": "Prove cada extração.",
+        "mistake": "Confiar apenas no tempo de extração.",
+        "challenge": "Descreva a superextração."
+      }
+    }
   },
   {
     "number": "006",
@@ -123,7 +195,25 @@
       "005",
       "007",
       "008"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tamaño de Molienda",
+        "definition": "El tamaño de partícula producido por el molinillo.",
+        "why": "El ajuste principal para calibrar la extracción.",
+        "tip": "Mueve el molinillo en pequeños incrementos.",
+        "mistake": "Hacer ajustes enormes.",
+        "challenge": "¿Cómo afecta una molienda más fina al flujo?"
+      },
+      "pt": {
+        "title": "Tamanho da Moagem",
+        "definition": "O tamanho de partícula produzido pelo moedor.",
+        "why": "O principal ajuste para calibrar a extração.",
+        "tip": "Mova o moedor em pequenos incrementos.",
+        "mistake": "Fazer ajustes enormes.",
+        "challenge": "Como uma moagem mais fina afeta o fluxo?"
+      }
+    }
   },
   {
     "number": "007",
@@ -141,7 +231,25 @@
       "006",
       "008",
       "009"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tiempo de Extracción",
+        "definition": "El tiempo necesario para alcanzar el peso objetivo de la bebida.",
+        "why": "Solo es útil junto con el rendimiento y el sabor.",
+        "tip": "Registra cada extracción.",
+        "mistake": "Calibrar solo por tiempo.",
+        "challenge": "¿Pueden tiempos idénticos saber diferente?"
+      },
+      "pt": {
+        "title": "Tempo de Extração",
+        "definition": "O tempo necessário para atingir o peso alvo da bebida.",
+        "why": "Só é útil junto com o rendimento e o sabor.",
+        "tip": "Registre cada extração.",
+        "mistake": "Calibrar apenas pelo tempo.",
+        "challenge": "Tempos idênticos podem ter sabores diferentes?"
+      }
+    }
   },
   {
     "number": "008",
@@ -159,7 +267,25 @@
       "007",
       "009",
       "010"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Canalización",
+        "definition": "Flujo de agua desigual a través de puntos débiles en la pastilla.",
+        "why": "Provoca una extracción desigual.",
+        "tip": "Mejora la preparación de la pastilla.",
+        "mistake": "Ignorar la distribución.",
+        "challenge": "Nombra tres causas."
+      },
+      "pt": {
+        "title": "Canalização",
+        "definition": "Fluxo de água desigual através de pontos fracos na pastilha.",
+        "why": "Provoca uma extração desigual.",
+        "tip": "Melhore o preparo da pastilha.",
+        "mistake": "Ignorar a distribuição.",
+        "challenge": "Nomeie três causas."
+      }
+    }
   },
   {
     "number": "009",
@@ -177,7 +303,25 @@
       "008",
       "010",
       "011"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Distribución",
+        "definition": "Repartir el café de manera uniforme antes de apisonar.",
+        "why": "Favorece una extracción uniforme.",
+        "tip": "Mantén la técnica simple.",
+        "mistake": "Dejar huecos en la pastilla.",
+        "challenge": "¿Por qué es importante una densidad uniforme?"
+      },
+      "pt": {
+        "title": "Distribuição",
+        "definition": "Espalhar o café uniformemente antes de apisoar.",
+        "why": "Favorece uma extração uniforme.",
+        "tip": "Mantenha a técnica simples.",
+        "mistake": "Deixar vazios na pastilha.",
+        "challenge": "Por que a densidade uniforme é importante?"
+      }
+    }
   },
   {
     "number": "010",
@@ -195,7 +339,25 @@
       "009",
       "011",
       "012"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Apisonado (Tamping)",
+        "definition": "Comprimir el café en una pastilla nivelada.",
+        "why": "La nivelación es más importante que la fuerza.",
+        "tip": "Concéntrate en la repetibilidad.",
+        "mistake": "Girar de forma agresiva.",
+        "challenge": "¿Por qué es importante un apisonado nivelado?"
+      },
+      "pt": {
+        "title": "Apisoamento (Tamping)",
+        "definition": "Comprimir o café em uma pastilha nivelada.",
+        "why": "O nivelamento é mais importante do que a força.",
+        "tip": "Concentre-se na repetibilidade.",
+        "mistake": "Girar de forma agressiva.",
+        "challenge": "Por que um apisoamento nivelado é importante?"
+      }
+    }
   },
   {
     "number": "011",
@@ -213,7 +375,25 @@
       "010",
       "012",
       "013"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Pre-infusión",
+        "definition": "Humedecimiento a baja presión de la pastilla antes de la presión completa de preparación.",
+        "why": "Puede mejorar la uniformidad de la extracción.",
+        "tip": "Evalúa por sabor, no por teoría.",
+        "mistake": "Suponer que más tiempo siempre es mejor.",
+        "challenge": "¿Cuándo es útil la pre-infusión?"
+      },
+      "pt": {
+        "title": "Pré-infusão",
+        "definition": "Umedecimento a baixa pressão da pastilha antes da pressão total de preparo.",
+        "why": "Pode melhorar a uniformidade da extração.",
+        "tip": "Avalie pelo sabor, não pela teoria.",
+        "mistake": "Supor que mais tempo é sempre melhor.",
+        "challenge": "Quando a pré-infusão é útil?"
+      }
+    }
   },
   {
     "number": "012",
@@ -231,7 +411,25 @@
       "011",
       "013",
       "014"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Presión",
+        "definition": "La fuerza que empuja el agua a través de la pastilla de café.",
+        "why": "La presión influye en el flujo y la extracción.",
+        "tip": "La presión estable importa más que la presión máxima.",
+        "mistake": "Culpar a la presión de todos los problemas.",
+        "challenge": "¿Cuál es la presión de preparación tradicional?"
+      },
+      "pt": {
+        "title": "Pressão",
+        "definition": "A força que empurra a água através da pastilha de café.",
+        "why": "A pressão influencia o fluxo e a extração.",
+        "tip": "Pressão estável importa mais do que pressão máxima.",
+        "mistake": "Culpar a pressão por todos os problemas.",
+        "challenge": "Qual é a pressão de preparo tradicional?"
+      }
+    }
   },
   {
     "number": "013",
@@ -249,7 +447,25 @@
       "012",
       "014",
       "015"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Temperatura",
+        "definition": "La temperatura del agua de preparación durante la extracción.",
+        "why": "La temperatura cambia la eficiencia de la extracción.",
+        "tip": "Cambia solo una variable a la vez.",
+        "mistake": "Hacer grandes saltos de temperatura.",
+        "challenge": "¿Cómo afecta el agua más caliente a la extracción?"
+      },
+      "pt": {
+        "title": "Temperatura",
+        "definition": "A temperatura da água de preparo durante a extração.",
+        "why": "A temperatura muda a eficiência da extração.",
+        "tip": "Mude apenas uma variável de cada vez.",
+        "mistake": "Fazer grandes saltos de temperatura.",
+        "challenge": "Como água mais quente afeta a extração?"
+      }
+    }
   },
   {
     "number": "014",
@@ -267,7 +483,25 @@
       "013",
       "015",
       "006"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Calibración (Dialling In)",
+        "definition": "El proceso de ajustar las variables del espresso para lograr el sabor deseado.",
+        "why": "Cada café requiere su propia calibración.",
+        "tip": "Cambia una variable a la vez.",
+        "mistake": "Cambiar varias variables juntas.",
+        "challenge": "Enumera la secuencia normal de calibración."
+      },
+      "pt": {
+        "title": "Calibração (Dialling In)",
+        "definition": "O processo de ajustar as variáveis do espresso para alcançar o sabor desejado.",
+        "why": "Cada café requer sua própria calibração.",
+        "tip": "Mude uma variável de cada vez.",
+        "mistake": "Mudar várias variáveis juntas.",
+        "challenge": "Liste a sequência normal de calibração."
+      }
+    }
   },
   {
     "number": "015",
@@ -285,6 +519,24 @@
       "014",
       "004",
       "003"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Receta",
+        "definition": "Una combinación documentada de dosis, rendimiento, tiempo y temperatura utilizada para producir espresso de forma consistente.",
+        "why": "Las recetas permiten la repetibilidad entre el personal y las sucursales.",
+        "tip": "Escribe cada receta.",
+        "mistake": "Confiar en la memoria.",
+        "challenge": "Elabora una receta para una dosis de 18 g."
+      },
+      "pt": {
+        "title": "Receita",
+        "definition": "Uma combinação documentada de dose, rendimento, tempo e temperatura usada para produzir espresso de forma consistente.",
+        "why": "Receitas permitem repetibilidade entre a equipe e as unidades.",
+        "tip": "Escreva cada receita.",
+        "mistake": "Confiar na memória.",
+        "challenge": "Elabore uma receita para uma dose de 18g."
+      }
+    }
   }
 ]

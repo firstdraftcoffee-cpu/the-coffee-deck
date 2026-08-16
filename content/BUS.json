@@ -51,7 +51,25 @@
       "111",
       "113",
       "114"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Margen Bruto",
+        "definition": "El margen bruto es el porcentaje de los ingresos que queda después de deducir el costo directo de producir un producto.",
+        "why": "El margen muestra si el precio puede cubrir la mano de obra, el alquiler y otros costos operativos.",
+        "tip": "Haz seguimiento del margen por categoría de producto.",
+        "mistake": "Confundir el margen con el margen de beneficio sobre el costo (markup).",
+        "challenge": "Una bebida se vende a 4 € y cuesta 1 € producirla. Calcula su margen bruto."
+      },
+      "pt": {
+        "title": "Margem Bruta",
+        "definition": "A margem bruta é a porcentagem da receita que resta depois de deduzido o custo direto de produção de um produto.",
+        "why": "A margem mostra se o preço consegue cobrir mão de obra, aluguel e outros custos operacionais.",
+        "tip": "Acompanhe a margem por categoria de produto.",
+        "mistake": "Confundir margem com markup.",
+        "challenge": "Uma bebida é vendida por €4 e custa €1 para produzir. Calcule sua margem bruta."
+      }
+    }
   },
   {
     "number": "113",
@@ -69,7 +87,25 @@
       "111",
       "112",
       "114"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Fijación de Precios",
+        "definition": "La fijación de precios equilibra el costo del producto, la mano de obra, los gastos generales, la posición de mercado y el valor para el cliente.",
+        "why": "Unas ventas fuertes no pueden salvar un producto que está constantemente mal valorado.",
+        "tip": "Revisa los precios cada vez que cambien los costos importantes de los insumos.",
+        "mistake": "Copiar los precios de la competencia sin conocer tus propios costos.",
+        "challenge": "Enumera cinco factores que considerarías antes de subir los precios del café."
+      },
+      "pt": {
+        "title": "Precificação",
+        "definition": "A precificação equilibra o custo do produto, a mão de obra, os custos indiretos, a posição de mercado e o valor para o cliente.",
+        "why": "Vendas fortes não conseguem salvar um produto que está sistematicamente subvalorizado.",
+        "tip": "Revise os preços sempre que os custos importantes dos insumos mudarem.",
+        "mistake": "Copiar os preços da concorrência sem conhecer os próprios custos.",
+        "challenge": "Liste cinco fatores que você consideraria antes de aumentar os preços do café."
+      }
+    }
   },
   {
     "number": "114",
@@ -87,7 +123,25 @@
       "112",
       "113",
       "115"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Valor Promedio de Transacción",
+        "definition": "El valor promedio de transacción es el monto promedio gastado por un cliente en una sola transacción.",
+        "why": "Aumentar el gasto por cliente puede hacer crecer los ingresos sin necesidad de más clientes.",
+        "tip": "Mídelo semanalmente y busca oportunidades útiles de venta adicional.",
+        "mistake": "Insistir con complementos no deseados en lugar de mejorar el valor para el cliente.",
+        "challenge": "Si 200 transacciones generan 1.400 €, calcula el valor promedio de transacción."
+      },
+      "pt": {
+        "title": "Ticket Médio",
+        "definition": "O ticket médio é o valor médio gasto por um cliente em uma única transação.",
+        "why": "Aumentar o gasto por cliente pode gerar mais receita sem aumentar o número de clientes.",
+        "tip": "Meça-o semanalmente e busque oportunidades úteis de venda adicional.",
+        "mistake": "Empurrar complementos indesejados em vez de melhorar o valor para o cliente.",
+        "challenge": "Se 200 transações geram €1.400, calcule o ticket médio."
+      }
+    }
   },
   {
     "number": "115",
@@ -105,7 +159,25 @@
       "025",
       "111",
       "116"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Control de Desperdicio",
+        "definition": "El control de desperdicio mide y reduce la pérdida innecesaria de café, leche, alimentos y envases.",
+        "why": "Pequeñas cantidades de desperdicio repetido pueden reducir significativamente las ganancias.",
+        "tip": "Mide el desperdicio antes de intentar reducirlo.",
+        "mistake": "Tratar el desperdicio como un costo inevitable del negocio.",
+        "challenge": "Identifica cinco fuentes de desperdicio detrás de una barra de café."
+      },
+      "pt": {
+        "title": "Controle de Desperdício",
+        "definition": "O controle de desperdício mede e reduz a perda desnecessária de café, leite, alimentos e embalagens.",
+        "why": "Pequenas quantidades de desperdício repetido podem reduzir significativamente o lucro.",
+        "tip": "Meça o desperdício antes de tentar reduzi-lo.",
+        "mistake": "Tratar o desperdício como um custo inevitável do negócio.",
+        "challenge": "Identifique cinco fontes de desperdício atrás de um balcão de café."
+      }
+    }
   },
   {
     "number": "116",
@@ -123,7 +195,25 @@
       "114",
       "115",
       "117"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Costo de Mano de Obra",
+        "definition": "El costo de mano de obra incluye los salarios y los costos laborales asociados necesarios para operar el negocio.",
+        "why": "La mano de obra suele ser uno de los mayores gastos controlables de una cafetería.",
+        "tip": "Programa los turnos según la demanda esperada, no según la costumbre.",
+        "mistake": "Reducir tanto el personal que el servicio y las ventas se resienten.",
+        "challenge": "¿Por qué recortar la mano de obra a veces puede reducir la rentabilidad?"
+      },
+      "pt": {
+        "title": "Custo de Mão de Obra",
+        "definition": "O custo de mão de obra inclui salários e os custos trabalhistas associados necessários para operar o negócio.",
+        "why": "A mão de obra costuma ser uma das maiores despesas controláveis de uma cafeteria.",
+        "tip": "Programe a escala conforme a demanda esperada, não pelo hábito.",
+        "mistake": "Reduzir o quadro de pessoal de forma tão agressiva que o atendimento e as vendas sofrem.",
+        "challenge": "Por que reduzir a mão de obra às vezes pode diminuir a lucratividade?"
+      }
+    }
   },
   {
     "number": "117",
@@ -141,7 +231,25 @@
       "115",
       "116",
       "118"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Control de Inventario",
+        "definition": "El control de inventario hace seguimiento del stock desde la compra hasta el almacenamiento, uso y venta.",
+        "why": "Los registros precisos de inventario revelan desperdicio, faltantes y efectivo inmovilizado en existencias.",
+        "tip": "Cuenta el inventario importante en un horario constante.",
+        "mistake": "Pedir de memoria en lugar de basarse en el uso real.",
+        "challenge": "¿Qué cinco artículos de la barra de café contarías con más frecuencia?"
+      },
+      "pt": {
+        "title": "Controle de Estoque",
+        "definition": "O controle de estoque acompanha o inventário desde a compra até o armazenamento, uso e venda.",
+        "why": "Registros precisos de estoque revelam desperdício, faltas e dinheiro parado em inventário.",
+        "tip": "Conte o estoque importante em uma programação consistente.",
+        "mistake": "Fazer pedidos de memória em vez de com base no uso real.",
+        "challenge": "Quais cinco itens do balcão de café você contaria com mais frequência?"
+      }
+    }
   },
   {
     "number": "118",
@@ -159,7 +267,25 @@
       "117",
       "119",
       "120"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Café al por Mayor",
+        "definition": "El café al por mayor implica suministrar café y, a menudo, capacitación, soporte de equipos y servicio a otros negocios.",
+        "why": "Las relaciones exitosas de venta al por mayor dependen de más que solo vender bolsas de café.",
+        "tip": "Trata el soporte y la capacitación como parte del producto.",
+        "mistake": "Competir solo por precio.",
+        "challenge": "Enumera cinco cosas que debería ofrecer un buen programa de café al por mayor."
+      },
+      "pt": {
+        "title": "Café por Atacado",
+        "definition": "O café por atacado envolve fornecer café e, frequentemente, treinamento, suporte de equipamentos e serviço a outras empresas.",
+        "why": "Relações de atacado bem-sucedidas dependem de mais do que apenas vender pacotes de café.",
+        "tip": "Trate o suporte e o treinamento como parte do produto.",
+        "mistake": "Competir apenas por preço.",
+        "challenge": "Liste cinco coisas que um bom programa de café por atacado deveria oferecer."
+      }
+    }
   },
   {
     "number": "119",
@@ -177,7 +303,25 @@
       "114",
       "118",
       "120"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Retención de Clientes",
+        "definition": "La retención de clientes es la capacidad de convertir a clientes primerizos en clientes habituales.",
+        "why": "Los clientes habituales generan ingresos más predecibles y negocios más sólidos.",
+        "tip": "La consistencia es una de las herramientas de retención más fuertes.",
+        "mistake": "Centrarse por completo en atraer nuevos clientes.",
+        "challenge": "Nombra tres razones por las que un cliente volvería a la misma cafetería cada semana."
+      },
+      "pt": {
+        "title": "Retenção de Clientes",
+        "definition": "Retenção de clientes é a capacidade de transformar clientes de primeira vez em clientes recorrentes.",
+        "why": "Clientes recorrentes geram receita mais previsível e negócios mais sólidos.",
+        "tip": "Consistência é uma das ferramentas de retenção mais fortes.",
+        "mistake": "Focar inteiramente em atrair novos clientes.",
+        "challenge": "Nomeie três razões pelas quais um cliente voltaria à mesma cafeteria toda semana."
+      }
+    }
   },
   {
     "number": "120",
@@ -195,6 +339,24 @@
       "113",
       "118",
       "119"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Valor del Café",
+        "definition": "El valor del café es la combinación de calidad del producto, servicio, experiencia y confianza percibidos por el cliente.",
+        "why": "Los clientes juzgan el valor por la experiencia completa, no solo por el costo de los ingredientes.",
+        "tip": "Compite por experiencia y consistencia, no solo por precio.",
+        "mistake": "Suponer que más barato significa automáticamente mejor valor.",
+        "challenge": "Describe qué hace que un café de 4 € se sienta como que vale 4 €."
+      },
+      "pt": {
+        "title": "Valor do Café",
+        "definition": "O valor do café é a combinação de qualidade do produto, atendimento, experiência e confiança percebidos pelo cliente.",
+        "why": "Os clientes julgam o valor pela experiência completa, não apenas pelo custo dos ingredientes.",
+        "tip": "Compita por experiência e consistência, não apenas por preço.",
+        "mistake": "Supor que mais barato significa automaticamente mais valor.",
+        "challenge": "Descreva o que faz um café de €4 parecer valer €4."
+      }
+    }
   }
 ]

@@ -392,7 +392,7 @@ if (esButton) {
     doc.getElementById("homeNext")?.dispatchEvent(new window.Event("click", { bubbles: true }));
     await new Promise(r => setTimeout(r, 150));
     const homeCardNext = doc.querySelector(".home-card");
-    check("Untranslated card (Dose #002) falls back to English content while locale is Spanish", homeCardNext?.textContent.includes("The weight of dry coffee"));
+    check("Card #002 (Dose) also shows Spanish content now that all 120 cards are translated", homeCardNext?.textContent.includes("El peso del café seco"));
 
 }
 

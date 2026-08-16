@@ -51,7 +51,25 @@
       "056",
       "058",
       "060"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Fragancia vs. Aroma",
+        "definition": "La fragancia describe el olor del café seco, mientras que el aroma describe el olor después de añadir agua.",
+        "why": "Cada etapa revela diferentes compuestos volátiles.",
+        "tip": "Dedica tiempo a oler antes de probar.",
+        "mistake": "Usar los términos indistintamente.",
+        "challenge": "Describe tres aromas de un café etíope recién preparado."
+      },
+      "pt": {
+        "title": "Fragrância vs. Aroma",
+        "definition": "A fragrância descreve o cheiro do café seco, enquanto o aroma descreve o cheiro depois de adicionada a água.",
+        "why": "Cada etapa revela compostos voláteis diferentes.",
+        "tip": "Dedique tempo a cheirar antes de provar.",
+        "mistake": "Usar os termos de forma intercambiável.",
+        "challenge": "Descreva três aromas de um café etíope recém-preparado."
+      }
+    }
   },
   {
     "number": "058",
@@ -69,7 +87,25 @@
       "057",
       "059",
       "061"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Acidez",
+        "definition": "La acidez es la sensación viva y brillante que aporta estructura y frescura al café.",
+        "why": "Una buena acidez crea equilibrio y complejidad.",
+        "tip": "Piensa en cítricos o fruta madura en lugar de en algo agrio.",
+        "mistake": "Llamar 'agria' a toda acidez.",
+        "challenge": "Nombra tres descriptores positivos de acidez."
+      },
+      "pt": {
+        "title": "Acidez",
+        "definition": "A acidez é a sensação viva e brilhante que traz estrutura e frescor ao café.",
+        "why": "Uma boa acidez cria equilíbrio e complexidade.",
+        "tip": "Pense em cítricos ou frutas maduras em vez de algo azedo.",
+        "mistake": "Chamar toda acidez de 'azeda'.",
+        "challenge": "Nomeie três descritores positivos de acidez."
+      }
+    }
   },
   {
     "number": "059",
@@ -87,7 +123,25 @@
       "058",
       "060",
       "062"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Dulzura",
+        "definition": "La dulzura es un indicador clave de una extracción equilibrada y un café de alta calidad.",
+        "why": "Una mayor dulzura suele indicar un mejor equilibrio.",
+        "tip": "Busca dulzura de caramelo, miel o fruta.",
+        "mistake": "Confundir baja amargura con dulzura.",
+        "challenge": "¿Cómo puede el desarrollo del tueste influir en la dulzura?"
+      },
+      "pt": {
+        "title": "Doçura",
+        "definition": "A doçura é um indicador-chave de uma extração equilibrada e de café de alta qualidade.",
+        "why": "Maior doçura geralmente indica melhor equilíbrio.",
+        "tip": "Procure doçura de caramelo, mel ou fruta.",
+        "mistake": "Confundir baixo amargor com doçura.",
+        "challenge": "Como o desenvolvimento da torra pode influenciar a doçura?"
+      }
+    }
   },
   {
     "number": "060",
@@ -105,7 +159,25 @@
       "059",
       "061",
       "063"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Amargor",
+        "definition": "El amargor es una característica de sabor natural que se vuelve desagradable cuando es excesiva.",
+        "why": "El amargor controlado contribuye al equilibrio.",
+        "tip": "Juzga el amargor junto con la dulzura.",
+        "mistake": "Suponer que todo amargor es un defecto.",
+        "challenge": "Nombra dos causas de amargor excesivo."
+      },
+      "pt": {
+        "title": "Amargor",
+        "definition": "O amargor é uma característica de sabor natural que se torna desagradável quando excessiva.",
+        "why": "O amargor controlado contribui para o equilíbrio.",
+        "tip": "Julgue o amargor junto com a doçura.",
+        "mistake": "Supor que todo amargor é um defeito.",
+        "challenge": "Nomeie duas causas de amargor excessivo."
+      }
+    }
   },
   {
     "number": "061",
@@ -123,7 +195,25 @@
       "058",
       "060",
       "062"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Cuerpo",
+        "definition": "El cuerpo describe el peso y la sensación táctil del café en la boca.",
+        "why": "El cuerpo contribuye significativamente a la experiencia de beber.",
+        "tip": "Compara leche descremada y crema para entender las diferencias de cuerpo.",
+        "mistake": "Confundir fuerza con cuerpo.",
+        "challenge": "Describe un café con un cuerpo similar al del té."
+      },
+      "pt": {
+        "title": "Corpo",
+        "definition": "O corpo descreve o peso e a sensação tátil do café na boca.",
+        "why": "O corpo contribui significativamente para a experiência de beber.",
+        "tip": "Compare leite desnatado e creme para entender as diferenças de corpo.",
+        "mistake": "Confundir força com corpo.",
+        "challenge": "Descreva um café com corpo semelhante ao de um chá."
+      }
+    }
   },
   {
     "number": "062",
@@ -141,7 +231,25 @@
       "061",
       "063",
       "064"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Retrogusto",
+        "definition": "El retrogusto es la sensación de sabor que permanece después de tragar.",
+        "why": "Un final agradable a menudo refleja la calidad general.",
+        "tip": "Espera varios segundos antes de puntuar.",
+        "mistake": "Ignorar el final.",
+        "challenge": "Describe el final de tu café favorito."
+      },
+      "pt": {
+        "title": "Retrogosto",
+        "definition": "O retrogosto é a sensação de sabor que permanece depois de engolir.",
+        "why": "Um final agradável costuma refletir a qualidade geral.",
+        "tip": "Espere vários segundos antes de pontuar.",
+        "mistake": "Ignorar o final.",
+        "challenge": "Descreva o final do seu café favorito."
+      }
+    }
   },
   {
     "number": "063",
@@ -159,7 +267,25 @@
       "060",
       "062",
       "064"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Equilibrio",
+        "definition": "El equilibrio es la armonía entre la acidez, la dulzura, el amargor y el cuerpo.",
+        "why": "Los cafés equilibrados suelen ser más fáciles de disfrutar repetidamente.",
+        "tip": "Evita centrarte en un solo sabor.",
+        "mistake": "Premiar la intensidad por encima del equilibrio.",
+        "challenge": "¿Puede un café ser muy ácido y aun así estar equilibrado?"
+      },
+      "pt": {
+        "title": "Equilíbrio",
+        "definition": "O equilíbrio é a harmonia entre acidez, doçura, amargor e corpo.",
+        "why": "Cafés equilibrados costumam ser mais fáceis de apreciar repetidamente.",
+        "tip": "Evite focar em um único sabor.",
+        "mistake": "Premiar a intensidade em vez do equilíbrio.",
+        "challenge": "Um café pode ser muito ácido e ainda assim ser equilibrado?"
+      }
+    }
   },
   {
     "number": "064",
@@ -177,7 +303,25 @@
       "063",
       "065",
       "057"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Notas de Sabor",
+        "definition": "Las notas de sabor son referencias descriptivas que ayudan a comunicar experiencias sensoriales.",
+        "why": "Crean un lenguaje común para la catación.",
+        "tip": "Usa alimentos familiares en lugar de buscar descriptores exóticos.",
+        "mistake": "Tratar las notas de sabor como ingredientes.",
+        "challenge": "Describe un café usando cinco notas de sabor."
+      },
+      "pt": {
+        "title": "Notas de Sabor",
+        "definition": "As notas de sabor são referências descritivas que ajudam a comunicar experiências sensoriais.",
+        "why": "Criam uma linguagem comum para a prova.",
+        "tip": "Use alimentos familiares em vez de buscar descritores exóticos.",
+        "mistake": "Tratar as notas de sabor como ingredientes.",
+        "challenge": "Descreva um café usando cinco notas de sabor."
+      }
+    }
   },
   {
     "number": "065",
@@ -195,6 +339,24 @@
       "056",
       "057",
       "064"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Calibración",
+        "definition": "La calibración es el proceso de alinear las evaluaciones sensoriales entre varios catadores.",
+        "why": "La calibración mejora la consistencia entre cafeterías, tostadurías y equipos de control de calidad.",
+        "tip": "Discute las diferencias abiertamente después de cada catación.",
+        "mistake": "Intentar ponerse de acuerdo antes de catar de forma independiente.",
+        "challenge": "¿Cómo calibrarías a un equipo de cuatro catadores?"
+      },
+      "pt": {
+        "title": "Calibração",
+        "definition": "A calibração é o processo de alinhar as avaliações sensoriais entre vários provadores.",
+        "why": "A calibração melhora a consistência entre cafeterias, torrefações e equipes de controle de qualidade.",
+        "tip": "Discuta as diferenças abertamente após cada prova.",
+        "mistake": "Tentar chegar a um acordo antes de provar de forma independente.",
+        "challenge": "Como você calibraria uma equipe de quatro provadores?"
+      }
+    }
   }
 ]

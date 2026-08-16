@@ -51,7 +51,25 @@
       "036",
       "038",
       "042"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Portafiltro",
+        "definition": "El portafiltro sostiene la canasta de café durante la extracción del espresso.",
+        "why": "Un portafiltro limpio y caliente mejora la consistencia de la extracción.",
+        "tip": "Mantén el portafiltro enganchado en el grupo entre extracciones.",
+        "mistake": "Dejar las canastas mojadas antes de dosificar.",
+        "challenge": "¿Por qué el portafiltro debe mantenerse caliente?"
+      },
+      "pt": {
+        "title": "Porta-filtro",
+        "definition": "O porta-filtro sustenta o cesto de café durante a extração do espresso.",
+        "why": "Um porta-filtro limpo e quente melhora a consistência da extração.",
+        "tip": "Mantenha o porta-filtro encaixado no grupo entre as extrações.",
+        "mistake": "Deixar os cestos molhados antes de dosar.",
+        "challenge": "Por que o porta-filtro deve permanecer quente?"
+      }
+    }
   },
   {
     "number": "038",
@@ -69,7 +87,25 @@
       "037",
       "039",
       "043"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Canasta",
+        "definition": "La canasta sostiene el café molido dentro del portafiltro.",
+        "why": "El tamaño de la canasta determina el rango de dosis adecuado.",
+        "tip": "Haz coincidir la canasta con la receta.",
+        "mistake": "Llenar de más o de menos las canastas.",
+        "challenge": "¿Por qué importa el espacio libre superior?"
+      },
+      "pt": {
+        "title": "Cesto",
+        "definition": "O cesto sustenta o café moído dentro do porta-filtro.",
+        "why": "O tamanho do cesto determina a faixa de dose adequada.",
+        "tip": "Combine o cesto com a receita.",
+        "mistake": "Encher demais ou de menos os cestos.",
+        "challenge": "Por que o espaço livre superior importa?"
+      }
+    }
   },
   {
     "number": "039",
@@ -87,7 +123,25 @@
       "038",
       "040",
       "044"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Ducha (Shower Screen)",
+        "definition": "La ducha distribuye el agua de preparación de manera uniforme sobre la pastilla de café.",
+        "why": "Las duchas limpias mejoran la consistencia de la extracción.",
+        "tip": "Cepilla el grupo después de cada extracción.",
+        "mistake": "Ignorar la limpieza diaria.",
+        "challenge": "¿Qué ocurre cuando una ducha se obstruye?"
+      },
+      "pt": {
+        "title": "Chuveiro (Shower Screen)",
+        "definition": "O chuveiro distribui a água de preparo uniformemente sobre a pastilha de café.",
+        "why": "Chuveiros limpos melhoram a consistência da extração.",
+        "tip": "Escove o grupo após cada extração.",
+        "mistake": "Ignorar a limpeza diária.",
+        "challenge": "O que acontece quando um chuveiro entope?"
+      }
+    }
   },
   {
     "number": "040",
@@ -105,7 +159,25 @@
       "024",
       "039",
       "041"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Vaporizador",
+        "definition": "El vaporizador inyecta vapor en la leche para calentarla y texturizarla.",
+        "why": "La presión de vapor correcta crea un microfoam consistente.",
+        "tip": "Purga antes y después de cada uso.",
+        "mistake": "Dejar residuos de leche en el vaporizador.",
+        "challenge": "¿Por qué purgar dos veces?"
+      },
+      "pt": {
+        "title": "Vaporizador",
+        "definition": "O vaporizador injeta vapor no leite para aquecê-lo e texturizá-lo.",
+        "why": "A pressão de vapor correta cria um microfoam consistente.",
+        "tip": "Purgue antes e depois de cada uso.",
+        "mistake": "Deixar resíduos de leite no vaporizador.",
+        "challenge": "Por que purgar duas vezes?"
+      }
+    }
   },
   {
     "number": "041",
@@ -123,7 +195,25 @@
       "036",
       "037",
       "039"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Grupo",
+        "definition": "El grupo es donde el portafiltro se engancha en la máquina de espresso.",
+        "why": "La estabilidad térmica comienza aquí.",
+        "tip": "Purga el grupo cuando corresponda según tu máquina.",
+        "mistake": "Ignorar la limpieza del grupo.",
+        "challenge": "¿Qué logra purgar el grupo?"
+      },
+      "pt": {
+        "title": "Grupo",
+        "definition": "O grupo é onde o porta-filtro se encaixa na máquina de espresso.",
+        "why": "A estabilidade térmica começa aqui.",
+        "tip": "Purgue o grupo quando apropriado para sua máquina.",
+        "mistake": "Ignorar a limpeza do grupo.",
+        "challenge": "O que a purga do grupo alcança?"
+      }
+    }
   },
   {
     "number": "042",
@@ -141,7 +231,25 @@
       "006",
       "043",
       "044"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Muelas del Molinillo",
+        "definition": "Las muelas trituran el café en partículas de tamaño consistente.",
+        "why": "La consistencia de las partículas impulsa la calidad de la extracción.",
+        "tip": "Reemplaza las muelas antes de que estén excesivamente desgastadas.",
+        "mistake": "Ajustar la molienda para compensar muelas desgastadas.",
+        "challenge": "¿Cómo afectan al sabor las muelas desgastadas?"
+      },
+      "pt": {
+        "title": "Rebolos do Moedor",
+        "definition": "Os rebolos trituram o café em partículas de tamanho consistente.",
+        "why": "A consistência das partículas impulsiona a qualidade da extração.",
+        "tip": "Substitua os rebolos antes que fiquem excessivamente desgastados.",
+        "mistake": "Ajustar a moagem para compensar rebolos desgastados.",
+        "challenge": "Como rebolos desgastados afetam o sabor?"
+      }
+    }
   },
   {
     "number": "043",
@@ -159,7 +267,25 @@
       "042",
       "006",
       "044"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Calibración del Molinillo",
+        "definition": "La calibración asegura que los ajustes del molinillo correspondan con precisión a la posición de las muelas.",
+        "why": "Una calibración confiable hace que el ajuste de molienda sea repetible.",
+        "tip": "Calibra después de un mantenimiento importante.",
+        "mistake": "Suponer que el cero de fábrica nunca cambia.",
+        "challenge": "¿Cuándo deberían recalibrarse los molinillos?"
+      },
+      "pt": {
+        "title": "Calibração do Moedor",
+        "definition": "A calibração garante que os ajustes do moedor correspondam com precisão à posição dos rebolos.",
+        "why": "Uma calibração confiável torna o ajuste de moagem repetível.",
+        "tip": "Calibre após manutenções importantes.",
+        "mistake": "Supor que o zero de fábrica nunca muda.",
+        "challenge": "Quando os moedores devem ser recalibrados?"
+      }
+    }
   },
   {
     "number": "044",
@@ -177,7 +303,25 @@
       "042",
       "045",
       "091"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Filtro de Agua",
+        "definition": "La filtración de agua protege el equipo y mejora la calidad en taza.",
+        "why": "El agua de mala calidad daña las máquinas y afecta el sabor.",
+        "tip": "Reemplaza los filtros según el calendario indicado.",
+        "mistake": "Esperar hasta que cambie el sabor.",
+        "challenge": "¿Qué problemas causa la cal (incrustaciones)?"
+      },
+      "pt": {
+        "title": "Filtro de Água",
+        "definition": "A filtragem de água protege o equipamento e melhora a qualidade na xícara.",
+        "why": "Água de má qualidade danifica as máquinas e afeta o sabor.",
+        "tip": "Substitua os filtros conforme o cronograma.",
+        "mistake": "Esperar até o sabor mudar.",
+        "challenge": "Que problemas o calcário causa?"
+      }
+    }
   },
   {
     "number": "045",
@@ -195,6 +339,24 @@
       "036",
       "040",
       "044"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Mantenimiento Preventivo",
+        "definition": "El mantenimiento rutinario previene averías y mantiene la calidad del café.",
+        "why": "La prevención es más barata que las reparaciones de emergencia.",
+        "tip": "Usa calendarios de mantenimiento por escrito.",
+        "mistake": "Esperar hasta que el equipo falle.",
+        "challenge": "Nombra cinco tareas de mantenimiento diario."
+      },
+      "pt": {
+        "title": "Manutenção Preventiva",
+        "definition": "A manutenção de rotina previne quebras e mantém a qualidade do café.",
+        "why": "Prevenir é mais barato do que reparos de emergência.",
+        "tip": "Use cronogramas de manutenção por escrito.",
+        "mistake": "Esperar até o equipamento falhar.",
+        "challenge": "Nomeie cinco tarefas de manutenção diária."
+      }
+    }
   }
 ]

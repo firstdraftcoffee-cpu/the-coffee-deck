@@ -51,7 +51,25 @@
       "096",
       "098",
       "100"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Temperatura de Carga",
+        "definition": "La temperatura de carga es la temperatura del tambor cuando se introduce el café verde.",
+        "why": "Determina cómo entra la energía en el tueste desde el principio.",
+        "tip": "Elige la temperatura de carga según el tamaño del lote y la densidad del grano.",
+        "mistake": "Usar la misma temperatura de carga para cada café.",
+        "challenge": "¿Por qué un etíope lavado y denso podría requerir una temperatura de carga diferente a la de un natural brasileño?"
+      },
+      "pt": {
+        "title": "Temperatura de Carga",
+        "definition": "A temperatura de carga é a temperatura do tambor quando o café verde é introduzido.",
+        "why": "Determina como a energia entra na torra desde o início.",
+        "tip": "Escolha a temperatura de carga de acordo com o tamanho do lote e a densidade do grão.",
+        "mistake": "Usar a mesma temperatura de carga para todo café.",
+        "challenge": "Por que um etíope lavado e denso pode exigir uma temperatura de carga diferente de um natural brasileiro?"
+      }
+    }
   },
   {
     "number": "098",
@@ -69,7 +87,25 @@
       "097",
       "099",
       "101"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Punto de Inflexión (Turning Point)",
+        "definition": "El punto de inflexión es el momento en que la temperatura del grano deja de caer y comienza a subir.",
+        "why": "Marca el inicio de la ganancia efectiva de calor.",
+        "tip": "Obsérvalo como un punto de referencia, no como un objetivo.",
+        "mistake": "Intentar forzar un punto de inflexión temprano.",
+        "challenge": "¿Qué factores influyen en el punto de inflexión?"
+      },
+      "pt": {
+        "title": "Ponto de Virada (Turning Point)",
+        "definition": "O ponto de virada é o momento em que a temperatura do grão para de cair e começa a subir.",
+        "why": "Marca o início do ganho efetivo de calor.",
+        "tip": "Observe-o como um ponto de referência, não como uma meta.",
+        "mistake": "Tentar forçar um ponto de virada precoce.",
+        "challenge": "Que fatores influenciam o ponto de virada?"
+      }
+    }
   },
   {
     "number": "099",
@@ -87,7 +123,25 @@
       "098",
       "100",
       "102"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Fase de Secado",
+        "definition": "La fase de secado elimina la humedad libre antes de que comiencen las reacciones de pardeamiento.",
+        "why": "Una fase de secado estable crea la base para un tueste uniforme.",
+        "tip": "Genera impulso sin apresurarte.",
+        "mistake": "Aplicar calor excesivo demasiado pronto.",
+        "challenge": "¿Cuándo termina normalmente el secado?"
+      },
+      "pt": {
+        "title": "Fase de Secagem",
+        "definition": "A fase de secagem remove a umidade livre antes que as reações de escurecimento comecem.",
+        "why": "Uma fase de secagem estável cria a base para uma torra uniforme.",
+        "tip": "Ganhe impulso sem se apressar.",
+        "mistake": "Aplicar calor excessivo cedo demais.",
+        "challenge": "Quando a secagem normalmente termina?"
+      }
+    }
   },
   {
     "number": "100",
@@ -105,7 +159,25 @@
       "099",
       "101",
       "103"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Reacción de Maillard",
+        "definition": "La reacción de Maillard crea cientos de compuestos de aroma y sabor mediante reacciones entre azúcares y aminoácidos.",
+        "why": "Gran parte de la dulzura y complejidad del café se desarrolla aquí.",
+        "tip": "Gestiona la energía con cuidado durante esta etapa.",
+        "mistake": "Apresurar la etapa de Maillard.",
+        "challenge": "¿Cómo influye Maillard en la dulzura?"
+      },
+      "pt": {
+        "title": "Reação de Maillard",
+        "definition": "A reação de Maillard cria centenas de compostos de aroma e sabor por meio de reações entre açúcares e aminoácidos.",
+        "why": "Grande parte da doçura e complexidade do café se desenvolve aqui.",
+        "tip": "Gerencie a energia com cuidado durante esta etapa.",
+        "mistake": "Apressar a etapa de Maillard.",
+        "challenge": "Como Maillard influencia a doçura?"
+      }
+    }
   },
   {
     "number": "101",
@@ -123,7 +195,25 @@
       "100",
       "102",
       "104"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Primer Crack",
+        "definition": "El primer crack ocurre cuando la presión interna hace que la estructura del grano se fracture audiblemente.",
+        "why": "Marca el inicio del desarrollo.",
+        "tip": "Escucha tanto como observas tus datos.",
+        "mistake": "Tratar el primer crack como la línea de meta.",
+        "challenge": "¿Por qué ocurre el primer crack?"
+      },
+      "pt": {
+        "title": "Primeiro Crack",
+        "definition": "O primeiro crack ocorre quando a pressão interna faz com que a estrutura do grão se frature de forma audível.",
+        "why": "Marca o início do desenvolvimento.",
+        "tip": "Ouça tanto quanto observa seus dados.",
+        "mistake": "Tratar o primeiro crack como a linha de chegada.",
+        "challenge": "Por que o primeiro crack ocorre?"
+      }
+    }
   },
   {
     "number": "102",
@@ -141,7 +231,25 @@
       "101",
       "103",
       "105"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tiempo de Desarrollo",
+        "definition": "El tiempo de desarrollo es el período entre el primer crack y el final del tueste.",
+        "why": "Influye fuertemente en la dulzura, la acidez y el carácter del tueste.",
+        "tip": "Juzga el desarrollo por el sabor, no solo por el porcentaje.",
+        "mistake": "Perseguir relaciones de desarrollo arbitrarias.",
+        "challenge": "¿Cómo puede saber en taza un desarrollo insuficiente?"
+      },
+      "pt": {
+        "title": "Tempo de Desenvolvimento",
+        "definition": "O tempo de desenvolvimento é o período entre o primeiro crack e o fim da torra.",
+        "why": "Influencia fortemente a doçura, a acidez e o caráter da torra.",
+        "tip": "Julgue o desenvolvimento pelo sabor, não apenas pela porcentagem.",
+        "mistake": "Perseguir proporções de desenvolvimento arbitrárias.",
+        "challenge": "Como um desenvolvimento insuficiente pode ter sabor na xícara?"
+      }
+    }
   },
   {
     "number": "103",
@@ -159,7 +267,25 @@
       "100",
       "102",
       "104"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tasa de Subida (RoR)",
+        "definition": "La Tasa de Subida (Rate of Rise, RoR) mide qué tan rápido está aumentando la temperatura del grano.",
+        "why": "Ayuda al tostador a gestionar el impulso del tueste.",
+        "tip": "Busca un RoR suave y en descenso constante.",
+        "mistake": "Dejar que el RoR se desplome o oscile bruscamente.",
+        "challenge": "Explica qué causa un desplome del RoR."
+      },
+      "pt": {
+        "title": "Taxa de Subida (RoR)",
+        "definition": "A Taxa de Subida (Rate of Rise, RoR) mede quão rapidamente a temperatura do grão está aumentando.",
+        "why": "Ajuda o torrefador a gerenciar o ritmo da torra.",
+        "tip": "Busque um RoR suave e em queda constante.",
+        "mistake": "Deixar o RoR despencar ou oscilar drasticamente.",
+        "challenge": "Explique o que causa um colapso no RoR."
+      }
+    }
   },
   {
     "number": "104",
@@ -177,7 +303,25 @@
       "101",
       "103",
       "105"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Temperatura Final",
+        "definition": "La temperatura final es la temperatura del grano en el momento de descarga.",
+        "why": "Contribuye al nivel de tueste, pero nunca cuenta toda la historia.",
+        "tip": "Prueba cada tueste en lugar de confiar solo en números.",
+        "mistake": "Comparar temperaturas finales entre diferentes configuraciones de sonda.",
+        "challenge": "¿Por qué la temperatura final por sí sola no puede definir el nivel de tueste?"
+      },
+      "pt": {
+        "title": "Temperatura Final",
+        "definition": "A temperatura final é a temperatura do grão no momento da descarga.",
+        "why": "Contribui para o nível de torra, mas nunca conta toda a história.",
+        "tip": "Prove cada torra em vez de confiar apenas em números.",
+        "mistake": "Comparar temperaturas finais entre diferentes configurações de sonda.",
+        "challenge": "Por que a temperatura final sozinha não pode definir o nível de torra?"
+      }
+    }
   },
   {
     "number": "105",
@@ -195,7 +339,25 @@
       "104",
       "106",
       "107"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Descarga (Drop)",
+        "definition": "La descarga es el momento en que el café tostado sale del tambor y entra en enfriamiento.",
+        "why": "El tueste continúa hasta que comienza el enfriamiento.",
+        "tip": "Enfría lo más rápido posible sin dañar los granos.",
+        "mistake": "Enfriar lentamente.",
+        "challenge": "¿Por qué es importante un enfriamiento rápido?"
+      },
+      "pt": {
+        "title": "Descarga (Drop)",
+        "definition": "A descarga é o momento em que o café torrado sai do tambor e entra em resfriamento.",
+        "why": "A torra continua até que o resfriamento comece.",
+        "tip": "Resfrie o mais rápido possível sem danificar os grãos.",
+        "mistake": "Resfriar lentamente.",
+        "challenge": "Por que um resfriamento rápido é importante?"
+      }
+    }
   },
   {
     "number": "106",
@@ -213,7 +375,25 @@
       "105",
       "107",
       "108"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Color de Tueste",
+        "definition": "El color de tueste ofrece una indicación medible del grado de tueste.",
+        "why": "El color apoya la consistencia entre lotes.",
+        "tip": "Usa el color junto con la catación.",
+        "mistake": "Tostar guiándose solo por el color.",
+        "challenge": "¿Por qué el color nunca debería reemplazar la catación?"
+      },
+      "pt": {
+        "title": "Cor da Torra",
+        "definition": "A cor da torra fornece uma indicação mensurável do grau de torra.",
+        "why": "A cor apoia a consistência entre lotes.",
+        "tip": "Use a cor junto com a avaliação sensorial.",
+        "mistake": "Torrar guiando-se apenas pela cor.",
+        "challenge": "Por que a cor nunca deve substituir a prova?"
+      }
+    }
   },
   {
     "number": "107",
@@ -231,7 +411,25 @@
       "105",
       "108",
       "109"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Reposo del Café",
+        "definition": "El café recién tostado necesita tiempo para que el dióxido de carbono escape antes de prepararse.",
+        "why": "El reposo mejora la estabilidad del sabor y la extracción.",
+        "tip": "Experimenta con diferentes períodos de reposo.",
+        "mistake": "Servir cada café inmediatamente después de tostarlo.",
+        "challenge": "¿Por qué el espresso y el café de filtro suelen requerir tiempos de reposo diferentes?"
+      },
+      "pt": {
+        "title": "Descanso do Café",
+        "definition": "O café recém-torrado precisa de tempo para que o dióxido de carbono escape antes do preparo.",
+        "why": "O descanso melhora a estabilidade do sabor e a extração.",
+        "tip": "Experimente diferentes períodos de descanso.",
+        "mistake": "Servir cada café imediatamente após a torra.",
+        "challenge": "Por que o espresso e o café filtrado costumam exigir tempos de descanso diferentes?"
+      }
+    }
   },
   {
     "number": "108",
@@ -249,7 +447,25 @@
       "106",
       "109",
       "110"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Defectos de Tueste",
+        "definition": "Los defectos de tueste incluyen quemado, tipping, horneado, subdesarrollo y sobredesarrollo.",
+        "why": "Reconocer los defectos acelera la resolución de problemas.",
+        "tip": "Vincula cada defecto con la gestión de energía del tueste.",
+        "mistake": "Intentar diagnosticar defectos solo por el color.",
+        "challenge": "Nombra cinco defectos de tueste."
+      },
+      "pt": {
+        "title": "Defeitos de Torra",
+        "definition": "Os defeitos de torra incluem queima, tipping, cozimento, subdesenvolvimento e superdesenvolvimento.",
+        "why": "Reconhecer os defeitos acelera a solução de problemas.",
+        "tip": "Relacione cada defeito à gestão de energia da torra.",
+        "mistake": "Tentar diagnosticar defeitos apenas pela cor.",
+        "challenge": "Nomeie cinco defeitos de torra."
+      }
+    }
   },
   {
     "number": "109",
@@ -267,7 +483,25 @@
       "107",
       "108",
       "110"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Catación de Tuestes",
+        "definition": "La catación valida si las decisiones de tueste lograron el perfil de sabor previsto.",
+        "why": "Tostar sin catar es adivinar.",
+        "tip": "Cata regularmente cada tueste de producción.",
+        "mistake": "Evaluar los tuestes solo a partir del espresso.",
+        "challenge": "¿Qué información deberías registrar durante una catación de tueste?"
+      },
+      "pt": {
+        "title": "Prova de Torras",
+        "definition": "A prova (cupping) valida se as decisões de torra alcançaram o perfil de sabor pretendido.",
+        "why": "Torrar sem provar é um chute.",
+        "tip": "Prove regularmente cada torra de produção.",
+        "mistake": "Avaliar as torras apenas pelo espresso.",
+        "challenge": "Que informações você deveria registrar durante uma prova de torra?"
+      }
+    }
   },
   {
     "number": "110",
@@ -285,6 +519,24 @@
       "103",
       "108",
       "109"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Consistencia de Tueste",
+        "definition": "La consistencia se logra repitiendo una gestión de energía exitosa en cada lote.",
+        "why": "La consistencia genera confianza con los clientes.",
+        "tip": "Mide todo. Cambia una variable a la vez.",
+        "mistake": "Hacer varios ajustes simultáneamente.",
+        "challenge": "¿Cuáles son las cinco variables de tueste más importantes a monitorear?"
+      },
+      "pt": {
+        "title": "Consistência de Torra",
+        "definition": "A consistência é alcançada repetindo uma gestão de energia bem-sucedida em cada lote.",
+        "why": "A consistência gera confiança com os clientes.",
+        "tip": "Meça tudo. Mude uma variável de cada vez.",
+        "mistake": "Fazer vários ajustes simultaneamente.",
+        "challenge": "Quais são as cinco variáveis de torra mais importantes para monitorar?"
+      }
+    }
   }
 ]

@@ -51,7 +51,25 @@
       "086",
       "088",
       "090"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Altitud",
+        "definition": "La altitud influye en el desarrollo del grano, la densidad y el sabor.",
+        "why": "Las elevaciones más altas suelen producir cafés con mayor acidez y complejidad.",
+        "tip": "Compara cafés de diferentes elevaciones dentro del mismo origen.",
+        "mistake": "Creer que mayor altitud siempre significa mejor café.",
+        "challenge": "¿Por qué la altitud afecta la densidad del grano?"
+      },
+      "pt": {
+        "title": "Altitude",
+        "definition": "A altitude influencia o desenvolvimento do grão, a densidade e o sabor.",
+        "why": "Elevações mais altas costumam produzir cafés com maior acidez e complexidade.",
+        "tip": "Compare cafés de diferentes elevações dentro da mesma origem.",
+        "mistake": "Acreditar que altitude maior sempre significa café melhor.",
+        "challenge": "Por que a altitude afeta a densidade do grão?"
+      }
+    }
   },
   {
     "number": "088",
@@ -69,7 +87,25 @@
       "086",
       "087",
       "089"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Terruño (Terroir)",
+        "definition": "El terruño describe el conjunto de factores ambientales que influyen en el sabor del café.",
+        "why": "Explica por qué los cafés de diferentes regiones saben distintos.",
+        "tip": "Considera el suelo, la lluvia y el clima en conjunto.",
+        "mistake": "Usar el terruño para explicar cada diferencia de sabor.",
+        "challenge": "Enumera cuatro factores que componen el terruño."
+      },
+      "pt": {
+        "title": "Terroir",
+        "definition": "O terroir descreve o conjunto de fatores ambientais que influenciam o sabor do café.",
+        "why": "Explica por que os cafés de diferentes regiões têm sabores únicos.",
+        "tip": "Considere o solo, a chuva e o clima em conjunto.",
+        "mistake": "Usar o terroir para explicar cada diferença de sabor.",
+        "challenge": "Liste quatro fatores que compõem o terroir."
+      }
+    }
   },
   {
     "number": "089",
@@ -87,7 +123,25 @@
       "088",
       "090",
       "074"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Variedad de Café",
+        "definition": "Una variedad es un tipo genéticamente distinto de planta de café.",
+        "why": "Distintas variedades producen diferentes perfiles de sabor y rendimientos.",
+        "tip": "Aprende variedades comunes como Bourbon, Typica, SL28 y Gesha.",
+        "mistake": "Confundir variedad con origen.",
+        "challenge": "Nombra cuatro variedades de café."
+      },
+      "pt": {
+        "title": "Variedade de Café",
+        "definition": "Uma variedade é um tipo geneticamente distinto de planta de café.",
+        "why": "Variedades diferentes produzem perfis de sabor e rendimentos diferentes.",
+        "tip": "Aprenda variedades comuns como Bourbon, Typica, SL28 e Gesha.",
+        "mistake": "Confundir variedade com origem.",
+        "challenge": "Nomeie quatro variedades de café."
+      }
+    }
   },
   {
     "number": "090",
@@ -105,7 +159,25 @@
       "072",
       "086",
       "087"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Temporada de Cosecha",
+        "definition": "Las temporadas de cosecha varían según el país y el clima a lo largo del año.",
+        "why": "Conocer los calendarios de cosecha ayuda a los tostadores a comprar café más fresco.",
+        "tip": "Haz seguimiento de las fechas de cosecha de tus principales proveedores.",
+        "mistake": "Ignorar la temporada de cosecha al comprar.",
+        "challenge": "¿Por qué Brasil y Etiopía cosechan en épocas diferentes?"
+      },
+      "pt": {
+        "title": "Temporada de Colheita",
+        "definition": "As temporadas de colheita variam por país e clima ao longo do ano.",
+        "why": "Conhecer os calendários de colheita ajuda os torrefadores a comprar café mais fresco.",
+        "tip": "Acompanhe as datas de colheita dos seus principais fornecedores.",
+        "mistake": "Ignorar a temporada de colheita ao comprar.",
+        "challenge": "Por que o Brasil e a Etiópia colhem em épocas diferentes?"
+      }
+    }
   },
   {
     "number": "091",
@@ -123,7 +195,25 @@
       "086",
       "092",
       "093"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Centroamérica",
+        "definition": "Los cafés centroamericanos suelen ser limpios, equilibrados y brillantes.",
+        "why": "Forman la columna vertebral de muchas mezclas de espresso de especialidad.",
+        "tip": "Compara Guatemala, Costa Rica y El Salvador uno junto al otro.",
+        "mistake": "Suponer que todos los cafés centroamericanos saben igual.",
+        "challenge": "Describe un perfil típico de Guatemala."
+      },
+      "pt": {
+        "title": "América Central",
+        "definition": "Os cafés centro-americanos costumam ser limpos, equilibrados e vibrantes.",
+        "why": "Formam a espinha dorsal de muitas misturas de espresso especiais.",
+        "tip": "Compare Guatemala, Costa Rica e El Salvador lado a lado.",
+        "mistake": "Supor que todos os cafés centro-americanos têm o mesmo sabor.",
+        "challenge": "Descreva um perfil típico da Guatemala."
+      }
+    }
   },
   {
     "number": "092",
@@ -141,7 +231,25 @@
       "091",
       "093",
       "094"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "África",
+        "definition": "Los cafés africanos son reconocidos por su fruta vibrante, aromas florales y acidez animada.",
+        "why": "A menudo definen el café de especialidad moderno.",
+        "tip": "Prueba Etiopía y Kenia juntos para comparar estilos.",
+        "mistake": "Esperar que todo café africano sea afrutado.",
+        "challenge": "Compara Etiopía con Kenia."
+      },
+      "pt": {
+        "title": "África",
+        "definition": "Os cafés africanos são reconhecidos por sua fruta vibrante, aromas florais e acidez animada.",
+        "why": "Frequentemente definem o café especial moderno.",
+        "tip": "Prove Etiópia e Quênia juntos para comparar estilos.",
+        "mistake": "Esperar que todo café africano seja frutado.",
+        "challenge": "Compare Etiópia com Quênia."
+      }
+    }
   },
   {
     "number": "093",
@@ -159,7 +267,25 @@
       "091",
       "092",
       "094"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Sudamérica",
+        "definition": "Los cafés sudamericanos suelen ofrecer dulzura a chocolate, frutos secos y caramelo.",
+        "why": "Se usan ampliamente en mezclas de espresso.",
+        "tip": "Brasil suele elegirse por su cuerpo y dulzura.",
+        "mistake": "Pensar que los cafés sudamericanos carecen de complejidad.",
+        "challenge": "¿Por qué Brasil es popular en el espresso?"
+      },
+      "pt": {
+        "title": "América do Sul",
+        "definition": "Os cafés sul-americanos costumam oferecer doçura de chocolate, castanhas e caramelo.",
+        "why": "São amplamente usados em misturas de espresso.",
+        "tip": "O Brasil costuma ser escolhido pelo corpo e pela doçura.",
+        "mistake": "Pensar que os cafés sul-americanos carecem de complexidade.",
+        "challenge": "Por que o Brasil é popular no espresso?"
+      }
+    }
   },
   {
     "number": "094",
@@ -177,7 +303,25 @@
       "092",
       "093",
       "095"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Asia-Pacífico",
+        "definition": "Los orígenes de Asia-Pacífico producen perfiles de sabor diversos, desde cafés indonesios almibarados hasta lotes papúes limpios.",
+        "why": "La región ofrece una diversidad excepcional.",
+        "tip": "Prueba Sumatra junto a Papúa Nueva Guinea.",
+        "mistake": "Agrupar todos los cafés asiáticos por igual.",
+        "challenge": "Nombra tres países productores en Asia-Pacífico."
+      },
+      "pt": {
+        "title": "Ásia-Pacífico",
+        "definition": "As origens da Ásia-Pacífico produzem perfis de sabor diversos, de cafés indonésios encorpados a lotes papuásios limpos.",
+        "why": "A região oferece uma diversidade excepcional.",
+        "tip": "Prove Sumatra ao lado de Papua-Nova Guiné.",
+        "mistake": "Agrupar todos os cafés asiáticos da mesma forma.",
+        "challenge": "Nomeie três países produtores na Ásia-Pacífico."
+      }
+    }
   },
   {
     "number": "095",
@@ -195,6 +339,24 @@
       "086",
       "089",
       "093"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Origen Único vs. Mezcla",
+        "definition": "Los cafés de origen único provienen de una sola fuente definida, mientras que las mezclas combinan varios cafés.",
+        "why": "Ambos tienen fortalezas según el sabor y la consistencia deseados.",
+        "tip": "Juzga la taza, no la etiqueta.",
+        "mistake": "Suponer que el origen único siempre es mejor.",
+        "challenge": "¿Cuándo elegirías una mezcla en lugar de un origen único?"
+      },
+      "pt": {
+        "title": "Origem Única vs. Blend",
+        "definition": "Os cafés de origem única vêm de uma única fonte definida, enquanto os blends combinam vários cafés.",
+        "why": "Ambos têm pontos fortes dependendo do sabor e da consistência desejados.",
+        "tip": "Julgue a xícara, não o rótulo.",
+        "mistake": "Supor que a origem única é sempre melhor.",
+        "challenge": "Quando você escolheria um blend em vez de uma origem única?"
+      }
+    }
   }
 ]

@@ -51,7 +51,25 @@
       "026",
       "028",
       "030"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Bloom (Prehumectación)",
+        "definition": "El bloom es el primer vertido, que permite que el dióxido de carbono escape antes de la extracción principal.",
+        "why": "Un bloom adecuado favorece una saturación uniforme.",
+        "tip": "Usa aproximadamente el doble del peso del café en agua.",
+        "mistake": "Omitir el bloom.",
+        "challenge": "¿Por qué los cafés frescos hacen más bloom?"
+      },
+      "pt": {
+        "title": "Bloom (Pré-infusão)",
+        "definition": "O bloom é o primeiro despejo, que permite que o dióxido de carbono escape antes da extração principal.",
+        "why": "Um bloom adequado favorece uma saturação uniforme.",
+        "tip": "Use aproximadamente o dobro do peso do café em água.",
+        "mistake": "Pular o bloom.",
+        "challenge": "Por que cafés frescos fazem mais bloom?"
+      }
+    }
   },
   {
     "number": "028",
@@ -69,7 +87,25 @@
       "027",
       "029",
       "031"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Técnica de Vertido",
+        "definition": "Un vertido controlado mantiene una mezcla uniforme y favorece una extracción homogénea.",
+        "why": "Los vertidos desiguales crean una extracción desigual.",
+        "tip": "Vierte lentamente en círculos consistentes.",
+        "mistake": "Verter directamente sobre el papel filtro.",
+        "challenge": "¿Por qué evitar verter por los bordes?"
+      },
+      "pt": {
+        "title": "Técnica de Despejo",
+        "definition": "Um despejo controlado mantém uma mistura uniforme e favorece uma extração homogênea.",
+        "why": "Despejos desiguais criam uma extração desigual.",
+        "tip": "Despeje lentamente em círculos consistentes.",
+        "mistake": "Despejar diretamente sobre o papel filtro.",
+        "challenge": "Por que evitar despejar pelas bordas?"
+      }
+    }
   },
   {
     "number": "029",
@@ -87,7 +123,25 @@
       "028",
       "030",
       "032"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Agitación",
+        "definition": "La agitación es el movimiento del agua o el café durante la preparación.",
+        "why": "Demasiada o muy poca afecta la extracción.",
+        "tip": "Mantén la agitación intencional.",
+        "mistake": "Remover en exceso.",
+        "challenge": "Nombra tres fuentes de agitación."
+      },
+      "pt": {
+        "title": "Agitação",
+        "definition": "A agitação é o movimento da água ou do café durante o preparo.",
+        "why": "Agitação em excesso ou de menos afeta a extração.",
+        "tip": "Mantenha a agitação intencional.",
+        "mistake": "Mexer excessivamente.",
+        "challenge": "Nomeie três fontes de agitação."
+      }
+    }
   },
   {
     "number": "030",
@@ -105,7 +159,25 @@
       "029",
       "031",
       "033"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Drenaje Final (Drawdown)",
+        "definition": "El drenaje final es la etapa final en la que el agua drena a través del lecho de café.",
+        "why": "Influye en el tiempo de contacto y la extracción.",
+        "tip": "Presta atención a paradas repentinas.",
+        "mistake": "Ignorar el tiempo de drenaje final.",
+        "challenge": "¿Qué causa un drenaje final estancado?"
+      },
+      "pt": {
+        "title": "Drenagem Final (Drawdown)",
+        "definition": "A drenagem final é a etapa final em que a água drena através do leito de café.",
+        "why": "Influencia o tempo de contato e a extração.",
+        "tip": "Fique atento a paradas repentinas.",
+        "mistake": "Ignorar o tempo de drenagem final.",
+        "challenge": "O que causa uma drenagem final travada?"
+      }
+    }
   },
   {
     "number": "031",
@@ -123,7 +195,25 @@
       "030",
       "032",
       "034"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Bypass",
+        "definition": "El bypass consiste en agregar agua después de la preparación para ajustar la fuerza.",
+        "why": "Cambia la fuerza sin alterar la extracción.",
+        "tip": "Registra cualquier bypass utilizado.",
+        "mistake": "Confundir el bypass con la subextracción.",
+        "challenge": "¿Cuándo sería útil el bypass?"
+      },
+      "pt": {
+        "title": "Bypass",
+        "definition": "O bypass consiste em adicionar água depois do preparo para ajustar a força.",
+        "why": "Muda a força sem alterar a extração.",
+        "tip": "Registre qualquer bypass utilizado.",
+        "mistake": "Confundir bypass com subextração.",
+        "challenge": "Quando o bypass seria útil?"
+      }
+    }
   },
   {
     "number": "032",
@@ -141,7 +231,25 @@
       "031",
       "033",
       "035"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Tiempo de Extracción",
+        "definition": "El tiempo total desde el primer vertido hasta que el preparador termina de drenar.",
+        "why": "El tiempo aporta información útil sobre la preparación.",
+        "tip": "Compara el tiempo con el sabor.",
+        "mistake": "Tratar el tiempo como el objetivo.",
+        "challenge": "¿Pueden dos preparaciones con tiempos idénticos saber diferente?"
+      },
+      "pt": {
+        "title": "Tempo de Extração",
+        "definition": "O tempo total desde o primeiro despejo até o preparador terminar de drenar.",
+        "why": "O tempo fornece um retorno útil sobre o preparo.",
+        "tip": "Compare o tempo com o sabor.",
+        "mistake": "Tratar o tempo como o objetivo.",
+        "challenge": "Dois preparos com tempos idênticos podem ter sabores diferentes?"
+      }
+    }
   },
   {
     "number": "033",
@@ -159,7 +267,25 @@
       "032",
       "034",
       "026"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Filtros de Papel",
+        "definition": "Los filtros de papel retienen aceites y partículas finas, produciendo una taza más limpia.",
+        "why": "La elección del filtro cambia el sabor y el cuerpo.",
+        "tip": "Enjuaga los filtros de papel antes de preparar.",
+        "mistake": "Omitir el enjuague.",
+        "challenge": "¿Por qué enjuagar los filtros de papel?"
+      },
+      "pt": {
+        "title": "Filtros de Papel",
+        "definition": "Os filtros de papel retêm óleos e partículas finas, produzindo uma xícara mais limpa.",
+        "why": "A escolha do filtro muda o sabor e o corpo.",
+        "tip": "Enxágue os filtros de papel antes de preparar.",
+        "mistake": "Pular o enxágue.",
+        "challenge": "Por que enxaguar os filtros de papel?"
+      }
+    }
   },
   {
     "number": "034",
@@ -177,7 +303,25 @@
       "033",
       "035",
       "026"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Filtros Metálicos",
+        "definition": "Los filtros metálicos permiten que pasen más aceites y finos a la taza.",
+        "why": "Esto aumenta el cuerpo y la sensación en boca.",
+        "tip": "Ajusta la molienda un poco más gruesa si es necesario.",
+        "mistake": "Esperar la claridad propia de un filtro de papel.",
+        "challenge": "Compara los filtros metálicos y de papel."
+      },
+      "pt": {
+        "title": "Filtros Metálicos",
+        "definition": "Os filtros metálicos permitem que mais óleos e finos passem para a xícara.",
+        "why": "Isso aumenta o corpo e a sensação na boca.",
+        "tip": "Ajuste a moagem um pouco mais grossa se necessário.",
+        "mistake": "Esperar a clareza típica de um filtro de papel.",
+        "challenge": "Compare os filtros metálicos e de papel."
+      }
+    }
   },
   {
     "number": "035",
@@ -195,6 +339,24 @@
       "026",
       "027",
       "032"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Relación de Preparación",
+        "definition": "La relación entre la dosis de café y el agua de preparación.",
+        "why": "Determina la fuerza de la bebida.",
+        "tip": "Empieza alrededor de 60 g/L.",
+        "mistake": "Cambiar la relación y la molienda al mismo tiempo.",
+        "challenge": "Calcula una preparación de 300 ml usando 60 g/L."
+      },
+      "pt": {
+        "title": "Proporção de Preparo",
+        "definition": "A relação entre a dose de café e a água de preparo.",
+        "why": "Determina a força da bebida.",
+        "tip": "Comece em torno de 60g/L.",
+        "mistake": "Mudar a proporção e a moagem ao mesmo tempo.",
+        "challenge": "Calcule um preparo de 300ml usando 60g/L."
+      }
+    }
   }
 ]

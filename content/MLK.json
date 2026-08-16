@@ -51,7 +51,25 @@
       "016",
       "018",
       "021"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Temperatura de la Leche",
+        "definition": "La mayoría de las bebidas con leche se sirven entre 55 °C y 65 °C, según la bebida y la preferencia del cliente.",
+        "why": "La temperatura cambia la dulzura, la textura y la bebilidad.",
+        "tip": "Usa tu termómetro hasta que reconozcas la temperatura al tacto de forma consistente.",
+        "mistake": "Sobrecalentar la leche por encima de 70 °C.",
+        "challenge": "¿Por qué la leche sobrecalentada sabe menos dulce?"
+      },
+      "pt": {
+        "title": "Temperatura do Leite",
+        "definition": "A maioria das bebidas com leite é servida entre 55°C e 65°C, dependendo da bebida e da preferência do cliente.",
+        "why": "A temperatura muda a doçura, a textura e a bebibilidade.",
+        "tip": "Use seu termômetro até reconhecer a temperatura pelo toque de forma consistente.",
+        "mistake": "Superaquecer o leite acima de 70°C.",
+        "challenge": "Por que o leite superaquecido tem sabor menos doce?"
+      }
+    }
   },
   {
     "number": "018",
@@ -69,7 +87,25 @@
       "017",
       "019",
       "020"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Estiramiento (Stretching)",
+        "definition": "El estiramiento es la introducción de aire durante la primera etapa del vaporizado.",
+        "why": "La cantidad de estiramiento determina el volumen final de espuma.",
+        "tip": "Introduce aire al principio y luego detente.",
+        "mistake": "Agregar aire durante todo el proceso de vaporizado.",
+        "challenge": "¿Cuándo debería detenerse el estiramiento?"
+      },
+      "pt": {
+        "title": "Alongamento (Stretching)",
+        "definition": "O alongamento é a introdução de ar durante a primeira etapa da vaporização.",
+        "why": "A quantidade de alongamento determina o volume final de espuma.",
+        "tip": "Introduza ar no início e depois pare.",
+        "mistake": "Adicionar ar durante todo o processo de vaporização.",
+        "challenge": "Quando o alongamento deve parar?"
+      }
+    }
   },
   {
     "number": "019",
@@ -87,7 +123,25 @@
       "018",
       "020",
       "021"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Texturizado",
+        "definition": "El texturizado crea un remolino que incorpora aire de manera uniforme en la leche.",
+        "why": "Un vórtice suave produce un microfoam brillante.",
+        "tip": "Escucha un sonido suave, como de papel rasgándose.",
+        "mistake": "Crear burbujas grandes.",
+        "challenge": "Describe la textura perfecta de la leche."
+      },
+      "pt": {
+        "title": "Texturização",
+        "definition": "A texturização cria um redemoinho que incorpora ar uniformemente ao leite.",
+        "why": "Um vórtice suave produz um microfoam brilhante.",
+        "tip": "Ouça um som suave, como de papel rasgando.",
+        "mistake": "Criar bolhas grandes.",
+        "challenge": "Descreva a textura perfeita do leite."
+      }
+    }
   },
   {
     "number": "020",
@@ -105,7 +159,25 @@
       "019",
       "021",
       "022"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Microfoam",
+        "definition": "El microfoam es leche que contiene burbujas extremadamente finas y distribuidas de manera uniforme.",
+        "why": "Crea dulzura, cuerpo y permite el latte art.",
+        "tip": "Piensa en pintura blanca húmeda.",
+        "mistake": "Confundir la espuma común con el microfoam.",
+        "challenge": "¿Cómo debería fluir un microfoam perfecto al servir?"
+      },
+      "pt": {
+        "title": "Microfoam",
+        "definition": "O microfoam é o leite que contém bolhas extremamente finas e distribuídas uniformemente.",
+        "why": "Cria doçura, corpo e permite o latte art.",
+        "tip": "Pense em tinta branca molhada.",
+        "mistake": "Confundir espuma comum com microfoam.",
+        "challenge": "Como um microfoam perfeito deveria fluir ao servir?"
+      }
+    }
   },
   {
     "number": "021",
@@ -123,7 +195,25 @@
       "020",
       "022",
       "023"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Latte Art",
+        "definition": "El latte art combina el espresso, la textura de la leche y la técnica de vertido.",
+        "why": "Un buen latte art es evidencia de una buena preparación de la leche.",
+        "tip": "Perfecciona la textura antes de aprender patrones avanzados.",
+        "mistake": "Concentrarse en los patrones en lugar de en la calidad de la leche.",
+        "challenge": "Nombra tres diseños clásicos de latte art."
+      },
+      "pt": {
+        "title": "Latte Art",
+        "definition": "O latte art combina o espresso, a textura do leite e a técnica de despejo.",
+        "why": "Um bom latte art é evidência de um bom preparo do leite.",
+        "tip": "Aperfeiçoe a textura antes de aprender padrões avançados.",
+        "mistake": "Focar nos padrões em vez da qualidade do leite.",
+        "challenge": "Nomeie três desenhos clássicos de latte art."
+      }
+    }
   },
   {
     "number": "022",
@@ -141,7 +231,25 @@
       "021",
       "023",
       "024"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Leches Alternativas",
+        "definition": "Las leches vegetales se vaporizan de manera diferente porque sus proteínas y grasas difieren de la leche de vaca.",
+        "why": "La técnica a menudo necesita ajustarse entre productos.",
+        "tip": "Lee siempre las recomendaciones del fabricante.",
+        "mistake": "Vaporizar la leche de avena, soya y almendra de la misma manera.",
+        "challenge": "¿Qué leche alternativa suele ser más fácil para el latte art?"
+      },
+      "pt": {
+        "title": "Leites Alternativos",
+        "definition": "Os leites vegetais são vaporizados de forma diferente porque suas proteínas e gorduras diferem do leite de vaca.",
+        "why": "A técnica frequentemente precisa ser ajustada entre produtos.",
+        "tip": "Sempre leia as recomendações do fabricante.",
+        "mistake": "Vaporizar leite de aveia, soja e amêndoa da mesma forma.",
+        "challenge": "Qual leite alternativo costuma ser mais fácil para o latte art?"
+      }
+    }
   },
   {
     "number": "023",
@@ -159,7 +267,25 @@
       "022",
       "024",
       "025"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Jarras de Leche",
+        "definition": "Elige un tamaño de jarra que coincida con el volumen de la bebida.",
+        "why": "El tamaño correcto de jarra mejora la textura y reduce el desperdicio.",
+        "tip": "Llena la jarra hasta aproximadamente un tercio antes de vaporizar.",
+        "mistake": "Usar una sola jarra grande para todas las bebidas.",
+        "challenge": "¿Por qué importa el tamaño de la jarra?"
+      },
+      "pt": {
+        "title": "Jarras de Leite",
+        "definition": "Escolha um tamanho de jarra que corresponda ao volume da bebida.",
+        "why": "O tamanho correto da jarra melhora a textura e reduz o desperdício.",
+        "tip": "Encha a jarra até cerca de um terço antes de vaporizar.",
+        "mistake": "Usar uma única jarra grande para todas as bebidas.",
+        "challenge": "Por que o tamanho da jarra importa?"
+      }
+    }
   },
   {
     "number": "024",
@@ -177,7 +303,25 @@
       "023",
       "025",
       "017"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Higiene del Vaporizador",
+        "definition": "Los vaporizadores deben purgarse antes y después de cada uso y limpiarse de inmediato.",
+        "why": "Los residuos de leche se convierten en un riesgo de seguridad alimentaria muy rápidamente.",
+        "tip": "Purga, limpia, purga.",
+        "mistake": "Dejar que la leche se seque en el vaporizador.",
+        "challenge": "¿Por qué debería purgarse el vaporizador antes de vaporizar?"
+      },
+      "pt": {
+        "title": "Higiene do Vaporizador",
+        "definition": "Os vaporizadores devem ser purgados antes e depois de cada uso e limpos imediatamente.",
+        "why": "Resíduos de leite se tornam um risco de segurança alimentar muito rapidamente.",
+        "tip": "Purgue, limpe, purgue.",
+        "mistake": "Deixar o leite secar no vaporizador.",
+        "challenge": "Por que o vaporizador deve ser purgado antes de vaporizar?"
+      }
+    }
   },
   {
     "number": "025",
@@ -195,6 +339,24 @@
       "024",
       "023",
       "020"
-    ]
+    ],
+    "translations": {
+      "es": {
+        "title": "Desperdicio de Leche",
+        "definition": "Una medición precisa de la leche reduce el desperdicio y mejora la rentabilidad.",
+        "why": "La leche es uno de los costos continuos más altos en la mayoría de las cafeterías.",
+        "tip": "Vaporiza solo lo que necesitas.",
+        "mistake": "Llenar en exceso las jarras en cada bebida.",
+        "challenge": "Calcula el costo semanal de desperdiciar 100 ml por bebida."
+      },
+      "pt": {
+        "title": "Desperdício de Leite",
+        "definition": "Uma medição precisa do leite reduz o desperdício e melhora a rentabilidade.",
+        "why": "O leite é um dos custos contínuos mais altos na maioria das cafeterias.",
+        "tip": "Vaporize apenas o que você precisa.",
+        "mistake": "Encher demais as jarras em cada bebida.",
+        "challenge": "Calcule o custo semanal de desperdiçar 100ml por bebida."
+      }
+    }
   }
 ]
