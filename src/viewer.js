@@ -81,13 +81,6 @@ aria-label="Close"
 
 <div class="viewer-header">
 
-<div class="viewer-position">
-
-Card ${currentIndex + 1}
-of ${currentCards.length}
-
-</div>
-
 <div class="viewer-number">
 
 #${card.number}

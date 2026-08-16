@@ -400,6 +400,9 @@ No cards match your search.
 
     el.className = "home-card";
 
+    el.dataset.index = homeIndex;
+    el.dataset.total = homeCards.length;
+
     el.innerHTML = `
 
 ${heroImage ? `
@@ -425,8 +428,6 @@ ${heroImage ? `
 <p>${highlightMatch(card.definition, query)}</p>
 
 </div>
-
-<div class="home-progress">${homeIndex + 1} / ${homeCards.length}</div>
 
 `;
 

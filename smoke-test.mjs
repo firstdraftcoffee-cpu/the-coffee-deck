@@ -82,7 +82,9 @@ check("Total card count shows 120", doc.getElementById("count")?.textContent.inc
 check("Home card renders", !!doc.querySelector(".home-card"));
 check("Home card shows a title", !!doc.querySelector(".home-card h2")?.textContent.trim());
 check("Home card shows a category badge", !!doc.querySelector(".home-card .category"));
-check("Home progress indicator shows 1 / 120", doc.querySelector(".home-progress")?.textContent.trim() === "1 / 120");
+check("Home card data-total reflects 120 cards (not shown visibly, just for verification)", doc.querySelector(".home-card")?.dataset.total === "120");
+check("Home card starts at index 0", doc.querySelector(".home-card")?.dataset.index === "0");
+check("No visible '1 / 120' style counter text on the home card", !/\d+\s*\/\s*\d+/.test(doc.querySelector(".home-card")?.textContent || ""));
 
 const homeCardEl = doc.querySelector(".home-card");
 const firstTitle = doc.querySelector(".home-card h2")?.textContent.trim();
@@ -91,7 +93,7 @@ simulateDrag(homeCardEl, -200);
 await new Promise(r => setTimeout(r, 300));
 const afterNextTitle = doc.querySelector(".home-card h2")?.textContent.trim();
 check("Dragging home card left navigates to next card", firstTitle !== afterNextTitle);
-check("Home progress updates to 2 / 120 after swipe", doc.querySelector(".home-progress")?.textContent.trim() === "2 / 120");
+check("Home card index updates to 1 after swipe", doc.querySelector(".home-card")?.dataset.index === "1");
 
 const homeCardEl2 = doc.querySelector(".home-card");
 simulateDrag(homeCardEl2, 200);
@@ -103,19 +105,19 @@ check("No errors from home card swipe", errors.length === 0);
 
 // A real quick flick: short distance (60px, under the 80px distance threshold) but fast (50ms)
 // should still commit via velocity detection - this is the actual "feels stiff" fix
-const beforeFlick = doc.querySelector(".home-progress")?.textContent.trim();
+const beforeFlick = doc.querySelector(".home-card")?.dataset.index;
 const flickCard = doc.querySelector(".home-card");
 await simulateFastFlick(flickCard, -60, 50);
 await new Promise(r => setTimeout(r, 300));
-const afterFlick = doc.querySelector(".home-progress")?.textContent.trim();
+const afterFlick = doc.querySelector(".home-card")?.dataset.index;
 check("A fast short flick (60px in 50ms) commits via velocity, not just distance", beforeFlick !== afterFlick);
 
 // A slow drag of the same short distance should NOT commit (snaps back)
-const beforeSlowDrag = doc.querySelector(".home-progress")?.textContent.trim();
+const beforeSlowDrag = doc.querySelector(".home-card")?.dataset.index;
 const slowCard = doc.querySelector(".home-card");
 await simulateFastFlick(slowCard, 60, 600);
 await new Promise(r => setTimeout(r, 300));
-const afterSlowDrag = doc.querySelector(".home-progress")?.textContent.trim();
+const afterSlowDrag = doc.querySelector(".home-card")?.dataset.index;
 check("A slow short drag (60px in 600ms) does NOT commit (below both thresholds)", beforeSlowDrag === afterSlowDrag);
 
 check("No errors from flick/slow-drag tests", errors.length === 0);
@@ -124,14 +126,14 @@ check("No errors from flick/slow-drag tests", errors.length === 0);
 check("A peek card renders behind the front card for deck depth", !!doc.querySelector(".home-card-peek"));
 
 // prev/next buttons work too
-const posBeforeNextBtn = doc.querySelector(".home-progress")?.textContent.trim();
+const posBeforeNextBtn = doc.querySelector(".home-card")?.dataset.index;
 document.getElementById("homeNext").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
-check("Next button navigates forward", doc.querySelector(".home-progress")?.textContent.trim() !== posBeforeNextBtn);
-const posBeforePrevBtn = doc.querySelector(".home-progress")?.textContent.trim();
+check("Next button navigates forward", doc.querySelector(".home-card")?.dataset.index !== posBeforeNextBtn);
+const posBeforePrevBtn = doc.querySelector(".home-card")?.dataset.index;
 document.getElementById("homePrev").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
-check("Previous button navigates back", doc.querySelector(".home-progress")?.textContent.trim() !== posBeforePrevBtn);
+check("Previous button navigates back", doc.querySelector(".home-card")?.dataset.index !== posBeforePrevBtn);
 
 // bookmark toggle on home card
 const bookmarkBtn = doc.getElementById("homeBookmark");
@@ -213,13 +215,14 @@ doc.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubb
 await new Promise(r => setTimeout(r, 250));
 check("Study toggle opens study mode", !!doc.getElementById("study-mode"));
 check("Body scroll is locked during study mode too", doc.body.style.position === "fixed");
-check("Study session includes all 120 cards (no active filter)", doc.querySelector(".study-counter")?.textContent.includes("of 120"));
+check("Study session includes all 120 cards (no active filter)", doc.querySelector(".study-window")?.dataset.total === "120");
+check("No visible 'Card X of Y' counter text in study mode", !/Card\s+\d+\s+of\s+\d+/.test(doc.querySelector(".study-window")?.textContent || ""));
 
 const studyWindow = doc.querySelector(".study-window");
-const counterBefore = doc.querySelector(".study-counter")?.textContent;
+const counterBefore = doc.querySelector(".study-window")?.dataset.index;
 simulateDrag(studyWindow, -200);
 await new Promise(r => setTimeout(r, 300));
-check("Swipe navigates within study mode", doc.querySelector(".study-counter")?.textContent !== counterBefore);
+check("Swipe navigates within study mode", doc.querySelector(".study-window")?.dataset.index !== counterBefore);
 check("Body scroll stays locked during internal navigation (no flicker)", doc.body.style.position === "fixed");
 check("No errors from study mode swipe", errors.length === 0);
 
@@ -243,7 +246,7 @@ check("Heatmap renders 84 cells", doc.querySelectorAll(".heatmap-day").length ==
 document.getElementById("tile-bookmarks").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Clicking Bookmarks tile closes stats and opens a study session", !doc.getElementById("stats-mode") && !!doc.getElementById("study-mode"));
-check("Bookmark study session has exactly 1 card", doc.querySelector(".study-counter")?.textContent.includes("of 1"));
+check("Bookmark study session has exactly 1 card", doc.querySelector(".study-window")?.dataset.total === "1");
 if (doc.getElementById("study-exit")) {
     doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
     await new Promise(r => setTimeout(r, 250));

@@ -48,7 +48,7 @@ function render() {
 
     overlay.innerHTML = `
 
-<div class="study-window">
+<div class="study-window" data-index="${index}" data-total="${cards.length}">
 
 <button
 class="close close-lg"
@@ -62,17 +62,7 @@ aria-label="Close"
 
 <div class="study-top">
 
-<div>
-
 <h2>Study Mode</h2>
-
-<div class="study-counter">
-
-Card ${index + 1} of ${cards.length}
-
-</div>
-
-</div>
 
 <div class="study-progress">
 

@@ -15,6 +15,15 @@ export function lockScroll() {
     document.body.style.right = "0";
     document.body.style.width = "100%";
 
+    const home = document.getElementById("home");
+
+    if (home) {
+
+        home.style.visibility = "hidden";
+        home.setAttribute("inert", "");
+
+    }
+
 }
 
 export function unlockScroll() {
@@ -30,5 +39,14 @@ export function unlockScroll() {
     document.body.style.width = "";
 
     window.scrollTo(0, savedScrollY);
+
+    const home = document.getElementById("home");
+
+    if (home) {
+
+        home.style.visibility = "";
+        home.removeAttribute("inert");
+
+    }
 
 }

@@ -613,28 +613,6 @@ nav{
 
 }
 
-.home-progress{
-
-    position:absolute;
-
-    top:var(--sp-4);
-
-    right:var(--sp-4);
-
-    background:rgba(43,38,33,.55);
-
-    color:#fff;
-
-    font-size:var(--text-xs);
-
-    font-weight:700;
-
-    padding:var(--sp-1) var(--sp-3);
-
-    border-radius:var(--radius-pill);
-
-}
-
 .home-actions{
 
     display:flex;
@@ -767,6 +745,8 @@ nav{
 
     inset:0;
 
+    z-index:2000;
+
     background:rgba(43,38,33,.5);
 
     display:flex;
@@ -860,16 +840,6 @@ nav{
     margin-bottom:var(--sp-4);
 
     padding-right:var(--sp-7);
-
-}
-
-.viewer-position{
-
-    font-size:var(--text-sm);
-
-    font-weight:700;
-
-    color:var(--ink-soft);
 
 }
 
