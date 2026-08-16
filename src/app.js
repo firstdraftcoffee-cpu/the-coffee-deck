@@ -17,8 +17,7 @@ import {
     getRecentSearches,
     clearRecentSearches,
     toggleBookmark,
-    save,
-    load
+    save
 } from "./storage.js";
 
 import {
@@ -100,19 +99,7 @@ async function init() {
 
     renderHome();
 
-    if (!load("hasSeenWelcome", false)) {
-
-        openWelcome({
-
-            onClose: () => {
-
-                save("hasSeenWelcome", true);
-
-            }
-
-        });
-
-    }
+    openWelcome();
 
 }
 

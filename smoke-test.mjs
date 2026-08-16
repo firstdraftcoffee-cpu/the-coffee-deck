@@ -72,8 +72,8 @@ const doc = global.document;
 check("No uncaught errors during module load/init", errors.length === 0);
 if (errors.length) console.log(errors.join("\n---\n"));
 
-// --- Welcome overlay: shows on first visit, dismiss it like a real user would ---
-check("Welcome overlay shows on first visit", !!doc.getElementById("welcome-mode"));
+// --- Welcome overlay: shows every time the site loads, dismiss it like a real user would ---
+check("Welcome overlay shows on page load", !!doc.getElementById("welcome-mode"));
 check("Body scroll is locked while the welcome overlay is open", doc.body.style.position === "fixed");
 check("Welcome overlay includes a landing image", !!doc.querySelector(".welcome-hero img")?.getAttribute("src"));
 check("Welcome copy refers to 'enthusiasts', not 'professionals'", doc.getElementById("welcome-mode")?.textContent.includes("enthusiasts") && !doc.getElementById("welcome-mode")?.textContent.includes("professionals"));
@@ -81,7 +81,6 @@ doc.getElementById("welcome-cta")?.dispatchEvent(new window.Event("click", { bub
 await new Promise(r => setTimeout(r, 250));
 check("Welcome overlay closes on Get Started", !doc.getElementById("welcome-mode")?.classList.contains("show"));
 check("Body scroll unlocks after dismissing the welcome overlay", doc.body.style.position !== "fixed");
-check("Dismissing the welcome overlay marks it as seen in storage", global.localStorage.getItem("coffeeDeck:hasSeenWelcome") === JSON.stringify(true));
 
 // --- Nav buttons have visible text labels, not just ambiguous icons ---
 check("Search button has a visible text label", doc.getElementById("filterToggle")?.textContent.includes("Search"));
