@@ -122,6 +122,9 @@ ${heroImage ? `
 <img
 src="${heroImage}"
 alt="${card.title}"
+loading="eager"
+decoding="async"
+fetchpriority="high"
 onerror="this.parentElement.style.display='none'"
 >
 
@@ -425,6 +428,27 @@ ${bookmarked ? "♥" : "♡"}
         previous,
         next
     );
+
+    prefetchAdjacentImages();
+
+}
+
+function prefetchAdjacentImages() {
+
+    if (currentCards.length < 2) return;
+
+    const nextCard = currentCards[(currentIndex + 1) % currentCards.length];
+    const prevCard = currentCards[(currentIndex - 1 + currentCards.length) % currentCards.length];
+
+    [nextCard, prevCard].forEach(card => {
+
+        if (!card?.hero_image) return;
+
+        const preloadImg = document.createElement("img");
+
+        preloadImg.src = `/images/cards/${card.hero_image}`;
+
+    });
 
 }
 

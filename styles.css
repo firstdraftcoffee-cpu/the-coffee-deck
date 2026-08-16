@@ -1029,6 +1029,8 @@ nav{
 
     overflow:hidden;
 
+    background:var(--bg);
+
 }
 
 .viewer-image img{

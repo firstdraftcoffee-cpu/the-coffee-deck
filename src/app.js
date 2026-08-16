@@ -482,7 +482,7 @@ ${t("noResults")}
 ${heroImage ? `
 
 <div class="home-card-image">
-<img src="${heroImage}" alt="${card.title}" onerror="this.parentElement.style.display='none'">
+<img src="${heroImage}" alt="${card.title}" loading="eager" decoding="async" fetchpriority="high" onerror="this.parentElement.style.display='none'">
 </div>
 
 ` : ""}
@@ -563,6 +563,27 @@ ${heroImage ? `
         nextHome,
         () => { dragged = true; }
     );
+
+    prefetchAdjacentImages();
+
+}
+
+function prefetchAdjacentImages() {
+
+    if (homeCards.length < 2) return;
+
+    const nextCard = homeCards[(homeIndex + 1) % homeCards.length];
+    const prevCard = homeCards[(homeIndex - 1 + homeCards.length) % homeCards.length];
+
+    [nextCard, prevCard].forEach(card => {
+
+        if (!card?.hero_image) return;
+
+        const preloadImg = document.createElement("img");
+
+        preloadImg.src = `/images/cards/${card.hero_image}`;
+
+    });
 
 }
 

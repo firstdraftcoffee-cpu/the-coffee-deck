@@ -369,4 +369,29 @@ if (enButton) {
 
 check("No errors across the full run", errors.length === 0);
 
+// --- Image prefetching for adjacent cards ---
+doc.getElementById("search").value = "";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+
+const preloadedSrcs = [];
+const originalCreateElement = doc.createElement.bind(doc);
+doc.createElement = (tag) => {
+    const el = originalCreateElement(tag);
+    if (tag === "img") {
+        Object.defineProperty(el, "src", {
+            set(value) { preloadedSrcs.push(value); },
+            get() { return ""; }
+        });
+    }
+    return el;
+};
+
+doc.getElementById("homeNext")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+
+doc.createElement = originalCreateElement;
+
+check("Navigating home cards triggers a prefetch of adjacent card images", preloadedSrcs.some(src => src.includes("/images/cards/")));
+
 console.log("\nDone.");
