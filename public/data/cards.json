@@ -4778,7 +4778,7 @@
     "category": "ORG",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "130.jpg",
     "definition": "A washed-coffee region in southern Ethiopia known for intensely floral, citrus-driven cups often described as tea-like.",
     "why": "It's widely considered the archetype for what washed Ethiopian coffee can taste like, and a benchmark many other origins get compared against.",
     "tip": "Brew it lighter and let the aromatics lead — over-extraction buries the delicacy that makes Yirgacheffe distinctive.",
@@ -4807,6 +4807,7 @@
         "challenge": "A qual método de processamento Yirgacheffe está mais associado, e como isso molda seu sabor?"
       }
     },
+    "photo_placeholder": true,
     "id": 130
   },
   {
@@ -4815,7 +4816,7 @@
     "category": "ORG",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "131.jpg",
     "definition": "A southern Ethiopian region that rose to prominence largely through natural-processed lots with intense blueberry and strawberry character.",
     "why": "Guji naturals are a big part of why natural process gained serious credibility in specialty coffee over the last decade.",
     "tip": "Cup Guji naturals side by side with a Yirgacheffe washed lot to hear exactly what processing changes.",
@@ -4844,6 +4845,7 @@
         "challenge": "Por que um comprador buscaria especificamente Guji para uma oferta de processo natural em vez de Yirgacheffe?"
       }
     },
+    "photo_placeholder": true,
     "id": 131
   },
   {
@@ -4852,7 +4854,7 @@
     "category": "ORG",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "132.jpg",
     "definition": "Colombia's most productive coffee-growing department, known for balanced sweetness and reliable quality across a huge number of small farms.",
     "why": "Huila alone supplies a large share of Colombia's specialty exports, making it the backbone of much of the country's reputation.",
     "tip": "Use Huila as your baseline for what 'classic Colombian' tastes like before exploring more extreme regional profiles.",
@@ -4880,6 +4882,7 @@
         "challenge": "Por que o enorme número de pequenas fazendas da Colômbia (em vez de poucas grandes propriedades) molda a forma como seu café é comprado e vendido?"
       }
     },
+    "photo_placeholder": true,
     "id": 132
   },
   {
@@ -4888,7 +4891,7 @@
     "category": "ORG",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "133.jpg",
     "definition": "A high-altitude region near the Ecuadorian border, some of the highest coffee-growing land in Colombia, producing bright, structured acidity.",
     "why": "Its extreme altitude and near-equator latitude combine to slow cherry maturation, concentrating sugars and acids.",
     "tip": "Expect more pronounced acidity here than in most other Colombian regions — it's part of the signature, not a flaw.",
@@ -4916,6 +4919,7 @@
         "challenge": "Por que cultivar perto do equador, mais do que a latitude sozinha, permite um cultivo em altitude tão elevada aqui?"
       }
     },
+    "photo_placeholder": true,
     "id": 133
   },
   {
@@ -4924,7 +4928,7 @@
     "category": "ORG",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "134.jpg",
     "definition": "Kenya's screen-size-based grading system, where AA refers to the largest bean size, followed by AB and smaller grades.",
     "why": "It's one of the most misunderstood grading systems in coffee — size-based, not quality-based.",
     "tip": "Always cup Kenyan lots regardless of grade — some of the best cups on record have been AB, not AA.",
@@ -4952,6 +4956,7 @@
         "challenge": "Se AA não garante qualidade, por que ainda tem preços mais altos?"
       }
     },
+    "photo_placeholder": true,
     "id": 134
   },
   {
@@ -4996,7 +5001,7 @@
     "category": "ORG",
     "difficulty": 2,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "136.jpg",
     "definition": "A high-altitude Panamanian region that became world-famous after Hacienda La Esmeralda's Geisha variety won Best of Panama in 2004, redefining what buyers would pay for exceptional coffee.",
     "why": "It single-handedly changed the ceiling on coffee auction prices and put an entire variety on the map worldwide.",
     "tip": "Geisha from Boquete tends toward intense jasmine, bergamot and tropical fruit — taste it once to understand the hype.",
@@ -5024,6 +5029,7 @@
         "challenge": "O que a história de Boquete revela sobre o quanto a variedade e o terroir podem superar o processamento sozinho?"
       }
     },
+    "photo_placeholder": true,
     "id": 136
   },
   {
@@ -5032,7 +5038,7 @@
     "category": "ORG",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "137.jpg",
     "definition": "A relatively flat, high-altitude plateau region that enabled Brazil to mechanize harvesting at massive scale, producing nutty, chocolatey, low-acid coffee.",
     "why": "Its flat terrain (unlike most steep coffee-growing land) is exactly why Brazil became the world's largest coffee producer.",
     "tip": "Use Cerrado as a reference point for what mechanically-harvested coffee can still taste like when done well.",
@@ -5060,6 +5066,7 @@
         "challenge": "Por que o terreno plano importa tanto para o método de colheita e o custo?"
       }
     },
+    "photo_placeholder": true,
     "id": 137
   },
   {
@@ -5068,7 +5075,7 @@
     "category": "ORG",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "138.jpg",
     "definition": "A mountainous region south of San José known for pioneering the honey-process micro-mill movement that reshaped how small Costa Rican farms compete.",
     "why": "Tarrazú's micro-mills let individual farms process and market their own coffee instead of selling cherry to large mills, changing who captures value in the supply chain.",
     "tip": "Look for clean, bright, citrusy cups with a distinct sweetness typical of honey-processed Tarrazú lots.",
@@ -5096,6 +5103,7 @@
         "challenge": "Como a ascensão dos micro-beneficiamentos mudou quem lucra com um saco de café costarriquenho?"
       }
     },
+    "photo_placeholder": true,
     "id": 138
   },
   {

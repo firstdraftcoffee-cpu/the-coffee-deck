@@ -105,7 +105,9 @@ const strings = {
         welcomeCta: "Let's go",
         welcomeAbout: "About",
 
-        photoUnverified: "Representative coffee cherry photo — not verified to this specific variety"
+        photoUnverified: "Representative coffee cherry photo — not verified to this specific variety",
+
+        photoPlaceholder: "Temporary placeholder photo — a location-verified image for this region is coming soon"
     },
 
     es: {
@@ -205,7 +207,9 @@ const strings = {
         welcomeCta: "Empecemos",
         welcomeAbout: "Acerca de",
 
-        photoUnverified: "Foto representativa de cereza de café — no verificada para esta variedad específica"
+        photoUnverified: "Foto representativa de cereza de café — no verificada para esta variedad específica",
+
+        photoPlaceholder: "Foto temporal de marcador de posición — pronto llegará una imagen verificada para esta región"
     },
 
     pt: {
@@ -305,7 +309,9 @@ const strings = {
         welcomeCta: "Vamos lá",
         welcomeAbout: "Sobre",
 
-        photoUnverified: "Foto representativa de cereja de café — não verificada para esta variedade específica"
+        photoUnverified: "Foto representativa de cereja de café — não verificada para esta variedade específica",
+
+        photoPlaceholder: "Foto temporária de espaço reservado — uma imagem verificada para esta região está a caminho"
     }
 
 };

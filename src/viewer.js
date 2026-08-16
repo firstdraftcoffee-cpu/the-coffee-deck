@@ -136,6 +136,12 @@ ${card.photo_unverified ? `
 
 ` : ""}
 
+${card.photo_placeholder ? `
+
+<p class="viewer-photo-note">${t("photoPlaceholder")}</p>
+
+` : ""}
+
 ` : ""}
 
 <section class="viewer-section">

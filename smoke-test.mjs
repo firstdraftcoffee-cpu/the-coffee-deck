@@ -310,6 +310,19 @@ await new Promise(r => setTimeout(r, 250));
 check("Non-cultivar card does NOT show the photo-unverified disclaimer", !doc.querySelector(".viewer-photo-note"));
 doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
 await new Promise(r => setTimeout(r, 300));
+
+// --- Placeholder-flagged origin cards show a distinct disclaimer ---
+doc.getElementById("search").value = "Yirgacheffe";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Placeholder-flagged origin card shows the placeholder disclaimer", doc.querySelector(".viewer-photo-note")?.textContent.includes("placeholder"));
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 300));
+doc.getElementById("search").value = "";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
 doc.getElementById("search").value = "";
 doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
 await new Promise(r => setTimeout(r, 150));
