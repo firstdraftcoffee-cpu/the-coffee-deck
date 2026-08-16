@@ -81,7 +81,7 @@ check("Progress button has a visible text label", doc.getElementById("statsToggl
 check("Total card count shows 120", doc.getElementById("count")?.textContent.includes("120"));
 check("Home card renders", !!doc.querySelector(".home-card"));
 check("Home card shows a title", !!doc.querySelector(".home-card h2")?.textContent.trim());
-check("Home card shows a category badge", !!doc.querySelector(".home-card .category"));
+check("Home card shows a category badge", !!doc.querySelector(".home-card .home-card-cat"));
 check("Home card data-total reflects 120 cards (not shown visibly, just for verification)", doc.querySelector(".home-card")?.dataset.total === "120");
 check("Home card starts at index 0", doc.querySelector(".home-card")?.dataset.index === "0");
 check("No visible '1 / 120' style counter text on the home card", !/\d+\s*\/\s*\d+/.test(doc.querySelector(".home-card")?.textContent || ""));
@@ -137,10 +137,10 @@ check("Previous button navigates back", doc.querySelector(".home-card")?.dataset
 
 // bookmark toggle on home card
 const bookmarkBtn = doc.getElementById("homeBookmark");
-check("Bookmark button starts unfilled", bookmarkBtn?.textContent.trim() === "♡");
+check("Bookmark button starts unfilled", bookmarkBtn?.textContent.trim().startsWith("♡"));
 bookmarkBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
-check("Bookmark button fills in after click", doc.getElementById("homeBookmark")?.textContent.trim() === "♥");
+check("Bookmark button fills in after click", doc.getElementById("homeBookmark")?.textContent.trim().startsWith("♥"));
 check("Clicking bookmark does not also open the viewer (stopPropagation)", !doc.getElementById("viewer"));
 
 // tapping the card (no drag) opens full viewer
@@ -167,7 +167,7 @@ espFilter.dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
 check("Selecting a category filter closes the panel", !filterPanel.classList.contains("show"));
 check("Card count updates to reflect ESP filter (15)", doc.getElementById("count")?.textContent.includes("15"));
-check("Home card now shows an ESP card", doc.querySelector(".home-card .category")?.textContent.trim() === "ESP");
+check("Home card now shows an ESP card", doc.querySelector(".home-card .home-card-cat")?.textContent.trim() === "ESP");
 
 const allFilter = [...doc.querySelectorAll("#filters .filter")].find(f => f.textContent.includes("ALL"));
 allFilter.dispatchEvent(new window.Event("click", { bubbles: true }));
@@ -342,7 +342,7 @@ check("No skipped heading level", (() => {
     return true;
 })());
 const fullHtml = doc.documentElement.innerHTML;
-const approvedSymbols = /[♡♥←→▶◔⌕×]/gu;
+const approvedSymbols = /[♡♥←→▶▸◔⌕×☀☾]/gu;
 const htmlWithoutApprovedSymbols = fullHtml.replace(approvedSymbols, "");
 const emojiPattern = /[\u{1F300}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]/u;
 check("No emoji anywhere in the rendered page (excluding approved plain-text icon symbols)", !emojiPattern.test(htmlWithoutApprovedSymbols));
@@ -433,5 +433,26 @@ await new Promise(r => setTimeout(r, 150));
 doc.createElement = originalCreateElement;
 
 check("Navigating home cards triggers a prefetch of adjacent card images", preloadedSrcs.some(src => src.includes("/images/cards/")));
+
+// --- Theme toggle ---
+// Note: the inline <head> script in index.html that sets the initial
+// data-theme (to prevent a flash of the wrong theme) is inert here,
+// since this harness loads index.html into JSDOM without runScripts
+// and only executes the app bundle via explicit import(). That inline
+// script is trivial static HTML/JS and runs normally in real browsers;
+// what we're actually testing here is the app's own toggle logic, so
+// we set a known starting theme first rather than relying on it.
+const htmlEl = doc.documentElement;
+htmlEl.setAttribute("data-theme", "light");
+
+doc.getElementById("themeToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+check("Clicking the theme toggle flips from light to dark", htmlEl.getAttribute("data-theme") === "dark");
+check("Theme choice persists to storage", global.localStorage.getItem("coffeeDeck:theme") === JSON.stringify("dark"));
+
+doc.getElementById("themeToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+check("Clicking the theme toggle again flips back to light", htmlEl.getAttribute("data-theme") === "light");
+check("Theme choice updates to light in storage", global.localStorage.getItem("coffeeDeck:theme") === JSON.stringify("light"));
 
 console.log("\nDone.");

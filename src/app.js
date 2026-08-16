@@ -16,7 +16,9 @@ import {
     addRecentSearch,
     getRecentSearches,
     clearRecentSearches,
-    toggleBookmark
+    toggleBookmark,
+    save,
+    load
 } from "./storage.js";
 
 import {
@@ -60,6 +62,7 @@ const studyToggle = document.getElementById("studyToggle");
 const statsToggle = document.getElementById("statsToggle");
 const langSwitch = document.getElementById("langSwitch");
 const homeButton = document.getElementById("homeButton");
+const themeToggle = document.getElementById("themeToggle");
 
 async function init() {
 
@@ -68,6 +71,8 @@ async function init() {
     applyStaticStrings();
 
     renderLangSwitch();
+
+    setupTheme();
 
     buildFilters();
 
@@ -90,6 +95,36 @@ async function init() {
     });
 
     renderHome();
+
+}
+
+function setupTheme() {
+
+    updateThemeIcon();
+
+    themeToggle.onclick = () => {
+
+        const current = document.documentElement.getAttribute("data-theme");
+
+        const next = current === "dark" ? "light" : "dark";
+
+        document.documentElement.setAttribute("data-theme", next);
+
+        save("theme", next);
+
+        updateThemeIcon();
+
+    };
+
+}
+
+function updateThemeIcon() {
+
+    const current = document.documentElement.getAttribute("data-theme");
+
+    themeToggle.querySelector(".theme-toggle-icon").textContent = current === "dark" ? "☾" : "☀";
+
+    themeToggle.setAttribute("aria-label", current === "dark" ? "Switch to light mode" : "Switch to dark mode");
 
 }
 
@@ -505,27 +540,39 @@ ${t("noResults")}
 
     el.innerHTML = `
 
-${heroImage ? `
-
 <div class="home-card-image">
-<img src="${heroImage}" alt="${card.title}" loading="eager" decoding="async" fetchpriority="high" onerror="this.parentElement.style.display='none'">
-</div>
 
-` : ""}
+${heroImage ? `<img src="${heroImage}" alt="${card.title}" loading="eager" decoding="async" fetchpriority="high" onerror="this.style.display='none'">` : ""}
 
-<div class="home-card-body">
+<div class="home-card-image-top">
 
-<div class="home-card-top">
+<span class="home-card-number">${card.number}</span>
 
-<span class="card-number">${card.number}</span>
-
-<span class="category cat-${card.category.toLowerCase()}">${card.category}</span>
+<span class="home-card-cat">${card.category}</span>
 
 </div>
+
+<div class="home-card-title-overlay">
 
 <h2>${highlightMatch(card.title, query)}</h2>
 
+</div>
+
+</div>
+
+<div class="home-card-body">
+
 <p>${highlightMatch(card.definition, query)}</p>
+
+<div class="home-actions">
+
+<button id="homePrev" class="arrow-btn" aria-label="${t("previousCard")}">←</button>
+
+<button id="homeBookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? t("removeBookmark") : t("bookmark")}">${bookmarked ? "♥" : "♡"} ${t("bookmark")}</button>
+
+<button id="homeNext" class="arrow-btn" aria-label="${t("nextCard")}">→</button>
+
+</div>
 
 </div>
 
@@ -553,27 +600,23 @@ ${heroImage ? `
 
     home.appendChild(stage);
 
-    const actions = document.createElement("div");
+    el.querySelector("#homePrev").onclick = e => {
 
-    actions.className = "home-actions";
+        e.stopPropagation();
 
-    actions.innerHTML = `
+        previousHome();
 
-<button id="homePrev" aria-label="${t("previousCard")}">←</button>
+    };
 
-<button id="homeBookmark" class="bookmark-btn ${bookmarked ? "active" : ""}" aria-label="${bookmarked ? t("removeBookmark") : t("bookmark")}">${bookmarked ? "♥" : "♡"}</button>
+    el.querySelector("#homeNext").onclick = e => {
 
-<button id="homeNext" aria-label="${t("nextCard")}">→</button>
+        e.stopPropagation();
 
-`;
+        nextHome();
 
-    home.appendChild(actions);
+    };
 
-    actions.querySelector("#homePrev").onclick = previousHome;
-
-    actions.querySelector("#homeNext").onclick = nextHome;
-
-    actions.querySelector("#homeBookmark").onclick = e => {
+    el.querySelector("#homeBookmark").onclick = e => {
 
         e.stopPropagation();
 
