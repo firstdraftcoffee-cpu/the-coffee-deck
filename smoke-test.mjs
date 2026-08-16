@@ -75,6 +75,8 @@ if (errors.length) console.log(errors.join("\n---\n"));
 // --- Welcome overlay: shows on first visit, dismiss it like a real user would ---
 check("Welcome overlay shows on first visit", !!doc.getElementById("welcome-mode"));
 check("Body scroll is locked while the welcome overlay is open", doc.body.style.position === "fixed");
+check("Welcome overlay includes a landing image", !!doc.querySelector(".welcome-hero img")?.getAttribute("src"));
+check("Welcome copy refers to 'enthusiasts', not 'professionals'", doc.getElementById("welcome-mode")?.textContent.includes("enthusiasts") && !doc.getElementById("welcome-mode")?.textContent.includes("professionals"));
 doc.getElementById("welcome-cta")?.dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Welcome overlay closes on Get Started", !doc.getElementById("welcome-mode")?.classList.contains("show"));
@@ -305,7 +307,7 @@ if (doc.getElementById("study-exit")) {
     await new Promise(r => setTimeout(r, 250));
 }
 
-// --- Home button: closes any open overlay and resets to the home stack ---
+// --- Home button: closes any open overlay, resets to the home stack, and also opens the welcome overlay ---
 document.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 100));
 doc.getElementById("search").value = "espresso";
@@ -327,6 +329,11 @@ check("Clicking the home button closes an open viewer", !doc.getElementById("vie
 check("Clicking the home button clears the search field", doc.getElementById("search").value === "");
 check("Clicking the home button resets the filter back to ALL (120 cards)", doc.getElementById("count")?.textContent.includes("120"));
 check("Home stack is visible again after clicking the home button", !!doc.querySelector(".home-card"));
+check("Clicking the home button also opens the welcome overlay", !!doc.getElementById("welcome-mode")?.classList.contains("show"));
+check("Body scroll is locked while that welcome overlay is showing", doc.body.style.position === "fixed");
+
+doc.getElementById("welcome-cta")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
 
 document.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
@@ -335,6 +342,10 @@ check("Home button test setup: study mode is open before clicking home", !!doc.g
 doc.getElementById("homeButton").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Clicking the home button closes an open study session", !doc.getElementById("study-mode"));
+check("Clicking the home button opens the welcome overlay from study mode too", !!doc.getElementById("welcome-mode")?.classList.contains("show"));
+
+doc.getElementById("welcome-cta")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
 
 document.getElementById("statsToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
@@ -343,7 +354,11 @@ check("Home button test setup: stats modal is open before clicking home", !!doc.
 doc.getElementById("homeButton").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Clicking the home button closes an open stats modal", !doc.getElementById("stats-mode")?.classList.contains("show"));
-check("Body scroll is unlocked after using the home button from any overlay", doc.body.style.position !== "fixed");
+check("Clicking the home button opens the welcome overlay from stats too", !!doc.getElementById("welcome-mode")?.classList.contains("show"));
+
+doc.getElementById("welcome-cta")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Body scroll is fully unlocked after dismissing the welcome overlay opened via home button (regression: closeStudySession used to unlock unconditionally and could desync the scroll-lock counter)", doc.body.style.position !== "fixed");
 
 // --- Structural checks (still relevant) ---
 check("Exactly one <h1> in the DOM", doc.querySelectorAll("h1").length <= 1);

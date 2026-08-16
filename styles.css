@@ -1840,8 +1840,6 @@ nav{
 
     border-radius:var(--radius-lg);
 
-    padding:var(--sp-7) var(--sp-6) var(--sp-6);
-
     color:var(--ink);
 
     box-shadow:var(--shadow-lg);
@@ -1849,6 +1847,36 @@ nav{
     position:relative;
 
     text-align:center;
+
+}
+
+.welcome-hero{
+
+    width:100%;
+
+    height:180px;
+
+    overflow:hidden;
+
+    border-radius:var(--radius-lg) var(--radius-lg) 0 0;
+
+}
+
+.welcome-hero img{
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:cover;
+
+    display:block;
+
+}
+
+.welcome-body{
+
+    padding:var(--sp-6) var(--sp-6) var(--sp-6);
 
 }
 

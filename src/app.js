@@ -217,6 +217,8 @@ function setupNav() {
 
         renderHome();
 
+        openWelcome();
+
     };
 
     filterToggle.onclick = () => {

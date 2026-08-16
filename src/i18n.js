@@ -93,16 +93,16 @@ const strings = {
 
         welcomeEyebrow: "Welcome",
         welcomeTitle: "The Coffee Deck",
-        welcomeTagline: "A flashcard app built for coffee professionals — 120 topics across espresso, milk, filter, roasting, sensory, green coffee, processing, origin, equipment, workflow and business, in one place.",
+        welcomeTagline: "A flashcard app made for coffee enthusiasts — covering espresso, milk, filter, roasting, sensory, green coffee, processing, origin, equipment, workflow and business, all in one friendly place.",
         welcomeFeature1Title: "Browse",
-        welcomeFeature1Desc: "Swipe or tap the arrows to move through the deck. Tap a card to see the full definition, why it matters, a pro tip, a common mistake and a challenge.",
+        welcomeFeature1Desc: "Swipe or tap through the deck at your own pace. Tap a card to dig into the full definition, why it matters, a pro tip, a common mistake and a challenge.",
         welcomeFeature2Title: "Study",
-        welcomeFeature2Desc: "Open Study Mode for spaced-repetition review — rate how well you knew each card and it schedules your next review automatically.",
+        welcomeFeature2Desc: "Head to Study Mode whenever you want a proper review — rate how well you remembered each card and we'll schedule your next look automatically.",
         welcomeFeature3Title: "Bookmark",
-        welcomeFeature3Desc: "Save any card to revisit later, and export your bookmarks whenever you like.",
+        welcomeFeature3Desc: "Found something worth remembering? Save it to revisit later, and export your bookmarks whenever you like.",
         welcomeFeature4Title: "Track progress",
-        welcomeFeature4Desc: "See your streak, mastery and review history any time in Progress.",
-        welcomeCta: "Get started",
+        welcomeFeature4Desc: "Watch your streak and mastery build over time, any time in Progress.",
+        welcomeCta: "Let's go",
         welcomeAbout: "About"
     },
 
@@ -191,16 +191,16 @@ const strings = {
 
         welcomeEyebrow: "Bienvenido",
         welcomeTitle: "The Coffee Deck",
-        welcomeTagline: "Una app de tarjetas para profesionales del café: 120 temas de espresso, leche, filtro, tueste, análisis sensorial, café verde, procesamiento, origen, equipos, flujo de trabajo y negocio, todo en un solo lugar.",
+        welcomeTagline: "Una app de tarjetas hecha para entusiastas del café — espresso, leche, filtro, tueste, análisis sensorial, café verde, procesamiento, origen, equipos, flujo de trabajo y negocio, todo en un solo lugar.",
         welcomeFeature1Title: "Explora",
-        welcomeFeature1Desc: "Desliza o toca las flechas para recorrer las tarjetas. Toca una tarjeta para ver la definición completa, por qué importa, un consejo profesional, un error común y un desafío.",
+        welcomeFeature1Desc: "Desliza o toca las flechas para recorrer las tarjetas a tu ritmo. Toca una tarjeta para ver la definición completa, por qué importa, un consejo profesional, un error común y un desafío.",
         welcomeFeature2Title: "Estudia",
-        welcomeFeature2Desc: "Abre el Modo estudio para repaso espaciado: califica cuánto recordabas cada tarjeta y programa tu próximo repaso automáticamente.",
+        welcomeFeature2Desc: "Entra al Modo estudio cuando quieras repasar de verdad: califica cuánto recordabas cada tarjeta y programamos tu próximo repaso automáticamente.",
         welcomeFeature3Title: "Guarda",
-        welcomeFeature3Desc: "Guarda cualquier tarjeta para verla más tarde y exporta tus tarjetas guardadas cuando quieras.",
+        welcomeFeature3Desc: "¿Encontraste algo que vale la pena recordar? Guárdalo para más tarde, y exporta tus tarjetas guardadas cuando quieras.",
         welcomeFeature4Title: "Sigue tu progreso",
-        welcomeFeature4Desc: "Consulta tu racha, dominio e historial de repasos en cualquier momento en Progreso.",
-        welcomeCta: "Empezar",
+        welcomeFeature4Desc: "Mira crecer tu racha y tu dominio con el tiempo, cuando quieras, en Progreso.",
+        welcomeCta: "Empecemos",
         welcomeAbout: "Acerca de"
     },
 
@@ -289,16 +289,16 @@ const strings = {
 
         welcomeEyebrow: "Bem-vindo",
         welcomeTitle: "The Coffee Deck",
-        welcomeTagline: "Um app de cartões para profissionais do café: 120 temas de espresso, leite, filtrado, torra, avaliação sensorial, café verde, processamento, origem, equipamentos, fluxo de trabalho e negócio, tudo em um só lugar.",
+        welcomeTagline: "Um app de cartões feito para entusiastas do café — espresso, leite, filtrado, torra, avaliação sensorial, café verde, processamento, origem, equipamentos, fluxo de trabalho e negócio, tudo em um só lugar.",
         welcomeFeature1Title: "Explore",
-        welcomeFeature1Desc: "Deslize ou toque nas setas para percorrer os cartões. Toque em um cartão para ver a definição completa, por que importa, uma dica profissional, um erro comum e um desafio.",
+        welcomeFeature1Desc: "Deslize ou toque nas setas para percorrer os cartões no seu ritmo. Toque em um cartão para ver a definição completa, por que importa, uma dica profissional, um erro comum e um desafio.",
         welcomeFeature2Title: "Estude",
-        welcomeFeature2Desc: "Abra o Modo estudo para revisão espaçada: avalie sua lembrança de cada cartão e as próximas revisões são agendadas automaticamente.",
+        welcomeFeature2Desc: "Entre no Modo estudo sempre que quiser revisar de verdade: avalie sua lembrança de cada cartão e agendamos automaticamente a próxima revisão.",
         welcomeFeature3Title: "Salve",
-        welcomeFeature3Desc: "Salve qualquer cartão para ver depois e exporte seus cartões salvos quando quiser.",
+        welcomeFeature3Desc: "Encontrou algo que vale a pena lembrar? Salve para depois, e exporte seus cartões salvos quando quiser.",
         welcomeFeature4Title: "Acompanhe seu progresso",
-        welcomeFeature4Desc: "Veja sua sequência, domínio e histórico de revisões a qualquer momento em Progresso.",
-        welcomeCta: "Começar",
+        welcomeFeature4Desc: "Veja sua sequência e seu domínio crescerem com o tempo, quando quiser, em Progresso.",
+        welcomeCta: "Vamos lá",
         welcomeAbout: "Sobre"
     }
 

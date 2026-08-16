@@ -444,11 +444,15 @@ ${t("returnHome")}
 
 export function closeStudySession() {
 
+    const overlay = document.getElementById("study-mode");
+
+    if (!overlay) return;
+
     document.onkeydown = null;
 
     unlockScroll();
 
-    document.getElementById("study-mode")?.remove();
+    overlay.remove();
 
     const callback = onCloseCallback;
 

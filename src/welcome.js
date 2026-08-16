@@ -45,7 +45,13 @@ export function openWelcome(options = {}) {
 
 <div class="welcome-window">
 
+<div class="welcome-hero">
+<img src="/images/cards/021.jpg" alt="">
+</div>
+
 <button class="close close-lg" id="welcome-close" aria-label="${t("close")}">&times;</button>
+
+<div class="welcome-body">
 
 <div class="welcome-eyebrow">${t("welcomeEyebrow")}</div>
 
@@ -90,6 +96,8 @@ export function openWelcome(options = {}) {
 </div>
 
 <button id="welcome-cta" class="welcome-cta">${t("welcomeCta")}</button>
+
+</div>
 
 </div>
 
