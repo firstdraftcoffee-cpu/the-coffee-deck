@@ -1242,6 +1242,20 @@ nav{
 
 }
 
+.viewer-photo-note{
+
+    margin:calc(var(--sp-2) * -1) 0 var(--sp-4);
+
+    font-size:var(--text-xs);
+
+    color:var(--ink-soft);
+
+    opacity:.75;
+
+    text-align:center;
+
+}
+
 .viewer-section{
 
     margin:var(--sp-5) 0;

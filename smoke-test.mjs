@@ -292,7 +292,27 @@ check("Plain viewer shows a hint pointing to Study Mode instead", doc.querySelec
 doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
 await new Promise(r => setTimeout(r, 300));
 
-// --- Study Mode: rating buttons still work exactly as before ---
+// --- Cultivar cards show a discreet "photo not verified" disclaimer ---
+doc.getElementById("search").value = "Typica";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Cultivar card shows the photo-unverified disclaimer under its image", !!doc.querySelector(".viewer-photo-note")?.textContent.trim());
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 300));
+
+doc.getElementById("search").value = "Espresso";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Non-cultivar card does NOT show the photo-unverified disclaimer", !doc.querySelector(".viewer-photo-note"));
+doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
+await new Promise(r => setTimeout(r, 300));
+doc.getElementById("search").value = "";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
 document.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 const revealBtn = doc.getElementById("study-reveal");

@@ -5,7 +5,7 @@
     "category": "CUL",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": "139.jpg",
+    "hero_image": "cul-branch.jpg",
     "definition": "One of the two foundational coffee varieties, believed to be the original strain carried out of Ethiopia and Yemen into cultivation worldwide.",
     "why": "Nearly every arabica variety grown today traces back to Typica or Bourbon, making it a genetic starting point for the whole industry.",
     "tip": "Expect a tall, low-yielding plant — Typica trades productivity for reliably clean, sweet cup quality.",
@@ -32,7 +32,8 @@
         "mistake": "Supor que uma variedade 'original' deve ter sabor mais autêntico ou superior às modernas.",
         "challenge": "Por que os produtores continuariam cultivando uma variedade de baixo rendimento como a Typica em vez de mudar totalmente para híbridos mais produtivos?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "140",
@@ -40,7 +41,7 @@
     "category": "CUL",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": "140.jpg",
+    "hero_image": "cul-pile.jpg",
     "definition": "A natural mutation of Typica discovered on Bourbon Island (now Réunion), known for rounder cherries and often a sweeter, more complex cup.",
     "why": "Bourbon and Typica between them form the genetic root of most specialty coffee grown today.",
     "tip": "Look for red and yellow Bourbon sub-variants — the color refers to ripe cherry color, not bean color.",
@@ -67,7 +68,8 @@
         "mistake": "Tratar 'Bourbon' como uma única variedade uniforme em vez de uma família com várias mutações naturais.",
         "challenge": "Como uma mutação natural em uma única ilha acabou moldando variedades de café em quase todos os continentes?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "141",
@@ -75,7 +77,7 @@
     "category": "CUL",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": "141.jpg",
+    "hero_image": "cul-branch.jpg",
     "definition": "A natural dwarf mutation of Bourbon discovered in Brazil, with a compact plant that allows much denser planting and higher yields.",
     "why": "Its short stature made modern high-density coffee farming economically viable in a way tall Bourbon and Typica couldn't support.",
     "tip": "Expect a brighter, more acidic cup than Bourbon, generally with less body.",
@@ -102,7 +104,8 @@
         "mistake": "Supor que uma planta compacta significa automaticamente menor qualidade; a Caturra pode render xícaras excepcionais com bons cuidados.",
         "challenge": "Por que a altura da planta importa tanto para quantas árvores podem ser plantadas por hectare?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "142",
@@ -110,7 +113,7 @@
     "category": "CUL",
     "difficulty": 1,
     "reading_time": 2,
-    "hero_image": "142.jpg",
+    "hero_image": "cul-pile.jpg",
     "definition": "A deliberate hybrid of Caturra and Mundo Novo, bred in Brazil for a sturdy plant that holds up well to wind and rain.",
     "why": "It combines Caturra's compact yield advantage with a hardier structure suited to harsher growing conditions.",
     "tip": "Catuai is often chosen specifically for its resilience, not primarily for a distinctive flavor signature.",
@@ -137,7 +140,8 @@
         "mistake": "Esperar que toda variedade híbrida tenha sido criada puramente pela qualidade da xícara; muitas são criadas primeiro pela praticidade agrícola.",
         "challenge": "Que concessões um produtor poderia aceitar em troca de uma planta mais resistente ao vento?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "143",
@@ -145,7 +149,7 @@
     "category": "CUL",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "143.jpg",
+    "hero_image": "cul-branch.jpg",
     "definition": "Two varieties selected in Kenya during the 1930s-40s by Scott Agricultural Laboratories for drought tolerance and disease resistance, now famous for intense blackcurrant-like acidity.",
     "why": "They're a huge part of why Kenyan coffee has such a distinctive, instantly recognizable flavor signature.",
     "tip": "SL28 tends toward deeper, winey acidity; SL34 often performs better at higher altitudes with heavier rainfall.",
@@ -172,7 +176,8 @@
         "mistake": "Supor que SL28 e SL34 são intercambiáveis só por compartilharem origem queniana e uma convenção de nomes.",
         "challenge": "Por que selecionar deliberadamente pela tolerância à seca acabaria também moldando o perfil de sabor de uma variedade?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "144",
@@ -180,7 +185,7 @@
     "category": "CUL",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "144.jpg",
+    "hero_image": "cul-pile.jpg",
     "definition": "A variety originally from Ethiopia that became world-famous after a Panamanian lot won Best of Panama in 2004, prized for intense jasmine, bergamot and tropical fruit character.",
     "why": "It redefined how much buyers would pay for exceptional coffee and put a single variety name on menus worldwide.",
     "tip": "Yields are typically low and the plant is delicate — part of why Gesha commands such high prices.",
@@ -207,7 +212,8 @@
         "mistake": "Supor que todo café rotulado como Gesha entregará a mesma intensidade; as condições de cultivo importam enormemente para essa variedade.",
         "challenge": "Por que a mesma variedade poderia produzir uma xícara lendária no Panamá, mas apenas mediana em outro lugar?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "145",
@@ -215,7 +221,7 @@
     "category": "CUL",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "145.jpg",
+    "hero_image": "cul-branch.jpg",
     "definition": "A deliberate hybrid of Pacas and Maragogype, bred in El Salvador for unusually large bean size alongside strong cup quality.",
     "why": "It's a good example of breeding aimed specifically at bean size and cup quality together, not just yield or hardiness.",
     "tip": "Its large bean size affects roasting — dial in roast profiles separately rather than assuming standard timing applies.",
@@ -242,7 +248,8 @@
         "mistake": "Supor que grãos maiores significam automaticamente melhor sabor; tamanho e qualidade de xícara são selecionados separadamente.",
         "challenge": "Que ajustes de torra um tamanho de grão incomumente grande poderia exigir?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "146",
@@ -250,7 +257,7 @@
     "category": "CUL",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "146.jpg",
+    "hero_image": "cul-pile.jpg",
     "definition": "A Colombian-bred hybrid developed to resist coffee leaf rust while maintaining competitive yield and cup quality, created to replace disease-vulnerable Caturra.",
     "why": "Leaf rust epidemics have devastated entire harvests across Latin America — disease-resistant hybrids like Castillo are now essential to many farms' survival.",
     "tip": "Don't assume disease resistance means a flavor compromise — modern breeding programs actively select for cup quality too.",
@@ -277,7 +284,8 @@
         "mistake": "Descartar híbridos resistentes à ferrugem como automaticamente de menor qualidade do que variedades tradicionais como Typica ou Bourbon.",
         "challenge": "Por que a sobrevivência econômica de uma fazenda pode agora depender mais da resistência a doenças do que de buscar a maior pontuação de xícara possível?"
       }
-    }
+    },
+    "photo_unverified": true
   },
   {
     "number": "147",
@@ -285,7 +293,7 @@
     "category": "CUL",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": "147.jpg",
+    "hero_image": "cul-branch.jpg",
     "definition": "A cultivar is a genetically distinct type of coffee plant, arising either from a natural mutation or a deliberate cross between parent varieties.",
     "why": "Understanding this distinction explains why some varieties (like Bourbon) emerged by accident, while others (like Castillo) were engineered for a specific purpose.",
     "tip": "Ask whether a variety was 'found' or 'bred' — it usually tells you what tradeoff it was optimized for.",
@@ -313,6 +321,7 @@
         "mistake": "Tratar 'variedade' e 'origem' como se fossem a mesma coisa; a mesma variedade pode ser cultivada em países completamente diferentes.",
         "challenge": "Classifique Typica, Caturra, Gesha e Castillo entre mutações naturais e híbridos deliberados."
       }
-    }
+    },
+    "photo_unverified": true
   }
 ]

@@ -130,6 +130,12 @@ onerror="this.parentElement.style.display='none'"
 
 </div>
 
+${card.photo_unverified ? `
+
+<p class="viewer-photo-note">${t("photoUnverified")}</p>
+
+` : ""}
+
 ` : ""}
 
 <section class="viewer-section">

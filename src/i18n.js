@@ -103,7 +103,9 @@ const strings = {
         welcomeFeature4Title: "Track progress",
         welcomeFeature4Desc: "Watch your streak and mastery build over time, any time in Progress.",
         welcomeCta: "Let's go",
-        welcomeAbout: "About"
+        welcomeAbout: "About",
+
+        photoUnverified: "Representative coffee cherry photo — not verified to this specific variety"
     },
 
     es: {
@@ -201,7 +203,9 @@ const strings = {
         welcomeFeature4Title: "Sigue tu progreso",
         welcomeFeature4Desc: "Mira crecer tu racha y tu dominio con el tiempo, cuando quieras, en Progreso.",
         welcomeCta: "Empecemos",
-        welcomeAbout: "Acerca de"
+        welcomeAbout: "Acerca de",
+
+        photoUnverified: "Foto representativa de cereza de café — no verificada para esta variedad específica"
     },
 
     pt: {
@@ -299,7 +303,9 @@ const strings = {
         welcomeFeature4Title: "Acompanhe seu progresso",
         welcomeFeature4Desc: "Veja sua sequência e seu domínio crescerem com o tempo, quando quiser, em Progresso.",
         welcomeCta: "Vamos lá",
-        welcomeAbout: "Sobre"
+        welcomeAbout: "Sobre",
+
+        photoUnverified: "Foto representativa de cereja de café — não verificada para esta variedade específica"
     }
 
 };
