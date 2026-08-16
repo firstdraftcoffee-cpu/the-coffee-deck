@@ -292,6 +292,46 @@ if (doc.getElementById("study-exit")) {
     await new Promise(r => setTimeout(r, 250));
 }
 
+// --- Home button: closes any open overlay and resets to the home stack ---
+document.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+doc.getElementById("search").value = "espresso";
+doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+const filterBtn = [...doc.querySelectorAll(".filter")].find(b => b.textContent.trim().startsWith("ESP"));
+if (filterBtn) {
+    filterBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 150));
+}
+doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Home button test setup: viewer is open before clicking home", !!doc.getElementById("viewer")?.classList.contains("show"));
+
+doc.getElementById("homeButton").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+
+check("Clicking the home button closes an open viewer", !doc.getElementById("viewer")?.classList.contains("show"));
+check("Clicking the home button clears the search field", doc.getElementById("search").value === "");
+check("Clicking the home button resets the filter back to ALL (120 cards)", doc.getElementById("count")?.textContent.includes("120"));
+check("Home stack is visible again after clicking the home button", !!doc.querySelector(".home-card"));
+
+document.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Home button test setup: study mode is open before clicking home", !!doc.getElementById("study-mode"));
+
+doc.getElementById("homeButton").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Clicking the home button closes an open study session", !doc.getElementById("study-mode"));
+
+document.getElementById("statsToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Home button test setup: stats modal is open before clicking home", !!doc.getElementById("stats-mode")?.classList.contains("show"));
+
+doc.getElementById("homeButton").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Clicking the home button closes an open stats modal", !doc.getElementById("stats-mode")?.classList.contains("show"));
+check("Body scroll is unlocked after using the home button from any overlay", doc.body.style.position !== "fixed");
+
 // --- Structural checks (still relevant) ---
 check("Exactly one <h1> in the DOM", doc.querySelectorAll("h1").length <= 1);
 check("No skipped heading level", (() => {

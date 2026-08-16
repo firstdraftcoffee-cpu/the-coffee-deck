@@ -6,7 +6,8 @@ import {
 } from "./cards.js";
 
 import {
-    openViewer
+    openViewer,
+    closeViewer
 } from "./viewer.js";
 
 import {
@@ -23,7 +24,8 @@ import {
 } from "./study.js";
 
 import {
-    startStudySession
+    startStudySession,
+    closeStudySession
 } from "./studySession.js";
 
 import {
@@ -31,7 +33,8 @@ import {
 } from "./swipe.js";
 
 import {
-    openStats
+    openStats,
+    closeStats
 } from "./stats.js";
 
 import {
@@ -56,6 +59,7 @@ const filterPanel = document.getElementById("filterPanel");
 const studyToggle = document.getElementById("studyToggle");
 const statsToggle = document.getElementById("statsToggle");
 const langSwitch = document.getElementById("langSwitch");
+const homeButton = document.getElementById("homeButton");
 
 async function init() {
 
@@ -139,6 +143,28 @@ function renderLangSwitch() {
 }
 
 function setupNav() {
+
+    homeButton.onclick = () => {
+
+        closeViewer();
+
+        closeStudySession();
+
+        closeStats();
+
+        filterPanel.classList.remove("show");
+
+        search.value = "";
+
+        activeCategory = "ALL";
+
+        buildFilters();
+
+        homeIndex = 0;
+
+        renderHome();
+
+    };
 
     filterToggle.onclick = () => {
 
