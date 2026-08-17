@@ -6425,5 +6425,330 @@
       }
     },
     "id": 174
+  },
+  {
+    "number": "175",
+    "title": "The Kaldi Legend",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A popular origin story crediting an Ethiopian goat herder named Kaldi with discovering coffee after noticing his goats became energetic from eating certain red berries.",
+    "why": "It's the most widely told coffee origin story, even though it wasn't written down until centuries after it supposedly happened.",
+    "tip": "Treat Kaldi as folklore, not history — useful for context, not for citing as fact.",
+    "mistake": "Presenting the Kaldi legend as verified historical fact rather than a popular oral tradition.",
+    "challenge": "Why might a story like this survive for centuries even without historical evidence?",
+    "related": [
+      "086",
+      "092"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Leyenda de Kaldi",
+        "definition": "Una historia de origen popular que atribuye a un pastor de cabras etíope llamado Kaldi el descubrimiento del café tras notar que sus cabras se volvían enérgicas al comer ciertas bayas rojas.",
+        "why": "Es la historia de origen del café más contada, aunque no se escribió hasta siglos después de que supuestamente ocurrió.",
+        "tip": "Trata la leyenda de Kaldi como folclore, no como historia; útil como contexto, no para citarla como hecho.",
+        "mistake": "Presentar la leyenda de Kaldi como un hecho histórico verificado en lugar de una tradición oral popular.",
+        "challenge": "¿Por qué podría sobrevivir una historia como esta durante siglos incluso sin evidencia histórica?"
+      },
+      "pt": {
+        "title": "A Lenda de Kaldi",
+        "definition": "Uma história de origem popular que atribui a um pastor de cabras etíope chamado Kaldi a descoberta do café ao notar que suas cabras ficavam energéticas ao comer certas bagas vermelhas.",
+        "why": "É a história de origem do café mais contada, embora não tenha sido escrita até séculos depois de supostamente ter acontecido.",
+        "tip": "Trate a lenda de Kaldi como folclore, não como história; útil como contexto, não para citar como fato.",
+        "mistake": "Apresentar a lenda de Kaldi como fato histórico verificado em vez de uma tradição oral popular.",
+        "challenge": "Por que uma história como essa poderia sobreviver por séculos mesmo sem evidência histórica?"
+      }
+    },
+    "id": 175
+  },
+  {
+    "number": "176",
+    "title": "Coffee in the Ottoman Empire",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee spread from Yemen into the Ottoman Empire by the 16th century, where dedicated coffeehouses called 'kiva han' became central to public life in cities like Istanbul.",
+    "why": "This is where coffee first became a genuine social institution, not just a drink — the coffeehouse as a public gathering space starts here.",
+    "tip": "Notice how quickly coffee moved from a private, medicinal drink to a public, social one once it reached Ottoman cities.",
+    "mistake": "Assuming coffee culture began in Europe rather than centuries earlier in the Ottoman world.",
+    "challenge": "Why might rulers have occasionally viewed coffeehouses with suspicion or tried to ban them?",
+    "related": [
+      "177",
+      "175"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café en el Imperio Otomano",
+        "definition": "El café se extendió desde Yemen hacia el Imperio Otomano hacia el siglo XVI, donde cafeterías dedicadas llamadas 'kiva han' se volvieron centrales en la vida pública de ciudades como Estambul.",
+        "why": "Aquí es donde el café se convirtió por primera vez en una verdadera institución social, no solo en una bebida; la cafetería como espacio público de reunión comienza aquí.",
+        "tip": "Nota cuán rápido pasó el café de ser una bebida privada y medicinal a una social y pública una vez que llegó a las ciudades otomanas.",
+        "mistake": "Suponer que la cultura del café comenzó en Europa en lugar de siglos antes en el mundo otomano.",
+        "challenge": "¿Por qué los gobernantes a veces veían las cafeterías con sospecha o intentaban prohibirlas?"
+      },
+      "pt": {
+        "title": "O Café no Império Otomano",
+        "definition": "O café se espalhou do Iêmen para o Império Otomano por volta do século XVI, onde cafeterias dedicadas chamadas 'kiva han' se tornaram centrais na vida pública de cidades como Istambul.",
+        "why": "É aqui que o café se tornou pela primeira vez uma verdadeira instituição social, não apenas uma bebida; a cafeteria como espaço público de encontro começa aqui.",
+        "tip": "Note quão rápido o café passou de uma bebida privada e medicinal para uma social e pública assim que chegou às cidades otomanas.",
+        "mistake": "Supor que a cultura do café começou na Europa em vez de séculos antes no mundo otomano.",
+        "challenge": "Por que os governantes às vezes viam as cafeterias com desconfiança ou tentavam proibi-las?"
+      }
+    },
+    "id": 176
+  },
+  {
+    "number": "177",
+    "title": "Europe's First Coffeehouses",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffeehouses spread to Venice, Oxford and London in the 1600s, quickly earning the nickname 'penny universities' because a one-penny coffee bought hours of conversation and debate.",
+    "why": "These venues became genuine engines of ideas, information and early journalism, not just places to drink coffee.",
+    "tip": "Think of the early coffeehouse as a mix of café, newsroom and debate hall all at once.",
+    "mistake": "Assuming coffeehouses were purely social venues with no real intellectual or economic function.",
+    "challenge": "What does the nickname 'penny university' reveal about what people actually went there for?",
+    "related": [
+      "176",
+      "178"
+    ],
+    "translations": {
+      "es": {
+        "title": "Las Primeras Cafeterías de Europa",
+        "definition": "Las cafeterías se extendieron a Venecia, Oxford y Londres en el siglo XVII, ganándose rápidamente el apodo de 'universidades de a penique' porque un café de un penique compraba horas de conversación y debate.",
+        "why": "Estos lugares se convirtieron en verdaderos motores de ideas, información y periodismo temprano, no solo sitios para beber café.",
+        "tip": "Piensa en la primera cafetería como una mezcla de café, redacción de noticias y sala de debate a la vez.",
+        "mistake": "Suponer que las cafeterías eran solo lugares sociales sin ninguna función intelectual o económica real.",
+        "challenge": "¿Qué revela el apodo 'universidad de a penique' sobre lo que la gente realmente buscaba allí?"
+      },
+      "pt": {
+        "title": "As Primeiras Cafeterias da Europa",
+        "definition": "As cafeterias se espalharam por Veneza, Oxford e Londres no século XVII, ganhando rapidamente o apelido de 'universidades de um centavo' porque um café de um centavo comprava horas de conversa e debate.",
+        "why": "Esses locais se tornaram verdadeiros motores de ideias, informação e jornalismo inicial, não apenas lugares para beber café.",
+        "tip": "Pense na primeira cafeteria como uma mistura de café, redação de notícias e sala de debate ao mesmo tempo.",
+        "mistake": "Supor que as cafeterias eram apenas locais sociais sem nenhuma função intelectual ou econômica real.",
+        "challenge": "O que o apelido 'universidade de um centavo' revela sobre o que as pessoas realmente buscavam lá?"
+      }
+    },
+    "id": 177
+  },
+  {
+    "number": "178",
+    "title": "Coffeehouses and the Enlightenment",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "European coffeehouses became meeting places for scientists, writers and merchants, directly influencing institutions as significant as Lloyd's of London (born in a coffeehouse) and early stock exchanges.",
+    "why": "Some of the most important financial and scientific institutions in history trace their roots to conversations that happened over coffee.",
+    "tip": "Look up which specific coffeehouse Lloyd's of London started in — the story is more literal than people expect.",
+    "mistake": "Treating this as coincidence rather than recognizing coffeehouses as genuine infrastructure for the exchange of ideas.",
+    "challenge": "Why might a caffeinated, alert environment have suited serious intellectual debate better than a tavern?",
+    "related": [
+      "177",
+      "179"
+    ],
+    "translations": {
+      "es": {
+        "title": "Las Cafeterías y la Ilustración",
+        "definition": "Las cafeterías europeas se convirtieron en lugares de encuentro para científicos, escritores y comerciantes, influyendo directamente en instituciones tan importantes como Lloyd's of London (nacida en una cafetería) y las primeras bolsas de valores.",
+        "why": "Algunas de las instituciones financieras y científicas más importantes de la historia tienen sus raíces en conversaciones que ocurrieron tomando café.",
+        "tip": "Busca en qué cafetería específica comenzó Lloyd's of London; la historia es más literal de lo que la gente espera.",
+        "mistake": "Tratar esto como una coincidencia en lugar de reconocer a las cafeterías como una verdadera infraestructura para el intercambio de ideas.",
+        "challenge": "¿Por qué un ambiente estimulado por cafeína podría haber sido más propicio para el debate intelectual serio que una taberna?"
+      },
+      "pt": {
+        "title": "As Cafeterias e o Iluminismo",
+        "definition": "As cafeterias europeias se tornaram locais de encontro para cientistas, escritores e comerciantes, influenciando diretamente instituições tão importantes quanto a Lloyd's of London (nascida em uma cafeteria) e as primeiras bolsas de valores.",
+        "why": "Algumas das instituições financeiras e científicas mais importantes da história têm raízes em conversas que aconteceram tomando café.",
+        "tip": "Pesquise em qual cafeteria específica a Lloyd's of London começou; a história é mais literal do que as pessoas esperam.",
+        "mistake": "Tratar isso como coincidência em vez de reconhecer as cafeterias como uma verdadeira infraestrutura para a troca de ideias.",
+        "challenge": "Por que um ambiente estimulado por cafeína pode ter favorecido o debate intelectual sério mais do que uma taverna?"
+      }
+    },
+    "id": 178
+  },
+  {
+    "number": "179",
+    "title": "The Boston Tea Party's Coffee Shift",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "After the 1773 Boston Tea Party, drinking coffee instead of tea became an act of patriotism for many American colonists protesting British taxation.",
+    "why": "It's a rare case of a national drinking preference shifting for explicitly political reasons rather than taste or availability.",
+    "tip": "Use this story to explain why coffee, not tea, became the dominant hot drink in the United States.",
+    "mistake": "Assuming coffee was always more popular than tea in America — the shift has a specific political trigger.",
+    "challenge": "Can you think of a modern example where a consumer choice became a political statement the same way?",
+    "related": [
+      "176",
+      "182"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Cambio al Café tras el Motín del Té de Boston",
+        "definition": "Después del Motín del Té de Boston en 1773, beber café en lugar de té se convirtió en un acto de patriotismo para muchos colonos estadounidenses que protestaban contra los impuestos británicos.",
+        "why": "Es un caso poco común de un cambio en la preferencia nacional de bebida por razones explícitamente políticas y no de sabor o disponibilidad.",
+        "tip": "Usa esta historia para explicar por qué el café, y no el té, se convirtió en la bebida caliente dominante en Estados Unidos.",
+        "mistake": "Suponer que el café siempre fue más popular que el té en Estados Unidos; el cambio tiene un desencadenante político específico.",
+        "challenge": "¿Puedes pensar en un ejemplo moderno donde una elección de consumo se haya convertido en una declaración política de forma similar?"
+      },
+      "pt": {
+        "title": "A Mudança para o Café Após o Motim do Chá de Boston",
+        "definition": "Depois do Motim do Chá de Boston em 1773, beber café em vez de chá tornou-se um ato de patriotismo para muitos colonos americanos que protestavam contra os impostos britânicos.",
+        "why": "É um caso raro de mudança na preferência nacional de bebida por razões explicitamente políticas, e não de sabor ou disponibilidade.",
+        "tip": "Use essa história para explicar por que o café, e não o chá, se tornou a bebida quente dominante nos Estados Unidos.",
+        "mistake": "Supor que o café sempre foi mais popular que o chá nos Estados Unidos; a mudança tem um gatilho político específico.",
+        "challenge": "Você consegue pensar em um exemplo moderno em que uma escolha de consumo se tornou uma declaração política da mesma forma?"
+      }
+    },
+    "id": 179
+  },
+  {
+    "number": "180",
+    "title": "The Invention of the Espresso Machine",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Early 20th-century Italian inventors, including Luigi Bezzera and later Achille Gaggia, developed the pressurized brewing methods that became modern espresso.",
+    "why": "Understanding this history explains why espresso is defined by pressure, not just fine grinding or dark roasting.",
+    "tip": "Note that Gaggia's piston-lever design in the 1940s is what actually created crema as we know it today.",
+    "mistake": "Assuming espresso has always looked and worked the way it does now — the modern version is a 20th-century innovation.",
+    "challenge": "Why did adding real pressure change espresso more fundamentally than any change in roast or grind ever could?",
+    "related": [
+      "012",
+      "011"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Invención de la Máquina de Espresso",
+        "definition": "Inventores italianos de principios del siglo XX, incluyendo a Luigi Bezzera y luego Achille Gaggia, desarrollaron los métodos de preparación a presión que se convirtieron en el espresso moderno.",
+        "why": "Entender esta historia explica por qué el espresso se define por la presión, no solo por una molienda fina o un tueste oscuro.",
+        "tip": "Nota que el diseño de pistón de palanca de Gaggia en la década de 1940 es lo que realmente creó la crema tal como la conocemos hoy.",
+        "mistake": "Suponer que el espresso siempre se ha visto y funcionado como ahora; la versión moderna es una innovación del siglo XX.",
+        "challenge": "¿Por qué añadir presión real cambió el espresso de forma más fundamental que cualquier cambio en el tueste o la molienda?"
+      },
+      "pt": {
+        "title": "A Invenção da Máquina de Espresso",
+        "definition": "Inventores italianos do início do século XX, incluindo Luigi Bezzera e depois Achille Gaggia, desenvolveram os métodos de preparo sob pressão que se tornaram o espresso moderno.",
+        "why": "Entender essa história explica por que o espresso é definido pela pressão, não apenas por uma moagem fina ou torra escura.",
+        "tip": "Note que o design de pistão alavancado de Gaggia na década de 1940 é o que realmente criou a crema como a conhecemos hoje.",
+        "mistake": "Supor que o espresso sempre teve a aparência e o funcionamento atuais; a versão moderna é uma inovação do século XX.",
+        "challenge": "Por que adicionar pressão real mudou o espresso de forma mais fundamental do que qualquer mudança na torra ou moagem?"
+      }
+    },
+    "id": 180
+  },
+  {
+    "number": "181",
+    "title": "Instant Coffee's Rise",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Instant coffee saw massive growth during World War II, when it was mass-produced as compact, shelf-stable rations for soldiers.",
+    "why": "Wartime demand permanently changed how coffee was manufactured, packaged and consumed at a global scale.",
+    "tip": "Consider instant coffee's role in making coffee accessible in places fresh brewing infrastructure didn't reach.",
+    "mistake": "Dismissing instant coffee's history as irrelevant to specialty coffee's story — the industries are more connected than they seem.",
+    "challenge": "Why might wartime logistics have driven a bigger leap in coffee technology than peacetime demand?",
+    "related": [
+      "164",
+      "107"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Auge del Café Instantáneo",
+        "definition": "El café instantáneo experimentó un crecimiento masivo durante la Segunda Guerra Mundial, cuando se produjo en masa como ración compacta y de larga duración para los soldados.",
+        "why": "La demanda en tiempos de guerra cambió permanentemente cómo se fabricaba, empacaba y consumía el café a escala global.",
+        "tip": "Considera el papel del café instantáneo al hacer accesible el café en lugares donde no llegaba la infraestructura de preparación fresca.",
+        "mistake": "Descartar la historia del café instantáneo como irrelevante para la historia del café de especialidad; las industrias están más conectadas de lo que parece.",
+        "challenge": "¿Por qué la logística de guerra pudo haber impulsado un salto tecnológico mayor en el café que la demanda en tiempos de paz?"
+      },
+      "pt": {
+        "title": "A Ascensão do Café Instantâneo",
+        "definition": "O café instantâneo teve um crescimento massivo durante a Segunda Guerra Mundial, quando foi produzido em massa como ração compacta e de longa duração para os soldados.",
+        "why": "A demanda em tempos de guerra mudou permanentemente como o café era fabricado, embalado e consumido em escala global.",
+        "tip": "Considere o papel do café instantâneo em tornar o café acessível em lugares onde a infraestrutura de preparo fresco não chegava.",
+        "mistake": "Descartar a história do café instantâneo como irrelevante para a história do café especial; as indústrias estão mais conectadas do que parecem.",
+        "challenge": "Por que a logística de guerra pode ter impulsionado um salto tecnológico maior no café do que a demanda em tempos de paz?"
+      }
+    },
+    "id": 181
+  },
+  {
+    "number": "182",
+    "title": "The Three Waves of Coffee",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A framework describing coffee's evolution: first wave (mass availability and convenience), second wave (café culture and espresso drinks), and third wave (origin transparency, craft and quality focus).",
+    "why": "It's the most common shorthand the industry uses to describe how coffee culture and consumer expectations have shifted over time.",
+    "tip": "Use the framework loosely — it's a useful lens, not a strict timeline with hard boundaries.",
+    "mistake": "Treating the waves as sequential eras that fully replaced one another rather than overlapping shifts in culture.",
+    "challenge": "What signs might suggest a 'fourth wave' is already underway?",
+    "related": [
+      "181",
+      "095"
+    ],
+    "translations": {
+      "es": {
+        "title": "Las Tres Olas del Café",
+        "definition": "Un marco que describe la evolución del café: primera ola (disponibilidad masiva y conveniencia), segunda ola (cultura de cafeterías y bebidas de espresso), y tercera ola (transparencia de origen, artesanía y enfoque en la calidad).",
+        "why": "Es el atajo más usado por la industria para describir cómo han cambiado con el tiempo la cultura del café y las expectativas del consumidor.",
+        "tip": "Usa el marco con flexibilidad; es una lente útil, no una línea de tiempo estricta con límites rígidos.",
+        "mistake": "Tratar las olas como eras secuenciales que se reemplazaron por completo en lugar de cambios culturales superpuestos.",
+        "challenge": "¿Qué señales podrían sugerir que ya está en marcha una 'cuarta ola'?"
+      },
+      "pt": {
+        "title": "As Três Ondas do Café",
+        "definition": "Uma estrutura que descreve a evolução do café: primeira onda (disponibilidade em massa e conveniência), segunda onda (cultura de cafeterias e bebidas de espresso), e terceira onda (transparência de origem, artesania e foco em qualidade).",
+        "why": "É o atalho mais usado pela indústria para descrever como a cultura do café e as expectativas do consumidor mudaram ao longo do tempo.",
+        "tip": "Use a estrutura com flexibilidade; é uma lente útil, não uma linha do tempo rígida com limites fixos.",
+        "mistake": "Tratar as ondas como eras sequenciais que se substituíram completamente, em vez de mudanças culturais sobrepostas.",
+        "challenge": "Que sinais poderiam sugerir que uma 'quarta onda' já está em andamento?"
+      }
+    },
+    "id": 182
+  },
+  {
+    "number": "183",
+    "title": "Coffee Reaches the Americas",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee cultivation spread to the Caribbean and Latin America in the 18th century through Dutch and French colonial plantations, laying the foundation for today's major producing countries.",
+    "why": "This single colonial-era expansion is why Brazil, Colombia and much of Central America became coffee powerhouses centuries later.",
+    "tip": "Connect this history to today's origin cards — many major producing regions trace back to this specific wave of colonial planting.",
+    "mistake": "Treating coffee's arrival in the Americas as a natural spread rather than a deliberate, often exploitative, colonial project.",
+    "challenge": "Why might understanding this history matter for how the industry talks about origin and terroir today?",
+    "related": [
+      "091",
+      "093",
+      "137"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café Llega a las Américas",
+        "definition": "El cultivo del café se extendió al Caribe y América Latina en el siglo XVIII a través de plantaciones coloniales holandesas y francesas, sentando las bases de los principales países productores actuales.",
+        "why": "Esta única expansión de la era colonial es la razón por la que Brasil, Colombia y gran parte de Centroamérica se convirtieron siglos después en potencias cafeteras.",
+        "tip": "Conecta esta historia con las tarjetas de origen actuales; muchas regiones productoras importantes se remontan a esta ola específica de siembra colonial.",
+        "mistake": "Tratar la llegada del café a las Américas como una expansión natural en lugar de un proyecto colonial deliberado, a menudo explotador.",
+        "challenge": "¿Por qué podría importar entender esta historia para cómo la industria habla hoy sobre origen y terruño?"
+      },
+      "pt": {
+        "title": "O Café Chega às Américas",
+        "definition": "O cultivo de café se espalhou pelo Caribe e América Latina no século XVIII por meio de plantações coloniais holandesas e francesas, lançando as bases para os principais países produtores de hoje.",
+        "why": "Essa única expansão da era colonial é a razão pela qual o Brasil, a Colômbia e grande parte da América Central se tornaram potências cafeeiras séculos depois.",
+        "tip": "Conecte essa história aos cartões de origem atuais; muitas regiões produtoras importantes remontam a essa onda específica de plantio colonial.",
+        "mistake": "Tratar a chegada do café às Américas como uma expansão natural em vez de um projeto colonial deliberado, muitas vezes explorador.",
+        "challenge": "Por que entender essa história pode importar para como a indústria fala hoje sobre origem e terroir?"
+      }
+    },
+    "id": 183
   }
 ]
