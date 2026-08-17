@@ -7146,5 +7146,581 @@
       }
     },
     "id": 194
+  },
+  {
+    "number": "195",
+    "title": "The Ethiopian Coffee Ceremony",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A traditional, multi-hour ritual in Ethiopia where green beans are roasted, ground, and brewed fresh in front of guests in a clay pot called a jebena, usually performed by a woman of the household.",
+    "why": "Coffee originated in Ethiopia, and the ceremony remains the clearest living link between coffee's roots and how it's still consumed as a social, unhurried ritual rather than a quick transaction.",
+    "tip": "If you ever attend one, expect three rounds of coffee (abol, tona, baraka) — leaving after the first round is considered impolite.",
+    "mistake": "Assuming the ceremony is just 'how Ethiopians make coffee' rather than a deliberate social occasion, often reserved for guests, celebrations, or daily community bonding.",
+    "challenge": "Why might a culture build an hours-long ritual around a drink that takes minutes to brew elsewhere?",
+    "related": [
+      "200",
+      "196"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Ceremonia del Café Etíope",
+        "definition": "Un ritual tradicional de varias horas en Etiopía donde los granos verdes se tuestan, muelen y preparan frescos frente a los invitados en una vasija de barro llamada jebena, normalmente a cargo de una mujer del hogar.",
+        "why": "El café se originó en Etiopía, y la ceremonia sigue siendo el vínculo vivo más claro entre las raíces del café y su consumo actual como un ritual social y pausado, en lugar de una transacción rápida.",
+        "tip": "Si alguna vez asistes a una, espera tres rondas de café (abol, tona, baraka); irse después de la primera ronda se considera de mala educación.",
+        "mistake": "Asumir que la ceremonia es solo 'cómo los etíopes hacen café' en lugar de una ocasión social deliberada, a menudo reservada para invitados, celebraciones o la unión comunitaria diaria.",
+        "challenge": "¿Por qué una cultura construiría un ritual de horas de duración en torno a una bebida que en otros lugares se prepara en minutos?"
+      },
+      "pt": {
+        "title": "A Cerimônia do Café Etíope",
+        "definition": "Um ritual tradicional de várias horas na Etiópia em que os grãos verdes são torrados, moídos e preparados na frente dos convidados em um vaso de barro chamado jebena, geralmente conduzido por uma mulher da casa.",
+        "why": "O café se originou na Etiópia, e a cerimônia continua sendo o vínculo vivo mais claro entre as raízes do café e a forma como ele ainda é consumido como um ritual social e sem pressa, em vez de uma transação rápida.",
+        "tip": "Se você participar de uma, espere três rodadas de café (abol, tona, baraka); sair após a primeira rodada é considerado falta de educação.",
+        "mistake": "Assumir que a cerimônia é apenas 'como os etíopes fazem café' em vez de uma ocasião social deliberada, muitas vezes reservada para convidados, celebrações ou a união comunitária diária.",
+        "challenge": "Por que uma cultura construiria um ritual de horas em torno de uma bebida que em outros lugares leva minutos para ser preparada?"
+      }
+    },
+    "id": 195
+  },
+  {
+    "number": "196",
+    "title": "Turkish Coffee and Fortune-Telling",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Finely ground coffee simmered unfiltered in a small pot called a cezve, served with the grounds still in the cup — traditionally followed by reading patterns left in the sediment to tell fortunes.",
+    "why": "It's one of the oldest brewing methods still practiced today, and the fortune-telling tradition (tasseography) turned drinking coffee into a shared social and cultural performance.",
+    "tip": "Let the cup cool, flip it onto its saucer, and wait a few minutes before 'reading' the grounds — the shapes only form once the liquid has fully drained.",
+    "mistake": "Stirring or drinking the coffee to the very bottom — the thick sediment at the base isn't meant to be consumed.",
+    "challenge": "Why might a brewing method built around leftover sediment become a cherished tradition instead of a flaw to fix?",
+    "related": [
+      "195",
+      "200"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café Turco y la Lectura de la Fortuna",
+        "definition": "Café molido finamente y hervido sin filtrar en una pequeña olla llamada cezve, servido con los posos aún en la taza, tradicionalmente seguido de la lectura de los patrones que dejan los posos para predecir el futuro.",
+        "why": "Es uno de los métodos de preparación más antiguos que aún se practican hoy, y la tradición de la lectura de posos convirtió el acto de beber café en una experiencia social y cultural compartida.",
+        "tip": "Deja enfriar la taza, dale la vuelta sobre el platillo y espera unos minutos antes de 'leer' los posos; las formas solo se revelan una vez que el líquido se ha escurrido por completo.",
+        "mistake": "Remover o beber el café hasta el fondo; los posos espesos del fondo no están pensados para consumirse.",
+        "challenge": "¿Por qué un método de preparación basado en los posos sobrantes podría convertirse en una tradición apreciada en lugar de un defecto a corregir?"
+      },
+      "pt": {
+        "title": "O Café Turco e a Leitura da Sorte",
+        "definition": "Café moído fino, fervido sem filtrar em uma pequena panela chamada cezve, servido com a borra ainda na xícara — tradicionalmente seguido pela leitura dos padrões deixados na borra para prever o futuro.",
+        "why": "É um dos métodos de preparo mais antigos ainda praticados hoje, e a tradição da leitura da borra transformou o ato de beber café em uma experiência social e cultural compartilhada.",
+        "tip": "Deixe a xícara esfriar, vire-a sobre o pires e espere alguns minutos antes de 'ler' a borra; as formas só se revelam depois que o líquido escorre completamente.",
+        "mistake": "Mexer ou beber o café até o fundo; a borra espessa no fundo não deve ser consumida.",
+        "challenge": "Por que um método de preparo baseado na borra que sobra poderia se tornar uma tradição querida em vez de um defeito a corrigir?"
+      }
+    },
+    "id": 196
+  },
+  {
+    "number": "197",
+    "title": "Italian Espresso Bar Culture",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The Italian custom of drinking espresso standing at the bar, quickly and often in silence, rather than sitting down with a large drink to linger over.",
+    "why": "It shapes how much of the world still thinks about espresso — small, strong, fast — and explains why sitting to drink a cappuccino often costs more than standing at the counter in Italy.",
+    "tip": "In most Italian bars, cappuccino is considered a morning-only drink — ordering one after a meal can mark you as a tourist.",
+    "mistake": "Assuming 'Italian coffee culture' means elaborate flavored drinks — the everyday reality is closer to a fast, unadorned shot at the counter.",
+    "challenge": "How might the physical act of standing rather than sitting change the pace and mood of a coffee break?",
+    "related": [
+      "199",
+      "206"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Cultura del Bar de Espresso Italiano",
+        "definition": "La costumbre italiana de tomar espresso de pie en la barra, rápidamente y a menudo en silencio, en lugar de sentarse con una bebida grande para disfrutarla con calma.",
+        "why": "Moldea cómo gran parte del mundo aún concibe el espresso: pequeño, fuerte y rápido, y explica por qué sentarse a tomar un capuchino suele costar más que tomarlo de pie en la barra en Italia.",
+        "tip": "En la mayoría de los bares italianos, el capuchino se considera una bebida exclusivamente matutina; pedirlo después de una comida puede delatarte como turista.",
+        "mistake": "Asumir que la 'cultura del café italiano' significa bebidas elaboradas y saborizadas; la realidad cotidiana se acerca más a un trago rápido y sin adornos en la barra.",
+        "challenge": "¿Cómo podría el hecho físico de estar de pie en lugar de sentado cambiar el ritmo y el ambiente de una pausa para el café?"
+      },
+      "pt": {
+        "title": "A Cultura do Bar de Espresso Italiano",
+        "definition": "O costume italiano de tomar espresso em pé no balcão, rapidamente e muitas vezes em silêncio, em vez de se sentar com uma bebida grande para saboreá-la com calma.",
+        "why": "Molda a forma como boa parte do mundo ainda pensa no espresso: pequeno, forte e rápido, e explica por que sentar para tomar um cappuccino costuma custar mais do que tomá-lo em pé no balcão na Itália.",
+        "tip": "Na maioria dos bares italianos, o cappuccino é considerado uma bebida exclusivamente matinal; pedi-lo depois de uma refeição pode denunciar você como turista.",
+        "mistake": "Assumir que a 'cultura do café italiano' significa bebidas elaboradas e adocicadas; a realidade do dia a dia é mais próxima de um shot rápido e sem enfeites no balcão.",
+        "challenge": "Como o ato físico de ficar em pé em vez de sentado pode mudar o ritmo e o clima de uma pausa para o café?"
+      }
+    },
+    "id": 197
+  },
+  {
+    "number": "198",
+    "title": "Vietnamese Egg Coffee and Condensed Milk Traditions",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Vietnamese coffee traditions built around necessity and adaptation — sweetened condensed milk replacing fresh dairy during shortages, and whipped egg yolk creating the rich, custard-like ca phe trung (egg coffee).",
+    "why": "It shows how a country's coffee culture can be shaped as much by economic history and available ingredients as by taste preference alone.",
+    "tip": "Vietnamese coffee is typically brewed strong through a small metal drip filter called a phin, which is what gives condensed milk drinks their balance against the bitterness.",
+    "mistake": "Treating egg coffee as a novelty drink rather than a genuine regional tradition with its own technique and history.",
+    "challenge": "What does it say about a coffee culture when its most iconic drink was born from a dairy shortage rather than abundance?",
+    "related": [
+      "195",
+      "203"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café con Huevo Vietnamita y las Tradiciones de Leche Condensada",
+        "definition": "Tradiciones cafeteras vietnamitas construidas sobre la necesidad y la adaptación: la leche condensada azucarada reemplazando a los lácteos frescos durante la escasez, y la yema de huevo batida creando el rico y cremoso ca phe trung (café con huevo).",
+        "why": "Muestra cómo la cultura cafetera de un país puede estar moldeada tanto por la historia económica y los ingredientes disponibles como por las preferencias de sabor.",
+        "tip": "El café vietnamita suele prepararse fuerte a través de un pequeño filtro de goteo metálico llamado phin, lo que equilibra las bebidas con leche condensada frente a su amargor.",
+        "mistake": "Tratar el café con huevo como una bebida novedosa en lugar de una tradición regional genuina con su propia técnica e historia.",
+        "challenge": "¿Qué dice sobre una cultura cafetera que su bebida más icónica haya nacido de una escasez de lácteos en lugar de la abundancia?"
+      },
+      "pt": {
+        "title": "O Café com Ovo Vietnamita e as Tradições de Leite Condensado",
+        "definition": "Tradições cafeeiras vietnamitas construídas sobre necessidade e adaptação: o leite condensado açucarado substituindo o leite fresco durante escassezes, e a gema de ovo batida criando o rico e cremoso ca phe trung (café com ovo).",
+        "why": "Mostra como a cultura cafeeira de um país pode ser moldada tanto pela história econômica e pelos ingredientes disponíveis quanto pela preferência de sabor.",
+        "tip": "O café vietnamita costuma ser preparado forte através de um pequeno filtro de gotejamento metálico chamado phin, o que equilibra as bebidas com leite condensado contra o amargor.",
+        "mistake": "Tratar o café com ovo como uma bebida novidade em vez de uma tradição regional genuína com técnica e história próprias.",
+        "challenge": "O que isso diz sobre uma cultura cafeeira quando sua bebida mais icônica nasceu de uma escassez de laticínios em vez de abundância?"
+      }
+    },
+    "id": 198
+  },
+  {
+    "number": "199",
+    "title": "Scandinavian Fika",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A Swedish social tradition centered on taking a deliberate break for coffee and a small pastry, prioritizing connection and slowing down over productivity.",
+    "why": "It's become a widely referenced example of coffee as a scheduled, protected social ritual rather than fuel grabbed on the way to something else.",
+    "tip": "Fika is typically a verb as much as a noun — 'to fika' means the act of pausing to share coffee, not just the coffee itself.",
+    "mistake": "Rushing through fika or treating it as a quick caffeine break — the point is the unhurried pause, not the coffee alone.",
+    "challenge": "Why might a culture build workplace norms around protected coffee breaks rather than leaving them informal?",
+    "related": [
+      "197",
+      "208"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Fika Escandinavo",
+        "definition": "Una tradición social sueca centrada en tomar una pausa deliberada para el café y un pequeño pastel, priorizando la conexión y la desaceleración por encima de la productividad.",
+        "why": "Se ha convertido en un ejemplo ampliamente referenciado del café como un ritual social programado y protegido, en lugar de un combustible que se toma de paso hacia otra cosa.",
+        "tip": "El fika suele ser tanto un verbo como un sustantivo: 'hacer fika' significa el acto de pausar para compartir café, no solo el café en sí.",
+        "mistake": "Apresurar el fika o tratarlo como una pausa rápida de cafeína; lo importante es la pausa sin prisas, no solo el café.",
+        "challenge": "¿Por qué una cultura construiría normas laborales en torno a pausas de café protegidas en lugar de dejarlas informales?"
+      },
+      "pt": {
+        "title": "O Fika Escandinavo",
+        "definition": "Uma tradição social sueca centrada em fazer uma pausa deliberada para o café e um pequeno doce, priorizando a conexão e desacelerar em vez da produtividade.",
+        "why": "Tornou-se um exemplo amplamente citado do café como um ritual social programado e protegido, em vez de um combustível tomado a caminho de outra coisa.",
+        "tip": "Fika costuma ser tanto um verbo quanto um substantivo: 'fazer fika' significa o ato de pausar para compartilhar café, não apenas o café em si.",
+        "mistake": "Apressar o fika ou tratá-lo como uma pausa rápida de cafeína; o importante é a pausa sem pressa, não apenas o café.",
+        "challenge": "Por que uma cultura criaria normas de trabalho em torno de pausas de café protegidas em vez de deixá-las informais?"
+      }
+    },
+    "id": 199
+  },
+  {
+    "number": "200",
+    "title": "Arabic Qahwa and Hospitality Rituals",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A lightly roasted, cardamom-spiced coffee served in small handleless cups across the Gulf and broader Arab world, poured from a distinctive long-spouted pot called a dallah as a core act of hospitality.",
+    "why": "Refusing qahwa when offered can be seen as declining hospitality itself — the drink is inseparable from the social obligation of welcoming a guest.",
+    "tip": "Gently shake your empty cup side to side when you're finished — this is the customary signal that you don't want a refill.",
+    "mistake": "Comparing qahwa directly to Italian or Turkish coffee — its light roast, cardamom spicing, and small-portion hospitality role make it a distinct tradition, not a variation of another.",
+    "challenge": "What changes about a drink once accepting or declining it becomes a social signal rather than just a beverage choice?",
+    "related": [
+      "195",
+      "196"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Qahwa Árabe y los Rituales de Hospitalidad",
+        "definition": "Un café de tueste ligero y especiado con cardamomo, servido en pequeñas tazas sin asa en el Golfo y el mundo árabe en general, vertido desde una peculiar cafetera de pico largo llamada dallah como un acto central de hospitalidad.",
+        "why": "Rechazar el qahwa cuando se ofrece puede verse como rechazar la hospitalidad misma; la bebida es inseparable de la obligación social de dar la bienvenida a un invitado.",
+        "tip": "Agita suavemente tu taza vacía de lado a lado cuando termines; esta es la señal habitual para indicar que no quieres que te vuelvan a servir.",
+        "mistake": "Comparar el qahwa directamente con el café italiano o turco; su tueste ligero, su especiado con cardamomo y su papel de hospitalidad en pequeñas porciones lo convierten en una tradición distinta, no en una variación de otra.",
+        "challenge": "¿Qué cambia en una bebida cuando aceptarla o rechazarla se convierte en una señal social en lugar de una simple elección de bebida?"
+      },
+      "pt": {
+        "title": "O Qahwa Árabe e os Rituais de Hospitalidade",
+        "definition": "Um café de torra leve e temperado com cardamomo, servido em pequenas xícaras sem alça em todo o Golfo e no mundo árabe em geral, servido de uma cafeteira distinta de bico longo chamada dallah como um ato central de hospitalidade.",
+        "why": "Recusar o qahwa quando oferecido pode ser visto como recusar a própria hospitalidade; a bebida é inseparável da obrigação social de receber bem um convidado.",
+        "tip": "Balance suavemente sua xícara vazia de um lado para o outro quando terminar; esse é o sinal costumeiro de que você não quer que a encham novamente.",
+        "mistake": "Comparar o qahwa diretamente ao café italiano ou turco; sua torra leve, o tempero com cardamomo e o papel de hospitalidade em pequenas porções o tornam uma tradição distinta, não uma variação de outra.",
+        "challenge": "O que muda em uma bebida quando aceitá-la ou recusá-la se torna um sinal social em vez de apenas uma escolha de bebida?"
+      }
+    },
+    "id": 200
+  },
+  {
+    "number": "201",
+    "title": "Japanese Kissaten Culture",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Old-style Japanese coffee houses (kissaten) known for meticulous pour-over preparation, quiet atmospheres, and often decades-old, unchanged interiors and menus.",
+    "why": "Kissaten predate Japan's modern specialty coffee scene by generations and show that slow, precise, single-cup brewing was a lived tradition long before 'third wave' coffee named it as a trend.",
+    "tip": "Many kissaten owners have brewed the same way for 40+ years — the ritual and consistency are often valued as much as the coffee itself.",
+    "mistake": "Assuming meticulous pour-over culture is a recent Western import — Japan has practiced it as an everyday craft since well before it became a global specialty-coffee trend.",
+    "challenge": "What's lost or gained when a slow, personal craft becomes formalized into a global movement with its own terminology?",
+    "related": [
+      "197",
+      "207"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Cultura del Kissaten Japonés",
+        "definition": "Cafeterías japonesas de estilo antiguo (kissaten) conocidas por su meticulosa preparación por goteo, ambientes tranquilos e interiores y menús que a menudo permanecen sin cambios durante décadas.",
+        "why": "Los kissaten son anteriores en generaciones a la moderna escena del café de especialidad en Japón y demuestran que la preparación lenta y precisa de una sola taza era una tradición vivida mucho antes de que la 'tercera ola' del café la nombrara como tendencia.",
+        "tip": "Muchos dueños de kissaten han preparado el café de la misma manera durante más de 40 años; el ritual y la constancia suelen valorarse tanto como el café mismo.",
+        "mistake": "Asumir que la meticulosa cultura del café por goteo es una importación occidental reciente; Japón la practica como un oficio cotidiano desde mucho antes de que se convirtiera en una tendencia global de café de especialidad.",
+        "challenge": "¿Qué se pierde o se gana cuando un oficio lento y personal se formaliza en un movimiento global con su propia terminología?"
+      },
+      "pt": {
+        "title": "A Cultura do Kissaten Japonês",
+        "definition": "Cafeterias japonesas de estilo antigo (kissaten) conhecidas pelo preparo meticuloso por gotejamento, ambientes silenciosos e interiores e cardápios que muitas vezes permanecem inalterados por décadas.",
+        "why": "Os kissaten são anteriores em gerações à moderna cena de café especial do Japão e mostram que o preparo lento e preciso de xícara única era uma tradição vivida muito antes de a 'terceira onda' do café nomeá-la como tendência.",
+        "tip": "Muitos donos de kissaten preparam café da mesma forma há mais de 40 anos; o ritual e a consistência costumam ser valorizados tanto quanto o café em si.",
+        "mistake": "Assumir que a cultura meticulosa do café por gotejamento é uma importação ocidental recente; o Japão a pratica como um ofício cotidiano muito antes de ela se tornar uma tendência global de café especial.",
+        "challenge": "O que se perde ou se ganha quando um ofício lento e pessoal é formalizado em um movimento global com terminologia própria?"
+      }
+    },
+    "id": 201
+  },
+  {
+    "number": "202",
+    "title": "Cuban Cafecito and Community",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A strong, heavily sweetened shot of espresso, traditionally shared among friends, family, or coworkers from a single small pot rather than drunk alone.",
+    "why": "Cafecito functions as a social pause built into daily life in Cuban and Cuban-American communities — offering or sharing one is a small but meaningful gesture of connection.",
+    "tip": "The sugar is typically whipped with the first drops of espresso into a foam called espuma before the rest is added — not stirred in afterward.",
+    "mistake": "Treating cafecito as just 'Cuban espresso' — the communal sharing and the espuma technique are as central to the tradition as the coffee itself.",
+    "challenge": "How does sharing a drink from one pot change its social meaning compared to everyone ordering their own?",
+    "related": [
+      "199",
+      "208"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Cafecito Cubano y la Comunidad",
+        "definition": "Un shot de espresso fuerte y muy azucarado, tradicionalmente compartido entre amigos, familiares o compañeros de trabajo desde una sola cafetera pequeña, en lugar de beberse solo.",
+        "why": "El cafecito funciona como una pausa social integrada en la vida diaria de las comunidades cubanas y cubanoamericanas; ofrecer o compartir uno es un pequeño pero significativo gesto de conexión.",
+        "tip": "El azúcar suele batirse con las primeras gotas de espresso hasta formar una espuma llamada espuma, antes de añadir el resto, no se revuelve después.",
+        "mistake": "Tratar el cafecito como simplemente 'espresso cubano'; el compartir comunitario y la técnica de la espuma son tan centrales para la tradición como el café en sí.",
+        "challenge": "¿Cómo cambia el significado social de una bebida el hecho de compartirla desde una sola cafetera en comparación con que cada uno pida la suya?"
+      },
+      "pt": {
+        "title": "O Cafezinho Cubano e a Comunidade",
+        "definition": "Um shot de espresso forte e muito adoçado, tradicionalmente compartilhado entre amigos, familiares ou colegas de trabalho a partir de uma única panelinha, em vez de bebido sozinho.",
+        "why": "O cafecito funciona como uma pausa social embutida na vida diária das comunidades cubanas e cubano-americanas; oferecer ou compartilhar um é um gesto pequeno, mas significativo, de conexão.",
+        "tip": "O açúcar costuma ser batido com as primeiras gotas de espresso até formar uma espuma chamada espuma, antes de o restante ser adicionado, não misturado depois.",
+        "mistake": "Tratar o cafecito como apenas 'espresso cubano'; o compartilhamento comunitário e a técnica da espuma são tão centrais para a tradição quanto o café em si.",
+        "challenge": "Como compartilhar uma bebida de uma única panela muda seu significado social em comparação a cada pessoa pedir a sua?"
+      }
+    },
+    "id": 202
+  },
+  {
+    "number": "203",
+    "title": "Colombian Tinto Street Coffee Culture",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Tinto is everyday black coffee sold cheaply from street carts and small stalls across Colombia — often lower-grade beans than the country's famous export crop, brewed strong and lightly sweetened.",
+    "why": "It highlights a common irony in producing countries: much of the best coffee is grown for export, while everyday domestic drinking culture runs on cheaper, simpler brews.",
+    "tip": "Tinto vendors (tinteros) are a fixture of Colombian street life, often known personally by regular customers in their neighborhood.",
+    "mistake": "Assuming a coffee-producing country's everyday drinking habits reflect its export-quality reputation — domestic consumption often looks very different from what gets shipped abroad.",
+    "challenge": "Why might a country's most visible daily coffee culture look nothing like the coffee it's internationally known for?",
+    "related": [
+      "198",
+      "210"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Cultura del Tinto Callejero Colombiano",
+        "definition": "El tinto es el café negro cotidiano que se vende barato en carritos callejeros y pequeños puestos por toda Colombia; a menudo con granos de menor calidad que el famoso cultivo de exportación del país, preparado fuerte y ligeramente endulzado.",
+        "why": "Destaca una ironía común en los países productores: gran parte del mejor café se cultiva para exportar, mientras que la cultura de consumo doméstico diario funciona con brebajes más baratos y sencillos.",
+        "tip": "Los vendedores de tinto (tinteros) son una constante en la vida callejera colombiana, a menudo conocidos personalmente por los clientes habituales de su barrio.",
+        "mistake": "Asumir que los hábitos de consumo diario de un país productor de café reflejan su reputación de calidad de exportación; el consumo doméstico suele ser muy diferente de lo que se envía al extranjero.",
+        "challenge": "¿Por qué la cultura cafetera diaria más visible de un país podría no parecerse en nada al café por el que es conocido internacionalmente?"
+      },
+      "pt": {
+        "title": "A Cultura do Tinto de Rua Colombiano",
+        "definition": "O tinto é o café preto cotidiano vendido barato em carrinhos de rua e pequenas bancas por toda a Colômbia; muitas vezes com grãos de qualidade inferior à famosa safra de exportação do país, preparado forte e levemente adoçado.",
+        "why": "Destaca uma ironia comum em países produtores: boa parte do melhor café é cultivada para exportação, enquanto a cultura de consumo doméstico do dia a dia funciona com bebidas mais baratas e simples.",
+        "tip": "Os vendedores de tinto (tinteros) são um elemento constante da vida de rua colombiana, muitas vezes conhecidos pessoalmente pelos clientes habituais do bairro.",
+        "mistake": "Assumir que os hábitos de consumo diário de um país produtor de café refletem sua reputação de qualidade de exportação; o consumo doméstico costuma ser muito diferente do que é enviado ao exterior.",
+        "challenge": "Por que a cultura cafeeira diária mais visível de um país pode não se parecer em nada com o café pelo qual ele é internacionalmente conhecido?"
+      }
+    },
+    "id": 203
+  },
+  {
+    "number": "204",
+    "title": "Coffeehouses as Birthplaces of Ideas",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Historic coffeehouses across Europe and colonial America served as informal meeting grounds where merchants, writers, scientists, and revolutionaries gathered to debate, trade, and organize.",
+    "why": "It explains why coffeehouses are so often credited with incubating institutions and movements — from insurance markets to Enlightenment philosophy to political organizing — simply by giving diverse people a shared, affordable place to talk.",
+    "tip": "Look at this deck's History section for concrete examples — Lloyd's of London, the Tontine Coffee House, and Café Procope all trace real institutions back to coffeehouse conversations.",
+    "mistake": "Treating this as vague nostalgia rather than a specific historical pattern — coffeehouses succeeded at this because they were cheap, sober, and open to mixed company in eras when few other spaces were.",
+    "challenge": "What made coffeehouses better suited to this role than taverns, which were older and more common?",
+    "related": [
+      "177",
+      "178"
+    ],
+    "translations": {
+      "es": {
+        "title": "Las Cafeterías como Cuna de Ideas",
+        "definition": "Las cafeterías históricas de Europa y la América colonial funcionaron como puntos de encuentro informales donde comerciantes, escritores, científicos y revolucionarios se reunían para debatir, comerciar y organizarse.",
+        "why": "Explica por qué a las cafeterías se les atribuye tan a menudo el haber incubado instituciones y movimientos, desde mercados de seguros hasta la filosofía de la Ilustración y la organización política, simplemente al ofrecer a personas diversas un lugar compartido y asequible para hablar.",
+        "tip": "Revisa la sección de Historia de esta baraja para ejemplos concretos; Lloyd's de Londres, la Tontine Coffee House y el Café Procope trazan instituciones reales hasta conversaciones en cafeterías.",
+        "mistake": "Tratar esto como una nostalgia vaga en lugar de un patrón histórico específico; las cafeterías tuvieron éxito en este papel porque eran baratas, sobrias y abiertas a compañías mixtas en épocas en que pocos otros espacios lo eran.",
+        "challenge": "¿Qué hizo que las cafeterías fueran más adecuadas para este papel que las tabernas, que eran más antiguas y comunes?"
+      },
+      "pt": {
+        "title": "As Cafeterias como Berço de Ideias",
+        "definition": "As cafeterias históricas da Europa e da América colonial funcionaram como pontos de encontro informais onde comerciantes, escritores, cientistas e revolucionários se reuniam para debater, negociar e se organizar.",
+        "why": "Explica por que as cafeterias são tão frequentemente creditadas por incubar instituições e movimentos, de mercados de seguros à filosofia do Iluminismo e à organização política, simplesmente por oferecer a pessoas diversas um espaço compartilhado e acessível para conversar.",
+        "tip": "Veja a seção de História deste baralho para exemplos concretos; a Lloyd's de Londres, a Tontine Coffee House e o Café Procope têm origem real em conversas de cafeteria.",
+        "mistake": "Tratar isso como uma nostalgia vaga em vez de um padrão histórico específico; as cafeterias tiveram sucesso nesse papel porque eram baratas, sóbrias e abertas a públicos mistos em épocas em que poucos outros espaços eram.",
+        "challenge": "O que tornou as cafeterias mais adequadas para esse papel do que as tabernas, que eram mais antigas e comuns?"
+      }
+    },
+    "id": 204
+  },
+  {
+    "number": "205",
+    "title": "Coffee in Literature and Film",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee and cafés recur across literature and film as shorthand for reflection, conversation, and turning points — from Balzac's legendary coffee habit to countless café scenes used to signal intimacy or crisis.",
+    "why": "Storytellers reach for coffee scenes because a shared cup gives characters a natural, low-stakes reason to sit still and talk — doing real narrative work without needing an explanation.",
+    "tip": "Notice how often a film's most important conversation happens over coffee rather than a meal — it signals a pause, not a plan.",
+    "mistake": "Assuming coffee's presence in a story is just realistic detail — it's frequently a deliberate narrative device signaling mood, pacing, or relationship.",
+    "challenge": "Why might a coffee scene read as more intimate on screen than a scene set over a full meal?",
+    "related": [
+      "204",
+      "209"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café en la Literatura y el Cine",
+        "definition": "El café y las cafeterías reaparecen en la literatura y el cine como una forma abreviada de representar la reflexión, la conversación y los puntos de inflexión; desde el legendario hábito cafetero de Balzac hasta innumerables escenas de cafetería usadas para señalar intimidad o crisis.",
+        "why": "Los narradores recurren a escenas de café porque una taza compartida da a los personajes una razón natural y de bajo riesgo para sentarse a hablar, cumpliendo una función narrativa real sin necesidad de explicación.",
+        "tip": "Fíjate en cuán a menudo la conversación más importante de una película ocurre tomando café en lugar de durante una comida; eso señala una pausa, no un plan.",
+        "mistake": "Asumir que la presencia del café en una historia es solo un detalle realista; con frecuencia es un recurso narrativo deliberado que señala el ánimo, el ritmo o la relación entre personajes.",
+        "challenge": "¿Por qué una escena de café puede resultar más íntima en pantalla que una escena ambientada durante una comida completa?"
+      },
+      "pt": {
+        "title": "O Café na Literatura e no Cinema",
+        "definition": "O café e as cafeterias reaparecem na literatura e no cinema como uma forma abreviada de representar reflexão, conversa e pontos de virada; do lendário hábito cafeeiro de Balzac a inúmeras cenas de café usadas para sinalizar intimidade ou crise.",
+        "why": "Os narradores recorrem a cenas de café porque uma xícara compartilhada dá aos personagens uma razão natural e de baixo risco para sentar e conversar, cumprindo uma função narrativa real sem precisar de explicação.",
+        "tip": "Repare em como a conversa mais importante de um filme costuma acontecer tomando café em vez de durante uma refeição; isso sinaliza uma pausa, não um plano.",
+        "mistake": "Assumir que a presença do café em uma história é apenas um detalhe realista; frequentemente é um recurso narrativo deliberado que sinaliza clima, ritmo ou relação entre personagens.",
+        "challenge": "Por que uma cena de café pode parecer mais íntima na tela do que uma cena ambientada em uma refeição completa?"
+      }
+    },
+    "id": 205
+  },
+  {
+    "number": "206",
+    "title": "Coffee and Café Work Culture",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The modern habit of working, studying, or taking meetings from cafés rather than an office — treating a café as a semi-public workspace rather than purely a place to socialize.",
+    "why": "It's reshaped how cafés design their space (outlets, wifi, longer stay policies) and reflects a broader shift toward flexible, location-independent work.",
+    "tip": "Some cafés set informal laptop-free hours or seating limits during peak times — worth checking before settling in for a long work session.",
+    "mistake": "Assuming café work culture is universal — it's far more common in some countries and cities than others, and etiquette (buying more, time limits) varies a lot by location.",
+    "challenge": "What does a café gain and lose commercially by welcoming long-staying laptop workers over faster table turnover?",
+    "related": [
+      "197",
+      "208"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café y la Cultura del Trabajo en Cafeterías",
+        "definition": "El hábito moderno de trabajar, estudiar o tener reuniones desde cafeterías en lugar de una oficina, tratando la cafetería como un espacio de trabajo semipúblico en lugar de un lugar puramente social.",
+        "why": "Ha remodelado la forma en que las cafeterías diseñan su espacio (enchufes, wifi, políticas de estancia más largas) y refleja un cambio más amplio hacia el trabajo flexible e independiente de la ubicación.",
+        "tip": "Algunas cafeterías establecen horarios informales sin portátiles o límites de asientos en horas punta; vale la pena consultarlo antes de instalarse para una larga sesión de trabajo.",
+        "mistake": "Asumir que la cultura del trabajo en cafeterías es universal; es mucho más común en algunos países y ciudades que en otros, y la etiqueta (comprar más, límites de tiempo) varía mucho según el lugar.",
+        "challenge": "¿Qué gana y pierde comercialmente una cafetería al recibir a trabajadores con portátiles que se quedan mucho tiempo en lugar de una rotación de mesas más rápida?"
+      },
+      "pt": {
+        "title": "O Café e a Cultura de Trabalho em Cafeterias",
+        "definition": "O hábito moderno de trabalhar, estudar ou fazer reuniões em cafeterias em vez de um escritório, tratando a cafeteria como um espaço de trabalho semipúblico em vez de um lugar puramente social.",
+        "why": "Remodelou a forma como as cafeterias projetam seus espaços (tomadas, wifi, políticas de permanência mais longa) e reflete uma mudança mais ampla em direção ao trabalho flexível e independente de localização.",
+        "tip": "Algumas cafeterias estabelecem horários informais sem laptops ou limites de assentos em horários de pico; vale a pena verificar antes de se instalar para uma longa sessão de trabalho.",
+        "mistake": "Assumir que a cultura de trabalho em cafeterias é universal; é muito mais comum em alguns países e cidades do que em outros, e a etiqueta (comprar mais, limites de tempo) varia bastante conforme o local.",
+        "challenge": "O que uma cafeteria ganha e perde comercialmente ao acolher trabalhadores com laptop que ficam muito tempo, em vez de uma rotatividade de mesas mais rápida?"
+      }
+    },
+    "id": 206
+  },
+  {
+    "number": "207",
+    "title": "Latte Art as Craft",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The practice of pouring steamed milk into espresso to create patterns like hearts, rosettas, and tulips — now treated as a distinct skill with its own competitions, techniques, and status within specialty coffee.",
+    "why": "It turned a barista's technical milk-steaming skill into a visible, shareable craft — something a customer can appreciate and photograph without needing to understand espresso extraction at all.",
+    "tip": "Latte art quality depends heavily on microfoam texture, not just pouring technique — thin, glossy milk with tiny bubbles is what makes clean patterns possible.",
+    "mistake": "Judging a barista's overall skill by latte art alone — a beautiful pour and a well-balanced, well-extracted shot are related but separate skills.",
+    "challenge": "Why might a purely visual skill like latte art become such a significant status marker within a craft centered on taste?",
+    "related": [
+      "201",
+      "197"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Arte Latte como Oficio",
+        "definition": "La práctica de verter leche vaporizada en el espresso para crear patrones como corazones, rosetas y tulipanes, ahora tratada como una habilidad distinta con sus propias competencias, técnicas y estatus dentro del café de especialidad.",
+        "why": "Convirtió la habilidad técnica de un barista para vaporizar leche en un oficio visible y compartible, algo que un cliente puede apreciar y fotografiar sin necesidad de entender en absoluto la extracción del espresso.",
+        "tip": "La calidad del arte latte depende en gran medida de la textura de la microespuma, no solo de la técnica de vertido; una leche fina y brillante con burbujas diminutas es lo que hace posibles los patrones limpios.",
+        "mistake": "Juzgar la habilidad general de un barista solo por el arte latte; un vertido hermoso y un shot bien equilibrado y bien extraído son habilidades relacionadas pero distintas.",
+        "challenge": "¿Por qué una habilidad puramente visual como el arte latte podría convertirse en un marcador de estatus tan importante dentro de un oficio centrado en el sabor?"
+      },
+      "pt": {
+        "title": "A Arte Latte como Ofício",
+        "definition": "A prática de despejar leite vaporizado no espresso para criar padrões como corações, rosetas e tulipas, hoje tratada como uma habilidade distinta com suas próprias competições, técnicas e status dentro do café especial.",
+        "why": "Transformou a habilidade técnica de um barista de vaporizar leite em um ofício visível e compartilhável, algo que um cliente pode apreciar e fotografar sem precisar entender nada sobre extração de espresso.",
+        "tip": "A qualidade da arte latte depende muito da textura da microespuma, não apenas da técnica de despejo; um leite fino e brilhante com bolhas minúsculas é o que torna possíveis os padrões limpos.",
+        "mistake": "Julgar a habilidade geral de um barista apenas pela arte latte; um despejo bonito e um shot bem equilibrado e bem extraído são habilidades relacionadas, mas distintas.",
+        "challenge": "Por que uma habilidade puramente visual como a arte latte poderia se tornar um marcador de status tão importante dentro de um ofício centrado no sabor?"
+      }
+    },
+    "id": 207
+  },
+  {
+    "number": "208",
+    "title": "Coffee Breaks and Workplace Ritual",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The scheduled coffee break became a standard feature of office and factory life in the 20th century, formalizing a pause that had previously been informal or unpaid.",
+    "why": "It shows how a drink habit became embedded in labor norms and law in many countries, changing coffee from a personal choice into a built-in structural feature of the working day.",
+    "tip": "The phrase 'coffee break' only entered common use in the mid-20th century, even though informal work pauses for coffee existed long before.",
+    "mistake": "Assuming coffee breaks have always been a formal, protected part of work — in most places, they became standardized fairly recently and vary widely by country and industry.",
+    "challenge": "What might change in a workplace's culture once an informal habit becomes an official, scheduled break?",
+    "related": [
+      "199",
+      "202"
+    ],
+    "translations": {
+      "es": {
+        "title": "Las Pausas de Café y el Ritual Laboral",
+        "definition": "La pausa de café programada se convirtió en una característica estándar de la vida en oficinas y fábricas en el siglo XX, formalizando una pausa que antes era informal o no remunerada.",
+        "why": "Muestra cómo un hábito de bebida quedó integrado en las normas laborales y las leyes de muchos países, transformando el café de una elección personal en una característica estructural incorporada a la jornada laboral.",
+        "tip": "La expresión 'pausa de café' solo se popularizó a mediados del siglo XX, aunque las pausas informales de trabajo para tomar café existían desde mucho antes.",
+        "mistake": "Asumir que las pausas de café siempre han sido una parte formal y protegida del trabajo; en la mayoría de los lugares se estandarizaron bastante recientemente y varían mucho según el país y la industria.",
+        "challenge": "¿Qué podría cambiar en la cultura de un lugar de trabajo una vez que un hábito informal se convierte en una pausa oficial y programada?"
+      },
+      "pt": {
+        "title": "As Pausas para o Café e o Ritual do Trabalho",
+        "definition": "A pausa programada para o café tornou-se uma característica padrão da vida em escritórios e fábricas no século 20, formalizando uma pausa que antes era informal ou não remunerada.",
+        "why": "Mostra como um hábito de consumo ficou incorporado às normas trabalhistas e às leis de muitos países, transformando o café de uma escolha pessoal em um recurso estrutural embutido na jornada de trabalho.",
+        "tip": "A expressão 'pausa para o café' só entrou em uso comum em meados do século 20, embora pausas informais de trabalho para tomar café existissem muito antes.",
+        "mistake": "Assumir que as pausas para café sempre foram uma parte formal e protegida do trabalho; na maioria dos lugares, elas se padronizaram há relativamente pouco tempo e variam muito conforme o país e o setor.",
+        "challenge": "O que pode mudar na cultura de um local de trabalho quando um hábito informal se torna uma pausa oficial e programada?"
+      }
+    },
+    "id": 208
+  },
+  {
+    "number": "209",
+    "title": "Coffee in Music",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee has been a recurring subject and setting in music for centuries — from Bach's 18th-century Coffee Cantata poking fun at coffee-obsessed daughters, to countless jazz-era songs set in cafés and clubs.",
+    "why": "It shows coffee wasn't just a backdrop for culture but an actual subject artists chose to write about, satirize, and set scenes around — evidence of how deeply it was embedded in daily and social life.",
+    "tip": "Bach's Coffee Cantata is a comic piece — worth listening to as satire of 18th-century coffee obsession, not a serious ode to the drink.",
+    "mistake": "Assuming music about coffee is a modern phenomenon — it stretches back centuries and spans wildly different genres and tones, from classical satire to jazz-club romanticism.",
+    "challenge": "Why might a composer choose a drink, rather than a person or event, as the subject of a satirical piece?",
+    "related": [
+      "191",
+      "205"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café en la Música",
+        "definition": "El café ha sido un tema y escenario recurrente en la música durante siglos; desde la Cantata del Café de Bach del siglo XVIII, que se burla de las hijas obsesionadas con el café, hasta innumerables canciones de la era del jazz ambientadas en cafeterías y clubes.",
+        "why": "Demuestra que el café no era solo un telón de fondo cultural, sino un tema real que los artistas elegían para escribir, satirizar y ambientar escenas; evidencia de lo profundamente arraigado que estaba en la vida cotidiana y social.",
+        "tip": "La Cantata del Café de Bach es una pieza cómica; vale la pena escucharla como una sátira de la obsesión por el café del siglo XVIII, no como una oda seria a la bebida.",
+        "mistake": "Asumir que la música sobre el café es un fenómeno moderno; se remonta siglos atrás y abarca géneros y tonos muy distintos, desde la sátira clásica hasta el romanticismo de los clubes de jazz.",
+        "challenge": "¿Por qué un compositor podría elegir una bebida, en lugar de una persona o un evento, como tema de una pieza satírica?"
+      },
+      "pt": {
+        "title": "O Café na Música",
+        "definition": "O café tem sido um tema e cenário recorrente na música há séculos; desde a Cantata do Café de Bach, do século 18, que zomba de filhas obcecadas por café, até inúmeras canções da era do jazz ambientadas em cafés e clubes.",
+        "why": "Mostra que o café não era apenas um pano de fundo cultural, mas um tema real que artistas escolhiam para escrever, satirizar e ambientar cenas; evidência de quão profundamente ele estava incorporado à vida cotidiana e social.",
+        "tip": "A Cantata do Café de Bach é uma peça cômica; vale a pena ouvi-la como sátira da obsessão pelo café do século 18, não como uma ode séria à bebida.",
+        "mistake": "Assumir que a música sobre café é um fenômeno moderno; ela remonta a séculos atrás e abrange gêneros e tons muito diferentes, da sátira clássica ao romantismo dos clubes de jazz.",
+        "challenge": "Por que um compositor escolheria uma bebida, em vez de uma pessoa ou evento, como tema de uma peça satírica?"
+      }
+    },
+    "id": 209
+  },
+  {
+    "number": "210",
+    "title": "Coffee as Global Trade Diplomacy",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee has repeatedly shaped and been shaped by international trade politics — from colonial-era production controlled by empires to modern fair trade movements and international price agreements between producing and consuming nations.",
+    "why": "It connects the cup in front of a drinker to a long chain of trade agreements, labor conditions, and price negotiations that most casual drinkers never think about.",
+    "tip": "Fair trade and direct trade are different systems with different guarantees — fair trade sets a price floor and standards, direct trade is a relationship a roaster builds directly with a specific farm.",
+    "mistake": "Treating 'ethically sourced' coffee as a single, uniform standard — certifications and direct relationships vary widely in what they actually guarantee.",
+    "challenge": "Why might a roaster choose a direct relationship with one farm over a broader certification that covers many?",
+    "related": [
+      "187",
+      "188"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café como Diplomacia Comercial Global",
+        "definition": "El café ha moldeado y ha sido moldeado repetidamente por la política del comercio internacional; desde la producción de la época colonial controlada por imperios hasta los movimientos modernos de comercio justo y los acuerdos internacionales de precios entre naciones productoras y consumidoras.",
+        "why": "Conecta la taza frente a quien la bebe con una larga cadena de acuerdos comerciales, condiciones laborales y negociaciones de precios en las que la mayoría de los bebedores casuales nunca piensan.",
+        "tip": "El comercio justo y el comercio directo son sistemas diferentes con garantías distintas; el comercio justo establece un precio mínimo y estándares, mientras que el comercio directo es una relación que un tostador construye directamente con una finca específica.",
+        "mistake": "Tratar el café 'de origen ético' como un estándar único y uniforme; las certificaciones y las relaciones directas varían mucho en lo que realmente garantizan.",
+        "challenge": "¿Por qué un tostador podría elegir una relación directa con una sola finca en lugar de una certificación más amplia que cubra a muchas?"
+      },
+      "pt": {
+        "title": "O Café como Diplomacia Comercial Global",
+        "definition": "O café tem repetidamente moldado e sido moldado pela política do comércio internacional; da produção da era colonial controlada por impérios aos movimentos modernos de comércio justo e acordos internacionais de preços entre nações produtoras e consumidoras.",
+        "why": "Conecta a xícara diante de quem bebe a uma longa cadeia de acordos comerciais, condições de trabalho e negociações de preços em que a maioria dos consumidores casuais nunca pensa.",
+        "tip": "Comércio justo e comércio direto são sistemas diferentes com garantias diferentes; o comércio justo estabelece um preço mínimo e padrões, enquanto o comércio direto é uma relação que um torrefador constrói diretamente com uma fazenda específica.",
+        "mistake": "Tratar café 'de origem ética' como um padrão único e uniforme; certificações e relações diretas variam muito no que realmente garantem.",
+        "challenge": "Por que um torrefador poderia escolher uma relação direta com uma única fazenda em vez de uma certificação mais ampla que cubra muitas?"
+      }
+    },
+    "id": 210
   }
 ]
