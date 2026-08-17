@@ -6750,5 +6750,401 @@
       }
     },
     "id": 183
+  },
+  {
+    "number": "184",
+    "title": "Yemen and the First Cultivated Coffee",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "While coffee likely originated wild in Ethiopia, it was Sufi monasteries in 15th-century Yemen that first deliberately cultivated and brewed it, using it to stay alert through long nights of prayer.",
+    "why": "This is the actual historical starting point for coffee as a cultivated, brewed drink, distinct from the earlier Ethiopian legends about its discovery.",
+    "tip": "Separate 'where coffee grew wild' (Ethiopia) from 'where coffee was first deliberately cultivated and brewed' (Yemen) — they're different claims.",
+    "mistake": "Treating Ethiopia and Yemen as interchangeable in coffee's origin story rather than two distinct stages.",
+    "challenge": "Why might a religious practice, rather than trade or agriculture, have been the first driver of deliberate coffee cultivation?",
+    "related": [
+      "175",
+      "092"
+    ],
+    "translations": {
+      "es": {
+        "title": "Yemen y el Primer Café Cultivado",
+        "definition": "Aunque el café probablemente se originó de forma silvestre en Etiopía, fueron los monasterios sufíes del Yemen del siglo XV los primeros en cultivarlo y prepararlo deliberadamente, usándolo para mantenerse despiertos durante largas noches de oración.",
+        "why": "Este es el verdadero punto de partida histórico del café como bebida cultivada y preparada, distinto de las leyendas etíopes anteriores sobre su descubrimiento.",
+        "tip": "Separa 'dónde creció el café de forma silvestre' (Etiopía) de 'dónde se cultivó y preparó por primera vez de forma deliberada' (Yemen); son afirmaciones distintas.",
+        "mistake": "Tratar a Etiopía y Yemen como intercambiables en la historia de origen del café en lugar de dos etapas distintas.",
+        "challenge": "¿Por qué una práctica religiosa, en lugar del comercio o la agricultura, pudo haber sido el primer impulsor del cultivo deliberado de café?"
+      },
+      "pt": {
+        "title": "Iêmen e o Primeiro Café Cultivado",
+        "definition": "Embora o café provavelmente tenha se originado de forma selvagem na Etiópia, foram os mosteiros sufis do Iêmen do século XV que primeiro o cultivaram e prepararam deliberadamente, usando-o para se manterem acordados durante longas noites de oração.",
+        "why": "Este é o verdadeiro ponto de partida histórico do café como bebida cultivada e preparada, distinto das lendas etíopes anteriores sobre sua descoberta.",
+        "tip": "Separe 'onde o café cresceu de forma selvagem' (Etiópia) de 'onde foi primeiro cultivado e preparado deliberadamente' (Iêmen); são afirmações distintas.",
+        "mistake": "Tratar Etiópia e Iêmen como intercambiáveis na história de origem do café em vez de duas etapas distintas.",
+        "challenge": "Por que uma prática religiosa, em vez de comércio ou agricultura, pode ter sido o primeiro impulsor do cultivo deliberado de café?"
+      }
+    },
+    "id": 184
+  },
+  {
+    "number": "185",
+    "title": "Coffee Prohibition and Early Bans",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee was banned at various points in Mecca in 1511, parts of the Ottoman Empire, and repeatedly in 18th-century Sweden, often over fears it encouraged political dissent or challenged religious authority.",
+    "why": "It's a striking reminder that coffeehouses were seen as genuinely disruptive institutions, not harmless social spaces, by the authorities of their time.",
+    "tip": "Notice how often bans targeted coffeehouses specifically, not coffee the drink itself — the gathering was the real concern.",
+    "mistake": "Assuming coffee's spread was always smooth and welcomed rather than politically contested at multiple points.",
+    "challenge": "Why would a ruler fear a coffeehouse more than a tavern serving alcohol?",
+    "related": [
+      "176",
+      "178"
+    ],
+    "translations": {
+      "es": {
+        "title": "Prohibiciones Tempranas del Café",
+        "definition": "El café fue prohibido en varios momentos en La Meca en 1511, en partes del Imperio Otomano, y repetidamente en la Suecia del siglo XVIII, a menudo por temor a que fomentara la disidencia política o desafiara la autoridad religiosa.",
+        "why": "Es un recordatorio contundente de que las cafeterías eran vistas como instituciones genuinamente disruptivas, no espacios sociales inofensivos, por las autoridades de su época.",
+        "tip": "Nota con qué frecuencia las prohibiciones apuntaban específicamente a las cafeterías, no a la bebida en sí; la reunión era la verdadera preocupación.",
+        "mistake": "Suponer que la expansión del café siempre fue fluida y bienvenida en lugar de políticamente cuestionada en varios momentos.",
+        "challenge": "¿Por qué un gobernante temería más a una cafetería que a una taberna que sirve alcohol?"
+      },
+      "pt": {
+        "title": "Proibições Iniciais do Café",
+        "definition": "O café foi proibido em vários momentos em Meca em 1511, em partes do Império Otomano, e repetidamente na Suécia do século XVIII, muitas vezes por temor de que incentivasse a dissidência política ou desafiasse a autoridade religiosa.",
+        "why": "É um lembrete contundente de que as cafeterias eram vistas como instituições genuinamente disruptivas, não espaços sociais inofensivos, pelas autoridades da época.",
+        "tip": "Note com que frequência as proibições visavam especificamente as cafeterias, não a bebida em si; o encontro era a verdadeira preocupação.",
+        "mistake": "Supor que a expansão do café sempre foi tranquila e bem-vinda, em vez de politicamente contestada em vários momentos.",
+        "challenge": "Por que um governante temeria mais uma cafeteria do que uma taverna que serve álcool?"
+      }
+    },
+    "id": 185
+  },
+  {
+    "number": "186",
+    "title": "The Dutch Smuggling of Coffee Plants",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "In the late 1600s, the Dutch obtained coffee plants from Yemen and successfully cultivated them in greenhouses and colonies, breaking the centuries-long Arab monopoly on coffee cultivation.",
+    "why": "This single act of plant smuggling is why coffee cultivation eventually spread across Dutch colonial territory in Java and beyond, reshaping who controlled the global coffee trade.",
+    "tip": "Connect this directly to Asia-Pacific origin coffee today — Dutch colonial cultivation is why Indonesia became a major coffee-growing region.",
+    "mistake": "Assuming coffee cultivation spread globally through trade and agreement rather than largely through colonial appropriation.",
+    "challenge": "Why would controlling the plant itself, not just the trade of beans, have mattered so much strategically?",
+    "related": [
+      "094",
+      "176"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Contrabando Holandés de Plantas de Café",
+        "definition": "A finales del siglo XVII, los holandeses obtuvieron plantas de café de Yemen y las cultivaron con éxito en invernaderos y colonias, rompiendo el monopolio árabe de siglos sobre el cultivo del café.",
+        "why": "Este único acto de contrabando de plantas es la razón por la que el cultivo de café eventualmente se extendió por el territorio colonial holandés en Java y más allá, redefiniendo quién controlaba el comercio mundial del café.",
+        "tip": "Conecta esto directamente con el café de origen actual de Asia-Pacífico; el cultivo colonial holandés es la razón por la que Indonesia se convirtió en una región cafetera importante.",
+        "mistake": "Suponer que el cultivo de café se extendió globalmente por comercio y acuerdos en lugar de, en gran parte, apropiación colonial.",
+        "challenge": "¿Por qué controlar la planta misma, no solo el comercio de los granos, habría sido tan importante estratégicamente?"
+      },
+      "pt": {
+        "title": "O Contrabando Holandês de Plantas de Café",
+        "definition": "No final do século XVII, os holandeses obtiveram plantas de café do Iêmen e as cultivaram com sucesso em estufas e colônias, rompendo o monopólio árabe de séculos sobre o cultivo do café.",
+        "why": "Esse único ato de contrabando de plantas é a razão pela qual o cultivo de café eventualmente se espalhou pelo território colonial holandês em Java e além, redefinindo quem controlava o comércio mundial do café.",
+        "tip": "Conecte isso diretamente ao café de origem atual da Ásia-Pacífico; o cultivo colonial holandês é a razão pela qual a Indonésia se tornou uma importante região cafeeira.",
+        "mistake": "Supor que o cultivo de café se espalhou globalmente por comércio e acordos em vez de, em grande parte, apropriação colonial.",
+        "challenge": "Por que controlar a própria planta, não apenas o comércio dos grãos, teria sido tão importante estrategicamente?"
+      }
+    },
+    "id": 186
+  },
+  {
+    "number": "187",
+    "title": "Brazil's Founding Coffee Legend",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A popular story credits Francisco de Melo Palheta with smuggling coffee seedlings out of French Guiana into Brazil in 1727, reportedly hidden in a farewell bouquet from a governor's wife.",
+    "why": "Whether entirely accurate or partly embellished, this story marks the traditional starting point of Brazil's rise to become the world's largest coffee producer.",
+    "tip": "Treat this the same way as the Kaldi legend — a colorful founding story worth knowing, not a fully verified historical record.",
+    "mistake": "Presenting the Palheta story as confirmed fact rather than a widely repeated (and only partly verifiable) origin tale.",
+    "challenge": "Why do origin stories like this tend to survive and spread even when historians can't fully confirm the details?",
+    "related": [
+      "137",
+      "183"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Leyenda Fundacional del Café en Brasil",
+        "definition": "Una historia popular atribuye a Francisco de Melo Palheta el contrabando de plántulas de café desde la Guayana Francesa hacia Brasil en 1727, presuntamente ocultas en un ramo de despedida de la esposa de un gobernador.",
+        "why": "Ya sea totalmente precisa o parcialmente adornada, esta historia marca el punto de partida tradicional del ascenso de Brasil para convertirse en el mayor productor de café del mundo.",
+        "tip": "Trata esto igual que la leyenda de Kaldi: una historia fundacional colorida que vale la pena conocer, no un registro histórico totalmente verificado.",
+        "mistake": "Presentar la historia de Palheta como un hecho confirmado en lugar de una historia ampliamente repetida (y solo parcialmente verificable).",
+        "challenge": "¿Por qué historias de origen como esta tienden a sobrevivir y difundirse incluso cuando los historiadores no pueden confirmar todos los detalles?"
+      },
+      "pt": {
+        "title": "A Lenda Fundadora do Café no Brasil",
+        "definition": "Uma história popular credita a Francisco de Melo Palheta o contrabando de mudas de café da Guiana Francesa para o Brasil em 1727, supostamente escondidas em um buquê de despedida da esposa de um governador.",
+        "why": "Seja totalmente precisa ou parcialmente enfeitada, essa história marca o ponto de partida tradicional da ascensão do Brasil como o maior produtor de café do mundo.",
+        "tip": "Trate isso da mesma forma que a lenda de Kaldi: uma história fundadora colorida que vale a pena conhecer, não um registro histórico totalmente verificado.",
+        "mistake": "Apresentar a história de Palheta como fato confirmado em vez de uma história amplamente repetida (e apenas parcialmente verificável).",
+        "challenge": "Por que histórias de origem como essa tendem a sobreviver e se espalhar mesmo quando historiadores não conseguem confirmar todos os detalhes?"
+      }
+    },
+    "id": 187
+  },
+  {
+    "number": "188",
+    "title": "Colonial Plantations and Forced Labor",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "Much of coffee's colonial-era expansion into the Caribbean and the Americas relied on enslaved and forced labor on plantations, a legacy that shaped the economic and social structure of major coffee-growing regions for generations.",
+    "why": "Understanding this history is essential context for why coffee-growing regions developed the way they did, and why fair labor practices remain a central concern in the industry today.",
+    "tip": "Treat this as necessary historical context, not a footnote — it shaped the foundations of the industry this deck is built around.",
+    "mistake": "Discussing coffee's colonial expansion purely in terms of trade routes and plant genetics while leaving out the human cost.",
+    "challenge": "How might this history connect to modern conversations about fair pricing and labor conditions in coffee-growing regions?",
+    "related": [
+      "183",
+      "186"
+    ],
+    "translations": {
+      "es": {
+        "title": "Plantaciones Coloniales y Trabajo Forzado",
+        "definition": "Gran parte de la expansión colonial del café hacia el Caribe y las Américas dependió del trabajo esclavizado y forzado en plantaciones, un legado que moldeó la estructura económica y social de las principales regiones cafeteras durante generaciones.",
+        "why": "Entender esta historia es un contexto esencial para comprender por qué las regiones cafeteras se desarrollaron como lo hicieron, y por qué las prácticas laborales justas siguen siendo una preocupación central en la industria hoy.",
+        "tip": "Trata esto como contexto histórico necesario, no como una nota al pie; moldeó los cimientos de la industria en la que se basa este mazo.",
+        "mistake": "Hablar de la expansión colonial del café solo en términos de rutas comerciales y genética de las plantas, dejando fuera el costo humano.",
+        "challenge": "¿Cómo podría conectarse esta historia con las conversaciones modernas sobre precios justos y condiciones laborales en las regiones cafeteras?"
+      },
+      "pt": {
+        "title": "Plantações Coloniais e Trabalho Forçado",
+        "definition": "Grande parte da expansão colonial do café pelo Caribe e pelas Américas dependeu de trabalho escravizado e forçado em plantações, um legado que moldou a estrutura econômica e social das principais regiões cafeeiras por gerações.",
+        "why": "Entender essa história é um contexto essencial para compreender por que as regiões cafeeiras se desenvolveram da forma como se desenvolveram, e por que práticas trabalhistas justas continuam sendo uma preocupação central na indústria hoje.",
+        "tip": "Trate isso como contexto histórico necessário, não como uma nota de rodapé; moldou os fundamentos da indústria em que este baralho se baseia.",
+        "mistake": "Falar da expansão colonial do café apenas em termos de rotas comerciais e genética das plantas, deixando de fora o custo humano.",
+        "challenge": "Como essa história pode se conectar às conversas modernas sobre preços justos e condições de trabalho nas regiões cafeeiras?"
+      }
+    },
+    "id": 188
+  },
+  {
+    "number": "189",
+    "title": "Cafe Procope and Revolutionary Paris",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Opened in Paris in 1686, Cafe Procope became a regular meeting place for Enlightenment thinkers and, later, figures associated with the French Revolution.",
+    "why": "It's one of the clearest examples of a specific, named coffeehouse directly linked to major political and intellectual history, not just a symbolic association.",
+    "tip": "Use Cafe Procope as a concrete anchor when explaining coffeehouses' broader role in the Enlightenment.",
+    "mistake": "Treating coffeehouse-and-revolution connections as vague generalizations rather than pointing to specific, documented venues like this one.",
+    "challenge": "Why might a coffeehouse, rather than a private home, have been a safer or more effective place for revolutionary ideas to circulate?",
+    "related": [
+      "178",
+      "177"
+    ],
+    "translations": {
+      "es": {
+        "title": "Café Procope y el París Revolucionario",
+        "definition": "Inaugurado en París en 1686, el Café Procope se convirtió en un lugar de encuentro habitual para pensadores de la Ilustración y, más tarde, para figuras asociadas con la Revolución Francesa.",
+        "why": "Es uno de los ejemplos más claros de una cafetería específica y nombrada vinculada directamente a la gran historia política e intelectual, no solo una asociación simbólica.",
+        "tip": "Usa el Café Procope como un ancla concreta al explicar el papel más amplio de las cafeterías en la Ilustración.",
+        "mistake": "Tratar las conexiones entre cafeterías y revolución como generalizaciones vagas en lugar de señalar sitios específicos y documentados como este.",
+        "challenge": "¿Por qué una cafetería, en lugar de una casa privada, podría haber sido un lugar más seguro o eficaz para que circularan las ideas revolucionarias?"
+      },
+      "pt": {
+        "title": "Café Procope e a Paris Revolucionária",
+        "definition": "Inaugurado em Paris em 1686, o Café Procope tornou-se um ponto de encontro habitual para pensadores do Iluminismo e, mais tarde, para figuras associadas à Revolução Francesa.",
+        "why": "É um dos exemplos mais claros de uma cafeteria específica e nomeada diretamente ligada à grande história política e intelectual, não apenas uma associação simbólica.",
+        "tip": "Use o Café Procope como uma âncora concreta ao explicar o papel mais amplo das cafeterias no Iluminismo.",
+        "mistake": "Tratar as conexões entre cafeterias e revolução como generalizações vagas em vez de apontar locais específicos e documentados como este.",
+        "challenge": "Por que uma cafeteria, em vez de uma casa particular, pode ter sido um lugar mais seguro ou eficaz para a circulação de ideias revolucionárias?"
+      }
+    },
+    "id": 189
+  },
+  {
+    "number": "190",
+    "title": "The Tontine Coffee House and Wall Street",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "New York's Tontine Coffee House, opened in 1793, served as an early trading venue for merchants and stockbrokers, playing a role in the origins of what became the New York Stock Exchange.",
+    "why": "It's the American parallel to Lloyd's of London — another case of a coffeehouse functioning as genuine financial infrastructure, not just a social venue.",
+    "tip": "Pair this card with the Lloyd's of London story to show the pattern repeated on both sides of the Atlantic.",
+    "mistake": "Assuming this kind of coffeehouse-to-institution pipeline was unique to London rather than a broader pattern.",
+    "challenge": "Why might merchants have preferred meeting in a coffeehouse over a formal office when hashing out early trading agreements?",
+    "related": [
+      "178",
+      "179"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Tontine Coffee House y Wall Street",
+        "definition": "El Tontine Coffee House de Nueva York, inaugurado en 1793, sirvió como un lugar de comercio temprano para comerciantes y corredores de bolsa, desempeñando un papel en los orígenes de lo que se convertiría en la Bolsa de Valores de Nueva York.",
+        "why": "Es el paralelo estadounidense de Lloyd's of London: otro caso de una cafetería funcionando como verdadera infraestructura financiera, no solo como lugar social.",
+        "tip": "Combina esta tarjeta con la historia de Lloyd's of London para mostrar el mismo patrón repetido a ambos lados del Atlántico.",
+        "mistake": "Suponer que este tipo de transición de cafetería a institución fue exclusiva de Londres en lugar de un patrón más amplio.",
+        "challenge": "¿Por qué los comerciantes podrían haber preferido reunirse en una cafetería en lugar de una oficina formal al cerrar los primeros acuerdos comerciales?"
+      },
+      "pt": {
+        "title": "O Tontine Coffee House e Wall Street",
+        "definition": "O Tontine Coffee House de Nova York, inaugurado em 1793, serviu como um local de negociação inicial para comerciantes e corretores, desempenhando um papel nas origens do que se tornou a Bolsa de Valores de Nova York.",
+        "why": "É o paralelo americano da Lloyd's of London: outro caso de uma cafeteria funcionando como verdadeira infraestrutura financeira, não apenas como espaço social.",
+        "tip": "Combine este cartão com a história da Lloyd's of London para mostrar o mesmo padrão se repetindo em ambos os lados do Atlântico.",
+        "mistake": "Supor que esse tipo de transição de cafeteria para instituição foi exclusivo de Londres em vez de um padrão mais amplo.",
+        "challenge": "Por que os comerciantes podem ter preferido se reunir em uma cafeteria em vez de um escritório formal ao fechar os primeiros acordos comerciais?"
+      }
+    },
+    "id": 190
+  },
+  {
+    "number": "191",
+    "title": "The Coffee Cantata",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "In 1735, composer Johann Sebastian Bach wrote a comedic short opera known as the 'Coffee Cantata,' poking fun at a young woman's obsession with coffee against her father's wishes.",
+    "why": "It's genuine cultural evidence of just how deeply coffee had embedded itself into everyday European life by the early 18th century, enough to become a comedy subject.",
+    "tip": "Use this as a fun, concrete example when explaining how normalized coffee drinking had become in Europe by this period.",
+    "mistake": "Assuming coffee's cultural significance in Europe is only inferred from trade records rather than showing up directly in art and entertainment.",
+    "challenge": "What does it suggest about coffee's place in society that a major composer chose it as comedic subject matter?",
+    "related": [
+      "177",
+      "178"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Cantata del Café",
+        "definition": "En 1735, el compositor Johann Sebastian Bach escribió una pequeña ópera cómica conocida como la 'Cantata del Café', burlándose de la obsesión de una joven por el café en contra de los deseos de su padre.",
+        "why": "Es evidencia cultural genuina de cuán profundamente se había incrustado el café en la vida cotidiana europea a principios del siglo XVIII, al punto de convertirse en tema de comedia.",
+        "tip": "Usa esto como un ejemplo divertido y concreto al explicar cuán normalizado se había vuelto el consumo de café en Europa para esta época.",
+        "mistake": "Suponer que la importancia cultural del café en Europa solo se infiere de registros comerciales en lugar de aparecer directamente en el arte y el entretenimiento.",
+        "challenge": "¿Qué sugiere sobre el lugar del café en la sociedad que un compositor importante lo eligiera como tema cómico?"
+      },
+      "pt": {
+        "title": "A Cantata do Café",
+        "definition": "Em 1735, o compositor Johann Sebastian Bach escreveu uma pequena ópera cômica conhecida como 'Cantata do Café', zombando da obsessão de uma jovem pelo café contra a vontade de seu pai.",
+        "why": "É evidência cultural genuína de quão profundamente o café havia se enraizado na vida cotidiana europeia no início do século XVIII, a ponto de se tornar tema de comédia.",
+        "tip": "Use isso como um exemplo divertido e concreto ao explicar quão normalizado o consumo de café havia se tornado na Europa nessa época.",
+        "mistake": "Supor que a importância cultural do café na Europa só é inferida de registros comerciais, em vez de aparecer diretamente na arte e no entretenimento.",
+        "challenge": "O que isso sugere sobre o lugar do café na sociedade, o fato de um grande compositor tê-lo escolhido como tema cômico?"
+      }
+    },
+    "id": 191
+  },
+  {
+    "number": "192",
+    "title": "The Ceylon Coffee Rust Epidemic",
+    "category": "HIS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A devastating outbreak of coffee leaf rust in Ceylon (modern Sri Lanka) during the 1870s destroyed much of the island's coffee industry, prompting many planters to switch to tea instead.",
+    "why": "This single disease outbreak permanently reshaped Ceylon's agricultural identity and is part of why the island became globally known for tea rather than coffee.",
+    "tip": "Connect this historical epidemic directly to why disease-resistant cultivars like Castillo matter so much today.",
+    "mistake": "Treating leaf rust as only a modern challenge rather than a disease with a documented history of reshaping entire industries.",
+    "challenge": "Why might a single plant disease have had such an outsized effect on an entire country's agricultural direction?",
+    "related": [
+      "146",
+      "134"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Epidemia de Roya del Café en Ceilán",
+        "definition": "Un devastador brote de roya del café en Ceilán (la actual Sri Lanka) durante la década de 1870 destruyó gran parte de la industria cafetera de la isla, llevando a muchos productores a cambiarse al té.",
+        "why": "Este único brote de enfermedad redefinió permanentemente la identidad agrícola de Ceilán y es parte de la razón por la que la isla se hizo mundialmente conocida por el té en lugar del café.",
+        "tip": "Conecta esta epidemia histórica directamente con la importancia actual de variedades resistentes a enfermedades como Castillo.",
+        "mistake": "Tratar la roya como solo un desafío moderno en lugar de una enfermedad con una historia documentada de redefinir industrias enteras.",
+        "challenge": "¿Por qué una sola enfermedad de las plantas pudo haber tenido un efecto tan desproporcionado en la dirección agrícola de todo un país?"
+      },
+      "pt": {
+        "title": "A Epidemia de Ferrugem do Café no Ceilão",
+        "definition": "Um devastador surto de ferrugem do café no Ceilão (atual Sri Lanka) durante a década de 1870 destruiu grande parte da indústria cafeeira da ilha, levando muitos produtores a mudar para o chá.",
+        "why": "Esse único surto de doença redefiniu permanentemente a identidade agrícola do Ceilão e é parte da razão pela qual a ilha se tornou mundialmente conhecida pelo chá em vez do café.",
+        "tip": "Conecte essa epidemia histórica diretamente à importância atual de variedades resistentes a doenças, como a Castillo.",
+        "mistake": "Tratar a ferrugem apenas como um desafio moderno em vez de uma doença com histórico documentado de redefinir indústrias inteiras.",
+        "challenge": "Por que uma única doença de planta pode ter tido um efeito tão desproporcional na direção agrícola de um país inteiro?"
+      }
+    },
+    "id": 192
+  },
+  {
+    "number": "193",
+    "title": "Vienna's Coffeehouse Tradition",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Viennese coffeehouse culture developed its own distinct identity from the late 17th century onward, eventually earning recognition on UNESCO's Intangible Cultural Heritage list.",
+    "why": "It's a rare case of a coffeehouse tradition itself, not just a specific building or brewing method, receiving formal cultural heritage recognition.",
+    "tip": "Note what made Vienna's version distinct — long stays, newspapers, and a particular etiquette around lingering over one cup.",
+    "mistake": "Lumping all European coffeehouse traditions together rather than recognizing Vienna's developed its own particular character.",
+    "challenge": "Why might a coffeehouse tradition, rather than a single dish or building, qualify for cultural heritage recognition?",
+    "related": [
+      "177",
+      "178"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Tradición de las Cafeterías de Viena",
+        "definition": "La cultura de las cafeterías vienesas desarrolló su propia identidad distintiva desde finales del siglo XVII en adelante, ganando eventualmente reconocimiento en la lista de Patrimonio Cultural Inmaterial de la UNESCO.",
+        "why": "Es un caso poco común de una tradición de cafetería en sí misma, no solo un edificio o método de preparación específico, recibiendo reconocimiento formal como patrimonio cultural.",
+        "tip": "Observa qué hizo distinta a la versión vienesa: estancias largas, periódicos y una etiqueta particular sobre quedarse con una sola taza.",
+        "mistake": "Agrupar todas las tradiciones europeas de cafetería en lugar de reconocer que Viena desarrolló su propio carácter particular.",
+        "challenge": "¿Por qué una tradición de cafetería, en lugar de un solo plato o edificio, podría calificar para el reconocimiento como patrimonio cultural?"
+      },
+      "pt": {
+        "title": "A Tradição das Cafeterias de Viena",
+        "definition": "A cultura das cafeterias vienenses desenvolveu sua própria identidade distinta a partir do final do século XVII, eventualmente ganhando reconhecimento na lista de Patrimônio Cultural Imaterial da UNESCO.",
+        "why": "É um caso raro de uma tradição de cafeteria em si, não apenas um prédio ou método de preparo específico, recebendo reconhecimento formal como patrimônio cultural.",
+        "tip": "Observe o que tornou a versão vienense distinta: longas permanências, jornais e uma etiqueta particular sobre demorar-se com uma única xícara.",
+        "mistake": "Agrupar todas as tradições europeias de cafeteria em vez de reconhecer que Viena desenvolveu seu próprio caráter particular.",
+        "challenge": "Por que uma tradição de cafeteria, em vez de um único prato ou prédio, poderia se qualificar para reconhecimento como patrimônio cultural?"
+      }
+    },
+    "id": 193
+  },
+  {
+    "number": "194",
+    "title": "The Founding of Starbucks",
+    "category": "HIS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Starbucks opened its first store in Seattle in 1971, and its later expansion under Howard Schultz is widely credited with popularizing café culture at a global, mass-market scale.",
+    "why": "It's the single company most responsible for making the 'coffeehouse experience' a normal part of daily life for millions of people who'd never been to a specialty café before.",
+    "tip": "Use this as the concrete company-level story behind the more abstract 'second wave' framework.",
+    "mistake": "Treating Starbucks as separate from the wave framework rather than as its most visible, defining example.",
+    "challenge": "Why might scaling a coffeehouse experience globally require different choices than running one great independent café?",
+    "related": [
+      "182",
+      "180"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Fundación de Starbucks",
+        "definition": "Starbucks abrió su primera tienda en Seattle en 1971, y su posterior expansión bajo Howard Schultz es ampliamente reconocida por popularizar la experiencia de cafetería a escala global y masiva.",
+        "why": "Es la empresa individual más responsable de convertir la 'experiencia de cafetería' en algo normal en la vida diaria de millones de personas que nunca habían estado en un café de especialidad.",
+        "tip": "Usa esto como la historia concreta a nivel de empresa detrás del marco más abstracto de la 'segunda ola'.",
+        "mistake": "Tratar a Starbucks como algo separado del marco de las olas en lugar de su ejemplo más visible y definitorio.",
+        "challenge": "¿Por qué escalar una experiencia de cafetería globalmente podría requerir decisiones diferentes a las de dirigir un solo gran café independiente?"
+      },
+      "pt": {
+        "title": "A Fundação da Starbucks",
+        "definition": "A Starbucks abriu sua primeira loja em Seattle em 1971, e sua expansão posterior sob Howard Schultz é amplamente reconhecida por popularizar a experiência de cafeteria em escala global e massiva.",
+        "why": "É a empresa individual mais responsável por tornar a 'experiência de cafeteria' algo normal na vida diária de milhões de pessoas que nunca haviam estado em um café especial.",
+        "tip": "Use isso como a história concreta em nível de empresa por trás da estrutura mais abstrata da 'segunda onda'.",
+        "mistake": "Tratar a Starbucks como algo separado da estrutura das ondas em vez de seu exemplo mais visível e definidor.",
+        "challenge": "Por que escalar uma experiência de cafeteria globalmente pode exigir decisões diferentes das de administrar um único e ótimo café independente?"
+      }
+    },
+    "id": 194
   }
 ]
