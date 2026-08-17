@@ -1,1 +1,1 @@
-{"$schema": "./node_modules/wrangler/config-schema.json", "name": "the-coffee-deck", "compatibility_date": "2026-08-11", "assets": {"directory": "./dist"}}
+{"$schema": "./node_modules/wrangler/config-schema.json", "name": "the-coffee-deck", "compatibility_date": "2026-08-11", "main": "worker/index.js", "assets": {"directory": "./dist", "binding": "ASSETS"}}

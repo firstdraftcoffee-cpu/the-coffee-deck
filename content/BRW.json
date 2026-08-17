@@ -67,7 +67,8 @@
         "mistake": "Tratar um número de TDS 'correto' como prova de qualidade sem realmente provar o café.",
         "challenge": "Por que a leitura de TDS de um refratômetro e o rendimento de extração precisam ser calculados juntos, não lidos separadamente?"
       }
-    }
+    },
+    "free_sample": true
   },
   {
     "number": "159",

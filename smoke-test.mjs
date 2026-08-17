@@ -27,9 +27,17 @@ global.requestAnimationFrame = window.requestAnimationFrame || (cb => setTimeout
 
 let errors = [];
 
-global.fetch = async (url) => {
+global.fetch = async (url, options) => {
     if (url.includes("cards.json")) {
         return { json: async () => JSON.parse(JSON.stringify(cardsData)) };
+    }
+    if (url.includes("/api/verify-access")) {
+        const body = JSON.parse(options?.body || "{}");
+        const active = body.email === "subscriber@example.com";
+        return { ok: true, json: async () => ({ active, email: body.email }) };
+    }
+    if (url.includes("/api/create-checkout-session")) {
+        return { ok: true, json: async () => ({ url: "https://checkout.stripe.com/mock-session" }) };
     }
     throw new Error("Unexpected fetch: " + url);
 };
@@ -59,6 +67,8 @@ async function simulateFastFlick(el, dxTotal, elapsedMs) {
     const up = new window.PointerEvent("pointerup", { clientX: 200 + dxTotal, bubbles: true, pointerId: 1 });
     el.dispatchEvent(up);
 }
+
+global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "test@example.com", verifiedAt: Date.now() }));
 
 try {
     await import(`./dist/assets/${jsFile}?t=${Date.now()}`);
@@ -529,5 +539,93 @@ doc.getElementById("welcome-close")?.dispatchEvent(new window.Event("click", { b
 await new Promise(r => setTimeout(r, 250));
 check("Welcome overlay closes via the X button too", !doc.getElementById("welcome-mode")?.classList.contains("show"));
 check("Body scroll is unlocked after closing the re-opened welcome overlay", doc.body.style.position !== "fixed");
+
+// =====================================================================
+// FREE / PAYWALL EXPERIENCE - fresh JSDOM instance, no seeded access,
+// so this exercises exactly what an unsubscribed visitor sees
+// =====================================================================
+
+const freeDom = new JSDOM(html, { url: "http://localhost/", pretendToBeVisual: true });
+const freeWindow = freeDom.window;
+
+global.window = freeWindow;
+global.document = freeWindow.document;
+global.localStorage = freeWindow.localStorage;
+global.KeyboardEvent = freeWindow.KeyboardEvent;
+global.Event = freeWindow.Event;
+global.PointerEvent = freeWindow.PointerEvent || freeWindow.Event;
+global.CustomEvent = freeWindow.CustomEvent;
+global.MutationObserver = freeWindow.MutationObserver;
+global.HTMLElement = freeWindow.HTMLElement;
+global.Node = freeWindow.Node;
+global.requestAnimationFrame = freeWindow.requestAnimationFrame || (cb => setTimeout(cb, 0));
+
+let checkoutCalls = [];
+
+global.fetch = async (url, options) => {
+    if (url.includes("cards.json")) {
+        return { json: async () => JSON.parse(JSON.stringify(cardsData)) };
+    }
+    if (url.includes("/api/verify-access")) {
+        const body = JSON.parse(options?.body || "{}");
+        const active = body.email === "subscriber@example.com";
+        return { ok: true, json: async () => ({ active, email: body.email }) };
+    }
+    if (url.includes("/api/create-checkout-session")) {
+        const body = JSON.parse(options?.body || "{}");
+        checkoutCalls.push(body.plan);
+        return { ok: true, json: async () => ({ url: "https://checkout.stripe.com/mock-session" }) };
+    }
+    throw new Error("Unexpected fetch: " + url);
+};
+
+try {
+    await import(`./dist/assets/${jsFile}?t=${Date.now()}-free`);
+} catch (e) {
+    errors.push(e.stack || e.message);
+}
+
+await new Promise(r => setTimeout(r, 400));
+
+const freeDoc = global.document;
+
+check("Free/unsubscribed visitor: no errors during module load/init", errors.length === 0);
+
+freeDoc.getElementById("welcome-cta")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+
+check("Free visitor sees the reduced sample count, not the full deck", freeDoc.getElementById("count")?.textContent.includes("13") && !freeDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+
+// Swipe through all 13 free cards to reach the paywall card at the end
+for (let i = 0; i < 13; i++) {
+    freeDoc.getElementById("homeNext")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 80));
+}
+
+check("Reaching the end of the free sample shows the paywall card", !!freeDoc.querySelector(".paywall-card"));
+check("Paywall card shows both a monthly and yearly plan", !!freeDoc.getElementById("paywall-monthly") && !!freeDoc.getElementById("paywall-yearly"));
+
+freeDoc.getElementById("paywall-monthly")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+check("Clicking Subscribe Monthly calls checkout with the monthly plan", checkoutCalls.includes("monthly"));
+
+freeDoc.getElementById("paywall-yearly")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+check("Clicking Subscribe Yearly calls checkout with the yearly plan", checkoutCalls.includes("yearly"));
+
+freeDoc.getElementById("paywall-restore-toggle")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+check("Restore-access form appears after clicking the link", freeDoc.getElementById("paywall-restore-form")?.hidden === false);
+
+const emailInput = freeDoc.getElementById("paywall-email");
+emailInput.value = "not-a-subscriber@example.com";
+freeDoc.getElementById("paywall-verify")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Restoring access with an unknown email shows an error, deck stays locked", freeDoc.getElementById("paywall-status")?.textContent.length > 0 && freeDoc.getElementById("count")?.textContent.includes("13"));
+
+emailInput.value = "subscriber@example.com";
+freeDoc.getElementById("paywall-verify")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Restoring access with a valid subscriber email unlocks the full deck", freeDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 
 console.log("\nDone.");

@@ -107,7 +107,23 @@ const strings = {
 
         photoUnverified: "Representative coffee cherry photo — not verified to this specific variety",
 
-        photoPlaceholder: "Temporary placeholder photo — a location-verified image for this region is coming soon"
+        photoPlaceholder: "Temporary placeholder photo — a location-verified image for this region is coming soon",
+
+        paywallEyebrow: "Unlock",
+        paywallTitle: "Coffee Deck Pro",
+        paywallTagline: n => `That's the free sample — unlock ${n} more cards, Study Mode and progress tracking for the whole deck.`,
+        perMonth: "/month",
+        perYear: "/year",
+        bestValue: "Best value",
+        subscribeMonthly: "Subscribe monthly",
+        subscribeYearly: "Subscribe yearly",
+        alreadySubscribed: "Already subscribed? Restore access",
+        emailPlaceholder: "Your email",
+        verify: "Verify",
+        restoreFailed: "No active subscription found for that email.",
+        checkoutFailed: "Something went wrong — please try again.",
+        checkingOut: "Redirecting to checkout…",
+        verifying: "Checking…"
     },
 
     es: {
@@ -209,7 +225,23 @@ const strings = {
 
         photoUnverified: "Foto representativa de cereza de café — no verificada para esta variedad específica",
 
-        photoPlaceholder: "Foto temporal de marcador de posición — pronto llegará una imagen verificada para esta región"
+        photoPlaceholder: "Foto temporal de marcador de posición — pronto llegará una imagen verificada para esta región",
+
+        paywallEyebrow: "Desbloquea",
+        paywallTitle: "Coffee Deck Pro",
+        paywallTagline: n => `Esa fue la muestra gratuita — desbloquea ${n} tarjetas más, el Modo estudio y el seguimiento de progreso de todo el mazo.`,
+        perMonth: "/mes",
+        perYear: "/año",
+        bestValue: "Mejor valor",
+        subscribeMonthly: "Suscribirme mensual",
+        subscribeYearly: "Suscribirme anual",
+        alreadySubscribed: "¿Ya estás suscrito? Restaura tu acceso",
+        emailPlaceholder: "Tu correo electrónico",
+        verify: "Verificar",
+        restoreFailed: "No se encontró una suscripción activa para ese correo.",
+        checkoutFailed: "Algo salió mal — inténtalo de nuevo.",
+        checkingOut: "Redirigiendo al pago…",
+        verifying: "Verificando…"
     },
 
     pt: {
@@ -311,7 +343,23 @@ const strings = {
 
         photoUnverified: "Foto representativa de cereja de café — não verificada para esta variedade específica",
 
-        photoPlaceholder: "Foto temporária de espaço reservado — uma imagem verificada para esta região está a caminho"
+        photoPlaceholder: "Foto temporária de espaço reservado — uma imagem verificada para esta região está a caminho",
+
+        paywallEyebrow: "Desbloqueie",
+        paywallTitle: "Coffee Deck Pro",
+        paywallTagline: n => `Essa foi a amostra gratuita — desbloqueie mais ${n} cartões, o Modo estudo e o acompanhamento de progresso do baralho completo.`,
+        perMonth: "/mês",
+        perYear: "/ano",
+        bestValue: "Melhor valor",
+        subscribeMonthly: "Assinar mensal",
+        subscribeYearly: "Assinar anual",
+        alreadySubscribed: "Já é assinante? Restaure seu acesso",
+        emailPlaceholder: "Seu e-mail",
+        verify: "Verificar",
+        restoreFailed: "Nenhuma assinatura ativa encontrada para esse e-mail.",
+        checkoutFailed: "Algo deu errado — tente novamente.",
+        checkingOut: "Redirecionando para o pagamento…",
+        verifying: "Verificando…"
     }
 
 };

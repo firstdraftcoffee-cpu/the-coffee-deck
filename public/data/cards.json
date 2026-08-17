@@ -34,6 +34,7 @@
         "challenge": "Explique o espresso em uma frase."
       }
     },
+    "free_sample": true,
     "id": 1
   },
   {
@@ -182,6 +183,7 @@
         "challenge": "Descreva a superextração."
       }
     },
+    "free_sample": true,
     "id": 5
   },
   {
@@ -774,6 +776,7 @@
         "challenge": "Nomeie três desenhos clássicos de latte art."
       }
     },
+    "free_sample": true,
     "id": 21
   },
   {
@@ -1699,6 +1702,7 @@
         "challenge": "Liste três formas de melhorar o fluxo de trabalho durante um serviço movimentado."
       }
     },
+    "free_sample": true,
     "id": 46
   },
   {
@@ -3734,6 +3738,7 @@
         "challenge": "Por que o primeiro crack ocorre?"
       }
     },
+    "free_sample": true,
     "id": 101
   },
   {
@@ -4437,6 +4442,7 @@
         "challenge": "Descreva o que faz um café de €4 parecer valer €4."
       }
     },
+    "free_sample": true,
     "id": 120
   },
   {
@@ -4474,6 +4480,7 @@
         "challenge": "O que acontece com a extração se você despejar em um único fluxo contínuo em vez de vários pulsos?"
       }
     },
+    "free_sample": true,
     "id": 121
   },
   {
@@ -5030,6 +5037,7 @@
       }
     },
     "photo_placeholder": true,
+    "free_sample": true,
     "id": 136
   },
   {
@@ -5326,6 +5334,7 @@
       }
     },
     "photo_unverified": true,
+    "free_sample": true,
     "id": 144
   },
   {
@@ -5763,6 +5772,7 @@
         "challenge": "Por que uma espuma que parece idêntica logo após a vaporização às vezes colapsa em ritmos muito diferentes?"
       }
     },
+    "free_sample": true,
     "id": 156
   },
   {
@@ -5835,6 +5845,7 @@
         "challenge": "Por que a leitura de TDS de um refratômetro e o rendimento de extração precisam ser calculados juntos, não lidos separadamente?"
       }
     },
+    "free_sample": true,
     "id": 158
   },
   {
@@ -6267,6 +6278,7 @@
         "challenge": "Por que um superprovador e um não provador poderiam genuinamente discordar sobre se o mesmo café está 'amargo demais'?"
       }
     },
+    "free_sample": true,
     "id": 170
   },
   {
@@ -6339,6 +6351,7 @@
         "challenge": "Por que dois provadores poderiam usar palavras completamente diferentes para a mesma sensação subjacente sem que nenhum dos dois esteja errado?"
       }
     },
+    "free_sample": true,
     "id": 172
   },
   {

@@ -172,7 +172,8 @@
         "mistake": "Supor que a sensibilidade básica de todos ao amargor ou à intensidade parte do mesmo ponto.",
         "challenge": "Por que um superprovador e um não provador poderiam genuinamente discordar sobre se o mesmo café está 'amargo demais'?"
       }
-    }
+    },
+    "free_sample": true
   },
   {
     "number": "171",
@@ -242,7 +243,8 @@
         "mistake": "Tratar os termos da roda de sabores como a única forma correta de descrever uma sensação, em vez de uma ferramenta de comunicação compartilhada.",
         "challenge": "Por que dois provadores poderiam usar palavras completamente diferentes para a mesma sensação subjacente sem que nenhum dos dois esteja errado?"
       }
-    }
+    },
+    "free_sample": true
   },
   {
     "number": "173",

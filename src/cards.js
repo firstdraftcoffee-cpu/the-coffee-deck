@@ -1,4 +1,5 @@
 import { getLocale, onLocaleChange } from "./i18n.js";
+import { hasAccess } from "./access.js";
 
 const TRANSLATABLE_FIELDS = [
     "title",
@@ -34,15 +35,31 @@ function localize(card, locale) {
 
 }
 
-function applyLocale() {
+function rebuild() {
 
     const locale = getLocale();
 
-    cards = rawCards.map(card => localize(card, locale));
+    const localized = rawCards.map(card => localize(card, locale));
+
+    cards = hasAccess()
+        ? localized
+        : localized.filter(card => card.free_sample);
 
 }
 
-onLocaleChange(applyLocale);
+onLocaleChange(rebuild);
+
+export function refreshAccess() {
+
+    rebuild();
+
+}
+
+export function totalCardCount() {
+
+    return rawCards.length;
+
+}
 
 export async function loadCards() {
 
@@ -50,7 +67,7 @@ export async function loadCards() {
 
     rawCards = await response.json();
 
-    applyLocale();
+    rebuild();
 
     return cards;
 

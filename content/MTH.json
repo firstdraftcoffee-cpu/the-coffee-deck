@@ -33,7 +33,8 @@
         "mistake": "Despejar rápido demais e inundar a pastilha, o que anula completamente o controle manual.",
         "challenge": "O que acontece com a extração se você despejar em um único fluxo contínuo em vez de vários pulsos?"
       }
-    }
+    },
+    "free_sample": true
   },
   {
     "number": "122",

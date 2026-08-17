@@ -968,6 +968,270 @@ nav{
 
 }
 
+/* ===== Paywall card ===== */
+
+.paywall-card{
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    min-height:420px;
+
+}
+
+.paywall-body{
+
+    padding:var(--sp-7) var(--sp-6);
+
+    text-align:center;
+
+    width:100%;
+
+}
+
+.paywall-eyebrow{
+
+    font-size:var(--text-xs);
+
+    font-weight:800;
+
+    text-transform:uppercase;
+
+    letter-spacing:.08em;
+
+    color:var(--accent-dark);
+
+    margin-bottom:var(--sp-2);
+
+}
+
+.paywall-body h2{
+
+    font-size:var(--text-2xl);
+
+    margin:0 0 var(--sp-3);
+
+}
+
+.paywall-tagline{
+
+    font-size:var(--text-base);
+
+    color:var(--ink-soft);
+
+    line-height:1.55;
+
+    margin:0 0 var(--sp-6);
+
+}
+
+.paywall-plans{
+
+    display:flex;
+
+    gap:var(--sp-3);
+
+    margin-bottom:var(--sp-4);
+
+}
+
+.paywall-plan{
+
+    flex:1;
+
+    position:relative;
+
+    display:flex;
+
+    flex-direction:column;
+
+    align-items:center;
+
+    gap:2px;
+
+    padding:var(--sp-4) var(--sp-3);
+
+    border-radius:var(--radius-md);
+
+    border:1.5px solid var(--line);
+
+    background:var(--bg);
+
+    color:var(--ink);
+
+    font-family:inherit;
+
+    cursor:pointer;
+
+    transition:.15s;
+
+}
+
+.paywall-plan:hover{
+
+    border-color:var(--accent);
+
+}
+
+.paywall-plan.featured{
+
+    background:var(--accent);
+
+    border-color:var(--accent);
+
+    color:var(--on-accent);
+
+}
+
+.paywall-plan-badge{
+
+    position:absolute;
+
+    top:-10px;
+
+    left:50%;
+
+    transform:translateX(-50%);
+
+    background:var(--accent-dark);
+
+    color:var(--on-accent);
+
+    font-size:10px;
+
+    font-weight:800;
+
+    text-transform:uppercase;
+
+    letter-spacing:.05em;
+
+    padding:3px 10px;
+
+    border-radius:var(--radius-pill);
+
+    white-space:nowrap;
+
+}
+
+.paywall-plan-price{
+
+    font-size:var(--text-lg);
+
+    font-weight:900;
+
+}
+
+.paywall-plan-period{
+
+    font-size:var(--text-xs);
+
+    font-weight:700;
+
+    opacity:.8;
+
+}
+
+.paywall-status{
+
+    min-height:1.2em;
+
+    font-size:var(--text-sm);
+
+    font-weight:700;
+
+    color:var(--ink-soft);
+
+    margin:0 0 var(--sp-2);
+
+}
+
+.paywall-status-error{
+
+    color:var(--dot-red);
+
+}
+
+.paywall-restore-link{
+
+    background:none;
+
+    border:none;
+
+    color:var(--ink-soft);
+
+    font-family:inherit;
+
+    font-size:var(--text-sm);
+
+    font-weight:700;
+
+    text-decoration:underline;
+
+    cursor:pointer;
+
+}
+
+.paywall-restore-link:hover{
+
+    color:var(--accent-dark);
+
+}
+
+.paywall-restore-form{
+
+    display:flex;
+
+    gap:var(--sp-2);
+
+    margin-top:var(--sp-4);
+
+}
+
+.paywall-restore-form input{
+
+    flex:1;
+
+    padding:var(--sp-3);
+
+    border-radius:var(--radius-sm);
+
+    border:1.5px solid var(--line);
+
+    background:var(--surface);
+
+    color:var(--ink);
+
+    font-family:inherit;
+
+    font-size:var(--text-sm);
+
+}
+
+.paywall-restore-form button{
+
+    padding:var(--sp-3) var(--sp-4);
+
+    border-radius:var(--radius-sm);
+
+    border:none;
+
+    background:var(--accent);
+
+    color:var(--on-accent);
+
+    font-family:inherit;
+
+    font-weight:800;
+
+    font-size:var(--text-sm);
+
+    cursor:pointer;
+
+}
+
 /* ===== Card number / category (reused on home card and viewer) ===== */
 
 .card-number{
@@ -1482,7 +1746,7 @@ nav{
 
     font-weight:600;
 
-    margin-top:var(--sp-1);
+    margin-top:var(--sp-2);
 
 }
 
@@ -1990,7 +2254,7 @@ nav{
 
     font-weight:800;
 
-    margin-bottom:var(--sp-1);
+    margin-bottom:var(--sp-2);
 
 }
 

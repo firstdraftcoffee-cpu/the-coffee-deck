@@ -2,8 +2,18 @@ import {
     loadCards,
     searchCards,
     getCategories,
-    allCards
+    allCards,
+    totalCardCount,
+    refreshAccess
 } from "./cards.js";
+
+import {
+    hasAccess,
+    startCheckout,
+    restoreAccess,
+    handleCheckoutReturn,
+    reverifyIfStale
+} from "./access.js";
 
 import {
     openViewer,
@@ -68,6 +78,10 @@ const homeButton = document.getElementById("homeButton");
 const themeToggle = document.getElementById("themeToggle");
 
 async function init() {
+
+    await handleCheckoutReturn();
+
+    await reverifyIfStale();
 
     await loadCards();
 
@@ -484,6 +498,12 @@ export function renderHome() {
 
     counter.textContent = t("cardCount", homeCards.length);
 
+    if (!hasAccess()) {
+
+        homeCards = [...homeCards, { isPaywallCard: true }];
+
+    }
+
     if (homeIndex >= homeCards.length) {
 
         homeIndex = 0;
@@ -515,6 +535,14 @@ ${t("noResults")}
     }
 
     const card = homeCards[homeIndex];
+
+    if (card.isPaywallCard) {
+
+        renderPaywallCard();
+
+        return;
+
+    }
 
     const query = search.value.trim();
 
@@ -678,6 +706,164 @@ function nextHome() {
     homeIndex = (homeIndex + 1) % homeCards.length;
 
     renderHomeCard();
+
+}
+
+function renderPaywallCard() {
+
+    const stage = document.createElement("div");
+
+    stage.className = "home-stage";
+
+    const remaining = totalCardCount() - (homeCards.length - 1);
+
+    const el = document.createElement("div");
+
+    el.className = "home-card paywall-card";
+
+    el.innerHTML = `
+
+<div class="paywall-body">
+
+<div class="paywall-eyebrow">${t("paywallEyebrow")}</div>
+
+<h2>${t("paywallTitle")}</h2>
+
+<p class="paywall-tagline">${t("paywallTagline", remaining)}</p>
+
+<div class="paywall-plans">
+
+<button id="paywall-monthly" class="paywall-plan">
+<span class="paywall-plan-price">$4.99</span>
+<span class="paywall-plan-period">${t("perMonth")}</span>
+</button>
+
+<button id="paywall-yearly" class="paywall-plan featured">
+<span class="paywall-plan-badge">${t("bestValue")}</span>
+<span class="paywall-plan-price">$39</span>
+<span class="paywall-plan-period">${t("perYear")}</span>
+</button>
+
+</div>
+
+<p class="paywall-status" id="paywall-status"></p>
+
+<button id="paywall-restore-toggle" class="paywall-restore-link">${t("alreadySubscribed")}</button>
+
+<div id="paywall-restore-form" class="paywall-restore-form" hidden>
+<input type="email" id="paywall-email" placeholder="${t("emailPlaceholder")}" autocomplete="email">
+<button id="paywall-verify">${t("verify")}</button>
+</div>
+
+</div>
+
+`;
+
+    stage.appendChild(el);
+
+    home.appendChild(stage);
+
+    const actions = document.createElement("div");
+
+    actions.className = "home-actions";
+
+    actions.innerHTML = `
+
+<button id="homePrev" class="arrow-btn" aria-label="${t("previousCard")}">←</button>
+
+<button id="homeNext" class="arrow-btn" aria-label="${t("nextCard")}">→</button>
+
+`;
+
+    home.appendChild(actions);
+
+    actions.querySelector("#homePrev").onclick = previousHome;
+
+    actions.querySelector("#homeNext").onclick = nextHome;
+
+    const status = el.querySelector("#paywall-status");
+
+    const setStatus = (msg, isError = false) => {
+
+        status.textContent = msg || "";
+
+        status.classList.toggle("paywall-status-error", isError);
+
+    };
+
+    el.querySelector("#paywall-monthly").onclick = async () => {
+
+        setStatus(t("checkingOut"));
+
+        try {
+
+            await startCheckout("monthly", getLocale());
+
+        } catch {
+
+            setStatus(t("checkoutFailed"), true);
+
+        }
+
+    };
+
+    el.querySelector("#paywall-yearly").onclick = async () => {
+
+        setStatus(t("checkingOut"));
+
+        try {
+
+            await startCheckout("yearly", getLocale());
+
+        } catch {
+
+            setStatus(t("checkoutFailed"), true);
+
+        }
+
+    };
+
+    el.querySelector("#paywall-restore-toggle").onclick = () => {
+
+        el.querySelector("#paywall-restore-form").hidden = false;
+
+        el.querySelector("#paywall-email").focus();
+
+    };
+
+    el.querySelector("#paywall-verify").onclick = async () => {
+
+        const email = el.querySelector("#paywall-email").value.trim();
+
+        if (!email) return;
+
+        setStatus(t("verifying"));
+
+        try {
+
+            const active = await restoreAccess(email);
+
+            if (active) {
+
+                refreshAccess();
+
+                homeIndex = 0;
+
+                renderHome();
+
+            } else {
+
+                setStatus(t("restoreFailed"), true);
+
+            }
+
+        } catch {
+
+            setStatus(t("checkoutFailed"), true);
+
+        }
+
+    };
 
 }
 
