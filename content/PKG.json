@@ -1,0 +1,362 @@
+[
+  {
+    "number": "212",
+    "title": "The Staling Enemies: Oxygen, Light, Moisture, Heat",
+    "category": "PKG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The four environmental factors that degrade roasted coffee fastest: oxygen oxidizes aromatic oils, light breaks down compounds through photodegradation, moisture accelerates staling reactions, and heat speeds up all of the above.",
+    "why": "Nearly every packaging and storage decision in coffee — valve bags, opaque packaging, airtight canisters, cool storage — exists specifically to block one or more of these four factors.",
+    "tip": "Rank them by how fast they act: oxygen and light do damage in hours to days, moisture and heat compound everything else, so a bag that blocks all four beats one that only blocks one or two.",
+    "mistake": "Focusing on just one factor (like buying an airtight canister) while ignoring the others — a canister on a sunny counter still lets light and heat do damage.",
+    "challenge": "Why might coffee packaging need to defend against four different threats instead of just sealing out air?",
+    "related": [
+      "213",
+      "215"
+    ],
+    "translations": {
+      "es": {
+        "title": "Los Enemigos del Envejecimiento: Oxígeno, Luz, Humedad y Calor",
+        "definition": "Los cuatro factores ambientales que degradan más rápido el café tostado: el oxígeno oxida los aceites aromáticos, la luz descompone los compuestos mediante fotodegradación, la humedad acelera las reacciones de envejecimiento y el calor acelera todo lo anterior.",
+        "why": "Casi todas las decisiones de envasado y almacenamiento en el café (bolsas con válvula, envases opacos, recipientes herméticos, almacenamiento en frío) existen específicamente para bloquear uno o más de estos cuatro factores.",
+        "tip": "Ordénalos según la rapidez con que actúan: el oxígeno y la luz causan daño en horas o días, mientras que la humedad y el calor agravan todo lo demás, así que una bolsa que bloquea los cuatro es mejor que una que solo bloquea uno o dos.",
+        "mistake": "Centrarse en un solo factor (como comprar un recipiente hermético) ignorando los demás; un recipiente hermético en una encimera soleada sigue permitiendo que la luz y el calor causen daño.",
+        "challenge": "¿Por qué el envasado del café podría necesitar defenderse de cuatro amenazas distintas en lugar de simplemente sellar el aire?"
+      },
+      "pt": {
+        "title": "Os Inimigos do Envelhecimento: Oxigênio, Luz, Umidade e Calor",
+        "definition": "Os quatro fatores ambientais que degradam mais rápido o café torrado: o oxigênio oxida os óleos aromáticos, a luz decompõe os compostos por fotodegradação, a umidade acelera as reações de envelhecimento e o calor acelera tudo isso.",
+        "why": "Quase todas as decisões de embalagem e armazenamento no café (sacos com válvula, embalagens opacas, recipientes herméticos, armazenamento em local fresco) existem especificamente para bloquear um ou mais desses quatro fatores.",
+        "tip": "Classifique-os pela rapidez com que agem: oxigênio e luz causam dano em horas ou dias, enquanto umidade e calor agravam tudo o mais, então um saco que bloqueia os quatro é melhor do que um que bloqueia só um ou dois.",
+        "mistake": "Focar em apenas um fator (como comprar um recipiente hermético) ignorando os demais; um recipiente hermético numa bancada ensolarada ainda deixa a luz e o calor causarem dano.",
+        "challenge": "Por que a embalagem do café pode precisar se defender de quatro ameaças diferentes em vez de apenas vedar o ar?"
+      }
+    },
+    "id": 212
+  },
+  {
+    "number": "213",
+    "title": "Degassing and the CO2 Curve",
+    "category": "PKG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The process by which freshly roasted coffee releases carbon dioxide, a byproduct of roasting, over the days following roast — rapidly at first, then tapering off over one to two weeks.",
+    "why": "Degassing directly shapes both packaging design (valve bags exist to vent this gas) and brewing (too much trapped CO2 causes excessive bloom and uneven extraction, while too little means the coffee has gone stale).",
+    "tip": "Most specialty roasters recommend resting coffee 3–7 days post-roast before brewing, since very fresh coffee's high CO2 can actually make extraction less consistent, not more.",
+    "mistake": "Assuming 'freshly roasted' always means 'ready to brew immediately' — some rest time usually improves extraction consistency rather than hurting it.",
+    "challenge": "Why might a gas that's actively escaping the coffee still need to be accounted for in how the bag is designed?",
+    "related": [
+      "212",
+      "214"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Desgasificación y la Curva de CO2",
+        "definition": "El proceso mediante el cual el café recién tostado libera dióxido de carbono, un subproducto del tueste, en los días posteriores al tueste; rápidamente al principio y luego disminuyendo gradualmente durante una o dos semanas.",
+        "why": "La desgasificación moldea directamente tanto el diseño del envase (las bolsas con válvula existen para liberar este gas) como la preparación (demasiado CO2 atrapado causa una efervescencia excesiva y una extracción desigual, mientras que muy poco significa que el café ya ha perdido frescura).",
+        "tip": "La mayoría de los tostadores de especialidad recomiendan reposar el café de 3 a 7 días después del tueste antes de prepararlo, ya que el alto nivel de CO2 de un café muy fresco puede hacer que la extracción sea menos consistente, no más.",
+        "mistake": "Asumir que 'recién tostado' siempre significa 'listo para preparar de inmediato'; algo de tiempo de reposo suele mejorar la consistencia de la extracción en lugar de perjudicarla.",
+        "challenge": "¿Por qué un gas que está escapando activamente del café podría seguir siendo importante a la hora de diseñar la bolsa?"
+      },
+      "pt": {
+        "title": "A Degaseificação e a Curva de CO2",
+        "definition": "O processo pelo qual o café recém-torrado libera dióxido de carbono, um subproduto da torra, nos dias seguintes à torra; rapidamente no início e depois diminuindo gradualmente ao longo de uma a duas semanas.",
+        "why": "A degaseificação molda diretamente tanto o design da embalagem (os sacos com válvula existem para liberar esse gás) quanto o preparo (CO2 excessivo retido causa efervescência exagerada e extração irregular, enquanto pouco CO2 significa que o café já perdeu frescor).",
+        "tip": "A maioria dos torrefadores especiais recomenda descansar o café de 3 a 7 dias após a torra antes de prepará-lo, já que o alto CO2 de um café muito fresco pode tornar a extração menos consistente, não mais.",
+        "mistake": "Assumir que 'recém-torrado' sempre significa 'pronto para preparar imediatamente'; algum tempo de descanso costuma melhorar a consistência da extração em vez de prejudicá-la.",
+        "challenge": "Por que um gás que está ativamente escapando do café ainda precisaria ser levado em conta no design do saco?"
+      }
+    },
+    "id": 213
+  },
+  {
+    "number": "214",
+    "title": "One-Way Valve Bags",
+    "category": "PKG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee packaging fitted with a small degassing valve that lets CO2 escape from inside the bag without letting outside oxygen in.",
+    "why": "It solves a real packaging conflict — coffee needs to be sealed immediately after roasting to protect freshness, but sealing it airtight would trap escaping CO2 and eventually rupture or balloon the bag.",
+    "tip": "Press gently on a valve bag — if it's still slightly puffy days after roasting, that's actually a good freshness sign, since it means degassing is still active.",
+    "mistake": "Assuming a flat, non-puffy bag means bad packaging — it may simply mean the coffee is older and has finished degassing, not that the valve failed.",
+    "challenge": "Why does coffee packaging need a valve that lets gas out, when most food packaging is designed to keep everything sealed in and out?",
+    "related": [
+      "213",
+      "216"
+    ],
+    "translations": {
+      "es": {
+        "title": "Bolsas con Válvula Unidireccional",
+        "definition": "Envases de café equipados con una pequeña válvula de desgasificación que permite que el CO2 escape del interior de la bolsa sin dejar entrar el oxígeno exterior.",
+        "why": "Resuelve un conflicto real de envasado: el café debe sellarse inmediatamente después del tueste para proteger su frescura, pero sellarlo herméticamente atraparía el CO2 que se libera y eventualmente rompería o inflaría la bolsa.",
+        "tip": "Presiona suavemente una bolsa con válvula; si todavía está ligeramente hinchada días después del tueste, en realidad es una buena señal de frescura, ya que significa que la desgasificación sigue activa.",
+        "mistake": "Asumir que una bolsa plana y sin hinchazón significa un mal envasado; puede simplemente indicar que el café es más antiguo y ya terminó de desgasificarse, no que la válvula falló.",
+        "challenge": "¿Por qué el envasado de café necesita una válvula que deje salir el gas, cuando la mayoría de los envases de alimentos están diseñados para mantener todo sellado por dentro y por fuera?"
+      },
+      "pt": {
+        "title": "Sacos com Válvula Unidirecional",
+        "definition": "Embalagens de café equipadas com uma pequena válvula de degaseificação que permite que o CO2 escape de dentro do saco sem deixar o oxigênio externo entrar.",
+        "why": "Resolve um conflito real de embalagem: o café precisa ser selado imediatamente após a torra para proteger o frescor, mas selá-lo hermeticamente prenderia o CO2 que está sendo liberado e acabaria estufando ou rompendo o saco.",
+        "tip": "Aperte suavemente um saco com válvula; se ainda estiver levemente estufado dias após a torra, isso é na verdade um bom sinal de frescor, já que significa que a degaseificação ainda está ativa.",
+        "mistake": "Assumir que um saco murcho e sem estufamento significa má embalagem; pode simplesmente indicar que o café é mais antigo e já terminou de degaseificar, não que a válvula falhou.",
+        "challenge": "Por que a embalagem de café precisa de uma válvula que deixa o gás sair, quando a maioria das embalagens de alimentos é projetada para manter tudo vedado por dentro e por fora?"
+      }
+    },
+    "id": 214
+  },
+  {
+    "number": "215",
+    "title": "Roast Date vs \"Best By\" Labeling",
+    "category": "PKG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Two different pieces of information sometimes printed on coffee bags — the actual roast date tells you when the coffee was roasted, while a 'best by' date is a broader shelf-life estimate that can be set months out regardless of true freshness.",
+    "why": "A 'best by' date can make coffee roasted many months ago look just as fresh as coffee roasted last week, since both can carry a 'best by' date that's still far in the future.",
+    "tip": "Always look for an actual roast date on the bag rather than relying on a 'best by' date alone — specialty roasters print roast dates specifically because it's more meaningful information.",
+    "mistake": "Treating a distant 'best by' date as proof of freshness — it mainly tells you the coffee is still safe and saleable, not that it's at its flavor peak.",
+    "challenge": "Why might a roaster choose to print an actual roast date even though it's less flattering than a distant 'best by' date?",
+    "related": [
+      "212",
+      "216"
+    ],
+    "translations": {
+      "es": {
+        "title": "Fecha de Tueste vs. Etiquetado de \"Consumir Preferentemente Antes de\"",
+        "definition": "Dos datos distintos que a veces se imprimen en las bolsas de café: la fecha de tueste real indica cuándo se tostó el café, mientras que una fecha de 'consumir preferentemente antes de' es una estimación más amplia de vida útil que puede fijarse con meses de antelación, independientemente de la frescura real.",
+        "why": "Una fecha de 'consumir preferentemente antes de' puede hacer que un café tostado hace muchos meses parezca tan fresco como uno tostado la semana pasada, ya que ambos pueden llevar una fecha de este tipo que todavía está muy lejos en el futuro.",
+        "tip": "Busca siempre una fecha de tueste real en la bolsa en lugar de confiar solo en la fecha de 'consumir preferentemente antes de'; los tostadores de especialidad imprimen fechas de tueste precisamente porque es información más significativa.",
+        "mistake": "Tratar una fecha de 'consumir preferentemente antes de' lejana como prueba de frescura; principalmente indica que el café sigue siendo seguro y vendible, no que está en su punto máximo de sabor.",
+        "challenge": "¿Por qué un tostador podría elegir imprimir una fecha de tueste real aunque sea menos favorecedora que una fecha de 'consumir preferentemente antes de' lejana?"
+      },
+      "pt": {
+        "title": "Data de Torra vs. Rótulo de \"Consumir Preferencialmente Antes de\"",
+        "definition": "Duas informações diferentes às vezes impressas nos sacos de café: a data de torra real indica quando o café foi torrado, enquanto uma data de 'consumir preferencialmente antes de' é uma estimativa mais ampla de validade que pode ser definida com meses de antecedência, independentemente do frescor real.",
+        "why": "Uma data de 'consumir preferencialmente antes de' pode fazer um café torrado há muitos meses parecer tão fresco quanto um torrado na semana passada, já que ambos podem trazer esse tipo de data ainda distante no futuro.",
+        "tip": "Procure sempre uma data de torra real no saco em vez de confiar só na data de 'consumir preferencialmente antes de'; torrefadores especiais imprimem datas de torra justamente porque é uma informação mais significativa.",
+        "mistake": "Tratar uma data de 'consumir preferencialmente antes de' distante como prova de frescor; ela indica principalmente que o café ainda é seguro e vendável, não que está no auge do sabor.",
+        "challenge": "Por que um torrefador escolheria imprimir uma data de torra real mesmo sendo menos favorável do que uma data distante de 'consumir preferencialmente antes de'?"
+      }
+    },
+    "id": 215
+  },
+  {
+    "number": "216",
+    "title": "Nitrogen Flushing",
+    "category": "PKG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A packaging technique where nitrogen gas displaces oxygen inside a coffee bag or can before sealing, creating a low-oxygen environment without needing a degassing valve.",
+    "why": "It's a common solution for pre-ground and canned coffee, which stales faster than whole bean and can't rely on a valve alone since there's less trapped CO2 actively pushing oxygen out from the inside.",
+    "tip": "Nitrogen flushing is especially common in canned or brick-packed ground coffee (like vacuum-sealed bricks) rather than fresh whole-bean specialty bags, where valve venting is usually enough.",
+    "mistake": "Assuming nitrogen flushing and one-way valves do the same job — flushing removes oxygen at the moment of packaging, while a valve manages gas escaping after the fact; some products use one, the other, or both.",
+    "challenge": "Why might pre-ground coffee need more aggressive oxygen protection than whole bean coffee does?",
+    "related": [
+      "214",
+      "217"
+    ],
+    "translations": {
+      "es": {
+        "title": "Inyección de Nitrógeno",
+        "definition": "Una técnica de envasado en la que el gas nitrógeno desplaza el oxígeno dentro de una bolsa o lata de café antes de sellarla, creando un ambiente con poco oxígeno sin necesidad de una válvula de desgasificación.",
+        "why": "Es una solución común para el café molido y enlatado, que pierde frescura más rápido que el café en grano y no puede depender solo de una válvula, ya que hay menos CO2 atrapado empujando activamente el oxígeno hacia afuera.",
+        "tip": "La inyección de nitrógeno es especialmente común en café molido enlatado o empacado en ladrillo (como los paquetes al vacío), en lugar de en bolsas frescas de café de especialidad en grano, donde la válvula de escape suele ser suficiente.",
+        "mistake": "Asumir que la inyección de nitrógeno y las válvulas unidireccionales cumplen la misma función; la inyección elimina el oxígeno en el momento del envasado, mientras que la válvula gestiona el gas que escapa después. Algunos productos usan una, la otra o ambas.",
+        "challenge": "¿Por qué el café molido podría necesitar una protección contra el oxígeno más agresiva que el café en grano entero?"
+      },
+      "pt": {
+        "title": "Injeção de Nitrogênio",
+        "definition": "Uma técnica de embalagem em que o gás nitrogênio desloca o oxigênio dentro de um saco ou lata de café antes de selar, criando um ambiente com pouco oxigênio sem precisar de válvula de degaseificação.",
+        "why": "É uma solução comum para café moído e enlatado, que perde frescor mais rápido do que o café em grão e não pode depender só de uma válvula, já que há menos CO2 retido empurrando ativamente o oxigênio para fora.",
+        "tip": "A injeção de nitrogênio é especialmente comum em café moído enlatado ou empacotado em tijolo (como embalagens a vácuo), em vez de em sacos frescos de café especial em grão, onde a válvula de escape geralmente já basta.",
+        "mistake": "Assumir que a injeção de nitrogênio e as válvulas unidirecionais fazem o mesmo trabalho; a injeção remove o oxigênio no momento da embalagem, enquanto a válvula gerencia o gás que escapa depois. Alguns produtos usam uma, a outra, ou ambas.",
+        "challenge": "Por que o café moído poderia precisar de uma proteção contra oxigênio mais agressiva do que o café em grão inteiro?"
+      }
+    },
+    "id": 216
+  },
+  {
+    "number": "217",
+    "title": "Bag Materials: Kraft, Foil-Lined, and Compostable",
+    "category": "PKG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The main material choices for coffee bags — plain kraft paper (cheap, minimal barrier protection), foil-lined or multi-layer plastic laminate (strong barrier, less biodegradable), and compostable bioplastic films (better environmental profile, historically weaker barrier performance).",
+    "why": "Every material choice is a real tradeoff between freshness protection, cost, and environmental impact — there's currently no material that maximizes all three at once.",
+    "tip": "Plain kraft paper without a liner looks appealing and rustic but offers very little protection against oxygen, light, and moisture — it's mostly used for short-shelf-life or in-house sold coffee.",
+    "mistake": "Assuming 'compostable' automatically means 'as protective as foil' — compostable films have improved a lot but historically lag behind multi-layer foil laminate in oxygen barrier performance.",
+    "challenge": "Why might a roaster deliberately choose a less eco-friendly bag material anyway?",
+    "related": [
+      "212",
+      "218"
+    ],
+    "translations": {
+      "es": {
+        "title": "Materiales de las Bolsas: Papel Kraft, Laminado con Aluminio y Compostables",
+        "definition": "Las principales opciones de material para bolsas de café: papel kraft simple (económico, protección mínima como barrera), laminado con aluminio o plástico multicapa (barrera fuerte, menos biodegradable) y películas bioplásticas compostables (mejor perfil ambiental, históricamente con menor rendimiento como barrera).",
+        "why": "Cada elección de material implica una compensación real entre protección de la frescura, costo e impacto ambiental; actualmente no existe un material que maximice los tres factores a la vez.",
+        "tip": "El papel kraft simple sin recubrimiento interior resulta atractivo y rústico, pero ofrece muy poca protección contra el oxígeno, la luz y la humedad; se usa principalmente para café de vida útil corta o de venta interna.",
+        "mistake": "Asumir que 'compostable' significa automáticamente 'tan protector como el aluminio'; las películas compostables han mejorado mucho, pero históricamente quedan por detrás del laminado multicapa con aluminio en su rendimiento como barrera de oxígeno.",
+        "challenge": "¿Por qué un tostador podría elegir deliberadamente un material de bolsa menos ecológico de todos modos?"
+      },
+      "pt": {
+        "title": "Materiais dos Sacos: Papel Kraft, Laminado com Alumínio e Compostáveis",
+        "definition": "As principais opções de material para sacos de café: papel kraft simples (barato, proteção mínima como barreira), laminado com alumínio ou plástico multicamada (barreira forte, menos biodegradável) e filmes bioplásticos compostáveis (melhor perfil ambiental, historicamente com desempenho de barreira mais fraco).",
+        "why": "Cada escolha de material envolve uma troca real entre proteção do frescor, custo e impacto ambiental; atualmente não existe um material que maximize os três ao mesmo tempo.",
+        "tip": "O papel kraft simples sem revestimento interno parece atraente e rústico, mas oferece pouquíssima proteção contra oxigênio, luz e umidade; é usado principalmente para café de validade curta ou vendido no próprio local.",
+        "mistake": "Assumir que 'compostável' significa automaticamente 'tão protetor quanto o alumínio'; os filmes compostáveis melhoraram muito, mas historicamente ficam atrás do laminado multicamada com alumínio no desempenho como barreira de oxigênio.",
+        "challenge": "Por que um torrefador poderia escolher deliberadamente um material de saco menos ecológico mesmo assim?"
+      }
+    },
+    "id": 217
+  },
+  {
+    "number": "218",
+    "title": "The Freshness Window After Grinding",
+    "category": "PKG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The short period — often estimated at 15 to 30 minutes — during which ground coffee retains most of its aromatic compounds before oxidation and CO2 loss significantly degrade flavor.",
+    "why": "Grinding dramatically increases the coffee's surface area exposed to oxygen, which is why ground coffee stales far faster than whole beans regardless of how well it's packaged.",
+    "tip": "Grinding right before brewing is one of the single highest-impact freshness habits available to a home brewer — more impactful than most storage upgrades.",
+    "mistake": "Assuming good packaging can fully compensate for grinding coffee well in advance — no amount of good packaging fully offsets the surface-area problem once coffee is ground.",
+    "challenge": "Why does grinding coffee change its staling speed so much more than simply opening a bag of whole beans does?",
+    "related": [
+      "213",
+      "217"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Ventana de Frescura Después de Moler",
+        "definition": "El breve periodo, a menudo estimado entre 15 y 30 minutos, durante el cual el café molido conserva la mayoría de sus compuestos aromáticos antes de que la oxidación y la pérdida de CO2 degraden significativamente su sabor.",
+        "why": "Moler aumenta drásticamente la superficie del café expuesta al oxígeno, por lo que el café molido pierde frescura mucho más rápido que el café en grano, sin importar qué tan bien esté envasado.",
+        "tip": "Moler justo antes de preparar es uno de los hábitos de frescura de mayor impacto disponibles para quien prepara café en casa; más impactante que la mayoría de las mejoras en el almacenamiento.",
+        "mistake": "Asumir que un buen envasado puede compensar completamente moler el café con mucha antelación; ninguna cantidad de buen envasado compensa del todo el problema de la superficie una vez que el café está molido.",
+        "challenge": "¿Por qué moler el café cambia tanto su velocidad de envejecimiento, mucho más que simplemente abrir una bolsa de granos enteros?"
+      },
+      "pt": {
+        "title": "A Janela de Frescor Após a Moagem",
+        "definition": "O curto período, muitas vezes estimado entre 15 e 30 minutos, durante o qual o café moído retém a maior parte de seus compostos aromáticos antes que a oxidação e a perda de CO2 degradem significativamente o sabor.",
+        "why": "Moer aumenta drasticamente a superfície do café exposta ao oxigênio, por isso o café moído perde o frescor muito mais rápido do que o café em grão, não importa quão bem embalado esteja.",
+        "tip": "Moer bem antes de preparar é um dos hábitos de frescor de maior impacto disponíveis para quem prepara café em casa; mais impactante do que a maioria das melhorias de armazenamento.",
+        "mistake": "Assumir que uma boa embalagem pode compensar totalmente moer o café com muita antecedência; nenhuma quantidade de boa embalagem compensa totalmente o problema da superfície depois que o café é moído.",
+        "challenge": "Por que moer o café muda tanto sua velocidade de envelhecimento, muito mais do que simplesmente abrir um saco de grãos inteiros?"
+      }
+    },
+    "id": 218
+  },
+  {
+    "number": "219",
+    "title": "Storage Myths: The Fridge and Freezer Debate",
+    "category": "PKG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A long-running disagreement in coffee circles over whether refrigerating or freezing coffee helps or harms freshness — refrigeration is now widely discouraged due to moisture and odor absorption, while freezing in truly airtight, portioned packaging remains debated but has real specialty-industry support for long-term storage.",
+    "why": "Getting this wrong can actively damage coffee rather than protect it — a fridge's humid, odor-filled environment is often worse for coffee than a cool, dark cupboard.",
+    "tip": "If freezing, portion coffee into small, airtight amounts first and avoid repeated freeze-thaw cycles, since that repeated temperature swing (not the cold itself) is what causes condensation damage.",
+    "mistake": "Refrigerating coffee in a normal kitchen fridge — the moisture and strong food odors in a fridge cause more harm than the cool temperature helps.",
+    "challenge": "Why might the same appliance be genuinely useful for long-term storage but harmful for everyday storage?",
+    "related": [
+      "212",
+      "218"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mitos del Almacenamiento: El Debate sobre la Nevera y el Congelador",
+        "definition": "Un desacuerdo de larga data en los círculos cafeteros sobre si refrigerar o congelar el café ayuda o perjudica su frescura; la refrigeración ahora se desaconseja ampliamente debido a la absorción de humedad y olores, mientras que congelar en un envase realmente hermético y porcionado sigue siendo debatido, pero cuenta con respaldo real de la industria de especialidad para el almacenamiento a largo plazo.",
+        "why": "Equivocarse en esto puede dañar activamente el café en lugar de protegerlo; el ambiente húmedo y lleno de olores de una nevera suele ser peor para el café que un armario fresco y oscuro.",
+        "tip": "Si vas a congelar, porciona el café primero en cantidades pequeñas y herméticas, y evita ciclos repetidos de congelación y descongelación, ya que ese cambio repetido de temperatura (no el frío en sí) es lo que causa daño por condensación.",
+        "mistake": "Refrigerar el café en una nevera de cocina normal; la humedad y los fuertes olores de los alimentos en una nevera causan más daño del que ayuda la temperatura fresca.",
+        "challenge": "¿Por qué el mismo electrodoméstico podría ser realmente útil para el almacenamiento a largo plazo pero perjudicial para el almacenamiento diario?"
+      },
+      "pt": {
+        "title": "Mitos de Armazenamento: O Debate sobre Geladeira e Freezer",
+        "definition": "Uma discussão antiga nos círculos cafeeiros sobre se refrigerar ou congelar o café ajuda ou prejudica o frescor; a refrigeração agora é amplamente desaconselhada devido à absorção de umidade e odores, enquanto congelar em embalagem realmente hermética e porcionada ainda é debatido, mas tem apoio real da indústria especial para armazenamento de longo prazo.",
+        "why": "Errar nisso pode danificar ativamente o café em vez de protegê-lo; o ambiente úmido e cheio de odores de uma geladeira costuma ser pior para o café do que um armário fresco e escuro.",
+        "tip": "Se for congelar, primeiro porcione o café em quantidades pequenas e herméticas, e evite ciclos repetidos de congelamento e descongelamento, já que essa variação repetida de temperatura (não o frio em si) é o que causa dano por condensação.",
+        "mistake": "Refrigerar o café numa geladeira comum de cozinha; a umidade e os odores fortes de alimentos numa geladeira causam mais dano do que a temperatura fresca ajuda.",
+        "challenge": "Por que o mesmo eletrodoméstico pode ser genuinamente útil para armazenamento de longo prazo, mas prejudicial para o armazenamento do dia a dia?"
+      }
+    },
+    "id": 219
+  },
+  {
+    "number": "220",
+    "title": "Whole Bean vs Pre-Ground Shelf Life",
+    "category": "PKG",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The significant gap in usable freshness between whole bean coffee (which can hold reasonable quality for weeks in good packaging) and pre-ground coffee (which meaningfully declines within days due to its much larger exposed surface area).",
+    "why": "It's one of the simplest, highest-leverage purchasing decisions a coffee drinker can make — buying whole bean and grinding at home preserves far more flavor than buying pre-ground, independent of price or brand.",
+    "tip": "If grinding at home isn't an option, buy pre-ground coffee in smaller quantities more often rather than a large bag meant to last weeks.",
+    "mistake": "Assuming pre-ground coffee from a good roaster stays fresh as long as their whole bean product — the grind itself is the limiting factor, not the roaster's quality.",
+    "challenge": "Why might two bags of identical coffee from the same roast, one whole bean and one ground, have very different realistic shelf lives?",
+    "related": [
+      "218",
+      "213"
+    ],
+    "translations": {
+      "es": {
+        "title": "Vida Útil del Grano Entero vs. el Café Ya Molido",
+        "definition": "La diferencia significativa en frescura utilizable entre el café en grano entero (que puede mantener una calidad razonable durante semanas en un buen envase) y el café ya molido (que se deteriora notablemente en días debido a su superficie expuesta mucho mayor).",
+        "why": "Es una de las decisiones de compra más simples y de mayor impacto que puede tomar quien bebe café; comprar en grano entero y moler en casa conserva muchísimo más sabor que comprar molido, independientemente del precio o la marca.",
+        "tip": "Si moler en casa no es una opción, compra café ya molido en cantidades más pequeñas y con mayor frecuencia, en lugar de una bolsa grande pensada para durar semanas.",
+        "mistake": "Asumir que el café ya molido de un buen tostador se mantiene fresco tanto tiempo como su producto en grano entero; el molido en sí es el factor limitante, no la calidad del tostador.",
+        "challenge": "¿Por qué dos bolsas de café idéntico del mismo tueste, una en grano entero y otra molida, podrían tener una vida útil realista muy diferente?"
+      },
+      "pt": {
+        "title": "Vida Útil do Grão Inteiro vs. Café Já Moído",
+        "definition": "A diferença significativa no frescor utilizável entre o café em grão inteiro (que pode manter qualidade razoável por semanas numa boa embalagem) e o café já moído (que declina de forma perceptível em dias devido à sua superfície exposta muito maior).",
+        "why": "É uma das decisões de compra mais simples e de maior impacto que quem bebe café pode tomar; comprar em grão inteiro e moer em casa preserva muito mais sabor do que comprar já moído, independentemente do preço ou da marca.",
+        "tip": "Se moer em casa não for uma opção, compre café já moído em quantidades menores e com mais frequência, em vez de um saco grande pensado para durar semanas.",
+        "mistake": "Assumir que o café já moído de um bom torrefador se mantém fresco por tanto tempo quanto o produto em grão inteiro; a moagem em si é o fator limitante, não a qualidade do torrefador.",
+        "challenge": "Por que dois sacos de café idêntico da mesma torra, um em grão inteiro e outro moído, poderiam ter vidas úteis reais muito diferentes?"
+      }
+    },
+    "id": 220
+  },
+  {
+    "number": "221",
+    "title": "Packaging Formats Compared: Bags, Cans, and Capsules",
+    "category": "PKG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The main retail packaging formats for coffee — flexible valve bags (most common for specialty whole bean), rigid cans (often nitrogen-flushed, common for ground coffee), and single-serve capsules (individually sealed, maximum per-dose freshness protection at the cost of significant packaging waste).",
+    "why": "Each format represents a different balance of freshness protection, cost, convenience, and environmental impact — there's no universally 'best' format, only tradeoffs suited to different use cases.",
+    "tip": "Capsules protect freshness exceptionally well per individual dose, since each one is sealed separately, but that same individual sealing is what generates their outsized packaging waste per cup.",
+    "mistake": "Judging a packaging format purely on freshness protection without weighing cost and environmental tradeoffs — the 'best' format depends on what the buyer actually values most.",
+    "challenge": "Why might the packaging format with the best freshness protection also be the one with the worst environmental reputation?",
+    "related": [
+      "216",
+      "217"
+    ],
+    "translations": {
+      "es": {
+        "title": "Comparativa de Formatos de Envasado: Bolsas, Latas y Cápsulas",
+        "definition": "Los principales formatos de envasado minorista para el café: bolsas flexibles con válvula (las más comunes para café de especialidad en grano entero), latas rígidas (a menudo con inyección de nitrógeno, comunes para el café molido) y cápsulas monodosis (selladas individualmente, con la máxima protección de frescura por dosis a costa de una cantidad considerable de residuos de envasado).",
+        "why": "Cada formato representa un equilibrio distinto entre protección de la frescura, costo, comodidad e impacto ambiental; no existe un formato universalmente 'mejor', solo compensaciones adecuadas para distintos usos.",
+        "tip": "Las cápsulas protegen la frescura excepcionalmente bien por dosis individual, ya que cada una está sellada por separado, pero ese mismo sellado individual es lo que genera su desproporcionado residuo de envasado por taza.",
+        "mistake": "Juzgar un formato de envasado únicamente por la protección de la frescura sin sopesar las compensaciones de costo y medioambientales; el 'mejor' formato depende de lo que realmente más valore el comprador.",
+        "challenge": "¿Por qué el formato de envasado con mejor protección de frescura podría ser también el que tiene peor reputación medioambiental?"
+      },
+      "pt": {
+        "title": "Comparativo de Formatos de Embalagem: Sacos, Latas e Cápsulas",
+        "definition": "Os principais formatos de embalagem de varejo para café: sacos flexíveis com válvula (mais comuns para café especial em grão inteiro), latas rígidas (frequentemente com injeção de nitrogênio, comuns para café moído) e cápsulas de dose única (seladas individualmente, com máxima proteção de frescor por dose, ao custo de um volume significativo de resíduo de embalagem).",
+        "why": "Cada formato representa um equilíbrio diferente entre proteção do frescor, custo, conveniência e impacto ambiental; não existe um formato universalmente 'melhor', apenas trocas adequadas a usos diferentes.",
+        "tip": "As cápsulas protegem o frescor excepcionalmente bem por dose individual, já que cada uma é selada separadamente, mas essa mesma selagem individual é o que gera seu resíduo de embalagem desproporcional por xícara.",
+        "mistake": "Julgar um formato de embalagem apenas pela proteção do frescor sem pesar as trocas de custo e ambientais; o 'melhor' formato depende do que o comprador realmente mais valoriza.",
+        "challenge": "Por que o formato de embalagem com melhor proteção de frescor também pode ser o de pior reputação ambiental?"
+      }
+    },
+    "id": 221
+  }
+]
