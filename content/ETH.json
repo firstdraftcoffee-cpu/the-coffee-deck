@@ -1,0 +1,434 @@
+[
+  {
+    "number": "222",
+    "title": "Fair Trade Certification: What It Actually Guarantees",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A certification system that guarantees a minimum floor price for coffee, a social premium paid to farming cooperatives, and adherence to specific labor and environmental standards, in exchange for a certification fee paid by producers.",
+    "why": "The label is widely recognized by consumers, but it doesn't automatically mean the highest price paid, the best quality, or the most direct farmer relationship — understanding exactly what it guarantees (and what it doesn't) helps buyers make more informed choices.",
+    "tip": "Fair Trade's price floor only kicks in when the market (C-price) drops below it — when market prices are already high, Fair Trade certification mainly guarantees the social premium, not a price boost.",
+    "mistake": "Assuming a Fair Trade label means farmers received the highest possible price — it guarantees a floor, not a ceiling, and doesn't reflect quality-based premiums the way direct trade relationships often can.",
+    "challenge": "Why might a certification system that works well during low market prices matter less during a period of high prices?",
+    "related": [
+      "223",
+      "225"
+    ],
+    "translations": {
+      "es": {
+        "title": "Certificación de Comercio Justo: Qué Garantiza Realmente",
+        "definition": "Un sistema de certificación que garantiza un precio mínimo para el café, una prima social pagada a las cooperativas de productores y el cumplimiento de normas laborales y ambientales específicas, a cambio de una tarifa de certificación pagada por los productores.",
+        "why": "La etiqueta es ampliamente reconocida por los consumidores, pero no significa automáticamente el precio más alto pagado, la mejor calidad ni la relación más directa con el productor; entender exactamente qué garantiza (y qué no) ayuda a los compradores a tomar decisiones más informadas.",
+        "tip": "El precio mínimo del Comercio Justo solo se activa cuando el mercado (precio C) cae por debajo de él; cuando los precios de mercado ya son altos, la certificación de Comercio Justo garantiza principalmente la prima social, no un aumento de precio.",
+        "mistake": "Asumir que una etiqueta de Comercio Justo significa que los productores recibieron el precio más alto posible; garantiza un mínimo, no un máximo, y no refleja las primas por calidad que las relaciones de comercio directo suelen ofrecer.",
+        "challenge": "¿Por qué un sistema de certificación que funciona bien durante precios de mercado bajos podría importar menos durante un período de precios altos?"
+      },
+      "pt": {
+        "title": "Certificação de Comércio Justo: O Que Ela Realmente Garante",
+        "definition": "Um sistema de certificação que garante um preço mínimo para o café, um prêmio social pago às cooperativas de produtores e a adesão a padrões trabalhistas e ambientais específicos, em troca de uma taxa de certificação paga pelos produtores.",
+        "why": "O selo é amplamente reconhecido pelos consumidores, mas não significa automaticamente o preço mais alto pago, a melhor qualidade ou a relação mais direta com o produtor; entender exatamente o que ele garante (e o que não garante) ajuda os compradores a tomar decisões mais informadas.",
+        "tip": "O preço mínimo do Comércio Justo só entra em vigor quando o mercado (preço C) cai abaixo dele; quando os preços de mercado já estão altos, a certificação de Comércio Justo garante principalmente o prêmio social, não um aumento de preço.",
+        "mistake": "Assumir que um selo de Comércio Justo significa que os produtores receberam o preço mais alto possível; ele garante um mínimo, não um máximo, e não reflete os prêmios por qualidade que relações de comércio direto costumam oferecer.",
+        "challenge": "Por que um sistema de certificação que funciona bem durante preços de mercado baixos pode importar menos durante um período de preços altos?"
+      }
+    },
+    "id": 222
+  },
+  {
+    "number": "223",
+    "title": "Direct Trade vs Fair Trade",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Two different approaches to sourcing ethically: Fair Trade is a third-party certification system with standardized rules applied across many farms, while direct trade is an uncertified relationship a roaster builds directly with a specific farm or cooperative, with terms negotiated individually.",
+    "why": "Neither approach is universally better — direct trade can pay significantly more for quality but has no independent verification, while Fair Trade offers verified standards but at a fixed structure that doesn't reward quality the same way.",
+    "tip": "Ask a roaster claiming 'direct trade' what price they actually paid relative to the C-price — some roasters use the term loosely without real transparency, since it isn't a regulated label the way Fair Trade is.",
+    "mistake": "Assuming 'direct trade' automatically means a higher, fairer price than Fair Trade — without independent verification, that claim relies entirely on the roaster's own reporting.",
+    "challenge": "Why might the absence of third-party certification be both direct trade's biggest strength and its biggest weakness?",
+    "related": [
+      "222",
+      "224"
+    ],
+    "translations": {
+      "es": {
+        "title": "Comercio Directo vs. Comercio Justo",
+        "definition": "Dos enfoques distintos para el abastecimiento ético: el Comercio Justo es un sistema de certificación de terceros con reglas estandarizadas aplicadas en muchas fincas, mientras que el comercio directo es una relación no certificada que un tostador construye directamente con una finca o cooperativa específica, con condiciones negociadas individualmente.",
+        "why": "Ningún enfoque es universalmente mejor; el comercio directo puede pagar significativamente más por la calidad pero no cuenta con verificación independiente, mientras que el Comercio Justo ofrece estándares verificados pero con una estructura fija que no recompensa la calidad de la misma manera.",
+        "tip": "Pregunta a un tostador que afirma hacer 'comercio directo' qué precio pagó realmente en relación con el precio C; algunos tostadores usan el término de forma poco rigurosa sin transparencia real, ya que no es una etiqueta regulada como el Comercio Justo.",
+        "mistake": "Asumir que 'comercio directo' significa automáticamente un precio más alto y justo que el Comercio Justo; sin verificación independiente, esa afirmación depende completamente de lo que reporte el propio tostador.",
+        "challenge": "¿Por qué la ausencia de certificación de terceros podría ser tanto la mayor fortaleza como la mayor debilidad del comercio directo?"
+      },
+      "pt": {
+        "title": "Comércio Direto vs. Comércio Justo",
+        "definition": "Duas abordagens diferentes para o abastecimento ético: o Comércio Justo é um sistema de certificação de terceiros com regras padronizadas aplicadas em muitas fazendas, enquanto o comércio direto é uma relação não certificada que um torrefador constrói diretamente com uma fazenda ou cooperativa específica, com termos negociados individualmente.",
+        "why": "Nenhuma abordagem é universalmente melhor; o comércio direto pode pagar significativamente mais pela qualidade, mas não tem verificação independente, enquanto o Comércio Justo oferece padrões verificados, mas com uma estrutura fixa que não recompensa a qualidade da mesma forma.",
+        "tip": "Pergunte a um torrefador que afirma fazer 'comércio direto' qual preço ele realmente pagou em relação ao preço C; alguns torrefadores usam o termo de forma solta sem transparência real, já que não é um selo regulado como o Comércio Justo.",
+        "mistake": "Assumir que 'comércio direto' significa automaticamente um preço mais alto e justo do que o Comércio Justo; sem verificação independente, essa afirmação depende inteiramente do que o próprio torrefador relata.",
+        "challenge": "Por que a ausência de certificação de terceiros pode ser tanto a maior força quanto a maior fraqueza do comércio direto?"
+      }
+    },
+    "id": 223
+  },
+  {
+    "number": "224",
+    "title": "Rainforest Alliance and Environmental Certifications",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A certification focused primarily on environmental standards — biodiversity protection, sustainable farming practices, and forest conservation — rather than the price-floor model that Fair Trade centers on.",
+    "why": "It shows that 'ethical' coffee certifications aren't a single category — some focus mainly on price and labor conditions, others mainly on environmental practices, and a coffee can carry one, both, or neither.",
+    "tip": "Rainforest Alliance and Fair Trade certifications aren't mutually exclusive — some farms carry both, addressing different parts of the sustainability picture.",
+    "mistake": "Treating all sustainability certifications as interchangeable — they measure genuinely different things, so knowing which one a bag carries matters if a specific issue (price, labor, or environment) is what a buyer cares about most.",
+    "challenge": "Why might a single certification struggle to meaningfully cover both fair pricing and environmental protection at once?",
+    "related": [
+      "222",
+      "228"
+    ],
+    "translations": {
+      "es": {
+        "title": "Rainforest Alliance y las Certificaciones Ambientales",
+        "definition": "Una certificación centrada principalmente en estándares ambientales (protección de la biodiversidad, prácticas agrícolas sostenibles y conservación forestal) en lugar del modelo de precio mínimo en el que se centra el Comercio Justo.",
+        "why": "Demuestra que las certificaciones de café 'ético' no son una categoría única; algunas se centran principalmente en el precio y las condiciones laborales, otras principalmente en las prácticas ambientales, y un café puede llevar una, ambas o ninguna.",
+        "tip": "Las certificaciones Rainforest Alliance y Comercio Justo no son mutuamente excluyentes; algunas fincas cuentan con ambas, abordando distintas partes del panorama de sostenibilidad.",
+        "mistake": "Tratar todas las certificaciones de sostenibilidad como intercambiables; miden aspectos genuinamente distintos, así que saber cuál lleva una bolsa importa si al comprador le preocupa especialmente un tema concreto (precio, mano de obra o medio ambiente).",
+        "challenge": "¿Por qué una sola certificación podría tener dificultades para cubrir de manera significativa tanto el precio justo como la protección ambiental a la vez?"
+      },
+      "pt": {
+        "title": "Rainforest Alliance e as Certificações Ambientais",
+        "definition": "Uma certificação focada principalmente em padrões ambientais (proteção da biodiversidade, práticas agrícolas sustentáveis e conservação florestal) em vez do modelo de preço mínimo em que o Comércio Justo se concentra.",
+        "why": "Mostra que as certificações de café 'ético' não são uma categoria única; algumas se concentram principalmente no preço e nas condições de trabalho, outras principalmente nas práticas ambientais, e um café pode ter uma, ambas ou nenhuma.",
+        "tip": "As certificações Rainforest Alliance e Comércio Justo não são mutuamente exclusivas; algumas fazendas têm as duas, abordando partes diferentes do panorama de sustentabilidade.",
+        "mistake": "Tratar todas as certificações de sustentabilidade como intercambiáveis; elas medem coisas genuinamente diferentes, então saber qual delas um pacote traz importa se o que mais preocupa o comprador é um tema específico (preço, trabalho ou meio ambiente).",
+        "challenge": "Por que uma única certificação pode ter dificuldade em cobrir de forma significativa tanto o preço justo quanto a proteção ambiental ao mesmo tempo?"
+      }
+    },
+    "id": 224
+  },
+  {
+    "number": "225",
+    "title": "The Farmer's Share of the Retail Price",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The portion of a coffee product's final retail price that actually reaches the farmer who grew it — typically a small fraction, with the rest distributed across processing, exporting, roasting, retail, and other supply chain steps.",
+    "why": "It's one of the most cited statistics in coffee sustainability discussions, and it explains why a coffee can be sold at a high retail price while the farmer still receives very little without direct intervention like premium pricing or direct trade relationships.",
+    "tip": "Compare the farmer's share across different sales channels for the same coffee — a bag sold directly by a roaster who paid well often reflects a meaningfully different farmer share than the same origin sold as a commodity blend.",
+    "mistake": "Assuming a higher retail price for coffee automatically means more money reaches the farmer — retail price reflects the whole supply chain's costs and margins, not just what the farmer was paid.",
+    "challenge": "Why might raising the retail price of coffee not by itself guarantee farmers receive more of it?",
+    "related": [
+      "226",
+      "223"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Parte del Precio Minorista que Recibe el Productor",
+        "definition": "La porción del precio minorista final de un producto de café que realmente llega al productor que lo cultivó, típicamente una fracción pequeña, mientras el resto se distribuye entre el procesamiento, la exportación, el tueste, la venta minorista y otros pasos de la cadena de suministro.",
+        "why": "Es una de las estadísticas más citadas en los debates sobre sostenibilidad del café, y explica por qué un café puede venderse a un precio minorista alto mientras el productor sigue recibiendo muy poco sin una intervención directa, como precios con prima o relaciones de comercio directo.",
+        "tip": "Compara la parte que recibe el productor entre distintos canales de venta para el mismo café; una bolsa vendida directamente por un tostador que pagó bien a menudo refleja una parte del productor significativamente distinta a la del mismo origen vendido como mezcla de materia prima.",
+        "mistake": "Asumir que un precio minorista más alto para el café significa automáticamente que llega más dinero al productor; el precio minorista refleja los costos y márgenes de toda la cadena de suministro, no solo lo que se pagó al productor.",
+        "challenge": "¿Por qué subir el precio minorista del café podría no garantizar por sí solo que los productores reciban una mayor parte de él?"
+      },
+      "pt": {
+        "title": "A Parte do Preço de Varejo que Chega ao Produtor",
+        "definition": "A porção do preço final de varejo de um produto de café que realmente chega ao produtor que o cultivou, tipicamente uma fração pequena, enquanto o restante é distribuído entre processamento, exportação, torra, varejo e outras etapas da cadeia de suprimentos.",
+        "why": "É uma das estatísticas mais citadas nos debates sobre sustentabilidade do café, e explica por que um café pode ser vendido a um preço de varejo alto enquanto o produtor ainda recebe muito pouco sem uma intervenção direta, como preços premium ou relações de comércio direto.",
+        "tip": "Compare a parte do produtor entre diferentes canais de venda para o mesmo café; um pacote vendido diretamente por um torrefador que pagou bem costuma refletir uma parte do produtor significativamente diferente da mesma origem vendida como blend commodity.",
+        "mistake": "Assumir que um preço de varejo mais alto para o café significa automaticamente que mais dinheiro chega ao produtor; o preço de varejo reflete os custos e margens de toda a cadeia de suprimentos, não apenas o que foi pago ao produtor.",
+        "challenge": "Por que aumentar o preço de varejo do café pode não garantir sozinho que os produtores recebam mais dele?"
+      }
+    },
+    "id": 225
+  },
+  {
+    "number": "226",
+    "title": "The C-Price and Why It Matters",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The benchmark global commodity price for arabica coffee, set by futures trading on the ICE exchange, that most non-specialty coffee contracts reference when setting the price paid to farmers.",
+    "why": "The C-price is volatile and disconnected from actual production costs — when it falls below what it costs a farmer to grow coffee, farmers can lose money on every harvest regardless of quality, which is the exact problem Fair Trade's price floor was designed to address.",
+    "tip": "Specialty coffee is often bought at a negotiated price relative to the C-price (a 'differential') rather than at the C-price itself, which is one reason specialty and commodity coffee farmer incomes can diverge sharply.",
+    "mistake": "Assuming all coffee is priced the same way — commodity-grade coffee is heavily exposed to C-price swings, while specialty coffee bought through direct or certified relationships is often more insulated from that volatility.",
+    "challenge": "Why might a coffee farmer's income depend heavily on a financial market they have no direct connection to or control over?",
+    "related": [
+      "225",
+      "227"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Precio C y Por Qué Importa",
+        "definition": "El precio de referencia global de la materia prima para el café arábica, fijado mediante la negociación de futuros en la bolsa ICE, que la mayoría de los contratos de café no especializado utilizan como referencia al fijar el precio pagado a los productores.",
+        "why": "El precio C es volátil y está desconectado de los costos reales de producción; cuando cae por debajo de lo que le cuesta a un productor cultivar café, los productores pueden perder dinero en cada cosecha sin importar la calidad, que es exactamente el problema que el precio mínimo del Comercio Justo fue diseñado para abordar.",
+        "tip": "El café de especialidad a menudo se compra a un precio negociado relativo al precio C (un 'diferencial') en lugar de al precio C en sí, lo cual es una de las razones por las que los ingresos de los productores de café de especialidad y de materia prima pueden divergir marcadamente.",
+        "mistake": "Asumir que todo el café se fija de la misma manera; el café de calidad comercial está muy expuesto a las fluctuaciones del precio C, mientras que el café de especialidad comprado mediante relaciones directas o certificadas suele estar más protegido de esa volatilidad.",
+        "challenge": "¿Por qué los ingresos de un productor de café podrían depender en gran medida de un mercado financiero con el que no tiene conexión ni control directo?"
+      },
+      "pt": {
+        "title": "O Preço C e Por Que Ele Importa",
+        "definition": "O preço de referência global da commodity para o café arábica, definido pela negociação de futuros na bolsa ICE, que a maioria dos contratos de café não especial usa como referência ao definir o preço pago aos produtores.",
+        "why": "O preço C é volátil e desconectado dos custos reais de produção; quando cai abaixo do que custa a um produtor cultivar café, os produtores podem perder dinheiro em cada colheita independentemente da qualidade, que é exatamente o problema que o preço mínimo do Comércio Justo foi criado para resolver.",
+        "tip": "O café especial costuma ser comprado a um preço negociado relativo ao preço C (um 'diferencial') em vez do preço C em si, o que é uma das razões pelas quais a renda de produtores de café especial e de commodity pode divergir bastante.",
+        "mistake": "Assumir que todo café é precificado da mesma forma; o café de qualidade commodity está muito exposto às oscilações do preço C, enquanto o café especial comprado por relações diretas ou certificadas costuma estar mais protegido dessa volatilidade.",
+        "challenge": "Por que a renda de um produtor de café pode depender fortemente de um mercado financeiro com o qual ele não tem conexão nem controle direto?"
+      }
+    },
+    "id": 226
+  },
+  {
+    "number": "227",
+    "title": "Living Income vs Poverty Line",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Two different economic benchmarks used to assess farmer welfare — the poverty line is a minimum survival threshold, while a living income covers a decent standard of living including savings, healthcare, and education, and is substantially higher.",
+    "why": "Many sustainability discussions focus on lifting farmers 'above the poverty line,' but that's a much lower bar than a living income — a farmer can be technically above the poverty line while still far short of economic security.",
+    "tip": "When a coffee brand cites a farmer income statistic, check which benchmark it's measured against — 'above the poverty line' and 'living income' represent very different levels of actual welfare.",
+    "mistake": "Treating 'not in poverty' and 'earning a living income' as roughly the same claim — the gap between them is often the actual size of the problem sustainability programs are trying to solve.",
+    "challenge": "Why might a certification program's own success metric matter as much as its stated goal?",
+    "related": [
+      "226",
+      "228"
+    ],
+    "translations": {
+      "es": {
+        "title": "Ingreso Digno vs. Línea de Pobreza",
+        "definition": "Dos referencias económicas distintas utilizadas para evaluar el bienestar de los productores: la línea de pobreza es un umbral mínimo de supervivencia, mientras que un ingreso digno cubre un nivel de vida decente que incluye ahorros, atención médica y educación, y es sustancialmente más alto.",
+        "why": "Muchos debates sobre sostenibilidad se centran en llevar a los productores 'por encima de la línea de pobreza', pero ese es un umbral mucho más bajo que un ingreso digno; un productor puede estar técnicamente por encima de la línea de pobreza mientras sigue muy lejos de la seguridad económica.",
+        "tip": "Cuando una marca de café cita una estadística de ingresos de los productores, revisa contra qué referencia se mide; 'por encima de la línea de pobreza' e 'ingreso digno' representan niveles de bienestar real muy diferentes.",
+        "mistake": "Tratar 'no estar en la pobreza' y 'ganar un ingreso digno' como afirmaciones aproximadamente iguales; la brecha entre ambas suele ser el tamaño real del problema que los programas de sostenibilidad intentan resolver.",
+        "challenge": "¿Por qué la propia métrica de éxito de un programa de certificación podría importar tanto como su objetivo declarado?"
+      },
+      "pt": {
+        "title": "Renda Digna vs. Linha de Pobreza",
+        "definition": "Dois parâmetros econômicos diferentes usados para avaliar o bem-estar dos produtores: a linha de pobreza é um limiar mínimo de sobrevivência, enquanto uma renda digna cobre um padrão de vida decente, incluindo poupança, saúde e educação, e é substancialmente mais alta.",
+        "why": "Muitas discussões sobre sustentabilidade se concentram em tirar os produtores 'acima da linha de pobreza', mas essa é uma barra muito mais baixa do que uma renda digna; um produtor pode estar tecnicamente acima da linha de pobreza e ainda estar longe da segurança econômica.",
+        "tip": "Quando uma marca de café cita uma estatística de renda de produtores, verifique contra qual parâmetro ela é medida; 'acima da linha de pobreza' e 'renda digna' representam níveis de bem-estar real muito diferentes.",
+        "mistake": "Tratar 'não estar na pobreza' e 'ganhar uma renda digna' como afirmações praticamente iguais; a diferença entre elas costuma ser o tamanho real do problema que os programas de sustentabilidade tentam resolver.",
+        "challenge": "Por que a própria métrica de sucesso de um programa de certificação pode importar tanto quanto seu objetivo declarado?"
+      }
+    },
+    "id": 227
+  },
+  {
+    "number": "228",
+    "title": "Shade-Grown Coffee and Biodiversity",
+    "category": "ETH",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "Coffee grown under a canopy of taller trees rather than in open, cleared fields — a farming method associated with higher biodiversity, since the tree canopy provides habitat for birds and other wildlife.",
+    "why": "Shade-grown farming is widely cited as more environmentally beneficial than sun-grown monoculture, but it also often means lower yields per hectare, which creates a real economic tradeoff for farmers choosing between methods.",
+    "tip": "'Bird Friendly' certification, run by the Smithsonian, specifically requires shade-grown methods and is one of the stricter environmental standards in coffee.",
+    "mistake": "Assuming shade-grown is simply the 'correct' choice for every farm — the lower yields it typically produces are a real cost that farmers weigh against the environmental and often quality-related benefits.",
+    "challenge": "Why might an environmentally beneficial farming method still be a difficult choice for a farmer to make?",
+    "related": [
+      "224",
+      "230"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café de Sombra y la Biodiversidad",
+        "definition": "Café cultivado bajo un dosel de árboles más altos en lugar de en campos abiertos y despejados; un método de cultivo asociado con una mayor biodiversidad, ya que el dosel arbóreo proporciona hábitat para aves y otra fauna silvestre.",
+        "why": "El cultivo de sombra se cita ampliamente como más beneficioso para el medio ambiente que el monocultivo a pleno sol, pero también suele significar rendimientos más bajos por hectárea, lo que crea una verdadera compensación económica para los productores que eligen entre métodos.",
+        "tip": "La certificación 'Bird Friendly', gestionada por el Smithsonian, exige específicamente métodos de cultivo de sombra y es uno de los estándares ambientales más estrictos en el café.",
+        "mistake": "Asumir que el cultivo de sombra es simplemente la opción 'correcta' para todas las fincas; los rendimientos más bajos que suele producir son un costo real que los productores sopesan frente a los beneficios ambientales y, a menudo, relacionados con la calidad.",
+        "challenge": "¿Por qué un método de cultivo beneficioso para el medio ambiente podría seguir siendo una decisión difícil para un productor?"
+      },
+      "pt": {
+        "title": "Café de Sombra e Biodiversidade",
+        "definition": "Café cultivado sob um dossel de árvores mais altas em vez de em campos abertos e limpos; um método de cultivo associado a maior biodiversidade, já que o dossel de árvores fornece habitat para pássaros e outra vida selvagem.",
+        "why": "O cultivo de sombra é amplamente citado como mais benéfico ambientalmente do que a monocultura a pleno sol, mas também costuma significar produtividades mais baixas por hectare, o que cria uma troca econômica real para produtores que escolhem entre métodos.",
+        "tip": "A certificação 'Bird Friendly', administrada pelo Smithsonian, exige especificamente métodos de cultivo de sombra e é um dos padrões ambientais mais rigorosos no café.",
+        "mistake": "Assumir que o cultivo de sombra é simplesmente a escolha 'correta' para toda fazenda; a produtividade mais baixa que costuma gerar é um custo real que os produtores pesam contra os benefícios ambientais e, muitas vezes, relacionados à qualidade.",
+        "challenge": "Por que um método de cultivo ambientalmente benéfico ainda pode ser uma escolha difícil para um produtor fazer?"
+      }
+    },
+    "id": 228
+  },
+  {
+    "number": "229",
+    "title": "Water Use in Coffee Processing",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The significant volume of water used in washed processing to remove coffee cherry pulp and mucilage, and the wastewater management challenge this creates for mills, especially in water-scarce growing regions.",
+    "why": "Water pollution from untreated coffee processing wastewater (high in organic matter and acidity) can seriously damage local waterways, making wastewater treatment a real environmental cost of washed processing that natural/dry processing avoids.",
+    "tip": "Many modern washing stations now use recirculating or low-water systems specifically to cut both water consumption and pollution, a shift driven partly by sustainability pressure and partly by real water scarcity.",
+    "mistake": "Assuming natural (dry) processing is automatically 'more sustainable' than washed processing without considering the full picture — dry processing uses far less water but has its own land-use and drying-space demands.",
+    "challenge": "Why might the same processing method be considered an environmental problem in one region and a non-issue in another?",
+    "related": [
+      "228",
+      "230"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Uso del Agua en el Procesamiento del Café",
+        "definition": "El volumen significativo de agua utilizado en el procesamiento lavado para eliminar la pulpa y el mucílago de la cereza de café, y el desafío de gestión de aguas residuales que esto genera para los beneficios, especialmente en regiones productoras con escasez de agua.",
+        "why": "La contaminación del agua por aguas residuales de procesamiento de café sin tratar (con alto contenido de materia orgánica y acidez) puede dañar seriamente las vías fluviales locales, lo que convierte el tratamiento de aguas residuales en un costo ambiental real del procesamiento lavado que el procesamiento natural o seco evita.",
+        "tip": "Muchas estaciones de lavado modernas ahora utilizan sistemas de recirculación o de bajo consumo de agua específicamente para reducir tanto el consumo de agua como la contaminación, un cambio impulsado en parte por la presión de sostenibilidad y en parte por la escasez real de agua.",
+        "mistake": "Asumir que el procesamiento natural (seco) es automáticamente 'más sostenible' que el procesamiento lavado sin considerar el panorama completo; el procesamiento seco usa mucha menos agua, pero tiene sus propias exigencias de uso del suelo y espacio de secado.",
+        "challenge": "¿Por qué el mismo método de procesamiento podría considerarse un problema ambiental en una región y algo intrascendente en otra?"
+      },
+      "pt": {
+        "title": "O Uso da Água no Processamento do Café",
+        "definition": "O volume significativo de água usado no processamento lavado para remover a polpa e a mucilagem da cereja do café, e o desafio de gestão de águas residuais que isso cria para os beneficiamentos, especialmente em regiões produtoras com escassez de água.",
+        "why": "A poluição da água por águas residuais de processamento de café não tratadas (com alto teor de matéria orgânica e acidez) pode danificar seriamente cursos d'água locais, tornando o tratamento de águas residuais um custo ambiental real do processamento lavado que o processamento natural/seco evita.",
+        "tip": "Muitas estações de lavagem modernas agora usam sistemas de recirculação ou de baixo consumo de água especificamente para reduzir tanto o consumo de água quanto a poluição, uma mudança impulsionada em parte pela pressão de sustentabilidade e em parte pela escassez real de água.",
+        "mistake": "Assumir que o processamento natural (seco) é automaticamente 'mais sustentável' do que o processamento lavado sem considerar o panorama completo; o processamento seco usa muito menos água, mas tem suas próprias exigências de uso do solo e espaço de secagem.",
+        "challenge": "Por que o mesmo método de processamento pode ser considerado um problema ambiental em uma região e algo irrelevante em outra?"
+      }
+    },
+    "id": 229
+  },
+  {
+    "number": "230",
+    "title": "Coffee and Deforestation Pressure",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The environmental pressure created when coffee cultivation expands into forested land, driven largely by farmers seeking new productive land as older plots decline in yield or as climate change shifts where coffee can be grown.",
+    "why": "It's a genuine tension in coffee sustainability: the same farmers most affected by climate pressure and declining yields are sometimes pushed toward practices, like clearing new land, that worsen the broader environmental problem.",
+    "tip": "The EU's deforestation regulation (EUDR) now requires proof that imported coffee wasn't grown on recently deforested land, pushing traceability further down the supply chain than most certifications previously required.",
+    "mistake": "Framing deforestation in coffee purely as a matter of individual farmer choice — it's often driven by structural pressures like low prices, climate shifts, and land scarcity that individual farmers have limited power to change alone.",
+    "challenge": "Why might solving deforestation in coffee require addressing farmer income and climate resilience, not just land-use rules?",
+    "related": [
+      "228",
+      "231"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café y la Presión de la Deforestación",
+        "definition": "La presión ambiental que se genera cuando el cultivo de café se expande hacia terrenos forestales, impulsada en gran medida por productores que buscan nuevas tierras productivas a medida que las parcelas más antiguas disminuyen su rendimiento o el cambio climático modifica dónde se puede cultivar café.",
+        "why": "Es una tensión genuina en la sostenibilidad del café: los mismos productores más afectados por la presión climática y la disminución de rendimientos a veces se ven empujados hacia prácticas, como despejar nuevas tierras, que agravan el problema ambiental más amplio.",
+        "tip": "El reglamento de deforestación de la UE (EUDR) ahora exige demostrar que el café importado no se cultivó en tierras deforestadas recientemente, lo que extiende la trazabilidad más allá de lo que la mayoría de las certificaciones exigían anteriormente.",
+        "mistake": "Enmarcar la deforestación en el café puramente como una cuestión de elección individual del productor; a menudo está impulsada por presiones estructurales como precios bajos, cambios climáticos y escasez de tierra, sobre las que los productores individuales tienen poco poder de cambio por sí solos.",
+        "challenge": "¿Por qué resolver la deforestación en el café podría requerir abordar el ingreso de los productores y la resiliencia climática, y no solo las normas de uso del suelo?"
+      },
+      "pt": {
+        "title": "O Café e a Pressão do Desmatamento",
+        "definition": "A pressão ambiental criada quando o cultivo de café se expande para terras florestadas, impulsionada em grande parte por produtores que buscam novas terras produtivas à medida que talhões mais antigos perdem produtividade ou o clima muda onde o café pode ser cultivado.",
+        "why": "É uma tensão genuína na sustentabilidade do café: os mesmos produtores mais afetados pela pressão climática e pela queda de produtividade às vezes são empurrados para práticas, como desmatar novas terras, que agravam o problema ambiental mais amplo.",
+        "tip": "O regulamento de desmatamento da UE (EUDR) agora exige prova de que o café importado não foi cultivado em terras recentemente desmatadas, ampliando a rastreabilidade além do que a maioria das certificações exigia antes.",
+        "mistake": "Enquadrar o desmatamento no café puramente como uma questão de escolha individual do produtor; costuma ser impulsionado por pressões estruturais como preços baixos, mudanças climáticas e escassez de terra, sobre as quais produtores individuais têm pouco poder de mudança sozinhos.",
+        "challenge": "Por que resolver o desmatamento no café pode exigir enfrentar a renda dos produtores e a resiliência climática, não apenas regras de uso da terra?"
+      }
+    },
+    "id": 230
+  },
+  {
+    "number": "231",
+    "title": "Child Labor in Coffee Supply Chains",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A documented risk in some coffee-growing regions, particularly during harvest season, where family farm labor structures, poverty, and limited access to schooling can result in children working on coffee farms, sometimes in violation of national and international labor standards.",
+    "why": "It's a serious issue that certification systems, buyer audits, and international labor organizations specifically monitor for, and it's directly connected to the broader economic pressures on smallholder farming households — low farmer income makes the underlying conditions more likely, not less.",
+    "tip": "Distinguish between children helping with light tasks on a family farm outside school hours (common and generally not classified as exploitative child labor) and children doing hazardous work or missing school for farm labor (the specific harm labor standards target).",
+    "mistake": "Treating this as a simple, fully solved problem once a certification label is present — audits reduce risk but don't eliminate it, and the underlying economic pressures that make it more likely often persist.",
+    "challenge": "Why might addressing farmer poverty be as important to this issue as directly monitoring for labor violations?",
+    "related": [
+      "227",
+      "225"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Trabajo Infantil en las Cadenas de Suministro del Café",
+        "definition": "Un riesgo documentado en algunas regiones productoras de café, particularmente durante la temporada de cosecha, donde las estructuras de trabajo familiar agrícola, la pobreza y el acceso limitado a la escolarización pueden hacer que niños trabajen en fincas de café, a veces incumpliendo normas laborales nacionales e internacionales.",
+        "why": "Es un problema serio que los sistemas de certificación, las auditorías de compradores y las organizaciones laborales internacionales monitorean específicamente, y está directamente relacionado con las presiones económicas más amplias sobre los hogares de pequeños productores; un ingreso bajo del productor hace que las condiciones subyacentes sean más probables, no menos.",
+        "tip": "Distingue entre niños que ayudan con tareas ligeras en una finca familiar fuera del horario escolar (algo común y generalmente no clasificado como trabajo infantil explotador) y niños que realizan trabajo peligroso o faltan a la escuela por labores agrícolas (el daño específico que las normas laborales buscan combatir).",
+        "mistake": "Tratar esto como un problema simple y totalmente resuelto una vez que aparece una etiqueta de certificación; las auditorías reducen el riesgo pero no lo eliminan, y las presiones económicas subyacentes que lo hacen más probable a menudo persisten.",
+        "challenge": "¿Por qué abordar la pobreza de los productores podría ser tan importante para este problema como monitorear directamente las infracciones laborales?"
+      },
+      "pt": {
+        "title": "Trabalho Infantil nas Cadeias de Suprimento do Café",
+        "definition": "Um risco documentado em algumas regiões produtoras de café, particularmente durante a época de colheita, onde estruturas de trabalho familiar agrícola, pobreza e acesso limitado à escolarização podem resultar em crianças trabalhando em fazendas de café, às vezes violando padrões trabalhistas nacionais e internacionais.",
+        "why": "É uma questão séria que sistemas de certificação, auditorias de compradores e organizações trabalhistas internacionais monitoram especificamente, e está diretamente ligada às pressões econômicas mais amplas sobre famílias de pequenos produtores; uma renda baixa do produtor torna as condições subjacentes mais prováveis, não menos.",
+        "tip": "Distinga entre crianças ajudando em tarefas leves numa fazenda familiar fora do horário escolar (comum e geralmente não classificado como trabalho infantil explorador) e crianças fazendo trabalho perigoso ou faltando à escola por trabalho agrícola (o dano específico que os padrões trabalhistas visam combater).",
+        "mistake": "Tratar isso como um problema simples e totalmente resolvido assim que um selo de certificação aparece; auditorias reduzem o risco, mas não o eliminam, e as pressões econômicas subjacentes que tornam isso mais provável costumam persistir.",
+        "challenge": "Por que enfrentar a pobreza dos produtores pode ser tão importante para essa questão quanto monitorar diretamente violações trabalhistas?"
+      }
+    },
+    "id": 231
+  },
+  {
+    "number": "232",
+    "title": "Carbon Footprint of a Cup of Coffee",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The total greenhouse gas emissions associated with producing, processing, transporting, roasting, and brewing a single cup of coffee, spanning the entire supply chain from farm to cup.",
+    "why": "It reframes coffee's environmental impact beyond just farming practices — packaging, shipping distance, roasting energy use, and even how a consumer brews and disposes of grounds all contribute measurably to the total footprint.",
+    "tip": "Studies on this consistently find that farm-level production (including land-use changes like deforestation) is usually the single largest contributor to a cup's carbon footprint, often outweighing transport and roasting combined.",
+    "mistake": "Assuming shipping distance is the dominant factor in coffee's carbon footprint — since nearly all coffee travels by efficient sea freight regardless of origin, farm-level practices usually matter more than how far the coffee traveled.",
+    "challenge": "Why might the environmental cost of a cup of coffee be determined more by what happens on the farm than by how far the beans traveled to reach you?",
+    "related": [
+      "230",
+      "228"
+    ],
+    "translations": {
+      "es": {
+        "title": "La Huella de Carbono de una Taza de Café",
+        "definition": "El total de emisiones de gases de efecto invernadero asociadas con la producción, el procesamiento, el transporte, el tueste y la preparación de una sola taza de café, abarcando toda la cadena de suministro desde la finca hasta la taza.",
+        "why": "Replantea el impacto ambiental del café más allá de las prácticas agrícolas; el envasado, la distancia de envío, el uso de energía en el tueste e incluso cómo un consumidor prepara y desecha los posos contribuyen todos de manera medible a la huella total.",
+        "tip": "Los estudios sobre este tema encuentran de forma constante que la producción a nivel de finca (incluidos cambios de uso del suelo como la deforestación) suele ser el mayor contribuyente individual a la huella de carbono de una taza, a menudo superando al transporte y al tueste combinados.",
+        "mistake": "Asumir que la distancia de envío es el factor dominante en la huella de carbono del café; dado que casi todo el café viaja por transporte marítimo eficiente sin importar su origen, las prácticas a nivel de finca suelen importar más que la distancia recorrida.",
+        "challenge": "¿Por qué el costo ambiental de una taza de café podría estar determinado más por lo que ocurre en la finca que por la distancia que recorrieron los granos hasta llegar a ti?"
+      },
+      "pt": {
+        "title": "A Pegada de Carbono de uma Xícara de Café",
+        "definition": "O total de emissões de gases de efeito estufa associadas à produção, processamento, transporte, torra e preparo de uma única xícara de café, abrangendo toda a cadeia de suprimentos da fazenda até a xícara.",
+        "why": "Isso reformula o impacto ambiental do café para além das práticas agrícolas; a embalagem, a distância de transporte, o uso de energia na torra e até como um consumidor prepara e descarta a borra contribuem todos de forma mensurável para a pegada total.",
+        "tip": "Estudos sobre o tema encontram consistentemente que a produção em nível de fazenda (incluindo mudanças no uso da terra, como o desmatamento) costuma ser a maior contribuinte individual para a pegada de carbono de uma xícara, muitas vezes superando o transporte e a torra combinados.",
+        "mistake": "Assumir que a distância de transporte é o fator dominante na pegada de carbono do café; já que quase todo o café viaja por transporte marítimo eficiente independentemente da origem, as práticas em nível de fazenda costumam importar mais do que a distância percorrida.",
+        "challenge": "Por que o custo ambiental de uma xícara de café pode ser determinado mais pelo que acontece na fazenda do que pela distância que os grãos percorreram até chegar até você?"
+      }
+    },
+    "id": 232
+  },
+  {
+    "number": "233",
+    "title": "Coffee Farming and Climate Change Vulnerability",
+    "category": "ETH",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "The significant risk climate change poses to coffee cultivation, since arabica in particular grows best within a narrow temperature and rainfall range that is shifting in many traditional growing regions, threatening both future yields and the land currently suitable for coffee.",
+    "why": "Studies projecting a substantial reduction in land suitable for arabica cultivation by mid-century make this one of the most consequential long-term issues in the entire coffee industry, affecting supply, farmer livelihoods, and prices simultaneously.",
+    "tip": "Some regions are responding by shifting cultivation to higher altitudes as lower elevations become too warm — a real adaptation strategy, though one with real limits, since suitable higher-altitude land isn't unlimited.",
+    "mistake": "Treating climate change as a distant future problem for coffee rather than something already measurably affecting yields and growing regions today.",
+    "challenge": "Why might climate change make many of the other sustainability issues in coffee (farmer income, deforestation pressure) harder to solve rather than separate from them?",
+    "related": [
+      "230",
+      "226"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Cultivo del Café y la Vulnerabilidad al Cambio Climático",
+        "definition": "El riesgo significativo que el cambio climático representa para el cultivo del café, ya que el arábica en particular crece mejor dentro de un rango estrecho de temperatura y precipitación que está cambiando en muchas regiones productoras tradicionales, amenazando tanto los rendimientos futuros como la tierra actualmente apta para el café.",
+        "why": "Los estudios que proyectan una reducción sustancial de la tierra apta para el cultivo de arábica hacia mediados de siglo convierten esto en uno de los problemas a largo plazo más consecuentes de toda la industria del café, afectando simultáneamente al suministro, los medios de vida de los productores y los precios.",
+        "tip": "Algunas regiones están respondiendo trasladando el cultivo a altitudes mayores a medida que las elevaciones más bajas se vuelven demasiado cálidas; una estrategia de adaptación real, aunque con límites reales, ya que la tierra apta a mayor altitud no es ilimitada.",
+        "mistake": "Tratar el cambio climático como un problema futuro y lejano para el café en lugar de algo que ya está afectando de manera medible los rendimientos y las regiones de cultivo hoy en día.",
+        "challenge": "¿Por qué el cambio climático podría hacer que otros problemas de sostenibilidad en el café (ingreso de los productores, presión de deforestación) sean más difíciles de resolver en lugar de estar separados de ellos?"
+      },
+      "pt": {
+        "title": "O Cultivo do Café e a Vulnerabilidade às Mudanças Climáticas",
+        "definition": "O risco significativo que as mudanças climáticas representam para o cultivo do café, já que o arábica em particular cresce melhor dentro de uma faixa estreita de temperatura e chuva que está mudando em muitas regiões produtoras tradicionais, ameaçando tanto a produtividade futura quanto a terra atualmente adequada para o café.",
+        "why": "Estudos que projetam uma redução substancial da terra adequada para o cultivo de arábica até meados do século tornam isso uma das questões de longo prazo mais consequentes de toda a indústria do café, afetando simultaneamente o abastecimento, o sustento dos produtores e os preços.",
+        "tip": "Algumas regiões estão respondendo deslocando o cultivo para altitudes maiores à medida que as elevações mais baixas ficam quentes demais; uma estratégia de adaptação real, embora com limites reais, já que a terra adequada em altitudes maiores não é ilimitada.",
+        "mistake": "Tratar as mudanças climáticas como um problema futuro e distante para o café, em vez de algo que já está afetando de forma mensurável a produtividade e as regiões de cultivo hoje.",
+        "challenge": "Por que as mudanças climáticas podem tornar outras questões de sustentabilidade no café (renda do produtor, pressão de desmatamento) mais difíceis de resolver, em vez de estarem separadas delas?"
+      }
+    },
+    "id": 233
+  }
+]
