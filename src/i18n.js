@@ -33,7 +33,7 @@ const strings = {
         sectionTip: "Pro Tip",
         sectionMistake: "Common Mistake",
         sectionChallenge: "Challenge",
-        challengeHint: "No single right answer — think it through, then compare your reasoning with the Definition and Why It Matters above.",
+        challengeHint: "No answer key — some challenges test recall of what's above, others ask you to reason beyond it. Talk it through with yourself, a colleague, or a trainer.",
         sectionRelated: "Related Cards",
 
         studyModeTitle: "Study Mode",
@@ -154,7 +154,7 @@ const strings = {
         sectionTip: "Consejo profesional",
         sectionMistake: "Error común",
         sectionChallenge: "Desafío",
-        challengeHint: "No hay una única respuesta correcta: piénsalo y luego compara tu razonamiento con la Definición y Por qué importa que aparecen arriba.",
+        challengeHint: "No hay una clave de respuestas: algunos desafíos ponen a prueba lo que ya leíste arriba, otros te piden razonar más allá de eso. Coméntalo contigo mismo, con un colega o con un formador.",
         sectionRelated: "Tarjetas relacionadas",
 
         studyModeTitle: "Modo estudio",
@@ -275,7 +275,7 @@ const strings = {
         sectionTip: "Dica profissional",
         sectionMistake: "Erro comum",
         sectionChallenge: "Desafio",
-        challengeHint: "Não há uma única resposta certa — pense a respeito e depois compare seu raciocínio com a Definição e o Por que importa acima.",
+        challengeHint: "Não há um gabarito: alguns desafios testam o que você acabou de ler acima, outros pedem que você raciocine além disso. Pense em voz alta sozinho, com um colega ou com um instrutor.",
         sectionRelated: "Cartões relacionados",
 
         studyModeTitle: "Modo estudo",
