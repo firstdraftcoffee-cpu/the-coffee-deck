@@ -3,6 +3,16 @@ import { setupSwipe } from "./swipe.js";
 import { lockScroll, unlockScroll } from "./scrollLock.js";
 import { t, onLocaleChange } from "./i18n.js";
 
+function escapeHtml(str) {
+
+    const div = document.createElement("div");
+
+    div.textContent = str;
+
+    return div.innerHTML;
+
+}
+
 onLocaleChange(() => {
 
     if (document.getElementById("study-mode")) {
@@ -18,6 +28,7 @@ let index = 0;
 let revealed = false;
 let shuffle = false;
 let onCloseCallback = null;
+let typedAnswers = {};
 
 export function startStudySession(studyCards, options = {}) {
 
@@ -30,6 +41,8 @@ export function startStudySession(studyCards, options = {}) {
     shuffle = options.shuffle ?? false;
 
     onCloseCallback = options.onClose ?? null;
+
+    typedAnswers = {};
 
     lockScroll();
 
@@ -113,6 +126,16 @@ ${card.category}
 <div class="study-content">
 
 ${revealed ? `
+
+${typedAnswers[card.number]?.trim() ? `
+<div class="study-section study-your-answer">
+
+<h4>${t("studyYourAnswerSection")}</h4>
+
+<p>${escapeHtml(typedAnswers[card.number])}</p>
+
+</div>
+` : ""}
 
 <div class="study-section">
 
@@ -198,6 +221,12 @@ ${t("thinkFirst")}
 
 ${t("pressReveal")}
 
+<textarea
+id="study-answer-input"
+class="study-answer-input"
+placeholder="${t("typeYourAnswerPlaceholder")}"
+>${escapeHtml(typedAnswers[card.number] ?? "")}</textarea>
+
 </div>
 
 `}
@@ -246,6 +275,12 @@ ${t("exitStudyMode")}
         document.getElementById("study-prev").onclick = previous;
 
     document.getElementById("study-next").onclick = next;
+
+    document.getElementById("study-answer-input")?.addEventListener("input", e => {
+
+        typedAnswers[card.number] = e.target.value;
+
+    });
 
     document.getElementById("study-reveal").onclick = () => {
 
@@ -336,6 +371,18 @@ function next() {
 }
 
 function keyboardHandler(e) {
+
+    if (e.target?.id === "study-answer-input") {
+
+        if (e.key === "Escape") {
+
+            e.target.blur();
+
+        }
+
+        return;
+
+    }
 
     switch (e.key) {
 

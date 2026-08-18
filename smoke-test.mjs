@@ -260,6 +260,25 @@ check("Swipe navigates within study mode", doc.querySelector(".study-window")?.d
 check("Body scroll stays locked during internal navigation (no flicker)", doc.body.style.position === "fixed");
 check("No errors from study mode swipe", errors.length === 0);
 
+// --- Typed answer in Study Mode ---
+const answerBox = doc.getElementById("study-answer-input");
+check("Study Mode shows a textarea to type your own answer before revealing", !!answerBox);
+answerBox.value = "My own test answer <script>";
+answerBox.dispatchEvent(new window.Event("input", { bubbles: true }));
+doc.getElementById("study-reveal").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+check("Typed answer appears in a 'Your answer' section after reveal", doc.querySelector(".study-your-answer")?.textContent.includes("My own test answer"));
+check("Typed answer is HTML-escaped, not executed as markup", !doc.querySelector(".study-your-answer script"));
+doc.getElementById("study-reveal").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+check("Typed answer persists in the textarea after hiding again", doc.getElementById("study-answer-input")?.value.includes("My own test answer"));
+
+const answerBoxAtSpace = doc.getElementById("study-answer-input");
+answerBoxAtSpace.focus();
+answerBoxAtSpace.dispatchEvent(new window.KeyboardEvent("keydown", { key: " ", bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+check("Pressing Space while typing an answer does not flip the card", !doc.querySelector(".study-your-answer"));
+
 doc.getElementById("study-exit").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Study mode closes", !doc.getElementById("study-mode"));

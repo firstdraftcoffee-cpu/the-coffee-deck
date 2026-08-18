@@ -1968,9 +1968,13 @@ nav{
 
     display:flex;
 
+    flex-direction:column;
+
     align-items:center;
 
     justify-content:center;
+
+    gap:var(--sp-4);
 
     min-height:220px;
 
@@ -1987,6 +1991,66 @@ nav{
     font-weight:700;
 
     animation:fade .25s ease;
+
+    padding:var(--sp-5);
+
+}
+
+.study-answer-input{
+
+    width:100%;
+
+    max-width:420px;
+
+    min-height:90px;
+
+    padding:var(--sp-3);
+
+    border-radius:var(--radius-md);
+
+    border:1.5px solid var(--line);
+
+    background:var(--surface);
+
+    color:var(--ink);
+
+    font-family:"Nunito",sans-serif;
+
+    font-size:var(--text-base);
+
+    font-weight:500;
+
+    text-align:left;
+
+    resize:vertical;
+
+    transition:.15s;
+
+}
+
+.study-answer-input:focus{
+
+    outline:none;
+
+    border-color:var(--accent);
+
+}
+
+.study-your-answer{
+
+    background:var(--accent-tint);
+
+    border:1.5px solid var(--accent);
+
+    border-radius:var(--radius-md);
+
+    padding:var(--sp-3) var(--sp-4);
+
+}
+
+.study-your-answer h4{
+
+    color:var(--accent-dark);
 
 }
 
