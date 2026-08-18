@@ -256,6 +256,38 @@ nav{
 
 }
 
+.subscribe-button{
+
+    padding:var(--sp-2) var(--sp-4);
+
+    border-radius:var(--radius-pill);
+
+    border:1px solid var(--accent-dark);
+
+    background:var(--accent-dark);
+
+    color:var(--on-accent);
+
+    font-size:var(--text-sm);
+
+    font-family:"Nunito",sans-serif;
+
+    font-weight:800;
+
+    cursor:pointer;
+
+    white-space:nowrap;
+
+    transition:.15s;
+
+}
+
+.subscribe-button:hover{
+
+    opacity:.85;
+
+}
+
 #count{
 
     font-size:var(--text-sm);
@@ -2600,6 +2632,7 @@ nav{
     .logo{ font-size:var(--text-md); }
     .nav-actions{ gap:var(--sp-2); width:100%; justify-content:flex-start; }
     .icon-button{ padding:6px var(--sp-3); font-size:var(--text-xs); }
+    .subscribe-button{ padding:6px var(--sp-3); font-size:var(--text-xs); }
     #count{ display:none; }
     .filter-panel-inner{ padding:var(--sp-4); }
     #filters{ gap:var(--sp-2); }

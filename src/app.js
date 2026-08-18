@@ -73,6 +73,7 @@ const filterToggle = document.getElementById("filterToggle");
 const filterPanel = document.getElementById("filterPanel");
 const studyToggle = document.getElementById("studyToggle");
 const statsToggle = document.getElementById("statsToggle");
+const subscribeToggle = document.getElementById("subscribeToggle");
 const langSwitch = document.getElementById("langSwitch");
 const homeButton = document.getElementById("homeButton");
 const themeToggle = document.getElementById("themeToggle");
@@ -159,6 +160,9 @@ function applyStaticStrings() {
 
     statsToggle.setAttribute("aria-label", t("navProgressLabel"));
     statsToggle.querySelector(".icon-label").textContent = t("navProgress");
+
+    subscribeToggle.setAttribute("aria-label", t("navSubscribeLabel"));
+    subscribeToggle.textContent = t("navSubscribe");
 
 }
 
@@ -253,6 +257,25 @@ function setupNav() {
         startStudySession(session, {
             onClose: renderHome
         });
+
+    };
+
+    subscribeToggle.onclick = () => {
+
+        closeViewer();
+        closeStudySession();
+        closeStats();
+        filterPanel.classList.remove("show");
+
+        renderHome();
+
+        homeIndex = homeCards.findIndex(card => card.isPaywallCard);
+
+        if (homeIndex === -1) {
+            homeIndex = 0;
+        }
+
+        renderHomeCard();
 
     };
 
@@ -497,6 +520,8 @@ export function renderHome() {
     homeCards = getVisibleCards();
 
     counter.textContent = t("cardCount", homeCards.length);
+
+    subscribeToggle.hidden = hasAccess();
 
     if (!hasAccess()) {
 

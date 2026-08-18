@@ -596,6 +596,16 @@ await new Promise(r => setTimeout(r, 250));
 
 check("Free visitor sees the reduced sample count, not the full deck", freeDoc.getElementById("count")?.textContent.includes("13") && !freeDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 
+check("Free visitor sees a Subscribe button in the header", freeDoc.getElementById("subscribeToggle")?.hidden === false);
+
+freeDoc.getElementById("subscribeToggle")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+check("Clicking the header Subscribe button jumps straight to the paywall card", !!freeDoc.querySelector(".paywall-card"));
+
+// Reset back to the first free card before continuing, so later tests' own navigation isn't affected
+freeDoc.getElementById("homeButton")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+
 // Swipe through all 13 free cards to reach the paywall card at the end
 for (let i = 0; i < 13; i++) {
     freeDoc.getElementById("homeNext")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
@@ -627,5 +637,6 @@ emailInput.value = "subscriber@example.com";
 freeDoc.getElementById("paywall-verify")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Restoring access with a valid subscriber email unlocks the full deck", freeDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+check("Header Subscribe button hides once access is restored", freeDoc.getElementById("subscribeToggle")?.hidden === true);
 
 console.log("\nDone.");
