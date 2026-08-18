@@ -7480,7 +7480,7 @@
     "hero_image": null,
     "definition": "Historic coffeehouses across Europe and colonial America served as informal meeting grounds where merchants, writers, scientists, and revolutionaries gathered to debate, trade, and organize.",
     "why": "It explains why coffeehouses are so often credited with incubating institutions and movements — from insurance markets to Enlightenment philosophy to political organizing — simply by giving diverse people a shared, affordable place to talk.",
-    "tip": "Look at this deck's History section for concrete examples — Lloyd's of London, the Tontine Coffee House, and Café Procope all trace real institutions back to coffeehouse conversations.",
+    "tip": "Look at this deck's History section for concrete examples — Lloyd's of London, the Tontine Coffee House, and Café Procope all trace real institutions back to coffeehouse conversations. The pattern held into the 20th century too: Gertrude Stein's Paris apartment salons in the 1900s-20s ran on the same coffeehouse logic, just relocated indoors.",
     "mistake": "Treating this as vague nostalgia rather than a specific historical pattern — coffeehouses succeeded at this because they were cheap, sober, and open to mixed company in eras when few other spaces were.",
     "challenge": "What made coffeehouses better suited to this role than taverns, which were older and more common?",
     "related": [
@@ -7492,7 +7492,7 @@
         "title": "Las Cafeterías como Cuna de Ideas",
         "definition": "Las cafeterías históricas de Europa y la América colonial funcionaron como puntos de encuentro informales donde comerciantes, escritores, científicos y revolucionarios se reunían para debatir, comerciar y organizarse.",
         "why": "Explica por qué a las cafeterías se les atribuye tan a menudo el haber incubado instituciones y movimientos, desde mercados de seguros hasta la filosofía de la Ilustración y la organización política, simplemente al ofrecer a personas diversas un lugar compartido y asequible para hablar.",
-        "tip": "Revisa la sección de Historia de esta baraja para ejemplos concretos; Lloyd's de Londres, la Tontine Coffee House y el Café Procope trazan instituciones reales hasta conversaciones en cafeterías.",
+        "tip": "Revisa la sección de Historia de esta baraja para ejemplos concretos; Lloyd's de Londres, la Tontine Coffee House y el Café Procope trazan instituciones reales hasta conversaciones en cafeterías. El patrón se mantuvo hasta el siglo XX: los salones parisinos de Gertrude Stein en su apartamento, entre 1900 y 1920, funcionaban con la misma lógica de cafetería, solo que trasladada a un espacio privado.",
         "mistake": "Tratar esto como una nostalgia vaga en lugar de un patrón histórico específico; las cafeterías tuvieron éxito en este papel porque eran baratas, sobrias y abiertas a compañías mixtas en épocas en que pocos otros espacios lo eran.",
         "challenge": "¿Qué hizo que las cafeterías fueran más adecuadas para este papel que las tabernas, que eran más antiguas y comunes?"
       },
@@ -7500,7 +7500,7 @@
         "title": "As Cafeterias como Berço de Ideias",
         "definition": "As cafeterias históricas da Europa e da América colonial funcionaram como pontos de encontro informais onde comerciantes, escritores, cientistas e revolucionários se reuniam para debater, negociar e se organizar.",
         "why": "Explica por que as cafeterias são tão frequentemente creditadas por incubar instituições e movimentos, de mercados de seguros à filosofia do Iluminismo e à organização política, simplesmente por oferecer a pessoas diversas um espaço compartilhado e acessível para conversar.",
-        "tip": "Veja a seção de História deste baralho para exemplos concretos; a Lloyd's de Londres, a Tontine Coffee House e o Café Procope têm origem real em conversas de cafeteria.",
+        "tip": "Veja a seção de História deste baralho para exemplos concretos; a Lloyd's de Londres, a Tontine Coffee House e o Café Procope têm origem real em conversas de cafeteria. O padrão se manteve até o século 20: os salões parisienses de Gertrude Stein em seu apartamento, entre 1900 e 1920, funcionavam com a mesma lógica de cafeteria, só que transferida para um espaço privado.",
         "mistake": "Tratar isso como uma nostalgia vaga em vez de um padrão histórico específico; as cafeterias tiveram sucesso nesse papel porque eram baratas, sóbrias e abertas a públicos mistos em épocas em que poucos outros espaços eram.",
         "challenge": "O que tornou as cafeterias mais adequadas para esse papel do que as tabernas, que eram mais antigas e comuns?"
       }
@@ -7722,5 +7722,41 @@
       }
     },
     "id": 210
+  },
+  {
+    "number": "211",
+    "title": "Writers Who Ran on Coffee",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": null,
+    "definition": "A long line of writers — Balzac, Voltaire, Rousseau, Kierkegaard, Goethe, Swift, Pope — were known for heavy, sometimes legendary, coffee habits tied directly to their writing routines.",
+    "why": "It shows coffee wasn't just a backdrop to the writing life but an active part of how many authors built the focus and stamina long creative work demands — and a few peer-reviewed studies since have found real links between moderate caffeine intake and improved divergent thinking.",
+    "tip": "Treat the specific cup-counts (Balzac's 50, Voltaire's 40) as literary folklore rather than verified fact — the same round numbers get attached to different writers across retellings, which is itself a sign they've grown in the telling.",
+    "mistake": "Repeating a writer's famous cup-count as established biography — most of these figures come from anecdote and their own dramatic self-description, not measured record.",
+    "challenge": "Why might writers reach for a specific, quotable number like '50 cups a day' rather than just saying they drank 'a lot' of coffee?",
+    "related": [
+      "204",
+      "205"
+    ],
+    "translations": {
+      "es": {
+        "title": "Escritores que Funcionaban a Base de Café",
+        "definition": "Una larga lista de escritores (Balzac, Voltaire, Rousseau, Kierkegaard, Goethe, Swift, Pope) eran conocidos por sus intensos, y a veces legendarios, hábitos cafeteros vinculados directamente a sus rutinas de escritura.",
+        "why": "Demuestra que el café no era solo un telón de fondo de la vida literaria, sino una parte activa de cómo muchos autores construían la concentración y la resistencia que exige el trabajo creativo de largo aliento; y algunos estudios revisados por pares han encontrado vínculos reales entre el consumo moderado de cafeína y una mayor capacidad de pensamiento divergente.",
+        "tip": "Trata los recuentos específicos de tazas (las 50 de Balzac, las 40 de Voltaire) como folclore literario más que como hechos verificados; los mismos números redondos se atribuyen a distintos escritores en cada nueva versión, lo cual es en sí mismo una señal de que han crecido con el relato.",
+        "mistake": "Repetir el famoso recuento de tazas de un escritor como biografía establecida; la mayoría de estas cifras provienen de anécdotas y de su propia autodescripción dramática, no de un registro medido.",
+        "challenge": "¿Por qué los escritores podrían recurrir a un número específico y citable como '50 tazas al día' en lugar de simplemente decir que bebían 'mucho' café?"
+      },
+      "pt": {
+        "title": "Escritores que Viviam de Café",
+        "definition": "Uma longa lista de escritores (Balzac, Voltaire, Rousseau, Kierkegaard, Goethe, Swift, Pope) era conhecida por hábitos cafeeiros intensos, às vezes lendários, ligados diretamente às suas rotinas de escrita.",
+        "why": "Mostra que o café não era apenas um pano de fundo da vida literária, mas uma parte ativa de como muitos autores construíam o foco e o fôlego que o trabalho criativo de longo prazo exige; e alguns estudos revisados por pares desde então encontraram vínculos reais entre o consumo moderado de cafeína e uma melhora no pensamento divergente.",
+        "tip": "Trate as contagens específicas de xícaras (as 50 de Balzac, as 40 de Voltaire) como folclore literário, não como fato verificado; os mesmos números redondos são atribuídos a escritores diferentes a cada nova versão, o que já é um sinal de que cresceram com o boato.",
+        "mistake": "Repetir a famosa contagem de xícaras de um escritor como biografia estabelecida; a maioria desses números vem de anedotas e da própria autodescrição dramática do autor, não de um registro medido.",
+        "challenge": "Por que os escritores recorreriam a um número específico e citável como '50 xícaras por dia' em vez de simplesmente dizer que bebiam 'muito' café?"
+      }
+    },
+    "id": 211
   }
 ]
