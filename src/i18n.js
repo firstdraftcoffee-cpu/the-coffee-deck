@@ -33,6 +33,7 @@ const strings = {
         sectionTip: "Pro Tip",
         sectionMistake: "Common Mistake",
         sectionChallenge: "Challenge",
+        challengeHint: "No single right answer — think it through, then compare your reasoning with the Definition and Why It Matters above.",
         sectionRelated: "Related Cards",
 
         studyModeTitle: "Study Mode",
@@ -153,6 +154,7 @@ const strings = {
         sectionTip: "Consejo profesional",
         sectionMistake: "Error común",
         sectionChallenge: "Desafío",
+        challengeHint: "No hay una única respuesta correcta: piénsalo y luego compara tu razonamiento con la Definición y Por qué importa que aparecen arriba.",
         sectionRelated: "Tarjetas relacionadas",
 
         studyModeTitle: "Modo estudio",
@@ -273,6 +275,7 @@ const strings = {
         sectionTip: "Dica profissional",
         sectionMistake: "Erro comum",
         sectionChallenge: "Desafio",
+        challengeHint: "Não há uma única resposta certa — pense a respeito e depois compare seu raciocínio com a Definição e o Por que importa acima.",
         sectionRelated: "Cartões relacionados",
 
         studyModeTitle: "Modo estudo",

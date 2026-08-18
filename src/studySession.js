@@ -150,6 +150,8 @@ ${revealed ? `
 
 <h4>${t("studyChallengeSection")}</h4>
 
+<p class="challenge-hint">${t("challengeHint")}</p>
+
 <p>${card.challenge}</p>
 
 </div>

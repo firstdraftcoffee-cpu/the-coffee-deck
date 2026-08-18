@@ -128,6 +128,15 @@ check("Dragging back right returns to the first card", afterPrevTitle === firstT
 
 check("No errors from home card swipe", errors.length === 0);
 
+// --- Full card viewer: Challenge section includes a self-check hint, distinct from the prompt itself ---
+doc.querySelector(".home-card")?.dispatchEvent(new global.window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 200));
+const challengeHintEl = doc.querySelector(".challenge-hint");
+check("Viewer's Challenge section shows a hint explaining there's no stored answer", !!challengeHintEl && challengeHintEl.textContent.trim().length > 0);
+check("The challenge hint text is distinct from the card's own challenge prompt text", challengeHintEl?.nextElementSibling?.textContent.trim() !== challengeHintEl?.textContent.trim());
+doc.querySelector(".close")?.dispatchEvent(new global.window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+
 // A real quick flick: short distance (60px, under the 80px distance threshold) but fast (50ms)
 // should still commit via velocity detection - this is the actual "feels stiff" fix
 const beforeFlick = doc.querySelector(".home-card")?.dataset.index;

@@ -1586,6 +1586,20 @@ nav{
 
 }
 
+.viewer-section p.challenge-hint{
+
+    font-size:var(--text-sm);
+
+    font-weight:500;
+
+    font-style:italic;
+
+    color:var(--ink-soft);
+
+    margin:0 0 var(--sp-2);
+
+}
+
 .viewer-related h3{
 
     font-size:var(--text-sm);
@@ -2007,6 +2021,22 @@ nav{
     line-height:1.75;
 
     font-weight:600;
+
+}
+
+.study-section p.challenge-hint{
+
+    font-size:var(--text-sm);
+
+    font-weight:500;
+
+    font-style:italic;
+
+    color:var(--ink-soft);
+
+    margin:0 0 var(--sp-2);
+
+    line-height:1.5;
 
 }
 

@@ -196,6 +196,8 @@ ${card.mistake}
 
 <h3>${t("sectionChallenge")}</h3>
 
+<p class="challenge-hint">${t("challengeHint")}</p>
+
 <p>
 
 ${card.challenge}
