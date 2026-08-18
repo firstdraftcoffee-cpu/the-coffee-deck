@@ -1,0 +1,2753 @@
+[
+  {
+    "number": "234",
+    "title": "V60 Pour-Over",
+    "category": "REC",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A manual pour-over method using a cone-shaped dripper with a large single hole and spiral ribs, designed to give the brewer full control over pour rate and agitation.",
+    "why": "The V60 is one of the most widely used pour-over methods in specialty coffee, prized for producing a clean, bright cup that highlights a coffee's origin character.",
+    "tip": "Pour in slow, controlled circles rather than a single dump — consistent pour technique matters more to the final cup than almost any other variable in this method.",
+    "mistake": "Pouring too fast or unevenly, which causes channeling — water finding an easy path through the grounds instead of extracting evenly.",
+    "challenge": "Why might a dripper with only one large hole require more pouring skill than one with many small holes?",
+    "related": [
+      "235",
+      "237"
+    ],
+    "recipe": {
+      "ratio": "1:16",
+      "grind": "Medium-fine (like coarse sand)",
+      "water_temp": "92-96°C / 198-205°F",
+      "total_time": "2:30-3:00",
+      "ingredients": [
+        {
+          "amount": "20",
+          "unit": "g",
+          "item": "coffee, medium-fine grind"
+        },
+        {
+          "amount": "320",
+          "unit": "g",
+          "item": "water, 94°C"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rinse the filter",
+          "content": "Rinse the paper filter with hot water to remove papery taste and preheat the dripper and vessel. Discard the rinse water.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Add coffee, level, and bloom",
+          "content": "Add the ground coffee and level the bed. Start your timer and pour 40g of water, saturating all the grounds evenly. Let it bloom.",
+          "timer_seconds": 45
+        },
+        {
+          "title": "First pour",
+          "content": "Pour to 160g total in slow, steady circles, keeping the water level fairly consistent.",
+          "timer_seconds": 30
+        },
+        {
+          "title": "Second pour",
+          "content": "Pour the remaining water to reach 320g total, again in slow circles.",
+          "timer_seconds": 30
+        },
+        {
+          "title": "Drawdown",
+          "content": "Let the water fully drain through. Total brew time should land around 2:30-3:00.",
+          "timer_seconds": 75
+        }
+      ],
+      "ratio_value": 16.0,
+      "dose_g": 20.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes sour or weak",
+          "fix": "Grind finer, or raise the water temperature slightly."
+        },
+        {
+          "issue": "Tastes bitter or harsh",
+          "fix": "Grind coarser, or pour a bit faster with fewer stages."
+        },
+        {
+          "issue": "Drawdown stalls or runs very slow",
+          "fix": "Grind coarser — a stalled bed usually means the grind is too fine for this method."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Filtrado V60",
+        "definition": "Un método de filtrado manual que utiliza un embudo cónico con un único orificio grande y estrías en espiral, diseñado para dar al que prepara el café control total sobre el ritmo de vertido y la agitación.",
+        "why": "El V60 es uno de los métodos de filtrado más utilizados en el café de especialidad, apreciado por producir una taza limpia y brillante que resalta el carácter de origen del café.",
+        "tip": "Vierte en círculos lentos y controlados en lugar de volcar todo de golpe; una técnica de vertido constante importa más para la taza final que casi cualquier otra variable en este método.",
+        "mistake": "Verter demasiado rápido o de forma desigual, lo que causa canalización: el agua encuentra un camino fácil a través de los posos en lugar de extraer de manera uniforme.",
+        "challenge": "¿Por qué un embudo con un solo orificio grande podría requerir más habilidad al verter que uno con muchos orificios pequeños?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Medio-fino (como arena gruesa)",
+          "water_temp": "92-96°C",
+          "total_time": "2:30-3:00",
+          "ingredients": [
+            {
+              "amount": "20",
+              "unit": "g",
+              "item": "café, molido medio-fino"
+            },
+            {
+              "amount": "320",
+              "unit": "g",
+              "item": "agua, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enjuaga el filtro",
+              "content": "Enjuaga el filtro de papel con agua caliente para eliminar el sabor a papel y precalentar el embudo y el recipiente. Desecha el agua del enjuague.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Añade el café, nivela y deja florecer",
+              "content": "Añade el café molido y nivela el lecho. Inicia tu cronómetro y vierte 40g de agua, saturando todos los posos de manera uniforme. Deja que florezca.",
+              "timer_seconds": 45
+            },
+            {
+              "title": "Primer vertido",
+              "content": "Vierte hasta llegar a 160g totales en círculos lentos y constantes, manteniendo el nivel de agua bastante uniforme.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Segundo vertido",
+              "content": "Vierte el agua restante hasta alcanzar 320g en total, de nuevo en círculos lentos.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Drenaje final",
+              "content": "Deja que el agua drene por completo. El tiempo total de preparación debe rondar los 2:30-3:00.",
+              "timer_seconds": 75
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 20.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe ácido o débil",
+              "fix": "Muele más fino, o sube ligeramente la temperatura del agua."
+            },
+            {
+              "issue": "Sabe amargo o áspero",
+              "fix": "Muele más grueso, o vierte un poco más rápido con menos etapas."
+            },
+            {
+              "issue": "El drenaje se estanca o es muy lento",
+              "fix": "Muele más grueso: un lecho estancado suele significar que el molido es demasiado fino para este método."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Filtro V60",
+        "definition": "Um método de filtro manual que usa um funil cônico com um único furo grande e nervuras em espiral, projetado para dar a quem prepara controle total sobre o ritmo de despejo e a agitação.",
+        "why": "O V60 é um dos métodos de filtro mais usados no café especial, valorizado por produzir uma xícara limpa e brilhante que destaca o caráter de origem do café.",
+        "tip": "Despeje em círculos lentos e controlados em vez de despejar tudo de uma vez; uma técnica de despejo consistente importa mais para a xícara final do que quase qualquer outra variável neste método.",
+        "mistake": "Despejar rápido demais ou de forma desigual, o que causa canalização: a água encontra um caminho fácil pelos pós em vez de extrair de forma uniforme.",
+        "challenge": "Por que um funil com apenas um furo grande pode exigir mais habilidade ao despejar do que um com muitos furos pequenos?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Média-fina (como areia grossa)",
+          "water_temp": "92-96°C",
+          "total_time": "2:30-3:00",
+          "ingredients": [
+            {
+              "amount": "20",
+              "unit": "g",
+              "item": "café, moagem média-fina"
+            },
+            {
+              "amount": "320",
+              "unit": "g",
+              "item": "água, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enxágue o filtro",
+              "content": "Enxágue o filtro de papel com água quente para remover o gosto de papel e pré-aquecer o funil e o recipiente. Descarte a água do enxágue.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Adicione o café, nivele e deixe florescer",
+              "content": "Adicione o café moído e nivele a camada. Inicie o cronômetro e despeje 40g de água, saturando toda a borra de forma uniforme. Deixe florescer.",
+              "timer_seconds": 45
+            },
+            {
+              "title": "Primeiro despejo",
+              "content": "Despeje até chegar a 160g no total, em círculos lentos e constantes, mantendo o nível da água razoavelmente uniforme.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Segundo despejo",
+              "content": "Despeje o restante da água até atingir 320g no total, novamente em círculos lentos.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Escoamento final",
+              "content": "Deixe a água escoar completamente. O tempo total de preparo deve ficar entre 2:30-3:00.",
+              "timer_seconds": 75
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 20.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor ácido ou fraco",
+              "fix": "Moa mais fino, ou aumente levemente a temperatura da água."
+            },
+            {
+              "issue": "Sabor amargo ou áspero",
+              "fix": "Moa mais grosso, ou despeje um pouco mais rápido com menos etapas."
+            },
+            {
+              "issue": "O escoamento trava ou fica muito lento",
+              "fix": "Moa mais grosso — uma camada travada geralmente significa que a moagem está fina demais para este método."
+            }
+          ]
+        }
+      }
+    },
+    "id": 234
+  },
+  {
+    "number": "235",
+    "title": "AeroPress (Standard Method)",
+    "category": "REC",
+    "difficulty": 1,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "An immersion-and-pressure brewing device where coffee steeps briefly before being pushed through a paper filter using a plunger.",
+    "why": "The AeroPress is prized for its speed, portability, and forgiving brewing window, making it one of the most popular methods for travel and quick, consistent cups.",
+    "tip": "A shorter steep time with a finer grind produces a brighter, more espresso-like concentrate; a longer steep with a coarser grind produces something closer to filter coffee.",
+    "mistake": "Plunging too hard or too fast, which can force bitter compounds through the filter and create a harsh, over-extracted cup.",
+    "challenge": "Why might a method that combines steeping and pressure give a brewer more room for experimentation than a pure pour-over does?",
+    "related": [
+      "234",
+      "236"
+    ],
+    "recipe": {
+      "ratio": "1:15",
+      "grind": "Medium-fine",
+      "water_temp": "85-90°C / 185-194°F",
+      "total_time": "1:30-2:00",
+      "ingredients": [
+        {
+          "amount": "17",
+          "unit": "g",
+          "item": "coffee, medium-fine grind"
+        },
+        {
+          "amount": "250",
+          "unit": "g",
+          "item": "water, 88°C"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Set up",
+          "content": "Rinse the paper filter, attach the cap, and place the AeroPress upright on a sturdy mug. Add the ground coffee.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Pour and stir",
+          "content": "Start your timer, pour in all the water, and stir gently for about 10 seconds.",
+          "timer_seconds": 10
+        },
+        {
+          "title": "Steep",
+          "content": "Let the coffee steep undisturbed.",
+          "timer_seconds": 60
+        },
+        {
+          "title": "Press",
+          "content": "Insert the plunger and press down slowly and steadily over about 20-30 seconds, stopping when you hear a hiss.",
+          "timer_seconds": 25
+        }
+      ],
+      "ratio_value": 15.0,
+      "dose_g": 17.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes weak or sour",
+          "fix": "Grind finer, or extend the steep time by 15-20 seconds."
+        },
+        {
+          "issue": "Tastes bitter or harsh",
+          "fix": "Grind coarser, or steep for less time before pressing."
+        },
+        {
+          "issue": "Gritty texture in the cup",
+          "fix": "Grind slightly coarser and press more gently rather than forcing it."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "AeroPress (Método Estándar)",
+        "definition": "Un dispositivo de preparación por inmersión y presión donde el café reposa brevemente antes de ser empujado a través de un filtro de papel mediante un émbolo.",
+        "why": "El AeroPress se aprecia por su rapidez, portabilidad y margen de preparación indulgente, lo que lo convierte en uno de los métodos más populares para viajar y obtener tazas rápidas y consistentes.",
+        "tip": "Un tiempo de reposo más corto con un molido más fino produce un concentrado más brillante, similar al espresso; un reposo más largo con un molido más grueso produce algo más parecido al café filtrado.",
+        "mistake": "Empujar demasiado fuerte o rápido, lo que puede forzar compuestos amargos a través del filtro y crear una taza áspera y sobreextraída.",
+        "challenge": "¿Por qué un método que combina reposo y presión podría dar más margen de experimentación que un filtrado puro?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Medio-fino",
+          "water_temp": "85-90°C",
+          "total_time": "1:30-2:00",
+          "ingredients": [
+            {
+              "amount": "17",
+              "unit": "g",
+              "item": "café, molido medio-fino"
+            },
+            {
+              "amount": "250",
+              "unit": "g",
+              "item": "agua, 88°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Prepara todo",
+              "content": "Enjuaga el filtro de papel, coloca la tapa y pon el AeroPress en posición vertical sobre una taza resistente. Añade el café molido.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Vierte y remueve",
+              "content": "Inicia tu cronómetro, vierte toda el agua y remueve suavemente durante unos 10 segundos.",
+              "timer_seconds": 10
+            },
+            {
+              "title": "Deja reposar",
+              "content": "Deja que el café repose sin moverlo.",
+              "timer_seconds": 60
+            },
+            {
+              "title": "Presiona",
+              "content": "Inserta el émbolo y presiona hacia abajo de forma lenta y constante durante unos 20-30 segundos, deteniéndote al escuchar un siseo.",
+              "timer_seconds": 25
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 17.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe débil o ácido",
+              "fix": "Muele más fino, o extiende el tiempo de reposo entre 15 y 20 segundos."
+            },
+            {
+              "issue": "Sabe amargo o áspero",
+              "fix": "Muele más grueso, o reposa menos tiempo antes de presionar."
+            },
+            {
+              "issue": "Textura arenosa en la taza",
+              "fix": "Muele un poco más grueso y presiona con más suavidad en lugar de forzarlo."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "AeroPress (Método Padrão)",
+        "definition": "Um dispositivo de preparo por imersão e pressão em que o café repousa brevemente antes de ser empurrado através de um filtro de papel com um êmbolo.",
+        "why": "O AeroPress é valorizado pela rapidez, portabilidade e margem de preparo tolerante, tornando-o um dos métodos mais populares para viagem e xícaras rápidas e consistentes.",
+        "tip": "Um tempo de infusão mais curto com moagem mais fina produz um concentrado mais brilhante, parecido com espresso; uma infusão mais longa com moagem mais grossa produz algo mais próximo do café filtrado.",
+        "mistake": "Empurrar forte ou rápido demais, o que pode forçar compostos amargos através do filtro e criar uma xícara áspera e superextraída.",
+        "challenge": "Por que um método que combina infusão e pressão pode dar mais espaço para experimentação do que um filtro puro?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Média-fina",
+          "water_temp": "85-90°C",
+          "total_time": "1:30-2:00",
+          "ingredients": [
+            {
+              "amount": "17",
+              "unit": "g",
+              "item": "café, moagem média-fina"
+            },
+            {
+              "amount": "250",
+              "unit": "g",
+              "item": "água, 88°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Prepare tudo",
+              "content": "Enxágue o filtro de papel, encaixe a tampa e coloque o AeroPress na vertical sobre uma caneca firme. Adicione o café moído.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Despeje e mexa",
+              "content": "Inicie o cronômetro, despeje toda a água e mexa suavemente por cerca de 10 segundos.",
+              "timer_seconds": 10
+            },
+            {
+              "title": "Deixe em infusão",
+              "content": "Deixe o café em infusão sem mexer.",
+              "timer_seconds": 60
+            },
+            {
+              "title": "Pressione",
+              "content": "Insira o êmbolo e pressione devagar e de forma constante por cerca de 20-30 segundos, parando ao ouvir um chiado.",
+              "timer_seconds": 25
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 17.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor fraco ou ácido",
+              "fix": "Moa mais fino, ou estenda o tempo de infusão em 15 a 20 segundos."
+            },
+            {
+              "issue": "Sabor amargo ou áspero",
+              "fix": "Moa mais grosso, ou deixe em infusão por menos tempo antes de pressionar."
+            },
+            {
+              "issue": "Textura arenosa na xícara",
+              "fix": "Moa um pouco mais grosso e pressione com mais suavidade em vez de forçar."
+            }
+          ]
+        }
+      }
+    },
+    "id": 235
+  },
+  {
+    "number": "236",
+    "title": "French Press",
+    "category": "REC",
+    "difficulty": 1,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A full-immersion brewing method where coarsely ground coffee steeps directly in hot water before a metal mesh plunger separates the grounds from the brewed coffee.",
+    "why": "Because the metal filter lets more oils and fine particles through than paper, French press produces a fuller-bodied, heavier cup than most filtered methods.",
+    "tip": "Break the crust of grounds that forms on top after steeping and let it settle for a minute before plunging — this reduces sediment in the final cup.",
+    "mistake": "Using a grind that's too fine, which slips through the metal mesh filter and leaves the cup muddy with sediment.",
+    "challenge": "Why does French press coffee typically taste noticeably different from a paper-filtered brew of the same beans?",
+    "related": [
+      "234",
+      "237"
+    ],
+    "recipe": {
+      "ratio": "1:15",
+      "grind": "Coarse (like breadcrumbs)",
+      "water_temp": "92-96°C / 198-205°F",
+      "total_time": "4:00-5:00",
+      "ingredients": [
+        {
+          "amount": "30",
+          "unit": "g",
+          "item": "coffee, coarse grind"
+        },
+        {
+          "amount": "450",
+          "unit": "g",
+          "item": "water, 94°C"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Add coffee and water",
+          "content": "Add the coarsely ground coffee to the empty press, then pour in all the water and start your timer.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Steep",
+          "content": "Let the coffee steep undisturbed for the first few minutes.",
+          "timer_seconds": 240
+        },
+        {
+          "title": "Break the crust",
+          "content": "Gently stir or break the crust of grounds on top with a spoon, then let it settle for about a minute before plunging.",
+          "timer_seconds": 60
+        },
+        {
+          "title": "Plunge and serve",
+          "content": "Press the plunger down slowly and evenly, then pour immediately to stop over-extraction.",
+          "timer_seconds": 20
+        }
+      ],
+      "ratio_value": 15.0,
+      "dose_g": 30.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes weak",
+          "fix": "Steep a little longer, or use slightly more coffee."
+        },
+        {
+          "issue": "Tastes bitter or over-extracted",
+          "fix": "Steep for less time, or grind slightly coarser."
+        },
+        {
+          "issue": "Muddy or gritty cup",
+          "fix": "Grind coarser — fine particles are slipping through the metal mesh filter."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Prensa Francesa",
+        "definition": "Un método de preparación por inmersión completa donde el café molido grueso reposa directamente en agua caliente antes de que un émbolo de malla metálica separe los posos del café preparado.",
+        "why": "Como el filtro metálico deja pasar más aceites y partículas finas que el papel, la prensa francesa produce una taza de cuerpo más completo y pesado que la mayoría de los métodos filtrados.",
+        "tip": "Rompe la costra de posos que se forma en la superficie después del reposo y déjala asentar un minuto antes de presionar; esto reduce los sedimentos en la taza final.",
+        "mistake": "Usar un molido demasiado fino, que se cuela por el filtro de malla metálica y deja la taza turbia con sedimentos.",
+        "challenge": "¿Por qué el café de prensa francesa suele saber notablemente distinto de una preparación filtrada en papel con los mismos granos?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Grueso (como pan rallado)",
+          "water_temp": "92-96°C",
+          "total_time": "4:00-5:00",
+          "ingredients": [
+            {
+              "amount": "30",
+              "unit": "g",
+              "item": "café, molido grueso"
+            },
+            {
+              "amount": "450",
+              "unit": "g",
+              "item": "agua, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Añade el café y el agua",
+              "content": "Añade el café molido grueso a la prensa vacía, luego vierte toda el agua e inicia tu cronómetro.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Deja reposar",
+              "content": "Deja que el café repose sin moverlo durante los primeros minutos.",
+              "timer_seconds": 240
+            },
+            {
+              "title": "Rompe la costra",
+              "content": "Remueve suavemente o rompe la costra de posos en la superficie con una cuchara, luego déjala asentar durante aproximadamente un minuto antes de presionar.",
+              "timer_seconds": 60
+            },
+            {
+              "title": "Presiona y sirve",
+              "content": "Presiona el émbolo hacia abajo de forma lenta y uniforme, luego sirve de inmediato para detener la sobreextracción.",
+              "timer_seconds": 20
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 30.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe débil",
+              "fix": "Deja reposar un poco más, o usa algo más de café."
+            },
+            {
+              "issue": "Sabe amargo o sobreextraído",
+              "fix": "Reduce el tiempo de reposo, o muele un poco más grueso."
+            },
+            {
+              "issue": "Taza turbia o arenosa",
+              "fix": "Muele más grueso: las partículas finas se están colando por el filtro de malla metálica."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Prensa Francesa",
+        "definition": "Um método de preparo por imersão total em que o café moído grosso repousa diretamente em água quente antes de um êmbolo de tela metálica separar a borra do café preparado.",
+        "why": "Como o filtro metálico deixa passar mais óleos e partículas finas do que o papel, a prensa francesa produz uma xícara de corpo mais encorpado e pesado do que a maioria dos métodos filtrados.",
+        "tip": "Quebre a crosta de borra que se forma na superfície após o repouso e deixe assentar por um minuto antes de pressionar; isso reduz o sedimento na xícara final.",
+        "mistake": "Usar uma moagem fina demais, que passa pelo filtro de tela metálica e deixa a xícara turva com sedimento.",
+        "challenge": "Por que o café de prensa francesa costuma ter um sabor notavelmente diferente de uma preparação filtrada em papel com os mesmos grãos?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Grossa (como farinha de rosca)",
+          "water_temp": "92-96°C",
+          "total_time": "4:00-5:00",
+          "ingredients": [
+            {
+              "amount": "30",
+              "unit": "g",
+              "item": "café, moagem grossa"
+            },
+            {
+              "amount": "450",
+              "unit": "g",
+              "item": "água, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Adicione café e água",
+              "content": "Adicione o café moído grosso à prensa vazia, depois despeje toda a água e inicie o cronômetro.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Deixe em infusão",
+              "content": "Deixe o café em infusão sem mexer durante os primeiros minutos.",
+              "timer_seconds": 240
+            },
+            {
+              "title": "Quebre a crosta",
+              "content": "Mexa suavemente ou quebre a crosta de borra na superfície com uma colher, depois deixe assentar por cerca de um minuto antes de pressionar.",
+              "timer_seconds": 60
+            },
+            {
+              "title": "Pressione e sirva",
+              "content": "Pressione o êmbolo devagar e de forma uniforme, depois sirva imediatamente para interromper a superextração.",
+              "timer_seconds": 20
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 30.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor fraco",
+              "fix": "Deixe em infusão um pouco mais, ou use um pouco mais de café."
+            },
+            {
+              "issue": "Sabor amargo ou superextraído",
+              "fix": "Reduza o tempo de infusão, ou moa um pouco mais grosso."
+            },
+            {
+              "issue": "Xícara turva ou arenosa",
+              "fix": "Moa mais grosso — partículas finas estão passando pelo filtro de tela metálica."
+            }
+          ]
+        }
+      }
+    },
+    "id": 236
+  },
+  {
+    "number": "237",
+    "title": "Chemex",
+    "category": "REC",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A pour-over brewing method using a distinctive hourglass-shaped glass vessel and a notably thick proprietary paper filter that removes more oils and fines than standard filter papers.",
+    "why": "The thick Chemex filter produces one of the cleanest, lightest-bodied cups achievable with pour-over, making it a favorite for highlighting delicate, high-clarity coffees.",
+    "tip": "Because the filter is so thick, use a slightly coarser grind than you would for a V60 to avoid a slow, over-extracted drawdown.",
+    "mistake": "Using a standard V60-style grind size, which is often too fine for the Chemex's thicker filter and leads to a stalled, bitter brew.",
+    "challenge": "Why might a thicker filter paper change not just clarity but also the ideal grind size for a brewing method?",
+    "related": [
+      "234",
+      "238"
+    ],
+    "recipe": {
+      "ratio": "1:16",
+      "grind": "Medium-coarse",
+      "water_temp": "92-96°C / 198-205°F",
+      "total_time": "3:30-4:30",
+      "ingredients": [
+        {
+          "amount": "30",
+          "unit": "g",
+          "item": "coffee, medium-coarse grind"
+        },
+        {
+          "amount": "480",
+          "unit": "g",
+          "item": "water, 94°C"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rinse the filter",
+          "content": "Unfold the Chemex filter, place it with the thicker triple-fold side over the spout, and rinse with hot water. Discard the rinse water.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Add coffee and bloom",
+          "content": "Add the ground coffee, level it, start your timer, and pour about 60g of water to saturate the grounds evenly.",
+          "timer_seconds": 45
+        },
+        {
+          "title": "Pour in stages",
+          "content": "Continue pouring in slow stages, keeping the water level from rising too close to the filter's rim, until you reach 480g total.",
+          "timer_seconds": 150
+        },
+        {
+          "title": "Drawdown",
+          "content": "Let the remaining water fully drain through before removing the filter.",
+          "timer_seconds": 60
+        }
+      ],
+      "ratio_value": 16.0,
+      "dose_g": 30.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes sour or weak",
+          "fix": "Grind slightly finer."
+        },
+        {
+          "issue": "Tastes bitter or harsh",
+          "fix": "Grind coarser — the thick filter already slows things down a lot."
+        },
+        {
+          "issue": "Drawdown is very slow or stalls",
+          "fix": "Grind coarser first; the thick Chemex filter needs a coarser grind than most other pour-over methods."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Chemex",
+        "definition": "Un método de filtrado que utiliza un característico recipiente de vidrio con forma de reloj de arena y un filtro de papel patentado, notablemente grueso, que elimina más aceites y finos que los filtros de papel estándar.",
+        "why": "El grueso filtro Chemex produce una de las tazas más limpias y de cuerpo más ligero que se pueden lograr con filtrado, lo que lo convierte en favorito para resaltar cafés delicados y de gran claridad.",
+        "tip": "Como el filtro es tan grueso, usa un molido ligeramente más grueso que el que usarías para un V60, para evitar un drenaje lento y sobreextraído.",
+        "mistake": "Usar un tamaño de molido estilo V60 estándar, que suele ser demasiado fino para el filtro más grueso del Chemex y provoca una preparación estancada y amarga.",
+        "challenge": "¿Por qué un filtro de papel más grueso podría cambiar no solo la claridad sino también el tamaño de molido ideal para un método de preparación?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Medio-grueso",
+          "water_temp": "92-96°C",
+          "total_time": "3:30-4:30",
+          "ingredients": [
+            {
+              "amount": "30",
+              "unit": "g",
+              "item": "café, molido medio-grueso"
+            },
+            {
+              "amount": "480",
+              "unit": "g",
+              "item": "agua, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enjuaga el filtro",
+              "content": "Despliega el filtro Chemex, colócalo con el lado de triple pliegue más grueso sobre el pico, y enjuágalo con agua caliente. Desecha el agua del enjuague.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Añade el café y deja florecer",
+              "content": "Añade el café molido, nivélalo, inicia tu cronómetro y vierte unos 60g de agua para saturar los posos de manera uniforme.",
+              "timer_seconds": 45
+            },
+            {
+              "title": "Vierte en etapas",
+              "content": "Continúa virtiendo en etapas lentas, evitando que el nivel de agua suba demasiado cerca del borde del filtro, hasta llegar a 480g totales.",
+              "timer_seconds": 150
+            },
+            {
+              "title": "Drenaje final",
+              "content": "Deja que el agua restante drene por completo antes de retirar el filtro.",
+              "timer_seconds": 60
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 30.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe ácido o débil",
+              "fix": "Muele un poco más fino."
+            },
+            {
+              "issue": "Sabe amargo o áspero",
+              "fix": "Muele más grueso: el filtro grueso ya ralentiza mucho el flujo por sí solo."
+            },
+            {
+              "issue": "El drenaje es muy lento o se estanca",
+              "fix": "Muele más grueso primero; el grueso filtro Chemex necesita un molido más grueso que la mayoría de los demás métodos de filtrado."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Chemex",
+        "definition": "Um método de filtro que usa um recipiente de vidro característico em formato de ampulheta e um filtro de papel próprio, notavelmente espesso, que remove mais óleos e finos do que os filtros de papel padrão.",
+        "why": "O filtro espesso do Chemex produz uma das xícaras mais limpas e de corpo mais leve possíveis com filtro, tornando-o favorito para destacar cafés delicados e de alta clareza.",
+        "tip": "Como o filtro é tão espesso, use uma moagem um pouco mais grossa do que usaria num V60, para evitar um escoamento lento e superextraído.",
+        "mistake": "Usar um tamanho de moagem padrão estilo V60, que costuma ser fino demais para o filtro mais espesso do Chemex e leva a um preparo travado e amargo.",
+        "challenge": "Por que um filtro de papel mais espesso pode mudar não só a clareza, mas também a moagem ideal para um método de preparo?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Média-grossa",
+          "water_temp": "92-96°C",
+          "total_time": "3:30-4:30",
+          "ingredients": [
+            {
+              "amount": "30",
+              "unit": "g",
+              "item": "café, moagem média-grossa"
+            },
+            {
+              "amount": "480",
+              "unit": "g",
+              "item": "água, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enxágue o filtro",
+              "content": "Desdobre o filtro Chemex, posicione-o com o lado de dobra tripla mais espesso sobre o bico, e enxágue com água quente. Descarte a água do enxágue.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Adicione o café e deixe florescer",
+              "content": "Adicione o café moído, nivele, inicie o cronômetro e despeje cerca de 60g de água para saturar a borra de forma uniforme.",
+              "timer_seconds": 45
+            },
+            {
+              "title": "Despeje em etapas",
+              "content": "Continue despejando em etapas lentas, evitando que o nível da água suba muito perto da borda do filtro, até atingir 480g no total.",
+              "timer_seconds": 150
+            },
+            {
+              "title": "Escoamento final",
+              "content": "Deixe o restante da água escoar completamente antes de remover o filtro.",
+              "timer_seconds": 60
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 30.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor ácido ou fraco",
+              "fix": "Moa um pouco mais fino."
+            },
+            {
+              "issue": "Sabor amargo ou áspero",
+              "fix": "Moa mais grosso — o filtro espesso já desacelera bastante o fluxo por conta própria."
+            },
+            {
+              "issue": "O escoamento é muito lento ou trava",
+              "fix": "Moa mais grosso primeiro; o filtro espesso do Chemex precisa de uma moagem mais grossa do que a maioria dos outros métodos de filtro."
+            }
+          ]
+        }
+      }
+    },
+    "id": 237
+  },
+  {
+    "number": "238",
+    "title": "Moka Pot (Stovetop)",
+    "category": "REC",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A stovetop brewing device that uses steam pressure to push hot water up through a bed of finely ground coffee, producing a strong, concentrated brew closer in style to espresso than filter coffee.",
+    "why": "It's one of the most widely used home brewing methods in Italy and Latin America, valued for producing strong coffee without needing an espresso machine.",
+    "tip": "Use water that's already hot (not cold) when filling the base — this reduces the time the coffee spends over heat and lowers the risk of a burnt, bitter result.",
+    "mistake": "Tamping or compressing the coffee grounds in the basket like an espresso puck — moka pot grounds should sit loosely, not packed.",
+    "challenge": "Why might a brewing method that relies on steam pressure be more prone to bitterness than one that relies on gravity alone?",
+    "related": [
+      "239",
+      "243"
+    ],
+    "recipe": {
+      "ratio": "1:10 (concentrated)",
+      "grind": "Fine (finer than drip, coarser than espresso)",
+      "water_temp": "Just off the boil",
+      "total_time": "4:00-5:00",
+      "ingredients": [
+        {
+          "amount": "18",
+          "unit": "g",
+          "item": "coffee, fine grind"
+        },
+        {
+          "amount": "200",
+          "unit": "ml",
+          "item": "hot water, filled to the base's valve line"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Fill the base",
+          "content": "Fill the base chamber with hot water up to the safety valve, no higher.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Fill the basket",
+          "content": "Fill the funnel basket with coffee and level it gently without tamping. Assemble the pot.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Brew on medium-low heat",
+          "content": "Place on the stove over medium-low heat with the lid open, and listen for the gurgling sound that signals brewing has started.",
+          "timer_seconds": 180
+        },
+        {
+          "title": "Remove when it sputters",
+          "content": "Remove from heat as soon as you hear a sputtering, hissing sound, which signals the water has mostly passed through.",
+          "timer_seconds": 30
+        }
+      ],
+      "ratio_value": 10.0,
+      "dose_g": 18.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes burnt or bitter",
+          "fix": "Lower the stove heat, and remove from heat as soon as it starts sputtering."
+        },
+        {
+          "issue": "Tastes weak or watery",
+          "fix": "Use a slightly finer grind, and make sure the basket is filled but not packed."
+        },
+        {
+          "issue": "Brews too slowly",
+          "fix": "Grind slightly coarser, and start with hot (not cold) water in the base."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Cafetera Moka (de Fuego)",
+        "definition": "Un dispositivo de preparación de fuego directo que usa presión de vapor para empujar agua caliente a través de un lecho de café molido fino, produciendo una preparación fuerte y concentrada más cercana en estilo al espresso que al café filtrado.",
+        "why": "Es uno de los métodos de preparación doméstica más utilizados en Italia y América Latina, valorado por producir café fuerte sin necesidad de una máquina de espresso.",
+        "tip": "Usa agua que ya esté caliente (no fría) al llenar la base; esto reduce el tiempo que el café pasa sobre el fuego y disminuye el riesgo de un resultado quemado y amargo.",
+        "mistake": "Apisonar o comprimir los posos de café en el embudo como si fuera un puck de espresso; los posos de la cafetera moka deben quedar sueltos, no compactados.",
+        "challenge": "¿Por qué un método de preparación que depende de la presión de vapor podría ser más propenso a la amargura que uno que depende solo de la gravedad?",
+        "recipe": {
+          "ratio": "1:10 (concentrado)",
+          "grind": "Fino (más fino que goteo, más grueso que espresso)",
+          "water_temp": "Recién retirada del hervor",
+          "total_time": "4:00-5:00",
+          "ingredients": [
+            {
+              "amount": "18",
+              "unit": "g",
+              "item": "café, molido fino"
+            },
+            {
+              "amount": "200",
+              "unit": "ml",
+              "item": "agua caliente, hasta la línea de la válvula de la base"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Llena la base",
+              "content": "Llena la cámara base con agua caliente hasta la válvula de seguridad, no más arriba.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Llena el embudo",
+              "content": "Llena el embudo con café y nivélalo suavemente sin apisonar. Ensambla la cafetera.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Cocina a fuego medio-bajo",
+              "content": "Colócala en la estufa a fuego medio-bajo con la tapa abierta, y escucha el sonido burbujeante que indica que la preparación ha comenzado.",
+              "timer_seconds": 180
+            },
+            {
+              "title": "Retira cuando chisporrotee",
+              "content": "Retírala del fuego en cuanto escuches un sonido chisporroteante y silbante, que indica que la mayor parte del agua ya ha pasado.",
+              "timer_seconds": 30
+            }
+          ],
+          "ratio_value": 10.0,
+          "dose_g": 18.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe quemado o amargo",
+              "fix": "Baja el fuego de la estufa y retíralo en cuanto empiece a chisporrotear."
+            },
+            {
+              "issue": "Sabe débil o aguado",
+              "fix": "Usa un molido ligeramente más fino, y asegúrate de que el embudo esté lleno pero no compactado."
+            },
+            {
+              "issue": "Tarda demasiado en prepararse",
+              "fix": "Muele un poco más grueso, y empieza con agua caliente (no fría) en la base."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Cafeteira Moka (de Fogão)",
+        "definition": "Um dispositivo de preparo no fogão que usa pressão de vapor para empurrar água quente através de uma camada de café moído fino, produzindo um preparo forte e concentrado mais próximo em estilo do espresso do que do café filtrado.",
+        "why": "É um dos métodos de preparo doméstico mais usados na Itália e na América Latina, valorizado por produzir café forte sem precisar de uma máquina de espresso.",
+        "tip": "Use água já quente (não fria) ao encher a base; isso reduz o tempo que o café passa no fogo e diminui o risco de um resultado queimado e amargo.",
+        "mistake": "Socar ou comprimir a borra de café no funil como se fosse um puck de espresso; a borra da cafeteira moka deve ficar solta, não compactada.",
+        "challenge": "Por que um método de preparo que depende da pressão do vapor pode ser mais propenso ao amargor do que um que depende só da gravidade?",
+        "recipe": {
+          "ratio": "1:10 (concentrado)",
+          "grind": "Fina (mais fina que coado, mais grossa que espresso)",
+          "water_temp": "Recém-tirada do fervor",
+          "total_time": "4:00-5:00",
+          "ingredients": [
+            {
+              "amount": "18",
+              "unit": "g",
+              "item": "café, moagem fina"
+            },
+            {
+              "amount": "200",
+              "unit": "ml",
+              "item": "água quente, até a linha da válvula da base"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Encha a base",
+              "content": "Encha a câmara base com água quente até a válvula de segurança, não mais que isso.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Encha o funil",
+              "content": "Encha o funil com café e nivele suavemente sem socar. Monte a cafeteira.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Cozinhe em fogo médio-baixo",
+              "content": "Coloque no fogão em fogo médio-baixo com a tampa aberta, e escute o som borbulhante que indica que o preparo começou.",
+              "timer_seconds": 180
+            },
+            {
+              "title": "Retire quando chiar",
+              "content": "Retire do fogo assim que ouvir um som crepitante e sibilante, que indica que a maior parte da água já passou.",
+              "timer_seconds": 30
+            }
+          ],
+          "ratio_value": 10.0,
+          "dose_g": 18.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor queimado ou amargo",
+              "fix": "Abaixe o fogo do fogão e retire assim que começar a chiar."
+            },
+            {
+              "issue": "Sabor fraco ou aguado",
+              "fix": "Use uma moagem um pouco mais fina, e certifique-se de que o funil esteja cheio, mas não compactado."
+            },
+            {
+              "issue": "Demora demais para preparar",
+              "fix": "Moa um pouco mais grosso, e comece com água quente (não fria) na base."
+            }
+          ]
+        }
+      }
+    },
+    "id": 238
+  },
+  {
+    "number": "239",
+    "title": "Cold Brew Concentrate",
+    "category": "REC",
+    "difficulty": 1,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A long, slow steeping method using room-temperature or cold water over many hours, producing a smooth, low-acidity concentrate meant to be diluted before drinking.",
+    "why": "The absence of heat during extraction pulls fewer bitter and acidic compounds than hot brewing, which is why cold brew tastes noticeably smoother and sweeter even from the same beans.",
+    "tip": "Cold brew concentrate typically keeps well refrigerated for 1-2 weeks, making it genuinely practical to batch-brew for the week ahead.",
+    "mistake": "Drinking cold brew concentrate at full strength expecting it to taste like iced coffee — it's meant to be diluted roughly 1:1 with water or milk before drinking.",
+    "challenge": "Why might removing heat entirely from the brewing process change a coffee's flavor more than simply chilling a hot-brewed coffee afterward?",
+    "related": [
+      "236",
+      "238"
+    ],
+    "recipe": {
+      "ratio": "1:8 (steeping ratio, dilute after)",
+      "grind": "Coarse",
+      "water_temp": "Room temperature or cold",
+      "total_time": "12-24 hours",
+      "ingredients": [
+        {
+          "amount": "100",
+          "unit": "g",
+          "item": "coffee, coarse grind"
+        },
+        {
+          "amount": "800",
+          "unit": "ml",
+          "item": "cold or room-temperature water"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Combine and stir",
+          "content": "Combine the coarsely ground coffee and water in a large jar or pitcher and stir to make sure all grounds are saturated.",
+          "timer_seconds": 30
+        },
+        {
+          "title": "Steep",
+          "content": "Cover and steep at room temperature or in the fridge.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Strain",
+          "content": "Strain through a fine mesh sieve lined with a paper filter or cheesecloth, pressing gently to extract the liquid.",
+          "timer_seconds": 120
+        },
+        {
+          "title": "Dilute and serve",
+          "content": "Dilute the concentrate roughly 1:1 with water, milk, or ice before drinking, adjusting to taste.",
+          "timer_seconds": 0
+        }
+      ],
+      "ratio_value": 8.0,
+      "dose_g": 100.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes weak",
+          "fix": "Steep longer, or use a slightly stronger ratio next time."
+        },
+        {
+          "issue": "Tastes bitter or vegetal",
+          "fix": "Steep for less time, or grind slightly coarser."
+        },
+        {
+          "issue": "Cloudy or gritty concentrate",
+          "fix": "Strain more thoroughly through a paper filter or cheesecloth, and avoid pressing too hard on the grounds."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Concentrado de Cold Brew",
+        "definition": "Un método de reposo largo y lento usando agua a temperatura ambiente o fría durante muchas horas, que produce un concentrado suave y de baja acidez pensado para diluirse antes de beberlo.",
+        "why": "La ausencia de calor durante la extracción extrae menos compuestos amargos y ácidos que la preparación caliente, por lo que el cold brew sabe notablemente más suave y dulce incluso con los mismos granos.",
+        "tip": "El concentrado de cold brew suele conservarse bien refrigerado durante 1 a 2 semanas, lo que lo hace realmente práctico para preparar en lote para toda la semana.",
+        "mistake": "Beber el concentrado de cold brew a plena intensidad esperando que sepa como café helado; está pensado para diluirse aproximadamente 1:1 con agua o leche antes de beberlo.",
+        "challenge": "¿Por qué eliminar el calor por completo del proceso de preparación podría cambiar el sabor del café más que simplemente enfriar un café preparado en caliente después?",
+        "recipe": {
+          "ratio": "1:8 (proporción de reposo, diluir después)",
+          "grind": "Grueso",
+          "water_temp": "Temperatura ambiente o fría",
+          "total_time": "12-24 horas",
+          "ingredients": [
+            {
+              "amount": "100",
+              "unit": "g",
+              "item": "café, molido grueso"
+            },
+            {
+              "amount": "800",
+              "unit": "ml",
+              "item": "agua fría o a temperatura ambiente"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Combina y remueve",
+              "content": "Combina el café molido grueso y el agua en un frasco o jarra grande y remueve para asegurar que todos los posos queden saturados.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Deja reposar",
+              "content": "Cubre y deja reposar a temperatura ambiente o en el refrigerador.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Cuela",
+              "content": "Cuela a través de un colador de malla fina forrado con un filtro de papel o estopilla, presionando suavemente para extraer el líquido.",
+              "timer_seconds": 120
+            },
+            {
+              "title": "Diluye y sirve",
+              "content": "Diluye el concentrado aproximadamente 1:1 con agua, leche o hielo antes de beberlo, ajustando al gusto.",
+              "timer_seconds": 0
+            }
+          ],
+          "ratio_value": 8.0,
+          "dose_g": 100.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe débil",
+              "fix": "Deja reposar más tiempo, o usa una proporción algo más fuerte la próxima vez."
+            },
+            {
+              "issue": "Sabe amargo o vegetal",
+              "fix": "Reduce el tiempo de reposo, o muele un poco más grueso."
+            },
+            {
+              "issue": "Concentrado turbio o arenoso",
+              "fix": "Cuela con más cuidado usando un filtro de papel o estopilla, y evita presionar demasiado los posos."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Concentrado de Cold Brew",
+        "definition": "Um método de infusão longa e lenta usando água em temperatura ambiente ou fria durante muitas horas, produzindo um concentrado suave e de baixa acidez pensado para ser diluído antes de beber.",
+        "why": "A ausência de calor durante a extração retira menos compostos amargos e ácidos do que o preparo quente, por isso o cold brew tem sabor notavelmente mais suave e adocicado mesmo com os mesmos grãos.",
+        "tip": "O concentrado de cold brew costuma se conservar bem refrigerado por 1 a 2 semanas, o que o torna realmente prático para preparar em lote para a semana toda.",
+        "mistake": "Beber o concentrado de cold brew em força total esperando que tenha gosto de café gelado; ele é pensado para ser diluído aproximadamente 1:1 com água ou leite antes de beber.",
+        "challenge": "Por que remover completamente o calor do processo de preparo pode mudar o sabor de um café mais do que simplesmente resfriar um café preparado quente depois?",
+        "recipe": {
+          "ratio": "1:8 (proporção de infusão, diluir depois)",
+          "grind": "Grossa",
+          "water_temp": "Temperatura ambiente ou fria",
+          "total_time": "12-24 horas",
+          "ingredients": [
+            {
+              "amount": "100",
+              "unit": "g",
+              "item": "café, moagem grossa"
+            },
+            {
+              "amount": "800",
+              "unit": "ml",
+              "item": "água fria ou em temperatura ambiente"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Combine e mexa",
+              "content": "Combine o café moído grosso e a água num pote ou jarra grande e mexa para garantir que toda a borra fique saturada.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Deixe em infusão",
+              "content": "Cubra e deixe em infusão em temperatura ambiente ou na geladeira.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Coe",
+              "content": "Coe através de uma peneira de malha fina forrada com um filtro de papel ou pano de queijo, pressionando suavemente para extrair o líquido.",
+              "timer_seconds": 120
+            },
+            {
+              "title": "Dilua e sirva",
+              "content": "Dilua o concentrado aproximadamente 1:1 com água, leite ou gelo antes de beber, ajustando ao gosto.",
+              "timer_seconds": 0
+            }
+          ],
+          "ratio_value": 8.0,
+          "dose_g": 100.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor fraco",
+              "fix": "Deixe em infusão por mais tempo, ou use uma proporção um pouco mais forte na próxima vez."
+            },
+            {
+              "issue": "Sabor amargo ou vegetal",
+              "fix": "Reduza o tempo de infusão, ou moa um pouco mais grosso."
+            },
+            {
+              "issue": "Concentrado turvo ou arenoso",
+              "fix": "Coe com mais cuidado usando um filtro de papel ou pano de queijo, e evite pressionar demais a borra."
+            }
+          ]
+        }
+      }
+    },
+    "id": 239
+  },
+  {
+    "number": "240",
+    "title": "Kalita Wave",
+    "category": "REC",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A pour-over method using a flat-bottomed dripper with three small holes and a distinctively pleated 'wave' filter, designed to promote even water flow across the coffee bed.",
+    "why": "The flat bed and multiple small holes make the Kalita Wave more forgiving of imperfect pouring technique than the V60's single large hole, while still producing a clean, balanced cup.",
+    "tip": "Because the flat bed slows and evens out flow naturally, small pouring inconsistencies matter less here than in a V60 — a good entry point for pour-over beginners.",
+    "mistake": "Assuming a flat-bottom dripper behaves the same as a conical one — the extraction dynamics genuinely differ, so recipes aren't always directly transferable between them.",
+    "challenge": "Why might a flat-bottomed brewer be more forgiving of pouring inconsistency than a conical one?",
+    "related": [
+      "234",
+      "237"
+    ],
+    "recipe": {
+      "ratio": "1:16",
+      "grind": "Medium",
+      "water_temp": "92-96°C / 198-205°F",
+      "total_time": "3:00-3:30",
+      "ingredients": [
+        {
+          "amount": "20",
+          "unit": "g",
+          "item": "coffee, medium grind"
+        },
+        {
+          "amount": "320",
+          "unit": "g",
+          "item": "water, 94°C"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rinse the wave filter",
+          "content": "Place the pleated wave filter in the dripper and rinse with hot water to seat it and remove papery taste.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Bloom",
+          "content": "Add coffee, level it, start your timer, and pour 40g water to saturate the grounds evenly.",
+          "timer_seconds": 45
+        },
+        {
+          "title": "Pour in stages",
+          "content": "Pour in two or three stages, keeping the water level fairly steady, up to 320g total.",
+          "timer_seconds": 90
+        },
+        {
+          "title": "Drawdown",
+          "content": "Let the remaining water drain fully through the flat bed.",
+          "timer_seconds": 45
+        }
+      ],
+      "ratio_value": 16.0,
+      "dose_g": 20.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes sour or weak",
+          "fix": "Grind finer."
+        },
+        {
+          "issue": "Tastes bitter or harsh",
+          "fix": "Grind coarser."
+        },
+        {
+          "issue": "Extraction feels uneven",
+          "fix": "Pour more slowly and evenly across the bed in two or three controlled stages."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Kalita Wave",
+        "definition": "Un método de filtrado que usa un embudo de fondo plano con tres orificios pequeños y un filtro plisado característico tipo 'onda', diseñado para promover un flujo de agua uniforme por todo el lecho de café.",
+        "why": "El fondo plano y los múltiples orificios pequeños hacen que el Kalita Wave sea más tolerante con una técnica de vertido imperfecta que el orificio único grande del V60, aun así produciendo una taza limpia y equilibrada.",
+        "tip": "Como el fondo plano ralentiza y uniformiza el flujo de forma natural, las pequeñas inconsistencias al verter importan menos aquí que en un V60; un buen punto de partida para quienes empiezan con el filtrado.",
+        "mistake": "Asumir que un embudo de fondo plano se comporta igual que uno cónico; la dinámica de extracción realmente difiere, así que las recetas no siempre son directamente transferibles entre ambos.",
+        "challenge": "¿Por qué un preparador de fondo plano podría ser más tolerante con la inconsistencia al verter que uno cónico?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Medio",
+          "water_temp": "92-96°C",
+          "total_time": "3:00-3:30",
+          "ingredients": [
+            {
+              "amount": "20",
+              "unit": "g",
+              "item": "café, molido medio"
+            },
+            {
+              "amount": "320",
+              "unit": "g",
+              "item": "agua, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enjuaga el filtro wave",
+              "content": "Coloca el filtro plisado tipo wave en el embudo y enjuágalo con agua caliente para asentarlo y eliminar el sabor a papel.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Deja florecer",
+              "content": "Añade el café, nivélalo, inicia tu cronómetro y vierte 40g de agua para saturar los posos de manera uniforme.",
+              "timer_seconds": 45
+            },
+            {
+              "title": "Vierte en etapas",
+              "content": "Vierte en dos o tres etapas, manteniendo el nivel de agua bastante estable, hasta llegar a 320g totales.",
+              "timer_seconds": 90
+            },
+            {
+              "title": "Drenaje final",
+              "content": "Deja que el agua restante drene por completo a través del lecho plano.",
+              "timer_seconds": 45
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 20.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe ácido o débil",
+              "fix": "Muele más fino."
+            },
+            {
+              "issue": "Sabe amargo o áspero",
+              "fix": "Muele más grueso."
+            },
+            {
+              "issue": "La extracción se siente desigual",
+              "fix": "Vierte más despacio y de manera uniforme sobre el lecho en dos o tres etapas controladas."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Kalita Wave",
+        "definition": "Um método de filtro que usa um funil de fundo plano com três furos pequenos e um filtro plissado característico tipo 'onda', projetado para promover um fluxo de água uniforme por toda a camada de café.",
+        "why": "O fundo plano e os múltiplos furos pequenos tornam o Kalita Wave mais tolerante a uma técnica de despejo imperfeita do que o furo único grande do V60, ainda produzindo uma xícara limpa e equilibrada.",
+        "tip": "Como o fundo plano desacelera e uniformiza o fluxo naturalmente, pequenas inconsistências ao despejar importam menos aqui do que num V60; um bom ponto de partida para iniciantes em filtro.",
+        "mistake": "Assumir que um funil de fundo plano se comporta igual a um cônico; a dinâmica de extração realmente difere, então as receitas nem sempre são diretamente transferíveis entre eles.",
+        "challenge": "Por que um preparador de fundo plano pode ser mais tolerante a inconsistências ao despejar do que um cônico?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Média",
+          "water_temp": "92-96°C",
+          "total_time": "3:00-3:30",
+          "ingredients": [
+            {
+              "amount": "20",
+              "unit": "g",
+              "item": "café, moagem média"
+            },
+            {
+              "amount": "320",
+              "unit": "g",
+              "item": "água, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enxágue o filtro wave",
+              "content": "Coloque o filtro plissado tipo wave no funil e enxágue com água quente para acomodá-lo e remover o gosto de papel.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Deixe florescer",
+              "content": "Adicione o café, nivele, inicie o cronômetro e despeje 40g de água para saturar a borra de forma uniforme.",
+              "timer_seconds": 45
+            },
+            {
+              "title": "Despeje em etapas",
+              "content": "Despeje em duas ou três etapas, mantendo o nível da água razoavelmente estável, até atingir 320g no total.",
+              "timer_seconds": 90
+            },
+            {
+              "title": "Escoamento final",
+              "content": "Deixe o restante da água escoar completamente pela camada plana.",
+              "timer_seconds": 45
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 20.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor ácido ou fraco",
+              "fix": "Moa mais fino."
+            },
+            {
+              "issue": "Sabor amargo ou áspero",
+              "fix": "Moa mais grosso."
+            },
+            {
+              "issue": "A extração parece desigual",
+              "fix": "Despeje mais devagar e de forma uniforme sobre a camada em duas ou três etapas controladas."
+            }
+          ]
+        }
+      }
+    },
+    "id": 240
+  },
+  {
+    "number": "241",
+    "title": "Siphon (Vacuum Pot)",
+    "category": "REC",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A brewing method using two chambers where vapor pressure pushes heated water up into a chamber holding the coffee grounds, and removing the heat source then draws the brewed coffee back down through a filter.",
+    "why": "It's one of the most visually theatrical brewing methods and produces a clean, full-flavored cup, but the precise temperature and timing control it demands makes it more technically demanding than most pour-over methods.",
+    "tip": "Stir gently at the start of the brewing stage to make sure all the grounds are evenly saturated, since the upper chamber doesn't allow for a second pour like pour-over methods do.",
+    "mistake": "Leaving the heat on too long once brewing is underway — siphon brewing is time-sensitive, and over-steeping quickly leads to over-extraction.",
+    "challenge": "Why might a brewing method built around a physical pressure change require more precise timing than one based on gravity alone?",
+    "related": [
+      "234",
+      "238"
+    ],
+    "recipe": {
+      "ratio": "1:15",
+      "grind": "Medium",
+      "water_temp": "92-96°C / 198-205°F",
+      "total_time": "2:00-2:30",
+      "ingredients": [
+        {
+          "amount": "25",
+          "unit": "g",
+          "item": "coffee, medium grind"
+        },
+        {
+          "amount": "375",
+          "unit": "g",
+          "item": "water, near boiling"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Heat the water",
+          "content": "Add water to the lower chamber and apply heat until it begins to rise into the upper chamber through the tube.",
+          "timer_seconds": 90
+        },
+        {
+          "title": "Add coffee and stir",
+          "content": "Once the water has risen into the upper chamber, add the ground coffee and stir gently to saturate evenly.",
+          "timer_seconds": 10
+        },
+        {
+          "title": "Brew",
+          "content": "Let it brew with gentle occasional stirring.",
+          "timer_seconds": 60
+        },
+        {
+          "title": "Remove heat and drawdown",
+          "content": "Remove the heat source. As it cools, the brewed coffee will draw back down through the filter into the lower chamber.",
+          "timer_seconds": 60
+        }
+      ],
+      "ratio_value": 15.0,
+      "dose_g": 25.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes weak",
+          "fix": "Grind finer, or extend the brewing stage by 15-20 seconds."
+        },
+        {
+          "issue": "Tastes bitter or harsh",
+          "fix": "Grind coarser, or remove the heat source a little sooner."
+        },
+        {
+          "issue": "Muddy cup with sediment",
+          "fix": "Check that the cloth or filter is seated correctly — a poor seal lets fines through."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Sifón (Vacuum Pot)",
+        "definition": "Un método de preparación con dos cámaras donde la presión de vapor empuja el agua calentada hacia arriba, a una cámara con los posos de café, y al retirar la fuente de calor, el café preparado se filtra de vuelta hacia abajo a través de un filtro.",
+        "why": "Es uno de los métodos de preparación más teatrales visualmente y produce una taza limpia y de sabor pleno, pero el control preciso de temperatura y tiempo que exige lo hace más exigente técnicamente que la mayoría de los métodos de filtrado.",
+        "tip": "Remueve suavemente al inicio de la fase de preparación para asegurar que todos los posos queden saturados de manera uniforme, ya que la cámara superior no permite un segundo vertido como en los métodos de filtrado.",
+        "mistake": "Dejar el calor encendido demasiado tiempo una vez que la preparación está en marcha; el sifón es sensible al tiempo, y un reposo excesivo lleva rápidamente a la sobreextracción.",
+        "challenge": "¿Por qué un método de preparación basado en un cambio físico de presión podría requerir un control de tiempo más preciso que uno basado solo en la gravedad?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Medio",
+          "water_temp": "92-96°C",
+          "total_time": "2:00-2:30",
+          "ingredients": [
+            {
+              "amount": "25",
+              "unit": "g",
+              "item": "café, molido medio"
+            },
+            {
+              "amount": "375",
+              "unit": "g",
+              "item": "agua, casi hirviendo"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Calienta el agua",
+              "content": "Añade agua a la cámara inferior y aplica calor hasta que comience a subir a la cámara superior a través del tubo.",
+              "timer_seconds": 90
+            },
+            {
+              "title": "Añade el café y remueve",
+              "content": "Una vez que el agua haya subido a la cámara superior, añade el café molido y remueve suavemente para saturar de manera uniforme.",
+              "timer_seconds": 10
+            },
+            {
+              "title": "Prepara",
+              "content": "Déjalo preparar removiendo suavemente de vez en cuando.",
+              "timer_seconds": 60
+            },
+            {
+              "title": "Retira el calor y deja drenar",
+              "content": "Retira la fuente de calor. Al enfriarse, el café preparado se filtrará de vuelta hacia abajo a través del filtro hasta la cámara inferior.",
+              "timer_seconds": 60
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 25.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe débil",
+              "fix": "Muele más fino, o extiende la fase de preparación entre 15 y 20 segundos."
+            },
+            {
+              "issue": "Sabe amargo o áspero",
+              "fix": "Muele más grueso, o retira la fuente de calor un poco antes."
+            },
+            {
+              "issue": "Taza turbia con sedimentos",
+              "fix": "Comprueba que el paño o filtro esté bien colocado; un mal sellado deja pasar los finos."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Sifão (Vacuum Pot)",
+        "definition": "Um método de preparo com duas câmaras em que a pressão do vapor empurra a água aquecida para cima, para uma câmara com a borra de café, e ao remover a fonte de calor, o café preparado é filtrado de volta para baixo através de um filtro.",
+        "why": "É um dos métodos de preparo mais teatrais visualmente e produz uma xícara limpa e de sabor pleno, mas o controle preciso de temperatura e tempo que exige o torna mais exigente tecnicamente do que a maioria dos métodos de filtro.",
+        "tip": "Mexa suavemente no início da fase de preparo para garantir que toda a borra fique saturada de forma uniforme, já que a câmara superior não permite um segundo despejo como nos métodos de filtro.",
+        "mistake": "Deixar o calor ligado por tempo demais depois que o preparo já começou; o sifão é sensível ao tempo, e uma infusão excessiva leva rapidamente à superextração.",
+        "challenge": "Por que um método de preparo baseado numa mudança física de pressão pode exigir um controle de tempo mais preciso do que um baseado só na gravidade?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Média",
+          "water_temp": "92-96°C",
+          "total_time": "2:00-2:30",
+          "ingredients": [
+            {
+              "amount": "25",
+              "unit": "g",
+              "item": "café, moagem média"
+            },
+            {
+              "amount": "375",
+              "unit": "g",
+              "item": "água, quase fervendo"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Aqueça a água",
+              "content": "Adicione água à câmara inferior e aplique calor até que comece a subir para a câmara superior pelo tubo.",
+              "timer_seconds": 90
+            },
+            {
+              "title": "Adicione o café e mexa",
+              "content": "Depois que a água subir para a câmara superior, adicione o café moído e mexa suavemente para saturar de forma uniforme.",
+              "timer_seconds": 10
+            },
+            {
+              "title": "Prepare",
+              "content": "Deixe preparar mexendo suavemente de vez em quando.",
+              "timer_seconds": 60
+            },
+            {
+              "title": "Remova o calor e deixe escoar",
+              "content": "Remova a fonte de calor. Ao esfriar, o café preparado vai filtrar de volta para baixo pelo filtro até a câmara inferior.",
+              "timer_seconds": 60
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 25.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor fraco",
+              "fix": "Moa mais fino, ou estenda a fase de preparo em 15 a 20 segundos."
+            },
+            {
+              "issue": "Sabor amargo ou áspero",
+              "fix": "Moa mais grosso, ou remova a fonte de calor um pouco antes."
+            },
+            {
+              "issue": "Xícara turva com sedimento",
+              "fix": "Verifique se o pano ou filtro está bem encaixado; uma vedação ruim deixa passar os finos."
+            }
+          ]
+        }
+      }
+    },
+    "id": 241
+  },
+  {
+    "number": "242",
+    "title": "Turkish Coffee (Cezve)",
+    "category": "REC",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "An unfiltered brewing method using extremely finely ground coffee simmered directly in water in a small, long-handled pot called a cezve, traditionally served with the grounds settled at the bottom of the cup.",
+    "why": "It's one of the oldest continuously practiced brewing methods in the world, and its unfiltered nature produces a uniquely thick, strong cup unlike any filtered brewing style.",
+    "tip": "Remove the cezve from heat just as the foam begins to rise and before it boils over, then let it settle briefly before returning to low heat — this preserves the prized foam layer.",
+    "mistake": "Using a grind that isn't fine enough — Turkish coffee requires an almost powder-fine grind, finer than espresso, to achieve the right texture and avoid excessive grit.",
+    "challenge": "Why might a method with no filter at all require more precise grind size control than filtered methods do?",
+    "related": [
+      "196",
+      "238"
+    ],
+    "recipe": {
+      "ratio": "1:10",
+      "grind": "Extra-fine (powder-like)",
+      "water_temp": "Starts cold",
+      "total_time": "3:00-4:00",
+      "ingredients": [
+        {
+          "amount": "7",
+          "unit": "g",
+          "item": "coffee, extra-fine grind"
+        },
+        {
+          "amount": "70",
+          "unit": "ml",
+          "item": "cold water"
+        },
+        {
+          "amount": "1",
+          "unit": "tsp",
+          "item": "sugar (optional, to taste)"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Combine ingredients",
+          "content": "Add the cold water, finely ground coffee, and sugar (if using) to the cezve and stir well.",
+          "timer_seconds": 15
+        },
+        {
+          "title": "Heat slowly",
+          "content": "Place over low heat and let it warm gradually without stirring further.",
+          "timer_seconds": 120
+        },
+        {
+          "title": "Watch for foam",
+          "content": "As foam begins to rise toward the rim, remove from heat just before it boils over.",
+          "timer_seconds": 30
+        },
+        {
+          "title": "Settle and serve",
+          "content": "Spoon some foam into the serving cup, briefly return the cezve to low heat, then pour the rest into the cup and let the grounds settle before drinking.",
+          "timer_seconds": 30
+        }
+      ],
+      "ratio_value": 10.0,
+      "dose_g": 7.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes weak",
+          "fix": "Use a stronger ratio — more coffee relative to water."
+        },
+        {
+          "issue": "Tastes bitter or burnt",
+          "fix": "Use lower heat and remove from the stove as soon as foam rises, before it boils hard."
+        },
+        {
+          "issue": "Gritty texture",
+          "fix": "Make sure the grind is truly powder-fine, and let the grounds settle longer in the cup before drinking."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Café Turco (Cezve)",
+        "definition": "Un método de preparación sin filtrar que usa café molido extremadamente fino, hervido a fuego lento directamente en agua en una pequeña olla de mango largo llamada cezve, tradicionalmente servido con los posos asentados en el fondo de la taza.",
+        "why": "Es uno de los métodos de preparación continuamente practicados más antiguos del mundo, y su naturaleza sin filtrar produce una taza única, espesa y fuerte, distinta de cualquier estilo de preparación filtrada.",
+        "tip": "Retira el cezve del fuego justo cuando la espuma empieza a subir y antes de que se derrame, luego déjala asentar brevemente antes de volver a fuego bajo; esto preserva la preciada capa de espuma.",
+        "mistake": "Usar un molido que no es suficientemente fino; el café turco requiere un molido casi tan fino como polvo, más fino que el espresso, para lograr la textura correcta y evitar exceso de partículas.",
+        "challenge": "¿Por qué un método sin ningún filtro podría requerir un control más preciso del tamaño de molido que los métodos filtrados?",
+        "recipe": {
+          "ratio": "1:10",
+          "grind": "Extra fino (como polvo)",
+          "water_temp": "Empieza frío",
+          "total_time": "3:00-4:00",
+          "ingredients": [
+            {
+              "amount": "7",
+              "unit": "g",
+              "item": "café, molido extra fino"
+            },
+            {
+              "amount": "70",
+              "unit": "ml",
+              "item": "agua fría"
+            },
+            {
+              "amount": "1",
+              "unit": "cdta",
+              "item": "azúcar (opcional, al gusto)"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Combina los ingredientes",
+              "content": "Añade el agua fría, el café molido fino y el azúcar (si la usas) al cezve y remueve bien.",
+              "timer_seconds": 15
+            },
+            {
+              "title": "Calienta lentamente",
+              "content": "Colócalo a fuego bajo y deja que se caliente gradualmente sin remover más.",
+              "timer_seconds": 120
+            },
+            {
+              "title": "Vigila la espuma",
+              "content": "Cuando la espuma comience a subir hacia el borde, retíralo del fuego justo antes de que se derrame.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Asienta y sirve",
+              "content": "Sirve algo de espuma en la taza, vuelve a poner brevemente el cezve a fuego bajo, luego vierte el resto en la taza y deja que los posos se asienten antes de beber.",
+              "timer_seconds": 30
+            }
+          ],
+          "ratio_value": 10.0,
+          "dose_g": 7.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe débil",
+              "fix": "Usa una proporción más fuerte: más café en relación con el agua."
+            },
+            {
+              "issue": "Sabe amargo o quemado",
+              "fix": "Usa un fuego más bajo y retíralo del fuego en cuanto suba la espuma, antes de que hierva con fuerza."
+            },
+            {
+              "issue": "Textura arenosa",
+              "fix": "Asegúrate de que el molido sea realmente fino como polvo, y deja que los posos se asienten más tiempo en la taza antes de beber."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Café Turco (Cezve)",
+        "definition": "Um método de preparo sem filtro que usa café moído extremamente fino, fervido em fogo baixo diretamente na água numa pequena panela de cabo longo chamada cezve, tradicionalmente servido com a borra assentada no fundo da xícara.",
+        "why": "É um dos métodos de preparo continuamente praticados mais antigos do mundo, e sua natureza sem filtro produz uma xícara única, espessa e forte, diferente de qualquer estilo de preparo filtrado.",
+        "tip": "Retire a cezve do fogo assim que a espuma começar a subir e antes de transbordar, depois deixe assentar brevemente antes de voltar ao fogo baixo; isso preserva a preciosa camada de espuma.",
+        "mistake": "Usar uma moagem que não é fina o suficiente; o café turco exige uma moagem quase tão fina quanto pó, mais fina que espresso, para obter a textura certa e evitar excesso de partículas.",
+        "challenge": "Por que um método sem nenhum filtro pode exigir um controle mais preciso do tamanho da moagem do que métodos filtrados?",
+        "recipe": {
+          "ratio": "1:10",
+          "grind": "Extra fina (tipo pó)",
+          "water_temp": "Começa fria",
+          "total_time": "3:00-4:00",
+          "ingredients": [
+            {
+              "amount": "7",
+              "unit": "g",
+              "item": "café, moagem extra fina"
+            },
+            {
+              "amount": "70",
+              "unit": "ml",
+              "item": "água fria"
+            },
+            {
+              "amount": "1",
+              "unit": "colher (chá)",
+              "item": "açúcar (opcional, a gosto)"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Combine os ingredientes",
+              "content": "Adicione a água fria, o café moído fino e o açúcar (se usar) na cezve e mexa bem.",
+              "timer_seconds": 15
+            },
+            {
+              "title": "Aqueça devagar",
+              "content": "Coloque em fogo baixo e deixe aquecer gradualmente sem mexer mais.",
+              "timer_seconds": 120
+            },
+            {
+              "title": "Observe a espuma",
+              "content": "Quando a espuma começar a subir em direção à borda, retire do fogo pouco antes de transbordar.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Deixe assentar e sirva",
+              "content": "Coloque um pouco de espuma na xícara de servir, volte a cezve ao fogo baixo brevemente, depois despeje o resto na xícara e deixe a borra assentar antes de beber.",
+              "timer_seconds": 30
+            }
+          ],
+          "ratio_value": 10.0,
+          "dose_g": 7.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor fraco",
+              "fix": "Use uma proporção mais forte: mais café em relação à água."
+            },
+            {
+              "issue": "Sabor amargo ou queimado",
+              "fix": "Use fogo mais baixo e retire do fogo assim que a espuma subir, antes de ferver com força."
+            },
+            {
+              "issue": "Textura arenosa",
+              "fix": "Certifique-se de que a moagem seja realmente fina como pó, e deixe a borra assentar mais tempo na xícara antes de beber."
+            }
+          ]
+        }
+      }
+    },
+    "id": 242
+  },
+  {
+    "number": "243",
+    "title": "Espresso Shot",
+    "category": "REC",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A concentrated brewing method that forces hot water through a compacted puck of very finely ground coffee under high pressure, producing a small, intense shot topped with crema.",
+    "why": "Espresso is the base for nearly every café milk drink, and dialing it in correctly (grind, dose, and time together) is one of the most technically demanding skills in coffee preparation.",
+    "tip": "If a shot pulls too fast, grind finer; if it pulls too slow, grind coarser — dial in grind size before adjusting anything else.",
+    "mistake": "Chasing a specific shot time without checking taste — the numbers are a starting reference, not the actual goal; taste should always have the final say.",
+    "challenge": "Why might three interconnected variables (grind, dose, and time) make espresso harder to dial in than most other brewing methods?",
+    "related": [
+      "234",
+      "238"
+    ],
+    "recipe": {
+      "ratio": "1:2",
+      "grind": "Very fine",
+      "water_temp": "90-96°C / 194-205°F",
+      "total_time": "0:25-0:32",
+      "ingredients": [
+        {
+          "amount": "18",
+          "unit": "g",
+          "item": "coffee, very fine grind (dose)"
+        },
+        {
+          "amount": "36",
+          "unit": "g",
+          "item": "espresso output (yield)"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Dose and distribute",
+          "content": "Grind 18g of coffee directly into the portafilter basket and distribute it evenly before tamping.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Tamp",
+          "content": "Tamp firmly and level, applying even, consistent pressure straight down.",
+          "timer_seconds": 5
+        },
+        {
+          "title": "Lock in and start the shot",
+          "content": "Lock the portafilter into the group head and start the shot immediately to avoid the puck drying out.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Pull to 36g",
+          "content": "Let the shot run until you reach 36g of liquid in the cup, aiming for a total time around 25-32 seconds.",
+          "timer_seconds": 28
+        }
+      ],
+      "ratio_value": 2.0,
+      "dose_g": 18.0,
+      "output_label": "yield",
+      "dial_in": [
+        {
+          "issue": "Shot pulls too fast, tastes sour or thin",
+          "fix": "Grind finer — this is the single most common espresso fix."
+        },
+        {
+          "issue": "Shot pulls too slow, tastes bitter or harsh",
+          "fix": "Grind coarser."
+        },
+        {
+          "issue": "Extraction looks uneven or channels",
+          "fix": "Redistribute the grounds more evenly before tamping, and tamp level and straight down."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Shot de Espresso",
+        "definition": "Un método de preparación concentrado que fuerza agua caliente a través de un puck compactado de café molido muy fino bajo alta presión, produciendo un shot pequeño e intenso coronado con crema.",
+        "why": "El espresso es la base de casi todas las bebidas de café con leche, y ajustarlo correctamente (molido, dosis y tiempo juntos) es una de las habilidades técnicamente más exigentes en la preparación de café.",
+        "tip": "Si un shot sale demasiado rápido, muele más fino; si sale demasiado lento, muele más grueso; ajusta el tamaño de molido antes de cambiar cualquier otra cosa.",
+        "mistake": "Perseguir un tiempo de shot específico sin comprobar el sabor; los números son una referencia inicial, no el objetivo real; el sabor siempre debe tener la última palabra.",
+        "challenge": "¿Por qué tres variables interconectadas (molido, dosis y tiempo) podrían hacer que el espresso sea más difícil de ajustar que la mayoría de los demás métodos de preparación?",
+        "recipe": {
+          "ratio": "1:2",
+          "grind": "Muy fino",
+          "water_temp": "90-96°C",
+          "total_time": "0:25-0:32",
+          "ingredients": [
+            {
+              "amount": "18",
+              "unit": "g",
+              "item": "café, molido muy fino (dosis)"
+            },
+            {
+              "amount": "36",
+              "unit": "g",
+              "item": "salida de espresso (rendimiento)"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Dosifica y distribuye",
+              "content": "Muele 18g de café directamente en el portafiltro y distribúyelo de manera uniforme antes de apisonar.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Apisona",
+              "content": "Apisona con firmeza y nivela, aplicando presión uniforme y constante hacia abajo.",
+              "timer_seconds": 5
+            },
+            {
+              "title": "Engancha e inicia el shot",
+              "content": "Engancha el portafiltro al grupo e inicia el shot de inmediato para evitar que el puck se seque.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Extrae hasta 36g",
+              "content": "Deja correr el shot hasta llegar a 36g de líquido en la taza, apuntando a un tiempo total de alrededor de 25-32 segundos.",
+              "timer_seconds": 28
+            }
+          ],
+          "ratio_value": 2.0,
+          "dose_g": 18.0,
+          "output_label": "yield",
+          "dial_in": [
+            {
+              "issue": "El shot sale demasiado rápido, sabe ácido o aguado",
+              "fix": "Muele más fino: este es el ajuste más común en espresso."
+            },
+            {
+              "issue": "El shot sale demasiado lento, sabe amargo o áspero",
+              "fix": "Muele más grueso."
+            },
+            {
+              "issue": "La extracción se ve desigual o forma canales",
+              "fix": "Distribuye los posos de manera más uniforme antes de apisonar, y apisona nivelado y recto hacia abajo."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Shot de Espresso",
+        "definition": "Um método de preparo concentrado que força água quente através de um puck compactado de café moído muito fino sob alta pressão, produzindo um shot pequeno e intenso coroado com crema.",
+        "why": "O espresso é a base de quase toda bebida de café com leite, e ajustá-lo corretamente (moagem, dose e tempo juntos) é uma das habilidades tecnicamente mais exigentes no preparo de café.",
+        "tip": "Se um shot sai rápido demais, moa mais fino; se sai lento demais, moa mais grosso; ajuste o tamanho da moagem antes de mudar qualquer outra coisa.",
+        "mistake": "Perseguir um tempo de shot específico sem checar o sabor; os números são uma referência inicial, não o objetivo real; o sabor deve sempre ter a palavra final.",
+        "challenge": "Por que três variáveis interligadas (moagem, dose e tempo) podem tornar o espresso mais difícil de ajustar do que a maioria dos outros métodos de preparo?",
+        "recipe": {
+          "ratio": "1:2",
+          "grind": "Muito fina",
+          "water_temp": "90-96°C",
+          "total_time": "0:25-0:32",
+          "ingredients": [
+            {
+              "amount": "18",
+              "unit": "g",
+              "item": "café, moagem muito fina (dose)"
+            },
+            {
+              "amount": "36",
+              "unit": "g",
+              "item": "saída de espresso (rendimento)"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Dose e distribua",
+              "content": "Moa 18g de café diretamente no porta-filtro e distribua de forma uniforme antes de socar.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Soque",
+              "content": "Soque com firmeza e nivele, aplicando pressão uniforme e constante para baixo.",
+              "timer_seconds": 5
+            },
+            {
+              "title": "Encaixe e inicie o shot",
+              "content": "Encaixe o porta-filtro no grupo e inicie o shot imediatamente para evitar que o puck resseque.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Extraia até 36g",
+              "content": "Deixe o shot correr até atingir 36g de líquido na xícara, mirando um tempo total de cerca de 25-32 segundos.",
+              "timer_seconds": 28
+            }
+          ],
+          "ratio_value": 2.0,
+          "dose_g": 18.0,
+          "output_label": "yield",
+          "dial_in": [
+            {
+              "issue": "O shot sai rápido demais, sabor ácido ou aguado",
+              "fix": "Moa mais fino — esse é o ajuste mais comum no espresso."
+            },
+            {
+              "issue": "O shot sai lento demais, sabor amargo ou áspero",
+              "fix": "Moa mais grosso."
+            },
+            {
+              "issue": "A extração parece desigual ou forma canais",
+              "fix": "Distribua a borra de forma mais uniforme antes de socar, e soque nivelado e reto para baixo."
+            }
+          ]
+        }
+      }
+    },
+    "id": 243
+  },
+  {
+    "number": "244",
+    "title": "Clever Dripper (Hybrid Immersion)",
+    "category": "REC",
+    "difficulty": 1,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A pour-over-shaped brewer with a valve at the bottom that stays closed during steeping (making it a full-immersion brew like French press) and opens only once placed on a cup, releasing the coffee through a paper filter.",
+    "why": "It combines the fuller body and simplicity of immersion brewing with the cleaner cup a paper filter provides, making it one of the most forgiving and beginner-friendly methods available.",
+    "tip": "Because the valve keeps everything in contact until you're ready, timing is far more forgiving here than in pour-over methods where pour rate directly affects extraction.",
+    "mistake": "Forgetting the valve mechanism and treating it exactly like a V60 — the Clever Dripper's real advantage is immersion-then-filter, not pouring technique.",
+    "challenge": "Why might combining immersion brewing with a paper filter address weaknesses in both French press and pour-over at once?",
+    "related": [
+      "236",
+      "234"
+    ],
+    "recipe": {
+      "ratio": "1:16",
+      "grind": "Medium",
+      "water_temp": "92-96°C / 198-205°F",
+      "total_time": "3:30-4:00",
+      "ingredients": [
+        {
+          "amount": "20",
+          "unit": "g",
+          "item": "coffee, medium grind"
+        },
+        {
+          "amount": "320",
+          "unit": "g",
+          "item": "water, 94°C"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Rinse and add coffee",
+          "content": "Rinse the paper filter, add the ground coffee, and place the dripper on a flat surface (not on the cup) so the valve stays closed.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Add all the water",
+          "content": "Pour in all 320g of water at once and give it a gentle stir to saturate evenly.",
+          "timer_seconds": 15
+        },
+        {
+          "title": "Steep",
+          "content": "Let it steep undisturbed with the lid on.",
+          "timer_seconds": 180
+        },
+        {
+          "title": "Place on cup to drain",
+          "content": "Place the dripper on top of your cup, which opens the valve and lets the coffee filter through.",
+          "timer_seconds": 45
+        }
+      ],
+      "ratio_value": 16.0,
+      "dose_g": 20.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes weak",
+          "fix": "Let it steep a bit longer before placing it on the cup to drain."
+        },
+        {
+          "issue": "Tastes bitter or harsh",
+          "fix": "Steep for less time, or grind slightly coarser."
+        },
+        {
+          "issue": "Drains too slowly once opened",
+          "fix": "Grind slightly coarser."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Clever Dripper (Inmersión Híbrida)",
+        "definition": "Un preparador con forma de filtro que tiene una válvula en la base que permanece cerrada durante el reposo (haciéndolo una preparación de inmersión completa como la prensa francesa) y se abre solo al colocarlo sobre una taza, liberando el café a través de un filtro de papel.",
+        "why": "Combina el cuerpo más completo y la simplicidad de la preparación por inmersión con la taza más limpia que ofrece un filtro de papel, convirtiéndolo en uno de los métodos más tolerantes y amigables para principiantes.",
+        "tip": "Como la válvula mantiene todo en contacto hasta que estés listo, el tiempo es mucho más tolerante aquí que en los métodos de filtrado donde el ritmo de vertido afecta directamente la extracción.",
+        "mistake": "Olvidar el mecanismo de la válvula y tratarlo exactamente como un V60; la verdadera ventaja del Clever Dripper es inmersión-y-luego-filtro, no la técnica de vertido.",
+        "challenge": "¿Por qué combinar la preparación por inmersión con un filtro de papel podría resolver las debilidades tanto de la prensa francesa como del filtrado a la vez?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Medio",
+          "water_temp": "92-96°C",
+          "total_time": "3:30-4:00",
+          "ingredients": [
+            {
+              "amount": "20",
+              "unit": "g",
+              "item": "café, molido medio"
+            },
+            {
+              "amount": "320",
+              "unit": "g",
+              "item": "agua, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enjuaga y añade el café",
+              "content": "Enjuaga el filtro de papel, añade el café molido y coloca el dripper sobre una superficie plana (no sobre la taza) para que la válvula permanezca cerrada.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Añade toda el agua",
+              "content": "Vierte los 320g de agua de una sola vez y remueve suavemente para saturar de manera uniforme.",
+              "timer_seconds": 15
+            },
+            {
+              "title": "Deja reposar",
+              "content": "Déjalo reposar sin moverlo con la tapa puesta.",
+              "timer_seconds": 180
+            },
+            {
+              "title": "Colócalo sobre la taza para drenar",
+              "content": "Coloca el dripper sobre tu taza, lo que abre la válvula y deja que el café se filtre a través de ella.",
+              "timer_seconds": 45
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 20.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe débil",
+              "fix": "Déjalo reposar un poco más antes de colocarlo sobre la taza para que drene."
+            },
+            {
+              "issue": "Sabe amargo o áspero",
+              "fix": "Reduce el tiempo de reposo, o muele un poco más grueso."
+            },
+            {
+              "issue": "Drena muy lento al abrirlo",
+              "fix": "Muele un poco más grueso."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Clever Dripper (Imersão Híbrida)",
+        "definition": "Um preparador com formato de filtro que tem uma válvula na base que fica fechada durante a infusão (tornando-o um preparo de imersão total como a prensa francesa) e abre só ao ser colocado sobre uma xícara, liberando o café através de um filtro de papel.",
+        "why": "Combina o corpo mais encorpado e a simplicidade do preparo por imersão com a xícara mais limpa que um filtro de papel proporciona, tornando-o um dos métodos mais tolerantes e amigáveis para iniciantes.",
+        "tip": "Como a válvula mantém tudo em contato até você estar pronto, o tempo é muito mais tolerante aqui do que nos métodos de filtro, onde o ritmo de despejo afeta diretamente a extração.",
+        "mistake": "Esquecer o mecanismo da válvula e tratá-lo exatamente como um V60; a verdadeira vantagem do Clever Dripper é imersão-e-depois-filtro, não a técnica de despejo.",
+        "challenge": "Por que combinar o preparo por imersão com um filtro de papel pode resolver fraquezas tanto da prensa francesa quanto do filtro ao mesmo tempo?",
+        "recipe": {
+          "ratio": "1:16",
+          "grind": "Média",
+          "water_temp": "92-96°C",
+          "total_time": "3:30-4:00",
+          "ingredients": [
+            {
+              "amount": "20",
+              "unit": "g",
+              "item": "café, moagem média"
+            },
+            {
+              "amount": "320",
+              "unit": "g",
+              "item": "água, 94°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Enxágue e adicione o café",
+              "content": "Enxágue o filtro de papel, adicione o café moído e coloque o dripper numa superfície plana (não sobre a xícara) para que a válvula fique fechada.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Adicione toda a água",
+              "content": "Despeje os 320g de água de uma vez e mexa suavemente para saturar de forma uniforme.",
+              "timer_seconds": 15
+            },
+            {
+              "title": "Deixe em infusão",
+              "content": "Deixe em infusão sem mexer com a tampa colocada.",
+              "timer_seconds": 180
+            },
+            {
+              "title": "Coloque sobre a xícara para escoar",
+              "content": "Coloque o dripper em cima da sua xícara, o que abre a válvula e deixa o café filtrar através dela.",
+              "timer_seconds": 45
+            }
+          ],
+          "ratio_value": 16.0,
+          "dose_g": 20.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor fraco",
+              "fix": "Deixe em infusão um pouco mais antes de colocar sobre a xícara para escoar."
+            },
+            {
+              "issue": "Sabor amargo ou áspero",
+              "fix": "Reduza o tempo de infusão, ou moa um pouco mais grosso."
+            },
+            {
+              "issue": "Escoa muito devagar ao abrir",
+              "fix": "Moa um pouco mais grosso."
+            }
+          ]
+        }
+      }
+    },
+    "id": 244
+  },
+  {
+    "number": "245",
+    "title": "Inverted AeroPress Method",
+    "category": "REC",
+    "difficulty": 2,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "An alternative AeroPress technique where the device is assembled upside down for the steeping stage, allowing a longer full-immersion steep before being flipped onto a filter and pressed.",
+    "why": "It gives more control over steep time and avoids any early drips through the filter during steeping, which some brewers find produces a more consistent, fuller-bodied result than the standard method.",
+    "tip": "Have the filter cap and your serving cup within easy reach before flipping, since that step needs to happen quickly and confidently to avoid spilling grounds.",
+    "mistake": "Flipping the AeroPress hesitantly or too slowly — a fast, confident flip minimizes the risk of the plunger seal shifting or coffee escaping.",
+    "challenge": "Why might brewing upside down before flipping give more control over steep time than the standard upright method?",
+    "related": [
+      "235",
+      "244"
+    ],
+    "recipe": {
+      "ratio": "1:15",
+      "grind": "Medium-fine",
+      "water_temp": "85-90°C / 185-194°F",
+      "total_time": "2:30-3:00",
+      "ingredients": [
+        {
+          "amount": "17",
+          "unit": "g",
+          "item": "coffee, medium-fine grind"
+        },
+        {
+          "amount": "250",
+          "unit": "g",
+          "item": "water, 88°C"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Assemble inverted",
+          "content": "Insert the plunger slightly into the chamber and flip the whole unit upside down, resting it on the plunger. Add the ground coffee.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Add water and stir",
+          "content": "Pour in the water, start your timer, and stir gently for about 10 seconds.",
+          "timer_seconds": 10
+        },
+        {
+          "title": "Steep",
+          "content": "Let it steep undisturbed with the cap off.",
+          "timer_seconds": 90
+        },
+        {
+          "title": "Attach filter and flip",
+          "content": "Attach the rinsed filter cap, then confidently flip the whole assembly onto your cup.",
+          "timer_seconds": 5
+        },
+        {
+          "title": "Press",
+          "content": "Press down slowly and steadily until you hear a hiss.",
+          "timer_seconds": 25
+        }
+      ],
+      "ratio_value": 15.0,
+      "dose_g": 17.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Tastes weak or sour",
+          "fix": "Grind finer, or extend the steep time."
+        },
+        {
+          "issue": "Tastes bitter or harsh",
+          "fix": "Grind coarser, or press more gently."
+        },
+        {
+          "issue": "Coffee escapes or seal breaks during the flip",
+          "fix": "Practice a fast, confident flip, and check that the plunger seal is seated properly before you start."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Método Invertido de AeroPress",
+        "definition": "Una técnica alternativa de AeroPress donde el dispositivo se ensambla al revés para la fase de reposo, permitiendo un reposo de inmersión completa más largo antes de voltearlo sobre un filtro y presionarlo.",
+        "why": "Ofrece más control sobre el tiempo de reposo y evita cualquier goteo temprano a través del filtro durante el reposo, lo que algunos preparadores consideran que produce un resultado más consistente y de cuerpo más completo que el método estándar.",
+        "tip": "Ten a mano la tapa del filtro y tu taza de servicio antes de voltear, ya que ese paso debe hacerse rápido y con confianza para evitar derramar los posos.",
+        "mistake": "Voltear el AeroPress con dudas o demasiado lento; un volteo rápido y seguro minimiza el riesgo de que el sello del émbolo se mueva o el café se escape.",
+        "challenge": "¿Por qué preparar al revés antes de voltear podría dar más control sobre el tiempo de reposo que el método estándar hacia arriba?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Medio-fino",
+          "water_temp": "85-90°C",
+          "total_time": "2:30-3:00",
+          "ingredients": [
+            {
+              "amount": "17",
+              "unit": "g",
+              "item": "café, molido medio-fino"
+            },
+            {
+              "amount": "250",
+              "unit": "g",
+              "item": "agua, 88°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Ensambla invertido",
+              "content": "Inserta el émbolo ligeramente en la cámara y voltea toda la unidad boca abajo, apoyándola sobre el émbolo. Añade el café molido.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Añade agua y remueve",
+              "content": "Vierte el agua, inicia tu cronómetro y remueve suavemente durante unos 10 segundos.",
+              "timer_seconds": 10
+            },
+            {
+              "title": "Deja reposar",
+              "content": "Déjalo reposar sin moverlo con la tapa quitada.",
+              "timer_seconds": 90
+            },
+            {
+              "title": "Coloca el filtro y voltea",
+              "content": "Coloca la tapa con el filtro ya enjuagado, luego voltea con confianza todo el conjunto sobre tu taza.",
+              "timer_seconds": 5
+            },
+            {
+              "title": "Presiona",
+              "content": "Presiona hacia abajo de forma lenta y constante hasta escuchar un siseo.",
+              "timer_seconds": 25
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 17.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabe débil o ácido",
+              "fix": "Muele más fino, o extiende el tiempo de reposo."
+            },
+            {
+              "issue": "Sabe amargo o áspero",
+              "fix": "Muele más grueso, o presiona con más suavidad."
+            },
+            {
+              "issue": "Se derrama café o el sello falla al voltear",
+              "fix": "Practica un volteo rápido y seguro, y comprueba que el sello del émbolo esté bien colocado antes de empezar."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Método Invertido do AeroPress",
+        "definition": "Uma técnica alternativa de AeroPress em que o dispositivo é montado de cabeça para baixo na fase de infusão, permitindo uma infusão de imersão total mais longa antes de ser virado sobre um filtro e pressionado.",
+        "why": "Dá mais controle sobre o tempo de infusão e evita qualquer gotejamento antecipado pelo filtro durante a infusão, o que alguns preparadores acham que produz um resultado mais consistente e encorpado do que o método padrão.",
+        "tip": "Tenha a tampa do filtro e sua xícara de servir por perto antes de virar, já que essa etapa precisa ser feita rápida e com confiança para evitar derramar a borra.",
+        "mistake": "Virar o AeroPress com hesitação ou devagar demais; um giro rápido e confiante minimiza o risco de o vedante do êmbolo se deslocar ou o café escapar.",
+        "challenge": "Por que preparar de cabeça para baixo antes de virar pode dar mais controle sobre o tempo de infusão do que o método padrão para cima?",
+        "recipe": {
+          "ratio": "1:15",
+          "grind": "Média-fina",
+          "water_temp": "85-90°C",
+          "total_time": "2:30-3:00",
+          "ingredients": [
+            {
+              "amount": "17",
+              "unit": "g",
+              "item": "café, moagem média-fina"
+            },
+            {
+              "amount": "250",
+              "unit": "g",
+              "item": "água, 88°C"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Monte invertido",
+              "content": "Insira o êmbolo levemente na câmara e vire toda a unidade de cabeça para baixo, apoiando-a sobre o êmbolo. Adicione o café moído.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Adicione água e mexa",
+              "content": "Despeje a água, inicie o cronômetro e mexa suavemente por cerca de 10 segundos.",
+              "timer_seconds": 10
+            },
+            {
+              "title": "Deixe em infusão",
+              "content": "Deixe em infusão sem mexer com a tampa removida.",
+              "timer_seconds": 90
+            },
+            {
+              "title": "Encaixe o filtro e vire",
+              "content": "Encaixe a tampa com o filtro já enxaguado, depois vire com confiança todo o conjunto sobre sua xícara.",
+              "timer_seconds": 5
+            },
+            {
+              "title": "Pressione",
+              "content": "Pressione devagar e de forma constante até ouvir um chiado.",
+              "timer_seconds": 25
+            }
+          ],
+          "ratio_value": 15.0,
+          "dose_g": 17.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Sabor fraco ou ácido",
+              "fix": "Moa mais fino, ou estenda o tempo de infusão."
+            },
+            {
+              "issue": "Sabor amargo ou áspero",
+              "fix": "Moa mais grosso, ou pressione com mais suavidade."
+            },
+            {
+              "issue": "O café vaza ou a vedação falha ao virar",
+              "fix": "Pratique um giro rápido e confiante, e verifique se a vedação do êmbolo está bem encaixada antes de começar."
+            }
+          ]
+        }
+      }
+    },
+    "id": 245
+  },
+  {
+    "number": "246",
+    "title": "Cupping Protocol (SCA Standard)",
+    "category": "REC",
+    "difficulty": 3,
+    "reading_time": 3,
+    "hero_image": null,
+    "definition": "A standardized coffee evaluation method used throughout the specialty industry — coarsely ground coffee is steeped directly in a cup, the crust is broken and skimmed, and the resulting brew is slurped and scored for aroma, flavor, and other sensory attributes.",
+    "why": "Cupping is the industry-standard way to objectively compare and evaluate coffees side by side, using a consistent method that removes most of the variables a normal brewing method would introduce.",
+    "tip": "Slurp forcefully rather than sipping normally — the aggressive slurp aerates the coffee and spreads it across the whole palate, which is essential for accurately judging flavor.",
+    "mistake": "Cupping only one sample at a time instead of several side by side — the entire value of cupping comes from direct comparison, not evaluating a single coffee in isolation.",
+    "challenge": "Why might a method designed for comparison need to be so rigidly standardized, down to exact ratios and timing?",
+    "related": [
+      "234",
+      "243"
+    ],
+    "recipe": {
+      "ratio": "1:18.18 (SCA standard, approx.)",
+      "grind": "Medium-coarse (slightly coarser than drip)",
+      "water_temp": "92-96°C / 198-205°F",
+      "total_time": "8:00-10:00",
+      "ingredients": [
+        {
+          "amount": "11",
+          "unit": "g",
+          "item": "coffee, medium-coarse grind, per cup"
+        },
+        {
+          "amount": "200",
+          "unit": "ml",
+          "item": "water, 93°C, per cup"
+        }
+      ],
+      "steps": [
+        {
+          "title": "Smell the dry grounds",
+          "content": "Place the ground coffee in the cupping bowl and smell the dry aroma before adding any water.",
+          "timer_seconds": 30
+        },
+        {
+          "title": "Pour and start the timer",
+          "content": "Pour the hot water directly over the grounds, saturating them fully, and start a 4-minute timer.",
+          "timer_seconds": 0
+        },
+        {
+          "title": "Smell the wet crust",
+          "content": "A crust of grounds will form on top. Lean in and smell it before breaking it.",
+          "timer_seconds": 210
+        },
+        {
+          "title": "Break the crust",
+          "content": "Break the crust with a spoon, stirring gently three times while smelling the aroma that releases, then skim off the foam and floating grounds.",
+          "timer_seconds": 15
+        },
+        {
+          "title": "Let it cool, then slurp and score",
+          "content": "Let the coffee cool for a few minutes, then slurp loudly from a spoon to aerate it across your palate, evaluating and scoring as it cools through different temperatures.",
+          "timer_seconds": 180
+        }
+      ],
+      "ratio_value": 18.18,
+      "dose_g": 11.0,
+      "output_label": "water",
+      "dial_in": [
+        {
+          "issue": "Hard to distinguish flavor notes",
+          "fix": "Let the coffee cool more between slurps — different notes reveal themselves at different temperatures."
+        },
+        {
+          "issue": "Overwhelming bitterness on the first taste",
+          "fix": "That's expected while very hot — reassess as the coffee cools rather than judging from the first slurp alone."
+        },
+        {
+          "issue": "Inconsistent results across bowls",
+          "fix": "Double check that dose and water amount were identical across every bowl before comparing them."
+        }
+      ]
+    },
+    "translations": {
+      "es": {
+        "title": "Protocolo de Catación (Estándar SCA)",
+        "definition": "Un método estandarizado de evaluación de café usado en toda la industria de especialidad: el café molido grueso se reposa directamente en una taza, se rompe y se retira la costra, y la preparación resultante se sorbe y se puntúa por aroma, sabor y otros atributos sensoriales.",
+        "why": "La catación es la forma estándar en la industria de comparar y evaluar cafés objetivamente uno junto al otro, usando un método consistente que elimina la mayoría de las variables que introduciría un método de preparación normal.",
+        "tip": "Sorbe con fuerza en lugar de beber a sorbos normales; el sorbo agresivo airea el café y lo esparce por todo el paladar, algo esencial para juzgar el sabor con precisión.",
+        "mistake": "Catar solo una muestra a la vez en lugar de varias una junto a otra; todo el valor de la catación proviene de la comparación directa, no de evaluar un solo café de forma aislada.",
+        "challenge": "¿Por qué un método diseñado para la comparación podría necesitar estar tan rígidamente estandarizado, hasta las proporciones y los tiempos exactos?",
+        "recipe": {
+          "ratio": "1:18.18 (estándar SCA, aprox.)",
+          "grind": "Medio-grueso (ligeramente más grueso que goteo)",
+          "water_temp": "92-96°C",
+          "total_time": "8:00-10:00",
+          "ingredients": [
+            {
+              "amount": "11",
+              "unit": "g",
+              "item": "café, molido medio-grueso, por taza"
+            },
+            {
+              "amount": "200",
+              "unit": "ml",
+              "item": "agua, 93°C, por taza"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Huele los posos secos",
+              "content": "Coloca el café molido en el bol de catación y huele el aroma en seco antes de añadir agua.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Vierte e inicia el cronómetro",
+              "content": "Vierte el agua caliente directamente sobre los posos, saturándolos por completo, e inicia un cronómetro de 4 minutos.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Huele la costra húmeda",
+              "content": "Se formará una costra de posos en la superficie. Acércate y huélela antes de romperla.",
+              "timer_seconds": 210
+            },
+            {
+              "title": "Rompe la costra",
+              "content": "Rompe la costra con una cuchara, removiendo suavemente tres veces mientras hueles el aroma que se libera, luego retira la espuma y los posos flotantes.",
+              "timer_seconds": 15
+            },
+            {
+              "title": "Deja enfriar, luego sorbe y puntúa",
+              "content": "Deja que el café se enfríe unos minutos, luego sorbe con fuerza desde una cuchara para airearlo por todo el paladar, evaluando y puntuando mientras se enfría a distintas temperaturas.",
+              "timer_seconds": 180
+            }
+          ],
+          "ratio_value": 18.18,
+          "dose_g": 11.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Cuesta distinguir las notas de sabor",
+              "fix": "Deja que el café se enfríe más entre sorbos; distintas notas se revelan a distintas temperaturas."
+            },
+            {
+              "issue": "Amargor abrumador en el primer sorbo",
+              "fix": "Es normal cuando está muy caliente; vuelve a evaluar mientras el café se enfría en lugar de juzgar solo por el primer sorbo."
+            },
+            {
+              "issue": "Resultados inconsistentes entre boles",
+              "fix": "Verifica que la dosis y la cantidad de agua hayan sido idénticas en cada bol antes de compararlos."
+            }
+          ]
+        }
+      },
+      "pt": {
+        "title": "Protocolo de Cupping (Padrão SCA)",
+        "definition": "Um método padronizado de avaliação de café usado em toda a indústria especial: o café moído grosso é deixado em infusão diretamente numa xícara, a crosta é quebrada e retirada, e o preparo resultante é sorvido e pontuado por aroma, sabor e outros atributos sensoriais.",
+        "why": "O cupping é a forma padrão da indústria de comparar e avaliar cafés objetivamente lado a lado, usando um método consistente que remove a maioria das variáveis que um método de preparo normal introduziria.",
+        "tip": "Sorva com força em vez de beber goles normais; o sorvo agressivo aera o café e o espalha por todo o paladar, algo essencial para julgar o sabor com precisão.",
+        "mistake": "Fazer cupping de apenas uma amostra por vez em vez de várias lado a lado; todo o valor do cupping vem da comparação direta, não de avaliar um único café isoladamente.",
+        "challenge": "Por que um método projetado para comparação pode precisar ser tão rigidamente padronizado, até nas proporções e tempos exatos?",
+        "recipe": {
+          "ratio": "1:18,18 (padrão SCA, aprox.)",
+          "grind": "Média-grossa (um pouco mais grossa que coado)",
+          "water_temp": "92-96°C",
+          "total_time": "8:00-10:00",
+          "ingredients": [
+            {
+              "amount": "11",
+              "unit": "g",
+              "item": "café, moagem média-grossa, por xícara"
+            },
+            {
+              "amount": "200",
+              "unit": "ml",
+              "item": "água, 93°C, por xícara"
+            }
+          ],
+          "steps": [
+            {
+              "title": "Cheire a borra seca",
+              "content": "Coloque o café moído na tigela de cupping e cheire o aroma seco antes de adicionar água.",
+              "timer_seconds": 30
+            },
+            {
+              "title": "Despeje e inicie o cronômetro",
+              "content": "Despeje a água quente diretamente sobre a borra, saturando-a completamente, e inicie um cronômetro de 4 minutos.",
+              "timer_seconds": 0
+            },
+            {
+              "title": "Cheire a crosta úmida",
+              "content": "Uma crosta de borra vai se formar na superfície. Aproxime-se e cheire antes de quebrá-la.",
+              "timer_seconds": 210
+            },
+            {
+              "title": "Quebre a crosta",
+              "content": "Quebre a crosta com uma colher, mexendo suavemente três vezes enquanto cheira o aroma liberado, depois retire a espuma e a borra flutuante.",
+              "timer_seconds": 15
+            },
+            {
+              "title": "Deixe esfriar, depois sorva e pontue",
+              "content": "Deixe o café esfriar por alguns minutos, depois sorva com força de uma colher para aerá-lo por todo o paladar, avaliando e pontuando enquanto esfria em diferentes temperaturas.",
+              "timer_seconds": 180
+            }
+          ],
+          "ratio_value": 18.0,
+          "dose_g": 11.0,
+          "output_label": "water",
+          "dial_in": [
+            {
+              "issue": "Difícil distinguir as notas de sabor",
+              "fix": "Deixe o café esfriar mais entre os sorvos; notas diferentes se revelam em temperaturas diferentes."
+            },
+            {
+              "issue": "Amargor excessivo na primeira prova",
+              "fix": "Isso é esperado enquanto está muito quente; reavalie enquanto o café esfria em vez de julgar só pelo primeiro sorvo."
+            },
+            {
+              "issue": "Resultados inconsistentes entre as tigelas",
+              "fix": "Confira se a dose e a quantidade de água foram idênticas em todas as tigelas antes de compará-las."
+            }
+          ]
+        }
+      }
+    },
+    "id": 246
+  }
+]

@@ -7,7 +7,8 @@ const TRANSLATABLE_FIELDS = [
     "why",
     "tip",
     "mistake",
-    "challenge"
+    "challenge",
+    "recipe"
 ];
 
 let rawCards = [];

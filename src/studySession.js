@@ -13,6 +13,103 @@ function escapeHtml(str) {
 
 }
 
+function formatTimer(seconds) {
+
+    if (!seconds) return null;
+
+    const m = Math.floor(seconds / 60);
+    const s = seconds % 60;
+
+    return `${m}:${String(s).padStart(2, "0")}`;
+
+}
+
+function buildRecipeStudySection(recipe) {
+
+    if (!recipe) return "";
+
+    return `
+
+<div class="study-section recipe-stats-section">
+
+<div class="recipe-stats">
+
+<div class="recipe-stat"><span>${t("recipeRatio")}</span><strong>${recipe.ratio}</strong></div>
+<div class="recipe-stat"><span>${t("recipeGrind")}</span><strong>${recipe.grind}</strong></div>
+<div class="recipe-stat"><span>${t("recipeWaterTemp")}</span><strong>${recipe.water_temp}</strong></div>
+<div class="recipe-stat"><span>${t("recipeTotalTime")}</span><strong>${recipe.total_time}</strong></div>
+
+</div>
+
+</div>
+
+<div class="study-section recipe-calc-section">
+
+<h4>${t("sectionRecipeCalc")}</h4>
+
+<div class="recipe-calc" data-output-label="${recipe.output_label}">
+
+<label class="recipe-calc-row">
+<span>${t("recipeCalcDoseLabel")}: <strong class="calc-dose-value">${recipe.dose_g}</strong>g</span>
+<input type="range" class="calc-dose-slider" min="${Math.max(1, Math.round(recipe.dose_g * 0.5))}" max="${Math.round(recipe.dose_g * 2)}" step="1" value="${recipe.dose_g}">
+</label>
+
+<label class="recipe-calc-row">
+<span>${t("recipeCalcRatioLabel")}: <strong class="calc-ratio-value">1:${recipe.ratio_value}</strong></span>
+<input type="range" class="calc-ratio-slider" min="${Math.max(1, (recipe.ratio_value * 0.6).toFixed(1))}" max="${(recipe.ratio_value * 1.4).toFixed(1)}" step="0.5" value="${recipe.ratio_value}">
+<div class="recipe-calc-scale"><span>${t("recipeCalcStronger")}</span><span>${t("recipeCalcWeaker")}</span></div>
+</label>
+
+<p class="recipe-calc-result">
+${recipe.output_label === "yield"
+    ? t("recipeCalcResultYield").replace("{amount}", (recipe.dose_g * recipe.ratio_value).toFixed(0))
+    : t("recipeCalcResultWater").replace("{amount}", (recipe.dose_g * recipe.ratio_value).toFixed(0))
+}
+</p>
+
+</div>
+
+</div>
+
+<div class="study-section">
+
+<h4>${t("sectionDialIn")}</h4>
+
+<dl class="recipe-dial-in">
+
+${(recipe.dial_in || []).map(d => `
+<dt>${d.issue}</dt>
+<dd>${d.fix}</dd>
+`).join("")}
+
+</dl>
+
+</div>
+
+<div class="study-section">
+
+<h4>${t("sectionRecipeSteps")}</h4>
+
+<ol class="recipe-steps">
+
+${(recipe.steps || []).map(step => `
+<li>
+<div class="recipe-step-head">
+<strong>${step.title}</strong>
+${formatTimer(step.timer_seconds) ? `<span class="recipe-step-timer">${formatTimer(step.timer_seconds)}</span>` : ""}
+</div>
+<p>${step.content}</p>
+</li>
+`).join("")}
+
+</ol>
+
+</div>
+
+`;
+
+}
+
 onLocaleChange(() => {
 
     if (document.getElementById("study-mode")) {
@@ -153,6 +250,8 @@ ${typedAnswers[card.number]?.trim() ? `
 
 </div>
 
+${buildRecipeStudySection(card.recipe)}
+
 <div class="study-section">
 
 <h4>${t("studyTipSection")}</h4>
@@ -282,6 +381,38 @@ ${t("exitStudyMode")}
 
     });
 
+    const studyCalc = document.querySelector(".recipe-calc");
+
+    if (studyCalc) {
+
+        const outputLabel = studyCalc.dataset.outputLabel;
+
+        const doseSlider = studyCalc.querySelector(".calc-dose-slider");
+        const ratioSlider = studyCalc.querySelector(".calc-ratio-slider");
+        const doseDisplay = studyCalc.querySelector(".calc-dose-value");
+        const ratioDisplay = studyCalc.querySelector(".calc-ratio-value");
+        const resultEl = studyCalc.querySelector(".recipe-calc-result");
+
+        const updateStudyResult = () => {
+
+            const dose = parseFloat(doseSlider.value);
+            const ratio = parseFloat(ratioSlider.value);
+            const amount = Math.round(dose * ratio);
+
+            doseDisplay.textContent = dose;
+            ratioDisplay.textContent = `1:${ratio}`;
+
+            resultEl.textContent = outputLabel === "yield"
+                ? t("recipeCalcResultYield").replace("{amount}", amount)
+                : t("recipeCalcResultWater").replace("{amount}", amount);
+
+        };
+
+        doseSlider.addEventListener("input", updateStudyResult);
+        ratioSlider.addEventListener("input", updateStudyResult);
+
+    }
+
     document.getElementById("study-reveal").onclick = () => {
 
         revealed = !revealed;
@@ -379,6 +510,12 @@ function keyboardHandler(e) {
             e.target.blur();
 
         }
+
+        return;
+
+    }
+
+    if (e.target?.type === "range") {
 
         return;
 

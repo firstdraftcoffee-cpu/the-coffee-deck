@@ -284,6 +284,51 @@ await new Promise(r => setTimeout(r, 250));
 check("Study mode closes", !doc.getElementById("study-mode"));
 check("Body scroll unlocks after study mode closes", doc.body.style.position !== "fixed");
 
+// --- Recipe Cards: full viewer rendering ---
+doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+const recipeSearch = doc.getElementById("search");
+recipeSearch.value = "V60 pour-over";
+recipeSearch.dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 200));
+check("Recipe card viewer shows stat pills (ratio/grind/temp/time)", doc.querySelectorAll(".recipe-stat").length === 4);
+check("Recipe card viewer shows the interactive ratio calculator", !!doc.querySelector(".recipe-calc"));
+check("Recipe card viewer shows a dial-in troubleshooting guide", doc.querySelectorAll(".recipe-dial-in dt").length > 0);
+check("Recipe card viewer shows numbered brewing steps", doc.querySelectorAll(".recipe-steps li").length > 0);
+check("At least one step shows a timer badge", !!doc.querySelector(".recipe-step-timer"));
+
+const resultBefore = doc.querySelector(".recipe-calc-result")?.textContent.trim();
+const doseSliderEl = doc.querySelector(".calc-dose-slider");
+doseSliderEl.value = String(Number(doseSliderEl.max));
+doseSliderEl.dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 50));
+const resultAfter = doc.querySelector(".recipe-calc-result")?.textContent.trim();
+check("Dragging the dose slider updates the water/yield result live", resultAfter !== resultBefore);
+check("Dose display next to the slider updates to match", doc.querySelector(".calc-dose-value")?.textContent === doseSliderEl.max);
+
+const ratioSliderEl = doc.querySelector(".calc-ratio-slider");
+ratioSliderEl.value = ratioSliderEl.min;
+ratioSliderEl.dispatchEvent(new window.Event("input", { bubbles: true }));
+await new Promise(r => setTimeout(r, 50));
+check("Dragging the ratio slider updates the displayed ratio", doc.querySelector(".calc-ratio-value")?.textContent === `1:${ratioSliderEl.min}`);
+
+const rangeAtBounds = doseSliderEl;
+rangeAtBounds.focus();
+rangeAtBounds.dispatchEvent(new window.KeyboardEvent("keydown", { key: "ArrowLeft", bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+check("Arrow keys while a slider is focused do not navigate away from the card", !!doc.querySelector(".recipe-calc"));
+
+doc.querySelector(".close")?.dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 150));
+check("Recipe card viewer closes normally", !doc.getElementById("viewer")?.classList.contains("show"));
+
+recipeSearch.value = "";
+recipeSearch.dispatchEvent(new window.Event("input", { bubbles: true }));
+doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 100));
+
 // --- Stats modal (with Library tiles) ---
 doc.getElementById("statsToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 200));
