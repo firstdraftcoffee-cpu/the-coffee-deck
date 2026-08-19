@@ -1,7 +1,7 @@
 // Coffee Deck service worker.
 // Bump CACHE_NAME on any change to this file's caching logic so old
 // clients pick up the new behavior instead of running stale code forever.
-const CACHE_NAME = "coffee-deck-v2";
+const CACHE_NAME = "coffee-deck-v3";
 
 self.addEventListener("install", () => {
     self.skipWaiting();
@@ -42,6 +42,16 @@ self.addEventListener("fetch", (event) => {
         return;
     }
 
+    // The manifest link fetch has repeatedly failed at the network
+    // level on some machines (net::ERR_FAILED, outside anything this
+    // app controls — likely a browser extension or policy blocking
+    // this specific request). It's a tiny file with no real caching
+    // benefit; let the browser fetch it completely natively so this
+    // service worker is never in that failure's path at all.
+    if (url.pathname === "/manifest.webmanifest") {
+        return;
+    }
+
     // Card/content data: network-first so updates (new cards, price
     // changes) show up immediately when online, falling back to the
     // last-known copy when offline.
@@ -62,6 +72,13 @@ self.addEventListener("fetch", (event) => {
     event.respondWith(cacheFirst(request));
 });
 
+// Both strategies below must NEVER let their returned promise reject.
+// A rejected respondWith() promise fails the whole FetchEvent, and on
+// at least one real machine that instability was severe enough to
+// block keyboard input elsewhere on the page — so on total failure
+// (no network, no cache, nothing) we hand back a plain error Response
+// instead of throwing, no matter what's interfering upstream.
+
 async function networkFirst(request) {
     const cache = await caches.open(CACHE_NAME);
     try {
@@ -73,7 +90,7 @@ async function networkFirst(request) {
     } catch (err) {
         const cached = await cache.match(request);
         if (cached) return cached;
-        throw err;
+        return new Response("Network error", { status: 503 });
     }
 }
 
@@ -89,8 +106,6 @@ async function cacheFirst(request) {
         }
         return response;
     } catch (err) {
-        const fallback = await cache.match(request);
-        if (fallback) return fallback;
-        throw err;
+        return new Response("Network error", { status: 503 });
     }
 }
