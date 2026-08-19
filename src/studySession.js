@@ -503,6 +503,14 @@ function next() {
 
 function keyboardHandler(e) {
 
+    if (!document.getElementById("study-mode")) {
+
+        document.onkeydown = null;
+
+        return;
+
+    }
+
     if (e.target?.id === "study-answer-input") {
 
         if (e.key === "Escape") {
@@ -630,11 +638,11 @@ ${t("returnHome")}
 
 export function closeStudySession() {
 
+    document.onkeydown = null;
+
     const overlay = document.getElementById("study-mode");
 
     if (!overlay) return;
-
-    document.onkeydown = null;
 
     unlockScroll();
 
