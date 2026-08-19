@@ -5,7 +5,7 @@
     "category": "REC",
     "difficulty": 2,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "234.jpg",
     "definition": "A manual pour-over method using a cone-shaped dripper with a large single hole and spiral ribs, designed to give the brewer full control over pour rate and agitation.",
     "why": "The V60 is one of the most widely used pour-over methods in specialty coffee, prized for producing a clean, bright cup that highlights a coffee's origin character.",
     "tip": "Pour in slow, controlled circles rather than a single dump — consistent pour technique matters more to the final cup than almost any other variable in this method.",
@@ -59,8 +59,8 @@
           "timer_seconds": 75
         }
       ],
-      "ratio_value": 16.0,
-      "dose_g": 20.0,
+      "ratio_value": 16,
+      "dose_g": 20,
       "output_label": "water",
       "dial_in": [
         {
@@ -129,8 +129,8 @@
               "timer_seconds": 75
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 20.0,
+          "ratio_value": 16,
+          "dose_g": 20,
           "output_label": "water",
           "dial_in": [
             {
@@ -199,8 +199,8 @@
               "timer_seconds": 75
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 20.0,
+          "ratio_value": 16,
+          "dose_g": 20,
           "output_label": "water",
           "dial_in": [
             {
@@ -227,7 +227,7 @@
     "category": "REC",
     "difficulty": 1,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "235.jpg",
     "definition": "An immersion-and-pressure brewing device where coffee steeps briefly before being pushed through a paper filter using a plunger.",
     "why": "The AeroPress is prized for its speed, portability, and forgiving brewing window, making it one of the most popular methods for travel and quick, consistent cups.",
     "tip": "A shorter steep time with a finer grind produces a brighter, more espresso-like concentrate; a longer steep with a coarser grind produces something closer to filter coffee.",
@@ -276,8 +276,8 @@
           "timer_seconds": 25
         }
       ],
-      "ratio_value": 15.0,
-      "dose_g": 17.0,
+      "ratio_value": 15,
+      "dose_g": 17,
       "output_label": "water",
       "dial_in": [
         {
@@ -341,8 +341,8 @@
               "timer_seconds": 25
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 17.0,
+          "ratio_value": 15,
+          "dose_g": 17,
           "output_label": "water",
           "dial_in": [
             {
@@ -406,8 +406,8 @@
               "timer_seconds": 25
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 17.0,
+          "ratio_value": 15,
+          "dose_g": 17,
           "output_label": "water",
           "dial_in": [
             {
@@ -434,7 +434,7 @@
     "category": "REC",
     "difficulty": 1,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "236.jpg",
     "definition": "A full-immersion brewing method where coarsely ground coffee steeps directly in hot water before a metal mesh plunger separates the grounds from the brewed coffee.",
     "why": "Because the metal filter lets more oils and fine particles through than paper, French press produces a fuller-bodied, heavier cup than most filtered methods.",
     "tip": "Break the crust of grounds that forms on top after steeping and let it settle for a minute before plunging — this reduces sediment in the final cup.",
@@ -483,8 +483,8 @@
           "timer_seconds": 20
         }
       ],
-      "ratio_value": 15.0,
-      "dose_g": 30.0,
+      "ratio_value": 15,
+      "dose_g": 30,
       "output_label": "water",
       "dial_in": [
         {
@@ -548,8 +548,8 @@
               "timer_seconds": 20
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 30.0,
+          "ratio_value": 15,
+          "dose_g": 30,
           "output_label": "water",
           "dial_in": [
             {
@@ -613,8 +613,8 @@
               "timer_seconds": 20
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 30.0,
+          "ratio_value": 15,
+          "dose_g": 30,
           "output_label": "water",
           "dial_in": [
             {
@@ -641,7 +641,7 @@
     "category": "REC",
     "difficulty": 2,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "237.jpg",
     "definition": "A pour-over brewing method using a distinctive hourglass-shaped glass vessel and a notably thick proprietary paper filter that removes more oils and fines than standard filter papers.",
     "why": "The thick Chemex filter produces one of the cleanest, lightest-bodied cups achievable with pour-over, making it a favorite for highlighting delicate, high-clarity coffees.",
     "tip": "Because the filter is so thick, use a slightly coarser grind than you would for a V60 to avoid a slow, over-extracted drawdown.",
@@ -690,8 +690,8 @@
           "timer_seconds": 60
         }
       ],
-      "ratio_value": 16.0,
-      "dose_g": 30.0,
+      "ratio_value": 16,
+      "dose_g": 30,
       "output_label": "water",
       "dial_in": [
         {
@@ -755,8 +755,8 @@
               "timer_seconds": 60
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 30.0,
+          "ratio_value": 16,
+          "dose_g": 30,
           "output_label": "water",
           "dial_in": [
             {
@@ -820,8 +820,8 @@
               "timer_seconds": 60
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 30.0,
+          "ratio_value": 16,
+          "dose_g": 30,
           "output_label": "water",
           "dial_in": [
             {
@@ -848,7 +848,7 @@
     "category": "REC",
     "difficulty": 2,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "238.jpg",
     "definition": "A stovetop brewing device that uses steam pressure to push hot water up through a bed of finely ground coffee, producing a strong, concentrated brew closer in style to espresso than filter coffee.",
     "why": "It's one of the most widely used home brewing methods in Italy and Latin America, valued for producing strong coffee without needing an espresso machine.",
     "tip": "Use water that's already hot (not cold) when filling the base — this reduces the time the coffee spends over heat and lowers the risk of a burnt, bitter result.",
@@ -897,8 +897,8 @@
           "timer_seconds": 30
         }
       ],
-      "ratio_value": 10.0,
-      "dose_g": 18.0,
+      "ratio_value": 10,
+      "dose_g": 18,
       "output_label": "water",
       "dial_in": [
         {
@@ -962,8 +962,8 @@
               "timer_seconds": 30
             }
           ],
-          "ratio_value": 10.0,
-          "dose_g": 18.0,
+          "ratio_value": 10,
+          "dose_g": 18,
           "output_label": "water",
           "dial_in": [
             {
@@ -1027,8 +1027,8 @@
               "timer_seconds": 30
             }
           ],
-          "ratio_value": 10.0,
-          "dose_g": 18.0,
+          "ratio_value": 10,
+          "dose_g": 18,
           "output_label": "water",
           "dial_in": [
             {
@@ -1055,7 +1055,7 @@
     "category": "REC",
     "difficulty": 1,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "239.jpg",
     "definition": "A long, slow steeping method using room-temperature or cold water over many hours, producing a smooth, low-acidity concentrate meant to be diluted before drinking.",
     "why": "The absence of heat during extraction pulls fewer bitter and acidic compounds than hot brewing, which is why cold brew tastes noticeably smoother and sweeter even from the same beans.",
     "tip": "Cold brew concentrate typically keeps well refrigerated for 1-2 weeks, making it genuinely practical to batch-brew for the week ahead.",
@@ -1104,8 +1104,8 @@
           "timer_seconds": 0
         }
       ],
-      "ratio_value": 8.0,
-      "dose_g": 100.0,
+      "ratio_value": 8,
+      "dose_g": 100,
       "output_label": "water",
       "dial_in": [
         {
@@ -1169,8 +1169,8 @@
               "timer_seconds": 0
             }
           ],
-          "ratio_value": 8.0,
-          "dose_g": 100.0,
+          "ratio_value": 8,
+          "dose_g": 100,
           "output_label": "water",
           "dial_in": [
             {
@@ -1234,8 +1234,8 @@
               "timer_seconds": 0
             }
           ],
-          "ratio_value": 8.0,
-          "dose_g": 100.0,
+          "ratio_value": 8,
+          "dose_g": 100,
           "output_label": "water",
           "dial_in": [
             {
@@ -1262,7 +1262,7 @@
     "category": "REC",
     "difficulty": 2,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "240.jpg",
     "definition": "A pour-over method using a flat-bottomed dripper with three small holes and a distinctively pleated 'wave' filter, designed to promote even water flow across the coffee bed.",
     "why": "The flat bed and multiple small holes make the Kalita Wave more forgiving of imperfect pouring technique than the V60's single large hole, while still producing a clean, balanced cup.",
     "tip": "Because the flat bed slows and evens out flow naturally, small pouring inconsistencies matter less here than in a V60 — a good entry point for pour-over beginners.",
@@ -1311,8 +1311,8 @@
           "timer_seconds": 45
         }
       ],
-      "ratio_value": 16.0,
-      "dose_g": 20.0,
+      "ratio_value": 16,
+      "dose_g": 20,
       "output_label": "water",
       "dial_in": [
         {
@@ -1376,8 +1376,8 @@
               "timer_seconds": 45
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 20.0,
+          "ratio_value": 16,
+          "dose_g": 20,
           "output_label": "water",
           "dial_in": [
             {
@@ -1441,8 +1441,8 @@
               "timer_seconds": 45
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 20.0,
+          "ratio_value": 16,
+          "dose_g": 20,
           "output_label": "water",
           "dial_in": [
             {
@@ -1469,7 +1469,7 @@
     "category": "REC",
     "difficulty": 3,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "241.jpg",
     "definition": "A brewing method using two chambers where vapor pressure pushes heated water up into a chamber holding the coffee grounds, and removing the heat source then draws the brewed coffee back down through a filter.",
     "why": "It's one of the most visually theatrical brewing methods and produces a clean, full-flavored cup, but the precise temperature and timing control it demands makes it more technically demanding than most pour-over methods.",
     "tip": "Stir gently at the start of the brewing stage to make sure all the grounds are evenly saturated, since the upper chamber doesn't allow for a second pour like pour-over methods do.",
@@ -1518,8 +1518,8 @@
           "timer_seconds": 60
         }
       ],
-      "ratio_value": 15.0,
-      "dose_g": 25.0,
+      "ratio_value": 15,
+      "dose_g": 25,
       "output_label": "water",
       "dial_in": [
         {
@@ -1583,8 +1583,8 @@
               "timer_seconds": 60
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 25.0,
+          "ratio_value": 15,
+          "dose_g": 25,
           "output_label": "water",
           "dial_in": [
             {
@@ -1648,8 +1648,8 @@
               "timer_seconds": 60
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 25.0,
+          "ratio_value": 15,
+          "dose_g": 25,
           "output_label": "water",
           "dial_in": [
             {
@@ -1676,7 +1676,7 @@
     "category": "REC",
     "difficulty": 2,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "242.jpg",
     "definition": "An unfiltered brewing method using extremely finely ground coffee simmered directly in water in a small, long-handled pot called a cezve, traditionally served with the grounds settled at the bottom of the cup.",
     "why": "It's one of the oldest continuously practiced brewing methods in the world, and its unfiltered nature produces a uniquely thick, strong cup unlike any filtered brewing style.",
     "tip": "Remove the cezve from heat just as the foam begins to rise and before it boils over, then let it settle briefly before returning to low heat — this preserves the prized foam layer.",
@@ -1730,8 +1730,8 @@
           "timer_seconds": 30
         }
       ],
-      "ratio_value": 10.0,
-      "dose_g": 7.0,
+      "ratio_value": 10,
+      "dose_g": 7,
       "output_label": "water",
       "dial_in": [
         {
@@ -1800,8 +1800,8 @@
               "timer_seconds": 30
             }
           ],
-          "ratio_value": 10.0,
-          "dose_g": 7.0,
+          "ratio_value": 10,
+          "dose_g": 7,
           "output_label": "water",
           "dial_in": [
             {
@@ -1870,8 +1870,8 @@
               "timer_seconds": 30
             }
           ],
-          "ratio_value": 10.0,
-          "dose_g": 7.0,
+          "ratio_value": 10,
+          "dose_g": 7,
           "output_label": "water",
           "dial_in": [
             {
@@ -1898,7 +1898,7 @@
     "category": "REC",
     "difficulty": 3,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "243.jpg",
     "definition": "A concentrated brewing method that forces hot water through a compacted puck of very finely ground coffee under high pressure, producing a small, intense shot topped with crema.",
     "why": "Espresso is the base for nearly every café milk drink, and dialing it in correctly (grind, dose, and time together) is one of the most technically demanding skills in coffee preparation.",
     "tip": "If a shot pulls too fast, grind finer; if it pulls too slow, grind coarser — dial in grind size before adjusting anything else.",
@@ -1947,8 +1947,8 @@
           "timer_seconds": 28
         }
       ],
-      "ratio_value": 2.0,
-      "dose_g": 18.0,
+      "ratio_value": 2,
+      "dose_g": 18,
       "output_label": "yield",
       "dial_in": [
         {
@@ -2012,8 +2012,8 @@
               "timer_seconds": 28
             }
           ],
-          "ratio_value": 2.0,
-          "dose_g": 18.0,
+          "ratio_value": 2,
+          "dose_g": 18,
           "output_label": "yield",
           "dial_in": [
             {
@@ -2077,8 +2077,8 @@
               "timer_seconds": 28
             }
           ],
-          "ratio_value": 2.0,
-          "dose_g": 18.0,
+          "ratio_value": 2,
+          "dose_g": 18,
           "output_label": "yield",
           "dial_in": [
             {
@@ -2154,8 +2154,8 @@
           "timer_seconds": 45
         }
       ],
-      "ratio_value": 16.0,
-      "dose_g": 20.0,
+      "ratio_value": 16,
+      "dose_g": 20,
       "output_label": "water",
       "dial_in": [
         {
@@ -2219,8 +2219,8 @@
               "timer_seconds": 45
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 20.0,
+          "ratio_value": 16,
+          "dose_g": 20,
           "output_label": "water",
           "dial_in": [
             {
@@ -2284,8 +2284,8 @@
               "timer_seconds": 45
             }
           ],
-          "ratio_value": 16.0,
-          "dose_g": 20.0,
+          "ratio_value": 16,
+          "dose_g": 20,
           "output_label": "water",
           "dial_in": [
             {
@@ -2366,8 +2366,8 @@
           "timer_seconds": 25
         }
       ],
-      "ratio_value": 15.0,
-      "dose_g": 17.0,
+      "ratio_value": 15,
+      "dose_g": 17,
       "output_label": "water",
       "dial_in": [
         {
@@ -2436,8 +2436,8 @@
               "timer_seconds": 25
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 17.0,
+          "ratio_value": 15,
+          "dose_g": 17,
           "output_label": "water",
           "dial_in": [
             {
@@ -2506,8 +2506,8 @@
               "timer_seconds": 25
             }
           ],
-          "ratio_value": 15.0,
-          "dose_g": 17.0,
+          "ratio_value": 15,
+          "dose_g": 17,
           "output_label": "water",
           "dial_in": [
             {
@@ -2534,7 +2534,7 @@
     "category": "REC",
     "difficulty": 3,
     "reading_time": 3,
-    "hero_image": null,
+    "hero_image": "246.jpg",
     "definition": "A standardized coffee evaluation method used throughout the specialty industry — coarsely ground coffee is steeped directly in a cup, the crust is broken and skimmed, and the resulting brew is slurped and scored for aroma, flavor, and other sensory attributes.",
     "why": "Cupping is the industry-standard way to objectively compare and evaluate coffees side by side, using a consistent method that removes most of the variables a normal brewing method would introduce.",
     "tip": "Slurp forcefully rather than sipping normally — the aggressive slurp aerates the coffee and spreads it across the whole palate, which is essential for accurately judging flavor.",
@@ -2589,7 +2589,7 @@
         }
       ],
       "ratio_value": 18.18,
-      "dose_g": 11.0,
+      "dose_g": 11,
       "output_label": "water",
       "dial_in": [
         {
@@ -2659,7 +2659,7 @@
             }
           ],
           "ratio_value": 18.18,
-          "dose_g": 11.0,
+          "dose_g": 11,
           "output_label": "water",
           "dial_in": [
             {
@@ -2728,8 +2728,8 @@
               "timer_seconds": 180
             }
           ],
-          "ratio_value": 18.0,
-          "dose_g": 11.0,
+          "ratio_value": 18,
+          "dose_g": 11,
           "output_label": "water",
           "dial_in": [
             {
