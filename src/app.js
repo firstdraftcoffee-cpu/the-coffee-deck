@@ -1,7 +1,5 @@
 import {
     loadCards,
-    searchCards,
-    getCategories,
     allCards,
     totalCardCount,
     refreshAccess
@@ -22,10 +20,6 @@ import {
 
 import {
     getBookmarks,
-    getRecent,
-    addRecentSearch,
-    getRecentSearches,
-    clearRecentSearches,
     toggleBookmark,
     save
 } from "./storage.js";
@@ -60,17 +54,12 @@ import {
     onLocaleChange
 } from "./i18n.js";
 
-let activeCategory = "ALL";
-let currentSort = "number";
 let homeCards = [];
 let homeIndex = 0;
 
-const search = document.getElementById("search");
 const home = document.getElementById("home");
-const filters = document.getElementById("filters");
 const counter = document.getElementById("count");
 const filterToggle = document.getElementById("filterToggle");
-const filterPanel = document.getElementById("filterPanel");
 const studyToggle = document.getElementById("studyToggle");
 const statsToggle = document.getElementById("statsToggle");
 const subscribeToggle = document.getElementById("subscribeToggle");
@@ -92,11 +81,7 @@ async function init() {
 
     setupTheme();
 
-    buildFilters();
-
     setupNav();
-
-    createRecentSearches();
 
     document.addEventListener("coffeedeck:refresh", renderHome);
 
@@ -106,15 +91,33 @@ async function init() {
 
         renderLangSwitch();
 
-        buildFilters();
-
         renderHome();
 
     });
 
     renderHome();
 
-    openWelcome();
+    const requestedCard = new URL(window.location.href).searchParams.get("card");
+
+    if (requestedCard) {
+
+        const index = homeCards.findIndex(c => c.number === requestedCard);
+
+        if (index !== -1) {
+
+            homeIndex = index;
+
+            openViewer(homeCards, homeIndex, {
+                onClose: renderHomeCard
+            });
+
+        }
+
+    } else {
+
+        openWelcome();
+
+    }
 
 }
 
@@ -149,8 +152,6 @@ function updateThemeIcon() {
 }
 
 function applyStaticStrings() {
-
-    search.placeholder = t("searchPlaceholder");
 
     filterToggle.setAttribute("aria-label", t("navSearchLabel"));
     filterToggle.querySelector(".icon-label").textContent = t("navSearch");
@@ -210,31 +211,11 @@ function setupNav() {
 
         closeStats();
 
-        filterPanel.classList.remove("show");
-
-        search.value = "";
-
-        activeCategory = "ALL";
-
-        buildFilters();
-
         homeIndex = 0;
 
         renderHome();
 
         openWelcome();
-
-    };
-
-    filterToggle.onclick = () => {
-
-        filterPanel.classList.toggle("show");
-
-        if (filterPanel.classList.contains("show")) {
-
-            search.focus();
-
-        }
 
     };
 
@@ -265,7 +246,6 @@ function setupNav() {
         closeViewer();
         closeStudySession();
         closeStats();
-        filterPanel.classList.remove("show");
 
         renderHome();
 
@@ -279,239 +259,13 @@ function setupNav() {
 
     };
 
-    document.addEventListener("click", e => {
-
-        if (
-            filterPanel.classList.contains("show") &&
-            !filterPanel.contains(e.target) &&
-            e.target !== filterToggle
-        ) {
-
-            filterPanel.classList.remove("show");
-
-        }
-
-    });
-
-}
-
-function createRecentSearches() {
-
-    if (document.getElementById("recentSearches")) return;
-
-    const box = document.createElement("div");
-
-    box.id = "recentSearches";
-
-    box.className = "recent-searches";
-
-    search.parentNode.insertBefore(
-        box,
-        search.nextSibling
-    );
-
-    search.addEventListener("focus", showRecentSearches);
-
-    search.addEventListener("blur", () => {
-
-        setTimeout(hideRecentSearches, 150);
-
-    });
-
-}
-
-function showRecentSearches() {
-
-    const box = document.getElementById("recentSearches");
-
-    if (!box) return;
-
-    if (search.value.trim()) {
-
-        box.classList.remove("show");
-
-        return;
-
-    }
-
-    const recentTerms = getRecentSearches();
-
-    if (!recentTerms.length) {
-
-        box.classList.remove("show");
-
-        return;
-
-    }
-
-    box.innerHTML = recentTerms
-
-        .map(term =>
-            `<button class="recent-search-item">${term}</button>`
-        )
-
-        .join("") +
-
-        `<button class="recent-search-clear">${t("clear")}</button>`;
-
-    box.querySelectorAll(".recent-search-item").forEach(
-        (button, i) => {
-
-            button.onclick = () => {
-
-                search.value = recentTerms[i];
-
-                hideRecentSearches();
-
-                homeIndex = 0;
-
-                renderHome();
-
-            };
-
-        }
-
-    );
-
-    box.querySelector(".recent-search-clear").onclick = () => {
-
-        clearRecentSearches();
-
-        hideRecentSearches();
-
-    };
-
-    box.classList.add("show");
-
-}
-
-function hideRecentSearches() {
-
-    document.getElementById("recentSearches")
-        ?.classList.remove("show");
-
-}
-
-function escapeRegex(str) {
-
-    return str.replace(
-        /[.*+?^${}()|[\]\\]/g,
-        "\\$&"
-    );
-
-}
-
-function highlightMatch(text, query) {
-
-    if (!query) return text;
-
-    const pattern = new RegExp(
-        `(${escapeRegex(query)})`,
-        "gi"
-    );
-
-    return text.replace(pattern, "<mark>$1</mark>");
-
-}
-
-function buildFilters() {
-
-    filters.innerHTML = "";
-
-    const total = allCards().length;
-
-    getCategories().forEach(category => {
-
-        const button = document.createElement("button");
-
-        button.className = "filter";
-
-        if (category === activeCategory) {
-
-            button.classList.add("active");
-
-        }
-
-        const count = category === "ALL"
-            ? total
-            : allCards().filter(
-                card => card.category === category
-            ).length;
-
-        button.innerHTML = `
-
-${category}
-
-<span class="filter-count">${count}</span>
-
-`;
-
-        button.onclick = () => {
-
-            activeCategory = category;
-
-            buildFilters();
-
-            homeIndex = 0;
-
-            renderHome();
-
-            filterPanel.classList.remove("show");
-
-        };
-
-        filters.appendChild(button);
-
-    });
-
 }
 
 function getVisibleCards() {
 
-    const cards = searchCards(
-        search.value,
-        activeCategory
+    return [...allCards()].sort((a, b) =>
+        a.number - b.number
     );
-
-    switch (currentSort) {
-
-        case "title":
-
-            return [...cards].sort((a, b) =>
-                a.title.localeCompare(b.title)
-            );
-
-        case "category":
-
-            return [...cards].sort((a, b) => {
-
-                const compare = a.category.localeCompare(
-                    b.category
-                );
-
-                if (compare !== 0) {
-
-                    return compare;
-
-                }
-
-                return a.number - b.number;
-
-            });
-
-        default:
-
-            if (search.value.trim()) {
-
-                return cards;
-
-            }
-
-            return [...cards].sort((a, b) =>
-                a.number - b.number
-            );
-
-    }
 
 }
 
@@ -569,8 +323,6 @@ ${t("noResults")}
 
     }
 
-    const query = search.value.trim();
-
     const heroImage = card.hero_image
         ? `/images/cards/${card.hero_image}`
         : null;
@@ -616,7 +368,7 @@ ${heroImage ? `<img src="${heroImage}" alt="${card.title}" loading="eager" decod
 
 <div class="home-card-title-overlay">
 
-<h2>${highlightMatch(card.title, query)}</h2>
+<h2>${card.title}</h2>
 
 </div>
 
@@ -624,7 +376,7 @@ ${heroImage ? `<img src="${heroImage}" alt="${card.title}" loading="eager" decod
 
 <div class="home-card-body">
 
-<p>${highlightMatch(card.definition, query)}</p>
+<p>${card.definition}</p>
 
 <div class="home-actions">
 
@@ -891,40 +643,6 @@ function renderPaywallCard() {
     };
 
 }
-
-search.oninput = () => {
-
-    hideRecentSearches();
-
-    homeIndex = 0;
-
-    renderHome();
-
-};
-
-search.addEventListener("keydown", e => {
-
-    if (e.key === "Enter") {
-
-        addRecentSearch(search.value);
-
-        search.blur();
-
-        filterPanel.classList.remove("show");
-
-    }
-
-});
-
-search.addEventListener("blur", () => {
-
-    if (search.value.trim()) {
-
-        addRecentSearch(search.value);
-
-    }
-
-});
 
 init();
 

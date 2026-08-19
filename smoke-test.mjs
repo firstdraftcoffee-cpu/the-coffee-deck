@@ -4,7 +4,7 @@ import fs from "fs";
 const html = fs.readFileSync("./dist/index.html", "utf8");
 const cardsData = JSON.parse(fs.readFileSync("./dist/data/cards.json", "utf8"));
 const TOTAL_CARDS = String(cardsData.length);
-const jsFile = fs.readdirSync("./dist/assets").find(f => f.endsWith(".js"));
+const jsFile = fs.readdirSync("./dist/assets").find(f => f.startsWith("main-") && f.endsWith(".js"));
 
 const dom = new JSDOM(html, {
     url: "http://localhost/",
@@ -39,6 +39,12 @@ global.fetch = async (url, options) => {
     if (url.includes("/api/create-checkout-session")) {
         return { ok: true, json: async () => ({ url: "https://checkout.stripe.com/mock-session" }) };
     }
+    // Vite's own module-preload helper fires a fetch() alongside the real
+    // dynamic import() for cross-chunk dependencies (a real-browser
+    // performance optimization) — harmless, just let it resolve.
+    if (url.includes("/assets/") && (url.endsWith(".js") || url.endsWith(".css"))) {
+        return { ok: true, json: async () => ({}) };
+    }
     throw new Error("Unexpected fetch: " + url);
 };
 
@@ -69,6 +75,41 @@ async function simulateFastFlick(el, dxTotal, elapsedMs) {
 }
 
 global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "test@example.com", verifiedAt: Date.now() }));
+
+// Boots a fresh JSDOM instance of index.html at a given URL (used to test
+// the ?card=NNN deep-link feature, which replaced search as the way to
+// reach a specific known card for testing card-specific behavior — e.g.
+// a cultivar's photo disclaimer, or the recipe calculator on a REC card).
+async function bootIndex(url) {
+
+    const bootDom = new JSDOM(html, { url, pretendToBeVisual: true });
+    const bootWindow = bootDom.window;
+
+    global.window = bootWindow;
+    global.document = bootWindow.document;
+    global.localStorage = bootWindow.localStorage;
+    global.KeyboardEvent = bootWindow.KeyboardEvent;
+    global.Event = bootWindow.Event;
+    global.PointerEvent = bootWindow.PointerEvent || bootWindow.Event;
+    global.CustomEvent = bootWindow.CustomEvent;
+    global.MutationObserver = bootWindow.MutationObserver;
+    global.HTMLElement = bootWindow.HTMLElement;
+    global.Node = bootWindow.Node;
+    global.requestAnimationFrame = bootWindow.requestAnimationFrame || (cb => setTimeout(cb, 0));
+
+    global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "test@example.com", verifiedAt: Date.now() }));
+
+    try {
+        await import(`./dist/assets/${jsFile}?t=${Date.now()}-${Math.random()}`);
+    } catch (e) {
+        errors.push(e.stack || e.message);
+    }
+
+    await new Promise(r => setTimeout(r, 400));
+
+    return { doc: global.document, window: global.window };
+
+}
 
 try {
     await import(`./dist/assets/${jsFile}?t=${Date.now()}`);
@@ -187,62 +228,17 @@ await new Promise(r => setTimeout(r, 300));
 check("Viewer closes via Escape", !doc.getElementById("viewer"));
 check("Body scroll unlocks after the viewer closes", doc.body.style.position !== "fixed");
 
-// --- Filter panel ---
-const filterPanel = doc.getElementById("filterPanel");
-check("Filter panel starts hidden", !filterPanel.classList.contains("show"));
-doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
-check("Filter panel opens on toggle click", filterPanel.classList.contains("show"));
+// --- Search moved to a dedicated page (search.html) — verify the nav link ---
+check("Search nav button links to the dedicated search page", doc.getElementById("filterToggle")?.getAttribute("href") === "search.html");
 
-const filterButtons = doc.querySelectorAll("#filters .filter");
-check("Filter buttons rendered", filterButtons.length > 5);
-const espFilter = [...filterButtons].find(f => f.textContent.includes("ESP"));
-espFilter.dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 200));
-check("Selecting a category filter closes the panel", !filterPanel.classList.contains("show"));
-check("Card count updates to reflect ESP filter (15)", doc.getElementById("count")?.textContent.includes("15"));
-check("Home card now shows an ESP card", doc.querySelector(".home-card .home-card-cat")?.textContent.trim() === "ESP");
-
-const allFilter = [...doc.querySelectorAll("#filters .filter")].find(f => f.textContent.includes("ALL"));
-allFilter.dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 200));
-check(`Resetting to ALL restores ${TOTAL_CARDS} cards`, doc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
-
-// --- Search ---
-doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
-const searchInput = doc.getElementById("search");
-searchInput.value = "espresso";
-searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+// Reset home position back to card 001 — the swipe/flick tests above leave
+// homeIndex drifted forward by one, and several tests below assume a known
+// starting card (previously reset implicitly by the old filter panel's
+// "ALL" click, which no longer exists).
+doc.getElementById("homeButton").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 150));
-check("Searching 'espresso' surfaces the Espresso card first", doc.querySelector(".home-card h2")?.textContent.trim().toLowerCase().includes("espresso"));
-check("Matched term is highlighted", doc.querySelector(".home-card h2")?.innerHTML.toLowerCase().includes("<mark>"));
-
-searchInput.value = "expresso";
-searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
+doc.getElementById("welcome-cta")?.dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 150));
-check("Typo 'expresso' still finds Espresso via fuzzy match", doc.querySelector(".home-card h2")?.textContent.trim().toLowerCase().includes("espresso"));
-
-searchInput.value = "zzzznonexistentzzzz";
-searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-check("Nonsense query shows the empty state without throwing", !!doc.querySelector(".home-empty") && errors.length === 0);
-
-searchInput.value = "milk";
-searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
-searchInput.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Enter", bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-check("Enter saves the search term to recent searches", JSON.parse(global.localStorage.getItem("coffeeDeck:recentSearches") || "[]").includes("milk"));
-check("Enter closes the filter panel", !filterPanel.classList.contains("show"));
-
-searchInput.value = "";
-searchInput.dispatchEvent(new window.Event("input", { bubbles: true }));
-doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-searchInput.dispatchEvent(new window.Event("focus", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-check("Recent searches dropdown shows saved term", doc.getElementById("recentSearches")?.textContent.includes("milk"));
-doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
 
 // --- Study Mode ---
 doc.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
@@ -284,50 +280,45 @@ await new Promise(r => setTimeout(r, 250));
 check("Study mode closes", !doc.getElementById("study-mode"));
 check("Body scroll unlocks after study mode closes", doc.body.style.position !== "fixed");
 
-// --- Recipe Cards: full viewer rendering ---
-doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
-const recipeSearch = doc.getElementById("search");
-recipeSearch.value = "V60 pour-over";
-recipeSearch.dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 200));
-check("Recipe card viewer shows stat pills (ratio/grind/temp/time)", doc.querySelectorAll(".recipe-stat").length === 4);
-check("Recipe card viewer shows the interactive ratio calculator", !!doc.querySelector(".recipe-calc"));
-check("Recipe card viewer shows a dial-in troubleshooting guide", doc.querySelectorAll(".recipe-dial-in dt").length > 0);
-check("Recipe card viewer shows numbered brewing steps", doc.querySelectorAll(".recipe-steps li").length > 0);
-check("At least one step shows a timer badge", !!doc.querySelector(".recipe-step-timer"));
+// --- Recipe Cards: full viewer rendering (opened directly via ?card= deep-link) ---
+{
+    const { doc: recipeDoc } = await bootIndex("http://localhost/?card=234");
+    check("Recipe card viewer shows stat pills (ratio/grind/temp/time)", recipeDoc.querySelectorAll(".recipe-stat").length === 4);
+    check("Recipe card viewer shows the interactive ratio calculator", !!recipeDoc.querySelector(".recipe-calc"));
+    check("Recipe card viewer shows a dial-in troubleshooting guide", recipeDoc.querySelectorAll(".recipe-dial-in dt").length > 0);
+    check("Recipe card viewer shows numbered brewing steps", recipeDoc.querySelectorAll(".recipe-steps li").length > 0);
+    check("At least one step shows a timer badge", !!recipeDoc.querySelector(".recipe-step-timer"));
 
-const resultBefore = doc.querySelector(".recipe-calc-result")?.textContent.trim();
-const doseSliderEl = doc.querySelector(".calc-dose-slider");
-doseSliderEl.value = String(Number(doseSliderEl.max));
-doseSliderEl.dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 50));
-const resultAfter = doc.querySelector(".recipe-calc-result")?.textContent.trim();
-check("Dragging the dose slider updates the water/yield result live", resultAfter !== resultBefore);
-check("Dose display next to the slider updates to match", doc.querySelector(".calc-dose-value")?.textContent === doseSliderEl.max);
+    const resultBefore = recipeDoc.querySelector(".recipe-calc-result")?.textContent.trim();
+    const doseSliderEl = recipeDoc.querySelector(".calc-dose-slider");
+    doseSliderEl.value = String(Number(doseSliderEl.max));
+    doseSliderEl.dispatchEvent(new global.window.Event("input", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 50));
+    const resultAfter = recipeDoc.querySelector(".recipe-calc-result")?.textContent.trim();
+    check("Dragging the dose slider updates the water/yield result live", resultAfter !== resultBefore);
+    check("Dose display next to the slider updates to match", recipeDoc.querySelector(".calc-dose-value")?.textContent === doseSliderEl.max);
 
-const ratioSliderEl = doc.querySelector(".calc-ratio-slider");
-ratioSliderEl.value = ratioSliderEl.min;
-ratioSliderEl.dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 50));
-check("Dragging the ratio slider updates the displayed ratio", doc.querySelector(".calc-ratio-value")?.textContent === `1:${ratioSliderEl.min}`);
+    const ratioSliderEl = recipeDoc.querySelector(".calc-ratio-slider");
+    ratioSliderEl.value = ratioSliderEl.min;
+    ratioSliderEl.dispatchEvent(new global.window.Event("input", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 50));
+    check("Dragging the ratio slider updates the displayed ratio", recipeDoc.querySelector(".calc-ratio-value")?.textContent === `1:${ratioSliderEl.min}`);
 
-const rangeAtBounds = doseSliderEl;
-rangeAtBounds.focus();
-rangeAtBounds.dispatchEvent(new window.KeyboardEvent("keydown", { key: "ArrowLeft", bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
-check("Arrow keys while a slider is focused do not navigate away from the card", !!doc.querySelector(".recipe-calc"));
+    doseSliderEl.focus();
+    doseSliderEl.dispatchEvent(new global.window.KeyboardEvent("keydown", { key: "ArrowLeft", bubbles: true }));
+    await new Promise(r => setTimeout(r, 100));
+    check("Arrow keys while a slider is focused do not navigate away from the card", !!recipeDoc.querySelector(".recipe-calc"));
 
-doc.querySelector(".close")?.dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-check("Recipe card viewer closes normally", !doc.getElementById("viewer")?.classList.contains("show"));
+    recipeDoc.querySelector(".close")?.dispatchEvent(new global.window.Event("click", { bubbles: true }));
+    await new Promise(r => setTimeout(r, 150));
+    check("Recipe card viewer closes normally", !recipeDoc.getElementById("viewer")?.classList.contains("show"));
+}
 
-recipeSearch.value = "";
-recipeSearch.dispatchEvent(new window.Event("input", { bubbles: true }));
-doc.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
+// Restore the main default-boot doc/window/localStorage as globals for subsequent tests
+global.document = doc;
+global.window = window;
+global.localStorage = window.localStorage;
+
 
 // --- Stats modal (with Library tiles) ---
 doc.getElementById("statsToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
@@ -376,39 +367,26 @@ doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
 await new Promise(r => setTimeout(r, 300));
 
 // --- Cultivar cards show a discreet "photo not verified" disclaimer ---
-doc.getElementById("search").value = "Typica";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 250));
-check("Cultivar card shows the photo-unverified disclaimer under its image", !!doc.querySelector(".viewer-photo-note")?.textContent.trim());
-doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
-await new Promise(r => setTimeout(r, 300));
+{
+    const { doc: typicaDoc } = await bootIndex("http://localhost/?card=139");
+    check("Cultivar card shows the photo-unverified disclaimer under its image", !!typicaDoc.querySelector(".viewer-photo-note")?.textContent.trim());
+}
 
-doc.getElementById("search").value = "Espresso";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 250));
-check("Non-cultivar card does NOT show the photo-unverified disclaimer", !doc.querySelector(".viewer-photo-note"));
-doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
-await new Promise(r => setTimeout(r, 300));
+{
+    const { doc: espressoDoc } = await bootIndex("http://localhost/?card=001");
+    check("Non-cultivar card does NOT show the photo-unverified disclaimer", !espressoDoc.querySelector(".viewer-photo-note"));
+}
 
 // --- Placeholder-flagged origin cards show a distinct disclaimer ---
-doc.getElementById("search").value = "Yirgacheffe";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 250));
-check("Placeholder-flagged origin card shows the placeholder disclaimer", doc.querySelector(".viewer-photo-note")?.textContent.includes("placeholder"));
-doc.dispatchEvent(new window.KeyboardEvent("keydown", { key: "Escape" }));
-await new Promise(r => setTimeout(r, 300));
-doc.getElementById("search").value = "";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-doc.getElementById("search").value = "";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
+{
+    const { doc: yirgaDoc } = await bootIndex("http://localhost/?card=130");
+    check("Placeholder-flagged origin card shows the placeholder disclaimer", yirgaDoc.querySelector(".viewer-photo-note")?.textContent.includes("placeholder"));
+}
+
+global.document = doc;
+global.window = window;
+global.localStorage = window.localStorage;
+
 document.getElementById("studyToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 const revealBtn = doc.getElementById("study-reveal");
@@ -424,16 +402,6 @@ if (doc.getElementById("study-exit")) {
 }
 
 // --- Home button: closes any open overlay, resets to the home stack, and also opens the welcome overlay ---
-document.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
-doc.getElementById("search").value = "espresso";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-const filterBtn = [...doc.querySelectorAll(".filter")].find(b => b.textContent.trim().startsWith("ESP"));
-if (filterBtn) {
-    filterBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
-    await new Promise(r => setTimeout(r, 150));
-}
 doc.querySelector(".home-card")?.dispatchEvent(new window.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 check("Home button test setup: viewer is open before clicking home", !!doc.getElementById("viewer")?.classList.contains("show"));
@@ -442,8 +410,6 @@ doc.getElementById("homeButton").dispatchEvent(new window.Event("click", { bubbl
 await new Promise(r => setTimeout(r, 250));
 
 check("Clicking the home button closes an open viewer", !doc.getElementById("viewer")?.classList.contains("show"));
-check("Clicking the home button clears the search field", doc.getElementById("search").value === "");
-check(`Clicking the home button resets the filter back to ALL (${TOTAL_CARDS} cards)`, doc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 check("Home stack is visible again after clicking the home button", !!doc.querySelector(".home-card"));
 check("Clicking the home button also opens the welcome overlay", !!doc.getElementById("welcome-mode")?.classList.contains("show"));
 check("Body scroll is locked while that welcome overlay is showing", doc.body.style.position === "fixed");
@@ -492,17 +458,6 @@ const emojiPattern = /[\u{1F300}-\u{1FAFF}\u{2600}-\u{26FF}\u{2700}-\u{27BF}]/u;
 check("No emoji anywhere in the rendered page (excluding approved plain-text icon symbols)", !emojiPattern.test(htmlWithoutApprovedSymbols));
 
 // --- Localization: language switcher ---
-doc.getElementById("search").value = "";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
-document.getElementById("filterToggle").dispatchEvent(new window.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 100));
-const allFilterBtn = [...doc.querySelectorAll(".filter")].find(b => b.textContent.trim().startsWith("ALL"));
-if (allFilterBtn) {
-    allFilterBtn.dispatchEvent(new window.Event("click", { bubbles: true }));
-    await new Promise(r => setTimeout(r, 150));
-}
-
 const langButtons = () => [...doc.querySelectorAll("#langSwitch button")];
 check("Language switcher renders EN/ES/PT buttons", langButtons().length === 3);
 
@@ -554,10 +509,6 @@ if (enButton) {
 check("No errors across the full run", errors.length === 0);
 
 // --- Image prefetching for adjacent cards ---
-doc.getElementById("search").value = "";
-doc.getElementById("search").dispatchEvent(new window.Event("input", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-
 const preloadedSrcs = [];
 const originalCreateElement = doc.createElement.bind(doc);
 doc.createElement = (tag) => {

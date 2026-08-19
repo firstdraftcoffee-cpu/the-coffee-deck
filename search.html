@@ -5,14 +5,14 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>The Coffee Deck</title>
+<title>Search — The Coffee Deck</title>
 
 <link rel="manifest" href="/manifest.webmanifest">
 <meta name="theme-color" content="#E8663D">
 
 <link rel="icon" href="/icons/icon-192.png">
 <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
-<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 <meta name="apple-mobile-web-app-title" content="Coffee Deck">
 
@@ -22,6 +22,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&display=swap" rel="stylesheet">
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="search.css">
 
 <script>
 (function() {
@@ -44,45 +45,9 @@
 
 <nav>
 
-<button id="homeButton" class="logo" aria-label="Go to home">
-
-The Coffee Deck
-
-</button>
+<a href="index.html" id="homeButton" class="logo">The Coffee Deck</a>
 
 <div class="nav-actions">
-
-<a href="search.html" id="filterToggle" class="icon-button" aria-label="Search and filter">
-
-<span class="icon-glyph">⌕</span> <span class="icon-label">Search</span>
-
-</a>
-
-<button id="studyToggle" class="icon-button" aria-label="Study mode">
-
-<span class="icon-glyph">▸︎</span> <span class="icon-label">Study</span>
-
-</button>
-
-<button id="statsToggle" class="icon-button" aria-label="Your progress">
-
-<span class="icon-glyph">◔</span> <span class="icon-label">Progress</span>
-
-</button>
-
-<button id="subscribeToggle" class="subscribe-button" aria-label="Subscribe" hidden>
-
-Subscribe
-
-</button>
-
-<div id="count">
-
-0 Cards
-
-</div>
-
-<div id="langSwitch" class="lang-switch"></div>
 
 <button id="themeToggle" class="theme-toggle" aria-label="Toggle dark mode">
 
@@ -94,9 +59,32 @@ Subscribe
 
 </nav>
 
-<main id="home"></main>
+<main id="searchPage">
 
-<script type="module" src="./src/app.js"></script>
+<div class="search-page-inner">
+
+<form id="searchForm" role="search" autocomplete="off">
+
+<input
+type="text"
+id="search"
+name="q"
+autocomplete="off"
+placeholder="Search the deck...">
+
+</form>
+
+<div id="categoryList" class="category-list"></div>
+
+<div id="resultCount" class="result-count"></div>
+
+<div id="results" class="results-list"></div>
+
+</div>
+
+</main>
+
+<script type="module" src="./src/search.js"></script>
 
 </body>
 </html>
