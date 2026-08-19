@@ -402,33 +402,53 @@ nav{
 
 }
 
-/* ===== Filter panel ===== */
+/* ===== Search modal ===== */
 
 .filter-panel{
 
     display:none;
 
-    background:var(--surface);
+    position:fixed;
 
-    border-bottom:1px solid var(--line);
+    inset:0;
 
-    box-shadow:var(--shadow-md);
+    z-index:5000;
+
+    background:rgba(21,17,13,.45);
+
+    backdrop-filter:blur(2px);
 
 }
 
 .filter-panel.show{
 
-    display:block;
+    display:flex;
+
+    align-items:flex-start;
+
+    justify-content:center;
 
 }
 
 .filter-panel-inner{
 
-    max-width:900px;
+    width:100%;
 
-    margin:auto;
+    max-width:640px;
 
-    padding:var(--sp-5) var(--sp-6);
+    margin:var(--sp-8) var(--sp-5) auto;
+
+    background:var(--surface);
+
+    border-radius:var(--radius-lg);
+
+    box-shadow:var(--shadow-lg);
+
+    padding:var(--sp-6);
+
+    max-height:calc(100vh - var(--sp-8) * 2);
+
+    overflow-y:auto;
 
 }
 
@@ -436,9 +456,7 @@ nav{
 
     position:relative;
 
-    max-width:700px;
-
-    margin:0 auto;
+    width:100%;
 
 }
 
@@ -446,13 +464,11 @@ nav{
 
     width:100%;
 
-    max-width:700px;
-
     padding:var(--sp-4) var(--sp-5);
 
     border-radius:var(--radius-pill);
 
-    border:1px solid var(--line);
+    border:2px solid var(--line);
 
     font-family:"Nunito",sans-serif;
 
