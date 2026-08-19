@@ -1,7 +1,7 @@
 // Coffee Deck service worker.
 // Bump CACHE_NAME on any change to this file's caching logic so old
 // clients pick up the new behavior instead of running stale code forever.
-const CACHE_NAME = "coffee-deck-v1";
+const CACHE_NAME = "coffee-deck-v2";
 
 self.addEventListener("install", () => {
     self.skipWaiting();
@@ -22,6 +22,16 @@ self.addEventListener("activate", (event) => {
 self.addEventListener("fetch", (event) => {
     const { request } = event;
     const url = new URL(request.url);
+
+    // Only ever handle same-origin http(s) GET requests. Browser
+    // extensions (ad blockers, password managers, etc.) can trigger
+    // fetches with schemes like chrome-extension:// that pass through
+    // this listener — the Cache API can never store those, and trying
+    // to do so throws. Let the browser handle anything outside our
+    // own scope untouched.
+    if (url.origin !== self.location.origin) {
+        return;
+    }
 
     // Never touch the Stripe/checkout API — always hit the network live.
     if (url.pathname.startsWith("/api/")) {
@@ -57,7 +67,7 @@ async function networkFirst(request) {
     try {
         const response = await fetch(request);
         if (response.ok) {
-            cache.put(request, response.clone());
+            cache.put(request, response.clone()).catch(() => {});
         }
         return response;
     } catch (err) {
@@ -72,9 +82,15 @@ async function cacheFirst(request) {
     const cached = await cache.match(request);
     if (cached) return cached;
 
-    const response = await fetch(request);
-    if (response.ok) {
-        cache.put(request, response.clone());
+    try {
+        const response = await fetch(request);
+        if (response.ok) {
+            cache.put(request, response.clone()).catch(() => {});
+        }
+        return response;
+    } catch (err) {
+        const fallback = await cache.match(request);
+        if (fallback) return fallback;
+        throw err;
     }
-    return response;
 }
