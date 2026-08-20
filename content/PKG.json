@@ -329,7 +329,7 @@
     "category": "PKG",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "221.jpg",
     "definition": "The main retail packaging formats for coffee — flexible valve bags (most common for specialty whole bean), rigid cans (often nitrogen-flushed, common for ground coffee), and single-serve capsules (individually sealed, maximum per-dose freshness protection at the cost of significant packaging waste).",
     "why": "Each format represents a different balance of freshness protection, cost, convenience, and environmental impact — there's no universally 'best' format, only tradeoffs suited to different use cases.",
     "tip": "Capsules protect freshness exceptionally well per individual dose, since each one is sealed separately, but that same individual sealing is what generates their outsized packaging waste per cup.",
