@@ -8269,7 +8269,7 @@
     "category": "ETH",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "226.jpg",
     "definition": "The benchmark global commodity price for arabica coffee, set by futures trading on the ICE exchange, that most non-specialty coffee contracts reference when setting the price paid to farmers.",
     "why": "The C-price is volatile and disconnected from actual production costs — when it falls below what it costs a farmer to grow coffee, farmers can lose money on every harvest regardless of quality, which is the exact problem Fair Trade's price floor was designed to address.",
     "tip": "Specialty coffee is often bought at a negotiated price relative to the C-price (a 'differential') rather than at the C-price itself, which is one reason specialty and commodity coffee farmer incomes can diverge sharply.",
