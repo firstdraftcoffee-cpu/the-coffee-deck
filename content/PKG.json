@@ -149,7 +149,7 @@
     "category": "PKG",
     "difficulty": 2,
     "reading_time": 2,
-    "hero_image": null,
+    "hero_image": "216.jpg",
     "definition": "A packaging technique where nitrogen gas displaces oxygen inside a coffee bag or can before sealing, creating a low-oxygen environment without needing a degassing valve.",
     "why": "It's a common solution for pre-ground and canned coffee, which stales faster than whole bean and can't rely on a valve alone since there's less trapped CO2 actively pushing oxygen out from the inside.",
     "tip": "Nitrogen flushing is especially common in canned or brick-packed ground coffee (like vacuum-sealed bricks) rather than fresh whole-bean specialty bags, where valve venting is usually enough.",
