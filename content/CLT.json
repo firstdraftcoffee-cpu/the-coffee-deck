@@ -33,7 +33,8 @@
         "challenge": "Por que uma cultura construiria um ritual de horas em torno de uma bebida que em outros lugares leva minutos para ser preparada?"
       }
     },
-    "id": 195
+    "id": 195,
+    "free_sample": true
   },
   {
     "number": "196",
@@ -69,7 +70,8 @@
         "challenge": "Por que um método de preparo baseado na borra que sobra poderia se tornar uma tradição querida em vez de um defeito a corrigir?"
       }
     },
-    "id": 196
+    "id": 196,
+    "free_sample": true
   },
   {
     "number": "197",

@@ -219,7 +219,8 @@
         }
       }
     },
-    "id": 234
+    "id": 234,
+    "free_sample": true
   },
   {
     "number": "235",

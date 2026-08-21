@@ -962,6 +962,7 @@
         "challenge": "Liste três diferenças entre o espresso e o café filtrado."
       }
     },
+    "free_sample": true,
     "id": 26
   },
   {
@@ -1332,6 +1333,7 @@
         "challenge": "Por que a estabilidade térmica é importante?"
       }
     },
+    "free_sample": true,
     "id": 36
   },
   {
@@ -2073,6 +2075,7 @@
         "challenge": "Liste os cinco sentidos envolvidos na avaliação do café."
       }
     },
+    "free_sample": true,
     "id": 56
   },
   {
@@ -2443,6 +2446,7 @@
         "challenge": "Quais características definem um café verde de alta qualidade?"
       }
     },
+    "free_sample": true,
     "id": 66
   },
   {
@@ -2813,6 +2817,7 @@
         "challenge": "Nomeie os três métodos de processamento mais comuns."
       }
     },
+    "free_sample": true,
     "id": 76
   },
   {
@@ -3183,6 +3188,7 @@
         "challenge": "Nomeie três países grandes produtores de café."
       }
     },
+    "free_sample": true,
     "id": 86
   },
   {
@@ -6460,6 +6466,7 @@
         "challenge": "Por que uma história como essa poderia sobreviver por séculos mesmo sem evidência histórica?"
       }
     },
+    "free_sample": true,
     "id": 175
   },
   {
@@ -6496,6 +6503,7 @@
         "challenge": "Por que os governantes às vezes viam as cafeterias com desconfiança ou tentavam proibi-las?"
       }
     },
+    "free_sample": true,
     "id": 176
   },
   {
@@ -7181,7 +7189,8 @@
         "challenge": "Por que uma cultura construiria um ritual de horas em torno de uma bebida que em outros lugares leva minutos para ser preparada?"
       }
     },
-    "id": 195
+    "id": 195,
+    "free_sample": true
   },
   {
     "number": "196",
@@ -7217,7 +7226,8 @@
         "challenge": "Por que um método de preparo baseado na borra que sobra poderia se tornar uma tradição querida em vez de um defeito a corrigir?"
       }
     },
-    "id": 196
+    "id": 196,
+    "free_sample": true
   },
   {
     "number": "197",
@@ -7793,7 +7803,8 @@
         "challenge": "Por que a embalagem do café pode precisar se defender de quatro ameaças diferentes em vez de apenas vedar o ar?"
       }
     },
-    "id": 212
+    "id": 212,
+    "free_sample": true
   },
   {
     "number": "213",
@@ -8771,7 +8782,8 @@
         }
       }
     },
-    "id": 234
+    "id": 234,
+    "free_sample": true
   },
   {
     "number": "235",

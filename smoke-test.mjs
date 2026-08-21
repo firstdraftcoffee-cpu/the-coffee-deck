@@ -618,7 +618,7 @@ check("Free/unsubscribed visitor: no errors during module load/init", errors.len
 freeDoc.getElementById("welcome-cta")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
 
-check("Free visitor sees the reduced sample count, not the full deck", freeDoc.getElementById("count")?.textContent.includes("13") && !freeDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+check("Free visitor sees the reduced sample count, not the full deck", freeDoc.getElementById("count")?.textContent.includes("25") && !freeDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 
 check("Free visitor sees a Subscribe button in the header", freeDoc.getElementById("subscribeToggle")?.hidden === false);
 
@@ -630,8 +630,8 @@ check("Clicking the header Subscribe button jumps straight to the paywall card",
 freeDoc.getElementById("homeButton")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 150));
 
-// Swipe through all 13 free cards to reach the paywall card at the end
-for (let i = 0; i < 13; i++) {
+// Swipe through all 25 free cards to reach the paywall card at the end
+for (let i = 0; i < 25; i++) {
     freeDoc.getElementById("homeNext")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
     await new Promise(r => setTimeout(r, 80));
 }
@@ -655,7 +655,7 @@ const emailInput = freeDoc.getElementById("paywall-email");
 emailInput.value = "not-a-subscriber@example.com";
 freeDoc.getElementById("paywall-verify")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 250));
-check("Restoring access with an unknown email shows an error, deck stays locked", freeDoc.getElementById("paywall-status")?.textContent.length > 0 && freeDoc.getElementById("count")?.textContent.includes("13"));
+check("Restoring access with an unknown email shows an error, deck stays locked", freeDoc.getElementById("paywall-status")?.textContent.length > 0 && freeDoc.getElementById("count")?.textContent.includes("25"));
 
 emailInput.value = "subscriber@example.com";
 freeDoc.getElementById("paywall-verify")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));

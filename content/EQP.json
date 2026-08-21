@@ -33,7 +33,8 @@
         "mistake": "Supor que a máquina está estável imediatamente após ser ligada.",
         "challenge": "Por que a estabilidade térmica é importante?"
       }
-    }
+    },
+    "free_sample": true
   },
   {
     "number": "037",
