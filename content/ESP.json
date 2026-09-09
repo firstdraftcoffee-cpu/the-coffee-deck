@@ -32,6 +32,30 @@
         "tip": "Domine a consistência antes de buscar a perfeição.",
         "mistake": "Julgar o espresso apenas pela crema.",
         "challenge": "Explique o espresso em uma frase."
+      },
+      "de": {
+        "title": "Espresso",
+        "definition": "Espresso ist ein konzentriertes Kaffeegetränk, das gebrüht wird, indem heißes Wasser unter Druck durch fein gemahlenen Kaffee gepresst wird.",
+        "why": "Fast jedes Cafégetränk beginnt mit Espresso.",
+        "tip": "Beherrsche Konsistenz, bevor du Perfektion anstrebst.",
+        "mistake": "Espresso allein anhand der Crema zu beurteilen.",
+        "challenge": "Erkläre Espresso in einem Satz."
+      },
+      "fr": {
+        "title": "Espresso",
+        "definition": "L'espresso est une boisson café concentrée préparée en forçant de l'eau chaude sous pression à travers du café finement moulu.",
+        "why": "Presque toutes les boissons de café commencent par de l'espresso.",
+        "tip": "Maîtrisez la constance avant de rechercher la perfection.",
+        "mistake": "Juger l'espresso uniquement sur la crema.",
+        "challenge": "Expliquez l'espresso en une phrase."
+      },
+      "it": {
+        "title": "Espresso",
+        "definition": "L'espresso è una bevanda di caffè concentrata preparata forzando acqua calda sotto pressione attraverso caffè macinato fine.",
+        "why": "Quasi ogni bevanda del bar inizia con l'espresso.",
+        "tip": "Padroneggia la coerenza prima di inseguire la perfezione.",
+        "mistake": "Giudicare l'espresso solo dalla crema.",
+        "challenge": "Spiega l'espresso in una frase."
       }
     },
     "free_sample": true
@@ -69,6 +93,30 @@
         "tip": "Sempre pese cada dose.",
         "mistake": "Mudar a dose antes de verificar a moagem.",
         "challenge": "Por que a dose afeta o fluxo?"
+      },
+      "de": {
+        "title": "Dosis",
+        "definition": "Das Gewicht des trockenen Kaffees, der in den Siebträger gegeben wird.",
+        "why": "Die Dosis beeinflusst Puck-Tiefe, Fluss und Extraktion.",
+        "tip": "Wiege jede Dosis immer ab.",
+        "mistake": "Die Dosis zu ändern, bevor der Mahlgrad geprüft wurde.",
+        "challenge": "Warum beeinflusst die Dosis den Fluss?"
+      },
+      "fr": {
+        "title": "Dose",
+        "definition": "Le poids de café sec placé dans le porte-filtre.",
+        "why": "La dose affecte la profondeur de la galette, le débit et l'extraction.",
+        "tip": "Pesez toujours chaque dose.",
+        "mistake": "Changer la dose avant de vérifier la mouture.",
+        "challenge": "Pourquoi la dose affecte-t-elle le débit ?"
+      },
+      "it": {
+        "title": "Dose",
+        "definition": "Il peso del caffè secco inserito nel portafiltro.",
+        "why": "La dose influisce su profondità del panetto, flusso ed estrazione.",
+        "tip": "Pesa sempre ogni dose.",
+        "mistake": "Cambiare la dose prima di controllare la macinatura.",
+        "challenge": "Perché la dose influisce sul flusso?"
       }
     }
   },
@@ -105,6 +153,30 @@
         "tip": "Meça por peso, nunca por volume.",
         "mistake": "Parar a extração pela cor.",
         "challenge": "Calcule uma proporção de preparo de 1:2."
+      },
+      "de": {
+        "title": "Ausbeute",
+        "definition": "Das Gewicht des in der Tasse erzeugten Espressos.",
+        "why": "Die Ausbeute bestimmt das Brühverhältnis und die Stärke.",
+        "tip": "Miss nach Gewicht, niemals nach Volumen.",
+        "mistake": "Shots anhand der Farbe zu stoppen.",
+        "challenge": "Berechne ein Brühverhältnis von 1:2."
+      },
+      "fr": {
+        "title": "Rendement",
+        "definition": "Le poids d'espresso produit dans la tasse.",
+        "why": "Le rendement détermine le ratio d'infusion et la force.",
+        "tip": "Mesurez par poids, jamais par volume.",
+        "mistake": "Arrêter les shots selon la couleur.",
+        "challenge": "Calculez un ratio d'infusion de 1:2."
+      },
+      "it": {
+        "title": "Resa",
+        "definition": "Il peso di espresso prodotto in tazza.",
+        "why": "La resa determina il rapporto di infusione e la forza.",
+        "tip": "Misura per peso, mai per volume.",
+        "mistake": "Fermare gli shot in base al colore.",
+        "challenge": "Calcola un rapporto di infusione 1:2."
       }
     }
   },
@@ -141,6 +213,30 @@
         "tip": "Comece em torno de 1:2.",
         "mistake": "Pensar que as proporções são regras fixas.",
         "challenge": "Compare 1:1.5 e 1:3."
+      },
+      "de": {
+        "title": "Brühverhältnis",
+        "definition": "Das Verhältnis zwischen Kaffeedosis und Getränkeausbeute.",
+        "why": "Eine der größten Geschmackskontrollen.",
+        "tip": "Beginne bei etwa 1:2.",
+        "mistake": "Zu denken, Verhältnisse seien feste Regeln.",
+        "challenge": "Vergleiche 1:1.5 und 1:3."
+      },
+      "fr": {
+        "title": "Ratio d'infusion",
+        "definition": "La relation entre la dose de café et le rendement de la boisson.",
+        "why": "L'un des plus grands leviers de contrôle de la saveur.",
+        "tip": "Commencez autour de 1:2.",
+        "mistake": "Penser que les ratios sont des règles fixes.",
+        "challenge": "Comparez 1:1,5 et 1:3."
+      },
+      "it": {
+        "title": "Rapporto di infusione",
+        "definition": "La relazione tra dose di caffè e resa della bevanda.",
+        "why": "Uno dei più grandi controlli sul sapore.",
+        "tip": "Inizia intorno a 1:2.",
+        "mistake": "Pensare che i rapporti siano regole fisse.",
+        "challenge": "Confronta 1:1,5 e 1:3."
       }
     }
   },
@@ -177,6 +273,30 @@
         "tip": "Prove cada extração.",
         "mistake": "Confiar apenas no tempo de extração.",
         "challenge": "Descreva a superextração."
+      },
+      "de": {
+        "title": "Extraktion",
+        "definition": "Das Herauslösen löslicher Verbindungen aus Kaffee mittels Wasser.",
+        "why": "Extraktion bestimmt Süße, Säure und Bitterkeit.",
+        "tip": "Verkoste jeden Shot.",
+        "mistake": "Sich allein auf die Shot-Zeit zu verlassen.",
+        "challenge": "Beschreibe Überextraktion."
+      },
+      "fr": {
+        "title": "Extraction",
+        "definition": "L'élimination des composés solubles du café à l'aide d'eau.",
+        "why": "L'extraction détermine la douceur, l'acidité et l'amertume.",
+        "tip": "Goûtez chaque shot.",
+        "mistake": "Se fier uniquement au temps du shot.",
+        "challenge": "Décrivez la sur-extraction."
+      },
+      "it": {
+        "title": "Estrazione",
+        "definition": "La rimozione dei composti solubili dal caffè usando l'acqua.",
+        "why": "L'estrazione determina dolcezza, acidità e amarezza.",
+        "tip": "Assaggia ogni shot.",
+        "mistake": "Affidarsi solo al tempo dello shot.",
+        "challenge": "Descrivi la sovraestrazione."
       }
     },
     "free_sample": true
@@ -214,6 +334,30 @@
         "tip": "Mova o moedor em pequenos incrementos.",
         "mistake": "Fazer ajustes enormes.",
         "challenge": "Como uma moagem mais fina afeta o fluxo?"
+      },
+      "de": {
+        "title": "Mahlgrad",
+        "definition": "Die von der Mühle erzeugte Partikelgröße.",
+        "why": "Die primäre Einstellung beim Dialing-in.",
+        "tip": "Bewege die Mühle in kleinen Schritten.",
+        "mistake": "Riesige Anpassungen vorzunehmen.",
+        "challenge": "Wie beeinflusst feinerer Mahlgrad den Fluss?"
+      },
+      "fr": {
+        "title": "Taille de mouture",
+        "definition": "La taille de particule produite par le moulin.",
+        "why": "Le principal réglage pour le dial-in.",
+        "tip": "Déplacez le moulin par petits incréments.",
+        "mistake": "Faire des ajustements énormes.",
+        "challenge": "Comment une mouture plus fine affecte-t-elle le débit ?"
+      },
+      "it": {
+        "title": "Dimensione di macinatura",
+        "definition": "La dimensione delle particelle prodotte dal macinacaffè.",
+        "why": "La principale regolazione per il dial-in.",
+        "tip": "Sposta il macinacaffè con piccoli incrementi.",
+        "mistake": "Fare regolazioni enormi.",
+        "challenge": "Come influisce una macinatura più fine sul flusso?"
       }
     }
   },
@@ -250,6 +394,30 @@
         "tip": "Registre cada extração.",
         "mistake": "Calibrar apenas pelo tempo.",
         "challenge": "Tempos idênticos podem ter sabores diferentes?"
+      },
+      "de": {
+        "title": "Shot-Zeit",
+        "definition": "Die Zeit, die benötigt wird, um das Zielgetränkegewicht zu erreichen.",
+        "why": "Nur nützlich zusammen mit Ausbeute und Geschmack.",
+        "tip": "Zeichne jeden Shot auf.",
+        "mistake": "Nur nach der Zeit einzustellen.",
+        "challenge": "Können identische Zeiten unterschiedlich schmecken?"
+      },
+      "fr": {
+        "title": "Temps de shot",
+        "definition": "Le temps nécessaire pour atteindre le poids de boisson cible.",
+        "why": "Utile seulement en parallèle du rendement et du goût.",
+        "tip": "Enregistrez chaque shot.",
+        "mistake": "Régler uniquement selon le temps.",
+        "challenge": "Des temps identiques peuvent-ils avoir un goût différent ?"
+      },
+      "it": {
+        "title": "Tempo dello shot",
+        "definition": "Il tempo necessario per raggiungere il peso target della bevanda.",
+        "why": "Utile solo insieme a resa e sapore.",
+        "tip": "Registra ogni shot.",
+        "mistake": "Regolare solo in base al tempo.",
+        "challenge": "Tempi identici possono avere sapori diversi?"
       }
     }
   },
@@ -286,6 +454,30 @@
         "tip": "Melhore o preparo da pastilha.",
         "mistake": "Ignorar a distribuição.",
         "challenge": "Nomeie três causas."
+      },
+      "de": {
+        "title": "Channeling",
+        "definition": "Ungleichmäßiger Wasserfluss durch schwache Stellen im Puck.",
+        "why": "Verursacht ungleichmäßige Extraktion.",
+        "tip": "Verbessere die Puck-Vorbereitung.",
+        "mistake": "Die Verteilung zu ignorieren.",
+        "challenge": "Nenne drei Ursachen."
+      },
+      "fr": {
+        "title": "Canaling",
+        "definition": "Un flux d'eau inégal à travers des points faibles de la galette.",
+        "why": "Cause une extraction inégale.",
+        "tip": "Améliorez la préparation de la galette.",
+        "mistake": "Ignorer la distribution.",
+        "challenge": "Nommez trois causes."
+      },
+      "it": {
+        "title": "Channeling",
+        "definition": "Flusso d'acqua irregolare attraverso punti deboli del panetto.",
+        "why": "Causa un'estrazione irregolare.",
+        "tip": "Migliora la preparazione del panetto.",
+        "mistake": "Ignorare la distribuzione.",
+        "challenge": "Nomina tre cause."
       }
     }
   },
@@ -322,6 +514,30 @@
         "tip": "Mantenha a técnica simples.",
         "mistake": "Deixar vazios na pastilha.",
         "challenge": "Por que a densidade uniforme é importante?"
+      },
+      "de": {
+        "title": "Verteilung",
+        "definition": "Gleichmäßiges Verteilen des Kaffees vor dem Tampern.",
+        "why": "Fördert einheitliche Extraktion.",
+        "tip": "Halte die Technik einfach.",
+        "mistake": "Hohlräume im Puck zu hinterlassen.",
+        "challenge": "Warum ist gleichmäßige Dichte wichtig?"
+      },
+      "fr": {
+        "title": "Distribution",
+        "definition": "Répartir uniformément le café avant de tasser.",
+        "why": "Favorise une extraction uniforme.",
+        "tip": "Gardez la technique simple.",
+        "mistake": "Laisser des vides dans la galette.",
+        "challenge": "Pourquoi une densité uniforme est-elle importante ?"
+      },
+      "it": {
+        "title": "Distribuzione",
+        "definition": "Distribuire uniformemente il caffè prima di pressare.",
+        "why": "Favorisce un'estrazione uniforme.",
+        "tip": "Mantieni la tecnica semplice.",
+        "mistake": "Lasciare vuoti nel panetto.",
+        "challenge": "Perché una densità uniforme è importante?"
       }
     }
   },
@@ -358,6 +574,30 @@
         "tip": "Concentre-se na repetibilidade.",
         "mistake": "Girar de forma agressiva.",
         "challenge": "Por que um apisoamento nivelado é importante?"
+      },
+      "de": {
+        "title": "Tampern",
+        "definition": "Das Zusammenpressen des Kaffees zu einem ebenen Puck.",
+        "why": "Ebenheit ist wichtiger als Kraft.",
+        "tip": "Konzentriere dich auf Wiederholbarkeit.",
+        "mistake": "Aggressiv zu drehen.",
+        "challenge": "Warum ist ein ebener Tamp wichtig?"
+      },
+      "fr": {
+        "title": "Tassage",
+        "definition": "Compresser le café en une galette de niveau.",
+        "why": "La planéité compte plus que la force.",
+        "tip": "Concentrez-vous sur la reproductibilité.",
+        "mistake": "Tourner de façon agressive.",
+        "challenge": "Pourquoi un tassage de niveau est-il important ?"
+      },
+      "it": {
+        "title": "Pressatura",
+        "definition": "Comprimere il caffè in un panetto livellato.",
+        "why": "La planarità conta più della forza.",
+        "tip": "Concentrati sulla ripetibilità.",
+        "mistake": "Ruotare in modo aggressivo.",
+        "challenge": "Perché una pressatura livellata è importante?"
       }
     }
   },
@@ -394,6 +634,30 @@
         "tip": "Avalie pelo sabor, não pela teoria.",
         "mistake": "Supor que mais tempo é sempre melhor.",
         "challenge": "Quando a pré-infusão é útil?"
+      },
+      "de": {
+        "title": "Vorbrühen",
+        "definition": "Niedrigdruckbenetzung des Pucks vor dem vollen Brühdruck.",
+        "why": "Kann die Gleichmäßigkeit der Extraktion verbessern.",
+        "tip": "Bewerte anhand des Geschmacks, nicht der Theorie.",
+        "mistake": "Anzunehmen, länger sei immer besser.",
+        "challenge": "Wann ist Vorbrühen nützlich?"
+      },
+      "fr": {
+        "title": "Pré-infusion",
+        "definition": "Un mouillage à basse pression de la galette avant la pleine pression d'infusion.",
+        "why": "Peut améliorer l'uniformité de l'extraction.",
+        "tip": "Évaluez par le goût, pas par la théorie.",
+        "mistake": "Supposer que plus long est toujours meilleur.",
+        "challenge": "Quand la pré-infusion est-elle utile ?"
+      },
+      "it": {
+        "title": "Pre-infusione",
+        "definition": "Una bagnatura a bassa pressione del panetto prima della piena pressione di preparazione.",
+        "why": "Può migliorare l'uniformità dell'estrazione.",
+        "tip": "Valuta in base al sapore, non alla teoria.",
+        "mistake": "Supporre che più lungo sia sempre meglio.",
+        "challenge": "Quando è utile la pre-infusione?"
       }
     }
   },
@@ -430,6 +694,30 @@
         "tip": "Pressão estável importa mais do que pressão máxima.",
         "mistake": "Culpar a pressão por todos os problemas.",
         "challenge": "Qual é a pressão de preparo tradicional?"
+      },
+      "de": {
+        "title": "Druck",
+        "definition": "Die Kraft, die Wasser durch den Kaffeepuck drückt.",
+        "why": "Druck beeinflusst Fluss und Extraktion.",
+        "tip": "Stabiler Druck ist wichtiger als maximaler Druck.",
+        "mistake": "Druck für jedes Problem verantwortlich zu machen.",
+        "challenge": "Was ist der traditionelle Brühdruck?"
+      },
+      "fr": {
+        "title": "Pression",
+        "definition": "La force qui pousse l'eau à travers la galette de café.",
+        "why": "La pression influence le débit et l'extraction.",
+        "tip": "Une pression stable compte plus qu'une pression maximale.",
+        "mistake": "Blâmer la pression pour chaque problème.",
+        "challenge": "Quelle est la pression d'infusion traditionnelle ?"
+      },
+      "it": {
+        "title": "Pressione",
+        "definition": "La forza che spinge l'acqua attraverso il panetto di caffè.",
+        "why": "La pressione influisce su flusso ed estrazione.",
+        "tip": "Una pressione stabile conta più di una pressione massima.",
+        "mistake": "Incolpare la pressione per ogni problema.",
+        "challenge": "Qual è la pressione di preparazione tradizionale?"
       }
     }
   },
@@ -466,6 +754,30 @@
         "tip": "Mude apenas uma variável de cada vez.",
         "mistake": "Fazer grandes saltos de temperatura.",
         "challenge": "Como água mais quente afeta a extração?"
+      },
+      "de": {
+        "title": "Temperatur",
+        "definition": "Die Brühwassertemperatur während der Extraktion.",
+        "why": "Temperatur verändert die Extraktionseffizienz.",
+        "tip": "Ändere jeweils nur eine Variable.",
+        "mistake": "Große Temperatursprünge zu machen.",
+        "challenge": "Wie beeinflusst heißeres Wasser die Extraktion?"
+      },
+      "fr": {
+        "title": "Température",
+        "definition": "La température de l'eau d'infusion pendant l'extraction.",
+        "why": "La température change l'efficacité de l'extraction.",
+        "tip": "Changez une seule variable à la fois.",
+        "mistake": "Faire de grands sauts de température.",
+        "challenge": "Comment une eau plus chaude affecte-t-elle l'extraction ?"
+      },
+      "it": {
+        "title": "Temperatura",
+        "definition": "La temperatura dell'acqua di preparazione durante l'estrazione.",
+        "why": "La temperatura cambia l'efficienza dell'estrazione.",
+        "tip": "Cambia solo una variabile alla volta.",
+        "mistake": "Fare grandi salti di temperatura.",
+        "challenge": "Come influisce un'acqua più calda sull'estrazione?"
       }
     }
   },
@@ -502,6 +814,30 @@
         "tip": "Mude uma variável de cada vez.",
         "mistake": "Mudar várias variáveis juntas.",
         "challenge": "Liste a sequência normal de calibração."
+      },
+      "de": {
+        "title": "Dialing-in",
+        "definition": "Der Prozess, Espresso-Variablen anzupassen, um den gewünschten Geschmack zu erreichen.",
+        "why": "Jeder Kaffee erfordert Dialing-in.",
+        "tip": "Ändere jeweils nur eine Variable.",
+        "mistake": "Mehrere Variablen gleichzeitig zu ändern.",
+        "challenge": "Liste die normale Dialing-in-Reihenfolge auf."
+      },
+      "fr": {
+        "title": "Dial-in",
+        "definition": "Le processus d'ajustement des variables de l'espresso pour obtenir la saveur désirée.",
+        "why": "Chaque café nécessite un dial-in.",
+        "tip": "Changez une seule variable à la fois.",
+        "mistake": "Changer plusieurs variables ensemble.",
+        "challenge": "Listez la séquence normale de dial-in."
+      },
+      "it": {
+        "title": "Dial-in",
+        "definition": "Il processo di regolazione delle variabili dell'espresso per ottenere il sapore desiderato.",
+        "why": "Ogni caffè richiede il dial-in.",
+        "tip": "Cambia una sola variabile alla volta.",
+        "mistake": "Cambiare più variabili insieme.",
+        "challenge": "Elenca la normale sequenza di dial-in."
       }
     }
   },
@@ -538,6 +874,30 @@
         "tip": "Escreva cada receita.",
         "mistake": "Confiar na memória.",
         "challenge": "Elabore uma receita para uma dose de 18g."
+      },
+      "de": {
+        "title": "Rezept",
+        "definition": "Eine dokumentierte Kombination aus Dosis, Ausbeute, Zeit und Temperatur, die verwendet wird, um Espresso konsistent herzustellen.",
+        "why": "Rezepte ermöglichen Wiederholbarkeit über Personal und Standorte hinweg.",
+        "tip": "Schreibe jedes Rezept auf.",
+        "mistake": "Sich auf das Gedächtnis zu verlassen.",
+        "challenge": "Erstelle ein Rezept für eine 18g-Dosis."
+      },
+      "fr": {
+        "title": "Recette",
+        "definition": "Une combinaison documentée de dose, rendement, temps et température utilisée pour produire de l'espresso de façon constante.",
+        "why": "Les recettes permettent la reproductibilité entre le personnel et les sites.",
+        "tip": "Notez chaque recette.",
+        "mistake": "Se fier à la mémoire.",
+        "challenge": "Construisez une recette pour une dose de 18g."
+      },
+      "it": {
+        "title": "Ricetta",
+        "definition": "Una combinazione documentata di dose, resa, tempo e temperatura usata per produrre espresso in modo costante.",
+        "why": "Le ricette permettono ripetibilità tra personale e sedi.",
+        "tip": "Scrivi ogni ricetta.",
+        "mistake": "Affidarsi alla memoria.",
+        "challenge": "Costruisci una ricetta per una dose da 18g."
       }
     }
   }
