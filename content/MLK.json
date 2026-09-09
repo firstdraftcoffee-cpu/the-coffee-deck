@@ -32,6 +32,30 @@
         "tip": "A proteína cria espuma. A gordura contribui para a textura e a sensação na boca.",
         "mistake": "Supor que a gordura cria espuma.",
         "challenge": "Quais componentes do leite são mais responsáveis pelo microfoam?"
+      },
+      "de": {
+        "title": "Milchzusammensetzung",
+        "definition": "Milch besteht hauptsächlich aus Wasser, Fett, Proteinen, Laktose und Mineralien.",
+        "why": "Zu wissen, wie Milch aufgebaut ist, hilft, Aufschäumen, Süße und Schaumqualität zu erklären.",
+        "tip": "Protein erzeugt Schaum. Fett trägt zu Textur und Mundgefühl bei.",
+        "mistake": "Anzunehmen, Fett erzeuge Schaum.",
+        "challenge": "Welche Milchbestandteile sind hauptsächlich für Mikroschaum verantwortlich?"
+      },
+      "fr": {
+        "title": "Composition du lait",
+        "definition": "Le lait est composé principalement d'eau, de matière grasse, de protéines, de lactose et de minéraux.",
+        "why": "Savoir comment le lait est constitué aide à expliquer la vaporisation, la douceur et la qualité de la mousse.",
+        "tip": "La protéine crée la mousse. La matière grasse contribue à la texture et à la sensation en bouche.",
+        "mistake": "Supposer que la matière grasse crée la mousse.",
+        "challenge": "Quels composants du lait sont les plus responsables de la microfoam ?"
+      },
+      "it": {
+        "title": "Composizione del latte",
+        "definition": "Il latte è composto principalmente da acqua, grassi, proteine, lattosio e minerali.",
+        "why": "Sapere come è costituito il latte aiuta a spiegare montatura, dolcezza e qualità della schiuma.",
+        "tip": "Le proteine creano la schiuma. Il grasso contribuisce a texture e sensazione in bocca.",
+        "mistake": "Supporre che il grasso crei la schiuma.",
+        "challenge": "Quali componenti del latte sono più responsabili della microschiuma?"
       }
     }
   },
@@ -68,6 +92,30 @@
         "tip": "Use seu termômetro até reconhecer a temperatura pelo toque de forma consistente.",
         "mistake": "Superaquecer o leite acima de 70°C.",
         "challenge": "Por que o leite superaquecido tem sabor menos doce?"
+      },
+      "de": {
+        "title": "Milchtemperatur",
+        "definition": "Die meisten Milchgetränke werden je nach Getränk und Kundenpräferenz zwischen 55°C und 65°C serviert.",
+        "why": "Temperatur verändert Süße, Textur und Trinkbarkeit.",
+        "tip": "Nutze dein Thermometer, bis du Temperatur konsistent am Gefühl erkennst.",
+        "mistake": "Milch über 70°C zu überhitzen.",
+        "challenge": "Warum schmeckt überhitzte Milch weniger süß?"
+      },
+      "fr": {
+        "title": "Température du lait",
+        "definition": "La plupart des boissons lactées sont servies entre 55°C et 65°C selon la boisson et la préférence du client.",
+        "why": "La température change la douceur, la texture et le plaisir de boire.",
+        "tip": "Utilisez votre thermomètre jusqu'à reconnaître la température de manière constante au toucher.",
+        "mistake": "Surchauffer le lait au-delà de 70°C.",
+        "challenge": "Pourquoi le lait surchauffé a-t-il un goût moins sucré ?"
+      },
+      "it": {
+        "title": "Temperatura del latte",
+        "definition": "La maggior parte delle bevande a base di latte viene servita tra 55°C e 65°C a seconda della bevanda e della preferenza del cliente.",
+        "why": "La temperatura cambia dolcezza, texture e piacevolezza.",
+        "tip": "Usa il termometro finché non riconosci costantemente la temperatura al tatto.",
+        "mistake": "Surriscaldare il latte oltre i 70°C.",
+        "challenge": "Perché il latte surriscaldato ha un sapore meno dolce?"
       }
     }
   },
@@ -104,6 +152,30 @@
         "tip": "Introduza ar no início e depois pare.",
         "mistake": "Adicionar ar durante todo o processo de vaporização.",
         "challenge": "Quando o alongamento deve parar?"
+      },
+      "de": {
+        "title": "Stretching",
+        "definition": "Stretching ist das Einbringen von Luft während der ersten Phase des Aufschäumens.",
+        "why": "Die Menge des Stretchings bestimmt das endgültige Schaumvolumen.",
+        "tip": "Bringe früh Luft ein, dann stoppe.",
+        "mistake": "Während des gesamten Aufschäumprozesses Luft hinzuzufügen.",
+        "challenge": "Wann sollte Stretching aufhören?"
+      },
+      "fr": {
+        "title": "Stretching",
+        "definition": "Le stretching est l'introduction d'air pendant la première étape de la vaporisation.",
+        "why": "La quantité de stretching détermine le volume final de mousse.",
+        "tip": "Introduisez l'air tôt, puis arrêtez.",
+        "mistake": "Ajouter de l'air pendant tout le processus de vaporisation.",
+        "challenge": "Quand le stretching devrait-il s'arrêter ?"
+      },
+      "it": {
+        "title": "Stretching",
+        "definition": "Lo stretching è l'introduzione di aria durante la prima fase della montatura.",
+        "why": "La quantità di stretching determina il volume finale della schiuma.",
+        "tip": "Introduci aria presto, poi fermati.",
+        "mistake": "Aggiungere aria per tutto il processo di montatura.",
+        "challenge": "Quando dovrebbe fermarsi lo stretching?"
       }
     }
   },
@@ -140,6 +212,30 @@
         "tip": "Ouça um som suave, como de papel rasgando.",
         "mistake": "Criar bolhas grandes.",
         "challenge": "Descreva a textura perfeita do leite."
+      },
+      "de": {
+        "title": "Texturieren",
+        "definition": "Texturieren erzeugt einen Wirbel, der Luft gleichmäßig in die Milch einarbeitet.",
+        "why": "Ein glatter Wirbel erzeugt glänzenden Mikroschaum.",
+        "tip": "Achte auf ein sanftes, papierreißendes Geräusch.",
+        "mistake": "Große Blasen zu erzeugen.",
+        "challenge": "Beschreibe perfekte Milchtextur."
+      },
+      "fr": {
+        "title": "Texturation",
+        "definition": "La texturation crée un tourbillon qui incorpore uniformément l'air dans le lait.",
+        "why": "Un vortex lisse produit une microfoam brillante.",
+        "tip": "Écoutez un léger bruit de papier déchiré.",
+        "mistake": "Créer de grosses bulles.",
+        "challenge": "Décrivez une texture de lait parfaite."
+      },
+      "it": {
+        "title": "Texturizzazione",
+        "definition": "La texturizzazione crea un vortice che incorpora uniformemente l'aria nel latte.",
+        "why": "Un vortice liscio produce una microschiuma lucida.",
+        "tip": "Ascolta un delicato suono simile a carta che si strappa.",
+        "mistake": "Creare bolle grandi.",
+        "challenge": "Descrivi la texture perfetta del latte."
       }
     }
   },
@@ -176,6 +272,30 @@
         "tip": "Pense em tinta branca molhada.",
         "mistake": "Confundir espuma comum com microfoam.",
         "challenge": "Como um microfoam perfeito deveria fluir ao servir?"
+      },
+      "de": {
+        "title": "Mikroschaum",
+        "definition": "Mikroschaum ist Milch mit extrem feinen, gleichmäßig verteilten Bläschen.",
+        "why": "Er erzeugt Süße, Körper und Latte Art.",
+        "tip": "Denke an nasse weiße Farbe.",
+        "mistake": "Schaum mit Mikroschaum zu verwechseln.",
+        "challenge": "Wie sollte sich perfekter Mikroschaum eingießen lassen?"
+      },
+      "fr": {
+        "title": "Microfoam",
+        "definition": "La microfoam est du lait contenant des bulles extrêmement fines et uniformément réparties.",
+        "why": "Elle crée douceur, corps et permet le latte art.",
+        "tip": "Pensez à de la peinture blanche fraîche.",
+        "mistake": "Confondre mousse et microfoam.",
+        "challenge": "Comment une microfoam parfaite devrait-elle se verser ?"
+      },
+      "it": {
+        "title": "Microschiuma",
+        "definition": "La microschiuma è latte contenente bolle estremamente fini e distribuite uniformemente.",
+        "why": "Crea dolcezza, corpo e permette il latte art.",
+        "tip": "Pensa a vernice bianca bagnata.",
+        "mistake": "Confondere la schiuma comune con la microschiuma.",
+        "challenge": "Come dovrebbe versarsi una microschiuma perfetta?"
       }
     }
   },
@@ -212,6 +332,30 @@
         "tip": "Aperfeiçoe a textura antes de aprender padrões avançados.",
         "mistake": "Focar nos padrões em vez da qualidade do leite.",
         "challenge": "Nomeie três desenhos clássicos de latte art."
+      },
+      "de": {
+        "title": "Latte Art",
+        "definition": "Latte Art kombiniert Espresso, Milchtextur und Gießtechnik.",
+        "why": "Gute Latte Art ist ein Beweis für gute Milchzubereitung.",
+        "tip": "Perfektioniere die Textur, bevor du fortgeschrittene Muster lernst.",
+        "mistake": "Sich auf Muster statt auf Milchqualität zu konzentrieren.",
+        "challenge": "Nenne drei klassische Latte-Art-Designs."
+      },
+      "fr": {
+        "title": "Latte art",
+        "definition": "Le latte art combine espresso, texture du lait et technique de versement.",
+        "why": "Un bon latte art témoigne d'une bonne préparation du lait.",
+        "tip": "Perfectionnez la texture avant d'apprendre des motifs avancés.",
+        "mistake": "Se concentrer sur les motifs plutôt que sur la qualité du lait.",
+        "challenge": "Nommez trois motifs classiques de latte art."
+      },
+      "it": {
+        "title": "Latte art",
+        "definition": "Il latte art combina espresso, texture del latte e tecnica di versamento.",
+        "why": "Un buon latte art è prova di una buona preparazione del latte.",
+        "tip": "Perfeziona la texture prima di imparare motivi avanzati.",
+        "mistake": "Concentrarsi sui motivi invece che sulla qualità del latte.",
+        "challenge": "Nomina tre disegni classici di latte art."
       }
     },
     "free_sample": true
@@ -249,6 +393,30 @@
         "tip": "Sempre leia as recomendações do fabricante.",
         "mistake": "Vaporizar leite de aveia, soja e amêndoa da mesma forma.",
         "challenge": "Qual leite alternativo costuma ser mais fácil para o latte art?"
+      },
+      "de": {
+        "title": "Alternative Milchsorten",
+        "definition": "Pflanzliche Milch schäumt sich anders auf, weil ihre Proteine und Fette sich von Kuhmilch unterscheiden.",
+        "why": "Die Technik muss zwischen Produkten oft angepasst werden.",
+        "tip": "Lies immer die Empfehlungen des Herstellers.",
+        "mistake": "Hafer-, Soja- und Mandelmilch identisch aufzuschäumen.",
+        "challenge": "Welche alternative Milch ist meist am einfachsten für Latte Art?"
+      },
+      "fr": {
+        "title": "Laits alternatifs",
+        "definition": "Les laits végétaux se vaporisent différemment car leurs protéines et matières grasses diffèrent du lait de vache.",
+        "why": "La technique doit souvent être ajustée entre les produits.",
+        "tip": "Lisez toujours les recommandations du fabricant.",
+        "mistake": "Vaporiser lait d'avoine, de soja et d'amande de façon identique.",
+        "challenge": "Quel lait alternatif est généralement le plus facile pour le latte art ?"
+      },
+      "it": {
+        "title": "Latti alternativi",
+        "definition": "I latti vegetali montano diversamente perché le loro proteine e grassi differiscono dal latte vaccino.",
+        "why": "La tecnica spesso deve essere adattata tra un prodotto e l'altro.",
+        "tip": "Leggi sempre le raccomandazioni del produttore.",
+        "mistake": "Montare latte d'avena, soia e mandorla in modo identico.",
+        "challenge": "Quale latte alternativo è di solito più facile per il latte art?"
       }
     }
   },
@@ -285,6 +453,30 @@
         "tip": "Encha a jarra até cerca de um terço antes de vaporizar.",
         "mistake": "Usar uma única jarra grande para todas as bebidas.",
         "challenge": "Por que o tamanho da jarra importa?"
+      },
+      "de": {
+        "title": "Milchkännchen",
+        "definition": "Wähle eine Kännchengröße, die zum Getränkevolumen passt.",
+        "why": "Die richtige Kännchengröße verbessert die Textur und reduziert Verschwendung.",
+        "tip": "Fülle das Kännchen vor dem Aufschäumen zu etwa einem Drittel.",
+        "mistake": "Ein großes Kännchen für jedes Getränk zu verwenden.",
+        "challenge": "Warum ist die Kännchengröße wichtig?"
+      },
+      "fr": {
+        "title": "Pichets à lait",
+        "definition": "Choisissez une taille de pichet adaptée au volume de la boisson.",
+        "why": "Une taille de pichet correcte améliore la texture et réduit le gaspillage.",
+        "tip": "Remplissez le pichet à environ un tiers avant de vaporiser.",
+        "mistake": "Utiliser un seul grand pichet pour chaque boisson.",
+        "challenge": "Pourquoi la taille du pichet compte-t-elle ?"
+      },
+      "it": {
+        "title": "Bricchi per il latte",
+        "definition": "Scegli una dimensione di bricco adatta al volume della bevanda.",
+        "why": "La dimensione corretta del bricco migliora la texture e riduce gli sprechi.",
+        "tip": "Riempi il bricco per circa un terzo prima di montare.",
+        "mistake": "Usare un unico bricco grande per ogni bevanda.",
+        "challenge": "Perché la dimensione del bricco è importante?"
       }
     }
   },
@@ -321,6 +513,30 @@
         "tip": "Purgue, limpe, purgue.",
         "mistake": "Deixar o leite secar no vaporizador.",
         "challenge": "Por que o vaporizador deve ser purgado antes de vaporizar?"
+      },
+      "de": {
+        "title": "Hygiene der Dampflanze",
+        "definition": "Dampflanzen sollten vor und nach jedem Gebrauch abgedampft und sofort abgewischt werden.",
+        "why": "Milchreste werden sehr schnell zu einem Lebensmittelsicherheitsrisiko.",
+        "tip": "Abdampfen, abwischen, abdampfen.",
+        "mistake": "Milch auf der Dampflanze antrocknen zu lassen.",
+        "challenge": "Warum sollte die Lanze vor dem Aufschäumen abgedampft werden?"
+      },
+      "fr": {
+        "title": "Hygiène de la buse vapeur",
+        "definition": "Les buses vapeur doivent être purgées avant et après chaque utilisation et essuyées immédiatement.",
+        "why": "Les résidus de lait deviennent très rapidement un risque pour la sécurité alimentaire.",
+        "tip": "Purger, essuyer, purger.",
+        "mistake": "Laisser le lait sécher sur la buse vapeur.",
+        "challenge": "Pourquoi la buse devrait-elle être purgée avant la vaporisation ?"
+      },
+      "it": {
+        "title": "Igiene della lancia vapore",
+        "definition": "Le lance vapore dovrebbero essere sfiatate prima e dopo ogni utilizzo e pulite immediatamente.",
+        "why": "I residui di latte diventano molto rapidamente un rischio per la sicurezza alimentare.",
+        "tip": "Sfiatare, pulire, sfiatare.",
+        "mistake": "Lasciare che il latte si secchi sulla lancia vapore.",
+        "challenge": "Perché la lancia dovrebbe essere sfiatata prima della montatura?"
       }
     }
   },
@@ -357,6 +573,30 @@
         "tip": "Vaporize apenas o que você precisa.",
         "mistake": "Encher demais as jarras em cada bebida.",
         "challenge": "Calcule o custo semanal de desperdiçar 100ml por bebida."
+      },
+      "de": {
+        "title": "Milchverschwendung",
+        "definition": "Genaue Milchmessung reduziert Verschwendung und verbessert die Rentabilität.",
+        "why": "Milch ist eine der höchsten laufenden Kosten in den meisten Cafés.",
+        "tip": "Schäume nur das auf, was du brauchst.",
+        "mistake": "Kännchen bei jedem Getränk zu überfüllen.",
+        "challenge": "Berechne die wöchentlichen Kosten, wenn 100ml pro Getränk verschwendet werden."
+      },
+      "fr": {
+        "title": "Gaspillage de lait",
+        "definition": "Une mesure précise du lait réduit le gaspillage et améliore la rentabilité.",
+        "why": "Le lait est l'un des coûts récurrents les plus élevés dans la plupart des cafés.",
+        "tip": "Ne vaporisez que ce dont vous avez besoin.",
+        "mistake": "Sur-remplir les pichets à chaque boisson.",
+        "challenge": "Calculez le coût hebdomadaire du gaspillage de 100ml par boisson."
+      },
+      "it": {
+        "title": "Spreco di latte",
+        "definition": "Una misurazione accurata del latte riduce gli sprechi e migliora la redditività.",
+        "why": "Il latte è uno dei costi ricorrenti più alti nella maggior parte dei bar.",
+        "tip": "Monta solo la quantità di cui hai bisogno.",
+        "mistake": "Riempire troppo i bricchi ad ogni bevanda.",
+        "challenge": "Calcola il costo settimanale di sprecare 100ml per bevanda."
       }
     }
   }

@@ -32,6 +32,30 @@
         "tip": "Inspecione o café verde antes de torrar.",
         "mistake": "Julgar a qualidade apenas pela origem.",
         "challenge": "Quais características definem um café verde de alta qualidade?"
+      },
+      "de": {
+        "title": "Rohkaffee",
+        "definition": "Rohkaffee ist Kaffee, der verarbeitet, getrocknet und für den Export vorbereitet wurde, bevor er geröstet wird.",
+        "why": "Jeder Geschmack im gerösteten Kaffee beginnt mit der Qualität des Rohkaffees.",
+        "tip": "Prüfe Rohkaffee vor dem Rösten.",
+        "mistake": "Qualität allein anhand der Herkunft zu beurteilen.",
+        "challenge": "Welche Eigenschaften definieren hochwertigen Rohkaffee?"
+      },
+      "fr": {
+        "title": "Café vert",
+        "definition": "Le café vert est du café qui a été traité, séché et préparé pour l'exportation avant torréfaction.",
+        "why": "Chaque saveur du café torréfié commence avec la qualité du café vert.",
+        "tip": "Inspectez le café vert avant la torréfaction.",
+        "mistake": "Juger la qualité uniquement à partir de l'origine.",
+        "challenge": "Quelles caractéristiques définissent un café vert de haute qualité ?"
+      },
+      "it": {
+        "title": "Caffè verde",
+        "definition": "Il caffè verde è caffè che è stato lavorato, essiccato e preparato per l'esportazione prima della tostatura.",
+        "why": "Ogni sapore nel caffè tostato inizia con la qualità del caffè verde.",
+        "tip": "Ispeziona il caffè verde prima della tostatura.",
+        "mistake": "Giudicare la qualità solo dall'origine.",
+        "challenge": "Quali caratteristiche definiscono un caffè verde di alta qualità?"
       }
     },
     "free_sample": true
@@ -69,6 +93,30 @@
         "tip": "A maioria dos cafés especiais rende melhor com umidade entre 10% e 12%.",
         "mistake": "Ignorar a umidade ao definir o perfil de torra.",
         "challenge": "Como a umidade alta afeta a torra?"
+      },
+      "de": {
+        "title": "Feuchtigkeitsgehalt",
+        "definition": "Der Feuchtigkeitsgehalt ist der Prozentsatz an Wasser im Rohkaffee.",
+        "why": "Er beeinflusst das Röstverhalten, die Haltbarkeit und die Stabilität.",
+        "tip": "Die meisten Specialty-Kaffees performen am besten bei etwa 10-12% Feuchtigkeit.",
+        "mistake": "Feuchtigkeit bei der Profilerstellung zu ignorieren.",
+        "challenge": "Wie beeinflusst hohe Feuchtigkeit das Rösten?"
+      },
+      "fr": {
+        "title": "Teneur en humidité",
+        "definition": "La teneur en humidité est le pourcentage d'eau contenu dans le café vert.",
+        "why": "Elle affecte le comportement à la torréfaction, la durée de conservation et la stabilité.",
+        "tip": "La plupart des cafés de spécialité performent le mieux autour de 10-12% d'humidité.",
+        "mistake": "Ignorer l'humidité lors du profilage.",
+        "challenge": "Comment une humidité élevée affecte-t-elle la torréfaction ?"
+      },
+      "it": {
+        "title": "Contenuto di umidità",
+        "definition": "Il contenuto di umidità è la percentuale di acqua contenuta nel caffè verde.",
+        "why": "Influenza il comportamento in tostatura, la durata di conservazione e la stabilità.",
+        "tip": "La maggior parte dei caffè specialty performa meglio intorno al 10-12% di umidità.",
+        "mistake": "Ignorare l'umidità durante la profilazione.",
+        "challenge": "Come influisce un'umidità elevata sulla tostatura?"
       }
     }
   },
@@ -105,6 +153,30 @@
         "tip": "Cafés de maior densidade geralmente toleram mais energia no início da torra.",
         "mistake": "Tratar todas as origens da mesma forma.",
         "challenge": "Quais origens costumam produzir cafés de alta densidade?"
+      },
+      "de": {
+        "title": "Dichte",
+        "definition": "Dichte misst, wie viel Masse in einem bestimmten Kaffeevolumen enthalten ist.",
+        "why": "Dichte beeinflusst die Wärmeübertragung während der Röstung.",
+        "tip": "Kaffees mit höherer Dichte vertragen oft mehr Energie früh in der Röstung.",
+        "mistake": "Alle Ursprünge gleich zu behandeln.",
+        "challenge": "Welche Ursprünge produzieren häufig Kaffees mit hoher Dichte?"
+      },
+      "fr": {
+        "title": "Densité",
+        "definition": "La densité mesure la quantité de masse contenue dans un volume donné de café.",
+        "why": "La densité influence le transfert de chaleur pendant la torréfaction.",
+        "tip": "Les cafés à plus haute densité tolèrent souvent plus d'énergie tôt dans la torréfaction.",
+        "mistake": "Traiter toutes les origines de la même façon.",
+        "challenge": "Quelles origines produisent couramment des cafés à haute densité ?"
+      },
+      "it": {
+        "title": "Densità",
+        "definition": "La densità misura quanta massa è contenuta in un dato volume di caffè.",
+        "why": "La densità influenza il trasferimento di calore durante la tostatura.",
+        "tip": "I caffè a densità più alta tollerano spesso più energia all'inizio della tostatura.",
+        "mistake": "Trattare tutte le origini allo stesso modo.",
+        "challenge": "Quali origini producono comunemente caffè ad alta densità?"
       }
     }
   },
@@ -141,6 +213,30 @@
         "tip": "Tamanho não é o mesmo que qualidade.",
         "mistake": "Pagar mais caro apenas por grãos grandes.",
         "challenge": "O que significa Screen 17?"
+      },
+      "de": {
+        "title": "Siebgröße",
+        "definition": "Siebgröße bezieht sich auf die mit abgestuften Sieben gemessene Bohnengröße.",
+        "why": "Gleichmäßige Größe fördert im Allgemeinen gleichmäßigeres Rösten.",
+        "tip": "Größe ist nicht dasselbe wie Qualität.",
+        "mistake": "Aufpreise rein für große Bohnen zu zahlen.",
+        "challenge": "Was bedeutet Screen 17?"
+      },
+      "fr": {
+        "title": "Taille de tamis",
+        "definition": "La taille de tamis désigne la taille du grain mesurée à l'aide de tamis calibrés.",
+        "why": "Une taille uniforme favorise généralement une torréfaction plus homogène.",
+        "tip": "La taille n'équivaut pas à la qualité.",
+        "mistake": "Payer une prime purement pour de gros grains.",
+        "challenge": "Que signifie Screen 17 ?"
+      },
+      "it": {
+        "title": "Calibro",
+        "definition": "Il calibro si riferisce alla dimensione del chicco misurata usando setacci graduati.",
+        "why": "Una dimensione uniforme generalmente favorisce una tostatura più omogenea.",
+        "tip": "La dimensione non è la stessa cosa della qualità.",
+        "mistake": "Pagare un sovrapprezzo solo per chicchi grandi.",
+        "challenge": "Cosa significa Screen 17?"
       }
     }
   },
@@ -177,6 +273,30 @@
         "tip": "Monitore a atividade de água junto com a umidade.",
         "mistake": "Medir apenas a porcentagem de umidade.",
         "challenge": "Por que a atividade de água é importante para o armazenamento de longo prazo?"
+      },
+      "de": {
+        "title": "Wasseraktivität",
+        "definition": "Wasseraktivität misst, wie verfügbar Feuchtigkeit für mikrobielles Wachstum ist.",
+        "why": "Sie sagt die Lagerstabilität besser voraus als Feuchtigkeit allein.",
+        "tip": "Überwache die Wasseraktivität zusammen mit der Feuchtigkeit.",
+        "mistake": "Nur den Feuchtigkeitsprozentsatz zu messen.",
+        "challenge": "Warum ist Wasseraktivität für die Langzeitlagerung wichtig?"
+      },
+      "fr": {
+        "title": "Activité de l'eau",
+        "definition": "L'activité de l'eau mesure à quel point l'humidité est disponible pour la croissance microbienne.",
+        "why": "Elle prédit mieux la stabilité au stockage que l'humidité seule.",
+        "tip": "Surveillez l'activité de l'eau en parallèle de l'humidité.",
+        "mistake": "Ne mesurer que le pourcentage d'humidité.",
+        "challenge": "Pourquoi l'activité de l'eau est-elle importante pour le stockage à long terme ?"
+      },
+      "it": {
+        "title": "Attività dell'acqua",
+        "definition": "L'attività dell'acqua misura quanto l'umidità sia disponibile per la crescita microbica.",
+        "why": "Predice la stabilità in conservazione meglio della sola umidità.",
+        "tip": "Monitora l'attività dell'acqua insieme all'umidità.",
+        "mistake": "Misurare solo la percentuale di umidità.",
+        "challenge": "Perché l'attività dell'acqua è importante per la conservazione a lungo termine?"
       }
     }
   },
@@ -213,6 +333,30 @@
         "tip": "Evite luz solar direta e umidade flutuante.",
         "mistake": "Armazenar o café perto de odores fortes.",
         "challenge": "Liste três condições ideais de armazenamento."
+      },
+      "de": {
+        "title": "Lagerung",
+        "definition": "Rohkaffee sollte kühl, trocken und geruchsfrei gelagert werden.",
+        "why": "Schlechte Lagerung beschleunigt den Qualitätsverlust.",
+        "tip": "Vermeide direktes Sonnenlicht und schwankende Luftfeuchtigkeit.",
+        "mistake": "Kaffee neben starken Gerüchen zu lagern.",
+        "challenge": "Liste drei ideale Lagerbedingungen auf."
+      },
+      "fr": {
+        "title": "Stockage",
+        "definition": "Le café vert doit être stocké dans des conditions fraîches, sèches et sans odeur.",
+        "why": "Un mauvais stockage accélère la perte de qualité.",
+        "tip": "Évitez la lumière directe du soleil et l'humidité fluctuante.",
+        "mistake": "Stocker le café à côté d'odeurs fortes.",
+        "challenge": "Listez trois conditions de stockage idéales."
+      },
+      "it": {
+        "title": "Stoccaggio",
+        "definition": "Il caffè verde dovrebbe essere conservato in condizioni fresche, asciutte e prive di odori.",
+        "why": "Uno stoccaggio scadente accelera la perdita di qualità.",
+        "tip": "Evita la luce solare diretta e l'umidità fluttuante.",
+        "mistake": "Conservare il caffè vicino a odori forti.",
+        "challenge": "Elenca tre condizioni di stoccaggio ideali."
       }
     }
   },
@@ -249,6 +393,30 @@
         "tip": "Conheça o calendário de colheita das suas origens.",
         "mistake": "Vender café de colheita antiga como se fosse recente.",
         "challenge": "Por que as temporadas de colheita diferem globalmente?"
+      },
+      "de": {
+        "title": "Erntejahr",
+        "definition": "Das Erntejahr gibt an, wann der Kaffee geerntet wurde.",
+        "why": "Kaffees der frischen Ernte schmecken im Allgemeinen heller und lebendiger.",
+        "tip": "Kenne den Erntekalender für deine Ursprünge.",
+        "mistake": "Alte Ernte als frische Ernte zu verkaufen.",
+        "challenge": "Warum unterscheiden sich Erntesaisons weltweit?"
+      },
+      "fr": {
+        "title": "Année de récolte",
+        "definition": "L'année de récolte identifie quand le café a été récolté.",
+        "why": "Les cafés de récolte fraîche ont généralement un goût plus vif et éclatant.",
+        "tip": "Connaissez le calendrier de récolte de vos origines.",
+        "mistake": "Vendre une vieille récolte comme récolte fraîche.",
+        "challenge": "Pourquoi les saisons de récolte diffèrent-elles à l'échelle mondiale ?"
+      },
+      "it": {
+        "title": "Anno di raccolto",
+        "definition": "L'anno di raccolto identifica quando il caffè è stato raccolto.",
+        "why": "I caffè di raccolto fresco generalmente hanno un sapore più brillante e vivace.",
+        "tip": "Conosci il calendario di raccolta delle tue origini.",
+        "mistake": "Vendere un vecchio raccolto come raccolto fresco.",
+        "challenge": "Perché le stagioni di raccolta differiscono a livello globale?"
       }
     }
   },
@@ -285,6 +453,30 @@
         "tip": "Aprenda as principais categorias de defeitos da SCA.",
         "mistake": "Ignorar danos causados por insetos.",
         "challenge": "Nomeie três defeitos principais."
+      },
+      "de": {
+        "title": "Defekte",
+        "definition": "Defekte sind physische Unvollkommenheiten, die die Kaffeequalität mindern.",
+        "why": "Das Aussortieren von Defekten verbessert Konsistenz und Geschmack.",
+        "tip": "Lerne die wichtigsten SCA-Defektkategorien.",
+        "mistake": "Insektenschäden zu ignorieren.",
+        "challenge": "Nenne drei primäre Defekte."
+      },
+      "fr": {
+        "title": "Défauts",
+        "definition": "Les défauts sont des imperfections physiques qui réduisent la qualité du café.",
+        "why": "Le triage des défauts améliore la constance et la saveur.",
+        "tip": "Apprenez les principales catégories de défauts SCA.",
+        "mistake": "Ignorer les dégâts causés par les insectes.",
+        "challenge": "Nommez trois défauts primaires."
+      },
+      "it": {
+        "title": "Difetti",
+        "definition": "I difetti sono imperfezioni fisiche che riducono la qualità del caffè.",
+        "why": "La selezione dei difetti migliora coerenza e sapore.",
+        "tip": "Impara le principali categorie di difetti SCA.",
+        "mistake": "Ignorare i danni da insetti.",
+        "challenge": "Nomina tre difetti primari."
       }
     }
   },
@@ -321,6 +513,30 @@
         "tip": "Mantenha os perfis de torra de amostra consistentes.",
         "mistake": "Mudar os perfis de amostra entre cafés.",
         "challenge": "Por que as torras de amostra são intencionalmente claras?"
+      },
+      "de": {
+        "title": "Probenröstung",
+        "definition": "Probenröstung bewertet die Kaffeequalität vor der Produktionsröstung.",
+        "why": "Sie unterstützt Kaufentscheidungen und Qualitätskontrolle.",
+        "tip": "Halte Probenröstprofile konsistent.",
+        "mistake": "Probenprofile zwischen Kaffees zu ändern.",
+        "challenge": "Warum sind Probenröstungen bewusst hell?"
+      },
+      "fr": {
+        "title": "Torréfaction d'échantillon",
+        "definition": "La torréfaction d'échantillon évalue la qualité du café avant la torréfaction de production.",
+        "why": "Elle soutient les décisions d'achat et le contrôle qualité.",
+        "tip": "Gardez les profils de torréfaction d'échantillon constants.",
+        "mistake": "Changer les profils d'échantillon entre les cafés.",
+        "challenge": "Pourquoi les torréfactions d'échantillon sont-elles intentionnellement claires ?"
+      },
+      "it": {
+        "title": "Tostatura campione",
+        "definition": "La tostatura campione valuta la qualità del caffè prima della tostatura di produzione.",
+        "why": "Supporta le decisioni di acquisto e il controllo qualità.",
+        "tip": "Mantieni costanti i profili di tostatura campione.",
+        "mistake": "Cambiare i profili campione tra un caffè e l'altro.",
+        "challenge": "Perché le tostature campione sono intenzionalmente chiare?"
       }
     }
   },
@@ -357,6 +573,30 @@
         "tip": "Compre com propósito, não com emoção.",
         "mistake": "Comprar apenas porque um café tem pontuação alta.",
         "challenge": "Que fatores você consideraria antes de comprar 30 sacas?"
+      },
+      "de": {
+        "title": "Rohkaffee-Einkauf",
+        "definition": "Rohkaffee-Einkauf balanciert Qualität, Verfügbarkeit, Kosten und Kundenbedürfnisse.",
+        "why": "Erfolgreicher Einkauf beeinflusst jeden verkauften Kaffee.",
+        "tip": "Kaufe mit Zweck, nicht aus Emotion.",
+        "mistake": "Nur zu kaufen, weil ein Kaffee hoch bewertet wurde.",
+        "challenge": "Welche Faktoren würdest du vor dem Kauf von 30 Säcken berücksichtigen?"
+      },
+      "fr": {
+        "title": "Achat de café vert",
+        "definition": "L'achat de vert équilibre qualité, disponibilité, coût et besoins des clients.",
+        "why": "Un achat réussi affecte chaque café vendu.",
+        "tip": "Achetez avec un objectif, pas par émotion.",
+        "mistake": "Acheter uniquement parce qu'un café obtient un score élevé.",
+        "challenge": "Quels facteurs prendriez-vous en compte avant d'acheter 30 sacs ?"
+      },
+      "it": {
+        "title": "Acquisto di caffè verde",
+        "definition": "L'acquisto di verde bilancia qualità, disponibilità, costo e bisogni del cliente.",
+        "why": "Un acquisto di successo influenza ogni caffè venduto.",
+        "tip": "Compra con uno scopo, non per emozione.",
+        "mistake": "Comprare solo perché un caffè ha un punteggio alto.",
+        "challenge": "Quali fattori considereresti prima di acquistare 30 sacchi?"
       }
     }
   }

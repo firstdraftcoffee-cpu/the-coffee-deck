@@ -32,6 +32,30 @@
         "tip": "Concentre-se numa extração uniforme em vez da velocidade.",
         "mistake": "Moer o café fino demais.",
         "challenge": "Liste três diferenças entre o espresso e o café filtrado."
+      },
+      "de": {
+        "title": "Filterkaffee",
+        "definition": "Filterkaffee wird gebrüht, indem die Schwerkraft Wasser durch ein Bett aus gemahlenem Kaffee zieht.",
+        "why": "Er betont Klarheit, Süße und Herkunftscharakter mehr als Espresso.",
+        "tip": "Konzentriere dich auf gleichmäßige Extraktion statt auf Geschwindigkeit.",
+        "mistake": "Zu fein zu mahlen.",
+        "challenge": "Liste drei Unterschiede zwischen Espresso und Filterkaffee auf."
+      },
+      "fr": {
+        "title": "Café filtre",
+        "definition": "Le café filtre est préparé en laissant la gravité faire passer l'eau à travers un lit de café moulu.",
+        "why": "Il met en valeur la clarté, la douceur et le caractère d'origine plus que l'espresso.",
+        "tip": "Concentrez-vous sur une extraction homogène plutôt que sur la vitesse.",
+        "mistake": "Moudre trop fin.",
+        "challenge": "Listez trois différences entre l'espresso et le café filtre."
+      },
+      "it": {
+        "title": "Caffè filtro",
+        "definition": "Il caffè filtro viene preparato lasciando che la gravità porti l'acqua attraverso un letto di caffè macinato.",
+        "why": "Valorizza chiarezza, dolcezza e carattere d'origine più dell'espresso.",
+        "tip": "Concentrati su un'estrazione uniforme piuttosto che sulla velocità.",
+        "mistake": "Macinare troppo fine.",
+        "challenge": "Elenca tre differenze tra espresso e caffè filtro."
       }
     },
     "free_sample": true
@@ -69,6 +93,30 @@
         "tip": "Use aproximadamente o dobro do peso do café em água.",
         "mistake": "Pular o bloom.",
         "challenge": "Por que cafés frescos fazem mais bloom?"
+      },
+      "de": {
+        "title": "Blooming",
+        "definition": "Das Blooming ist der erste Aufguss, der Kohlendioxid vor der Hauptextraktion entweichen lässt.",
+        "why": "Richtiges Blooming fördert gleichmäßige Sättigung.",
+        "tip": "Verwende etwa das Doppelte des Kaffeegewichts an Wasser.",
+        "mistake": "Das Blooming zu überspringen.",
+        "challenge": "Warum bloomen frische Kaffees stärker?"
+      },
+      "fr": {
+        "title": "Bloom",
+        "definition": "Le bloom est le premier versement, permettant au dioxyde de carbone de s'échapper avant l'extraction principale.",
+        "why": "Un bloom correct favorise une saturation homogène.",
+        "tip": "Utilisez environ deux fois le poids du café en eau.",
+        "mistake": "Sauter le bloom.",
+        "challenge": "Pourquoi les cafés frais font-ils plus de bloom ?"
+      },
+      "it": {
+        "title": "Bloom",
+        "definition": "Il bloom è la prima versata, che permette all'anidride carbonica di fuoriuscire prima dell'estrazione principale.",
+        "why": "Un bloom corretto favorisce una saturazione uniforme.",
+        "tip": "Usa circa il doppio del peso del caffè in acqua.",
+        "mistake": "Saltare il bloom.",
+        "challenge": "Perché i caffè freschi fanno più bloom?"
       }
     }
   },
@@ -105,6 +153,30 @@
         "tip": "Despeje lentamente em círculos consistentes.",
         "mistake": "Despejar diretamente sobre o papel filtro.",
         "challenge": "Por que evitar despejar pelas bordas?"
+      },
+      "de": {
+        "title": "Gießtechnik",
+        "definition": "Kontrolliertes Gießen erhält eine gleichmäßige Aufschlämmung und fördert einheitliche Extraktion.",
+        "why": "Ungleichmäßiges Gießen erzeugt ungleichmäßige Extraktion.",
+        "tip": "Gieße langsam in gleichmäßigen Kreisen.",
+        "mistake": "Direkt auf das Filterpapier zu gießen.",
+        "challenge": "Warum sollte man vermeiden, an den Rändern hinunterzugießen?"
+      },
+      "fr": {
+        "title": "Technique de versement",
+        "definition": "Un versement contrôlé maintient une suspension homogène et favorise une extraction uniforme.",
+        "why": "Des versements inégaux créent une extraction inégale.",
+        "tip": "Versez lentement en cercles réguliers.",
+        "mistake": "Verser directement sur le papier filtre.",
+        "challenge": "Pourquoi éviter de verser le long des bords ?"
+      },
+      "it": {
+        "title": "Tecnica di versamento",
+        "definition": "Un versamento controllato mantiene una sospensione uniforme e favorisce un'estrazione omogenea.",
+        "why": "Versamenti irregolari creano un'estrazione irregolare.",
+        "tip": "Versa lentamente in cerchi regolari.",
+        "mistake": "Versare direttamente sulla carta filtro.",
+        "challenge": "Perché evitare di versare lungo i bordi?"
       }
     }
   },
@@ -141,6 +213,30 @@
         "tip": "Mantenha a agitação intencional.",
         "mistake": "Mexer excessivamente.",
         "challenge": "Nomeie três fontes de agitação."
+      },
+      "de": {
+        "title": "Agitation",
+        "definition": "Agitation ist die Bewegung von Wasser oder Kaffee während des Brühens.",
+        "why": "Zu viel oder zu wenig beeinflusst die Extraktion.",
+        "tip": "Halte die Agitation bewusst und gezielt.",
+        "mistake": "Übermäßig zu rühren.",
+        "challenge": "Nenne drei Quellen von Agitation."
+      },
+      "fr": {
+        "title": "Agitation",
+        "definition": "L'agitation est le mouvement de l'eau ou du café pendant l'infusion.",
+        "why": "Trop ou trop peu affecte l'extraction.",
+        "tip": "Gardez l'agitation intentionnelle.",
+        "mistake": "Remuer excessivement.",
+        "challenge": "Nommez trois sources d'agitation."
+      },
+      "it": {
+        "title": "Agitazione",
+        "definition": "L'agitazione è il movimento di acqua o caffè durante l'infusione.",
+        "why": "Troppa o troppo poca influisce sull'estrazione.",
+        "tip": "Mantieni l'agitazione intenzionale.",
+        "mistake": "Mescolare eccessivamente.",
+        "challenge": "Nomina tre fonti di agitazione."
       }
     }
   },
@@ -177,6 +273,30 @@
         "tip": "Fique atento a paradas repentinas.",
         "mistake": "Ignorar o tempo de drenagem final.",
         "challenge": "O que causa uma drenagem final travada?"
+      },
+      "de": {
+        "title": "Drawdown",
+        "definition": "Der Drawdown ist die letzte Phase, in der Wasser durch das Kaffeebett abläuft.",
+        "why": "Er beeinflusst Kontaktzeit und Extraktion.",
+        "tip": "Achte auf plötzliches Stocken.",
+        "mistake": "Die Drawdown-Zeit zu ignorieren.",
+        "challenge": "Was verursacht einen stockenden Drawdown?"
+      },
+      "fr": {
+        "title": "Drainage final",
+        "definition": "Le drainage final est l'étape finale où l'eau s'écoule à travers le lit de café.",
+        "why": "Il influence le temps de contact et l'extraction.",
+        "tip": "Surveillez les blocages soudains.",
+        "mistake": "Ignorer le temps de drainage.",
+        "challenge": "Qu'est-ce qui cause un drainage bloqué ?"
+      },
+      "it": {
+        "title": "Drenaggio finale",
+        "definition": "Il drenaggio finale è la fase finale in cui l'acqua defluisce attraverso il letto di caffè.",
+        "why": "Influenza il tempo di contatto e l'estrazione.",
+        "tip": "Fai attenzione a blocchi improvvisi.",
+        "mistake": "Ignorare il tempo di drenaggio.",
+        "challenge": "Cosa causa un drenaggio bloccato?"
       }
     }
   },
@@ -213,6 +333,30 @@
         "tip": "Registre qualquer bypass utilizado.",
         "mistake": "Confundir bypass com subextração.",
         "challenge": "Quando o bypass seria útil?"
+      },
+      "de": {
+        "title": "Bypass",
+        "definition": "Bypass bedeutet, nach dem Brühen Wasser hinzuzufügen, um die Stärke anzupassen.",
+        "why": "Es verändert die Stärke, ohne die Extraktion zu verändern.",
+        "tip": "Notiere jeden verwendeten Bypass.",
+        "mistake": "Bypass mit Unterextraktion zu verwechseln.",
+        "challenge": "Wann wäre Bypass nützlich?"
+      },
+      "fr": {
+        "title": "Bypass",
+        "definition": "Le bypass consiste à ajouter de l'eau après l'infusion pour ajuster la force.",
+        "why": "Cela change la force sans modifier l'extraction.",
+        "tip": "Notez tout bypass utilisé.",
+        "mistake": "Confondre bypass et sous-extraction.",
+        "challenge": "Quand le bypass serait-il utile ?"
+      },
+      "it": {
+        "title": "Bypass",
+        "definition": "Il bypass consiste nell'aggiungere acqua dopo l'infusione per regolare la forza.",
+        "why": "Cambia la forza senza alterare l'estrazione.",
+        "tip": "Registra ogni bypass utilizzato.",
+        "mistake": "Confondere il bypass con la sottoestrazione.",
+        "challenge": "Quando sarebbe utile il bypass?"
       }
     }
   },
@@ -249,6 +393,30 @@
         "tip": "Compare o tempo com o sabor.",
         "mistake": "Tratar o tempo como o objetivo.",
         "challenge": "Dois preparos com tempos idênticos podem ter sabores diferentes?"
+      },
+      "de": {
+        "title": "Extraktionszeit",
+        "definition": "Die Gesamtzeit vom ersten Aufguss bis zum Ende des Ablaufens im Brühgerät.",
+        "why": "Die Zeit liefert nützliches Feedback zum Brühen.",
+        "tip": "Vergleiche Zeit mit Geschmack.",
+        "mistake": "Zeit als das eigentliche Ziel zu behandeln.",
+        "challenge": "Können zwei Brühungen mit identischer Zeit unterschiedlich schmecken?"
+      },
+      "fr": {
+        "title": "Temps d'extraction",
+        "definition": "Le temps total depuis le premier versement jusqu'à la fin du drainage.",
+        "why": "Le temps fournit un retour utile sur l'infusion.",
+        "tip": "Comparez le temps avec le goût.",
+        "mistake": "Traiter le temps comme l'objectif en soi.",
+        "challenge": "Deux infusions avec des temps identiques peuvent-elles avoir un goût différent ?"
+      },
+      "it": {
+        "title": "Tempo di estrazione",
+        "definition": "Il tempo totale dalla prima versata fino al termine del drenaggio.",
+        "why": "Il tempo fornisce un feedback utile sull'infusione.",
+        "tip": "Confronta il tempo con il sapore.",
+        "mistake": "Trattare il tempo come l'obiettivo stesso.",
+        "challenge": "Due infusioni con tempi identici possono avere sapori diversi?"
       }
     }
   },
@@ -285,6 +453,30 @@
         "tip": "Enxágue os filtros de papel antes de preparar.",
         "mistake": "Pular o enxágue.",
         "challenge": "Por que enxaguar os filtros de papel?"
+      },
+      "de": {
+        "title": "Papierfilter",
+        "definition": "Papierfilter fangen Öle und feine Partikel ab und erzeugen eine sauberere Tasse.",
+        "why": "Die Filterwahl verändert Geschmack und Körper.",
+        "tip": "Spüle Papierfilter vor dem Brühen.",
+        "mistake": "Das Spülen zu überspringen.",
+        "challenge": "Warum sollte man Papierfilter spülen?"
+      },
+      "fr": {
+        "title": "Filtres en papier",
+        "definition": "Les filtres en papier retiennent les huiles et les particules fines, produisant une tasse plus propre.",
+        "why": "Le choix du filtre change la saveur et le corps.",
+        "tip": "Rincez les filtres en papier avant l'infusion.",
+        "mistake": "Sauter le rinçage.",
+        "challenge": "Pourquoi rincer les filtres en papier ?"
+      },
+      "it": {
+        "title": "Filtri di carta",
+        "definition": "I filtri di carta trattengono oli e particelle fini, producendo una tazza più pulita.",
+        "why": "La scelta del filtro cambia sapore e corpo.",
+        "tip": "Risciacqua i filtri di carta prima dell'infusione.",
+        "mistake": "Saltare il risciacquo.",
+        "challenge": "Perché risciacquare i filtri di carta?"
       }
     }
   },
@@ -321,6 +513,30 @@
         "tip": "Ajuste a moagem um pouco mais grossa se necessário.",
         "mistake": "Esperar a clareza típica de um filtro de papel.",
         "challenge": "Compare os filtros metálicos e de papel."
+      },
+      "de": {
+        "title": "Metallfilter",
+        "definition": "Metallfilter lassen mehr Öle und Feinanteile in die Tasse.",
+        "why": "Das erhöht Körper und Mundgefühl.",
+        "tip": "Stelle den Mahlgrad bei Bedarf etwas gröber ein.",
+        "mistake": "Papierfilter-Klarheit zu erwarten.",
+        "challenge": "Vergleiche Metall- und Papierfilter."
+      },
+      "fr": {
+        "title": "Filtres métalliques",
+        "definition": "Les filtres métalliques laissent passer plus d'huiles et de fines dans la tasse.",
+        "why": "Cela augmente le corps et la texture en bouche.",
+        "tip": "Ajustez la mouture légèrement plus grossière si nécessaire.",
+        "mistake": "S'attendre à la clarté d'un filtre papier.",
+        "challenge": "Comparez filtres métalliques et filtres papier."
+      },
+      "it": {
+        "title": "Filtri metallici",
+        "definition": "I filtri metallici lasciano passare più oli e fini nella tazza.",
+        "why": "Questo aumenta corpo e sensazione in bocca.",
+        "tip": "Regola la macinatura leggermente più grossa se necessario.",
+        "mistake": "Aspettarsi la chiarezza di un filtro di carta.",
+        "challenge": "Confronta filtri metallici e filtri di carta."
       }
     }
   },
@@ -357,6 +573,30 @@
         "tip": "Comece em torno de 60g/L.",
         "mistake": "Mudar a proporção e a moagem ao mesmo tempo.",
         "challenge": "Calcule um preparo de 300ml usando 60g/L."
+      },
+      "de": {
+        "title": "Brühverhältnis",
+        "definition": "Das Verhältnis zwischen Kaffeedosis und Brühwasser.",
+        "why": "Es bestimmt die Getränkestärke.",
+        "tip": "Beginne bei etwa 60g/L.",
+        "mistake": "Verhältnis und Mahlgrad gleichzeitig zu ändern.",
+        "challenge": "Berechne einen 300ml-Brühansatz mit 60g/L."
+      },
+      "fr": {
+        "title": "Ratio d'infusion",
+        "definition": "La relation entre la dose de café et l'eau d'infusion.",
+        "why": "Elle détermine la force de la boisson.",
+        "tip": "Commencez autour de 60g/L.",
+        "mistake": "Changer le ratio et la mouture simultanément.",
+        "challenge": "Calculez une infusion de 300ml en utilisant 60g/L."
+      },
+      "it": {
+        "title": "Rapporto di infusione",
+        "definition": "La relazione tra dose di caffè e acqua di infusione.",
+        "why": "Determina la forza della bevanda.",
+        "tip": "Inizia intorno a 60g/L.",
+        "mistake": "Cambiare rapporto e macinatura contemporaneamente.",
+        "challenge": "Calcola un'infusione da 300ml usando 60g/L."
       }
     }
   }

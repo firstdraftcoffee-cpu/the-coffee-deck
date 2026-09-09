@@ -589,6 +589,30 @@
         "tip": "A proteína cria espuma. A gordura contribui para a textura e a sensação na boca.",
         "mistake": "Supor que a gordura cria espuma.",
         "challenge": "Quais componentes do leite são mais responsáveis pelo microfoam?"
+      },
+      "de": {
+        "title": "Milchzusammensetzung",
+        "definition": "Milch besteht hauptsächlich aus Wasser, Fett, Proteinen, Laktose und Mineralien.",
+        "why": "Zu wissen, wie Milch aufgebaut ist, hilft, Aufschäumen, Süße und Schaumqualität zu erklären.",
+        "tip": "Protein erzeugt Schaum. Fett trägt zu Textur und Mundgefühl bei.",
+        "mistake": "Anzunehmen, Fett erzeuge Schaum.",
+        "challenge": "Welche Milchbestandteile sind hauptsächlich für Mikroschaum verantwortlich?"
+      },
+      "fr": {
+        "title": "Composition du lait",
+        "definition": "Le lait est composé principalement d'eau, de matière grasse, de protéines, de lactose et de minéraux.",
+        "why": "Savoir comment le lait est constitué aide à expliquer la vaporisation, la douceur et la qualité de la mousse.",
+        "tip": "La protéine crée la mousse. La matière grasse contribue à la texture et à la sensation en bouche.",
+        "mistake": "Supposer que la matière grasse crée la mousse.",
+        "challenge": "Quels composants du lait sont les plus responsables de la microfoam ?"
+      },
+      "it": {
+        "title": "Composizione del latte",
+        "definition": "Il latte è composto principalmente da acqua, grassi, proteine, lattosio e minerali.",
+        "why": "Sapere come è costituito il latte aiuta a spiegare montatura, dolcezza e qualità della schiuma.",
+        "tip": "Le proteine creano la schiuma. Il grasso contribuisce a texture e sensazione in bocca.",
+        "mistake": "Supporre che il grasso crei la schiuma.",
+        "challenge": "Quali componenti del latte sono più responsabili della microschiuma?"
       }
     },
     "id": 16
@@ -626,6 +650,30 @@
         "tip": "Use seu termômetro até reconhecer a temperatura pelo toque de forma consistente.",
         "mistake": "Superaquecer o leite acima de 70°C.",
         "challenge": "Por que o leite superaquecido tem sabor menos doce?"
+      },
+      "de": {
+        "title": "Milchtemperatur",
+        "definition": "Die meisten Milchgetränke werden je nach Getränk und Kundenpräferenz zwischen 55°C und 65°C serviert.",
+        "why": "Temperatur verändert Süße, Textur und Trinkbarkeit.",
+        "tip": "Nutze dein Thermometer, bis du Temperatur konsistent am Gefühl erkennst.",
+        "mistake": "Milch über 70°C zu überhitzen.",
+        "challenge": "Warum schmeckt überhitzte Milch weniger süß?"
+      },
+      "fr": {
+        "title": "Température du lait",
+        "definition": "La plupart des boissons lactées sont servies entre 55°C et 65°C selon la boisson et la préférence du client.",
+        "why": "La température change la douceur, la texture et le plaisir de boire.",
+        "tip": "Utilisez votre thermomètre jusqu'à reconnaître la température de manière constante au toucher.",
+        "mistake": "Surchauffer le lait au-delà de 70°C.",
+        "challenge": "Pourquoi le lait surchauffé a-t-il un goût moins sucré ?"
+      },
+      "it": {
+        "title": "Temperatura del latte",
+        "definition": "La maggior parte delle bevande a base di latte viene servita tra 55°C e 65°C a seconda della bevanda e della preferenza del cliente.",
+        "why": "La temperatura cambia dolcezza, texture e piacevolezza.",
+        "tip": "Usa il termometro finché non riconosci costantemente la temperatura al tatto.",
+        "mistake": "Surriscaldare il latte oltre i 70°C.",
+        "challenge": "Perché il latte surriscaldato ha un sapore meno dolce?"
       }
     },
     "id": 17
@@ -663,6 +711,30 @@
         "tip": "Introduza ar no início e depois pare.",
         "mistake": "Adicionar ar durante todo o processo de vaporização.",
         "challenge": "Quando o alongamento deve parar?"
+      },
+      "de": {
+        "title": "Stretching",
+        "definition": "Stretching ist das Einbringen von Luft während der ersten Phase des Aufschäumens.",
+        "why": "Die Menge des Stretchings bestimmt das endgültige Schaumvolumen.",
+        "tip": "Bringe früh Luft ein, dann stoppe.",
+        "mistake": "Während des gesamten Aufschäumprozesses Luft hinzuzufügen.",
+        "challenge": "Wann sollte Stretching aufhören?"
+      },
+      "fr": {
+        "title": "Stretching",
+        "definition": "Le stretching est l'introduction d'air pendant la première étape de la vaporisation.",
+        "why": "La quantité de stretching détermine le volume final de mousse.",
+        "tip": "Introduisez l'air tôt, puis arrêtez.",
+        "mistake": "Ajouter de l'air pendant tout le processus de vaporisation.",
+        "challenge": "Quand le stretching devrait-il s'arrêter ?"
+      },
+      "it": {
+        "title": "Stretching",
+        "definition": "Lo stretching è l'introduzione di aria durante la prima fase della montatura.",
+        "why": "La quantità di stretching determina il volume finale della schiuma.",
+        "tip": "Introduci aria presto, poi fermati.",
+        "mistake": "Aggiungere aria per tutto il processo di montatura.",
+        "challenge": "Quando dovrebbe fermarsi lo stretching?"
       }
     },
     "id": 18
@@ -700,6 +772,30 @@
         "tip": "Ouça um som suave, como de papel rasgando.",
         "mistake": "Criar bolhas grandes.",
         "challenge": "Descreva a textura perfeita do leite."
+      },
+      "de": {
+        "title": "Texturieren",
+        "definition": "Texturieren erzeugt einen Wirbel, der Luft gleichmäßig in die Milch einarbeitet.",
+        "why": "Ein glatter Wirbel erzeugt glänzenden Mikroschaum.",
+        "tip": "Achte auf ein sanftes, papierreißendes Geräusch.",
+        "mistake": "Große Blasen zu erzeugen.",
+        "challenge": "Beschreibe perfekte Milchtextur."
+      },
+      "fr": {
+        "title": "Texturation",
+        "definition": "La texturation crée un tourbillon qui incorpore uniformément l'air dans le lait.",
+        "why": "Un vortex lisse produit une microfoam brillante.",
+        "tip": "Écoutez un léger bruit de papier déchiré.",
+        "mistake": "Créer de grosses bulles.",
+        "challenge": "Décrivez une texture de lait parfaite."
+      },
+      "it": {
+        "title": "Texturizzazione",
+        "definition": "La texturizzazione crea un vortice che incorpora uniformemente l'aria nel latte.",
+        "why": "Un vortice liscio produce una microschiuma lucida.",
+        "tip": "Ascolta un delicato suono simile a carta che si strappa.",
+        "mistake": "Creare bolle grandi.",
+        "challenge": "Descrivi la texture perfetta del latte."
       }
     },
     "id": 19
@@ -737,6 +833,30 @@
         "tip": "Pense em tinta branca molhada.",
         "mistake": "Confundir espuma comum com microfoam.",
         "challenge": "Como um microfoam perfeito deveria fluir ao servir?"
+      },
+      "de": {
+        "title": "Mikroschaum",
+        "definition": "Mikroschaum ist Milch mit extrem feinen, gleichmäßig verteilten Bläschen.",
+        "why": "Er erzeugt Süße, Körper und Latte Art.",
+        "tip": "Denke an nasse weiße Farbe.",
+        "mistake": "Schaum mit Mikroschaum zu verwechseln.",
+        "challenge": "Wie sollte sich perfekter Mikroschaum eingießen lassen?"
+      },
+      "fr": {
+        "title": "Microfoam",
+        "definition": "La microfoam est du lait contenant des bulles extrêmement fines et uniformément réparties.",
+        "why": "Elle crée douceur, corps et permet le latte art.",
+        "tip": "Pensez à de la peinture blanche fraîche.",
+        "mistake": "Confondre mousse et microfoam.",
+        "challenge": "Comment une microfoam parfaite devrait-elle se verser ?"
+      },
+      "it": {
+        "title": "Microschiuma",
+        "definition": "La microschiuma è latte contenente bolle estremamente fini e distribuite uniformemente.",
+        "why": "Crea dolcezza, corpo e permette il latte art.",
+        "tip": "Pensa a vernice bianca bagnata.",
+        "mistake": "Confondere la schiuma comune con la microschiuma.",
+        "challenge": "Come dovrebbe versarsi una microschiuma perfetta?"
       }
     },
     "id": 20
@@ -774,6 +894,30 @@
         "tip": "Aperfeiçoe a textura antes de aprender padrões avançados.",
         "mistake": "Focar nos padrões em vez da qualidade do leite.",
         "challenge": "Nomeie três desenhos clássicos de latte art."
+      },
+      "de": {
+        "title": "Latte Art",
+        "definition": "Latte Art kombiniert Espresso, Milchtextur und Gießtechnik.",
+        "why": "Gute Latte Art ist ein Beweis für gute Milchzubereitung.",
+        "tip": "Perfektioniere die Textur, bevor du fortgeschrittene Muster lernst.",
+        "mistake": "Sich auf Muster statt auf Milchqualität zu konzentrieren.",
+        "challenge": "Nenne drei klassische Latte-Art-Designs."
+      },
+      "fr": {
+        "title": "Latte art",
+        "definition": "Le latte art combine espresso, texture du lait et technique de versement.",
+        "why": "Un bon latte art témoigne d'une bonne préparation du lait.",
+        "tip": "Perfectionnez la texture avant d'apprendre des motifs avancés.",
+        "mistake": "Se concentrer sur les motifs plutôt que sur la qualité du lait.",
+        "challenge": "Nommez trois motifs classiques de latte art."
+      },
+      "it": {
+        "title": "Latte art",
+        "definition": "Il latte art combina espresso, texture del latte e tecnica di versamento.",
+        "why": "Un buon latte art è prova di una buona preparazione del latte.",
+        "tip": "Perfeziona la texture prima di imparare motivi avanzati.",
+        "mistake": "Concentrarsi sui motivi invece che sulla qualità del latte.",
+        "challenge": "Nomina tre disegni classici di latte art."
       }
     },
     "free_sample": true,
@@ -812,6 +956,30 @@
         "tip": "Sempre leia as recomendações do fabricante.",
         "mistake": "Vaporizar leite de aveia, soja e amêndoa da mesma forma.",
         "challenge": "Qual leite alternativo costuma ser mais fácil para o latte art?"
+      },
+      "de": {
+        "title": "Alternative Milchsorten",
+        "definition": "Pflanzliche Milch schäumt sich anders auf, weil ihre Proteine und Fette sich von Kuhmilch unterscheiden.",
+        "why": "Die Technik muss zwischen Produkten oft angepasst werden.",
+        "tip": "Lies immer die Empfehlungen des Herstellers.",
+        "mistake": "Hafer-, Soja- und Mandelmilch identisch aufzuschäumen.",
+        "challenge": "Welche alternative Milch ist meist am einfachsten für Latte Art?"
+      },
+      "fr": {
+        "title": "Laits alternatifs",
+        "definition": "Les laits végétaux se vaporisent différemment car leurs protéines et matières grasses diffèrent du lait de vache.",
+        "why": "La technique doit souvent être ajustée entre les produits.",
+        "tip": "Lisez toujours les recommandations du fabricant.",
+        "mistake": "Vaporiser lait d'avoine, de soja et d'amande de façon identique.",
+        "challenge": "Quel lait alternatif est généralement le plus facile pour le latte art ?"
+      },
+      "it": {
+        "title": "Latti alternativi",
+        "definition": "I latti vegetali montano diversamente perché le loro proteine e grassi differiscono dal latte vaccino.",
+        "why": "La tecnica spesso deve essere adattata tra un prodotto e l'altro.",
+        "tip": "Leggi sempre le raccomandazioni del produttore.",
+        "mistake": "Montare latte d'avena, soia e mandorla in modo identico.",
+        "challenge": "Quale latte alternativo è di solito più facile per il latte art?"
       }
     },
     "id": 22
@@ -849,6 +1017,30 @@
         "tip": "Encha a jarra até cerca de um terço antes de vaporizar.",
         "mistake": "Usar uma única jarra grande para todas as bebidas.",
         "challenge": "Por que o tamanho da jarra importa?"
+      },
+      "de": {
+        "title": "Milchkännchen",
+        "definition": "Wähle eine Kännchengröße, die zum Getränkevolumen passt.",
+        "why": "Die richtige Kännchengröße verbessert die Textur und reduziert Verschwendung.",
+        "tip": "Fülle das Kännchen vor dem Aufschäumen zu etwa einem Drittel.",
+        "mistake": "Ein großes Kännchen für jedes Getränk zu verwenden.",
+        "challenge": "Warum ist die Kännchengröße wichtig?"
+      },
+      "fr": {
+        "title": "Pichets à lait",
+        "definition": "Choisissez une taille de pichet adaptée au volume de la boisson.",
+        "why": "Une taille de pichet correcte améliore la texture et réduit le gaspillage.",
+        "tip": "Remplissez le pichet à environ un tiers avant de vaporiser.",
+        "mistake": "Utiliser un seul grand pichet pour chaque boisson.",
+        "challenge": "Pourquoi la taille du pichet compte-t-elle ?"
+      },
+      "it": {
+        "title": "Bricchi per il latte",
+        "definition": "Scegli una dimensione di bricco adatta al volume della bevanda.",
+        "why": "La dimensione corretta del bricco migliora la texture e riduce gli sprechi.",
+        "tip": "Riempi il bricco per circa un terzo prima di montare.",
+        "mistake": "Usare un unico bricco grande per ogni bevanda.",
+        "challenge": "Perché la dimensione del bricco è importante?"
       }
     },
     "id": 23
@@ -886,6 +1078,30 @@
         "tip": "Purgue, limpe, purgue.",
         "mistake": "Deixar o leite secar no vaporizador.",
         "challenge": "Por que o vaporizador deve ser purgado antes de vaporizar?"
+      },
+      "de": {
+        "title": "Hygiene der Dampflanze",
+        "definition": "Dampflanzen sollten vor und nach jedem Gebrauch abgedampft und sofort abgewischt werden.",
+        "why": "Milchreste werden sehr schnell zu einem Lebensmittelsicherheitsrisiko.",
+        "tip": "Abdampfen, abwischen, abdampfen.",
+        "mistake": "Milch auf der Dampflanze antrocknen zu lassen.",
+        "challenge": "Warum sollte die Lanze vor dem Aufschäumen abgedampft werden?"
+      },
+      "fr": {
+        "title": "Hygiène de la buse vapeur",
+        "definition": "Les buses vapeur doivent être purgées avant et après chaque utilisation et essuyées immédiatement.",
+        "why": "Les résidus de lait deviennent très rapidement un risque pour la sécurité alimentaire.",
+        "tip": "Purger, essuyer, purger.",
+        "mistake": "Laisser le lait sécher sur la buse vapeur.",
+        "challenge": "Pourquoi la buse devrait-elle être purgée avant la vaporisation ?"
+      },
+      "it": {
+        "title": "Igiene della lancia vapore",
+        "definition": "Le lance vapore dovrebbero essere sfiatate prima e dopo ogni utilizzo e pulite immediatamente.",
+        "why": "I residui di latte diventano molto rapidamente un rischio per la sicurezza alimentare.",
+        "tip": "Sfiatare, pulire, sfiatare.",
+        "mistake": "Lasciare che il latte si secchi sulla lancia vapore.",
+        "challenge": "Perché la lancia dovrebbe essere sfiatata prima della montatura?"
       }
     },
     "id": 24
@@ -923,6 +1139,30 @@
         "tip": "Vaporize apenas o que você precisa.",
         "mistake": "Encher demais as jarras em cada bebida.",
         "challenge": "Calcule o custo semanal de desperdiçar 100ml por bebida."
+      },
+      "de": {
+        "title": "Milchverschwendung",
+        "definition": "Genaue Milchmessung reduziert Verschwendung und verbessert die Rentabilität.",
+        "why": "Milch ist eine der höchsten laufenden Kosten in den meisten Cafés.",
+        "tip": "Schäume nur das auf, was du brauchst.",
+        "mistake": "Kännchen bei jedem Getränk zu überfüllen.",
+        "challenge": "Berechne die wöchentlichen Kosten, wenn 100ml pro Getränk verschwendet werden."
+      },
+      "fr": {
+        "title": "Gaspillage de lait",
+        "definition": "Une mesure précise du lait réduit le gaspillage et améliore la rentabilité.",
+        "why": "Le lait est l'un des coûts récurrents les plus élevés dans la plupart des cafés.",
+        "tip": "Ne vaporisez que ce dont vous avez besoin.",
+        "mistake": "Sur-remplir les pichets à chaque boisson.",
+        "challenge": "Calculez le coût hebdomadaire du gaspillage de 100ml par boisson."
+      },
+      "it": {
+        "title": "Spreco di latte",
+        "definition": "Una misurazione accurata del latte riduce gli sprechi e migliora la redditività.",
+        "why": "Il latte è uno dei costi ricorrenti più alti nella maggior parte dei bar.",
+        "tip": "Monta solo la quantità di cui hai bisogno.",
+        "mistake": "Riempire troppo i bricchi ad ogni bevanda.",
+        "challenge": "Calcola il costo settimanale di sprecare 100ml per bevanda."
       }
     },
     "id": 25
@@ -960,6 +1200,30 @@
         "tip": "Concentre-se numa extração uniforme em vez da velocidade.",
         "mistake": "Moer o café fino demais.",
         "challenge": "Liste três diferenças entre o espresso e o café filtrado."
+      },
+      "de": {
+        "title": "Filterkaffee",
+        "definition": "Filterkaffee wird gebrüht, indem die Schwerkraft Wasser durch ein Bett aus gemahlenem Kaffee zieht.",
+        "why": "Er betont Klarheit, Süße und Herkunftscharakter mehr als Espresso.",
+        "tip": "Konzentriere dich auf gleichmäßige Extraktion statt auf Geschwindigkeit.",
+        "mistake": "Zu fein zu mahlen.",
+        "challenge": "Liste drei Unterschiede zwischen Espresso und Filterkaffee auf."
+      },
+      "fr": {
+        "title": "Café filtre",
+        "definition": "Le café filtre est préparé en laissant la gravité faire passer l'eau à travers un lit de café moulu.",
+        "why": "Il met en valeur la clarté, la douceur et le caractère d'origine plus que l'espresso.",
+        "tip": "Concentrez-vous sur une extraction homogène plutôt que sur la vitesse.",
+        "mistake": "Moudre trop fin.",
+        "challenge": "Listez trois différences entre l'espresso et le café filtre."
+      },
+      "it": {
+        "title": "Caffè filtro",
+        "definition": "Il caffè filtro viene preparato lasciando che la gravità porti l'acqua attraverso un letto di caffè macinato.",
+        "why": "Valorizza chiarezza, dolcezza e carattere d'origine più dell'espresso.",
+        "tip": "Concentrati su un'estrazione uniforme piuttosto che sulla velocità.",
+        "mistake": "Macinare troppo fine.",
+        "challenge": "Elenca tre differenze tra espresso e caffè filtro."
       }
     },
     "free_sample": true,
@@ -998,6 +1262,30 @@
         "tip": "Use aproximadamente o dobro do peso do café em água.",
         "mistake": "Pular o bloom.",
         "challenge": "Por que cafés frescos fazem mais bloom?"
+      },
+      "de": {
+        "title": "Blooming",
+        "definition": "Das Blooming ist der erste Aufguss, der Kohlendioxid vor der Hauptextraktion entweichen lässt.",
+        "why": "Richtiges Blooming fördert gleichmäßige Sättigung.",
+        "tip": "Verwende etwa das Doppelte des Kaffeegewichts an Wasser.",
+        "mistake": "Das Blooming zu überspringen.",
+        "challenge": "Warum bloomen frische Kaffees stärker?"
+      },
+      "fr": {
+        "title": "Bloom",
+        "definition": "Le bloom est le premier versement, permettant au dioxyde de carbone de s'échapper avant l'extraction principale.",
+        "why": "Un bloom correct favorise une saturation homogène.",
+        "tip": "Utilisez environ deux fois le poids du café en eau.",
+        "mistake": "Sauter le bloom.",
+        "challenge": "Pourquoi les cafés frais font-ils plus de bloom ?"
+      },
+      "it": {
+        "title": "Bloom",
+        "definition": "Il bloom è la prima versata, che permette all'anidride carbonica di fuoriuscire prima dell'estrazione principale.",
+        "why": "Un bloom corretto favorisce una saturazione uniforme.",
+        "tip": "Usa circa il doppio del peso del caffè in acqua.",
+        "mistake": "Saltare il bloom.",
+        "challenge": "Perché i caffè freschi fanno più bloom?"
       }
     },
     "id": 27
@@ -1035,6 +1323,30 @@
         "tip": "Despeje lentamente em círculos consistentes.",
         "mistake": "Despejar diretamente sobre o papel filtro.",
         "challenge": "Por que evitar despejar pelas bordas?"
+      },
+      "de": {
+        "title": "Gießtechnik",
+        "definition": "Kontrolliertes Gießen erhält eine gleichmäßige Aufschlämmung und fördert einheitliche Extraktion.",
+        "why": "Ungleichmäßiges Gießen erzeugt ungleichmäßige Extraktion.",
+        "tip": "Gieße langsam in gleichmäßigen Kreisen.",
+        "mistake": "Direkt auf das Filterpapier zu gießen.",
+        "challenge": "Warum sollte man vermeiden, an den Rändern hinunterzugießen?"
+      },
+      "fr": {
+        "title": "Technique de versement",
+        "definition": "Un versement contrôlé maintient une suspension homogène et favorise une extraction uniforme.",
+        "why": "Des versements inégaux créent une extraction inégale.",
+        "tip": "Versez lentement en cercles réguliers.",
+        "mistake": "Verser directement sur le papier filtre.",
+        "challenge": "Pourquoi éviter de verser le long des bords ?"
+      },
+      "it": {
+        "title": "Tecnica di versamento",
+        "definition": "Un versamento controllato mantiene una sospensione uniforme e favorisce un'estrazione omogenea.",
+        "why": "Versamenti irregolari creano un'estrazione irregolare.",
+        "tip": "Versa lentamente in cerchi regolari.",
+        "mistake": "Versare direttamente sulla carta filtro.",
+        "challenge": "Perché evitare di versare lungo i bordi?"
       }
     },
     "id": 28
@@ -1072,6 +1384,30 @@
         "tip": "Mantenha a agitação intencional.",
         "mistake": "Mexer excessivamente.",
         "challenge": "Nomeie três fontes de agitação."
+      },
+      "de": {
+        "title": "Agitation",
+        "definition": "Agitation ist die Bewegung von Wasser oder Kaffee während des Brühens.",
+        "why": "Zu viel oder zu wenig beeinflusst die Extraktion.",
+        "tip": "Halte die Agitation bewusst und gezielt.",
+        "mistake": "Übermäßig zu rühren.",
+        "challenge": "Nenne drei Quellen von Agitation."
+      },
+      "fr": {
+        "title": "Agitation",
+        "definition": "L'agitation est le mouvement de l'eau ou du café pendant l'infusion.",
+        "why": "Trop ou trop peu affecte l'extraction.",
+        "tip": "Gardez l'agitation intentionnelle.",
+        "mistake": "Remuer excessivement.",
+        "challenge": "Nommez trois sources d'agitation."
+      },
+      "it": {
+        "title": "Agitazione",
+        "definition": "L'agitazione è il movimento di acqua o caffè durante l'infusione.",
+        "why": "Troppa o troppo poca influisce sull'estrazione.",
+        "tip": "Mantieni l'agitazione intenzionale.",
+        "mistake": "Mescolare eccessivamente.",
+        "challenge": "Nomina tre fonti di agitazione."
       }
     },
     "id": 29
@@ -1109,6 +1445,30 @@
         "tip": "Fique atento a paradas repentinas.",
         "mistake": "Ignorar o tempo de drenagem final.",
         "challenge": "O que causa uma drenagem final travada?"
+      },
+      "de": {
+        "title": "Drawdown",
+        "definition": "Der Drawdown ist die letzte Phase, in der Wasser durch das Kaffeebett abläuft.",
+        "why": "Er beeinflusst Kontaktzeit und Extraktion.",
+        "tip": "Achte auf plötzliches Stocken.",
+        "mistake": "Die Drawdown-Zeit zu ignorieren.",
+        "challenge": "Was verursacht einen stockenden Drawdown?"
+      },
+      "fr": {
+        "title": "Drainage final",
+        "definition": "Le drainage final est l'étape finale où l'eau s'écoule à travers le lit de café.",
+        "why": "Il influence le temps de contact et l'extraction.",
+        "tip": "Surveillez les blocages soudains.",
+        "mistake": "Ignorer le temps de drainage.",
+        "challenge": "Qu'est-ce qui cause un drainage bloqué ?"
+      },
+      "it": {
+        "title": "Drenaggio finale",
+        "definition": "Il drenaggio finale è la fase finale in cui l'acqua defluisce attraverso il letto di caffè.",
+        "why": "Influenza il tempo di contatto e l'estrazione.",
+        "tip": "Fai attenzione a blocchi improvvisi.",
+        "mistake": "Ignorare il tempo di drenaggio.",
+        "challenge": "Cosa causa un drenaggio bloccato?"
       }
     },
     "id": 30
@@ -1146,6 +1506,30 @@
         "tip": "Registre qualquer bypass utilizado.",
         "mistake": "Confundir bypass com subextração.",
         "challenge": "Quando o bypass seria útil?"
+      },
+      "de": {
+        "title": "Bypass",
+        "definition": "Bypass bedeutet, nach dem Brühen Wasser hinzuzufügen, um die Stärke anzupassen.",
+        "why": "Es verändert die Stärke, ohne die Extraktion zu verändern.",
+        "tip": "Notiere jeden verwendeten Bypass.",
+        "mistake": "Bypass mit Unterextraktion zu verwechseln.",
+        "challenge": "Wann wäre Bypass nützlich?"
+      },
+      "fr": {
+        "title": "Bypass",
+        "definition": "Le bypass consiste à ajouter de l'eau après l'infusion pour ajuster la force.",
+        "why": "Cela change la force sans modifier l'extraction.",
+        "tip": "Notez tout bypass utilisé.",
+        "mistake": "Confondre bypass et sous-extraction.",
+        "challenge": "Quand le bypass serait-il utile ?"
+      },
+      "it": {
+        "title": "Bypass",
+        "definition": "Il bypass consiste nell'aggiungere acqua dopo l'infusione per regolare la forza.",
+        "why": "Cambia la forza senza alterare l'estrazione.",
+        "tip": "Registra ogni bypass utilizzato.",
+        "mistake": "Confondere il bypass con la sottoestrazione.",
+        "challenge": "Quando sarebbe utile il bypass?"
       }
     },
     "id": 31
@@ -1183,6 +1567,30 @@
         "tip": "Compare o tempo com o sabor.",
         "mistake": "Tratar o tempo como o objetivo.",
         "challenge": "Dois preparos com tempos idênticos podem ter sabores diferentes?"
+      },
+      "de": {
+        "title": "Extraktionszeit",
+        "definition": "Die Gesamtzeit vom ersten Aufguss bis zum Ende des Ablaufens im Brühgerät.",
+        "why": "Die Zeit liefert nützliches Feedback zum Brühen.",
+        "tip": "Vergleiche Zeit mit Geschmack.",
+        "mistake": "Zeit als das eigentliche Ziel zu behandeln.",
+        "challenge": "Können zwei Brühungen mit identischer Zeit unterschiedlich schmecken?"
+      },
+      "fr": {
+        "title": "Temps d'extraction",
+        "definition": "Le temps total depuis le premier versement jusqu'à la fin du drainage.",
+        "why": "Le temps fournit un retour utile sur l'infusion.",
+        "tip": "Comparez le temps avec le goût.",
+        "mistake": "Traiter le temps comme l'objectif en soi.",
+        "challenge": "Deux infusions avec des temps identiques peuvent-elles avoir un goût différent ?"
+      },
+      "it": {
+        "title": "Tempo di estrazione",
+        "definition": "Il tempo totale dalla prima versata fino al termine del drenaggio.",
+        "why": "Il tempo fornisce un feedback utile sull'infusione.",
+        "tip": "Confronta il tempo con il sapore.",
+        "mistake": "Trattare il tempo come l'obiettivo stesso.",
+        "challenge": "Due infusioni con tempi identici possono avere sapori diversi?"
       }
     },
     "id": 32
@@ -1220,6 +1628,30 @@
         "tip": "Enxágue os filtros de papel antes de preparar.",
         "mistake": "Pular o enxágue.",
         "challenge": "Por que enxaguar os filtros de papel?"
+      },
+      "de": {
+        "title": "Papierfilter",
+        "definition": "Papierfilter fangen Öle und feine Partikel ab und erzeugen eine sauberere Tasse.",
+        "why": "Die Filterwahl verändert Geschmack und Körper.",
+        "tip": "Spüle Papierfilter vor dem Brühen.",
+        "mistake": "Das Spülen zu überspringen.",
+        "challenge": "Warum sollte man Papierfilter spülen?"
+      },
+      "fr": {
+        "title": "Filtres en papier",
+        "definition": "Les filtres en papier retiennent les huiles et les particules fines, produisant une tasse plus propre.",
+        "why": "Le choix du filtre change la saveur et le corps.",
+        "tip": "Rincez les filtres en papier avant l'infusion.",
+        "mistake": "Sauter le rinçage.",
+        "challenge": "Pourquoi rincer les filtres en papier ?"
+      },
+      "it": {
+        "title": "Filtri di carta",
+        "definition": "I filtri di carta trattengono oli e particelle fini, producendo una tazza più pulita.",
+        "why": "La scelta del filtro cambia sapore e corpo.",
+        "tip": "Risciacqua i filtri di carta prima dell'infusione.",
+        "mistake": "Saltare il risciacquo.",
+        "challenge": "Perché risciacquare i filtri di carta?"
       }
     },
     "id": 33
@@ -1257,6 +1689,30 @@
         "tip": "Ajuste a moagem um pouco mais grossa se necessário.",
         "mistake": "Esperar a clareza típica de um filtro de papel.",
         "challenge": "Compare os filtros metálicos e de papel."
+      },
+      "de": {
+        "title": "Metallfilter",
+        "definition": "Metallfilter lassen mehr Öle und Feinanteile in die Tasse.",
+        "why": "Das erhöht Körper und Mundgefühl.",
+        "tip": "Stelle den Mahlgrad bei Bedarf etwas gröber ein.",
+        "mistake": "Papierfilter-Klarheit zu erwarten.",
+        "challenge": "Vergleiche Metall- und Papierfilter."
+      },
+      "fr": {
+        "title": "Filtres métalliques",
+        "definition": "Les filtres métalliques laissent passer plus d'huiles et de fines dans la tasse.",
+        "why": "Cela augmente le corps et la texture en bouche.",
+        "tip": "Ajustez la mouture légèrement plus grossière si nécessaire.",
+        "mistake": "S'attendre à la clarté d'un filtre papier.",
+        "challenge": "Comparez filtres métalliques et filtres papier."
+      },
+      "it": {
+        "title": "Filtri metallici",
+        "definition": "I filtri metallici lasciano passare più oli e fini nella tazza.",
+        "why": "Questo aumenta corpo e sensazione in bocca.",
+        "tip": "Regola la macinatura leggermente più grossa se necessario.",
+        "mistake": "Aspettarsi la chiarezza di un filtro di carta.",
+        "challenge": "Confronta filtri metallici e filtri di carta."
       }
     },
     "id": 34
@@ -1294,6 +1750,30 @@
         "tip": "Comece em torno de 60g/L.",
         "mistake": "Mudar a proporção e a moagem ao mesmo tempo.",
         "challenge": "Calcule um preparo de 300ml usando 60g/L."
+      },
+      "de": {
+        "title": "Brühverhältnis",
+        "definition": "Das Verhältnis zwischen Kaffeedosis und Brühwasser.",
+        "why": "Es bestimmt die Getränkestärke.",
+        "tip": "Beginne bei etwa 60g/L.",
+        "mistake": "Verhältnis und Mahlgrad gleichzeitig zu ändern.",
+        "challenge": "Berechne einen 300ml-Brühansatz mit 60g/L."
+      },
+      "fr": {
+        "title": "Ratio d'infusion",
+        "definition": "La relation entre la dose de café et l'eau d'infusion.",
+        "why": "Elle détermine la force de la boisson.",
+        "tip": "Commencez autour de 60g/L.",
+        "mistake": "Changer le ratio et la mouture simultanément.",
+        "challenge": "Calculez une infusion de 300ml en utilisant 60g/L."
+      },
+      "it": {
+        "title": "Rapporto di infusione",
+        "definition": "La relazione tra dose di caffè e acqua di infusione.",
+        "why": "Determina la forza della bevanda.",
+        "tip": "Inizia intorno a 60g/L.",
+        "mistake": "Cambiare rapporto e macinatura contemporaneamente.",
+        "challenge": "Calcola un'infusione da 300ml usando 60g/L."
       }
     },
     "id": 35
@@ -2684,6 +3164,30 @@
         "tip": "Inspecione o café verde antes de torrar.",
         "mistake": "Julgar a qualidade apenas pela origem.",
         "challenge": "Quais características definem um café verde de alta qualidade?"
+      },
+      "de": {
+        "title": "Rohkaffee",
+        "definition": "Rohkaffee ist Kaffee, der verarbeitet, getrocknet und für den Export vorbereitet wurde, bevor er geröstet wird.",
+        "why": "Jeder Geschmack im gerösteten Kaffee beginnt mit der Qualität des Rohkaffees.",
+        "tip": "Prüfe Rohkaffee vor dem Rösten.",
+        "mistake": "Qualität allein anhand der Herkunft zu beurteilen.",
+        "challenge": "Welche Eigenschaften definieren hochwertigen Rohkaffee?"
+      },
+      "fr": {
+        "title": "Café vert",
+        "definition": "Le café vert est du café qui a été traité, séché et préparé pour l'exportation avant torréfaction.",
+        "why": "Chaque saveur du café torréfié commence avec la qualité du café vert.",
+        "tip": "Inspectez le café vert avant la torréfaction.",
+        "mistake": "Juger la qualité uniquement à partir de l'origine.",
+        "challenge": "Quelles caractéristiques définissent un café vert de haute qualité ?"
+      },
+      "it": {
+        "title": "Caffè verde",
+        "definition": "Il caffè verde è caffè che è stato lavorato, essiccato e preparato per l'esportazione prima della tostatura.",
+        "why": "Ogni sapore nel caffè tostato inizia con la qualità del caffè verde.",
+        "tip": "Ispeziona il caffè verde prima della tostatura.",
+        "mistake": "Giudicare la qualità solo dall'origine.",
+        "challenge": "Quali caratteristiche definiscono un caffè verde di alta qualità?"
       }
     },
     "free_sample": true,
@@ -2722,6 +3226,30 @@
         "tip": "A maioria dos cafés especiais rende melhor com umidade entre 10% e 12%.",
         "mistake": "Ignorar a umidade ao definir o perfil de torra.",
         "challenge": "Como a umidade alta afeta a torra?"
+      },
+      "de": {
+        "title": "Feuchtigkeitsgehalt",
+        "definition": "Der Feuchtigkeitsgehalt ist der Prozentsatz an Wasser im Rohkaffee.",
+        "why": "Er beeinflusst das Röstverhalten, die Haltbarkeit und die Stabilität.",
+        "tip": "Die meisten Specialty-Kaffees performen am besten bei etwa 10-12% Feuchtigkeit.",
+        "mistake": "Feuchtigkeit bei der Profilerstellung zu ignorieren.",
+        "challenge": "Wie beeinflusst hohe Feuchtigkeit das Rösten?"
+      },
+      "fr": {
+        "title": "Teneur en humidité",
+        "definition": "La teneur en humidité est le pourcentage d'eau contenu dans le café vert.",
+        "why": "Elle affecte le comportement à la torréfaction, la durée de conservation et la stabilité.",
+        "tip": "La plupart des cafés de spécialité performent le mieux autour de 10-12% d'humidité.",
+        "mistake": "Ignorer l'humidité lors du profilage.",
+        "challenge": "Comment une humidité élevée affecte-t-elle la torréfaction ?"
+      },
+      "it": {
+        "title": "Contenuto di umidità",
+        "definition": "Il contenuto di umidità è la percentuale di acqua contenuta nel caffè verde.",
+        "why": "Influenza il comportamento in tostatura, la durata di conservazione e la stabilità.",
+        "tip": "La maggior parte dei caffè specialty performa meglio intorno al 10-12% di umidità.",
+        "mistake": "Ignorare l'umidità durante la profilazione.",
+        "challenge": "Come influisce un'umidità elevata sulla tostatura?"
       }
     },
     "id": 67
@@ -2759,6 +3287,30 @@
         "tip": "Cafés de maior densidade geralmente toleram mais energia no início da torra.",
         "mistake": "Tratar todas as origens da mesma forma.",
         "challenge": "Quais origens costumam produzir cafés de alta densidade?"
+      },
+      "de": {
+        "title": "Dichte",
+        "definition": "Dichte misst, wie viel Masse in einem bestimmten Kaffeevolumen enthalten ist.",
+        "why": "Dichte beeinflusst die Wärmeübertragung während der Röstung.",
+        "tip": "Kaffees mit höherer Dichte vertragen oft mehr Energie früh in der Röstung.",
+        "mistake": "Alle Ursprünge gleich zu behandeln.",
+        "challenge": "Welche Ursprünge produzieren häufig Kaffees mit hoher Dichte?"
+      },
+      "fr": {
+        "title": "Densité",
+        "definition": "La densité mesure la quantité de masse contenue dans un volume donné de café.",
+        "why": "La densité influence le transfert de chaleur pendant la torréfaction.",
+        "tip": "Les cafés à plus haute densité tolèrent souvent plus d'énergie tôt dans la torréfaction.",
+        "mistake": "Traiter toutes les origines de la même façon.",
+        "challenge": "Quelles origines produisent couramment des cafés à haute densité ?"
+      },
+      "it": {
+        "title": "Densità",
+        "definition": "La densità misura quanta massa è contenuta in un dato volume di caffè.",
+        "why": "La densità influenza il trasferimento di calore durante la tostatura.",
+        "tip": "I caffè a densità più alta tollerano spesso più energia all'inizio della tostatura.",
+        "mistake": "Trattare tutte le origini allo stesso modo.",
+        "challenge": "Quali origini producono comunemente caffè ad alta densità?"
       }
     },
     "id": 68
@@ -2796,6 +3348,30 @@
         "tip": "Tamanho não é o mesmo que qualidade.",
         "mistake": "Pagar mais caro apenas por grãos grandes.",
         "challenge": "O que significa Screen 17?"
+      },
+      "de": {
+        "title": "Siebgröße",
+        "definition": "Siebgröße bezieht sich auf die mit abgestuften Sieben gemessene Bohnengröße.",
+        "why": "Gleichmäßige Größe fördert im Allgemeinen gleichmäßigeres Rösten.",
+        "tip": "Größe ist nicht dasselbe wie Qualität.",
+        "mistake": "Aufpreise rein für große Bohnen zu zahlen.",
+        "challenge": "Was bedeutet Screen 17?"
+      },
+      "fr": {
+        "title": "Taille de tamis",
+        "definition": "La taille de tamis désigne la taille du grain mesurée à l'aide de tamis calibrés.",
+        "why": "Une taille uniforme favorise généralement une torréfaction plus homogène.",
+        "tip": "La taille n'équivaut pas à la qualité.",
+        "mistake": "Payer une prime purement pour de gros grains.",
+        "challenge": "Que signifie Screen 17 ?"
+      },
+      "it": {
+        "title": "Calibro",
+        "definition": "Il calibro si riferisce alla dimensione del chicco misurata usando setacci graduati.",
+        "why": "Una dimensione uniforme generalmente favorisce una tostatura più omogenea.",
+        "tip": "La dimensione non è la stessa cosa della qualità.",
+        "mistake": "Pagare un sovrapprezzo solo per chicchi grandi.",
+        "challenge": "Cosa significa Screen 17?"
       }
     },
     "id": 69
@@ -2833,6 +3409,30 @@
         "tip": "Monitore a atividade de água junto com a umidade.",
         "mistake": "Medir apenas a porcentagem de umidade.",
         "challenge": "Por que a atividade de água é importante para o armazenamento de longo prazo?"
+      },
+      "de": {
+        "title": "Wasseraktivität",
+        "definition": "Wasseraktivität misst, wie verfügbar Feuchtigkeit für mikrobielles Wachstum ist.",
+        "why": "Sie sagt die Lagerstabilität besser voraus als Feuchtigkeit allein.",
+        "tip": "Überwache die Wasseraktivität zusammen mit der Feuchtigkeit.",
+        "mistake": "Nur den Feuchtigkeitsprozentsatz zu messen.",
+        "challenge": "Warum ist Wasseraktivität für die Langzeitlagerung wichtig?"
+      },
+      "fr": {
+        "title": "Activité de l'eau",
+        "definition": "L'activité de l'eau mesure à quel point l'humidité est disponible pour la croissance microbienne.",
+        "why": "Elle prédit mieux la stabilité au stockage que l'humidité seule.",
+        "tip": "Surveillez l'activité de l'eau en parallèle de l'humidité.",
+        "mistake": "Ne mesurer que le pourcentage d'humidité.",
+        "challenge": "Pourquoi l'activité de l'eau est-elle importante pour le stockage à long terme ?"
+      },
+      "it": {
+        "title": "Attività dell'acqua",
+        "definition": "L'attività dell'acqua misura quanto l'umidità sia disponibile per la crescita microbica.",
+        "why": "Predice la stabilità in conservazione meglio della sola umidità.",
+        "tip": "Monitora l'attività dell'acqua insieme all'umidità.",
+        "mistake": "Misurare solo la percentuale di umidità.",
+        "challenge": "Perché l'attività dell'acqua è importante per la conservazione a lungo termine?"
       }
     },
     "id": 70
@@ -2870,6 +3470,30 @@
         "tip": "Evite luz solar direta e umidade flutuante.",
         "mistake": "Armazenar o café perto de odores fortes.",
         "challenge": "Liste três condições ideais de armazenamento."
+      },
+      "de": {
+        "title": "Lagerung",
+        "definition": "Rohkaffee sollte kühl, trocken und geruchsfrei gelagert werden.",
+        "why": "Schlechte Lagerung beschleunigt den Qualitätsverlust.",
+        "tip": "Vermeide direktes Sonnenlicht und schwankende Luftfeuchtigkeit.",
+        "mistake": "Kaffee neben starken Gerüchen zu lagern.",
+        "challenge": "Liste drei ideale Lagerbedingungen auf."
+      },
+      "fr": {
+        "title": "Stockage",
+        "definition": "Le café vert doit être stocké dans des conditions fraîches, sèches et sans odeur.",
+        "why": "Un mauvais stockage accélère la perte de qualité.",
+        "tip": "Évitez la lumière directe du soleil et l'humidité fluctuante.",
+        "mistake": "Stocker le café à côté d'odeurs fortes.",
+        "challenge": "Listez trois conditions de stockage idéales."
+      },
+      "it": {
+        "title": "Stoccaggio",
+        "definition": "Il caffè verde dovrebbe essere conservato in condizioni fresche, asciutte e prive di odori.",
+        "why": "Uno stoccaggio scadente accelera la perdita di qualità.",
+        "tip": "Evita la luce solare diretta e l'umidità fluttuante.",
+        "mistake": "Conservare il caffè vicino a odori forti.",
+        "challenge": "Elenca tre condizioni di stoccaggio ideali."
       }
     },
     "id": 71
@@ -2907,6 +3531,30 @@
         "tip": "Conheça o calendário de colheita das suas origens.",
         "mistake": "Vender café de colheita antiga como se fosse recente.",
         "challenge": "Por que as temporadas de colheita diferem globalmente?"
+      },
+      "de": {
+        "title": "Erntejahr",
+        "definition": "Das Erntejahr gibt an, wann der Kaffee geerntet wurde.",
+        "why": "Kaffees der frischen Ernte schmecken im Allgemeinen heller und lebendiger.",
+        "tip": "Kenne den Erntekalender für deine Ursprünge.",
+        "mistake": "Alte Ernte als frische Ernte zu verkaufen.",
+        "challenge": "Warum unterscheiden sich Erntesaisons weltweit?"
+      },
+      "fr": {
+        "title": "Année de récolte",
+        "definition": "L'année de récolte identifie quand le café a été récolté.",
+        "why": "Les cafés de récolte fraîche ont généralement un goût plus vif et éclatant.",
+        "tip": "Connaissez le calendrier de récolte de vos origines.",
+        "mistake": "Vendre une vieille récolte comme récolte fraîche.",
+        "challenge": "Pourquoi les saisons de récolte diffèrent-elles à l'échelle mondiale ?"
+      },
+      "it": {
+        "title": "Anno di raccolto",
+        "definition": "L'anno di raccolto identifica quando il caffè è stato raccolto.",
+        "why": "I caffè di raccolto fresco generalmente hanno un sapore più brillante e vivace.",
+        "tip": "Conosci il calendario di raccolta delle tue origini.",
+        "mistake": "Vendere un vecchio raccolto come raccolto fresco.",
+        "challenge": "Perché le stagioni di raccolta differiscono a livello globale?"
       }
     },
     "id": 72
@@ -2944,6 +3592,30 @@
         "tip": "Aprenda as principais categorias de defeitos da SCA.",
         "mistake": "Ignorar danos causados por insetos.",
         "challenge": "Nomeie três defeitos principais."
+      },
+      "de": {
+        "title": "Defekte",
+        "definition": "Defekte sind physische Unvollkommenheiten, die die Kaffeequalität mindern.",
+        "why": "Das Aussortieren von Defekten verbessert Konsistenz und Geschmack.",
+        "tip": "Lerne die wichtigsten SCA-Defektkategorien.",
+        "mistake": "Insektenschäden zu ignorieren.",
+        "challenge": "Nenne drei primäre Defekte."
+      },
+      "fr": {
+        "title": "Défauts",
+        "definition": "Les défauts sont des imperfections physiques qui réduisent la qualité du café.",
+        "why": "Le triage des défauts améliore la constance et la saveur.",
+        "tip": "Apprenez les principales catégories de défauts SCA.",
+        "mistake": "Ignorer les dégâts causés par les insectes.",
+        "challenge": "Nommez trois défauts primaires."
+      },
+      "it": {
+        "title": "Difetti",
+        "definition": "I difetti sono imperfezioni fisiche che riducono la qualità del caffè.",
+        "why": "La selezione dei difetti migliora coerenza e sapore.",
+        "tip": "Impara le principali categorie di difetti SCA.",
+        "mistake": "Ignorare i danni da insetti.",
+        "challenge": "Nomina tre difetti primari."
       }
     },
     "id": 73
@@ -2981,6 +3653,30 @@
         "tip": "Mantenha os perfis de torra de amostra consistentes.",
         "mistake": "Mudar os perfis de amostra entre cafés.",
         "challenge": "Por que as torras de amostra são intencionalmente claras?"
+      },
+      "de": {
+        "title": "Probenröstung",
+        "definition": "Probenröstung bewertet die Kaffeequalität vor der Produktionsröstung.",
+        "why": "Sie unterstützt Kaufentscheidungen und Qualitätskontrolle.",
+        "tip": "Halte Probenröstprofile konsistent.",
+        "mistake": "Probenprofile zwischen Kaffees zu ändern.",
+        "challenge": "Warum sind Probenröstungen bewusst hell?"
+      },
+      "fr": {
+        "title": "Torréfaction d'échantillon",
+        "definition": "La torréfaction d'échantillon évalue la qualité du café avant la torréfaction de production.",
+        "why": "Elle soutient les décisions d'achat et le contrôle qualité.",
+        "tip": "Gardez les profils de torréfaction d'échantillon constants.",
+        "mistake": "Changer les profils d'échantillon entre les cafés.",
+        "challenge": "Pourquoi les torréfactions d'échantillon sont-elles intentionnellement claires ?"
+      },
+      "it": {
+        "title": "Tostatura campione",
+        "definition": "La tostatura campione valuta la qualità del caffè prima della tostatura di produzione.",
+        "why": "Supporta le decisioni di acquisto e il controllo qualità.",
+        "tip": "Mantieni costanti i profili di tostatura campione.",
+        "mistake": "Cambiare i profili campione tra un caffè e l'altro.",
+        "challenge": "Perché le tostature campione sono intenzionalmente chiare?"
       }
     },
     "id": 74
@@ -3018,6 +3714,30 @@
         "tip": "Compre com propósito, não com emoção.",
         "mistake": "Comprar apenas porque um café tem pontuação alta.",
         "challenge": "Que fatores você consideraria antes de comprar 30 sacas?"
+      },
+      "de": {
+        "title": "Rohkaffee-Einkauf",
+        "definition": "Rohkaffee-Einkauf balanciert Qualität, Verfügbarkeit, Kosten und Kundenbedürfnisse.",
+        "why": "Erfolgreicher Einkauf beeinflusst jeden verkauften Kaffee.",
+        "tip": "Kaufe mit Zweck, nicht aus Emotion.",
+        "mistake": "Nur zu kaufen, weil ein Kaffee hoch bewertet wurde.",
+        "challenge": "Welche Faktoren würdest du vor dem Kauf von 30 Säcken berücksichtigen?"
+      },
+      "fr": {
+        "title": "Achat de café vert",
+        "definition": "L'achat de vert équilibre qualité, disponibilité, coût et besoins des clients.",
+        "why": "Un achat réussi affecte chaque café vendu.",
+        "tip": "Achetez avec un objectif, pas par émotion.",
+        "mistake": "Acheter uniquement parce qu'un café obtient un score élevé.",
+        "challenge": "Quels facteurs prendriez-vous en compte avant d'acheter 30 sacs ?"
+      },
+      "it": {
+        "title": "Acquisto di caffè verde",
+        "definition": "L'acquisto di verde bilancia qualità, disponibilità, costo e bisogni del cliente.",
+        "why": "Un acquisto di successo influenza ogni caffè venduto.",
+        "tip": "Compra con uno scopo, non per emozione.",
+        "mistake": "Comprare solo perché un caffè ha un punteggio alto.",
+        "challenge": "Quali fattori considereresti prima di acquistare 30 sacchi?"
       }
     },
     "id": 75
