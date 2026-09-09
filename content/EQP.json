@@ -32,6 +32,30 @@
         "tip": "Deixe a máquina aquecer totalmente antes do atendimento.",
         "mistake": "Supor que a máquina está estável imediatamente após ser ligada.",
         "challenge": "Por que a estabilidade térmica é importante?"
+      },
+      "de": {
+        "title": "Espressomaschine",
+        "definition": "Eine Espressomaschine presst heißes Wasser unter kontrolliertem Druck und kontrollierter Temperatur durch fein gemahlenen Kaffee.",
+        "why": "Sie ist das Herzstück der meisten Specialty-Coffee-Bars.",
+        "tip": "Lass die Maschine vor dem Service vollständig aufwärmen.",
+        "mistake": "Anzunehmen, eine Maschine sei direkt nach dem Einschalten stabil.",
+        "challenge": "Warum ist thermische Stabilität wichtig?"
+      },
+      "fr": {
+        "title": "Machine à espresso",
+        "definition": "Une machine à espresso force l'eau chaude à travers du café finement moulu sous pression et température contrôlées.",
+        "why": "C'est le cœur de la plupart des bars à café de spécialité.",
+        "tip": "Laissez la machine chauffer complètement avant le service.",
+        "mistake": "Supposer qu'une machine est stable immédiatement après sa mise en marche.",
+        "challenge": "Pourquoi la stabilité thermique est-elle importante ?"
+      },
+      "it": {
+        "title": "Macchina da espresso",
+        "definition": "Una macchina da espresso spinge acqua calda attraverso caffè macinato fine sotto pressione e temperatura controllate.",
+        "why": "È il cuore della maggior parte dei bar specialty.",
+        "tip": "Lascia riscaldare completamente la macchina prima del servizio.",
+        "mistake": "Supporre che una macchina sia stabile subito dopo l'accensione.",
+        "challenge": "Perché la stabilità termica è importante?"
       }
     },
     "free_sample": true
@@ -69,6 +93,30 @@
         "tip": "Mantenha o porta-filtro encaixado no grupo entre as extrações.",
         "mistake": "Deixar os cestos molhados antes de dosar.",
         "challenge": "Por que o porta-filtro deve permanecer quente?"
+      },
+      "de": {
+        "title": "Siebträger",
+        "definition": "Der Siebträger hält den Kaffeesieb während der Espressoextraktion.",
+        "why": "Ein sauberer, heißer Siebträger verbessert die Extraktionskonsistenz.",
+        "tip": "Halte den Siebträger zwischen den Bezügen in der Brühgruppe eingerastet.",
+        "mistake": "Siebe vor dem Dosieren nass zu lassen.",
+        "challenge": "Warum sollte ein Siebträger heiß bleiben?"
+      },
+      "fr": {
+        "title": "Porte-filtre",
+        "definition": "Le porte-filtre maintient le panier à café pendant l'extraction de l'espresso.",
+        "why": "Un porte-filtre propre et chaud améliore la consistance de l'extraction.",
+        "tip": "Gardez le porte-filtre verrouillé dans le groupe entre les shots.",
+        "mistake": "Laisser les paniers humides avant le dosage.",
+        "challenge": "Pourquoi un porte-filtre devrait-il rester chaud ?"
+      },
+      "it": {
+        "title": "Portafiltro",
+        "definition": "Il portafiltro contiene il filtro del caffè durante l'estrazione dell'espresso.",
+        "why": "Un portafiltro pulito e caldo migliora la coerenza dell'estrazione.",
+        "tip": "Mantieni il portafiltro agganciato al gruppo tra un'estrazione e l'altra.",
+        "mistake": "Lasciare i filtri bagnati prima di dosare.",
+        "challenge": "Perché un portafiltro dovrebbe rimanere caldo?"
       }
     }
   },
@@ -105,6 +153,30 @@
         "tip": "Combine o cesto com a receita.",
         "mistake": "Encher demais ou de menos os cestos.",
         "challenge": "Por que o espaço livre superior importa?"
+      },
+      "de": {
+        "title": "Siebeinsatz",
+        "definition": "Der Siebeinsatz hält das gemahlene Kaffeepulver im Siebträger.",
+        "why": "Die Siebgröße bestimmt den passenden Dosierbereich.",
+        "tip": "Passe den Siebeinsatz an das Rezept an.",
+        "mistake": "Siebe zu voll oder zu wenig zu befüllen.",
+        "challenge": "Warum ist der Freiraum über dem Kaffeebett wichtig?"
+      },
+      "fr": {
+        "title": "Panier",
+        "definition": "Le panier maintient le café moulu à l'intérieur du porte-filtre.",
+        "why": "La taille du panier détermine la plage de dose appropriée.",
+        "tip": "Faites correspondre le panier à la recette.",
+        "mistake": "Sur-remplir ou sous-remplir les paniers.",
+        "challenge": "Pourquoi l'espace de tête compte-t-il ?"
+      },
+      "it": {
+        "title": "Filtro",
+        "definition": "Il filtro contiene il caffè macinato all'interno del portafiltro.",
+        "why": "La dimensione del filtro determina l'intervallo di dose appropriato.",
+        "tip": "Abbina il filtro alla ricetta.",
+        "mistake": "Riempire troppo o troppo poco i filtri.",
+        "challenge": "Perché lo spazio libero sopra il letto di caffè è importante?"
       }
     }
   },
@@ -141,6 +213,30 @@
         "tip": "Escove o grupo após cada extração.",
         "mistake": "Ignorar a limpeza diária.",
         "challenge": "O que acontece quando um chuveiro entope?"
+      },
+      "de": {
+        "title": "Duschsieb",
+        "definition": "Das Duschsieb verteilt das Brühwasser gleichmäßig über den Kaffeepuck.",
+        "why": "Saubere Duschsiebe verbessern die Extraktionskonsistenz.",
+        "tip": "Bürste die Brühgruppe nach jedem Bezug.",
+        "mistake": "Tägliche Reinigung zu vernachlässigen.",
+        "challenge": "Was passiert, wenn ein Duschsieb verstopft?"
+      },
+      "fr": {
+        "title": "Écran de douche",
+        "definition": "L'écran de douche répartit uniformément l'eau d'infusion sur la galette de café.",
+        "why": "Des écrans propres améliorent la consistance de l'extraction.",
+        "tip": "Brossez le groupe après chaque shot.",
+        "mistake": "Ignorer le nettoyage quotidien.",
+        "challenge": "Que se passe-t-il quand un écran de douche se bouche ?"
+      },
+      "it": {
+        "title": "Doccetta",
+        "definition": "La doccetta distribuisce uniformemente l'acqua di infusione sul panetto di caffè.",
+        "why": "Doccette pulite migliorano la coerenza dell'estrazione.",
+        "tip": "Spazzola il gruppo dopo ogni estrazione.",
+        "mistake": "Ignorare la pulizia quotidiana.",
+        "challenge": "Cosa succede quando una doccetta si intasa?"
       }
     }
   },
@@ -177,6 +273,30 @@
         "tip": "Purgue antes e depois de cada uso.",
         "mistake": "Deixar resíduos de leite no vaporizador.",
         "challenge": "Por que purgar duas vezes?"
+      },
+      "de": {
+        "title": "Dampflanze",
+        "definition": "Die Dampflanze injiziert Dampf in Milch zum Erhitzen und Texturieren.",
+        "why": "Korrekter Dampfdruck erzeugt gleichmäßigen Mikroschaum.",
+        "tip": "Vor und nach jedem Gebrauch abdampfen.",
+        "mistake": "Milchreste auf der Lanze zu lassen.",
+        "challenge": "Warum zweimal abdampfen?"
+      },
+      "fr": {
+        "title": "Buse vapeur",
+        "definition": "La buse vapeur injecte de la vapeur dans le lait pour le chauffer et le texturer.",
+        "why": "Une pression vapeur correcte crée une microfoam constante.",
+        "tip": "Purgez avant et après chaque utilisation.",
+        "mistake": "Laisser des résidus de lait sur la buse.",
+        "challenge": "Pourquoi purger deux fois ?"
+      },
+      "it": {
+        "title": "Lancia vapore",
+        "definition": "La lancia vapore inietta vapore nel latte per riscaldarlo e dargli struttura.",
+        "why": "Una pressione del vapore corretta crea una microschiuma costante.",
+        "tip": "Sfiata prima e dopo ogni utilizzo.",
+        "mistake": "Lasciare residui di latte sulla lancia.",
+        "challenge": "Perché sfiatare due volte?"
       }
     }
   },
@@ -213,6 +333,30 @@
         "tip": "Purgue o grupo quando apropriado para sua máquina.",
         "mistake": "Ignorar a limpeza do grupo.",
         "challenge": "O que a purga do grupo alcança?"
+      },
+      "de": {
+        "title": "Brühgruppe",
+        "definition": "Die Brühgruppe ist die Stelle, an der der Siebträger in die Espressomaschine einrastet.",
+        "why": "Temperaturstabilität beginnt hier.",
+        "tip": "Spüle, wenn es für deine Maschine angemessen ist.",
+        "mistake": "Die Sauberkeit der Brühgruppe zu vernachlässigen.",
+        "challenge": "Was bewirkt das Spülen?"
+      },
+      "fr": {
+        "title": "Groupe d'extraction",
+        "definition": "Le groupe d'extraction est l'endroit où le porte-filtre se verrouille sur la machine à espresso.",
+        "why": "La stabilité de température commence ici.",
+        "tip": "Rincez quand approprié pour votre machine.",
+        "mistake": "Ignorer la propreté du groupe.",
+        "challenge": "Que permet d'obtenir le rinçage ?"
+      },
+      "it": {
+        "title": "Gruppo erogatore",
+        "definition": "Il gruppo erogatore è dove il portafiltro si aggancia alla macchina da espresso.",
+        "why": "La stabilità della temperatura inizia qui.",
+        "tip": "Sciacqua quando appropriato per la tua macchina.",
+        "mistake": "Ignorare la pulizia del gruppo.",
+        "challenge": "Cosa ottiene il risciacquo?"
       }
     }
   },
@@ -249,6 +393,30 @@
         "tip": "Substitua os rebolos antes que fiquem excessivamente desgastados.",
         "mistake": "Ajustar a moagem para compensar rebolos desgastados.",
         "challenge": "Como rebolos desgastados afetam o sabor?"
+      },
+      "de": {
+        "title": "Mahlwerk",
+        "definition": "Mahlscheiben zerkleinern Kaffee in gleichmäßig große Partikel.",
+        "why": "Partikelkonsistenz treibt die Extraktionsqualität.",
+        "tip": "Ersetze Mahlscheiben, bevor sie übermäßig abgenutzt sind.",
+        "mistake": "Um abgenutzte Mahlscheiben herum einzustellen.",
+        "challenge": "Wie beeinflussen abgenutzte Mahlscheiben den Geschmack?"
+      },
+      "fr": {
+        "title": "Meules du moulin",
+        "definition": "Les meules broient le café en particules de taille homogène.",
+        "why": "La consistance des particules détermine la qualité de l'extraction.",
+        "tip": "Remplacez les meules avant qu'elles ne soient excessivement usées.",
+        "mistake": "Régler autour de meules usées.",
+        "challenge": "Comment des meules usées affectent-elles la saveur ?"
+      },
+      "it": {
+        "title": "Macine",
+        "definition": "Le macine frantumano il caffè in particelle di dimensione uniforme.",
+        "why": "La coerenza delle particelle guida la qualità dell'estrazione.",
+        "tip": "Sostituisci le macine prima che siano eccessivamente usurate.",
+        "mistake": "Regolare la macinatura per compensare macine usurate.",
+        "challenge": "Come influenzano il sapore le macine usurate?"
       }
     }
   },
@@ -285,6 +453,30 @@
         "tip": "Calibre após manutenções importantes.",
         "mistake": "Supor que o zero de fábrica nunca muda.",
         "challenge": "Quando os moedores devem ser recalibrados?"
+      },
+      "de": {
+        "title": "Mühlenkalibrierung",
+        "definition": "Kalibrierung stellt sicher, dass die Mühleneinstellungen genau der Mahlscheibenposition entsprechen.",
+        "why": "Zuverlässige Kalibrierung macht das Einstellen wiederholbar.",
+        "tip": "Kalibriere nach größeren Wartungsarbeiten.",
+        "mistake": "Anzunehmen, der Werksnullpunkt ändere sich nie.",
+        "challenge": "Wann sollten Mühlen neu kalibriert werden?"
+      },
+      "fr": {
+        "title": "Calibration du moulin",
+        "definition": "La calibration garantit que les réglages du moulin correspondent précisément à la position des meules.",
+        "why": "Une calibration fiable rend le réglage reproductible.",
+        "tip": "Calibrez après une maintenance majeure.",
+        "mistake": "Supposer que le zéro d'usine ne change jamais.",
+        "challenge": "Quand les moulins devraient-ils être recalibrés ?"
+      },
+      "it": {
+        "title": "Calibrazione del macinacaffè",
+        "definition": "La calibrazione garantisce che le impostazioni del macinacaffè corrispondano accuratamente alla posizione delle macine.",
+        "why": "Una calibrazione affidabile rende ripetibile la regolazione.",
+        "tip": "Calibra dopo una manutenzione importante.",
+        "mistake": "Supporre che lo zero di fabbrica non cambi mai.",
+        "challenge": "Quando andrebbero ricalibrati i macinacaffè?"
       }
     }
   },
@@ -321,6 +513,30 @@
         "tip": "Substitua os filtros conforme o cronograma.",
         "mistake": "Esperar até o sabor mudar.",
         "challenge": "Que problemas o calcário causa?"
+      },
+      "de": {
+        "title": "Wasserfilter",
+        "definition": "Wasserfiltration schützt die Ausrüstung und verbessert die Tassenqualität.",
+        "why": "Schlechtes Wasser schädigt Maschinen und beeinflusst den Geschmack.",
+        "tip": "Ersetze Filter nach Zeitplan.",
+        "mistake": "Zu warten, bis sich der Geschmack ändert.",
+        "challenge": "Welche Probleme verursacht Kalk?"
+      },
+      "fr": {
+        "title": "Filtre à eau",
+        "definition": "La filtration de l'eau protège l'équipement et améliore la qualité en tasse.",
+        "why": "Une eau de mauvaise qualité endommage les machines et affecte la saveur.",
+        "tip": "Remplacez les filtres selon le calendrier.",
+        "mistake": "Attendre que la saveur change.",
+        "challenge": "Quels problèmes le tartre cause-t-il ?"
+      },
+      "it": {
+        "title": "Filtro dell'acqua",
+        "definition": "La filtrazione dell'acqua protegge l'attrezzatura e migliora la qualità in tazza.",
+        "why": "Un'acqua di scarsa qualità danneggia le macchine e influisce sul sapore.",
+        "tip": "Sostituisci i filtri secondo programma.",
+        "mistake": "Aspettare che il sapore cambi.",
+        "challenge": "Quali problemi causa il calcare?"
       }
     }
   },
@@ -357,6 +573,30 @@
         "tip": "Use cronogramas de manutenção por escrito.",
         "mistake": "Esperar até o equipamento falhar.",
         "challenge": "Nomeie cinco tarefas de manutenção diária."
+      },
+      "de": {
+        "title": "Vorbeugende Wartung",
+        "definition": "Routinewartung verhindert Ausfälle und erhält die Kaffeequalität.",
+        "why": "Vorbeugung ist günstiger als Notfallreparaturen.",
+        "tip": "Nutze schriftliche Wartungspläne.",
+        "mistake": "Zu warten, bis die Ausrüstung ausfällt.",
+        "challenge": "Nenne fünf tägliche Wartungsaufgaben."
+      },
+      "fr": {
+        "title": "Maintenance préventive",
+        "definition": "La maintenance de routine prévient les pannes et maintient la qualité du café.",
+        "why": "La prévention coûte moins cher que les réparations d'urgence.",
+        "tip": "Utilisez des calendriers de maintenance écrits.",
+        "mistake": "Attendre que l'équipement tombe en panne.",
+        "challenge": "Nommez cinq tâches de maintenance quotidiennes."
+      },
+      "it": {
+        "title": "Manutenzione preventiva",
+        "definition": "La manutenzione di routine previene i guasti e mantiene la qualità del caffè.",
+        "why": "La prevenzione costa meno delle riparazioni d'emergenza.",
+        "tip": "Usa programmi di manutenzione scritti.",
+        "mistake": "Aspettare che l'attrezzatura si guasti.",
+        "challenge": "Nomina cinque attività di manutenzione quotidiana."
       }
     }
   }

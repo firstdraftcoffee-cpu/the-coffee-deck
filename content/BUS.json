@@ -32,6 +32,30 @@
         "tip": "Calcule os custos usando receitas reais, não estimativas.",
         "mistake": "Olhar apenas para o custo do café torrado.",
         "challenge": "Calcule o custo do café de um espresso de 18g a partir de um café de €24/kg."
+      },
+      "de": {
+        "title": "Kaffeekosten",
+        "definition": "Kaffeekosten sind die gesamten Zutatenkosten, die zur Herstellung eines Getränks oder Einzelhandels-Kaffeeprodukts erforderlich sind.",
+        "why": "Die Kosten zu verstehen ist essenziell, um nachhaltige Preise festzulegen.",
+        "tip": "Berechne Kosten anhand tatsächlicher Rezepte, nicht anhand von Schätzungen.",
+        "mistake": "Nur die Kosten des gerösteten Kaffees zu betrachten.",
+        "challenge": "Berechne die Kaffeekosten eines 18g-Espressos aus einem Kaffee zu 24€/kg."
+      },
+      "fr": {
+        "title": "Coût du café",
+        "definition": "Le coût du café est le coût total des ingrédients nécessaires pour produire une boisson ou un produit café en vente au détail.",
+        "why": "Comprendre le coût est essentiel pour fixer des prix durables.",
+        "tip": "Calculez les coûts à partir des recettes réelles, pas d'estimations.",
+        "mistake": "Ne regarder que le coût du café torréfié.",
+        "challenge": "Calculez le coût café d'un espresso de 18g à partir d'un café à 24€/kg."
+      },
+      "it": {
+        "title": "Costo del caffè",
+        "definition": "Il costo del caffè è il costo totale degli ingredienti necessari per produrre una bevanda o un prodotto caffè al dettaglio.",
+        "why": "Capire il costo è essenziale per fissare prezzi sostenibili.",
+        "tip": "Calcola i costi usando ricette reali, non stime.",
+        "mistake": "Guardare solo il costo del caffè tostato.",
+        "challenge": "Calcola il costo del caffè per un espresso da 18g da un caffè a 24€/kg."
       }
     }
   },
@@ -68,6 +92,30 @@
         "tip": "Acompanhe a margem por categoria de produto.",
         "mistake": "Confundir margem com markup.",
         "challenge": "Uma bebida é vendida por €4 e custa €1 para produzir. Calcule sua margem bruta."
+      },
+      "de": {
+        "title": "Bruttomarge",
+        "definition": "Die Bruttomarge ist der Prozentsatz des Umsatzes, der nach Abzug der direkten Herstellungskosten eines Produkts übrig bleibt.",
+        "why": "Die Marge zeigt, ob die Preisgestaltung Arbeit, Miete und andere Betriebskosten tragen kann.",
+        "tip": "Verfolge die Marge nach Produktkategorie.",
+        "mistake": "Marge mit Aufschlag zu verwechseln.",
+        "challenge": "Ein Getränk wird für 4€ verkauft und kostet 1€ in der Herstellung. Berechne seine Bruttomarge."
+      },
+      "fr": {
+        "title": "Marge brute",
+        "definition": "La marge brute est le pourcentage du chiffre d'affaires restant après déduction du coût direct de production d'un produit.",
+        "why": "La marge indique si la tarification peut couvrir la main-d'œuvre, le loyer et les autres coûts d'exploitation.",
+        "tip": "Suivez la marge par catégorie de produit.",
+        "mistake": "Confondre marge et majoration.",
+        "challenge": "Une boisson se vend 4€ et coûte 1€ à produire. Calculez sa marge brute."
+      },
+      "it": {
+        "title": "Margine lordo",
+        "definition": "Il margine lordo è la percentuale di fatturato rimanente dopo aver dedotto il costo diretto di produzione di un prodotto.",
+        "why": "Il margine mostra se il prezzo può sostenere manodopera, affitto e altri costi operativi.",
+        "tip": "Monitora il margine per categoria di prodotto.",
+        "mistake": "Confondere margine con ricarico.",
+        "challenge": "Una bevanda viene venduta a 4€ e costa 1€ da produrre. Calcola il suo margine lordo."
       }
     }
   },
@@ -104,6 +152,30 @@
         "tip": "Revise os preços sempre que os custos importantes dos insumos mudarem.",
         "mistake": "Copiar os preços da concorrência sem conhecer os próprios custos.",
         "challenge": "Liste cinco fatores que você consideraria antes de aumentar os preços do café."
+      },
+      "de": {
+        "title": "Preisgestaltung",
+        "definition": "Preisgestaltung balanciert Produktkosten, Arbeit, Gemeinkosten, Marktposition und Kundenwert.",
+        "why": "Starke Verkäufe können ein durchgehend unterpreisiges Produkt nicht retten.",
+        "tip": "Überprüfe Preise, wann immer sich wichtige Eingangskosten ändern.",
+        "mistake": "Wettbewerberpreise zu kopieren, ohne die eigenen Kosten zu kennen.",
+        "challenge": "Liste fünf Faktoren auf, die du vor einer Kaffeepreiserhöhung berücksichtigen würdest."
+      },
+      "fr": {
+        "title": "Tarification",
+        "definition": "La tarification équilibre le coût du produit, la main-d'œuvre, les frais généraux, la position sur le marché et la valeur perçue par le client.",
+        "why": "De bonnes ventes ne peuvent pas sauver un produit systématiquement sous-tarifé.",
+        "tip": "Révisez les prix chaque fois que les coûts d'intrants majeurs changent.",
+        "mistake": "Copier les prix des concurrents sans connaître ses propres coûts.",
+        "challenge": "Listez cinq facteurs que vous prendriez en compte avant d'augmenter les prix du café."
+      },
+      "it": {
+        "title": "Determinazione dei prezzi",
+        "definition": "La determinazione dei prezzi bilancia costo del prodotto, manodopera, spese generali, posizionamento di mercato e valore percepito dal cliente.",
+        "why": "Vendite solide non possono salvare un prodotto costantemente sottoprezzato.",
+        "tip": "Rivedi i prezzi ogni volta che cambiano i costi principali degli input.",
+        "mistake": "Copiare i prezzi della concorrenza senza conoscere i propri costi.",
+        "challenge": "Elenca cinque fattori da considerare prima di aumentare i prezzi del caffè."
       }
     }
   },
@@ -140,6 +212,30 @@
         "tip": "Meça-o semanalmente e busque oportunidades úteis de venda adicional.",
         "mistake": "Empurrar complementos indesejados em vez de melhorar o valor para o cliente.",
         "challenge": "Se 200 transações geram €1.400, calcule o ticket médio."
+      },
+      "de": {
+        "title": "Durchschnittlicher Transaktionswert",
+        "definition": "Der durchschnittliche Transaktionswert ist der durchschnittliche Betrag, den ein Kunde in einer einzelnen Transaktion ausgibt.",
+        "why": "Höhere Ausgaben pro Kunde können den Umsatz steigern, ohne die Kundenfrequenz zu erhöhen.",
+        "tip": "Miss ihn wöchentlich und suche nach nützlichen Upselling-Möglichkeiten.",
+        "mistake": "Ungewollte Zusatzverkäufe aufzudrängen, statt den Kundenwert zu verbessern.",
+        "challenge": "Wenn 200 Transaktionen 1.400€ generieren, berechne den durchschnittlichen Transaktionswert."
+      },
+      "fr": {
+        "title": "Valeur moyenne de transaction",
+        "definition": "La valeur moyenne de transaction est le montant moyen dépensé par un client lors d'une seule transaction.",
+        "why": "Augmenter les dépenses par client peut accroître le chiffre d'affaires sans augmenter la fréquentation.",
+        "tip": "Mesurez-la chaque semaine et recherchez des opportunités de vente incitative pertinentes.",
+        "mistake": "Pousser des extras non désirés plutôt que d'améliorer la valeur pour le client.",
+        "challenge": "Si 200 transactions génèrent 1 400€, calculez la valeur moyenne de transaction."
+      },
+      "it": {
+        "title": "Valore medio della transazione",
+        "definition": "Il valore medio della transazione è l'importo medio speso da un cliente in una singola transazione.",
+        "why": "Aumentare la spesa per cliente può far crescere il fatturato senza aumentare l'affluenza.",
+        "tip": "Misuralo settimanalmente e cerca opportunità di upselling utili.",
+        "mistake": "Spingere extra indesiderati invece di migliorare il valore per il cliente.",
+        "challenge": "Se 200 transazioni generano 1.400€, calcola il valore medio della transazione."
       }
     }
   },
@@ -176,6 +272,30 @@
         "tip": "Meça o desperdício antes de tentar reduzi-lo.",
         "mistake": "Tratar o desperdício como um custo inevitável do negócio.",
         "challenge": "Identifique cinco fontes de desperdício atrás de um balcão de café."
+      },
+      "de": {
+        "title": "Abfallkontrolle",
+        "definition": "Abfallkontrolle misst und reduziert unnötige Verluste von Kaffee, Milch, Lebensmitteln und Verpackung.",
+        "why": "Kleine, wiederholte Abfallmengen können den Gewinn erheblich schmälern.",
+        "tip": "Miss Abfall, bevor du versuchst, ihn zu reduzieren.",
+        "mistake": "Abfall als unvermeidbare Geschäftskosten zu behandeln.",
+        "challenge": "Identifiziere fünf Abfallquellen hinter einer Kaffeebar."
+      },
+      "fr": {
+        "title": "Contrôle du gaspillage",
+        "definition": "Le contrôle du gaspillage mesure et réduit la perte inutile de café, de lait, de nourriture et d'emballage.",
+        "why": "De petites quantités de gaspillage répété peuvent réduire significativement le profit.",
+        "tip": "Mesurez le gaspillage avant d'essayer de le réduire.",
+        "mistake": "Traiter le gaspillage comme un coût inévitable de l'activité.",
+        "challenge": "Identifiez cinq sources de gaspillage derrière un bar à café."
+      },
+      "it": {
+        "title": "Controllo degli sprechi",
+        "definition": "Il controllo degli sprechi misura e riduce la perdita non necessaria di caffè, latte, cibo e imballaggi.",
+        "why": "Piccole quantità di spreco ripetuto possono ridurre significativamente il profitto.",
+        "tip": "Misura lo spreco prima di cercare di ridurlo.",
+        "mistake": "Trattare lo spreco come un costo inevitabile del fare impresa.",
+        "challenge": "Identifica cinque fonti di spreco dietro un banco bar."
       }
     }
   },
@@ -212,6 +332,30 @@
         "tip": "Programe a escala conforme a demanda esperada, não pelo hábito.",
         "mistake": "Reduzir o quadro de pessoal de forma tão agressiva que o atendimento e as vendas sofrem.",
         "challenge": "Por que reduzir a mão de obra às vezes pode diminuir a lucratividade?"
+      },
+      "de": {
+        "title": "Personalkosten",
+        "definition": "Personalkosten umfassen Löhne und die damit verbundenen Beschäftigungskosten, die zum Betrieb des Unternehmens erforderlich sind.",
+        "why": "Personal ist gewöhnlich einer der größten kontrollierbaren Ausgabenposten eines Cafés.",
+        "tip": "Plane nach erwarteter Nachfrage statt nach Gewohnheit.",
+        "mistake": "Die Besetzung so aggressiv zu reduzieren, dass Service und Umsatz darunter leiden.",
+        "challenge": "Warum kann das Kürzen von Personal manchmal die Rentabilität verringern?"
+      },
+      "fr": {
+        "title": "Coût de la main-d'œuvre",
+        "definition": "Le coût de la main-d'œuvre inclut les salaires et les coûts d'emploi associés nécessaires pour faire fonctionner l'entreprise.",
+        "why": "La main-d'œuvre est généralement l'une des plus grandes dépenses contrôlables d'un café.",
+        "tip": "Planifiez selon la demande attendue plutôt que par habitude.",
+        "mistake": "Réduire les effectifs de façon si agressive que le service et les ventes en souffrent.",
+        "challenge": "Pourquoi réduire la main-d'œuvre peut-il parfois réduire la rentabilité ?"
+      },
+      "it": {
+        "title": "Costo del lavoro",
+        "definition": "Il costo del lavoro include salari e i relativi costi di impiego necessari per gestire l'attività.",
+        "why": "Il lavoro è di solito una delle maggiori spese controllabili di un bar.",
+        "tip": "Pianifica in base alla domanda prevista piuttosto che per abitudine.",
+        "mistake": "Ridurre il personale in modo così aggressivo che servizio e vendite ne risentono.",
+        "challenge": "Perché tagliare il personale può a volte ridurre la redditività?"
       }
     }
   },
@@ -248,6 +392,30 @@
         "tip": "Conte o estoque importante em uma programação consistente.",
         "mistake": "Fazer pedidos de memória em vez de com base no uso real.",
         "challenge": "Quais cinco itens do balcão de café você contaria com mais frequência?"
+      },
+      "de": {
+        "title": "Bestandskontrolle",
+        "definition": "Bestandskontrolle verfolgt den Warenbestand vom Einkauf über Lagerung, Nutzung bis zum Verkauf.",
+        "why": "Genaue Bestandsaufzeichnungen decken Abfall, Engpässe und im Lager gebundenes Kapital auf.",
+        "tip": "Zähle wichtigen Bestand nach einem konsistenten Zeitplan.",
+        "mistake": "Nach Gedächtnis statt nach tatsächlichem Verbrauch zu bestellen.",
+        "challenge": "Welche fünf Artikel einer Kaffeebar würdest du am häufigsten zählen?"
+      },
+      "fr": {
+        "title": "Contrôle des stocks",
+        "definition": "Le contrôle des stocks suit l'inventaire de l'achat au stockage, à l'utilisation et à la vente.",
+        "why": "Des registres de stock précis révèlent le gaspillage, les pénuries et les liquidités immobilisées dans l'inventaire.",
+        "tip": "Comptez les stocks importants selon un calendrier régulier.",
+        "mistake": "Commander de mémoire plutôt que selon l'utilisation réelle.",
+        "challenge": "Quels cinq articles d'un bar à café compteriez-vous le plus fréquemment ?"
+      },
+      "it": {
+        "title": "Controllo delle scorte",
+        "definition": "Il controllo delle scorte traccia l'inventario dall'acquisto allo stoccaggio, all'uso e alla vendita.",
+        "why": "Registri di scorte accurati rivelano sprechi, carenze e liquidità immobilizzata nell'inventario.",
+        "tip": "Conta le scorte importanti secondo un programma costante.",
+        "mistake": "Ordinare a memoria invece che in base all'uso effettivo.",
+        "challenge": "Quali cinque articoli di un bar caffè conteresti più frequentemente?"
       }
     }
   },
@@ -284,6 +452,30 @@
         "tip": "Trate o suporte e o treinamento como parte do produto.",
         "mistake": "Competir apenas por preço.",
         "challenge": "Liste cinco coisas que um bom programa de café por atacado deveria oferecer."
+      },
+      "de": {
+        "title": "Kaffee-Großhandel",
+        "definition": "Kaffee-Großhandel umfasst die Belieferung anderer Unternehmen mit Kaffee sowie oft Schulung, Ausrüstungsunterstützung und Service.",
+        "why": "Erfolgreiche Großhandelsbeziehungen hängen von mehr ab als nur dem Verkauf von Kaffeesäcken.",
+        "tip": "Behandle Unterstützung und Schulung als Teil des Produkts.",
+        "mistake": "Nur über den Preis zu konkurrieren.",
+        "challenge": "Liste fünf Dinge auf, die ein starkes Kaffee-Großhandelsprogramm bieten sollte."
+      },
+      "fr": {
+        "title": "Café en gros",
+        "definition": "Le café en gros implique de fournir du café et souvent formation, support matériel et service à d'autres entreprises.",
+        "why": "Des relations de gros réussies dépendent de bien plus que la simple vente de sacs de café.",
+        "tip": "Considérez le support et la formation comme faisant partie du produit.",
+        "mistake": "Ne concurrencer que sur le prix.",
+        "challenge": "Listez cinq éléments qu'un solide programme de café en gros devrait offrir."
+      },
+      "it": {
+        "title": "Caffè all'ingrosso",
+        "definition": "Il caffè all'ingrosso implica fornire caffè e spesso formazione, supporto attrezzature e servizio ad altre attività.",
+        "why": "Relazioni di vendita all'ingrosso di successo dipendono da molto più che vendere sacchi di caffè.",
+        "tip": "Considera supporto e formazione come parte del prodotto.",
+        "mistake": "Competere solo sul prezzo.",
+        "challenge": "Elenca cinque elementi che un solido programma di vendita all'ingrosso del caffè dovrebbe offrire."
       }
     }
   },
@@ -320,6 +512,30 @@
         "tip": "Consistência é uma das ferramentas de retenção mais fortes.",
         "mistake": "Focar inteiramente em atrair novos clientes.",
         "challenge": "Nomeie três razões pelas quais um cliente voltaria à mesma cafeteria toda semana."
+      },
+      "de": {
+        "title": "Kundenbindung",
+        "definition": "Kundenbindung ist die Fähigkeit, Erstkunden in Stammkunden zu verwandeln.",
+        "why": "Stammkunden schaffen vorhersehbareren Umsatz und stärkere Unternehmen.",
+        "tip": "Konsistenz ist eines der stärksten Instrumente zur Kundenbindung.",
+        "mistake": "Sich ausschließlich auf die Gewinnung neuer Kunden zu konzentrieren.",
+        "challenge": "Nenne drei Gründe, warum ein Kunde jede Woche in dasselbe Café zurückkehren würde."
+      },
+      "fr": {
+        "title": "Fidélisation client",
+        "definition": "La fidélisation client est la capacité à transformer les clients occasionnels en clients réguliers.",
+        "why": "Les clients réguliers créent un chiffre d'affaires plus prévisible et des entreprises plus solides.",
+        "tip": "La constance est l'un des outils de fidélisation les plus puissants.",
+        "mistake": "Se concentrer entièrement sur l'attraction de nouveaux clients.",
+        "challenge": "Nommez trois raisons pour lesquelles un client reviendrait dans le même café chaque semaine."
+      },
+      "it": {
+        "title": "Fidelizzazione del cliente",
+        "definition": "La fidelizzazione del cliente è la capacità di trasformare clienti occasionali in clienti abituali.",
+        "why": "I clienti abituali creano un fatturato più prevedibile e attività più solide.",
+        "tip": "La coerenza è uno degli strumenti di fidelizzazione più potenti.",
+        "mistake": "Concentrarsi interamente sull'attrarre nuovi clienti.",
+        "challenge": "Nomina tre ragioni per cui un cliente tornerebbe nello stesso bar ogni settimana."
       }
     }
   },
@@ -356,6 +572,30 @@
         "tip": "Compita por experiência e consistência, não apenas por preço.",
         "mistake": "Supor que mais barato significa automaticamente mais valor.",
         "challenge": "Descreva o que faz um café de €4 parecer valer €4."
+      },
+      "de": {
+        "title": "Kaffeewert",
+        "definition": "Kaffeewert ist die Kombination aus Produktqualität, Service, Erlebnis und Vertrauen, wie sie vom Kunden wahrgenommen wird.",
+        "why": "Kunden beurteilen Wert anhand des gesamten Erlebnisses, nicht nur der Zutatenkosten.",
+        "tip": "Konkurriere über Erlebnis und Konsistenz, nicht nur über den Preis.",
+        "mistake": "Anzunehmen, günstiger bedeute automatisch besseren Wert.",
+        "challenge": "Beschreibe, was einen Kaffee für 4€ tatsächlich 4€ wert erscheinen lässt."
+      },
+      "fr": {
+        "title": "Valeur du café",
+        "definition": "La valeur du café est la combinaison de la qualité du produit, du service, de l'expérience et de la confiance perçue par le client.",
+        "why": "Les clients jugent la valeur selon l'expérience complète plutôt que le seul coût des ingrédients.",
+        "tip": "Faites concurrence sur l'expérience et la constance, pas simplement le prix.",
+        "mistake": "Supposer que moins cher signifie automatiquement une meilleure valeur.",
+        "challenge": "Décrivez ce qui fait qu'un café à 4€ semble valoir 4€."
+      },
+      "it": {
+        "title": "Valore del caffè",
+        "definition": "Il valore del caffè è la combinazione di qualità del prodotto, servizio, esperienza e fiducia percepita dal cliente.",
+        "why": "I clienti giudicano il valore in base all'esperienza completa piuttosto che al solo costo degli ingredienti.",
+        "tip": "Competi su esperienza e coerenza, non semplicemente sul prezzo.",
+        "mistake": "Supporre che più economico significhi automaticamente valore migliore.",
+        "challenge": "Descrivi cosa fa sembrare un caffè da 4€ effettivamente valere 4€."
       }
     },
     "free_sample": true
