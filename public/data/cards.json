@@ -5597,6 +5597,30 @@
         "tip": "Seu objetivo é a consistência, não simplesmente atingir uma cor.",
         "mistake": "Torrar guiando-se apenas pelo tempo ou pela cor.",
         "challenge": "Nomeie as três principais etapas de uma torra."
+      },
+      "de": {
+        "title": "Rösten",
+        "definition": "Kaffeerösten verwandelt Rohkaffee durch kontrollierte Hitzeanwendung in gerösteten Kaffee.",
+        "why": "Rösten setzt Aroma, Süße und Löslichkeit frei, während der Herkunftscharakter des Kaffees bewahrt wird.",
+        "tip": "Dein Ziel ist Konsistenz, nicht einfach das Erreichen einer Farbe.",
+        "mistake": "Rein nach Zeit oder Farbe zu rösten.",
+        "challenge": "Nenne die drei Hauptphasen einer Röstung."
+      },
+      "fr": {
+        "title": "Torréfaction",
+        "definition": "La torréfaction du café transforme le café vert en café torréfié par une application contrôlée de chaleur.",
+        "why": "La torréfaction libère l'arôme, la douceur et la solubilité tout en préservant le caractère d'origine du café.",
+        "tip": "Votre objectif est la constance, pas simplement l'atteinte d'une couleur.",
+        "mistake": "Torréfier purement selon le temps ou la couleur.",
+        "challenge": "Nommez les trois étapes majeures d'une torréfaction."
+      },
+      "it": {
+        "title": "Tostatura",
+        "definition": "La tostatura del caffè trasforma il caffè verde in caffè tostato attraverso un'applicazione controllata di calore.",
+        "why": "La tostatura libera aroma, dolcezza e solubilità preservando il carattere d'origine del caffè.",
+        "tip": "Il tuo obiettivo è la coerenza, non semplicemente raggiungere un colore.",
+        "mistake": "Tostare puramente in base a tempo o colore.",
+        "challenge": "Nomina le tre fasi principali di una tostatura."
       }
     },
     "id": 96
@@ -5634,6 +5658,30 @@
         "tip": "Escolha a temperatura de carga de acordo com o tamanho do lote e a densidade do grão.",
         "mistake": "Usar a mesma temperatura de carga para todo café.",
         "challenge": "Por que um etíope lavado e denso pode exigir uma temperatura de carga diferente de um natural brasileiro?"
+      },
+      "de": {
+        "title": "Einwurftemperatur",
+        "definition": "Die Einwurftemperatur ist die Trommeltemperatur, wenn Rohkaffee eingefüllt wird.",
+        "why": "Sie bestimmt, wie Energie von Anfang an in die Röstung eingebracht wird.",
+        "tip": "Wähle die Einwurftemperatur nach Chargengröße und Bohnendichte.",
+        "mistake": "Für jeden Kaffee dieselbe Einwurftemperatur zu verwenden.",
+        "challenge": "Warum könnte ein dichter gewaschener äthiopischer Kaffee eine andere Einwurftemperatur benötigen als ein brasilianischer Natural?"
+      },
+      "fr": {
+        "title": "Température de charge",
+        "definition": "La température de charge est la température du tambour lorsque le café vert est introduit.",
+        "why": "Elle détermine comment l'énergie entre dans la torréfaction dès le tout début.",
+        "tip": "Choisissez la température de charge selon la taille du lot et la densité du grain.",
+        "mistake": "Utiliser la même température de charge pour chaque café.",
+        "challenge": "Pourquoi un éthiopien lavé dense pourrait-il nécessiter une température de charge différente d'un naturel brésilien ?"
+      },
+      "it": {
+        "title": "Temperatura di carico",
+        "definition": "La temperatura di carico è la temperatura del tamburo quando viene introdotto il caffè verde.",
+        "why": "Determina come l'energia entra nella tostatura fin dall'inizio.",
+        "tip": "Scegli la temperatura di carico in base a dimensione del lotto e densità dei chicchi.",
+        "mistake": "Usare la stessa temperatura di carico per ogni caffè.",
+        "challenge": "Perché un etiope lavato denso potrebbe richiedere una temperatura di carico diversa da un naturale brasiliano?"
       }
     },
     "id": 97
@@ -5671,6 +5719,30 @@
         "tip": "Observe-o como um ponto de referência, não como uma meta.",
         "mistake": "Tentar forçar um ponto de virada precoce.",
         "challenge": "Que fatores influenciam o ponto de virada?"
+      },
+      "de": {
+        "title": "Wendepunkt",
+        "definition": "Der Wendepunkt ist der Moment, in dem die Bohnentemperatur aufhört zu fallen und beginnt zu steigen.",
+        "why": "Er markiert den Beginn des effektiven Wärmegewinns.",
+        "tip": "Betrachte ihn als Referenzpunkt, nicht als Ziel.",
+        "mistake": "Zu versuchen, einen frühen Wendepunkt zu erzwingen.",
+        "challenge": "Welche Faktoren beeinflussen den Wendepunkt?"
+      },
+      "fr": {
+        "title": "Point de retournement",
+        "definition": "Le point de retournement est le moment où la température du grain cesse de baisser et commence à monter.",
+        "why": "Il marque le début du gain de chaleur effectif.",
+        "tip": "Observez-le comme un point de référence plutôt qu'un objectif.",
+        "mistake": "Essayer de forcer un point de retournement précoce.",
+        "challenge": "Quels facteurs influencent le point de retournement ?"
+      },
+      "it": {
+        "title": "Punto di svolta",
+        "definition": "Il punto di svolta è il momento in cui la temperatura del chicco smette di scendere e inizia a salire.",
+        "why": "Segna l'inizio del guadagno di calore effettivo.",
+        "tip": "Osservalo come un punto di riferimento piuttosto che un obiettivo.",
+        "mistake": "Cercare di forzare un punto di svolta precoce.",
+        "challenge": "Quali fattori influenzano il punto di svolta?"
       }
     },
     "id": 98
@@ -5708,6 +5780,30 @@
         "tip": "Ganhe impulso sem se apressar.",
         "mistake": "Aplicar calor excessivo cedo demais.",
         "challenge": "Quando a secagem normalmente termina?"
+      },
+      "de": {
+        "title": "Trocknungsphase",
+        "definition": "Die Trocknungsphase entfernt freie Feuchtigkeit, bevor Bräunungsreaktionen beginnen.",
+        "why": "Eine stabile Trocknungsphase schafft die Grundlage für eine gleichmäßige Röstung.",
+        "tip": "Baue Schwung auf, ohne zu hetzen.",
+        "mistake": "Zu früh übermäßige Hitze anzuwenden.",
+        "challenge": "Wann endet die Trocknung normalerweise?"
+      },
+      "fr": {
+        "title": "Phase de séchage",
+        "definition": "La phase de séchage élimine l'humidité libre avant que les réactions de brunissement ne commencent.",
+        "why": "Une phase de séchage stable crée une base pour une torréfaction homogène.",
+        "tip": "Construisez de l'élan sans précipiter.",
+        "mistake": "Appliquer une chaleur excessive trop tôt.",
+        "challenge": "Quand le séchage se termine-t-il normalement ?"
+      },
+      "it": {
+        "title": "Fase di essiccazione",
+        "definition": "La fase di essiccazione rimuove l'umidità libera prima che inizino le reazioni di imbrunimento.",
+        "why": "Una fase di essiccazione stabile crea le basi per una tostatura uniforme.",
+        "tip": "Costruisci slancio senza affrettarti.",
+        "mistake": "Applicare calore eccessivo troppo presto.",
+        "challenge": "Quando finisce normalmente l'essiccazione?"
       }
     },
     "id": 99
@@ -5745,6 +5841,30 @@
         "tip": "Gerencie a energia com cuidado durante esta etapa.",
         "mistake": "Apressar a etapa de Maillard.",
         "challenge": "Como Maillard influencia a doçura?"
+      },
+      "de": {
+        "title": "Maillard-Reaktion",
+        "definition": "Die Maillard-Reaktion erzeugt Hunderte von Aroma- und Geschmacksverbindungen durch Reaktionen zwischen Zuckern und Aminosäuren.",
+        "why": "Ein Großteil der Süße und Komplexität des Kaffees entwickelt sich hier.",
+        "tip": "Steuere die Energie in dieser Phase sorgfältig.",
+        "mistake": "Die Maillard-Phase zu überstürzen.",
+        "challenge": "Wie beeinflusst Maillard die Süße?"
+      },
+      "fr": {
+        "title": "Réaction de Maillard",
+        "definition": "La réaction de Maillard crée des centaines de composés d'arôme et de saveur par des réactions entre sucres et acides aminés.",
+        "why": "Une grande partie de la douceur et de la complexité du café se développe ici.",
+        "tip": "Gérez soigneusement l'énergie durant cette étape.",
+        "mistake": "Précipiter la phase de Maillard.",
+        "challenge": "Comment Maillard influence-t-il la douceur ?"
+      },
+      "it": {
+        "title": "Reazione di Maillard",
+        "definition": "La reazione di Maillard crea centinaia di composti di aroma e sapore attraverso reazioni tra zuccheri e amminoacidi.",
+        "why": "Gran parte della dolcezza e complessità del caffè si sviluppa qui.",
+        "tip": "Gestisci con attenzione l'energia durante questa fase.",
+        "mistake": "Affrettare la fase di Maillard.",
+        "challenge": "Come influisce Maillard sulla dolcezza?"
       }
     },
     "id": 100
@@ -5782,6 +5902,30 @@
         "tip": "Ouça tanto quanto observa seus dados.",
         "mistake": "Tratar o primeiro crack como a linha de chegada.",
         "challenge": "Por que o primeiro crack ocorre?"
+      },
+      "de": {
+        "title": "Erster Crack",
+        "definition": "Der erste Crack tritt auf, wenn interner Druck dazu führt, dass die Bohnenstruktur hörbar bricht.",
+        "why": "Er markiert den Beginn der Entwicklung.",
+        "tip": "Höre zu, ebenso wie du deine Daten beobachtest.",
+        "mistake": "Den ersten Crack als Ziellinie zu behandeln.",
+        "challenge": "Warum tritt der erste Crack auf?"
+      },
+      "fr": {
+        "title": "Premier crack",
+        "definition": "Le premier crack se produit lorsque la pression interne fait fracturer audiblement la structure du grain.",
+        "why": "Il marque le début du développement.",
+        "tip": "Écoutez autant que vous observez vos données.",
+        "mistake": "Traiter le premier crack comme la ligne d'arrivée.",
+        "challenge": "Pourquoi le premier crack se produit-il ?"
+      },
+      "it": {
+        "title": "Prima crepitazione",
+        "definition": "La prima crepitazione si verifica quando la pressione interna fa fratturare udibilmente la struttura del chicco.",
+        "why": "Segna l'inizio dello sviluppo.",
+        "tip": "Ascolta tanto quanto osservi i tuoi dati.",
+        "mistake": "Trattare la prima crepitazione come il traguardo.",
+        "challenge": "Perché si verifica la prima crepitazione?"
       }
     },
     "free_sample": true,
@@ -5820,6 +5964,30 @@
         "tip": "Julgue o desenvolvimento pelo sabor, não apenas pela porcentagem.",
         "mistake": "Perseguir proporções de desenvolvimento arbitrárias.",
         "challenge": "Como um desenvolvimento insuficiente pode ter sabor na xícara?"
+      },
+      "de": {
+        "title": "Entwicklungszeit",
+        "definition": "Die Entwicklungszeit ist der Zeitraum zwischen dem ersten Crack und dem Ende der Röstung.",
+        "why": "Sie beeinflusst stark Süße, Säure und Röstcharakter.",
+        "tip": "Beurteile die Entwicklung nach Geschmack, nicht nur nach Prozentsatz.",
+        "mistake": "Willkürlichen Entwicklungsverhältnissen nachzujagen.",
+        "challenge": "Wie kann Unterentwicklung in der Tasse schmecken?"
+      },
+      "fr": {
+        "title": "Temps de développement",
+        "definition": "Le temps de développement est la période entre le premier crack et la fin de la torréfaction.",
+        "why": "Il influence fortement la douceur, l'acidité et le caractère de torréfaction.",
+        "tip": "Jugez le développement par la saveur, pas seulement par le pourcentage.",
+        "mistake": "Poursuivre des ratios de développement arbitraires.",
+        "challenge": "Quel goût peut avoir un sous-développement en tasse ?"
+      },
+      "it": {
+        "title": "Tempo di sviluppo",
+        "definition": "Il tempo di sviluppo è il periodo tra la prima crepitazione e la fine della tostatura.",
+        "why": "Influenza fortemente dolcezza, acidità e carattere della tostatura.",
+        "tip": "Giudica lo sviluppo dal sapore, non solo dalla percentuale.",
+        "mistake": "Inseguire rapporti di sviluppo arbitrari.",
+        "challenge": "Che sapore può avere un sottosviluppo in tazza?"
       }
     },
     "id": 102
@@ -5857,6 +6025,30 @@
         "tip": "Busque um RoR suave e em queda constante.",
         "mistake": "Deixar o RoR despencar ou oscilar drasticamente.",
         "challenge": "Explique o que causa um colapso no RoR."
+      },
+      "de": {
+        "title": "Anstiegsrate",
+        "definition": "Die Anstiegsrate (Rate of Rise, RoR) misst, wie schnell die Bohnentemperatur steigt.",
+        "why": "Sie hilft dem Röster, den Röstschwung zu steuern.",
+        "tip": "Strebe eine sanfte, stetig abnehmende RoR an.",
+        "mistake": "Die RoR abrupt einbrechen oder ausschlagen zu lassen.",
+        "challenge": "Erkläre, was einen RoR-Einbruch verursacht."
+      },
+      "fr": {
+        "title": "Taux de montée",
+        "definition": "Le taux de montée (RoR) mesure la vitesse d'augmentation de la température du grain.",
+        "why": "Il aide le torréfacteur à gérer l'élan de la torréfaction.",
+        "tip": "Visez un RoR fluide et en déclin régulier.",
+        "mistake": "Laisser le RoR s'effondrer ou fluctuer de façon dramatique.",
+        "challenge": "Expliquez ce qui cause un effondrement du RoR."
+      },
+      "it": {
+        "title": "Tasso di aumento",
+        "definition": "Il tasso di aumento (RoR) misura quanto velocemente sta aumentando la temperatura del chicco.",
+        "why": "Aiuta il torrefattore a gestire lo slancio della tostatura.",
+        "tip": "Punta a un RoR fluido e in calo costante.",
+        "mistake": "Lasciare che il RoR crolli o oscilli drammaticamente.",
+        "challenge": "Spiega cosa causa un crollo del RoR."
       }
     },
     "id": 103
@@ -5894,6 +6086,30 @@
         "tip": "Prove cada torra em vez de confiar apenas em números.",
         "mistake": "Comparar temperaturas finais entre diferentes configurações de sonda.",
         "challenge": "Por que a temperatura final sozinha não pode definir o nível de torra?"
+      },
+      "de": {
+        "title": "Endtemperatur",
+        "definition": "Die Endtemperatur ist die Bohnentemperatur beim Ausrollen.",
+        "why": "Sie trägt zum Röstgrad bei, erzählt aber nie die ganze Geschichte.",
+        "tip": "Verkoste jede Röstung, statt dich auf Zahlen zu verlassen.",
+        "mistake": "Endtemperaturen zwischen unterschiedlichen Sondeneinrichtungen zu vergleichen.",
+        "challenge": "Warum kann die Endtemperatur allein den Röstgrad nicht definieren?"
+      },
+      "fr": {
+        "title": "Température finale",
+        "definition": "La température finale est la température du grain au moment du vidage.",
+        "why": "Elle contribue au degré de torréfaction mais ne raconte jamais toute l'histoire.",
+        "tip": "Goûtez chaque torréfaction plutôt que de vous fier aux chiffres.",
+        "mistake": "Comparer les températures finales entre différentes configurations de sonde.",
+        "challenge": "Pourquoi la température finale seule ne peut-elle pas définir le degré de torréfaction ?"
+      },
+      "it": {
+        "title": "Temperatura finale",
+        "definition": "La temperatura finale è la temperatura del chicco al momento dello scarico.",
+        "why": "Contribuisce al grado di tostatura ma non racconta mai tutta la storia.",
+        "tip": "Assaggia ogni tostatura invece di affidarti ai numeri.",
+        "mistake": "Confrontare le temperature finali tra diverse configurazioni di sonda.",
+        "challenge": "Perché la temperatura finale da sola non può definire il grado di tostatura?"
       }
     },
     "id": 104
@@ -5931,6 +6147,30 @@
         "tip": "Resfrie o mais rápido possível sem danificar os grãos.",
         "mistake": "Resfriar lentamente.",
         "challenge": "Por que um resfriamento rápido é importante?"
+      },
+      "de": {
+        "title": "Ausrollen",
+        "definition": "Das Ausrollen ist der Moment, in dem gerösteter Kaffee die Trommel verlässt und in die Kühlung eintritt.",
+        "why": "Das Rösten setzt sich fort, bis die Kühlung beginnt.",
+        "tip": "Kühle so schnell wie möglich, ohne die Bohnen zu beschädigen.",
+        "mistake": "Langsam zu kühlen.",
+        "challenge": "Warum ist schnelles Kühlen wichtig?"
+      },
+      "fr": {
+        "title": "Vidage",
+        "definition": "Le vidage est le moment où le café torréfié quitte le tambour et entre en refroidissement.",
+        "why": "La torréfaction se poursuit jusqu'au début du refroidissement.",
+        "tip": "Refroidissez aussi vite que possible sans endommager les grains.",
+        "mistake": "Refroidir lentement.",
+        "challenge": "Pourquoi un refroidissement rapide est-il important ?"
+      },
+      "it": {
+        "title": "Scarico",
+        "definition": "Lo scarico è il momento in cui il caffè tostato lascia il tamburo ed entra in raffreddamento.",
+        "why": "La tostatura continua fino all'inizio del raffreddamento.",
+        "tip": "Raffredda il più velocemente possibile senza danneggiare i chicchi.",
+        "mistake": "Raffreddare lentamente.",
+        "challenge": "Perché un raffreddamento rapido è importante?"
       }
     },
     "id": 105
@@ -5968,6 +6208,30 @@
         "tip": "Use a cor junto com a avaliação sensorial.",
         "mistake": "Torrar guiando-se apenas pela cor.",
         "challenge": "Por que a cor nunca deve substituir a prova?"
+      },
+      "de": {
+        "title": "Röstfarbe",
+        "definition": "Die Röstfarbe liefert einen messbaren Hinweis auf den Röstgrad.",
+        "why": "Farbe unterstützt die Konsistenz zwischen Chargen.",
+        "tip": "Nutze Farbe zusammen mit Cupping.",
+        "mistake": "Rein nach Farbe zu rösten.",
+        "challenge": "Warum sollte Farbe niemals das Verkosten ersetzen?"
+      },
+      "fr": {
+        "title": "Couleur de torréfaction",
+        "definition": "La couleur de torréfaction fournit une indication mesurable du degré de torréfaction.",
+        "why": "La couleur soutient la constance entre les lots.",
+        "tip": "Utilisez la couleur en parallèle de la dégustation.",
+        "mistake": "Torréfier uniquement selon la couleur.",
+        "challenge": "Pourquoi la couleur ne devrait-elle jamais remplacer la dégustation ?"
+      },
+      "it": {
+        "title": "Colore di tostatura",
+        "definition": "Il colore di tostatura fornisce un'indicazione misurabile del grado di tostatura.",
+        "why": "Il colore supporta la coerenza tra i lotti.",
+        "tip": "Usa il colore insieme al cupping.",
+        "mistake": "Tostare solo in base al colore.",
+        "challenge": "Perché il colore non dovrebbe mai sostituire la degustazione?"
       }
     },
     "id": 106
@@ -6005,6 +6269,30 @@
         "tip": "Experimente diferentes períodos de descanso.",
         "mistake": "Servir cada café imediatamente após a torra.",
         "challenge": "Por que o espresso e o café filtrado costumam exigir tempos de descanso diferentes?"
+      },
+      "de": {
+        "title": "Kaffee ruhen lassen",
+        "definition": "Frisch gerösteter Kaffee braucht Zeit, damit Kohlendioxid entweichen kann, bevor er gebrüht wird.",
+        "why": "Ruhen verbessert die Geschmacksstabilität und Extraktion.",
+        "tip": "Experimentiere mit verschiedenen Ruhezeiten.",
+        "mistake": "Jeden Kaffee sofort nach der Röstung zu servieren.",
+        "challenge": "Warum erfordern Espresso und Filterkaffee oft unterschiedliche Ruhezeiten?"
+      },
+      "fr": {
+        "title": "Repos du café",
+        "definition": "Le café fraîchement torréfié nécessite du temps pour que le dioxyde de carbone s'échappe avant l'infusion.",
+        "why": "Le repos améliore la stabilité de la saveur et l'extraction.",
+        "tip": "Expérimentez avec différentes périodes de repos.",
+        "mistake": "Servir chaque café immédiatement après torréfaction.",
+        "challenge": "Pourquoi l'espresso et le café filtre nécessitent-ils souvent des temps de repos différents ?"
+      },
+      "it": {
+        "title": "Riposo del caffè",
+        "definition": "Il caffè appena tostato richiede tempo affinché l'anidride carbonica fuoriesca prima della preparazione.",
+        "why": "Il riposo migliora la stabilità del sapore e l'estrazione.",
+        "tip": "Sperimenta con diversi periodi di riposo.",
+        "mistake": "Servire ogni caffè immediatamente dopo la tostatura.",
+        "challenge": "Perché espresso e caffè filtro richiedono spesso tempi di riposo diversi?"
       }
     },
     "id": 107
@@ -6042,6 +6330,30 @@
         "tip": "Relacione cada defeito à gestão de energia da torra.",
         "mistake": "Tentar diagnosticar defeitos apenas pela cor.",
         "challenge": "Nomeie cinco defeitos de torra."
+      },
+      "de": {
+        "title": "Röstfehler",
+        "definition": "Röstfehler umfassen Versengen, Tipping, Baking, Unterentwicklung und Überentwicklung.",
+        "why": "Fehler zu erkennen beschleunigt die Fehlersuche.",
+        "tip": "Verknüpfe jeden Fehler mit dem Energiemanagement der Röstung.",
+        "mistake": "Zu versuchen, Fehler allein anhand der Farbe zu diagnostizieren.",
+        "challenge": "Nenne fünf Röstfehler."
+      },
+      "fr": {
+        "title": "Défauts de torréfaction",
+        "definition": "Les défauts de torréfaction incluent le roussissement, le tipping, le baking, le sous-développement et le sur-développement.",
+        "why": "Reconnaître les défauts accélère le dépannage.",
+        "tip": "Reliez chaque défaut à la gestion de l'énergie de torréfaction.",
+        "mistake": "Essayer de diagnostiquer les défauts uniquement par la couleur.",
+        "challenge": "Nommez cinq défauts de torréfaction."
+      },
+      "it": {
+        "title": "Difetti di tostatura",
+        "definition": "I difetti di tostatura includono bruciatura, tipping, baking, sottosviluppo e sovrasviluppo.",
+        "why": "Riconoscere i difetti velocizza la risoluzione dei problemi.",
+        "tip": "Collega ogni difetto alla gestione dell'energia della tostatura.",
+        "mistake": "Cercare di diagnosticare i difetti solo dal colore.",
+        "challenge": "Nomina cinque difetti di tostatura."
       }
     },
     "id": 108
@@ -6079,6 +6391,30 @@
         "tip": "Prove regularmente cada torra de produção.",
         "mistake": "Avaliar as torras apenas pelo espresso.",
         "challenge": "Que informações você deveria registrar durante uma prova de torra?"
+      },
+      "de": {
+        "title": "Röstungen verkosten",
+        "definition": "Cupping bestätigt, ob Röstentscheidungen das beabsichtigte Geschmacksprofil erreicht haben.",
+        "why": "Rösten ohne Verkosten ist Rätselraten.",
+        "tip": "Cuppe jede Produktionsröstung regelmäßig.",
+        "mistake": "Röstungen allein anhand von Espresso zu bewerten.",
+        "challenge": "Welche Informationen solltest du während eines Röst-Cuppings aufzeichnen?"
+      },
+      "fr": {
+        "title": "Dégustation des torréfactions",
+        "definition": "Le cupping valide si les décisions de torréfaction ont atteint le profil de saveur souhaité.",
+        "why": "Torréfier sans déguster relève de la conjecture.",
+        "tip": "Dégustez régulièrement chaque torréfaction de production.",
+        "mistake": "Évaluer les torréfactions uniquement à partir de l'espresso.",
+        "challenge": "Quelles informations devriez-vous enregistrer pendant une dégustation de torréfaction ?"
+      },
+      "it": {
+        "title": "Cupping delle tostature",
+        "definition": "Il cupping convalida se le decisioni di tostatura hanno raggiunto il profilo di sapore previsto.",
+        "why": "Tostare senza degustare è indovinare.",
+        "tip": "Fai cupping regolarmente su ogni tostatura di produzione.",
+        "mistake": "Valutare le tostature solo dall'espresso.",
+        "challenge": "Quali informazioni dovresti registrare durante un cupping di tostatura?"
       }
     },
     "id": 109
@@ -6116,6 +6452,30 @@
         "tip": "Meça tudo. Mude uma variável de cada vez.",
         "mistake": "Fazer vários ajustes simultaneamente.",
         "challenge": "Quais são as cinco variáveis de torra mais importantes para monitorar?"
+      },
+      "de": {
+        "title": "Röstkonsistenz",
+        "definition": "Konsistenz wird erreicht, indem erfolgreiches Energiemanagement in jeder Charge wiederholt wird.",
+        "why": "Konsistenz baut Vertrauen bei Kunden auf.",
+        "tip": "Miss alles. Ändere jeweils nur eine Variable.",
+        "mistake": "Mehrere Anpassungen gleichzeitig vorzunehmen.",
+        "challenge": "Was sind die fünf wichtigsten Röstvariablen, die überwacht werden sollten?"
+      },
+      "fr": {
+        "title": "Constance de torréfaction",
+        "definition": "La constance est obtenue en répétant une gestion réussie de l'énergie sur chaque lot.",
+        "why": "La constance bâtit la confiance des clients.",
+        "tip": "Mesurez tout. Changez une variable à la fois.",
+        "mistake": "Faire plusieurs ajustements simultanément.",
+        "challenge": "Quelles sont les cinq variables de torréfaction les plus importantes à surveiller ?"
+      },
+      "it": {
+        "title": "Coerenza di tostatura",
+        "definition": "La coerenza si ottiene ripetendo una gestione energetica di successo in ogni lotto.",
+        "why": "La coerenza costruisce fiducia con i clienti.",
+        "tip": "Misura tutto. Cambia una variabile alla volta.",
+        "mistake": "Fare più regolazioni simultaneamente.",
+        "challenge": "Quali sono le cinque variabili di tostatura più importanti da monitorare?"
       }
     },
     "id": 110
