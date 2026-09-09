@@ -2246,6 +2246,135 @@
             }
           ]
         }
+      },
+      "de": {
+        "title": "Kalita Wave",
+        "definition": "Eine Filterbrühmethode mit einem flachbodigen Dripper mit drei kleinen Löchern und einem markanten gefalteten 'Wave'-Filter, der einen gleichmäßigen Wasserfluss über das Kaffeebett fördert.",
+        "why": "Der flache Boden und die mehreren kleinen Löcher machen den Kalita Wave nachsichtiger gegenüber unvollkommener Gießtechnik als das einzelne große Loch des V60, während er dennoch eine saubere, ausgewogene Tasse erzeugt.",
+        "tip": "Da der flache Boden den Fluss natürlich verlangsamt und ausgleicht, spielen kleine Gießungenauigkeiten hier weniger eine Rolle als beim V60 — ein guter Einstiegspunkt für Filterkaffee-Anfänger.",
+        "mistake": "Anzunehmen, ein flachbodiger Dripper verhalte sich genauso wie ein kegelförmiger — die Extraktionsdynamik unterscheidet sich wirklich, sodass Rezepte nicht immer direkt übertragbar sind.",
+        "challenge": "Warum könnte ein flachbodiges Brühgerät nachsichtiger gegenüber Gießungenauigkeiten sein als ein kegelförmiges?",
+        "recipe": {
+          "grind": "Mittel",
+          "steps": [
+            {
+              "title": "Wave-Filter spülen",
+              "content": "Platziere den gefalteten Wave-Filter im Dripper und spüle mit heißem Wasser, um ihn zu setzen und Papiergeschmack zu entfernen."
+            },
+            {
+              "title": "Bloom",
+              "content": "Füge Kaffee hinzu, glätte ihn, starte deinen Timer und gieße 40g Wasser, um das Kaffeemehl gleichmäßig zu sättigen."
+            },
+            {
+              "title": "In Stufen gießen",
+              "content": "Gieße in zwei oder drei Stufen, wobei der Wasserstand ziemlich stabil bleibt, bis insgesamt 320g."
+            },
+            {
+              "title": "Drawdown",
+              "content": "Lass das restliche Wasser vollständig durch das flache Bett ablaufen."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt sauer oder schwach",
+              "fix": "Feiner mahlen."
+            },
+            {
+              "issue": "Schmeckt bitter oder hart",
+              "fix": "Gröber mahlen."
+            },
+            {
+              "issue": "Extraktion fühlt sich ungleichmäßig an",
+              "fix": "Langsamer und gleichmäßiger über das Bett gießen, in zwei oder drei kontrollierten Stufen."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Kalita Wave",
+        "definition": "Une méthode de filtre manuel utilisant un dripper à fond plat avec trois petits trous et un filtre « wave » plissé caractéristique, conçu pour favoriser un flux d'eau uniforme à travers le lit de café.",
+        "why": "Le fond plat et les multiples petits trous rendent le Kalita Wave plus tolérant à une technique de versement imparfaite que le trou unique du V60, tout en produisant une tasse propre et équilibrée.",
+        "tip": "Comme le fond plat ralentit et uniformise naturellement le flux, de petites incohérences de versement comptent moins ici que dans un V60 — un bon point d'entrée pour les débutants en filtre manuel.",
+        "mistake": "Supposer qu'un dripper à fond plat se comporte comme un dripper conique — la dynamique d'extraction diffère réellement, donc les recettes ne sont pas toujours directement transférables entre eux.",
+        "challenge": "Pourquoi un préparateur à fond plat pourrait-il être plus tolérant à l'incohérence de versement qu'un conique ?",
+        "recipe": {
+          "grind": "Moyenne",
+          "steps": [
+            {
+              "title": "Rincer le filtre wave",
+              "content": "Placez le filtre wave plissé dans le dripper et rincez à l'eau chaude pour le mettre en place et retirer le goût de papier."
+            },
+            {
+              "title": "Bloom",
+              "content": "Ajoutez le café, nivelez-le, démarrez votre minuteur, et versez 40g d'eau pour saturer uniformément la mouture."
+            },
+            {
+              "title": "Verser par étapes",
+              "content": "Versez en deux ou trois étapes, en gardant le niveau d'eau assez stable, jusqu'à 320g au total."
+            },
+            {
+              "title": "Drainage final",
+              "content": "Laissez l'eau restante s'écouler complètement à travers le lit plat."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût acide ou faible",
+              "fix": "Moulez plus fin."
+            },
+            {
+              "issue": "Goût amer ou dur",
+              "fix": "Moulez plus grossier."
+            },
+            {
+              "issue": "L'extraction semble inégale",
+              "fix": "Versez plus lentement et uniformément sur le lit en deux ou trois étapes contrôlées."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Kalita Wave",
+        "definition": "Un metodo a filtro manuale che usa un dripper a fondo piatto con tre piccoli fori e un caratteristico filtro plissettato 'wave', progettato per favorire un flusso d'acqua uniforme attraverso il letto di caffè.",
+        "why": "Il fondo piatto e i molteplici piccoli fori rendono il Kalita Wave più tollerante a una tecnica di versamento imperfetta rispetto al foro unico grande del V60, pur producendo una tazza pulita ed equilibrata.",
+        "tip": "Poiché il fondo piatto rallenta e uniforma naturalmente il flusso, piccole incoerenze di versamento contano meno qui che in un V60 — un buon punto di partenza per i principianti del filtro manuale.",
+        "mistake": "Supporre che un dripper a fondo piatto si comporti come uno conico — le dinamiche di estrazione differiscono realmente, quindi le ricette non sono sempre direttamente trasferibili tra loro.",
+        "challenge": "Perché chi prepara con fondo piatto potrebbe essere più tollerante all'incoerenza di versamento rispetto a uno conico?",
+        "recipe": {
+          "grind": "Media",
+          "steps": [
+            {
+              "title": "Risciacqua il filtro wave",
+              "content": "Posiziona il filtro wave plissettato nel dripper e risciacqua con acqua calda per assestarlo e rimuovere il sapore di carta."
+            },
+            {
+              "title": "Bloom",
+              "content": "Aggiungi il caffè, livellalo, avvia il timer, e versa 40g di acqua per saturare uniformemente il macinato."
+            },
+            {
+              "title": "Versa a fasi",
+              "content": "Versa in due o tre fasi, mantenendo il livello dell'acqua abbastanza stabile, fino a 320g totali."
+            },
+            {
+              "title": "Drenaggio finale",
+              "content": "Lascia defluire completamente l'acqua rimanente attraverso il letto piatto."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore acido o debole",
+              "fix": "Macina più fine."
+            },
+            {
+              "issue": "Sapore amaro o duro",
+              "fix": "Macina più grosso."
+            },
+            {
+              "issue": "L'estrazione sembra irregolare",
+              "fix": "Versa più lentamente e uniformemente sul letto in due o tre fasi controllate."
+            }
+          ]
+        }
       }
     },
     "id": 240
@@ -2450,6 +2579,135 @@
             {
               "issue": "Xícara turva com sedimento",
               "fix": "Verifique se o pano ou filtro está bem encaixado; uma vedação ruim deixa passar os finos."
+            }
+          ]
+        }
+      },
+      "de": {
+        "title": "Siphon (Vakuumkocher)",
+        "definition": "Eine Brühmethode mit zwei Kammern, bei der Dampfdruck erhitztes Wasser in eine Kammer mit Kaffeemehl nach oben drückt, und das Entfernen der Wärmequelle dann den gebrühten Kaffee durch einen Filter zurück nach unten zieht.",
+        "why": "Es ist eine der visuell theatralischsten Brühmethoden und erzeugt eine saubere, vollmundige Tasse, aber die präzise Temperatur- und Zeitkontrolle, die sie verlangt, macht sie technisch anspruchsvoller als die meisten Filterbrühmethoden.",
+        "tip": "Rühre sanft zu Beginn der Brühphase, um sicherzustellen, dass das gesamte Kaffeemehl gleichmäßig gesättigt ist, da die obere Kammer keinen zweiten Aufguss wie bei Filterbrühmethoden erlaubt.",
+        "mistake": "Die Hitze zu lange eingeschaltet zu lassen, sobald das Brühen läuft — Siphon-Brühen ist zeitkritisch, und zu langes Ziehen führt schnell zu Überextraktion.",
+        "challenge": "Warum könnte eine Brühmethode, die auf einer physikalischen Druckänderung basiert, präzisere Zeitmessung erfordern als eine, die allein auf Schwerkraft beruht?",
+        "recipe": {
+          "grind": "Mittel",
+          "steps": [
+            {
+              "title": "Wasser erhitzen",
+              "content": "Gib Wasser in die untere Kammer und erhitze, bis es durch das Rohr in die obere Kammer aufzusteigen beginnt."
+            },
+            {
+              "title": "Kaffee hinzufügen und rühren",
+              "content": "Sobald das Wasser in die obere Kammer aufgestiegen ist, füge das gemahlene Kaffeepulver hinzu und rühre sanft, um es gleichmäßig zu sättigen."
+            },
+            {
+              "title": "Brühen",
+              "content": "Lass es mit gelegentlichem sanftem Rühren brühen."
+            },
+            {
+              "title": "Hitze entfernen und Drawdown",
+              "content": "Entferne die Wärmequelle. Beim Abkühlen zieht der gebrühte Kaffee durch den Filter zurück in die untere Kammer."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt schwach",
+              "fix": "Feiner mahlen oder die Brühphase um 15-20 Sekunden verlängern."
+            },
+            {
+              "issue": "Schmeckt bitter oder hart",
+              "fix": "Gröber mahlen oder die Wärmequelle etwas früher entfernen."
+            },
+            {
+              "issue": "Trübe Tasse mit Bodensatz",
+              "fix": "Prüfe, ob das Tuch oder der Filter richtig sitzt — eine schlechte Abdichtung lässt Feinanteile durch."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Siphon (cafetière à dépression)",
+        "definition": "Une méthode d'infusion utilisant deux chambres où la pression de vapeur pousse l'eau chauffée vers le haut dans une chambre contenant la mouture de café, et le retrait de la source de chaleur fait ensuite redescendre le café infusé à travers un filtre.",
+        "why": "C'est l'une des méthodes d'infusion les plus théâtrales visuellement et elle produit une tasse propre et pleine de saveur, mais le contrôle précis de température et de timing qu'elle exige la rend plus techniquement exigeante que la plupart des méthodes de filtre manuel.",
+        "tip": "Remuez doucement au début de l'étape d'infusion pour vous assurer que toute la mouture est saturée uniformément, puisque la chambre supérieure ne permet pas un second versement comme les méthodes de filtre manuel.",
+        "mistake": "Laisser la chaleur trop longtemps une fois l'infusion en cours — l'infusion au siphon est sensible au temps, et une infusion trop longue mène rapidement à une sur-extraction.",
+        "challenge": "Pourquoi une méthode d'infusion construite autour d'un changement de pression physique pourrait-elle nécessiter un timing plus précis qu'une méthode basée uniquement sur la gravité ?",
+        "recipe": {
+          "grind": "Moyenne",
+          "steps": [
+            {
+              "title": "Chauffer l'eau",
+              "content": "Ajoutez de l'eau dans la chambre inférieure et appliquez de la chaleur jusqu'à ce qu'elle commence à monter dans la chambre supérieure à travers le tube."
+            },
+            {
+              "title": "Ajouter le café et remuer",
+              "content": "Une fois que l'eau est montée dans la chambre supérieure, ajoutez le café moulu et remuez doucement pour saturer uniformément."
+            },
+            {
+              "title": "Infuser",
+              "content": "Laissez infuser avec un remuage doux occasionnel."
+            },
+            {
+              "title": "Retirer la chaleur et drainage",
+              "content": "Retirez la source de chaleur. En refroidissant, le café infusé redescendra à travers le filtre dans la chambre inférieure."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût faible",
+              "fix": "Moulez plus fin, ou prolongez l'étape d'infusion de 15-20 secondes."
+            },
+            {
+              "issue": "Goût amer ou dur",
+              "fix": "Moulez plus grossier, ou retirez la source de chaleur un peu plus tôt."
+            },
+            {
+              "issue": "Tasse boueuse avec sédiments",
+              "fix": "Vérifiez que le tissu ou le filtre est bien en place — un mauvais scellage laisse passer les fines."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Sifone (caffettiera sottovuoto)",
+        "definition": "Un metodo di preparazione che usa due camere dove la pressione del vapore spinge l'acqua riscaldata verso l'alto in una camera contenente il macinato di caffè, e la rimozione della fonte di calore fa poi ridiscendere il caffè preparato attraverso un filtro.",
+        "why": "È uno dei metodi di preparazione visivamente più teatrali e produce una tazza pulita e piena di sapore, ma il controllo preciso di temperatura e tempistica che richiede lo rende più tecnicamente impegnativo della maggior parte dei metodi a filtro manuale.",
+        "tip": "Mescola delicatamente all'inizio della fase di preparazione per assicurarti che tutto il macinato sia saturo uniformemente, poiché la camera superiore non permette una seconda versata come i metodi a filtro manuale.",
+        "mistake": "Lasciare il calore acceso troppo a lungo una volta iniziata la preparazione — la preparazione a sifone è sensibile al tempo, e un'infusione troppo lunga porta rapidamente a sovraestrazione.",
+        "challenge": "Perché un metodo di preparazione costruito attorno a un cambiamento di pressione fisica potrebbe richiedere una tempistica più precisa rispetto a uno basato solo sulla gravità?",
+        "recipe": {
+          "grind": "Media",
+          "steps": [
+            {
+              "title": "Riscalda l'acqua",
+              "content": "Aggiungi acqua nella camera inferiore e applica calore finché non inizia a salire nella camera superiore attraverso il tubo."
+            },
+            {
+              "title": "Aggiungi il caffè e mescola",
+              "content": "Una volta che l'acqua è salita nella camera superiore, aggiungi il caffè macinato e mescola delicatamente per saturare uniformemente."
+            },
+            {
+              "title": "Prepara",
+              "content": "Lascia preparare con delicato mescolamento occasionale."
+            },
+            {
+              "title": "Rimuovi il calore e drena",
+              "content": "Rimuovi la fonte di calore. Raffreddandosi, il caffè preparato ridiscenderà attraverso il filtro nella camera inferiore."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore debole",
+              "fix": "Macina più fine, o estendi la fase di preparazione di 15-20 secondi."
+            },
+            {
+              "issue": "Sapore amaro o duro",
+              "fix": "Macina più grosso, o rimuovi la fonte di calore un po' prima."
+            },
+            {
+              "issue": "Tazza torbida con sedimenti",
+              "fix": "Controlla che il panno o il filtro sia posizionato correttamente — una tenuta scarsa lascia passare i fini."
             }
           ]
         }
@@ -2675,6 +2933,135 @@
             }
           ]
         }
+      },
+      "de": {
+        "title": "Türkischer Kaffee (Cezve)",
+        "definition": "Eine ungefilterte Brühmethode mit extrem fein gemahlenem Kaffee, der direkt in Wasser in einem kleinen, langstieligen Topf namens Cezve geköchelt wird, traditionell serviert mit dem Kaffeemehl am Tassenboden.",
+        "why": "Es ist eine der ältesten durchgehend praktizierten Brühmethoden der Welt, und ihre ungefilterte Natur erzeugt eine einzigartig dicke, starke Tasse, anders als jeder gefilterte Brühstil.",
+        "tip": "Nimm die Cezve vom Herd, sobald der Schaum aufzusteigen beginnt und bevor er überkocht, lass ihn kurz sich setzen, bevor du zu niedriger Hitze zurückkehrst — das bewahrt die geschätzte Schaumschicht.",
+        "mistake": "Einen nicht feinen genug Mahlgrad zu verwenden — türkischer Kaffee erfordert einen fast pulverfeinen Mahlgrad, feiner als Espresso, um die richtige Textur zu erreichen und übermäßige Körnigkeit zu vermeiden.",
+        "challenge": "Warum könnte eine Methode ganz ohne Filter präzisere Mahlgradkontrolle erfordern als gefilterte Methoden?",
+        "recipe": {
+          "grind": "Extra fein (pulverartig)",
+          "steps": [
+            {
+              "title": "Zutaten kombinieren",
+              "content": "Gib kaltes Wasser, fein gemahlenen Kaffee und Zucker (falls verwendet) in die Cezve und rühre gut um."
+            },
+            {
+              "title": "Langsam erhitzen",
+              "content": "Auf niedrige Hitze stellen und allmählich erwärmen lassen, ohne weiter zu rühren."
+            },
+            {
+              "title": "Auf Schaum achten",
+              "content": "Wenn der Schaum zum Rand aufsteigt, nimm ihn kurz bevor er überkocht vom Herd."
+            },
+            {
+              "title": "Setzen lassen und servieren",
+              "content": "Löffle etwas Schaum in die Servierschale, stelle die Cezve kurz zurück auf niedrige Hitze, gieße dann den Rest in die Schale und lass das Kaffeemehl sich setzen, bevor du trinkst."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt schwach",
+              "fix": "Ein stärkeres Verhältnis verwenden — mehr Kaffee im Verhältnis zu Wasser."
+            },
+            {
+              "issue": "Schmeckt bitter oder verbrannt",
+              "fix": "Niedrigere Hitze verwenden und vom Herd nehmen, sobald der Schaum aufsteigt, bevor er stark kocht."
+            },
+            {
+              "issue": "Körnige Textur",
+              "fix": "Sicherstellen, dass der Mahlgrad wirklich pulverfein ist, und das Kaffeemehl länger in der Tasse setzen lassen, bevor du trinkst."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Café turc (cezve)",
+        "definition": "Une méthode d'infusion non filtrée utilisant du café extrêmement finement moulu mijoté directement dans l'eau dans un petit pot à long manche appelé cezve, traditionnellement servi avec la mouture déposée au fond de la tasse.",
+        "why": "C'est l'une des méthodes d'infusion les plus anciennement pratiquées en continu au monde, et sa nature non filtrée produit une tasse uniquement épaisse et forte, différente de tout style d'infusion filtré.",
+        "tip": "Retirez la cezve du feu juste au moment où la mousse commence à monter et avant qu'elle ne déborde, puis laissez-la reposer brièvement avant de revenir à feu doux — cela préserve la précieuse couche de mousse.",
+        "mistake": "Utiliser une mouture pas assez fine — le café turc nécessite une mouture presque poudreuse, plus fine que l'espresso, pour obtenir la bonne texture et éviter un excès de dépôt granuleux.",
+        "challenge": "Pourquoi une méthode sans aucun filtre pourrait-elle nécessiter un contrôle plus précis de la taille de mouture que les méthodes filtrées ?",
+        "recipe": {
+          "grind": "Extra-fine (comme de la poudre)",
+          "steps": [
+            {
+              "title": "Combiner les ingrédients",
+              "content": "Ajoutez l'eau froide, le café finement moulu, et le sucre (si utilisé) dans la cezve et remuez bien."
+            },
+            {
+              "title": "Chauffer lentement",
+              "content": "Placez à feu doux et laissez chauffer graduellement sans remuer davantage."
+            },
+            {
+              "title": "Surveiller la mousse",
+              "content": "Quand la mousse commence à monter vers le bord, retirez du feu juste avant qu'elle ne déborde."
+            },
+            {
+              "title": "Laisser reposer et servir",
+              "content": "Versez un peu de mousse à la cuillère dans la tasse de service, remettez brièvement la cezve à feu doux, puis versez le reste dans la tasse et laissez la mouture se déposer avant de boire."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût faible",
+              "fix": "Utilisez un ratio plus fort — plus de café par rapport à l'eau."
+            },
+            {
+              "issue": "Goût amer ou brûlé",
+              "fix": "Utilisez une chaleur plus basse et retirez du feu dès que la mousse monte, avant qu'elle ne bouille fort."
+            },
+            {
+              "issue": "Texture granuleuse",
+              "fix": "Assurez-vous que la mouture est vraiment poudreuse, et laissez la mouture se déposer plus longtemps dans la tasse avant de boire."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Caffè turco (cezve)",
+        "definition": "Un metodo di preparazione non filtrato che usa caffè macinato estremamente fine fatto sobbollire direttamente in acqua in una piccola pentola dal manico lungo chiamata cezve, tradizionalmente servito con il fondo depositato sul fondo della tazza.",
+        "why": "È uno dei metodi di preparazione praticati continuativamente più antichi al mondo, e la sua natura non filtrata produce una tazza unicamente densa e forte, diversa da qualsiasi stile di preparazione filtrato.",
+        "tip": "Togli la cezve dal fuoco proprio quando la schiuma inizia a salire e prima che trabocchi, poi lasciala riposare brevemente prima di tornare a fuoco basso — questo preserva il prezioso strato di schiuma.",
+        "mistake": "Usare una macinatura non abbastanza fine — il caffè turco richiede una macinatura quasi da polvere, più fine dell'espresso, per ottenere la giusta consistenza ed evitare un eccesso di fondo granuloso.",
+        "challenge": "Perché un metodo senza alcun filtro potrebbe richiedere un controllo più preciso della dimensione di macinatura rispetto ai metodi filtrati?",
+        "recipe": {
+          "grind": "Extra-fine (simile a polvere)",
+          "steps": [
+            {
+              "title": "Combina gli ingredienti",
+              "content": "Aggiungi l'acqua fredda, il caffè macinato fine, e lo zucchero (se usato) nella cezve e mescola bene."
+            },
+            {
+              "title": "Riscalda lentamente",
+              "content": "Metti a fuoco basso e lascia riscaldare gradualmente senza mescolare ulteriormente."
+            },
+            {
+              "title": "Osserva la schiuma",
+              "content": "Quando la schiuma inizia a salire verso il bordo, togli dal fuoco appena prima che trabocchi."
+            },
+            {
+              "title": "Lascia depositare e servi",
+              "content": "Versa un po' di schiuma con un cucchiaio nella tazza di servizio, rimetti brevemente la cezve a fuoco basso, poi versa il resto nella tazza e lascia depositare il fondo prima di bere."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore debole",
+              "fix": "Usa un rapporto più forte — più caffè rispetto all'acqua."
+            },
+            {
+              "issue": "Sapore amaro o bruciato",
+              "fix": "Usa fuoco più basso e togli dal fornello appena la schiuma sale, prima che bolla forte."
+            },
+            {
+              "issue": "Texture granulosa",
+              "fix": "Assicurati che la macinatura sia veramente fine come polvere, e lascia depositare il fondo più a lungo nella tazza prima di bere."
+            }
+          ]
+        }
       }
     },
     "id": 242
@@ -2882,6 +3269,135 @@
             }
           ]
         }
+      },
+      "de": {
+        "title": "Espresso-Shot",
+        "definition": "Eine konzentrierte Brühmethode, die heißes Wasser unter hohem Druck durch einen verdichteten Puck aus sehr fein gemahlenem Kaffee presst und einen kleinen, intensiven Shot mit Crema obendrauf erzeugt.",
+        "why": "Espresso ist die Basis für fast jedes Milchgetränk im Café, und ihn richtig einzustellen (Mahlgrad, Dosis und Zeit zusammen) ist eine der technisch anspruchsvollsten Fertigkeiten in der Kaffeezubereitung.",
+        "tip": "Wenn ein Shot zu schnell läuft, feiner mahlen; wenn er zu langsam läuft, gröber mahlen — stelle zuerst den Mahlgrad ein, bevor du etwas anderes anpasst.",
+        "mistake": "Einer bestimmten Shot-Zeit nachzujagen, ohne den Geschmack zu prüfen — die Zahlen sind ein Ausgangsreferenzwert, nicht das eigentliche Ziel; der Geschmack sollte immer das letzte Wort haben.",
+        "challenge": "Warum könnten drei miteinander verbundene Variablen (Mahlgrad, Dosis und Zeit) Espresso schwerer einzustellen machen als die meisten anderen Brühmethoden?",
+        "recipe": {
+          "grind": "Sehr fein",
+          "steps": [
+            {
+              "title": "Dosieren und verteilen",
+              "content": "Mahle 18g Kaffee direkt in den Siebeinsatz und verteile ihn gleichmäßig, bevor du tamperst."
+            },
+            {
+              "title": "Tampern",
+              "content": "Tampere fest und eben, mit gleichmäßigem, konstantem Druck gerade nach unten."
+            },
+            {
+              "title": "Einrasten und Shot starten",
+              "content": "Raste den Siebträger in die Brühgruppe ein und starte den Shot sofort, um zu vermeiden, dass der Puck austrocknet."
+            },
+            {
+              "title": "Bis 36g ziehen",
+              "content": "Lass den Shot laufen, bis du 36g Flüssigkeit in der Tasse erreichst, mit einer angestrebten Gesamtzeit von etwa 25-32 Sekunden."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Shot läuft zu schnell, schmeckt sauer oder dünn",
+              "fix": "Feiner mahlen — das ist die mit Abstand häufigste Espresso-Korrektur."
+            },
+            {
+              "issue": "Shot läuft zu langsam, schmeckt bitter oder hart",
+              "fix": "Gröber mahlen."
+            },
+            {
+              "issue": "Extraktion sieht ungleichmäßig aus oder bildet Kanäle",
+              "fix": "Das Kaffeemehl vor dem Tampern gleichmäßiger verteilen und eben und gerade nach unten tampern."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Shot d'espresso",
+        "definition": "Une méthode d'infusion concentrée qui force de l'eau chaude à travers une galette compactée de café très finement moulu sous haute pression, produisant un shot petit et intense surmonté de crema.",
+        "why": "L'espresso est la base de presque toutes les boissons lactées de café, et bien le régler (mouture, dose et temps ensemble) est l'une des compétences les plus techniquement exigeantes de la préparation du café.",
+        "tip": "Si un shot coule trop vite, moulez plus fin ; s'il coule trop lentement, moulez plus grossier — réglez la taille de mouture avant d'ajuster autre chose.",
+        "mistake": "Poursuivre un temps de shot spécifique sans vérifier le goût — les chiffres sont une référence de départ, pas l'objectif réel ; le goût devrait toujours avoir le dernier mot.",
+        "challenge": "Pourquoi trois variables interconnectées (mouture, dose et temps) pourraient-elles rendre l'espresso plus difficile à régler que la plupart des autres méthodes d'infusion ?",
+        "recipe": {
+          "grind": "Très fine",
+          "steps": [
+            {
+              "title": "Doser et distribuer",
+              "content": "Moulez 18g de café directement dans le panier du porte-filtre et distribuez-le uniformément avant de tasser."
+            },
+            {
+              "title": "Tasser",
+              "content": "Tassez fermement et à niveau, en appliquant une pression uniforme et constante droit vers le bas."
+            },
+            {
+              "title": "Verrouiller et démarrer le shot",
+              "content": "Verrouillez le porte-filtre dans le groupe et démarrez le shot immédiatement pour éviter que la galette ne sèche."
+            },
+            {
+              "title": "Tirer jusqu'à 36g",
+              "content": "Laissez le shot couler jusqu'à atteindre 36g de liquide dans la tasse, en visant un temps total d'environ 25-32 secondes."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Le shot coule trop vite, goût acide ou fin",
+              "fix": "Moulez plus fin — c'est de loin la correction espresso la plus courante."
+            },
+            {
+              "issue": "Le shot coule trop lentement, goût amer ou dur",
+              "fix": "Moulez plus grossier."
+            },
+            {
+              "issue": "L'extraction semble inégale ou fait des canaux",
+              "fix": "Redistribuez la mouture plus uniformément avant de tasser, et tassez à niveau et droit vers le bas."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Shot di espresso",
+        "definition": "Un metodo di preparazione concentrato che spinge acqua calda attraverso un panetto compattato di caffè macinato molto fine sotto alta pressione, producendo uno shot piccolo e intenso coronato da crema.",
+        "why": "L'espresso è la base per quasi ogni bevanda al latte del bar, e regolarlo correttamente (macinatura, dose e tempo insieme) è una delle competenze più tecnicamente impegnative nella preparazione del caffè.",
+        "tip": "Se uno shot scorre troppo veloce, macina più fine; se scorre troppo lento, macina più grosso — regola la macinatura prima di modificare qualsiasi altra cosa.",
+        "mistake": "Inseguire un tempo di shot specifico senza controllare il sapore — i numeri sono un riferimento di partenza, non l'obiettivo reale; il sapore dovrebbe sempre avere l'ultima parola.",
+        "challenge": "Perché tre variabili interconnesse (macinatura, dose e tempo) potrebbero rendere l'espresso più difficile da regolare rispetto alla maggior parte degli altri metodi di preparazione?",
+        "recipe": {
+          "grind": "Molto fine",
+          "steps": [
+            {
+              "title": "Dosa e distribuisci",
+              "content": "Macina 18g di caffè direttamente nel filtro del portafiltro e distribuiscilo uniformemente prima di pressare."
+            },
+            {
+              "title": "Pressa",
+              "content": "Pressa con fermezza e a livello, applicando pressione uniforme e costante dritta verso il basso."
+            },
+            {
+              "title": "Aggancia e avvia lo shot",
+              "content": "Aggancia il portafiltro al gruppo erogatore e avvia lo shot immediatamente per evitare che il panetto si secchi."
+            },
+            {
+              "title": "Estrai fino a 36g",
+              "content": "Lascia scorrere lo shot finché non raggiungi 36g di liquido in tazza, puntando a un tempo totale di circa 25-32 secondi."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Lo shot scorre troppo veloce, sapore acido o sottile",
+              "fix": "Macina più fine — questa è di gran lunga la correzione più comune per l'espresso."
+            },
+            {
+              "issue": "Lo shot scorre troppo lento, sapore amaro o duro",
+              "fix": "Macina più grosso."
+            },
+            {
+              "issue": "L'estrazione appare irregolare o forma canali",
+              "fix": "Ridistribuisci il macinato più uniformemente prima di pressare, e pressa a livello e dritto verso il basso."
+            }
+          ]
+        }
       }
     },
     "id": 243
@@ -3086,6 +3602,135 @@
             {
               "issue": "Escoa muito devagar ao abrir",
               "fix": "Moa um pouco mais grosso."
+            }
+          ]
+        }
+      },
+      "de": {
+        "title": "Clever Dripper (Hybrid-Immersion)",
+        "definition": "Ein filterförmiges Brühgerät mit einem Ventil am Boden, das während des Ziehens geschlossen bleibt (was es zu einer Vollimmersionsbrühung wie French Press macht) und sich erst öffnet, sobald es auf eine Tasse gestellt wird, wodurch der Kaffee durch einen Papierfilter freigegeben wird.",
+        "why": "Es kombiniert den volleren Körper und die Einfachheit des Immersionsbrühens mit der saubereren Tasse, die ein Papierfilter bietet, was es zu einer der nachsichtigsten und anfängerfreundlichsten Methoden macht.",
+        "tip": "Da das Ventil alles in Kontakt hält, bis du bereit bist, ist das Timing hier weit nachsichtiger als bei Filterbrühmethoden, wo die Gießrate die Extraktion direkt beeinflusst.",
+        "mistake": "Den Ventilmechanismus zu vergessen und ihn genau wie einen V60 zu behandeln — der wahre Vorteil des Clever Dripper ist Immersion-dann-Filter, nicht Gießtechnik.",
+        "challenge": "Warum könnte die Kombination von Immersionsbrühen mit einem Papierfilter Schwächen sowohl von French Press als auch von Filterbrühen gleichzeitig beheben?",
+        "recipe": {
+          "grind": "Mittel",
+          "steps": [
+            {
+              "title": "Spülen und Kaffee hinzufügen",
+              "content": "Spüle den Papierfilter, füge das gemahlene Kaffeepulver hinzu und stelle den Dripper auf eine flache Oberfläche (nicht auf die Tasse), damit das Ventil geschlossen bleibt."
+            },
+            {
+              "title": "Das gesamte Wasser hinzufügen",
+              "content": "Gieße alle 320g Wasser auf einmal ein und rühre sanft, um gleichmäßig zu sättigen."
+            },
+            {
+              "title": "Ziehen lassen",
+              "content": "Lass es mit aufgesetztem Deckel ungestört ziehen."
+            },
+            {
+              "title": "Auf die Tasse stellen zum Ablaufen",
+              "content": "Stelle den Dripper auf deine Tasse, was das Ventil öffnet und den Kaffee durchfiltern lässt."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt schwach",
+              "fix": "Etwas länger ziehen lassen, bevor du ihn zum Ablaufen auf die Tasse stellst."
+            },
+            {
+              "issue": "Schmeckt bitter oder hart",
+              "fix": "Kürzer ziehen lassen oder etwas gröber mahlen."
+            },
+            {
+              "issue": "Läuft nach dem Öffnen zu langsam ab",
+              "fix": "Etwas gröber mahlen."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Clever Dripper (immersion hybride)",
+        "definition": "Un préparateur en forme de filtre manuel avec une valve au fond qui reste fermée pendant l'infusion (en faisant une infusion en immersion totale comme la cafetière à piston) et ne s'ouvre qu'une fois placé sur une tasse, laissant le café filtrer à travers un filtre en papier.",
+        "why": "Il combine le corps plus plein et la simplicité de l'infusion par immersion avec la tasse plus propre qu'offre un filtre en papier, en faisant l'une des méthodes les plus tolérantes et les plus adaptées aux débutants.",
+        "tip": "Comme la valve garde tout en contact jusqu'à ce que vous soyez prêt, le timing est bien plus tolérant ici que dans les méthodes de filtre manuel où le débit de versement affecte directement l'extraction.",
+        "mistake": "Oublier le mécanisme de valve et le traiter exactement comme un V60 — le véritable avantage du Clever Dripper est immersion-puis-filtre, pas la technique de versement.",
+        "challenge": "Pourquoi combiner l'infusion par immersion avec un filtre en papier pourrait-il résoudre les faiblesses de la cafetière à piston et du filtre manuel à la fois ?",
+        "recipe": {
+          "grind": "Moyenne",
+          "steps": [
+            {
+              "title": "Rincer et ajouter le café",
+              "content": "Rincez le filtre en papier, ajoutez le café moulu, et placez le dripper sur une surface plate (pas sur la tasse) pour que la valve reste fermée."
+            },
+            {
+              "title": "Ajouter toute l'eau",
+              "content": "Versez les 320g d'eau d'un coup et remuez doucement pour saturer uniformément."
+            },
+            {
+              "title": "Infuser",
+              "content": "Laissez infuser sans y toucher avec le couvercle mis."
+            },
+            {
+              "title": "Placer sur la tasse pour égoutter",
+              "content": "Placez le dripper sur votre tasse, ce qui ouvre la valve et laisse le café filtrer."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût faible",
+              "fix": "Laissez infuser un peu plus longtemps avant de le placer sur la tasse pour égoutter."
+            },
+            {
+              "issue": "Goût amer ou dur",
+              "fix": "Infusez moins longtemps, ou moulez légèrement plus grossier."
+            },
+            {
+              "issue": "S'égoutte trop lentement une fois ouvert",
+              "fix": "Moulez légèrement plus grossier."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Clever Dripper (immersione ibrida)",
+        "definition": "Un dispositivo a forma di filtro manuale con una valvola sul fondo che rimane chiusa durante l'infusione (rendendola un'infusione a immersione totale come la French press) e si apre solo una volta posizionato su una tazza, lasciando filtrare il caffè attraverso un filtro di carta.",
+        "why": "Combina il corpo più pieno e la semplicità della preparazione a immersione con la tazza più pulita che offre un filtro di carta, rendendolo uno dei metodi più tolleranti e adatti ai principianti.",
+        "tip": "Poiché la valvola mantiene tutto a contatto finché non sei pronto, la tempistica è molto più tollerante qui rispetto ai metodi a filtro manuale dove la velocità di versamento influisce direttamente sull'estrazione.",
+        "mistake": "Dimenticare il meccanismo della valvola e trattarlo esattamente come un V60 — il vero vantaggio del Clever Dripper è immersione-poi-filtro, non la tecnica di versamento.",
+        "challenge": "Perché combinare la preparazione a immersione con un filtro di carta potrebbe affrontare le debolezze sia della French press che del filtro manuale contemporaneamente?",
+        "recipe": {
+          "grind": "Media",
+          "steps": [
+            {
+              "title": "Risciacqua e aggiungi il caffè",
+              "content": "Risciacqua il filtro di carta, aggiungi il caffè macinato, e posiziona il dripper su una superficie piatta (non sulla tazza) così che la valvola rimanga chiusa."
+            },
+            {
+              "title": "Aggiungi tutta l'acqua",
+              "content": "Versa tutti i 320g di acqua in una volta e mescola delicatamente per saturare uniformemente."
+            },
+            {
+              "title": "Infondi",
+              "content": "Lascia in infusione senza disturbare con il coperchio messo."
+            },
+            {
+              "title": "Posiziona sulla tazza per drenare",
+              "content": "Posiziona il dripper sopra la tua tazza, il che apre la valvola e lascia filtrare il caffè."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore debole",
+              "fix": "Lascia in infusione un po' più a lungo prima di posizionarlo sulla tazza per drenare."
+            },
+            {
+              "issue": "Sapore amaro o duro",
+              "fix": "Infondi per meno tempo, o macina leggermente più grosso."
+            },
+            {
+              "issue": "Drena troppo lentamente una volta aperto",
+              "fix": "Macina leggermente più grosso."
             }
           ]
         }
@@ -3311,6 +3956,147 @@
             }
           ]
         }
+      },
+      "de": {
+        "title": "Umgekehrte AeroPress-Methode",
+        "definition": "Eine alternative AeroPress-Technik, bei der das Gerät für die Ziehphase umgekehrt zusammengesetzt wird, was ein längeres Vollimmersionsziehen ermöglicht, bevor es auf einen Filter umgedreht und gepresst wird.",
+        "why": "Sie gibt mehr Kontrolle über die Ziehzeit und vermeidet vorzeitiges Tropfen durch den Filter während des Ziehens, was manche Brauer als konsistenteres, vollmundigeres Ergebnis empfinden als bei der Standardmethode.",
+        "tip": "Halte die Filterkappe und deine Servier-Tasse in leichter Reichweite, bevor du umdrehst, da dieser Schritt schnell und sicher erfolgen muss, um das Verschütten von Kaffeemehl zu vermeiden.",
+        "mistake": "Die AeroPress zögerlich oder zu langsam umzudrehen — ein schnelles, sicheres Umdrehen minimiert das Risiko, dass die Kolbendichtung verrutscht oder Kaffee entweicht.",
+        "challenge": "Warum könnte das Brühen kopfüber vor dem Umdrehen mehr Kontrolle über die Ziehzeit geben als die Standard-aufrechte Methode?",
+        "recipe": {
+          "grind": "Mittelfein",
+          "steps": [
+            {
+              "title": "Umgekehrt zusammensetzen",
+              "content": "Setze den Kolben leicht in die Kammer ein und drehe die gesamte Einheit kopfüber, sodass sie auf dem Kolben ruht. Füge das gemahlene Kaffeepulver hinzu."
+            },
+            {
+              "title": "Wasser hinzufügen und rühren",
+              "content": "Gieße das Wasser ein, starte deinen Timer und rühre sanft für etwa 10 Sekunden."
+            },
+            {
+              "title": "Ziehen lassen",
+              "content": "Lass es ohne Kappe ungestört ziehen."
+            },
+            {
+              "title": "Filter anbringen und umdrehen",
+              "content": "Bringe die gespülte Filterkappe an, dann drehe die gesamte Einheit sicher auf deine Tasse."
+            },
+            {
+              "title": "Pressen",
+              "content": "Drücke langsam und gleichmäßig hinunter, bis du ein zischendes Geräusch hörst."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt schwach oder sauer",
+              "fix": "Feiner mahlen oder die Ziehzeit verlängern."
+            },
+            {
+              "issue": "Schmeckt bitter oder hart",
+              "fix": "Gröber mahlen oder sanfter pressen."
+            },
+            {
+              "issue": "Kaffee entweicht oder Dichtung bricht beim Umdrehen",
+              "fix": "Übe ein schnelles, sicheres Umdrehen und prüfe, ob die Kolbendichtung richtig sitzt, bevor du beginnst."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Méthode AeroPress inversée",
+        "definition": "Une technique AeroPress alternative où l'appareil est assemblé à l'envers pour l'étape d'infusion, permettant une infusion en immersion totale plus longue avant d'être retourné sur un filtre et pressé.",
+        "why": "Elle offre plus de contrôle sur le temps d'infusion et évite les premiers écoulements précoces à travers le filtre pendant l'infusion, ce que certains préparateurs trouvent produire un résultat plus constant et plus corsé que la méthode standard.",
+        "tip": "Ayez le capuchon du filtre et votre tasse de service à portée de main avant de retourner, puisque cette étape doit se faire rapidement et avec assurance pour éviter de renverser la mouture.",
+        "mistake": "Retourner l'AeroPress avec hésitation ou trop lentement — un retournement rapide et assuré minimise le risque que le joint du piston se déplace ou que le café s'échappe.",
+        "challenge": "Pourquoi infuser à l'envers avant de retourner pourrait-il offrir plus de contrôle sur le temps d'infusion que la méthode standard à l'endroit ?",
+        "recipe": {
+          "grind": "Moyenne-fine",
+          "steps": [
+            {
+              "title": "Assembler à l'envers",
+              "content": "Insérez légèrement le piston dans la chambre et retournez toute l'unité à l'envers, en la reposant sur le piston. Ajoutez le café moulu."
+            },
+            {
+              "title": "Ajouter l'eau et remuer",
+              "content": "Versez l'eau, démarrez votre minuteur, et remuez doucement pendant environ 10 secondes."
+            },
+            {
+              "title": "Infuser",
+              "content": "Laissez infuser sans y toucher avec le capuchon retiré."
+            },
+            {
+              "title": "Fixer le filtre et retourner",
+              "content": "Fixez le capuchon filtre rincé, puis retournez avec assurance tout l'ensemble sur votre tasse."
+            },
+            {
+              "title": "Presser",
+              "content": "Pressez lentement et régulièrement jusqu'à entendre un sifflement."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût faible ou acide",
+              "fix": "Moulez plus fin, ou prolongez le temps d'infusion."
+            },
+            {
+              "issue": "Goût amer ou dur",
+              "fix": "Moulez plus grossier, ou pressez plus doucement."
+            },
+            {
+              "issue": "Le café s'échappe ou le joint casse pendant le retournement",
+              "fix": "Entraînez-vous à un retournement rapide et assuré, et vérifiez que le joint du piston est bien en place avant de commencer."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Metodo AeroPress invertito",
+        "definition": "Una tecnica AeroPress alternativa in cui il dispositivo viene assemblato capovolto per la fase di infusione, permettendo un'infusione a immersione totale più lunga prima di essere ribaltato su un filtro e premuto.",
+        "why": "Offre più controllo sul tempo di infusione ed evita eventuali gocciolamenti precoci attraverso il filtro durante l'infusione, cosa che alcuni preparatori trovano produca un risultato più costante e corposo rispetto al metodo standard.",
+        "tip": "Tieni il tappo del filtro e la tua tazza di servizio a portata di mano prima di ribaltare, poiché questo passaggio deve avvenire rapidamente e con sicurezza per evitare di versare il macinato.",
+        "mistake": "Ribaltare l'AeroPress con esitazione o troppo lentamente — un ribaltamento rapido e sicuro minimizza il rischio che la tenuta dello stantuffo si sposti o che il caffè fuoriesca.",
+        "challenge": "Perché preparare a testa in giù prima di ribaltare potrebbe offrire più controllo sul tempo di infusione rispetto al metodo standard verticale?",
+        "recipe": {
+          "grind": "Medio-fine",
+          "steps": [
+            {
+              "title": "Assembla capovolto",
+              "content": "Inserisci leggermente lo stantuffo nella camera e capovolgi l'intera unità, appoggiandola sullo stantuffo. Aggiungi il caffè macinato."
+            },
+            {
+              "title": "Aggiungi l'acqua e mescola",
+              "content": "Versa l'acqua, avvia il timer, e mescola delicatamente per circa 10 secondi."
+            },
+            {
+              "title": "Infondi",
+              "content": "Lascia in infusione senza disturbare con il tappo rimosso."
+            },
+            {
+              "title": "Fissa il filtro e ribalta",
+              "content": "Fissa il tappo del filtro risciacquato, poi ribalta con sicurezza l'intero assemblaggio sulla tua tazza."
+            },
+            {
+              "title": "Premi",
+              "content": "Premi lentamente e costantemente finché non senti un sibilo."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore debole o acido",
+              "fix": "Macina più fine, o estendi il tempo di infusione."
+            },
+            {
+              "issue": "Sapore amaro o duro",
+              "fix": "Macina più grosso, o premi più delicatamente."
+            },
+            {
+              "issue": "Il caffè fuoriesce o la tenuta si rompe durante il ribaltamento",
+              "fix": "Esercitati in un ribaltamento rapido e sicuro, e controlla che la tenuta dello stantuffo sia posizionata correttamente prima di iniziare."
+            }
+          ]
+        }
       }
     },
     "id": 245
@@ -3530,6 +4316,147 @@
             {
               "issue": "Resultados inconsistentes entre as tigelas",
               "fix": "Confira se a dose e a quantidade de água foram idênticas em todas as tigelas antes de compará-las."
+            }
+          ]
+        }
+      },
+      "de": {
+        "title": "Cupping-Protokoll (SCA-Standard)",
+        "definition": "Eine standardisierte Kaffeebewertungsmethode, die in der gesamten Specialty-Branche verwendet wird — grob gemahlener Kaffee wird direkt in einer Tasse gezogen, die Kruste wird aufgebrochen und abgeschöpft, und die entstandene Brühung wird geschlürft und nach Aroma, Geschmack und anderen sensorischen Merkmalen bewertet.",
+        "why": "Cupping ist die branchenübliche Methode, um Kaffees objektiv nebeneinander zu vergleichen und zu bewerten, mithilfe einer konsistenten Methode, die die meisten Variablen entfernt, die eine normale Brühmethode einführen würde.",
+        "tip": "Schlürfe kräftig statt normal zu schlucken — das aggressive Schlürfen belüftet den Kaffee und verteilt ihn über den gesamten Gaumen, was für eine genaue Geschmacksbeurteilung essenziell ist.",
+        "mistake": "Nur eine Probe nach der anderen zu cuppen, statt mehrere nebeneinander — der gesamte Wert des Cuppings kommt vom direkten Vergleich, nicht von der isolierten Bewertung eines einzelnen Kaffees.",
+        "challenge": "Warum müsste eine für den Vergleich konzipierte Methode so streng standardisiert sein, bis hin zu exakten Verhältnissen und Zeiten?",
+        "recipe": {
+          "grind": "Mittelgrob (etwas gröber als Filterkaffee)",
+          "steps": [
+            {
+              "title": "Das trockene Kaffeemehl riechen",
+              "content": "Gib das gemahlene Kaffeepulver in die Cupping-Schale und rieche das trockene Aroma, bevor du Wasser hinzufügst."
+            },
+            {
+              "title": "Gießen und Timer starten",
+              "content": "Gieße das heiße Wasser direkt über das Kaffeemehl, sättige es vollständig, und starte einen 4-Minuten-Timer."
+            },
+            {
+              "title": "Die nasse Kruste riechen",
+              "content": "Eine Kruste aus Kaffeemehl wird sich oben bilden. Beuge dich hinein und rieche sie, bevor du sie aufbrichst."
+            },
+            {
+              "title": "Die Kruste aufbrechen",
+              "content": "Brich die Kruste mit einem Löffel auf, rühre dreimal sanft um, während du das freigesetzte Aroma riechst, dann schöpfe den Schaum und schwimmendes Kaffeemehl ab."
+            },
+            {
+              "title": "Abkühlen lassen, dann schlürfen und bewerten",
+              "content": "Lass den Kaffee einige Minuten abkühlen, dann schlürfe laut von einem Löffel, um ihn über deinen Gaumen zu belüften, und bewerte, während er durch verschiedene Temperaturen abkühlt."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schwer, Geschmacksnoten zu unterscheiden",
+              "fix": "Lass den Kaffee zwischen den Schlürfern mehr abkühlen — verschiedene Noten zeigen sich bei verschiedenen Temperaturen."
+            },
+            {
+              "issue": "Überwältigende Bitterkeit beim ersten Geschmack",
+              "fix": "Das ist zu erwarten, solange er sehr heiß ist — bewerte neu, während der Kaffee abkühlt, statt nur nach dem ersten Schlürfen zu urteilen."
+            },
+            {
+              "issue": "Inkonsistente Ergebnisse über Schalen hinweg",
+              "fix": "Überprüfe doppelt, dass Dosis und Wassermenge in jeder Schale identisch waren, bevor du sie vergleichst."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Protocole de cupping (norme SCA)",
+        "definition": "Une méthode d'évaluation du café standardisée utilisée dans toute l'industrie de spécialité — du café grossièrement moulu est infusé directement dans une tasse, la croûte est cassée et écumée, et l'infusion résultante est aspirée bruyamment et notée pour l'arôme, la saveur et d'autres attributs sensoriels.",
+        "why": "Le cupping est la méthode standard de l'industrie pour comparer et évaluer objectivement des cafés côte à côte, en utilisant une méthode constante qui élimine la plupart des variables qu'une méthode d'infusion normale introduirait.",
+        "tip": "Aspirez bruyamment plutôt que de siroter normalement — l'aspiration vigoureuse aère le café et le répartit sur tout le palais, ce qui est essentiel pour juger précisément la saveur.",
+        "mistake": "Cupper un seul échantillon à la fois plutôt que plusieurs côte à côte — toute la valeur du cupping vient de la comparaison directe, pas de l'évaluation isolée d'un seul café.",
+        "challenge": "Pourquoi une méthode conçue pour la comparaison pourrait-elle avoir besoin d'être si rigidement standardisée, jusqu'aux ratios exacts et au timing ?",
+        "recipe": {
+          "grind": "Moyenne-grossière (légèrement plus grossière que le filtre)",
+          "steps": [
+            {
+              "title": "Sentir la mouture sèche",
+              "content": "Placez le café moulu dans le bol de cupping et sentez l'arôme sec avant d'ajouter de l'eau."
+            },
+            {
+              "title": "Verser et démarrer le minuteur",
+              "content": "Versez l'eau chaude directement sur la mouture, en la saturant complètement, et démarrez un minuteur de 4 minutes."
+            },
+            {
+              "title": "Sentir la croûte humide",
+              "content": "Une croûte de mouture se formera sur le dessus. Penchez-vous et sentez-la avant de la casser."
+            },
+            {
+              "title": "Casser la croûte",
+              "content": "Cassez la croûte avec une cuillère, en remuant doucement trois fois tout en sentant l'arôme qui se libère, puis écumez la mousse et la mouture flottante."
+            },
+            {
+              "title": "Laisser refroidir, puis aspirer et noter",
+              "content": "Laissez le café refroidir quelques minutes, puis aspirez bruyamment à la cuillère pour l'aérer sur votre palais, en évaluant et notant pendant qu'il refroidit à différentes températures."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Difficile de distinguer les notes de saveur",
+              "fix": "Laissez le café refroidir davantage entre les aspirations — différentes notes se révèlent à différentes températures."
+            },
+            {
+              "issue": "Amertume écrasante à la première dégustation",
+              "fix": "C'est attendu tant que c'est très chaud — réévaluez à mesure que le café refroidit plutôt que de juger sur la première aspiration seule."
+            },
+            {
+              "issue": "Résultats incohérents entre les bols",
+              "fix": "Revérifiez que la dose et la quantité d'eau étaient identiques dans chaque bol avant de les comparer."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Protocollo di cupping (standard SCA)",
+        "definition": "Un metodo standardizzato di valutazione del caffè usato in tutta l'industria specialty — il caffè macinato grosso viene infuso direttamente in una tazza, la crosta viene rotta e scremata, e l'infusione risultante viene sorseggiata rumorosamente e valutata per aroma, sapore e altri attributi sensoriali.",
+        "why": "Il cupping è il metodo standard del settore per confrontare e valutare oggettivamente i caffè fianco a fianco, usando un metodo costante che elimina la maggior parte delle variabili che un normale metodo di preparazione introdurrebbe.",
+        "tip": "Sorseggia con forza invece di bere normalmente — il sorseggio aggressivo aera il caffè e lo distribuisce su tutto il palato, il che è essenziale per giudicare accuratamente il sapore.",
+        "mistake": "Fare cupping di un solo campione alla volta invece che di più fianco a fianco — l'intero valore del cupping deriva dal confronto diretto, non dalla valutazione isolata di un singolo caffè.",
+        "challenge": "Perché un metodo progettato per il confronto potrebbe dover essere così rigidamente standardizzato, fino ai rapporti esatti e alla tempistica?",
+        "recipe": {
+          "grind": "Medio-grossa (leggermente più grossa del filtro)",
+          "steps": [
+            {
+              "title": "Annusa il macinato secco",
+              "content": "Metti il caffè macinato nella ciotola da cupping e annusa l'aroma secco prima di aggiungere acqua."
+            },
+            {
+              "title": "Versa e avvia il timer",
+              "content": "Versa l'acqua calda direttamente sul macinato, saturandolo completamente, e avvia un timer di 4 minuti."
+            },
+            {
+              "title": "Annusa la crosta bagnata",
+              "content": "Si formerà una crosta di macinato sopra. Avvicinati e annusala prima di romperla."
+            },
+            {
+              "title": "Rompi la crosta",
+              "content": "Rompi la crosta con un cucchiaio, mescolando delicatamente tre volte mentre annusi l'aroma che si rilascia, poi screma la schiuma e il macinato galleggiante."
+            },
+            {
+              "title": "Lascia raffreddare, poi sorseggia e valuta",
+              "content": "Lascia raffreddare il caffè per alcuni minuti, poi sorseggia rumorosamente da un cucchiaio per aerarlo su tutto il palato, valutando mentre si raffredda attraverso diverse temperature."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Difficile distinguere le note di sapore",
+              "fix": "Lascia raffreddare di più il caffè tra un sorseggio e l'altro — note diverse si rivelano a temperature diverse."
+            },
+            {
+              "issue": "Amarezza travolgente al primo assaggio",
+              "fix": "È previsto finché è molto caldo — rivaluta man mano che il caffè si raffredda invece di giudicare solo dal primo sorseggio."
+            },
+            {
+              "issue": "Risultati incoerenti tra le ciotole",
+              "fix": "Ricontrolla che dose e quantità d'acqua fossero identiche in ogni ciotola prima di confrontarle."
             }
           ]
         }
