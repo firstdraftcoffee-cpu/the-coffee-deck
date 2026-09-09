@@ -31,6 +31,30 @@
         "tip": "Espere uma planta alta e de baixo rendimento; a Typica troca produtividade por uma qualidade de xícara limpa, doce e confiável.",
         "mistake": "Supor que uma variedade 'original' deve ter sabor mais autêntico ou superior às modernas.",
         "challenge": "Por que os produtores continuariam cultivando uma variedade de baixo rendimento como a Typica em vez de mudar totalmente para híbridos mais produtivos?"
+      },
+      "de": {
+        "title": "Typica",
+        "definition": "Eine der beiden grundlegenden Kaffeesorten, von der angenommen wird, dass sie der ursprüngliche Stamm ist, der aus Äthiopien und dem Jemen in den weltweiten Anbau gebracht wurde.",
+        "why": "Fast jede heute angebaute Arabica-Sorte lässt sich auf Typica oder Bourbon zurückführen, was sie zu einem genetischen Ausgangspunkt für die gesamte Branche macht.",
+        "tip": "Erwarte eine hohe, ertragsarme Pflanze — Typica tauscht Produktivität gegen zuverlässig saubere, süße Tassenqualität.",
+        "mistake": "Anzunehmen, eine 'ursprüngliche' Sorte müsse authentischer oder besser schmecken als moderne Sorten.",
+        "challenge": "Warum würden Farmer weiterhin eine ertragsarme Sorte wie Typica anbauen, statt komplett auf ertragreichere Hybride umzusteigen?"
+      },
+      "fr": {
+        "title": "Typica",
+        "definition": "L'une des deux variétés fondatrices du café, considérée comme la souche originale qui a quitté l'Éthiopie et le Yémen pour être cultivée dans le monde entier.",
+        "why": "Presque toutes les variétés d'arabica cultivées aujourd'hui remontent à Typica ou Bourbon, en faisant un point de départ génétique pour toute l'industrie.",
+        "tip": "Attendez-vous à une plante haute et peu productive — Typica échange la productivité contre une qualité en tasse fiable, propre et sucrée.",
+        "mistake": "Supposer qu'une variété « originale » doit forcément avoir un goût plus authentique ou supérieur aux variétés modernes.",
+        "challenge": "Pourquoi les producteurs continueraient-ils à cultiver une variété à faible rendement comme Typica plutôt que de passer entièrement à des hybrides plus productifs ?"
+      },
+      "it": {
+        "title": "Typica",
+        "definition": "Una delle due varietà fondamentali del caffè, ritenuta il ceppo originale portato fuori da Etiopia e Yemen verso la coltivazione mondiale.",
+        "why": "Quasi ogni varietà di arabica coltivata oggi risale a Typica o Bourbon, rendendola un punto di partenza genetico per l'intero settore.",
+        "tip": "Aspettati una pianta alta e a bassa resa — Typica scambia produttività per una qualità in tazza affidabilmente pulita e dolce.",
+        "mistake": "Supporre che una varietà 'originale' debba avere un sapore più autentico o superiore rispetto a quelle moderne.",
+        "challenge": "Perché i coltivatori continuerebbero a coltivare una varietà a bassa resa come Typica invece di passare completamente a ibridi più produttivi?"
       }
     },
     "photo_unverified": true
@@ -67,6 +91,30 @@
         "tip": "Procure as subvariedades Bourbon vermelho e amarelo; a cor se refere à cor da cereja madura, não à do grão.",
         "mistake": "Tratar 'Bourbon' como uma única variedade uniforme em vez de uma família com várias mutações naturais.",
         "challenge": "Como uma mutação natural em uma única ilha acabou moldando variedades de café em quase todos os continentes?"
+      },
+      "de": {
+        "title": "Bourbon",
+        "definition": "Eine natürliche Mutation von Typica, entdeckt auf der Insel Bourbon (heute Réunion), bekannt für rundere Kirschen und oft eine süßere, komplexere Tasse.",
+        "why": "Bourbon und Typica bilden zusammen die genetische Wurzel der meisten heute angebauten Specialty-Kaffees.",
+        "tip": "Achte auf rote und gelbe Bourbon-Untervarianten — die Farbe bezieht sich auf die reife Kirschfarbe, nicht auf die Bohnenfarbe.",
+        "mistake": "'Bourbon' als eine einzige einheitliche Sorte zu behandeln statt als Familie mit mehreren natürlichen Untermutationen.",
+        "challenge": "Wie konnte eine natürliche Mutation auf einer Insel Kaffeesorten auf fast jedem Kontinent prägen?"
+      },
+      "fr": {
+        "title": "Bourbon",
+        "definition": "Une mutation naturelle de Typica découverte sur l'île Bourbon (aujourd'hui La Réunion), connue pour des cerises plus rondes et une tasse souvent plus douce et complexe.",
+        "why": "Bourbon et Typica forment ensemble la racine génétique de la plupart des cafés de spécialité cultivés aujourd'hui.",
+        "tip": "Recherchez les sous-variantes Bourbon rouge et jaune — la couleur fait référence à la couleur de la cerise mûre, pas à celle du grain.",
+        "mistake": "Traiter « Bourbon » comme une variété unique et uniforme plutôt que comme une famille avec plusieurs sous-mutations naturelles.",
+        "challenge": "Comment une mutation naturelle sur une seule île a-t-elle fini par façonner des variétés de café sur presque tous les continents ?"
+      },
+      "it": {
+        "title": "Bourbon",
+        "definition": "Una mutazione naturale di Typica scoperta sull'Isola Bourbon (oggi Réunion), nota per ciliegie più rotonde e una tazza spesso più dolce e complessa.",
+        "why": "Bourbon e Typica formano insieme la radice genetica della maggior parte dei caffè specialty coltivati oggi.",
+        "tip": "Cerca le sottovarianti Bourbon rosso e giallo — il colore si riferisce al colore della ciliegia matura, non a quello del chicco.",
+        "mistake": "Trattare 'Bourbon' come un'unica varietà uniforme invece che come una famiglia con diverse sottomutazioni naturali.",
+        "challenge": "Come ha fatto una mutazione naturale su un'isola a finire per plasmare varietà di caffè in quasi ogni continente?"
       }
     },
     "photo_unverified": true
@@ -103,6 +151,30 @@
         "tip": "Espere uma xícara mais brilhante e ácida do que a Bourbon, geralmente com menos corpo.",
         "mistake": "Supor que uma planta compacta significa automaticamente menor qualidade; a Caturra pode render xícaras excepcionais com bons cuidados.",
         "challenge": "Por que a altura da planta importa tanto para quantas árvores podem ser plantadas por hectare?"
+      },
+      "de": {
+        "title": "Caturra",
+        "definition": "Eine natürliche Zwergmutation von Bourbon, entdeckt in Brasilien, mit einer kompakten Pflanze, die viel dichtere Bepflanzung und höhere Erträge ermöglicht.",
+        "why": "Ihre geringe Wuchshöhe machte moderne, hochdichte Kaffeelandwirtschaft wirtschaftlich tragfähig, wie es hohe Bourbon- und Typica-Pflanzen nicht konnten.",
+        "tip": "Erwarte eine hellere, säurebetontere Tasse als Bourbon, im Allgemeinen mit weniger Körper.",
+        "mistake": "Anzunehmen, eine kompakte Pflanze bedeute automatisch geringere Qualität — Caturra kann bei guter Pflege außergewöhnlich gut schmecken.",
+        "challenge": "Warum ist die Pflanzenhöhe so entscheidend dafür, wie viele Bäume pro Hektar gepflanzt werden können?"
+      },
+      "fr": {
+        "title": "Caturra",
+        "definition": "Une mutation naine naturelle de Bourbon découverte au Brésil, dont la plante compacte permet une plantation bien plus dense et des rendements plus élevés.",
+        "why": "Sa petite taille a rendu économiquement viable l'agriculture caféière moderne à haute densité, d'une façon que les grandes plantes Bourbon et Typica ne pouvaient pas soutenir.",
+        "tip": "Attendez-vous à une tasse plus vive et plus acide que Bourbon, généralement avec moins de corps.",
+        "mistake": "Supposer qu'une plante compacte signifie automatiquement une qualité inférieure — Caturra peut donner une tasse exceptionnelle avec de bons soins.",
+        "challenge": "Pourquoi la hauteur de la plante compte-t-elle autant pour le nombre d'arbres pouvant être plantés par hectare ?"
+      },
+      "it": {
+        "title": "Caturra",
+        "definition": "Una mutazione nana naturale di Bourbon scoperta in Brasile, con una pianta compatta che permette una piantagione molto più densa e rese più elevate.",
+        "why": "La sua altezza ridotta ha reso economicamente sostenibile la moderna coltivazione del caffè ad alta densità, in un modo che le alte piante Bourbon e Typica non potevano permettere.",
+        "tip": "Aspettati una tazza più brillante e acida rispetto a Bourbon, generalmente con meno corpo.",
+        "mistake": "Supporre che una pianta compatta significhi automaticamente qualità inferiore — Caturra può dare risultati eccezionali in tazza se ben curata.",
+        "challenge": "Perché l'altezza della pianta è così importante per quanti alberi si possono piantare per ettaro?"
       }
     },
     "photo_unverified": true
@@ -139,6 +211,30 @@
         "tip": "A Catuaí costuma ser escolhida especificamente por sua resistência, não principalmente por uma assinatura de sabor distinta.",
         "mistake": "Esperar que toda variedade híbrida tenha sido criada puramente pela qualidade da xícara; muitas são criadas primeiro pela praticidade agrícola.",
         "challenge": "Que concessões um produtor poderia aceitar em troca de uma planta mais resistente ao vento?"
+      },
+      "de": {
+        "title": "Catuai",
+        "definition": "Ein gezielter Hybrid aus Caturra und Mundo Novo, in Brasilien für eine robuste Pflanze gezüchtet, die Wind und Regen gut standhält.",
+        "why": "Er kombiniert Caturras kompakten Ertragsvorteil mit einer widerstandsfähigeren Struktur, die für raueres Anbauklima geeignet ist.",
+        "tip": "Catuai wird oft speziell wegen seiner Widerstandsfähigkeit gewählt, nicht primär wegen einer unverwechselbaren Geschmackssignatur.",
+        "mistake": "Zu erwarten, dass jede Hybridsorte rein für Tassenqualität gezüchtet wurde — viele werden zuerst für landwirtschaftliche Praktikabilität gezüchtet.",
+        "challenge": "Welche Kompromisse könnte ein Farmer im Austausch für eine widerstandsfähigere, windresistentere Pflanze akzeptieren?"
+      },
+      "fr": {
+        "title": "Catuai",
+        "definition": "Un hybride délibéré de Caturra et Mundo Novo, élevé au Brésil pour obtenir une plante robuste résistant bien au vent et à la pluie.",
+        "why": "Il combine l'avantage de rendement compact de Caturra avec une structure plus résistante adaptée à des conditions de culture plus rudes.",
+        "tip": "Catuai est souvent choisi spécifiquement pour sa résilience, pas principalement pour une signature aromatique distinctive.",
+        "mistake": "S'attendre à ce que chaque variété hybride ait été élevée uniquement pour la qualité en tasse — beaucoup sont d'abord élevées pour leur praticité agricole.",
+        "challenge": "Quels compromis un producteur pourrait-il accepter en échange d'une plante plus résistante au vent ?"
+      },
+      "it": {
+        "title": "Catuai",
+        "definition": "Un ibrido deliberato di Caturra e Mundo Novo, selezionato in Brasile per ottenere una pianta robusta che resiste bene a vento e pioggia.",
+        "why": "Combina il vantaggio di resa compatta di Caturra con una struttura più resistente adatta a condizioni di coltivazione più difficili.",
+        "tip": "Catuai viene spesso scelto specificamente per la sua resilienza, non principalmente per una firma aromatica distintiva.",
+        "mistake": "Aspettarsi che ogni varietà ibrida sia stata selezionata puramente per la qualità in tazza — molte vengono selezionate prima per praticità agricola.",
+        "challenge": "Quali compromessi potrebbe accettare un coltivatore in cambio di una pianta più resistente al vento?"
       }
     },
     "photo_unverified": true
@@ -175,6 +271,30 @@
         "tip": "A SL28 tende a uma acidez mais profunda e vinosa; a SL34 costuma render melhor em altitudes maiores com chuvas mais intensas.",
         "mistake": "Supor que SL28 e SL34 são intercambiáveis só por compartilharem origem queniana e uma convenção de nomes.",
         "challenge": "Por que selecionar deliberadamente pela tolerância à seca acabaria também moldando o perfil de sabor de uma variedade?"
+      },
+      "de": {
+        "title": "SL28 und SL34",
+        "definition": "Zwei Sorten, die in den 1930er-40er Jahren in Kenia von den Scott Agricultural Laboratories auf Dürretoleranz und Krankheitsresistenz selektiert wurden, heute berühmt für intensive, schwarze-Johannisbeere-artige Säure.",
+        "why": "Sie sind ein großer Grund dafür, warum kenianischer Kaffee eine so unverwechselbare, sofort erkennbare Geschmackssignatur hat.",
+        "tip": "SL28 tendiert zu tieferer, weinartiger Säure; SL34 performt oft besser in höheren Lagen mit stärkerem Niederschlag.",
+        "mistake": "Anzunehmen, SL28 und SL34 seien austauschbar, nur weil sie kenianischen Ursprung und eine Namenskonvention teilen.",
+        "challenge": "Warum würde gezielte Selektion auf Dürretoleranz am Ende auch das Geschmacksprofil einer Sorte prägen?"
+      },
+      "fr": {
+        "title": "SL28 et SL34",
+        "definition": "Deux variétés sélectionnées au Kenya dans les années 1930-40 par les Scott Agricultural Laboratories pour leur tolérance à la sécheresse et leur résistance aux maladies, aujourd'hui célèbres pour une acidité intense rappelant le cassis.",
+        "why": "Elles expliquent en grande partie pourquoi le café kényan possède une signature gustative aussi distinctive et immédiatement reconnaissable.",
+        "tip": "SL28 tend vers une acidité plus profonde et vineuse ; SL34 performe souvent mieux en altitude avec des précipitations plus abondantes.",
+        "mistake": "Supposer que SL28 et SL34 sont interchangeables simplement parce qu'elles partagent une origine kényane et une convention de nommage.",
+        "challenge": "Pourquoi le fait de sélectionner délibérément pour la tolérance à la sécheresse finirait-il aussi par façonner le profil aromatique d'une variété ?"
+      },
+      "it": {
+        "title": "SL28 e SL34",
+        "definition": "Due varietà selezionate in Kenya negli anni '30-'40 dagli Scott Agricultural Laboratories per tolleranza alla siccità e resistenza alle malattie, oggi famose per un'intensa acidità simile al ribes nero.",
+        "why": "Sono una grande parte del motivo per cui il caffè keniota ha una firma di sapore così distintiva e immediatamente riconoscibile.",
+        "tip": "SL28 tende verso un'acidità più profonda e vinosa; SL34 spesso si comporta meglio ad altitudini più elevate con piogge più abbondanti.",
+        "mistake": "Supporre che SL28 e SL34 siano intercambiabili solo perché condividono origine keniota e convenzione di denominazione.",
+        "challenge": "Perché selezionare deliberatamente per la tolleranza alla siccità finirebbe anche per plasmare il profilo di sapore di una varietà?"
       }
     },
     "photo_unverified": true
@@ -211,6 +331,30 @@
         "tip": "Os rendimentos costumam ser baixos e a planta é delicada; parte do motivo pelo qual a Gesha alcança preços tão altos.",
         "mistake": "Supor que todo café rotulado como Gesha entregará a mesma intensidade; as condições de cultivo importam enormemente para essa variedade.",
         "challenge": "Por que a mesma variedade poderia produzir uma xícara lendária no Panamá, mas apenas mediana em outro lugar?"
+      },
+      "de": {
+        "title": "Gesha (Geisha)",
+        "definition": "Eine ursprünglich aus Äthiopien stammende Sorte, die weltberühmt wurde, nachdem ein panamaisches Los 2004 Best of Panama gewann, geschätzt für intensiven Jasmin-, Bergamotte- und tropischen Fruchtcharakter.",
+        "why": "Sie definierte neu, wie viel Käufer für außergewöhnlichen Kaffee zu zahlen bereit waren, und brachte einen einzigen Sortennamen auf Speisekarten weltweit.",
+        "tip": "Die Erträge sind typischerweise niedrig und die Pflanze ist empfindlich — mit ein Grund, warum Gesha so hohe Preise erzielt.",
+        "mistake": "Anzunehmen, jeder als Gesha gekennzeichnete Kaffee liefere die gleiche Intensität — Anbaubedingungen spielen bei dieser Sorte eine enorme Rolle.",
+        "challenge": "Warum könnte dieselbe Sorte in Panama eine legendäre Tasse ergeben, anderswo aber nur eine durchschnittliche?"
+      },
+      "fr": {
+        "title": "Gesha (Geisha)",
+        "definition": "Une variété originaire d'Éthiopie devenue célèbre mondialement après qu'un lot panaméen a remporté Best of Panama en 2004, appréciée pour son caractère intense de jasmin, bergamote et fruits tropicaux.",
+        "why": "Elle a redéfini le prix que les acheteurs étaient prêts à payer pour un café exceptionnel et a placé le nom d'une seule variété sur les cartes du monde entier.",
+        "tip": "Les rendements sont généralement faibles et la plante est délicate — ce qui explique en partie pourquoi Gesha atteint des prix aussi élevés.",
+        "mistake": "Supposer que tout café étiqueté Gesha offrira la même intensité — les conditions de culture comptent énormément pour cette variété.",
+        "challenge": "Pourquoi la même variété pourrait-elle produire une tasse légendaire au Panama mais seulement moyenne ailleurs ?"
+      },
+      "it": {
+        "title": "Gesha (Geisha)",
+        "definition": "Una varietà originaria dell'Etiopia diventata famosa in tutto il mondo dopo che un lotto panamense ha vinto il Best of Panama nel 2004, apprezzata per l'intenso carattere di gelsomino, bergamotto e frutta tropicale.",
+        "why": "Ha ridefinito quanto gli acquirenti fossero disposti a pagare per un caffè eccezionale e ha messo il nome di una singola varietà sui menu di tutto il mondo.",
+        "tip": "Le rese sono tipicamente basse e la pianta è delicata — in parte il motivo per cui Gesha raggiunge prezzi così alti.",
+        "mistake": "Supporre che ogni caffè etichettato Gesha offra la stessa intensità — le condizioni di coltivazione contano enormemente per questa varietà.",
+        "challenge": "Perché la stessa varietà potrebbe produrre una tazza leggendaria a Panama ma solo una media altrove?"
       }
     },
     "photo_unverified": true,
@@ -248,6 +392,30 @@
         "tip": "Seu grande tamanho de grão afeta a torra; calibre os perfis de torra separadamente em vez de supor que os tempos padrão se aplicam.",
         "mistake": "Supor que grãos maiores significam automaticamente melhor sabor; tamanho e qualidade de xícara são selecionados separadamente.",
         "challenge": "Que ajustes de torra um tamanho de grão incomumente grande poderia exigir?"
+      },
+      "de": {
+        "title": "Pacamara",
+        "definition": "Ein gezielter Hybrid aus Pacas und Maragogype, in El Salvador für ungewöhnlich große Bohnengröße bei gleichzeitig starker Tassenqualität gezüchtet.",
+        "why": "Es ist ein gutes Beispiel für Züchtung, die gezielt sowohl auf Bohnengröße als auch Tassenqualität abzielt, nicht nur auf Ertrag oder Widerstandsfähigkeit.",
+        "tip": "Die große Bohnengröße beeinflusst die Röstung — stelle Röstprofile separat ein, statt anzunehmen, Standardzeiten würden gelten.",
+        "mistake": "Anzunehmen, größere Bohnen bedeuten automatisch besseren Geschmack — Größe und Tassenqualität werden separat gezüchtet.",
+        "challenge": "Welche Röstanpassungen könnte eine ungewöhnlich große Bohnengröße erfordern?"
+      },
+      "fr": {
+        "title": "Pacamara",
+        "definition": "Un hybride délibéré de Pacas et Maragogype, élevé au Salvador pour une taille de grain inhabituellement grande associée à une forte qualité en tasse.",
+        "why": "C'est un bon exemple de sélection visant spécifiquement la taille du grain et la qualité en tasse ensemble, pas seulement le rendement ou la résistance.",
+        "tip": "Sa grande taille de grain affecte la torréfaction — ajustez les profils de torréfaction séparément plutôt que de supposer qu'un minutage standard s'applique.",
+        "mistake": "Supposer que des grains plus gros signifient automatiquement un meilleur goût — la taille et la qualité en tasse sont sélectionnées séparément.",
+        "challenge": "Quels ajustements de torréfaction une taille de grain inhabituellement grande pourrait-elle exiger ?"
+      },
+      "it": {
+        "title": "Pacamara",
+        "definition": "Un ibrido deliberato di Pacas e Maragogype, selezionato in El Salvador per una dimensione del chicco insolitamente grande insieme a una forte qualità in tazza.",
+        "why": "È un buon esempio di selezione mirata specificamente sia alla dimensione del chicco sia alla qualità in tazza insieme, non solo a resa o resistenza.",
+        "tip": "La sua grande dimensione del chicco influisce sulla tostatura — imposta i profili di tostatura separatamente invece di supporre che valgano i tempi standard.",
+        "mistake": "Supporre che chicchi più grandi significhino automaticamente un sapore migliore — dimensione e qualità in tazza vengono selezionate separatamente.",
+        "challenge": "Quali aggiustamenti di tostatura potrebbe richiedere una dimensione del chicco insolitamente grande?"
       }
     },
     "photo_unverified": true
@@ -284,6 +452,30 @@
         "tip": "Não suponha que resistência a doenças significa sacrifício de sabor; programas modernos de melhoramento também selecionam ativamente pela qualidade da xícara.",
         "mistake": "Descartar híbridos resistentes à ferrugem como automaticamente de menor qualidade do que variedades tradicionais como Typica ou Bourbon.",
         "challenge": "Por que a sobrevivência econômica de uma fazenda pode agora depender mais da resistência a doenças do que de buscar a maior pontuação de xícara possível?"
+      },
+      "de": {
+        "title": "Castillo",
+        "definition": "Ein kolumbianisch gezüchteter Hybrid, entwickelt, um Kaffeerost zu widerstehen und dabei wettbewerbsfähigen Ertrag und Tassenqualität zu erhalten, geschaffen, um das krankheitsanfällige Caturra zu ersetzen.",
+        "why": "Kaffeerost-Epidemien haben ganze Ernten in Lateinamerika verwüstet — krankheitsresistente Hybride wie Castillo sind heute für das Überleben vieler Farmen essenziell.",
+        "tip": "Nimm nicht an, Krankheitsresistenz bedeute einen Geschmackskompromiss — moderne Zuchtprogramme selektieren aktiv auch auf Tassenqualität.",
+        "mistake": "Rostresistente Hybride pauschal als automatisch minderwertiger gegenüber traditionellen Sorten wie Typica oder Bourbon abzutun.",
+        "challenge": "Warum könnte das wirtschaftliche Überleben einer Farm heute mehr von Krankheitsresistenz abhängen als vom Jagen der höchstmöglichen Tassenbewertung?"
+      },
+      "fr": {
+        "title": "Castillo",
+        "definition": "Un hybride élevé en Colombie, développé pour résister à la rouille du caféier tout en maintenant un rendement et une qualité en tasse compétitifs, créé pour remplacer le Caturra vulnérable aux maladies.",
+        "why": "Les épidémies de rouille ont dévasté des récoltes entières en Amérique latine — les hybrides résistants aux maladies comme Castillo sont désormais essentiels à la survie de nombreuses fermes.",
+        "tip": "Ne supposez pas que la résistance aux maladies signifie un compromis sur le goût — les programmes de sélection modernes ciblent aussi activement la qualité en tasse.",
+        "mistake": "Rejeter les hybrides résistants à la rouille comme automatiquement de moindre qualité que les variétés patrimoniales comme Typica ou Bourbon.",
+        "challenge": "Pourquoi la survie économique d'une ferme pourrait-elle désormais dépendre davantage de la résistance aux maladies que de la recherche du meilleur score en tasse possible ?"
+      },
+      "it": {
+        "title": "Castillo",
+        "definition": "Un ibrido selezionato in Colombia, sviluppato per resistere alla ruggine del caffè mantenendo resa e qualità in tazza competitive, creato per sostituire il Caturra vulnerabile alle malattie.",
+        "why": "Le epidemie di ruggine hanno devastato intere raccolte in America Latina — ibridi resistenti alle malattie come Castillo sono ora essenziali per la sopravvivenza di molte aziende agricole.",
+        "tip": "Non dare per scontato che la resistenza alle malattie significhi un compromesso sul sapore — i moderni programmi di selezione puntano attivamente anche sulla qualità in tazza.",
+        "mistake": "Liquidare gli ibridi resistenti alla ruggine come automaticamente di qualità inferiore rispetto a varietà tradizionali come Typica o Bourbon.",
+        "challenge": "Perché la sopravvivenza economica di un'azienda agricola potrebbe ora dipendere più dalla resistenza alle malattie che dall'inseguire il punteggio in tazza più alto possibile?"
       }
     },
     "photo_unverified": true
@@ -321,6 +513,30 @@
         "tip": "Pergunte-se se uma variedade foi 'encontrada' ou 'criada'; isso geralmente indica para qual compromisso ela foi otimizada.",
         "mistake": "Tratar 'variedade' e 'origem' como se fossem a mesma coisa; a mesma variedade pode ser cultivada em países completamente diferentes.",
         "challenge": "Classifique Typica, Caturra, Gesha e Castillo entre mutações naturais e híbridos deliberados."
+      },
+      "de": {
+        "title": "Was eine Kultivar ausmacht",
+        "definition": "Eine Kultivar ist ein genetisch unterscheidbarer Kaffeepflanzentyp, entstanden entweder durch eine natürliche Mutation oder eine gezielte Kreuzung zwischen Elternsorten.",
+        "why": "Diese Unterscheidung zu verstehen erklärt, warum manche Sorten (wie Bourbon) zufällig entstanden, während andere (wie Castillo) für einen bestimmten Zweck entwickelt wurden.",
+        "tip": "Frage, ob eine Sorte 'gefunden' oder 'gezüchtet' wurde — das verrät meist, für welchen Kompromiss sie optimiert wurde.",
+        "mistake": "'Sorte' und 'Herkunft' als dasselbe zu behandeln — dieselbe Sorte kann in völlig unterschiedlichen Ländern angebaut werden.",
+        "challenge": "Sortiere Typica, Caturra, Gesha und Castillo in natürliche Mutationen versus gezielte Hybride."
+      },
+      "fr": {
+        "title": "Qu'est-ce qu'un cultivar",
+        "definition": "Un cultivar est un type de plant de café génétiquement distinct, résultant soit d'une mutation naturelle, soit d'un croisement délibéré entre variétés parentes.",
+        "why": "Comprendre cette distinction explique pourquoi certaines variétés (comme Bourbon) sont apparues par accident, tandis que d'autres (comme Castillo) ont été conçues dans un but précis.",
+        "tip": "Demandez si une variété a été « trouvée » ou « élevée » — cela indique généralement pour quel compromis elle a été optimisée.",
+        "mistake": "Traiter « variété » et « origine » comme la même chose — la même variété peut être cultivée dans des pays complètement différents.",
+        "challenge": "Classez Typica, Caturra, Gesha et Castillo entre mutations naturelles et hybrides délibérés."
+      },
+      "it": {
+        "title": "Cosa definisce una cultivar",
+        "definition": "Una cultivar è un tipo di pianta di caffè geneticamente distinto, derivante o da una mutazione naturale o da un incrocio deliberato tra varietà genitrici.",
+        "why": "Capire questa distinzione spiega perché alcune varietà (come Bourbon) sono nate per caso, mentre altre (come Castillo) sono state progettate per uno scopo specifico.",
+        "tip": "Chiediti se una varietà è stata 'trovata' o 'selezionata' — di solito rivela per quale compromesso è stata ottimizzata.",
+        "mistake": "Trattare 'varietà' e 'origine' come la stessa cosa — la stessa varietà può essere coltivata in paesi completamente diversi.",
+        "challenge": "Classifica Typica, Caturra, Gesha e Castillo tra mutazioni naturali e ibridi deliberati."
       }
     },
     "photo_unverified": true

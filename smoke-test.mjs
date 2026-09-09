@@ -459,10 +459,19 @@ check("No emoji anywhere in the rendered page (excluding approved plain-text ico
 
 // --- Localization: language switcher ---
 const langButtons = () => [...doc.querySelectorAll("#langSwitch button")];
-check("Language switcher renders EN/ES/PT buttons", langButtons().length === 3);
+check("Language switcher renders EN/ES/PT/DE/FR/IT buttons", langButtons().length === 6);
 
 const esButton = langButtons().find(b => b.textContent.trim() === "ES");
 check("Spanish option exists in language switcher", !!esButton);
+
+const deButton = langButtons().find(b => b.textContent.trim() === "DE");
+check("German option exists in language switcher", !!deButton);
+
+const frButton = langButtons().find(b => b.textContent.trim() === "FR");
+check("French option exists in language switcher", !!frButton);
+
+const itButton = langButtons().find(b => b.textContent.trim() === "IT");
+check("Italian option exists in language switcher", !!itButton);
 
 if (esButton) {
 

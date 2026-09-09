@@ -4484,6 +4484,30 @@
         "tip": "Mantenha o despejo constante e uniforme em vez de rápido ou lento — a repetibilidade importa mais do que a velocidade.",
         "mistake": "Despejar rápido demais e inundar a pastilha, o que anula completamente o controle manual.",
         "challenge": "O que acontece com a extração se você despejar em um único fluxo contínuo em vez de vários pulsos?"
+      },
+      "de": {
+        "title": "Filterkaffee (V60)",
+        "definition": "Filterkaffee mit einem konischen Einloch-Filter (wie dem Hario V60), bei dem der Brauer die Extraktion über Gießrate, Bewegung und Timing steuert.",
+        "why": "Da die Fließgeschwindigkeit vollständig manuell ist, gibt sie dem Brauer mehr Echtzeitkontrolle über die Extraktion als fast jede andere Methode.",
+        "tip": "Halte deinen Guss gleichmäßig und konstant statt schnell oder langsam — Wiederholbarkeit zählt mehr als Geschwindigkeit.",
+        "mistake": "Zu schnell gießen und das Bett fluten, was manuelle Kontrolle vollständig ertränkt.",
+        "challenge": "Was passiert mit der Extraktion, wenn du in einem durchgehenden Strahl statt in mehreren Impulsen gießt?"
+      },
+      "fr": {
+        "title": "Filtre manuel (V60)",
+        "definition": "Infusion filtre utilisant un filtre conique à un seul trou (comme le Hario V60), où le préparateur contrôle l'extraction via le débit de versement, l'agitation et le minutage.",
+        "why": "Comme le débit est entièrement manuel, cela donne au préparateur plus de contrôle en temps réel sur l'extraction que presque toute autre méthode.",
+        "tip": "Gardez un versement régulier et constant plutôt que rapide ou lent — la répétabilité compte plus que la vitesse.",
+        "mistake": "Verser trop vite et inonder le lit, ce qui noie entièrement le contrôle manuel.",
+        "challenge": "Qu'arrive-t-il à l'extraction si vous versez en un flux continu plutôt qu'en plusieurs impulsions ?"
+      },
+      "it": {
+        "title": "Filtro manuale (V60)",
+        "definition": "Preparazione a filtro con un filtro conico a foro singolo (come l'Hario V60), dove chi prepara controlla l'estrazione tramite velocità di versamento, agitazione e tempistica.",
+        "why": "Poiché il flusso è interamente manuale, offre a chi prepara più controllo in tempo reale sull'estrazione rispetto a quasi ogni altro metodo.",
+        "tip": "Mantieni il versamento costante e regolare invece che veloce o lento — la ripetibilità conta più della velocità.",
+        "mistake": "Versare troppo velocemente e allagare il letto, il che annulla completamente il controllo manuale.",
+        "challenge": "Cosa succede all'estrazione se versi in un flusso continuo invece che in più impulsi?"
       }
     },
     "free_sample": true,
@@ -4522,6 +4546,30 @@
         "tip": "Enxágue bem o filtro — o papel Chemex é mais grosso e precisa de mais enxágue para evitar sabor de papel.",
         "mistake": "Usar papel filtro de peso padrão em vez dos filtros próprios do Chemex.",
         "challenge": "Por que uma xícara de Chemex tem sabor visivelmente mais limpo do que uma de V60 preparada com o mesmo café?"
+      },
+      "de": {
+        "title": "Chemex",
+        "definition": "Ein Filterbrüher mit dickem, verklebtem Filterpapier, der eine ungewöhnlich saubere, teeähnliche Tasse ergibt.",
+        "why": "Das schwerere Filterpapier entfernt mehr Öle und Feinanteile als Standardpapier, was Körper und Klarheit dramatisch verändert.",
+        "tip": "Spüle den Filter gründlich vor — Chemex-Papier ist dicker und braucht mehr Spülen, um Papiergeschmack zu vermeiden.",
+        "mistake": "Standard-Filterpapier statt richtiger Chemex-Filter zu verwenden.",
+        "challenge": "Warum schmeckt eine Chemex-Tasse spürbar sauberer als eine V60-Tasse mit demselben Kaffee?"
+      },
+      "fr": {
+        "title": "Chemex",
+        "definition": "Un préparateur filtre utilisant un papier filtre épais et collé qui produit une tasse inhabituellement propre, presque comme un thé.",
+        "why": "Le papier filtre plus épais retire davantage d'huiles et de fines que le papier standard, changeant radicalement le corps et la clarté.",
+        "tip": "Pré-mouillez bien le filtre — le papier Chemex est plus épais et nécessite plus de rinçage pour éviter le goût de papier.",
+        "mistake": "Utiliser du papier filtre standard au lieu de vrais filtres Chemex.",
+        "challenge": "Pourquoi une tasse Chemex a-t-elle un goût sensiblement plus propre qu'une tasse V60 préparée avec le même café ?"
+      },
+      "it": {
+        "title": "Chemex",
+        "definition": "Un metodo a filtro che usa carta filtro spessa e incollata, producendo una tazza insolitamente pulita, quasi simile a un tè.",
+        "why": "La carta filtro più pesante rimuove più oli e fini rispetto alla carta standard, cambiando drasticamente corpo e chiarezza.",
+        "tip": "Prebagna bene il filtro — la carta Chemex è più spessa e richiede più risciacquo per evitare il sapore di carta.",
+        "mistake": "Usare carta filtro standard invece dei filtri Chemex appropriati.",
+        "challenge": "Perché una tazza Chemex ha un sapore notevolmente più pulito di una tazza V60 preparata con lo stesso caffè?"
       }
     },
     "id": 122
@@ -4559,6 +4607,30 @@
         "tip": "Mude uma variável de cada vez — moagem, tempo de imersão ou pressão de prensagem — para entender o que cada uma faz.",
         "mistake": "Prensar com força e rapidez demais, forçando compostos amargos sob pressão excessiva.",
         "challenge": "Como o método invertido muda o que acontece durante a imersão?"
+      },
+      "de": {
+        "title": "AeroPress",
+        "definition": "Ein Hybridbrüher, der Ziehen im Aufguss mit manueller Druckfiltration durch eine Papier- oder Metallkappe kombiniert.",
+        "why": "Seine Flexibilität erlaubt es einem einzigen Gerät, je nach Mahlgrad, Verhältnis und Presstechnik völlig unterschiedliche Ergebnisse zu liefern.",
+        "tip": "Ändere jeweils nur eine Variable — Mahlgrad, Ziehzeit oder Pressdruck —, um zu verstehen, was jede davon bewirkt.",
+        "mistake": "Zu fest und zu schnell zu pressen, wodurch bittere Verbindungen unter übermäßigem Druck herausgepresst werden.",
+        "challenge": "Wie verändert die umgekehrte (Inverted-)Methode, was während des Ziehens passiert?"
+      },
+      "fr": {
+        "title": "AeroPress",
+        "definition": "Un préparateur hybride combinant une infusion par immersion avec une filtration manuelle sous pression à travers un capuchon en papier ou en métal.",
+        "why": "Sa flexibilité permet à un seul appareil de produire des résultats radicalement différents selon la mouture, le ratio et la technique de pression.",
+        "tip": "Changez une seule variable à la fois — mouture, temps d'infusion ou pression de piston — pour comprendre l'effet de chacune.",
+        "mistake": "Presser trop fort et trop vite, forçant les composés amers à travers sous pression excessive.",
+        "challenge": "Comment la méthode inversée change-t-elle ce qui se passe pendant l'infusion ?"
+      },
+      "it": {
+        "title": "AeroPress",
+        "definition": "Un metodo ibrido che combina l'infusione per immersione con una filtrazione manuale a pressione attraverso un tappo di carta o metallo.",
+        "why": "La sua flessibilità permette a un unico dispositivo di produrre risultati molto diversi a seconda di macinatura, rapporto e tecnica di pressione.",
+        "tip": "Cambia una variabile alla volta — macinatura, tempo di infusione o pressione — per capire cosa fa ciascuna.",
+        "mistake": "Premere troppo forte e troppo velocemente, forzando i composti amari attraverso sotto pressione eccessiva.",
+        "challenge": "Come cambia il metodo invertito ciò che accade durante l'infusione?"
       }
     },
     "id": 123
@@ -4596,6 +4668,30 @@
         "tip": "Quebre a crosta e retire os grãos flutuantes antes de prensar, para uma xícara mais limpa.",
         "mistake": "Deixar o êmbolo pressionado depois de prensar, o que continua extraindo o café.",
         "challenge": "Por que o café de prensa francesa costuma ter mais sedimento do que o de coado manual?"
+      },
+      "de": {
+        "title": "French Press",
+        "definition": "Ein Vollimmersions-Brüher mit einem Metallsieb, das Kaffeemehl vom aufgebrühten Kaffee trennt.",
+        "why": "Da Öle und feine Partikel durch das Metallsieb gelangen, ergibt die French Press einen schwereren Körper als papiergefilterter Kaffee.",
+        "tip": "Brich vor dem Pressen die Kruste auf und schöpfe schwimmendes Kaffeemehl ab, für eine sauberere Tasse.",
+        "mistake": "Den Stempel nach dem Pressen unten zu lassen, wodurch die Extraktion weitergeht.",
+        "challenge": "Warum hat French-Press-Kaffee normalerweise mehr Bodensatz als Filterkaffee?"
+      },
+      "fr": {
+        "title": "Cafetière à piston",
+        "definition": "Un préparateur en immersion totale utilisant un filtre métallique à mailles pour séparer la mouture du café infusé.",
+        "why": "Comme les huiles et particules fines passent à travers le tamis métallique, la cafetière à piston produit un corps plus lourd que le café filtré au papier.",
+        "tip": "Cassez la croûte et écumez la mouture flottante avant de presser pour une tasse plus propre.",
+        "mistake": "Laisser le piston en bas après avoir pressé, ce qui continue d'extraire le café.",
+        "challenge": "Pourquoi le café de cafetière à piston a-t-il généralement plus de sédiments que le filtre ?"
+      },
+      "it": {
+        "title": "French press",
+        "definition": "Un metodo a immersione totale che usa un filtro metallico a rete per separare il macinato dal caffè preparato.",
+        "why": "Poiché oli e particelle fini passano attraverso la rete metallica, la French press produce un corpo più pesante rispetto al caffè filtrato con carta.",
+        "tip": "Rompi la crosta e rimuovi il macinato galleggiante prima di pressare, per una tazza più pulita.",
+        "mistake": "Lasciare lo stantuffo abbassato dopo aver pressato, il che continua a estrarre il caffè.",
+        "challenge": "Perché il caffè della French press ha di solito più sedimenti rispetto al filtro?"
       }
     },
     "id": 124
@@ -4633,6 +4729,30 @@
         "tip": "Mantenha a agitação suave e constante durante a fase de imersão para uma extração uniforme.",
         "mistake": "Retirar a fonte de calor cedo demais, o que trava a descida por vácuo.",
         "challenge": "O que causa fisicamente o retorno do café preparado para a câmara inferior?"
+      },
+      "de": {
+        "title": "Siphon (Vakuumbrüher)",
+        "definition": "Ein Brüher, der Dampfdruck und Vakuum nutzt, um Wasser zwischen zwei Kammern durch ein Kaffeebett zu bewegen.",
+        "why": "Es ist eine der wenigen Brühmethoden, bei der die gesamte Extraktion sichtbar abläuft, was sie zu einer wirklich theatralischen Art des Brühens macht.",
+        "tip": "Halte die Bewegung während der Ziehphase sanft und gleichmäßig für eine gleichmäßige Extraktion.",
+        "mistake": "Die Hitzequelle zu früh zu entfernen, was den Vakuum-Rückfluss stoppt.",
+        "challenge": "Was verursacht physikalisch, dass der gebrühte Kaffee in die untere Kammer zurückkehrt?"
+      },
+      "fr": {
+        "title": "Siphon (préparateur à vide)",
+        "definition": "Un préparateur utilisant la pression de vapeur et le vide pour déplacer l'eau entre deux chambres à travers un lit de café.",
+        "why": "C'est l'une des seules méthodes où toute l'extraction se déroule visiblement, en faisant une façon véritablement théâtrale de préparer le café.",
+        "tip": "Gardez une agitation douce et constante pendant la phase d'infusion pour une extraction homogène.",
+        "mistake": "Retirer la source de chaleur trop tôt, ce qui bloque la descente sous vide.",
+        "challenge": "Qu'est-ce qui provoque physiquement le retour du café infusé dans la chambre inférieure ?"
+      },
+      "it": {
+        "title": "Sifone (metodo sottovuoto)",
+        "definition": "Un metodo che usa pressione di vapore e vuoto per spostare l'acqua tra due camere attraverso un letto di caffè.",
+        "why": "È uno dei pochi metodi in cui l'intera estrazione avviene visibilmente, rendendolo un modo genuinamente teatrale di preparare il caffè.",
+        "tip": "Mantieni l'agitazione delicata e costante durante la fase di infusione per un'estrazione uniforme.",
+        "mistake": "Rimuovere la fonte di calore troppo presto, il che blocca la discesa sottovuoto.",
+        "challenge": "Cosa causa fisicamente il ritorno del caffè preparato nella camera inferiore?"
       }
     },
     "id": 125
@@ -4670,6 +4790,30 @@
         "tip": "Comece com uma moagem grossa — grãos finos superextraem facilmente ao longo de uma infusão tão longa.",
         "mistake": "Tratar o concentrado de cold brew como se já estivesse na força pronta para beber, sem diluir.",
         "challenge": "Por que o cold brew tem sabor mais suave mesmo ficando em infusão por muito mais tempo do que o café quente?"
+      },
+      "de": {
+        "title": "Cold Brew",
+        "definition": "Kaffee, der über einen längeren Zeitraum, typischerweise 12 bis 24 Stunden, in raumtemperiertem oder kaltem Wasser gezogen wird.",
+        "why": "Kaltes Wasser extrahiert langsamer und selektiver als heißes Wasser und ergibt ein von Natur aus säurearmes, weicheres Konzentrat.",
+        "tip": "Beginne mit grobem Mahlgrad — feines Kaffeemehl überextrahiert bei so langer Ziehzeit stark.",
+        "mistake": "Cold-Brew-Konzentrat als trinkfertige Stärke zu behandeln, ohne es zu verdünnen.",
+        "challenge": "Warum schmeckt Cold Brew weicher, obwohl er so viel länger zieht als heißer Kaffee?"
+      },
+      "fr": {
+        "title": "Cold brew",
+        "definition": "Café infusé dans de l'eau à température ambiante ou froide pendant une période prolongée, typiquement 12 à 24 heures.",
+        "why": "L'eau froide extrait plus lentement et sélectivement que l'eau chaude, produisant un concentré naturellement peu acide et plus doux.",
+        "tip": "Commencez avec une mouture grossière — une mouture fine sur-extrait fortement sur une infusion aussi longue.",
+        "mistake": "Traiter le concentré de cold brew comme prêt à boire tel quel sans le diluer.",
+        "challenge": "Pourquoi le cold brew a-t-il un goût plus doux alors qu'il infuse tellement plus longtemps que le café chaud ?"
+      },
+      "it": {
+        "title": "Cold brew",
+        "definition": "Caffè infuso in acqua a temperatura ambiente o fredda per un periodo prolungato, tipicamente 12-24 ore.",
+        "why": "L'acqua fredda estrae più lentamente e selettivamente dell'acqua calda, producendo un concentrato naturalmente poco acido e più morbido.",
+        "tip": "Inizia con una macinatura grossa — il macinato fine sovraestrae pesantemente durante un'infusione così lunga.",
+        "mistake": "Trattare il concentrato di cold brew come pronto da bere senza diluirlo.",
+        "challenge": "Perché il cold brew ha un sapore più morbido anche se infonde molto più a lungo del caffè caldo?"
       }
     },
     "id": 126
@@ -4707,6 +4851,30 @@
         "tip": "Encha a base com água já quente — reduz o tempo que o metal passa sobre o fogo direto.",
         "mistake": "Chamar o café de moka de \"espresso\" — a pressão é muito menor e o resultado é uma bebida completamente diferente.",
         "challenge": "Por que uma cafeteira moka não consegue atingir a pressão real do espresso?"
+      },
+      "de": {
+        "title": "Moka-Kanne",
+        "definition": "Ein Herdbrüher, der heißes Wasser mittels Dampfdruck durch den Kaffee nach oben drückt und eine starke, konzentrierte Tasse ergibt.",
+        "why": "Es ist das alltägliche Kaffeeformat in weiten Teilen Italiens und eine wirklich eigenständige Brühkategorie neben Espresso.",
+        "tip": "Fülle den Boden mit bereits heißem Wasser — das verkürzt die Zeit, die das Metall über direkter Hitze verbringt.",
+        "mistake": "Moka-Kanne-Kaffee als 'Espresso' zu bezeichnen — der Druck ist weit geringer, und das Ergebnis ist ein völlig anderes Getränk.",
+        "challenge": "Warum kann eine Moka-Kanne keinen echten Espressodruck erreichen?"
+      },
+      "fr": {
+        "title": "Cafetière italienne (moka)",
+        "definition": "Un préparateur de cuisinière qui pousse l'eau chaude à travers le café grâce à la pression de vapeur, produisant une tasse forte et concentrée.",
+        "why": "C'est le format de café quotidien dans une grande partie de l'Italie et une catégorie de préparation véritablement distincte de l'espresso.",
+        "tip": "Utilisez de l'eau déjà chaude pour remplir la base — cela réduit le temps que le métal passe sur une chaleur directe.",
+        "mistake": "Appeler le café de cafetière italienne « espresso » — la pression est bien plus faible et le résultat est une boisson entièrement différente.",
+        "challenge": "Pourquoi une cafetière italienne ne peut-elle pas atteindre une vraie pression d'espresso ?"
+      },
+      "it": {
+        "title": "Moka",
+        "definition": "Un metodo da fornello che spinge l'acqua calda verso l'alto attraverso il caffè tramite pressione di vapore, producendo una tazza forte e concentrata.",
+        "why": "È il formato di caffè quotidiano in gran parte dell'Italia e una categoria di preparazione genuinamente distinta dall'espresso.",
+        "tip": "Usa acqua già calda per riempire la base — riduce il tempo che il metallo trascorre a contatto diretto con il calore.",
+        "mistake": "Chiamare il caffè della moka 'espresso' — la pressione è molto più bassa e il risultato è una bevanda completamente diversa.",
+        "challenge": "Perché una moka non può raggiungere la vera pressione dell'espresso?"
       }
     },
     "id": 127
@@ -4744,6 +4912,30 @@
         "tip": "Calibre o batch brew com a mesma disciplina de uma receita de coado manual — dose, proporção e tempo continuam importando.",
         "mistake": "Tratar o batch brew como \"bom o suficiente\" e pular uma calibração adequada.",
         "challenge": "Por que a consistência do batch brew importa mais comercialmente do que a precisão do coado manual?"
+      },
+      "de": {
+        "title": "Batch Brew",
+        "definition": "Filterkaffee in hohem Volumen, entwickelt, um für Cafés konsistenten Kaffee im großen Maßstab herzustellen.",
+        "why": "Es ist die Methode, auf die sich die meisten Cafés für ihr tägliches Volumen tatsächlich verlassen, selbst solche, die für Filterkaffee-per-Hand bekannt sind.",
+        "tip": "Stelle Batch Brew mit derselben Disziplin ein wie ein Filterkaffee-Rezept — Dosis, Verhältnis und Zeit spielen weiterhin alle eine Rolle.",
+        "mistake": "Batch Brew als 'gut genug' zu behandeln und richtiges Einstellen zu überspringen.",
+        "challenge": "Warum ist Konsistenz bei Batch Brew kommerziell wichtiger als Präzision beim Filterkaffee-per-Hand?"
+      },
+      "fr": {
+        "title": "Batch brew",
+        "definition": "Une infusion filtre à haut volume conçue pour produire un café constant à grande échelle pour les cafés.",
+        "why": "C'est la méthode sur laquelle la plupart des cafés comptent réellement pour leur volume quotidien, même ceux réputés pour leur café filtre manuel.",
+        "tip": "Réglez le batch brew avec la même rigueur qu'une recette de filtre manuel — dose, ratio et temps comptent tout autant.",
+        "mistake": "Traiter le batch brew comme « suffisamment bon » et sauter un réglage approprié.",
+        "challenge": "Pourquoi la constance du batch brew compte-t-elle plus commercialement que la précision du filtre manuel ?"
+      },
+      "it": {
+        "title": "Batch brew",
+        "definition": "Preparazione a filtro ad alto volume progettata per produrre caffè costante su larga scala per i bar.",
+        "why": "È il metodo su cui la maggior parte dei bar fa realmente affidamento per il volume quotidiano, anche quelli noti per il filtro manuale.",
+        "tip": "Calibra il batch brew con la stessa disciplina di una ricetta per filtro manuale — dose, rapporto e tempo contano comunque tutti.",
+        "mistake": "Trattare il batch brew come 'abbastanza buono' e saltare una calibrazione adeguata.",
+        "challenge": "Perché la costanza del batch brew conta di più commercialmente rispetto alla precisione del filtro manuale?"
       }
     },
     "id": 128
@@ -4781,6 +4973,30 @@
         "tip": "Pergunte-se \"a água está passando através, ou apenas ficando com o café?\" para classificar rapidamente qualquer método novo.",
         "mistake": "Supor que métodos da mesma família (por exemplo, prensa francesa e cold brew) terão sabor parecido só por serem ambos de imersão.",
         "challenge": "Classifique o V60, a prensa francesa, o AeroPress e o cold brew como imersão ou percolação — o AeroPress realmente pertence a apenas uma categoria?"
+      },
+      "de": {
+        "title": "Immersion vs. Perkolation",
+        "definition": "Die zwei grundlegenden Brühfamilien — Immersion hält Wasser und Kaffee für eine festgelegte Zeit zusammen, während Perkolation kontinuierlich frisches Wasser durch das Kaffeemehl bewegt.",
+        "why": "Zu verstehen, zu welcher Familie eine Methode gehört, erklärt die meisten ihrer Geschmackseigenschaften.",
+        "tip": "Frage: 'Bewegt sich das Wasser hindurch, oder sitzt es nur mit dem Kaffee?', um jede neue Brühmethode schnell einzuordnen.",
+        "mistake": "Anzunehmen, Brühmethoden innerhalb derselben Familie (z.B. French Press und Cold Brew) schmecken ähnlich, nur weil beide Immersion sind.",
+        "challenge": "Ordne V60, French Press, AeroPress und Cold Brew als Immersion oder Perkolation ein — ist AeroPress wirklich nur das eine oder das andere?"
+      },
+      "fr": {
+        "title": "Immersion vs percolation",
+        "definition": "Les deux familles fondamentales d'infusion — l'immersion garde l'eau et le café ensemble pendant un temps défini, tandis que la percolation fait circuler en continu de l'eau fraîche à travers la mouture.",
+        "why": "Comprendre à quelle famille appartient une méthode explique la plupart de ses caractéristiques gustatives.",
+        "tip": "Demandez « l'eau traverse-t-elle, ou reste-t-elle simplement avec le café ? » pour classer rapidement toute nouvelle méthode d'infusion.",
+        "mistake": "Supposer que des méthodes de la même famille (par ex. cafetière à piston et cold brew) auront un goût similaire simplement parce que ce sont toutes deux des immersions.",
+        "challenge": "Classez V60, cafetière à piston, AeroPress et cold brew comme immersion ou percolation — l'AeroPress est-elle vraiment seulement l'une ou l'autre ?"
+      },
+      "it": {
+        "title": "Immersione vs percolazione",
+        "definition": "Le due famiglie fondamentali di preparazione — l'immersione tiene insieme acqua e caffè per un tempo stabilito, mentre la percolazione muove continuamente acqua fresca attraverso il macinato.",
+        "why": "Capire a quale famiglia appartiene un metodo spiega la maggior parte delle sue caratteristiche di sapore.",
+        "tip": "Chiediti 'l'acqua sta attraversando, o sta semplicemente stando ferma con il caffè?' per classificare rapidamente qualsiasi nuovo metodo di preparazione.",
+        "mistake": "Supporre che metodi della stessa famiglia (es. French press e cold brew) abbiano un sapore simile solo perché entrambi sono immersione.",
+        "challenge": "Classifica V60, French press, AeroPress e cold brew come immersione o percolazione — l'AeroPress è davvero solo l'una o l'altra?"
       }
     },
     "id": 129
@@ -5152,6 +5368,30 @@
         "tip": "Espere uma planta alta e de baixo rendimento; a Typica troca produtividade por uma qualidade de xícara limpa, doce e confiável.",
         "mistake": "Supor que uma variedade 'original' deve ter sabor mais autêntico ou superior às modernas.",
         "challenge": "Por que os produtores continuariam cultivando uma variedade de baixo rendimento como a Typica em vez de mudar totalmente para híbridos mais produtivos?"
+      },
+      "de": {
+        "title": "Typica",
+        "definition": "Eine der beiden grundlegenden Kaffeesorten, von der angenommen wird, dass sie der ursprüngliche Stamm ist, der aus Äthiopien und dem Jemen in den weltweiten Anbau gebracht wurde.",
+        "why": "Fast jede heute angebaute Arabica-Sorte lässt sich auf Typica oder Bourbon zurückführen, was sie zu einem genetischen Ausgangspunkt für die gesamte Branche macht.",
+        "tip": "Erwarte eine hohe, ertragsarme Pflanze — Typica tauscht Produktivität gegen zuverlässig saubere, süße Tassenqualität.",
+        "mistake": "Anzunehmen, eine 'ursprüngliche' Sorte müsse authentischer oder besser schmecken als moderne Sorten.",
+        "challenge": "Warum würden Farmer weiterhin eine ertragsarme Sorte wie Typica anbauen, statt komplett auf ertragreichere Hybride umzusteigen?"
+      },
+      "fr": {
+        "title": "Typica",
+        "definition": "L'une des deux variétés fondatrices du café, considérée comme la souche originale qui a quitté l'Éthiopie et le Yémen pour être cultivée dans le monde entier.",
+        "why": "Presque toutes les variétés d'arabica cultivées aujourd'hui remontent à Typica ou Bourbon, en faisant un point de départ génétique pour toute l'industrie.",
+        "tip": "Attendez-vous à une plante haute et peu productive — Typica échange la productivité contre une qualité en tasse fiable, propre et sucrée.",
+        "mistake": "Supposer qu'une variété « originale » doit forcément avoir un goût plus authentique ou supérieur aux variétés modernes.",
+        "challenge": "Pourquoi les producteurs continueraient-ils à cultiver une variété à faible rendement comme Typica plutôt que de passer entièrement à des hybrides plus productifs ?"
+      },
+      "it": {
+        "title": "Typica",
+        "definition": "Una delle due varietà fondamentali del caffè, ritenuta il ceppo originale portato fuori da Etiopia e Yemen verso la coltivazione mondiale.",
+        "why": "Quasi ogni varietà di arabica coltivata oggi risale a Typica o Bourbon, rendendola un punto di partenza genetico per l'intero settore.",
+        "tip": "Aspettati una pianta alta e a bassa resa — Typica scambia produttività per una qualità in tazza affidabilmente pulita e dolce.",
+        "mistake": "Supporre che una varietà 'originale' debba avere un sapore più autentico o superiore rispetto a quelle moderne.",
+        "challenge": "Perché i coltivatori continuerebbero a coltivare una varietà a bassa resa come Typica invece di passare completamente a ibridi più produttivi?"
       }
     },
     "photo_unverified": true,
@@ -5189,6 +5429,30 @@
         "tip": "Procure as subvariedades Bourbon vermelho e amarelo; a cor se refere à cor da cereja madura, não à do grão.",
         "mistake": "Tratar 'Bourbon' como uma única variedade uniforme em vez de uma família com várias mutações naturais.",
         "challenge": "Como uma mutação natural em uma única ilha acabou moldando variedades de café em quase todos os continentes?"
+      },
+      "de": {
+        "title": "Bourbon",
+        "definition": "Eine natürliche Mutation von Typica, entdeckt auf der Insel Bourbon (heute Réunion), bekannt für rundere Kirschen und oft eine süßere, komplexere Tasse.",
+        "why": "Bourbon und Typica bilden zusammen die genetische Wurzel der meisten heute angebauten Specialty-Kaffees.",
+        "tip": "Achte auf rote und gelbe Bourbon-Untervarianten — die Farbe bezieht sich auf die reife Kirschfarbe, nicht auf die Bohnenfarbe.",
+        "mistake": "'Bourbon' als eine einzige einheitliche Sorte zu behandeln statt als Familie mit mehreren natürlichen Untermutationen.",
+        "challenge": "Wie konnte eine natürliche Mutation auf einer Insel Kaffeesorten auf fast jedem Kontinent prägen?"
+      },
+      "fr": {
+        "title": "Bourbon",
+        "definition": "Une mutation naturelle de Typica découverte sur l'île Bourbon (aujourd'hui La Réunion), connue pour des cerises plus rondes et une tasse souvent plus douce et complexe.",
+        "why": "Bourbon et Typica forment ensemble la racine génétique de la plupart des cafés de spécialité cultivés aujourd'hui.",
+        "tip": "Recherchez les sous-variantes Bourbon rouge et jaune — la couleur fait référence à la couleur de la cerise mûre, pas à celle du grain.",
+        "mistake": "Traiter « Bourbon » comme une variété unique et uniforme plutôt que comme une famille avec plusieurs sous-mutations naturelles.",
+        "challenge": "Comment une mutation naturelle sur une seule île a-t-elle fini par façonner des variétés de café sur presque tous les continents ?"
+      },
+      "it": {
+        "title": "Bourbon",
+        "definition": "Una mutazione naturale di Typica scoperta sull'Isola Bourbon (oggi Réunion), nota per ciliegie più rotonde e una tazza spesso più dolce e complessa.",
+        "why": "Bourbon e Typica formano insieme la radice genetica della maggior parte dei caffè specialty coltivati oggi.",
+        "tip": "Cerca le sottovarianti Bourbon rosso e giallo — il colore si riferisce al colore della ciliegia matura, non a quello del chicco.",
+        "mistake": "Trattare 'Bourbon' come un'unica varietà uniforme invece che come una famiglia con diverse sottomutazioni naturali.",
+        "challenge": "Come ha fatto una mutazione naturale su un'isola a finire per plasmare varietà di caffè in quasi ogni continente?"
       }
     },
     "photo_unverified": true,
@@ -5226,6 +5490,30 @@
         "tip": "Espere uma xícara mais brilhante e ácida do que a Bourbon, geralmente com menos corpo.",
         "mistake": "Supor que uma planta compacta significa automaticamente menor qualidade; a Caturra pode render xícaras excepcionais com bons cuidados.",
         "challenge": "Por que a altura da planta importa tanto para quantas árvores podem ser plantadas por hectare?"
+      },
+      "de": {
+        "title": "Caturra",
+        "definition": "Eine natürliche Zwergmutation von Bourbon, entdeckt in Brasilien, mit einer kompakten Pflanze, die viel dichtere Bepflanzung und höhere Erträge ermöglicht.",
+        "why": "Ihre geringe Wuchshöhe machte moderne, hochdichte Kaffeelandwirtschaft wirtschaftlich tragfähig, wie es hohe Bourbon- und Typica-Pflanzen nicht konnten.",
+        "tip": "Erwarte eine hellere, säurebetontere Tasse als Bourbon, im Allgemeinen mit weniger Körper.",
+        "mistake": "Anzunehmen, eine kompakte Pflanze bedeute automatisch geringere Qualität — Caturra kann bei guter Pflege außergewöhnlich gut schmecken.",
+        "challenge": "Warum ist die Pflanzenhöhe so entscheidend dafür, wie viele Bäume pro Hektar gepflanzt werden können?"
+      },
+      "fr": {
+        "title": "Caturra",
+        "definition": "Une mutation naine naturelle de Bourbon découverte au Brésil, dont la plante compacte permet une plantation bien plus dense et des rendements plus élevés.",
+        "why": "Sa petite taille a rendu économiquement viable l'agriculture caféière moderne à haute densité, d'une façon que les grandes plantes Bourbon et Typica ne pouvaient pas soutenir.",
+        "tip": "Attendez-vous à une tasse plus vive et plus acide que Bourbon, généralement avec moins de corps.",
+        "mistake": "Supposer qu'une plante compacte signifie automatiquement une qualité inférieure — Caturra peut donner une tasse exceptionnelle avec de bons soins.",
+        "challenge": "Pourquoi la hauteur de la plante compte-t-elle autant pour le nombre d'arbres pouvant être plantés par hectare ?"
+      },
+      "it": {
+        "title": "Caturra",
+        "definition": "Una mutazione nana naturale di Bourbon scoperta in Brasile, con una pianta compatta che permette una piantagione molto più densa e rese più elevate.",
+        "why": "La sua altezza ridotta ha reso economicamente sostenibile la moderna coltivazione del caffè ad alta densità, in un modo che le alte piante Bourbon e Typica non potevano permettere.",
+        "tip": "Aspettati una tazza più brillante e acida rispetto a Bourbon, generalmente con meno corpo.",
+        "mistake": "Supporre che una pianta compatta significhi automaticamente qualità inferiore — Caturra può dare risultati eccezionali in tazza se ben curata.",
+        "challenge": "Perché l'altezza della pianta è così importante per quanti alberi si possono piantare per ettaro?"
       }
     },
     "photo_unverified": true,
@@ -5263,6 +5551,30 @@
         "tip": "A Catuaí costuma ser escolhida especificamente por sua resistência, não principalmente por uma assinatura de sabor distinta.",
         "mistake": "Esperar que toda variedade híbrida tenha sido criada puramente pela qualidade da xícara; muitas são criadas primeiro pela praticidade agrícola.",
         "challenge": "Que concessões um produtor poderia aceitar em troca de uma planta mais resistente ao vento?"
+      },
+      "de": {
+        "title": "Catuai",
+        "definition": "Ein gezielter Hybrid aus Caturra und Mundo Novo, in Brasilien für eine robuste Pflanze gezüchtet, die Wind und Regen gut standhält.",
+        "why": "Er kombiniert Caturras kompakten Ertragsvorteil mit einer widerstandsfähigeren Struktur, die für raueres Anbauklima geeignet ist.",
+        "tip": "Catuai wird oft speziell wegen seiner Widerstandsfähigkeit gewählt, nicht primär wegen einer unverwechselbaren Geschmackssignatur.",
+        "mistake": "Zu erwarten, dass jede Hybridsorte rein für Tassenqualität gezüchtet wurde — viele werden zuerst für landwirtschaftliche Praktikabilität gezüchtet.",
+        "challenge": "Welche Kompromisse könnte ein Farmer im Austausch für eine widerstandsfähigere, windresistentere Pflanze akzeptieren?"
+      },
+      "fr": {
+        "title": "Catuai",
+        "definition": "Un hybride délibéré de Caturra et Mundo Novo, élevé au Brésil pour obtenir une plante robuste résistant bien au vent et à la pluie.",
+        "why": "Il combine l'avantage de rendement compact de Caturra avec une structure plus résistante adaptée à des conditions de culture plus rudes.",
+        "tip": "Catuai est souvent choisi spécifiquement pour sa résilience, pas principalement pour une signature aromatique distinctive.",
+        "mistake": "S'attendre à ce que chaque variété hybride ait été élevée uniquement pour la qualité en tasse — beaucoup sont d'abord élevées pour leur praticité agricole.",
+        "challenge": "Quels compromis un producteur pourrait-il accepter en échange d'une plante plus résistante au vent ?"
+      },
+      "it": {
+        "title": "Catuai",
+        "definition": "Un ibrido deliberato di Caturra e Mundo Novo, selezionato in Brasile per ottenere una pianta robusta che resiste bene a vento e pioggia.",
+        "why": "Combina il vantaggio di resa compatta di Caturra con una struttura più resistente adatta a condizioni di coltivazione più difficili.",
+        "tip": "Catuai viene spesso scelto specificamente per la sua resilienza, non principalmente per una firma aromatica distintiva.",
+        "mistake": "Aspettarsi che ogni varietà ibrida sia stata selezionata puramente per la qualità in tazza — molte vengono selezionate prima per praticità agricola.",
+        "challenge": "Quali compromessi potrebbe accettare un coltivatore in cambio di una pianta più resistente al vento?"
       }
     },
     "photo_unverified": true,
@@ -5300,6 +5612,30 @@
         "tip": "A SL28 tende a uma acidez mais profunda e vinosa; a SL34 costuma render melhor em altitudes maiores com chuvas mais intensas.",
         "mistake": "Supor que SL28 e SL34 são intercambiáveis só por compartilharem origem queniana e uma convenção de nomes.",
         "challenge": "Por que selecionar deliberadamente pela tolerância à seca acabaria também moldando o perfil de sabor de uma variedade?"
+      },
+      "de": {
+        "title": "SL28 und SL34",
+        "definition": "Zwei Sorten, die in den 1930er-40er Jahren in Kenia von den Scott Agricultural Laboratories auf Dürretoleranz und Krankheitsresistenz selektiert wurden, heute berühmt für intensive, schwarze-Johannisbeere-artige Säure.",
+        "why": "Sie sind ein großer Grund dafür, warum kenianischer Kaffee eine so unverwechselbare, sofort erkennbare Geschmackssignatur hat.",
+        "tip": "SL28 tendiert zu tieferer, weinartiger Säure; SL34 performt oft besser in höheren Lagen mit stärkerem Niederschlag.",
+        "mistake": "Anzunehmen, SL28 und SL34 seien austauschbar, nur weil sie kenianischen Ursprung und eine Namenskonvention teilen.",
+        "challenge": "Warum würde gezielte Selektion auf Dürretoleranz am Ende auch das Geschmacksprofil einer Sorte prägen?"
+      },
+      "fr": {
+        "title": "SL28 et SL34",
+        "definition": "Deux variétés sélectionnées au Kenya dans les années 1930-40 par les Scott Agricultural Laboratories pour leur tolérance à la sécheresse et leur résistance aux maladies, aujourd'hui célèbres pour une acidité intense rappelant le cassis.",
+        "why": "Elles expliquent en grande partie pourquoi le café kényan possède une signature gustative aussi distinctive et immédiatement reconnaissable.",
+        "tip": "SL28 tend vers une acidité plus profonde et vineuse ; SL34 performe souvent mieux en altitude avec des précipitations plus abondantes.",
+        "mistake": "Supposer que SL28 et SL34 sont interchangeables simplement parce qu'elles partagent une origine kényane et une convention de nommage.",
+        "challenge": "Pourquoi le fait de sélectionner délibérément pour la tolérance à la sécheresse finirait-il aussi par façonner le profil aromatique d'une variété ?"
+      },
+      "it": {
+        "title": "SL28 e SL34",
+        "definition": "Due varietà selezionate in Kenya negli anni '30-'40 dagli Scott Agricultural Laboratories per tolleranza alla siccità e resistenza alle malattie, oggi famose per un'intensa acidità simile al ribes nero.",
+        "why": "Sono una grande parte del motivo per cui il caffè keniota ha una firma di sapore così distintiva e immediatamente riconoscibile.",
+        "tip": "SL28 tende verso un'acidità più profonda e vinosa; SL34 spesso si comporta meglio ad altitudini più elevate con piogge più abbondanti.",
+        "mistake": "Supporre che SL28 e SL34 siano intercambiabili solo perché condividono origine keniota e convenzione di denominazione.",
+        "challenge": "Perché selezionare deliberatamente per la tolleranza alla siccità finirebbe anche per plasmare il profilo di sapore di una varietà?"
       }
     },
     "photo_unverified": true,
@@ -5337,6 +5673,30 @@
         "tip": "Os rendimentos costumam ser baixos e a planta é delicada; parte do motivo pelo qual a Gesha alcança preços tão altos.",
         "mistake": "Supor que todo café rotulado como Gesha entregará a mesma intensidade; as condições de cultivo importam enormemente para essa variedade.",
         "challenge": "Por que a mesma variedade poderia produzir uma xícara lendária no Panamá, mas apenas mediana em outro lugar?"
+      },
+      "de": {
+        "title": "Gesha (Geisha)",
+        "definition": "Eine ursprünglich aus Äthiopien stammende Sorte, die weltberühmt wurde, nachdem ein panamaisches Los 2004 Best of Panama gewann, geschätzt für intensiven Jasmin-, Bergamotte- und tropischen Fruchtcharakter.",
+        "why": "Sie definierte neu, wie viel Käufer für außergewöhnlichen Kaffee zu zahlen bereit waren, und brachte einen einzigen Sortennamen auf Speisekarten weltweit.",
+        "tip": "Die Erträge sind typischerweise niedrig und die Pflanze ist empfindlich — mit ein Grund, warum Gesha so hohe Preise erzielt.",
+        "mistake": "Anzunehmen, jeder als Gesha gekennzeichnete Kaffee liefere die gleiche Intensität — Anbaubedingungen spielen bei dieser Sorte eine enorme Rolle.",
+        "challenge": "Warum könnte dieselbe Sorte in Panama eine legendäre Tasse ergeben, anderswo aber nur eine durchschnittliche?"
+      },
+      "fr": {
+        "title": "Gesha (Geisha)",
+        "definition": "Une variété originaire d'Éthiopie devenue célèbre mondialement après qu'un lot panaméen a remporté Best of Panama en 2004, appréciée pour son caractère intense de jasmin, bergamote et fruits tropicaux.",
+        "why": "Elle a redéfini le prix que les acheteurs étaient prêts à payer pour un café exceptionnel et a placé le nom d'une seule variété sur les cartes du monde entier.",
+        "tip": "Les rendements sont généralement faibles et la plante est délicate — ce qui explique en partie pourquoi Gesha atteint des prix aussi élevés.",
+        "mistake": "Supposer que tout café étiqueté Gesha offrira la même intensité — les conditions de culture comptent énormément pour cette variété.",
+        "challenge": "Pourquoi la même variété pourrait-elle produire une tasse légendaire au Panama mais seulement moyenne ailleurs ?"
+      },
+      "it": {
+        "title": "Gesha (Geisha)",
+        "definition": "Una varietà originaria dell'Etiopia diventata famosa in tutto il mondo dopo che un lotto panamense ha vinto il Best of Panama nel 2004, apprezzata per l'intenso carattere di gelsomino, bergamotto e frutta tropicale.",
+        "why": "Ha ridefinito quanto gli acquirenti fossero disposti a pagare per un caffè eccezionale e ha messo il nome di una singola varietà sui menu di tutto il mondo.",
+        "tip": "Le rese sono tipicamente basse e la pianta è delicata — in parte il motivo per cui Gesha raggiunge prezzi così alti.",
+        "mistake": "Supporre che ogni caffè etichettato Gesha offra la stessa intensità — le condizioni di coltivazione contano enormemente per questa varietà.",
+        "challenge": "Perché la stessa varietà potrebbe produrre una tazza leggendaria a Panama ma solo una media altrove?"
       }
     },
     "photo_unverified": true,
@@ -5375,6 +5735,30 @@
         "tip": "Seu grande tamanho de grão afeta a torra; calibre os perfis de torra separadamente em vez de supor que os tempos padrão se aplicam.",
         "mistake": "Supor que grãos maiores significam automaticamente melhor sabor; tamanho e qualidade de xícara são selecionados separadamente.",
         "challenge": "Que ajustes de torra um tamanho de grão incomumente grande poderia exigir?"
+      },
+      "de": {
+        "title": "Pacamara",
+        "definition": "Ein gezielter Hybrid aus Pacas und Maragogype, in El Salvador für ungewöhnlich große Bohnengröße bei gleichzeitig starker Tassenqualität gezüchtet.",
+        "why": "Es ist ein gutes Beispiel für Züchtung, die gezielt sowohl auf Bohnengröße als auch Tassenqualität abzielt, nicht nur auf Ertrag oder Widerstandsfähigkeit.",
+        "tip": "Die große Bohnengröße beeinflusst die Röstung — stelle Röstprofile separat ein, statt anzunehmen, Standardzeiten würden gelten.",
+        "mistake": "Anzunehmen, größere Bohnen bedeuten automatisch besseren Geschmack — Größe und Tassenqualität werden separat gezüchtet.",
+        "challenge": "Welche Röstanpassungen könnte eine ungewöhnlich große Bohnengröße erfordern?"
+      },
+      "fr": {
+        "title": "Pacamara",
+        "definition": "Un hybride délibéré de Pacas et Maragogype, élevé au Salvador pour une taille de grain inhabituellement grande associée à une forte qualité en tasse.",
+        "why": "C'est un bon exemple de sélection visant spécifiquement la taille du grain et la qualité en tasse ensemble, pas seulement le rendement ou la résistance.",
+        "tip": "Sa grande taille de grain affecte la torréfaction — ajustez les profils de torréfaction séparément plutôt que de supposer qu'un minutage standard s'applique.",
+        "mistake": "Supposer que des grains plus gros signifient automatiquement un meilleur goût — la taille et la qualité en tasse sont sélectionnées séparément.",
+        "challenge": "Quels ajustements de torréfaction une taille de grain inhabituellement grande pourrait-elle exiger ?"
+      },
+      "it": {
+        "title": "Pacamara",
+        "definition": "Un ibrido deliberato di Pacas e Maragogype, selezionato in El Salvador per una dimensione del chicco insolitamente grande insieme a una forte qualità in tazza.",
+        "why": "È un buon esempio di selezione mirata specificamente sia alla dimensione del chicco sia alla qualità in tazza insieme, non solo a resa o resistenza.",
+        "tip": "La sua grande dimensione del chicco influisce sulla tostatura — imposta i profili di tostatura separatamente invece di supporre che valgano i tempi standard.",
+        "mistake": "Supporre che chicchi più grandi significhino automaticamente un sapore migliore — dimensione e qualità in tazza vengono selezionate separatamente.",
+        "challenge": "Quali aggiustamenti di tostatura potrebbe richiedere una dimensione del chicco insolitamente grande?"
       }
     },
     "photo_unverified": true,
@@ -5412,6 +5796,30 @@
         "tip": "Não suponha que resistência a doenças significa sacrifício de sabor; programas modernos de melhoramento também selecionam ativamente pela qualidade da xícara.",
         "mistake": "Descartar híbridos resistentes à ferrugem como automaticamente de menor qualidade do que variedades tradicionais como Typica ou Bourbon.",
         "challenge": "Por que a sobrevivência econômica de uma fazenda pode agora depender mais da resistência a doenças do que de buscar a maior pontuação de xícara possível?"
+      },
+      "de": {
+        "title": "Castillo",
+        "definition": "Ein kolumbianisch gezüchteter Hybrid, entwickelt, um Kaffeerost zu widerstehen und dabei wettbewerbsfähigen Ertrag und Tassenqualität zu erhalten, geschaffen, um das krankheitsanfällige Caturra zu ersetzen.",
+        "why": "Kaffeerost-Epidemien haben ganze Ernten in Lateinamerika verwüstet — krankheitsresistente Hybride wie Castillo sind heute für das Überleben vieler Farmen essenziell.",
+        "tip": "Nimm nicht an, Krankheitsresistenz bedeute einen Geschmackskompromiss — moderne Zuchtprogramme selektieren aktiv auch auf Tassenqualität.",
+        "mistake": "Rostresistente Hybride pauschal als automatisch minderwertiger gegenüber traditionellen Sorten wie Typica oder Bourbon abzutun.",
+        "challenge": "Warum könnte das wirtschaftliche Überleben einer Farm heute mehr von Krankheitsresistenz abhängen als vom Jagen der höchstmöglichen Tassenbewertung?"
+      },
+      "fr": {
+        "title": "Castillo",
+        "definition": "Un hybride élevé en Colombie, développé pour résister à la rouille du caféier tout en maintenant un rendement et une qualité en tasse compétitifs, créé pour remplacer le Caturra vulnérable aux maladies.",
+        "why": "Les épidémies de rouille ont dévasté des récoltes entières en Amérique latine — les hybrides résistants aux maladies comme Castillo sont désormais essentiels à la survie de nombreuses fermes.",
+        "tip": "Ne supposez pas que la résistance aux maladies signifie un compromis sur le goût — les programmes de sélection modernes ciblent aussi activement la qualité en tasse.",
+        "mistake": "Rejeter les hybrides résistants à la rouille comme automatiquement de moindre qualité que les variétés patrimoniales comme Typica ou Bourbon.",
+        "challenge": "Pourquoi la survie économique d'une ferme pourrait-elle désormais dépendre davantage de la résistance aux maladies que de la recherche du meilleur score en tasse possible ?"
+      },
+      "it": {
+        "title": "Castillo",
+        "definition": "Un ibrido selezionato in Colombia, sviluppato per resistere alla ruggine del caffè mantenendo resa e qualità in tazza competitive, creato per sostituire il Caturra vulnerabile alle malattie.",
+        "why": "Le epidemie di ruggine hanno devastato intere raccolte in America Latina — ibridi resistenti alle malattie come Castillo sono ora essenziali per la sopravvivenza di molte aziende agricole.",
+        "tip": "Non dare per scontato che la resistenza alle malattie significhi un compromesso sul sapore — i moderni programmi di selezione puntano attivamente anche sulla qualità in tazza.",
+        "mistake": "Liquidare gli ibridi resistenti alla ruggine come automaticamente di qualità inferiore rispetto a varietà tradizionali come Typica o Bourbon.",
+        "challenge": "Perché la sopravvivenza economica di un'azienda agricola potrebbe ora dipendere più dalla resistenza alle malattie che dall'inseguire il punteggio in tazza più alto possibile?"
       }
     },
     "photo_unverified": true,
@@ -5450,6 +5858,30 @@
         "tip": "Pergunte-se se uma variedade foi 'encontrada' ou 'criada'; isso geralmente indica para qual compromisso ela foi otimizada.",
         "mistake": "Tratar 'variedade' e 'origem' como se fossem a mesma coisa; a mesma variedade pode ser cultivada em países completamente diferentes.",
         "challenge": "Classifique Typica, Caturra, Gesha e Castillo entre mutações naturais e híbridos deliberados."
+      },
+      "de": {
+        "title": "Was eine Kultivar ausmacht",
+        "definition": "Eine Kultivar ist ein genetisch unterscheidbarer Kaffeepflanzentyp, entstanden entweder durch eine natürliche Mutation oder eine gezielte Kreuzung zwischen Elternsorten.",
+        "why": "Diese Unterscheidung zu verstehen erklärt, warum manche Sorten (wie Bourbon) zufällig entstanden, während andere (wie Castillo) für einen bestimmten Zweck entwickelt wurden.",
+        "tip": "Frage, ob eine Sorte 'gefunden' oder 'gezüchtet' wurde — das verrät meist, für welchen Kompromiss sie optimiert wurde.",
+        "mistake": "'Sorte' und 'Herkunft' als dasselbe zu behandeln — dieselbe Sorte kann in völlig unterschiedlichen Ländern angebaut werden.",
+        "challenge": "Sortiere Typica, Caturra, Gesha und Castillo in natürliche Mutationen versus gezielte Hybride."
+      },
+      "fr": {
+        "title": "Qu'est-ce qu'un cultivar",
+        "definition": "Un cultivar est un type de plant de café génétiquement distinct, résultant soit d'une mutation naturelle, soit d'un croisement délibéré entre variétés parentes.",
+        "why": "Comprendre cette distinction explique pourquoi certaines variétés (comme Bourbon) sont apparues par accident, tandis que d'autres (comme Castillo) ont été conçues dans un but précis.",
+        "tip": "Demandez si une variété a été « trouvée » ou « élevée » — cela indique généralement pour quel compromis elle a été optimisée.",
+        "mistake": "Traiter « variété » et « origine » comme la même chose — la même variété peut être cultivée dans des pays complètement différents.",
+        "challenge": "Classez Typica, Caturra, Gesha et Castillo entre mutations naturelles et hybrides délibérés."
+      },
+      "it": {
+        "title": "Cosa definisce una cultivar",
+        "definition": "Una cultivar è un tipo di pianta di caffè geneticamente distinto, derivante o da una mutazione naturale o da un incrocio deliberato tra varietà genitrici.",
+        "why": "Capire questa distinzione spiega perché alcune varietà (come Bourbon) sono nate per caso, mentre altre (come Castillo) sono state progettate per uno scopo specifico.",
+        "tip": "Chiediti se una varietà è stata 'trovata' o 'selezionata' — di solito rivela per quale compromesso è stata ottimizzata.",
+        "mistake": "Trattare 'varietà' e 'origine' come la stessa cosa — la stessa varietà può essere coltivata in paesi completamente diversi.",
+        "challenge": "Classifica Typica, Caturra, Gesha e Castillo tra mutazioni naturali e ibridi deliberati."
       }
     },
     "photo_unverified": true,
@@ -5487,6 +5919,30 @@
         "tip": "A caseína coagula com calor e ácido; esse é o mesmo mecanismo por trás da fabricação de queijo, não apenas uma peculiaridade da vaporização.",
         "mistake": "Supor que todas as proteínas do leite se comportam da mesma forma sob calor; caseína e soro respondem de maneira muito diferente.",
         "challenge": "Por que o leite talha quando calor e ácido (como cítricos ou leite velho) estão presentes juntos?"
+      },
+      "de": {
+        "title": "Kaseinproteine",
+        "definition": "Die häufigste Proteingruppe in Milch, existiert als winzige, geclusterte Partikel namens Mizellen, die in Schwebe bleiben und der Milch ihre weiße Farbe geben.",
+        "why": "Die Struktur des Kaseins ist ein wesentlicher Grund dafür, warum aufgeschäumte Milch ihre Form und Körperlichkeit behält, statt sofort zusammenzufallen.",
+        "tip": "Kasein koaguliert unter Hitze und Säure — das ist derselbe Mechanismus wie bei der Käseherstellung, nicht nur eine Eigenart des Aufschäumens.",
+        "mistake": "Anzunehmen, alle Milchproteine verhalten sich unter Hitze gleich — Kasein und Molkeprotein reagieren sehr unterschiedlich.",
+        "challenge": "Warum gerinnt Milch, wenn Hitze und Säure (wie Zitrus oder alte Milch) gleichzeitig auftreten?"
+      },
+      "fr": {
+        "title": "Protéines de caséine",
+        "definition": "Le groupe protéique le plus abondant du lait, existant sous forme de minuscules particules groupées appelées micelles, qui restent en suspension et donnent au lait sa couleur blanche.",
+        "why": "La structure de la caséine explique en grande partie pourquoi le lait vaporisé garde sa forme et son corps au lieu de s'effondrer instantanément.",
+        "tip": "La caséine coagule sous l'effet de la chaleur et de l'acide — c'est le même mécanisme que celui de la fabrication du fromage, pas juste une particularité de la vaporisation.",
+        "mistake": "Supposer que toutes les protéines du lait se comportent de la même façon sous la chaleur — caséine et lactosérum réagissent très différemment.",
+        "challenge": "Pourquoi le lait caille-t-il quand la chaleur et l'acide (comme les agrumes ou du lait ancien) sont présents ensemble ?"
+      },
+      "it": {
+        "title": "Proteine della caseina",
+        "definition": "Il gruppo proteico più abbondante nel latte, esistente come minuscole particelle raggruppate chiamate micelle, che restano in sospensione e conferiscono al latte il suo colore bianco.",
+        "why": "La struttura della caseina è una gran parte del motivo per cui il latte montato mantiene la sua forma e corpo invece di collassare istantaneamente.",
+        "tip": "La caseina coagula sotto calore e acido — è lo stesso meccanismo alla base della produzione del formaggio, non solo una particolarità della montatura.",
+        "mistake": "Supporre che tutte le proteine del latte si comportino allo stesso modo sotto calore — caseina e siero reagiscono in modo molto diverso.",
+        "challenge": "Perché il latte cagliaquando calore e acido (come agrumi o latte vecchio) sono presenti insieme?"
       }
     },
     "id": 148
@@ -5523,6 +5979,30 @@
         "tip": "Superaquecer o leite desnatura excessivamente as proteínas do soro, o que em parte explica por que o leite escaldado perde a capacidade de espumar.",
         "mistake": "Culpar apenas a técnica por uma espuma ruim quando o próprio leite já pode ter ultrapassado sua temperatura ideal para a estrutura do soro.",
         "challenge": "Por que dois leites com o mesmo teor de gordura poderiam espumar de forma completamente diferente?"
+      },
+      "de": {
+        "title": "Molkeproteine",
+        "definition": "Die kleinere Proteingruppe in Milch, hitzeempfindlicher als Kasein und zentral dafür, wie sich Schaum tatsächlich bildet und stabilisiert.",
+        "why": "Molkeproteine entfalten sich und schließen Luft leichter ein als Kasein, was sie zu den eigentlichen Arbeitspferden hinter der Mikroschaumtextur macht.",
+        "tip": "Überhitzte Milch denaturiert Molkeproteine übermäßig, was mit ein Grund ist, warum verbrühte Milch die Schaumfähigkeit verliert.",
+        "mistake": "Schlechten Schaum allein der Technik zuzuschreiben, wenn die Milch selbst bereits ihre ideale Temperatur für die Molkestruktur überschritten hat.",
+        "challenge": "Warum könnten zwei Milchsorten mit identischem Fettgehalt trotzdem völlig unterschiedlich aufschäumen?"
+      },
+      "fr": {
+        "title": "Protéines de lactosérum",
+        "definition": "Le groupe protéique minoritaire du lait, plus sensible à la chaleur que la caséine et central dans la façon dont la mousse se forme et se stabilise réellement.",
+        "why": "Les protéines de lactosérum se déplient et emprisonnent l'air plus facilement que la caséine, ce qui en fait les véritables artisans de la texture de la microfoam.",
+        "tip": "Surchauffer le lait dénature excessivement les protéines de lactosérum, ce qui explique en partie pourquoi le lait échaudé perd sa capacité à mousser.",
+        "mistake": "Attribuer une mousse médiocre uniquement à la technique alors que le lait lui-même a peut-être déjà dépassé sa température idéale pour la structure du lactosérum.",
+        "challenge": "Pourquoi deux laits avec une teneur en matière grasse identique pourraient-ils mousser de façon complètement différente ?"
+      },
+      "it": {
+        "title": "Proteine del siero",
+        "definition": "Il gruppo proteico minoritario nel latte, più sensibile al calore della caseina e centrale nel modo in cui la schiuma si forma e si stabilizza realmente.",
+        "why": "Le proteine del siero si dispiegano e intrappolano l'aria più facilmente della caseina, rendendole i veri motori dietro la texture della microschiuma.",
+        "tip": "Surriscaldare il latte denatura eccessivamente le proteine del siero, il che spiega in parte perché il latte scottato perde capacità schiumogena.",
+        "mistake": "Attribuire una schiuma scarsa solo alla tecnica quando il latte stesso potrebbe già aver superato la sua temperatura ideale per la struttura del siero.",
+        "challenge": "Perché due latti con lo stesso contenuto di grassi potrebbero montare in modo completamente diverso?"
       }
     },
     "id": 149
@@ -5559,6 +6039,30 @@
         "tip": "Compare leite integral, semidesnatado e desnatado lado a lado para isolar o que a gordura sozinha contribui para a sensação na boca.",
         "mistake": "Supor que mais gordura sempre significa melhor espuma; a gordura na verdade pode prejudicar a estabilidade da espuma a partir de certo ponto.",
         "challenge": "Por que um barista poderia escolher um leite com menos gordura especificamente para latte art em vez de leite integral?"
+      },
+      "de": {
+        "title": "Milchfett und Mundgefühl",
+        "definition": "Der Fettgehalt und die Struktur der Fettkügelchen in Milch formen direkt Körper, Fülle und die wahrgenommene Textur im Mund.",
+        "why": "Fett überzieht den Gaumen und verlangsamt, wie schnell andere Geschmäcker wahrgenommen werden, was das gesamte Trinkerlebnis verändert, nicht nur die 'Cremigkeit'.",
+        "tip": "Vergleiche Vollmilch, teilentrahmte und entrahmte Milch nebeneinander, um zu isolieren, was Fett allein zum Mundgefühl beiträgt.",
+        "mistake": "Anzunehmen, mehr Fett bedeute immer besseren Schaum — Fett kann ab einem bestimmten Punkt tatsächlich gegen die Schaumstabilität wirken.",
+        "challenge": "Warum könnte ein Barista speziell für Latte Art fettärmere Milch statt Vollmilch wählen?"
+      },
+      "fr": {
+        "title": "Matière grasse du lait et texture en bouche",
+        "definition": "La teneur en matière grasse et la structure des globules gras du lait façonnent directement le corps, la richesse et la texture perçue en bouche.",
+        "why": "La matière grasse enrobe le palais et ralentit la perception des autres saveurs, changeant toute l'expérience de dégustation, pas seulement le « crémeux ».",
+        "tip": "Comparez lait entier, demi-écrémé et écrémé côte à côte pour isoler ce que la matière grasse seule apporte à la texture en bouche.",
+        "mistake": "Supposer qu'une teneur en matière grasse plus élevée signifie toujours une meilleure mousse — la matière grasse peut en réalité nuire à la stabilité de la mousse au-delà d'un certain point.",
+        "challenge": "Pourquoi un barista pourrait-il choisir un lait moins gras spécifiquement pour le latte art plutôt que du lait entier ?"
+      },
+      "it": {
+        "title": "Grasso del latte e sensazione in bocca",
+        "definition": "Il contenuto di grassi e la struttura dei globuli di grasso nel latte plasmano direttamente corpo, ricchezza e percezione della texture in bocca.",
+        "why": "Il grasso riveste il palato e rallenta la velocità con cui vengono percepiti gli altri sapori, cambiando l'intera esperienza di bevuta, non solo la 'cremosità'.",
+        "tip": "Confronta latte intero, parzialmente scremato e scremato fianco a fianco per isolare ciò che il grasso da solo contribuisce alla sensazione in bocca.",
+        "mistake": "Supporre che più grasso significhi sempre schiuma migliore — il grasso può in realtà ostacolare la stabilità della schiuma oltre un certo punto.",
+        "challenge": "Perché un barista potrebbe scegliere un latte a basso contenuto di grassi specificamente per il latte art invece del latte intero?"
       }
     },
     "id": 150
@@ -5595,6 +6099,30 @@
         "tip": "O leite não homogeneizado pode se comportar de forma notavelmente diferente ao ser vaporizado; não suponha que todo leite integral espuma igual.",
         "mistake": "Supor que o teor de gordura sozinho prevê o comportamento da espuma sem considerar como essa gordura está fisicamente distribuída.",
         "challenge": "Por que quebrar a gordura em glóbulos menores muda como o leite parece e é despejado, não apenas seu sabor?"
+      },
+      "de": {
+        "title": "Größe der Fettkügelchen",
+        "definition": "Homogenisierung zerlegt Milchfett in viel kleinere, gleichmäßiger verteilte Kügelchen, als Rohmilch sie von Natur aus hat.",
+        "why": "Kleinere, gleichmäßig verteilte Fettkügelchen sind der Grund, warum moderne homogenisierte Milch sich nicht in eine sichtbare Rahmschicht trennt.",
+        "tip": "Nicht homogenisierte Milch kann sich beim Aufschäumen spürbar anders verhalten — nimm nicht an, dass sich alle Vollmilch identisch aufschäumen lässt.",
+        "mistake": "Anzunehmen, der Fettgehalt allein sage das Schäumverhalten voraus, ohne zu berücksichtigen, wie dieses Fett physisch verteilt ist.",
+        "challenge": "Warum verändert das Zerlegen von Fett in kleinere Kügelchen, wie Milch aussieht und fließt, nicht nur, wie sie schmeckt?"
+      },
+      "fr": {
+        "title": "Taille des globules gras",
+        "definition": "L'homogénéisation fragmente la matière grasse du lait en globules bien plus petits et uniformément répartis que ceux naturellement présents dans le lait cru.",
+        "why": "Des globules gras plus petits et uniformément répartis expliquent pourquoi le lait homogénéisé moderne ne se sépare pas en une couche de crème visible.",
+        "tip": "Le lait non homogénéisé peut se comporter sensiblement différemment une fois vaporisé — ne supposez pas que tout lait entier mousse de manière identique.",
+        "mistake": "Supposer que la teneur en matière grasse seule prédit le comportement moussant sans tenir compte de la façon dont cette matière grasse est physiquement répartie.",
+        "challenge": "Pourquoi fragmenter la matière grasse en globules plus petits change-t-il l'apparence et l'écoulement du lait, pas seulement son goût ?"
+      },
+      "it": {
+        "title": "Dimensione dei globuli di grasso",
+        "definition": "L'omogeneizzazione frammenta il grasso del latte in globuli molto più piccoli e distribuiti uniformemente rispetto a quelli naturalmente presenti nel latte crudo.",
+        "why": "Globuli di grasso più piccoli e distribuiti uniformemente sono il motivo per cui il latte omogeneizzato moderno non si separa in uno strato di panna visibile.",
+        "tip": "Il latte non omogeneizzato può comportarsi sensibilmente diverso quando montato — non dare per scontato che tutto il latte intero monti allo stesso modo.",
+        "mistake": "Supporre che il solo contenuto di grassi predica il comportamento schiumogeno senza considerare come quel grasso sia fisicamente distribuito.",
+        "challenge": "Perché frammentare il grasso in globuli più piccoli cambia l'aspetto e la versabilità del latte, non solo il suo sapore?"
       }
     },
     "id": 151
@@ -5631,6 +6159,30 @@
         "tip": "Prove o leite frio e depois vaporizado, lado a lado; a mudança na doçura é real e repetível, não apenas percepção.",
         "mistake": "Supor que uma bebida de leite mais doce deve conter açúcar adicionado em vez de reconhecer a própria resposta da lactose ao calor.",
         "challenge": "Por que superaquecer o leite além da faixa ideal na verdade reduziria a doçura percebida em vez de aumentá-la ainda mais?"
+      },
+      "de": {
+        "title": "Laktose und wahrgenommene Süße",
+        "definition": "Laktose ist der natürliche Zucker der Milch, und Hitze steigert messbar, wie süß aufgeschäumte Milch im Vergleich zu kalter Milch schmeckt.",
+        "why": "Deshalb kann ein gut aufgeschäumter Latte spürbar süßer schmecken als dieselbe Milch kalt eingeschenkt, ganz ohne zugesetzten Zucker.",
+        "tip": "Probiere Milch kalt und dann aufgeschäumt nebeneinander — die Süßeverschiebung ist real und wiederholbar, nicht nur Einbildung.",
+        "mistake": "Anzunehmen, ein süßer schmeckendes Milchgetränk müsse zugesetzten Zucker enthalten, statt Laktoses eigene Hitzereaktion zu erkennen.",
+        "challenge": "Warum würde Überhitzen der Milch über den idealen Bereich hinaus die wahrgenommene Süße tatsächlich verringern, statt sie weiter zu erhöhen?"
+      },
+      "fr": {
+        "title": "Lactose et douceur perçue",
+        "definition": "Le lactose est le sucre naturel du lait, et la chaleur augmente mesurablement à quel point le lait vaporisé a un goût plus sucré que le lait froid.",
+        "why": "C'est pourquoi un latte bien vaporisé peut avoir un goût sensiblement plus sucré que le même lait versé froid, sans aucun sucre ajouté.",
+        "tip": "Goûtez le lait froid puis vaporisé côte à côte — le changement de douceur est réel et reproductible, pas simplement une perception.",
+        "mistake": "Supposer qu'une boisson lactée au goût plus sucré doit contenir du sucre ajouté plutôt que de reconnaître la propre réponse du lactose à la chaleur.",
+        "challenge": "Pourquoi surchauffer le lait au-delà de la plage idéale réduirait-il en réalité la douceur perçue plutôt que de l'augmenter davantage ?"
+      },
+      "it": {
+        "title": "Lattosio e dolcezza percepita",
+        "definition": "Il lattosio è lo zucchero naturale del latte, e il calore aumenta in modo misurabile quanto dolce risulti il latte montato rispetto al latte freddo.",
+        "why": "Questo è il motivo per cui un latte ben montato può avere un sapore notevolmente più dolce dello stesso latte versato freddo, senza alcuno zucchero aggiunto.",
+        "tip": "Assaggia il latte freddo e poi montato fianco a fianco — il cambiamento di dolcezza è reale e ripetibile, non solo percezione.",
+        "mistake": "Supporre che una bevanda a base di latte dal sapore più dolce debba contenere zucchero aggiunto invece di riconoscere la risposta al calore del lattosio stesso.",
+        "challenge": "Perché surriscaldare il latte oltre l'intervallo ideale ridurrebbe effettivamente la dolcezza percepita invece di aumentarla ulteriormente?"
       }
     },
     "id": 152
@@ -5667,6 +6219,30 @@
         "tip": "Se um leite se comportar de forma inesperada sob o vaporizador, verifique se é UHT antes de culpar a técnica.",
         "mistake": "Supor que todo leite de longa vida e todo leite fresco são funcionalmente idênticos para fins de vaporização.",
         "challenge": "Por que um processamento térmico mais intenso durante a produção afetaria como o leite responde a uma segunda rodada de aquecimento no balcão de café?"
+      },
+      "de": {
+        "title": "UHT- vs. pasteurisierte Milch",
+        "definition": "UHT-Milch (ultrahocherhitzt) wird viel heißer und schneller erhitzt als standardmäßig pasteurisierte Milch, was Proteine stärker denaturiert für lange Haltbarkeit.",
+        "why": "Diese zusätzliche Hitzebehandlung ist genau der Grund, warum UHT-Milch sich beim Aufschäumen oft anders verhält als frische pasteurisierte Milch.",
+        "tip": "Wenn sich Milch unter der Dampflanze unerwartet verhält, prüfe zuerst, ob es UHT-Milch ist, bevor du die Technik verantwortlich machst.",
+        "mistake": "Anzunehmen, alle haltbaren und frischen Milchsorten seien für Aufschäumzwecke funktional identisch.",
+        "challenge": "Warum würde stärkere Hitzebehandlung während der Produktion beeinflussen, wie Milch auf eine zweite Erhitzungsrunde an der Espressomaschine reagiert?"
+      },
+      "fr": {
+        "title": "Lait UHT vs pasteurisé",
+        "definition": "Le lait UHT (ultra-haute température) est chauffé bien plus fort et plus vite que le lait pasteurisé standard, dénaturant davantage les protéines pour une longue conservation.",
+        "why": "Ce traitement thermique supplémentaire explique exactement pourquoi le lait UHT vaporise et mousse souvent différemment du lait pasteurisé frais.",
+        "tip": "Si un lait se comporte de façon inattendue sous la buse vapeur, vérifiez s'il s'agit d'UHT avant de blâmer la technique.",
+        "mistake": "Supposer que tous les laits longue conservation et frais sont fonctionnellement identiques pour la vaporisation.",
+        "challenge": "Pourquoi un traitement thermique plus intense pendant la production affecterait-il la façon dont le lait réagit à un second cycle de chauffe au bar à espresso ?"
+      },
+      "it": {
+        "title": "Latte UHT vs pastorizzato",
+        "definition": "Il latte UHT (a temperatura ultra-alta) viene riscaldato molto più caldo e velocemente del latte pastorizzato standard, denaturando maggiormente le proteine per una lunga conservazione.",
+        "why": "Questo trattamento termico extra è esattamente il motivo per cui il latte UHT spesso monta e fa schiuma diversamente dal latte pastorizzato fresco.",
+        "tip": "Se un latte si comporta in modo inaspettato sotto la lancia vapore, controlla se è UHT prima di dare la colpa alla tecnica.",
+        "mistake": "Supporre che tutti i latti a lunga conservazione e freschi siano funzionalmente identici ai fini della montatura.",
+        "challenge": "Perché un trattamento termico più intenso durante la produzione influenzerebbe come il latte risponde a un secondo ciclo di riscaldamento al bar espresso?"
       }
     },
     "id": 153
@@ -5703,6 +6279,30 @@
         "tip": "O leite mais fresco geralmente dá uma espuma mais estável e previsível do que o leite próximo da data de validade.",
         "mistake": "Culpar totalmente a técnica por uma espuma inconsistente sem considerar a frescura do leite e a variação de pH ao longo do tempo.",
         "challenge": "Por que adicionar um xarope ácido antes de vaporizar poderia causar resultados visivelmente diferentes de adicioná-lo depois?"
+      },
+      "de": {
+        "title": "Milch-pH und Proteinstabilität",
+        "definition": "Der natürliche pH-Wert der Milch liegt nahe neutral, und kleine Verschiebungen in Richtung Säure — durch Alter oder zugesetzte Zutaten — können ihre Proteinstruktur destabilisieren.",
+        "why": "Das ist mit ein Grund, warum ältere Milch oder Milch gemischt mit säurehaltigen Sirups beim Aufschäumen unvorhersehbar reagieren oder gerinnen kann.",
+        "tip": "Frischere Milch ergibt im Allgemeinen stabileren, vorhersehbareren Schaum als Milch, die sich dem Mindesthaltbarkeitsdatum nähert.",
+        "mistake": "Uneinheitlichen Schaum vollständig der Technik zuzuschreiben, ohne Milchfrische und pH-Verschiebung über die Zeit zu berücksichtigen.",
+        "challenge": "Warum könnte das Hinzufügen eines säurehaltigen Sirups vor dem Aufschäumen sichtbar andere Ergebnisse verursachen als danach?"
+      },
+      "fr": {
+        "title": "pH du lait et stabilité des protéines",
+        "definition": "Le pH naturel du lait est proche de la neutralité, et de légers glissements vers l'acidité — dus à l'âge ou à des ingrédients ajoutés — peuvent déstabiliser sa structure protéique.",
+        "why": "C'est en partie pourquoi un lait plus vieux, ou mélangé à des sirops acides, peut se comporter de façon imprévisible ou cailler à la vaporisation.",
+        "tip": "Un lait plus frais donne généralement une mousse plus stable et prévisible qu'un lait proche de sa date limite.",
+        "mistake": "Attribuer une mousse incohérente entièrement à la technique sans tenir compte de la fraîcheur du lait et de la dérive du pH dans le temps.",
+        "challenge": "Pourquoi ajouter un sirop acide avant la vaporisation pourrait-il donner des résultats visiblement différents que de l'ajouter après ?"
+      },
+      "it": {
+        "title": "pH del latte e stabilità delle proteine",
+        "definition": "Il pH naturale del latte è vicino alla neutralità, e piccoli spostamenti verso l'acidità — dovuti a invecchiamento o ingredienti aggiunti — possono destabilizzare la sua struttura proteica.",
+        "why": "Questo spiega in parte perché il latte più vecchio, o mescolato con sciroppi acidi, possa comportarsi in modo imprevedibile o cagliare quando montato.",
+        "tip": "Il latte più fresco generalmente dà una schiuma più stabile e prevedibile rispetto al latte vicino alla data di scadenza.",
+        "mistake": "Attribuire una schiuma incostante interamente alla tecnica senza considerare la freschezza del latte e la deriva del pH nel tempo.",
+        "challenge": "Perché aggiungere uno sciroppo acido prima della montatura potrebbe causare risultati visibilmente diversi rispetto ad aggiungerlo dopo?"
       }
     },
     "id": 154
@@ -5739,6 +6339,30 @@
         "tip": "Trate cada leite vegetal como sua própria categoria em vez de um substituto único; aveia e amêndoa podem se comportar de forma completamente diferente.",
         "mistake": "Aplicar a técnica de vaporização do leite comum sem alterações ao leite vegetal e culpar o leite quando os resultados diferem.",
         "challenge": "Por que a maioria dos produtos de leite vegetal 'para barista' contém ingredientes adicionados que o leite vegetal comum não tem?"
+      },
+      "de": {
+        "title": "Pflanzliche Milchproteine",
+        "definition": "Hafer-, Soja-, Mandel- und erbsenbasierte Milch beruhen jeweils auf völlig anderen Proteinstrukturen als Milchprodukte, weshalb sie sich so unterschiedlich aufschäumen lassen.",
+        "why": "Für Baristas formulierte Pflanzenmilch enthält oft Stabilisatoren und Gummis, speziell um Proteinstrukturen auszugleichen, die nicht natürlich wie Milch schäumen.",
+        "tip": "Behandle jede Pflanzenmilch als eigene Kategorie statt als einheitlichen Ersatz — Hafer und Mandel können sich völlig unterschiedlich verhalten.",
+        "mistake": "Milchaufschäumtechnik unverändert auf Pflanzenmilch anzuwenden und der Milch die Schuld zu geben, wenn die Ergebnisse abweichen.",
+        "challenge": "Warum enthalten die meisten 'Barista'-Pflanzenmilchprodukte zusätzliche Zutaten, die normale Pflanzenmilch nicht enthält?"
+      },
+      "fr": {
+        "title": "Protéines des laits végétaux",
+        "definition": "Les laits d'avoine, de soja, d'amande et de pois reposent chacun sur des structures protéiques complètement différentes de celles du lait de vache, ce qui explique pourquoi ils vaporisent si différemment les uns des autres.",
+        "why": "Les laits végétaux formulés pour baristas ajoutent souvent des stabilisants et des gommes spécifiquement pour compenser des structures protéiques qui ne moussent pas naturellement comme le lait de vache.",
+        "tip": "Traitez chaque lait végétal comme sa propre catégorie plutôt que comme un substitut unique — avoine et amande peuvent se comporter de manière totalement différente.",
+        "mistake": "Appliquer la technique de vaporisation du lait de vache sans modification au lait végétal et blâmer le lait quand les résultats diffèrent.",
+        "challenge": "Pourquoi la plupart des produits laitiers végétaux « barista » contiennent-ils des ingrédients ajoutés que le lait végétal ordinaire n'a pas ?"
+      },
+      "it": {
+        "title": "Proteine dei latti vegetali",
+        "definition": "I latti a base di avena, soia, mandorla e piselli si basano ciascuno su strutture proteiche completamente diverse rispetto al latte vaccino, ed è per questo che montano in modo così diverso l'uno dall'altro.",
+        "why": "I latti vegetali formulati per i baristi spesso aggiungono stabilizzanti e gomme specificamente per compensare strutture proteiche che non fanno schiuma naturalmente come il latte vaccino.",
+        "tip": "Tratta ogni latte vegetale come una categoria a sé invece che come un sostituto unico — avena e mandorla possono comportarsi in modo completamente diverso.",
+        "mistake": "Applicare la tecnica di montatura del latte vaccino invariata al latte vegetale e dare la colpa al latte quando i risultati differiscono.",
+        "challenge": "Perché la maggior parte dei prodotti a base vegetale 'da barista' contiene ingredienti aggiunti che il normale latte vegetale non ha?"
       }
     },
     "id": 155
@@ -5776,6 +6400,30 @@
         "tip": "Se a espuma parece ótima logo após vaporizar mas colapsa rápido, suspeite de interferência da gordura ou estrutura proteica insuficiente, não apenas do volume de ar.",
         "mistake": "Julgar a qualidade da espuma apenas no momento em que é servida, sem considerar como ela se sustenta no minuto seguinte.",
         "challenge": "Por que uma espuma que parece idêntica logo após a vaporização às vezes colapsa em ritmos muito diferentes?"
+      },
+      "de": {
+        "title": "Die Physik der Schaumstabilität",
+        "definition": "Stabiler Milchschaum hängt von einem dünnen Proteinfilm ab, der sich um eingeschlossene Luftblasen bildet, während Fett gleichzeitig daran arbeitet, diese Struktur mit der Zeit zu destabilisieren.",
+        "why": "Diese Spannung zwischen Protein und Fett zu verstehen erklärt fast jedes praktische Schaumproblem, dem Baristas begegnen.",
+        "tip": "Wenn Schaum sofort großartig aussieht, aber schnell zusammenfällt, vermute Fettbeeinträchtigung oder unzureichende Proteinstruktur, nicht nur das Luftvolumen.",
+        "mistake": "Schaumqualität nur im Moment des Einschenkens zu beurteilen, ohne zu berücksichtigen, wie er sich in der nächsten Minute hält.",
+        "challenge": "Warum kollabiert Schaum, der direkt nach dem Aufschäumen identisch aussieht, manchmal mit sehr unterschiedlichen Geschwindigkeiten?"
+      },
+      "fr": {
+        "title": "La physique de la stabilité de la mousse",
+        "definition": "Une mousse de lait stable dépend d'un mince film protéique se formant autour des bulles d'air emprisonnées, tandis que la matière grasse travaille à déstabiliser cette même structure au fil du temps.",
+        "why": "Comprendre cette tension entre protéine et matière grasse explique presque tous les problèmes pratiques de mousse rencontrés par les baristas.",
+        "tip": "Si la mousse semble excellente immédiatement mais s'effondre vite, soupçonnez une interférence de la matière grasse ou une structure protéique insuffisante, pas seulement le volume d'air.",
+        "mistake": "Juger la qualité de la mousse uniquement au moment où elle est versée, sans considérer comment elle tient pendant la minute suivante.",
+        "challenge": "Pourquoi une mousse qui semble identique juste après la vaporisation s'effondre-t-elle parfois à des vitesses très différentes ?"
+      },
+      "it": {
+        "title": "La fisica della stabilità della schiuma",
+        "definition": "Una schiuma di latte stabile dipende da un sottile film proteico che si forma attorno alle bolle d'aria intrappolate, mentre il grasso lavora per destabilizzare quella stessa struttura nel tempo.",
+        "why": "Capire questa tensione tra proteine e grassi spiega quasi ogni problema pratico di schiuma che i baristi incontrano.",
+        "tip": "Se la schiuma sembra ottima subito ma collassa rapidamente, sospetta un'interferenza dei grassi o una struttura proteica insufficiente, non solo il volume d'aria.",
+        "mistake": "Giudicare la qualità della schiuma solo nel momento in cui viene versata, senza considerare come si mantiene nel minuto successivo.",
+        "challenge": "Perché una schiuma che sembra identica subito dopo la montatura a volte collassa a velocità molto diverse?"
       }
     },
     "free_sample": true,
@@ -5813,6 +6461,30 @@
         "tip": "Pense no rendimento de extração como 'quanto do café eu usei' e na força como 'quão concentrado ficou o resultado'; respondem perguntas diferentes.",
         "mistake": "Usar rendimento de extração e força como sinônimos ao discutir por que um preparo tem determinado sabor.",
         "challenge": "Dois preparos com rendimento de extração idêntico poderiam ter sabores completamente diferentes? Por quê?"
+      },
+      "de": {
+        "title": "Extraktionsausbeute",
+        "definition": "Der Prozentsatz der Trockenmasse des Kaffees, der sich tatsächlich im aufgebrühten Getränk auflöst — typischerweise zwischen 18-22% für ausgewogene Tassen.",
+        "why": "Es ist eine völlig andere Messgröße als die Stärke — ein Kaffee kann gleichzeitig stark und unterextrahiert oder schwach und überextrahiert sein.",
+        "tip": "Stell dir die Extraktionsausbeute als 'wie viel vom Kaffee habe ich genutzt' vor und die Stärke als 'wie konzentriert ist das Ergebnis' — beides beantwortet unterschiedliche Fragen.",
+        "mistake": "Extraktionsausbeute und Stärke synonym zu verwenden, wenn man erklärt, warum ein Brühergebnis auf eine bestimmte Weise schmeckt.",
+        "challenge": "Könnten zwei Brühungen mit identischer Extraktionsausbeute völlig unterschiedlich schmecken? Warum?"
+      },
+      "fr": {
+        "title": "Rendement d'extraction",
+        "definition": "Le pourcentage de la masse sèche du café qui se dissout réellement dans la boisson infusée, généralement ciblé entre 18 et 22 % pour des tasses équilibrées.",
+        "why": "C'est une mesure complètement différente de la force — un café peut être fort et sous-extrait, ou faible et sur-extrait, en même temps.",
+        "tip": "Pensez au rendement d'extraction comme « combien de café ai-je utilisé » et à la force comme « à quel point le résultat est concentré » — ce sont deux questions différentes.",
+        "mistake": "Utiliser rendement d'extraction et force de manière interchangeable pour expliquer pourquoi une infusion a un certain goût.",
+        "challenge": "Deux infusions avec un rendement d'extraction identique pourraient-elles avoir un goût complètement différent ? Pourquoi ?"
+      },
+      "it": {
+        "title": "Resa di estrazione",
+        "definition": "La percentuale della massa secca del caffè che si dissolve realmente nella bevanda preparata, tipicamente tra il 18-22% per tazze equilibrate.",
+        "why": "È una misura completamente diversa dalla forza — un caffè può essere forte e sottoestratto, o debole e sovraestratto, allo stesso tempo.",
+        "tip": "Pensa alla resa di estrazione come 'quanto caffè ho usato' e alla forza come 'quanto è concentrato il risultato' — rispondono a domande diverse.",
+        "mistake": "Usare resa di estrazione e forza in modo intercambiabile quando si discute perché un'infusione ha un certo sapore.",
+        "challenge": "Due infusioni con resa di estrazione identica potrebbero avere sapori completamente diversi? Perché?"
       }
     },
     "id": 157
@@ -5849,6 +6521,30 @@
         "tip": "Um refratômetro mede o TDS em segundos, mas sempre combine isso com a prova; o número sozinho não diz se um preparo tem bom sabor.",
         "mistake": "Tratar um número de TDS 'correto' como prova de qualidade sem realmente provar o café.",
         "challenge": "Por que a leitura de TDS de um refratômetro e o rendimento de extração precisam ser calculados juntos, não lidos separadamente?"
+      },
+      "de": {
+        "title": "TDS und Refraktometrie",
+        "definition": "Total Dissolved Solids (TDS) misst die Konzentration gelöster Kaffeeverbindungen in einem Getränk, üblicherweise mit einem Refraktometer gemessen.",
+        "why": "TDS liefert eine objektive Zahl für die Stärke und ersetzt Vermutungen durch eine Messung, die zwischen Brühungen direkt vergleichbar ist.",
+        "tip": "Ein Refraktometer liest TDS in Sekunden ab, aber kombiniere es immer mit dem Verkosten — die Zahl allein sagt nicht, ob eine Brühung gut schmeckt.",
+        "mistake": "Eine 'korrekte' TDS-Zahl als Qualitätsbeweis zu behandeln, ohne den Kaffee tatsächlich zu probieren.",
+        "challenge": "Warum müssen die TDS-Messung eines Refraktometers und die Extraktionsausbeute zusammen berechnet werden und nicht unabhängig voneinander?"
+      },
+      "fr": {
+        "title": "TDS et réfractométrie",
+        "definition": "Les matières dissoutes totales (TDS) mesurent la concentration de composés de café dissous dans une infusion, généralement lue avec un réfractomètre.",
+        "why": "Le TDS donne un chiffre objectif pour la force, remplaçant les suppositions par une mesure directement comparable entre les infusions.",
+        "tip": "Un réfractomètre lit le TDS en quelques secondes, mais associez-le toujours à la dégustation — le chiffre seul ne dit pas si une infusion a bon goût.",
+        "mistake": "Considérer un chiffre de TDS « correct » comme une preuve de qualité sans réellement goûter le café.",
+        "challenge": "Pourquoi la lecture du TDS d'un réfractomètre et le rendement d'extraction doivent-ils être calculés ensemble, et non lus indépendamment ?"
+      },
+      "it": {
+        "title": "TDS e rifrattometria",
+        "definition": "I solidi totali disciolti (TDS) misurano la concentrazione di composti del caffè disciolti in un'infusione, tipicamente letti con un rifrattometro.",
+        "why": "Il TDS fornisce un numero oggettivo per la forza, sostituendo le supposizioni con una misura direttamente confrontabile tra infusioni.",
+        "tip": "Un rifrattometro legge il TDS in pochi secondi, ma abbinalo sempre all'assaggio — il numero da solo non dice se un'infusione ha un buon sapore.",
+        "mistake": "Trattare un numero di TDS 'corretto' come prova di qualità senza assaggiare realmente il caffè.",
+        "challenge": "Perché la lettura del TDS di un rifrattometro e la resa di estrazione devono essere calcolate insieme, non lette indipendentemente?"
       }
     },
     "free_sample": true,
@@ -5886,6 +6582,30 @@
         "tip": "Use o gráfico para diagnosticar problemas, não apenas para confirmar sucesso; uma xícara fora da zona diz exatamente em qual direção ajustar.",
         "mistake": "Tratar a zona-alvo como uma regra rígida em vez de uma referência geral que a maioria tende a preferir.",
         "challenge": "Se uma xícara cai fora da zona ideal mas você genuinamente gosta dela, o que isso diz sobre os limites do gráfico?"
+      },
+      "de": {
+        "title": "Die SCA Brewing Control Chart",
+        "definition": "Ein Diagramm, das Extraktionsausbeute gegen Stärke (TDS) aufträgt und eine Zielzone definiert, in der die meisten Verkoster den Kaffee als ausgewogen empfinden.",
+        "why": "Es gibt Brühern einen gemeinsamen, messbaren Bezugspunkt, statt sich rein auf subjektive Geschmacksbeschreibungen zu verlassen.",
+        "tip": "Nutze das Diagramm, um Probleme zu diagnostizieren, nicht nur um Erfolg zu bestätigen — eine Tasse außerhalb der Zone zeigt genau, in welche Richtung angepasst werden sollte.",
+        "mistake": "Die Zielzone als strikte Regel zu behandeln statt als allgemeinen Bezugspunkt, den die meisten Menschen tendenziell bevorzugen.",
+        "challenge": "Wenn eine Tasse außerhalb der idealen Zone liegt, dir aber wirklich schmeckt — was sagt das über die Grenzen des Diagramms aus?"
+      },
+      "fr": {
+        "title": "Le diagramme de contrôle d'infusion SCA",
+        "definition": "Un graphique traçant le rendement d'extraction par rapport à la force (TDS), définissant une zone cible où la plupart des dégustateurs s'accordent à dire que le café est bien équilibré.",
+        "why": "Il offre aux brasseurs un point de référence partagé et mesurable au lieu de s'appuyer uniquement sur des descriptions gustatives subjectives.",
+        "tip": "Utilisez le graphique pour diagnostiquer les problèmes, pas seulement pour confirmer le succès — une tasse hors zone indique exactement dans quelle direction ajuster.",
+        "mistake": "Traiter la zone cible comme une règle stricte plutôt que comme une référence générale que la plupart des gens ont tendance à préférer.",
+        "challenge": "Si une tasse tombe hors de la zone idéale mais que vous l'appréciez réellement, qu'est-ce que cela révèle sur les limites du graphique ?"
+      },
+      "it": {
+        "title": "Il grafico di controllo dell'infusione SCA",
+        "definition": "Un grafico che mette a confronto resa di estrazione e forza (TDS), definendo una zona target in cui la maggior parte degli assaggiatori concorda che il caffè sia ben bilanciato.",
+        "why": "Offre ai preparatori un punto di riferimento condiviso e misurabile invece di affidarsi solo a descrizioni gustative soggettive.",
+        "tip": "Usa il grafico per diagnosticare i problemi, non solo per confermare il successo — una tazza fuori zona indica esattamente in quale direzione correggere.",
+        "mistake": "Trattare la zona target come una regola rigida piuttosto che un riferimento generale che la maggior parte delle persone tende a preferire.",
+        "challenge": "Se una tazza cade fuori dalla zona ideale ma ti piace davvero, cosa dice questo sui limiti del grafico?"
       }
     },
     "id": 159
@@ -5922,6 +6642,30 @@
         "tip": "Um preparo travado ou longo demais continua extraindo mais compostos amargos mesmo depois que os agradáveis já foram extraídos.",
         "mistake": "Supor que um tempo de preparo mais longo sempre significa 'mais sabor' em vez de um equilíbrio diferente, muitas vezes mais amargo.",
         "challenge": "Por que encurtar ligeiramente um tempo de preparo poderia melhorar o equilíbrio mesmo reduzindo um pouco o rendimento de extração?"
+      },
+      "de": {
+        "title": "Löslichkeit und Extraktionskinetik",
+        "definition": "Verschiedene Verbindungen im Kaffee lösen sich unterschiedlich schnell — Säuren und Zucker extrahieren früh, während bittere Verbindungen später im Brühprozess extrahieren.",
+        "why": "Genau diese Reihenfolge erklärt, warum die Brühzeit einen so direkten Einfluss auf die Geschmacksbalance hat, nicht nur auf die Gesamtstärke.",
+        "tip": "Eine ins Stocken geratene oder zu lange Brühung zieht weiterhin bittere Verbindungen heraus, selbst nachdem die angenehmen bereits extrahiert wurden.",
+        "mistake": "Anzunehmen, eine längere Brühzeit bedeute automatisch 'mehr Geschmack', statt eine andere, oft bitterere Balance.",
+        "challenge": "Warum könnte eine leicht verkürzte Brühzeit die Balance verbessern, selbst wenn sie die Extraktionsausbeute leicht senkt?"
+      },
+      "fr": {
+        "title": "Solubilité et cinétique d'extraction",
+        "definition": "Différents composés du café se dissolvent à des vitesses différentes — les acides et les sucres s'extraient tôt, tandis que les composés amers s'extraient plus tard dans le processus d'infusion.",
+        "why": "Cet ordre explique exactement pourquoi le temps d'infusion a un effet aussi direct sur l'équilibre du goût, pas seulement sur la force globale.",
+        "tip": "Une infusion bloquée ou trop longue continue d'extraire davantage de composés amers même après que les composés agréables ont déjà été extraits.",
+        "mistake": "Supposer qu'un temps d'infusion plus long signifie toujours « plus de goût » plutôt qu'un équilibre différent, souvent plus amer.",
+        "challenge": "Pourquoi raccourcir légèrement un temps d'infusion pourrait-il améliorer l'équilibre même si cela réduit légèrement le rendement d'extraction ?"
+      },
+      "it": {
+        "title": "Solubilità e cinetica di estrazione",
+        "definition": "Diversi composti nel caffè si dissolvono a velocità diverse — acidi e zuccheri si estraggono presto, mentre i composti amari si estraggono più tardi nel processo di infusione.",
+        "why": "Questo ordine spiega esattamente perché il tempo di infusione ha un effetto così diretto sull'equilibrio del sapore, non solo sulla forza complessiva.",
+        "tip": "Un'infusione bloccata o troppo lunga continua a estrarre più composti amari anche dopo che quelli piacevoli sono già stati estratti.",
+        "mistake": "Supporre che un tempo di infusione più lungo significhi sempre 'più sapore' invece di un equilibrio diverso, spesso più amaro.",
+        "challenge": "Perché accorciare leggermente un tempo di infusione potrebbe migliorare l'equilibrio anche se abbassa leggermente la resa di estrazione?"
       }
     },
     "id": 160
@@ -5958,6 +6702,30 @@
         "tip": "Verifique os dois números separadamente ao solucionar problemas de água; uma leitura de dureza sozinha não conta toda a história.",
         "mistake": "Supor que 'água mole' é automaticamente boa água de preparo sem verificar também a alcalinidade.",
         "challenge": "Por que duas águas com a mesma dureza poderiam produzir café com sabores visivelmente diferentes?"
+      },
+      "de": {
+        "title": "Wasseralkalität vs. Härte",
+        "definition": "Alkalität misst die Pufferkapazität des Wassers gegen Säure, während Härte den Mineralgehalt misst — zwei unterschiedliche Eigenschaften, die oft verwechselt werden.",
+        "why": "Hohe Alkalität kann Säure abflachen und den Geschmack dämpfen, selbst wenn die Härte auf dem Papier völlig in Ordnung aussieht.",
+        "tip": "Überprüfe bei der Wasserfehlersuche beide Werte separat — eine Härtemessung allein erzählt nicht die ganze Geschichte.",
+        "mistake": "Anzunehmen, 'weiches Wasser' sei automatisch gutes Brühwasser, ohne auch die Alkalität zu prüfen.",
+        "challenge": "Warum könnten zwei Wasser mit identischer Härte spürbar unterschiedlich schmeckenden Kaffee ergeben?"
+      },
+      "fr": {
+        "title": "Alcalinité de l'eau vs dureté",
+        "definition": "L'alcalinité mesure la capacité tampon de l'eau contre l'acide, tandis que la dureté mesure sa teneur en minéraux — deux propriétés distinctes souvent confondues.",
+        "why": "Une alcalinité élevée peut aplatir l'acidité et atténuer le goût même quand la dureté paraît parfaitement correcte sur le papier.",
+        "tip": "Vérifiez les deux chiffres séparément lors du dépannage de l'eau — une mesure de dureté seule ne raconte pas toute l'histoire.",
+        "mistake": "Supposer que « l'eau douce » est automatiquement une bonne eau d'infusion sans vérifier aussi l'alcalinité.",
+        "challenge": "Pourquoi deux eaux avec une dureté identique pourraient-elles produire un café au goût sensiblement différent ?"
+      },
+      "it": {
+        "title": "Alcalinità dell'acqua vs durezza",
+        "definition": "L'alcalinità misura la capacità tampone dell'acqua contro l'acido, mentre la durezza misura il suo contenuto minerale — due proprietà distinte spesso confuse tra loro.",
+        "why": "Un'alta alcalinità può appiattire l'acidità e attenuare il sapore anche quando la durezza sembra perfettamente a posto sulla carta.",
+        "tip": "Controlla entrambi i valori separatamente quando risolvi problemi legati all'acqua — una lettura della sola durezza non racconta tutta la storia.",
+        "mistake": "Supporre che 'acqua dolce' sia automaticamente una buona acqua per l'infusione senza controllare anche l'alcalinità.",
+        "challenge": "Perché due acque con durezza identica potrebbero produrre un caffè dal sapore notevolmente diverso?"
       }
     },
     "id": 161
@@ -5994,6 +6762,30 @@
         "tip": "Mais agitação não é automaticamente melhor; ela acelera a extração, o que pode facilmente ultrapassar o alvo.",
         "mistake": "Adicionar mais agitação para corrigir um preparo de sabor fraco sem considerar que ele já pode estar superextraído.",
         "challenge": "Por que uma prensa francesa costuma precisar de uma moagem mais grossa do que um método que depende mais apenas da difusão?"
+      },
+      "de": {
+        "title": "Diffusion vs. Agitation",
+        "definition": "Diffusion ist die passive Bewegung gelöster Verbindungen vom Kaffee ins umgebende Wasser, während Agitation diesen Prozess aktiv beschleunigt, indem Wasser und Kaffeemehl physisch bewegt werden.",
+        "why": "Zu verstehen, welcher Mechanismus bei einer bestimmten Brühmethode dominiert, erklärt, warum agitationsintensive Methoden schneller extrahieren als passive.",
+        "tip": "Mehr Agitation ist nicht automatisch besser — sie beschleunigt die Extraktion, was das Ziel genauso leicht überschreiten kann.",
+        "mistake": "Mehr Agitation hinzuzufügen, um eine schwach schmeckende Brühung zu beheben, ohne zu bedenken, dass sie möglicherweise bereits überextrahiert ist.",
+        "challenge": "Warum benötigt eine French Press typischerweise einen gröberen Mahlgrad als eine Methode, die stärker auf reine Diffusion setzt?"
+      },
+      "fr": {
+        "title": "Diffusion vs agitation",
+        "definition": "La diffusion est le mouvement passif des composés dissous du café vers l'eau environnante, tandis que l'agitation accélère activement ce processus en déplaçant physiquement l'eau et la mouture ensemble.",
+        "why": "Comprendre quel mécanisme domine dans une méthode d'infusion donnée explique pourquoi les méthodes riches en agitation extraient plus vite que les méthodes passives.",
+        "tip": "Plus d'agitation n'est pas automatiquement meilleur — cela accélère l'extraction, qui peut tout aussi facilement dépasser la cible.",
+        "mistake": "Ajouter plus d'agitation pour corriger une infusion au goût faible sans considérer qu'elle pourrait déjà être sur-extraite.",
+        "challenge": "Pourquoi une cafetière à piston nécessite-t-elle généralement une mouture plus grossière qu'une méthode reposant davantage sur la seule diffusion ?"
+      },
+      "it": {
+        "title": "Diffusione vs agitazione",
+        "definition": "La diffusione è il movimento passivo dei composti disciolti dal caffè verso l'acqua circostante, mentre l'agitazione accelera attivamente questo processo muovendo fisicamente insieme acqua e macinato.",
+        "why": "Capire quale meccanismo domina in un dato metodo di infusione spiega perché i metodi ricchi di agitazione estraggono più velocemente di quelli passivi.",
+        "tip": "Più agitazione non è automaticamente meglio — accelera l'estrazione, che può altrettanto facilmente superare l'obiettivo.",
+        "mistake": "Aggiungere più agitazione per correggere un'infusione dal sapore debole senza considerare che potrebbe già essere sovraestratta.",
+        "challenge": "Perché una French press richiede tipicamente una macinatura più grossa rispetto a un metodo che si basa maggiormente sulla sola diffusione?"
       }
     },
     "id": 162
@@ -6030,6 +6822,30 @@
         "tip": "A distribuição uniforme antes do preparo importa especificamente porque elimina os pontos fracos que a água exploraria.",
         "mistake": "Supor que um fluxo rápido ou desigual é sempre um problema de moagem, quando o preparo do leito costuma ser a causa real.",
         "challenge": "Por que uma superfície desigual no leito pode causar canalização mesmo que o tamanho da moagem seja perfeitamente uniforme?"
+      },
+      "de": {
+        "title": "Kanalbildung — Physik",
+        "definition": "Wasser folgt natürlich dem Weg des geringsten Widerstands durch ein Kaffeebett und bildet Kanäle, die diese Bereiche stark extrahieren, während andere unterextrahiert bleiben.",
+        "why": "Kanalbildung ist eine der häufigsten Ursachen für eine ungleichmäßig, inkonsistent schmeckende Tasse, selbst wenn die Rezeptzahlen insgesamt korrekt aussehen.",
+        "tip": "Eine gleichmäßige Verteilung vor dem Brühen ist gerade deshalb wichtig, weil sie die Schwachstellen beseitigt, die Wasser sonst ausnutzen würde.",
+        "mistake": "Anzunehmen, ein schneller oder ungleichmäßiger Durchfluss sei immer ein Mahlgrad-Problem, wenn die Bettvorbereitung oft die eigentliche Ursache ist.",
+        "challenge": "Warum kann ein Kaffeebett mit unebener Oberfläche Kanalbildung verursachen, selbst wenn der Mahlgrad selbst völlig konsistent ist?"
+      },
+      "fr": {
+        "title": "Physique du canaling",
+        "definition": "L'eau suit naturellement le chemin de moindre résistance à travers un lit de café, créant des canaux qui extraient fortement ces zones tout en laissant d'autres sous-extraites.",
+        "why": "Le canaling est l'une des causes les plus courantes d'une tasse au goût irrégulier et incohérent, même quand les chiffres de la recette semblent corrects dans l'ensemble.",
+        "tip": "Une distribution homogène avant l'infusion compte particulièrement parce qu'elle élimine les points faibles que l'eau exploiterait sinon.",
+        "mistake": "Supposer qu'un écoulement rapide ou inégal est toujours un problème de mouture, alors que la préparation du lit en est souvent la vraie cause.",
+        "challenge": "Pourquoi un lit à la surface inégale peut-il provoquer du canaling même si la taille de la mouture elle-même est parfaitement homogène ?"
+      },
+      "it": {
+        "title": "Fisica del channeling",
+        "definition": "L'acqua segue naturalmente il percorso di minor resistenza attraverso un letto di caffè, creando canali che estraggono intensamente quelle zone lasciando altre sottoestratte.",
+        "why": "Il channeling è una delle cause più comuni di una tazza dal sapore irregolare e incoerente, anche quando i numeri della ricetta sembrano complessivamente corretti.",
+        "tip": "Una distribuzione uniforme prima dell'infusione conta proprio perché elimina i punti deboli che l'acqua altrimenti sfrutterebbe.",
+        "mistake": "Supporre che un flusso veloce o irregolare sia sempre un problema di macinatura, quando spesso la vera causa è la preparazione del letto.",
+        "challenge": "Perché un letto con una superficie irregolare può causare channeling anche se la macinatura stessa è perfettamente uniforme?"
       }
     },
     "id": 163
@@ -6066,6 +6882,30 @@
         "tip": "Deixe o café descansar pelo menos alguns dias após a torra antes de esperar uma extração totalmente previsível.",
         "mistake": "Supor que o café preparado no mesmo dia da torra terá automaticamente o melhor sabor só por ser o mais fresco.",
         "challenge": "Por que o bloom no coado manual revela visualmente quanto CO2 um café ainda tem?"
+      },
+      "de": {
+        "title": "Entgasung und CO2-Einfluss auf die Extraktion",
+        "definition": "Frisch gerösteter Kaffee speichert Kohlendioxid, das sich über Tage bis Wochen langsam freisetzt und dabei aktiv die Wassersättigung beim Brühen stört.",
+        "why": "Eingeschlossenes CO2 drängt Wasser vom Kaffeemehl weg — genau deshalb kann sehr frischer Kaffee trotz gutem Rezept inkonsistent oder unterextrahiert schmecken.",
+        "tip": "Lasse Kaffee mindestens einige Tage nach der Röstung ruhen, bevor du eine vollständig vorhersehbare Extraktion erwartest.",
+        "mistake": "Anzunehmen, am selben Tag gerösteter Kaffee schmecke automatisch am besten, nur weil er am frischesten ist.",
+        "challenge": "Warum zeigt das Blooming beim Filterkaffee visuell, wie viel CO2 ein Kaffee noch enthält?"
+      },
+      "fr": {
+        "title": "Dégazage et effet du CO2 sur l'extraction",
+        "definition": "Le café fraîchement torréfié piège du dioxyde de carbone qui se libère lentement sur des jours à des semaines, interférant activement avec la saturation en eau pendant l'infusion.",
+        "why": "Le CO2 piégé repousse l'eau loin de la mouture, ce qui explique exactement pourquoi un café très frais peut avoir un goût incohérent ou sous-extrait malgré une bonne recette.",
+        "tip": "Laissez reposer le café au moins quelques jours après la torréfaction avant d'attendre une extraction entièrement prévisible.",
+        "mistake": "Supposer qu'un café infusé le jour même de sa torréfaction aura automatiquement le meilleur goût simplement parce qu'il est le plus frais.",
+        "challenge": "Pourquoi le bloom en méthode filtre révèle-t-il visuellement la quantité de CO2 qu'il reste dans un café ?"
+      },
+      "it": {
+        "title": "Degasaggio ed effetto della CO2 sull'estrazione",
+        "definition": "Il caffè appena tostato intrappola anidride carbonica che si rilascia lentamente nell'arco di giorni o settimane, interferendo attivamente con la saturazione dell'acqua durante l'infusione.",
+        "why": "La CO2 intrappolata allontana l'acqua dal macinato, ed è esattamente per questo che un caffè molto fresco può avere un sapore incoerente o sottoestratto nonostante una buona ricetta.",
+        "tip": "Lascia riposare il caffè per almeno qualche giorno dopo la tostatura prima di aspettarti un'estrazione pienamente prevedibile.",
+        "mistake": "Supporre che un caffè preparato lo stesso giorno della tostatura avrà automaticamente il sapore migliore solo perché è il più fresco.",
+        "challenge": "Perché il bloom nella preparazione a filtro rivela visivamente quanta CO2 ha ancora un caffè?"
       }
     },
     "id": 164
@@ -6102,6 +6942,30 @@
         "tip": "Uma distribuição mais estreita e uniforme geralmente permite uma extração mais previsível e repetível do que uma ampla.",
         "mistake": "Julgar a qualidade da moagem apenas pelo tamanho médio de partícula sem considerar quão consistente esse tamanho realmente é.",
         "challenge": "Por que finos e boulders no mesmo preparo poderiam extrair em ritmos completamente diferentes, mesmo preparados juntos?"
+      },
+      "de": {
+        "title": "Partikelgrößenverteilung",
+        "definition": "Die gesamte Bandbreite an Partikelgrößen, die eine Mühle erzeugt — einschließlich unerwünschter Feinanteile und Grobkörner — nicht nur die durchschnittliche Mahlgradeinstellung.",
+        "why": "Zwei Mühlen, die auf die 'gleiche' Mahlgradstufe eingestellt sind, können sehr unterschiedliche Verteilungen erzeugen, und diese Streuung beeinflusst die Extraktionsgleichmäßigkeit genauso wie die durchschnittliche Größe.",
+        "tip": "Eine engere, gleichmäßigere Verteilung ermöglicht in der Regel eine vorhersehbarere, wiederholbarere Extraktion als eine breite.",
+        "mistake": "Die Mahlgradqualität allein anhand der durchschnittlichen Partikelgröße zu beurteilen, ohne zu berücksichtigen, wie konsistent diese Größe tatsächlich ist.",
+        "challenge": "Warum könnten Feinanteile und Grobkörner in derselben Brühung völlig unterschiedlich schnell extrahieren, selbst wenn sie zusammen gebrüht werden?"
+      },
+      "fr": {
+        "title": "Distribution granulométrique",
+        "definition": "L'éventail complet des tailles de particules qu'un moulin produit — y compris les fines et les grosses particules indésirables — pas seulement le réglage moyen de la mouture.",
+        "why": "Deux moulins réglés sur la « même » taille de mouture peuvent produire des distributions très différentes, et cet écart affecte l'homogénéité de l'extraction autant que la taille moyenne.",
+        "tip": "Une distribution plus resserrée et uniforme permet généralement une extraction plus prévisible et reproductible qu'une distribution large.",
+        "mistake": "Juger la qualité de la mouture uniquement sur la taille moyenne des particules sans considérer à quel point cette taille est réellement homogène.",
+        "challenge": "Pourquoi les fines et les grosses particules d'une même infusion pourraient-elles s'extraire à des vitesses complètement différentes, même infusées ensemble ?"
+      },
+      "it": {
+        "title": "Distribuzione granulometrica",
+        "definition": "L'intera gamma di dimensioni delle particelle prodotte da un macinacaffè — inclusi fini e grossolani indesiderati — non solo l'impostazione media di macinatura.",
+        "why": "Due macinacaffè impostati sulla 'stessa' macinatura possono produrre distribuzioni molto diverse, e questa dispersione influenza l'uniformità dell'estrazione tanto quanto la dimensione media.",
+        "tip": "Una distribuzione più stretta e uniforme generalmente permette un'estrazione più prevedibile e ripetibile rispetto a una ampia.",
+        "mistake": "Giudicare la qualità della macinatura solo dalla dimensione media delle particelle senza considerare quanto sia effettivamente coerente quella dimensione.",
+        "challenge": "Perché fini e grossolani nella stessa infusione potrebbero estrarsi a velocità completamente diverse, anche se preparati insieme?"
       }
     },
     "id": 165

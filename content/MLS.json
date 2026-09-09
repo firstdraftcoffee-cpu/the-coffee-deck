@@ -31,6 +31,30 @@
         "tip": "A caseína coagula com calor e ácido; esse é o mesmo mecanismo por trás da fabricação de queijo, não apenas uma peculiaridade da vaporização.",
         "mistake": "Supor que todas as proteínas do leite se comportam da mesma forma sob calor; caseína e soro respondem de maneira muito diferente.",
         "challenge": "Por que o leite talha quando calor e ácido (como cítricos ou leite velho) estão presentes juntos?"
+      },
+      "de": {
+        "title": "Kaseinproteine",
+        "definition": "Die häufigste Proteingruppe in Milch, existiert als winzige, geclusterte Partikel namens Mizellen, die in Schwebe bleiben und der Milch ihre weiße Farbe geben.",
+        "why": "Die Struktur des Kaseins ist ein wesentlicher Grund dafür, warum aufgeschäumte Milch ihre Form und Körperlichkeit behält, statt sofort zusammenzufallen.",
+        "tip": "Kasein koaguliert unter Hitze und Säure — das ist derselbe Mechanismus wie bei der Käseherstellung, nicht nur eine Eigenart des Aufschäumens.",
+        "mistake": "Anzunehmen, alle Milchproteine verhalten sich unter Hitze gleich — Kasein und Molkeprotein reagieren sehr unterschiedlich.",
+        "challenge": "Warum gerinnt Milch, wenn Hitze und Säure (wie Zitrus oder alte Milch) gleichzeitig auftreten?"
+      },
+      "fr": {
+        "title": "Protéines de caséine",
+        "definition": "Le groupe protéique le plus abondant du lait, existant sous forme de minuscules particules groupées appelées micelles, qui restent en suspension et donnent au lait sa couleur blanche.",
+        "why": "La structure de la caséine explique en grande partie pourquoi le lait vaporisé garde sa forme et son corps au lieu de s'effondrer instantanément.",
+        "tip": "La caséine coagule sous l'effet de la chaleur et de l'acide — c'est le même mécanisme que celui de la fabrication du fromage, pas juste une particularité de la vaporisation.",
+        "mistake": "Supposer que toutes les protéines du lait se comportent de la même façon sous la chaleur — caséine et lactosérum réagissent très différemment.",
+        "challenge": "Pourquoi le lait caille-t-il quand la chaleur et l'acide (comme les agrumes ou du lait ancien) sont présents ensemble ?"
+      },
+      "it": {
+        "title": "Proteine della caseina",
+        "definition": "Il gruppo proteico più abbondante nel latte, esistente come minuscole particelle raggruppate chiamate micelle, che restano in sospensione e conferiscono al latte il suo colore bianco.",
+        "why": "La struttura della caseina è una gran parte del motivo per cui il latte montato mantiene la sua forma e corpo invece di collassare istantaneamente.",
+        "tip": "La caseina coagula sotto calore e acido — è lo stesso meccanismo alla base della produzione del formaggio, non solo una particolarità della montatura.",
+        "mistake": "Supporre che tutte le proteine del latte si comportino allo stesso modo sotto calore — caseina e siero reagiscono in modo molto diverso.",
+        "challenge": "Perché il latte cagliaquando calore e acido (come agrumi o latte vecchio) sono presenti insieme?"
       }
     }
   },
@@ -66,6 +90,30 @@
         "tip": "Superaquecer o leite desnatura excessivamente as proteínas do soro, o que em parte explica por que o leite escaldado perde a capacidade de espumar.",
         "mistake": "Culpar apenas a técnica por uma espuma ruim quando o próprio leite já pode ter ultrapassado sua temperatura ideal para a estrutura do soro.",
         "challenge": "Por que dois leites com o mesmo teor de gordura poderiam espumar de forma completamente diferente?"
+      },
+      "de": {
+        "title": "Molkeproteine",
+        "definition": "Die kleinere Proteingruppe in Milch, hitzeempfindlicher als Kasein und zentral dafür, wie sich Schaum tatsächlich bildet und stabilisiert.",
+        "why": "Molkeproteine entfalten sich und schließen Luft leichter ein als Kasein, was sie zu den eigentlichen Arbeitspferden hinter der Mikroschaumtextur macht.",
+        "tip": "Überhitzte Milch denaturiert Molkeproteine übermäßig, was mit ein Grund ist, warum verbrühte Milch die Schaumfähigkeit verliert.",
+        "mistake": "Schlechten Schaum allein der Technik zuzuschreiben, wenn die Milch selbst bereits ihre ideale Temperatur für die Molkestruktur überschritten hat.",
+        "challenge": "Warum könnten zwei Milchsorten mit identischem Fettgehalt trotzdem völlig unterschiedlich aufschäumen?"
+      },
+      "fr": {
+        "title": "Protéines de lactosérum",
+        "definition": "Le groupe protéique minoritaire du lait, plus sensible à la chaleur que la caséine et central dans la façon dont la mousse se forme et se stabilise réellement.",
+        "why": "Les protéines de lactosérum se déplient et emprisonnent l'air plus facilement que la caséine, ce qui en fait les véritables artisans de la texture de la microfoam.",
+        "tip": "Surchauffer le lait dénature excessivement les protéines de lactosérum, ce qui explique en partie pourquoi le lait échaudé perd sa capacité à mousser.",
+        "mistake": "Attribuer une mousse médiocre uniquement à la technique alors que le lait lui-même a peut-être déjà dépassé sa température idéale pour la structure du lactosérum.",
+        "challenge": "Pourquoi deux laits avec une teneur en matière grasse identique pourraient-ils mousser de façon complètement différente ?"
+      },
+      "it": {
+        "title": "Proteine del siero",
+        "definition": "Il gruppo proteico minoritario nel latte, più sensibile al calore della caseina e centrale nel modo in cui la schiuma si forma e si stabilizza realmente.",
+        "why": "Le proteine del siero si dispiegano e intrappolano l'aria più facilmente della caseina, rendendole i veri motori dietro la texture della microschiuma.",
+        "tip": "Surriscaldare il latte denatura eccessivamente le proteine del siero, il che spiega in parte perché il latte scottato perde capacità schiumogena.",
+        "mistake": "Attribuire una schiuma scarsa solo alla tecnica quando il latte stesso potrebbe già aver superato la sua temperatura ideale per la struttura del siero.",
+        "challenge": "Perché due latti con lo stesso contenuto di grassi potrebbero montare in modo completamente diverso?"
       }
     }
   },
@@ -101,6 +149,30 @@
         "tip": "Compare leite integral, semidesnatado e desnatado lado a lado para isolar o que a gordura sozinha contribui para a sensação na boca.",
         "mistake": "Supor que mais gordura sempre significa melhor espuma; a gordura na verdade pode prejudicar a estabilidade da espuma a partir de certo ponto.",
         "challenge": "Por que um barista poderia escolher um leite com menos gordura especificamente para latte art em vez de leite integral?"
+      },
+      "de": {
+        "title": "Milchfett und Mundgefühl",
+        "definition": "Der Fettgehalt und die Struktur der Fettkügelchen in Milch formen direkt Körper, Fülle und die wahrgenommene Textur im Mund.",
+        "why": "Fett überzieht den Gaumen und verlangsamt, wie schnell andere Geschmäcker wahrgenommen werden, was das gesamte Trinkerlebnis verändert, nicht nur die 'Cremigkeit'.",
+        "tip": "Vergleiche Vollmilch, teilentrahmte und entrahmte Milch nebeneinander, um zu isolieren, was Fett allein zum Mundgefühl beiträgt.",
+        "mistake": "Anzunehmen, mehr Fett bedeute immer besseren Schaum — Fett kann ab einem bestimmten Punkt tatsächlich gegen die Schaumstabilität wirken.",
+        "challenge": "Warum könnte ein Barista speziell für Latte Art fettärmere Milch statt Vollmilch wählen?"
+      },
+      "fr": {
+        "title": "Matière grasse du lait et texture en bouche",
+        "definition": "La teneur en matière grasse et la structure des globules gras du lait façonnent directement le corps, la richesse et la texture perçue en bouche.",
+        "why": "La matière grasse enrobe le palais et ralentit la perception des autres saveurs, changeant toute l'expérience de dégustation, pas seulement le « crémeux ».",
+        "tip": "Comparez lait entier, demi-écrémé et écrémé côte à côte pour isoler ce que la matière grasse seule apporte à la texture en bouche.",
+        "mistake": "Supposer qu'une teneur en matière grasse plus élevée signifie toujours une meilleure mousse — la matière grasse peut en réalité nuire à la stabilité de la mousse au-delà d'un certain point.",
+        "challenge": "Pourquoi un barista pourrait-il choisir un lait moins gras spécifiquement pour le latte art plutôt que du lait entier ?"
+      },
+      "it": {
+        "title": "Grasso del latte e sensazione in bocca",
+        "definition": "Il contenuto di grassi e la struttura dei globuli di grasso nel latte plasmano direttamente corpo, ricchezza e percezione della texture in bocca.",
+        "why": "Il grasso riveste il palato e rallenta la velocità con cui vengono percepiti gli altri sapori, cambiando l'intera esperienza di bevuta, non solo la 'cremosità'.",
+        "tip": "Confronta latte intero, parzialmente scremato e scremato fianco a fianco per isolare ciò che il grasso da solo contribuisce alla sensazione in bocca.",
+        "mistake": "Supporre che più grasso significhi sempre schiuma migliore — il grasso può in realtà ostacolare la stabilità della schiuma oltre un certo punto.",
+        "challenge": "Perché un barista potrebbe scegliere un latte a basso contenuto di grassi specificamente per il latte art invece del latte intero?"
       }
     }
   },
@@ -136,6 +208,30 @@
         "tip": "O leite não homogeneizado pode se comportar de forma notavelmente diferente ao ser vaporizado; não suponha que todo leite integral espuma igual.",
         "mistake": "Supor que o teor de gordura sozinho prevê o comportamento da espuma sem considerar como essa gordura está fisicamente distribuída.",
         "challenge": "Por que quebrar a gordura em glóbulos menores muda como o leite parece e é despejado, não apenas seu sabor?"
+      },
+      "de": {
+        "title": "Größe der Fettkügelchen",
+        "definition": "Homogenisierung zerlegt Milchfett in viel kleinere, gleichmäßiger verteilte Kügelchen, als Rohmilch sie von Natur aus hat.",
+        "why": "Kleinere, gleichmäßig verteilte Fettkügelchen sind der Grund, warum moderne homogenisierte Milch sich nicht in eine sichtbare Rahmschicht trennt.",
+        "tip": "Nicht homogenisierte Milch kann sich beim Aufschäumen spürbar anders verhalten — nimm nicht an, dass sich alle Vollmilch identisch aufschäumen lässt.",
+        "mistake": "Anzunehmen, der Fettgehalt allein sage das Schäumverhalten voraus, ohne zu berücksichtigen, wie dieses Fett physisch verteilt ist.",
+        "challenge": "Warum verändert das Zerlegen von Fett in kleinere Kügelchen, wie Milch aussieht und fließt, nicht nur, wie sie schmeckt?"
+      },
+      "fr": {
+        "title": "Taille des globules gras",
+        "definition": "L'homogénéisation fragmente la matière grasse du lait en globules bien plus petits et uniformément répartis que ceux naturellement présents dans le lait cru.",
+        "why": "Des globules gras plus petits et uniformément répartis expliquent pourquoi le lait homogénéisé moderne ne se sépare pas en une couche de crème visible.",
+        "tip": "Le lait non homogénéisé peut se comporter sensiblement différemment une fois vaporisé — ne supposez pas que tout lait entier mousse de manière identique.",
+        "mistake": "Supposer que la teneur en matière grasse seule prédit le comportement moussant sans tenir compte de la façon dont cette matière grasse est physiquement répartie.",
+        "challenge": "Pourquoi fragmenter la matière grasse en globules plus petits change-t-il l'apparence et l'écoulement du lait, pas seulement son goût ?"
+      },
+      "it": {
+        "title": "Dimensione dei globuli di grasso",
+        "definition": "L'omogeneizzazione frammenta il grasso del latte in globuli molto più piccoli e distribuiti uniformemente rispetto a quelli naturalmente presenti nel latte crudo.",
+        "why": "Globuli di grasso più piccoli e distribuiti uniformemente sono il motivo per cui il latte omogeneizzato moderno non si separa in uno strato di panna visibile.",
+        "tip": "Il latte non omogeneizzato può comportarsi sensibilmente diverso quando montato — non dare per scontato che tutto il latte intero monti allo stesso modo.",
+        "mistake": "Supporre che il solo contenuto di grassi predica il comportamento schiumogeno senza considerare come quel grasso sia fisicamente distribuito.",
+        "challenge": "Perché frammentare il grasso in globuli più piccoli cambia l'aspetto e la versabilità del latte, non solo il suo sapore?"
       }
     }
   },
@@ -171,6 +267,30 @@
         "tip": "Prove o leite frio e depois vaporizado, lado a lado; a mudança na doçura é real e repetível, não apenas percepção.",
         "mistake": "Supor que uma bebida de leite mais doce deve conter açúcar adicionado em vez de reconhecer a própria resposta da lactose ao calor.",
         "challenge": "Por que superaquecer o leite além da faixa ideal na verdade reduziria a doçura percebida em vez de aumentá-la ainda mais?"
+      },
+      "de": {
+        "title": "Laktose und wahrgenommene Süße",
+        "definition": "Laktose ist der natürliche Zucker der Milch, und Hitze steigert messbar, wie süß aufgeschäumte Milch im Vergleich zu kalter Milch schmeckt.",
+        "why": "Deshalb kann ein gut aufgeschäumter Latte spürbar süßer schmecken als dieselbe Milch kalt eingeschenkt, ganz ohne zugesetzten Zucker.",
+        "tip": "Probiere Milch kalt und dann aufgeschäumt nebeneinander — die Süßeverschiebung ist real und wiederholbar, nicht nur Einbildung.",
+        "mistake": "Anzunehmen, ein süßer schmeckendes Milchgetränk müsse zugesetzten Zucker enthalten, statt Laktoses eigene Hitzereaktion zu erkennen.",
+        "challenge": "Warum würde Überhitzen der Milch über den idealen Bereich hinaus die wahrgenommene Süße tatsächlich verringern, statt sie weiter zu erhöhen?"
+      },
+      "fr": {
+        "title": "Lactose et douceur perçue",
+        "definition": "Le lactose est le sucre naturel du lait, et la chaleur augmente mesurablement à quel point le lait vaporisé a un goût plus sucré que le lait froid.",
+        "why": "C'est pourquoi un latte bien vaporisé peut avoir un goût sensiblement plus sucré que le même lait versé froid, sans aucun sucre ajouté.",
+        "tip": "Goûtez le lait froid puis vaporisé côte à côte — le changement de douceur est réel et reproductible, pas simplement une perception.",
+        "mistake": "Supposer qu'une boisson lactée au goût plus sucré doit contenir du sucre ajouté plutôt que de reconnaître la propre réponse du lactose à la chaleur.",
+        "challenge": "Pourquoi surchauffer le lait au-delà de la plage idéale réduirait-il en réalité la douceur perçue plutôt que de l'augmenter davantage ?"
+      },
+      "it": {
+        "title": "Lattosio e dolcezza percepita",
+        "definition": "Il lattosio è lo zucchero naturale del latte, e il calore aumenta in modo misurabile quanto dolce risulti il latte montato rispetto al latte freddo.",
+        "why": "Questo è il motivo per cui un latte ben montato può avere un sapore notevolmente più dolce dello stesso latte versato freddo, senza alcuno zucchero aggiunto.",
+        "tip": "Assaggia il latte freddo e poi montato fianco a fianco — il cambiamento di dolcezza è reale e ripetibile, non solo percezione.",
+        "mistake": "Supporre che una bevanda a base di latte dal sapore più dolce debba contenere zucchero aggiunto invece di riconoscere la risposta al calore del lattosio stesso.",
+        "challenge": "Perché surriscaldare il latte oltre l'intervallo ideale ridurrebbe effettivamente la dolcezza percepita invece di aumentarla ulteriormente?"
       }
     }
   },
@@ -206,6 +326,30 @@
         "tip": "Se um leite se comportar de forma inesperada sob o vaporizador, verifique se é UHT antes de culpar a técnica.",
         "mistake": "Supor que todo leite de longa vida e todo leite fresco são funcionalmente idênticos para fins de vaporização.",
         "challenge": "Por que um processamento térmico mais intenso durante a produção afetaria como o leite responde a uma segunda rodada de aquecimento no balcão de café?"
+      },
+      "de": {
+        "title": "UHT- vs. pasteurisierte Milch",
+        "definition": "UHT-Milch (ultrahocherhitzt) wird viel heißer und schneller erhitzt als standardmäßig pasteurisierte Milch, was Proteine stärker denaturiert für lange Haltbarkeit.",
+        "why": "Diese zusätzliche Hitzebehandlung ist genau der Grund, warum UHT-Milch sich beim Aufschäumen oft anders verhält als frische pasteurisierte Milch.",
+        "tip": "Wenn sich Milch unter der Dampflanze unerwartet verhält, prüfe zuerst, ob es UHT-Milch ist, bevor du die Technik verantwortlich machst.",
+        "mistake": "Anzunehmen, alle haltbaren und frischen Milchsorten seien für Aufschäumzwecke funktional identisch.",
+        "challenge": "Warum würde stärkere Hitzebehandlung während der Produktion beeinflussen, wie Milch auf eine zweite Erhitzungsrunde an der Espressomaschine reagiert?"
+      },
+      "fr": {
+        "title": "Lait UHT vs pasteurisé",
+        "definition": "Le lait UHT (ultra-haute température) est chauffé bien plus fort et plus vite que le lait pasteurisé standard, dénaturant davantage les protéines pour une longue conservation.",
+        "why": "Ce traitement thermique supplémentaire explique exactement pourquoi le lait UHT vaporise et mousse souvent différemment du lait pasteurisé frais.",
+        "tip": "Si un lait se comporte de façon inattendue sous la buse vapeur, vérifiez s'il s'agit d'UHT avant de blâmer la technique.",
+        "mistake": "Supposer que tous les laits longue conservation et frais sont fonctionnellement identiques pour la vaporisation.",
+        "challenge": "Pourquoi un traitement thermique plus intense pendant la production affecterait-il la façon dont le lait réagit à un second cycle de chauffe au bar à espresso ?"
+      },
+      "it": {
+        "title": "Latte UHT vs pastorizzato",
+        "definition": "Il latte UHT (a temperatura ultra-alta) viene riscaldato molto più caldo e velocemente del latte pastorizzato standard, denaturando maggiormente le proteine per una lunga conservazione.",
+        "why": "Questo trattamento termico extra è esattamente il motivo per cui il latte UHT spesso monta e fa schiuma diversamente dal latte pastorizzato fresco.",
+        "tip": "Se un latte si comporta in modo inaspettato sotto la lancia vapore, controlla se è UHT prima di dare la colpa alla tecnica.",
+        "mistake": "Supporre che tutti i latti a lunga conservazione e freschi siano funzionalmente identici ai fini della montatura.",
+        "challenge": "Perché un trattamento termico più intenso durante la produzione influenzerebbe come il latte risponde a un secondo ciclo di riscaldamento al bar espresso?"
       }
     }
   },
@@ -241,6 +385,30 @@
         "tip": "O leite mais fresco geralmente dá uma espuma mais estável e previsível do que o leite próximo da data de validade.",
         "mistake": "Culpar totalmente a técnica por uma espuma inconsistente sem considerar a frescura do leite e a variação de pH ao longo do tempo.",
         "challenge": "Por que adicionar um xarope ácido antes de vaporizar poderia causar resultados visivelmente diferentes de adicioná-lo depois?"
+      },
+      "de": {
+        "title": "Milch-pH und Proteinstabilität",
+        "definition": "Der natürliche pH-Wert der Milch liegt nahe neutral, und kleine Verschiebungen in Richtung Säure — durch Alter oder zugesetzte Zutaten — können ihre Proteinstruktur destabilisieren.",
+        "why": "Das ist mit ein Grund, warum ältere Milch oder Milch gemischt mit säurehaltigen Sirups beim Aufschäumen unvorhersehbar reagieren oder gerinnen kann.",
+        "tip": "Frischere Milch ergibt im Allgemeinen stabileren, vorhersehbareren Schaum als Milch, die sich dem Mindesthaltbarkeitsdatum nähert.",
+        "mistake": "Uneinheitlichen Schaum vollständig der Technik zuzuschreiben, ohne Milchfrische und pH-Verschiebung über die Zeit zu berücksichtigen.",
+        "challenge": "Warum könnte das Hinzufügen eines säurehaltigen Sirups vor dem Aufschäumen sichtbar andere Ergebnisse verursachen als danach?"
+      },
+      "fr": {
+        "title": "pH du lait et stabilité des protéines",
+        "definition": "Le pH naturel du lait est proche de la neutralité, et de légers glissements vers l'acidité — dus à l'âge ou à des ingrédients ajoutés — peuvent déstabiliser sa structure protéique.",
+        "why": "C'est en partie pourquoi un lait plus vieux, ou mélangé à des sirops acides, peut se comporter de façon imprévisible ou cailler à la vaporisation.",
+        "tip": "Un lait plus frais donne généralement une mousse plus stable et prévisible qu'un lait proche de sa date limite.",
+        "mistake": "Attribuer une mousse incohérente entièrement à la technique sans tenir compte de la fraîcheur du lait et de la dérive du pH dans le temps.",
+        "challenge": "Pourquoi ajouter un sirop acide avant la vaporisation pourrait-il donner des résultats visiblement différents que de l'ajouter après ?"
+      },
+      "it": {
+        "title": "pH del latte e stabilità delle proteine",
+        "definition": "Il pH naturale del latte è vicino alla neutralità, e piccoli spostamenti verso l'acidità — dovuti a invecchiamento o ingredienti aggiunti — possono destabilizzare la sua struttura proteica.",
+        "why": "Questo spiega in parte perché il latte più vecchio, o mescolato con sciroppi acidi, possa comportarsi in modo imprevedibile o cagliare quando montato.",
+        "tip": "Il latte più fresco generalmente dà una schiuma più stabile e prevedibile rispetto al latte vicino alla data di scadenza.",
+        "mistake": "Attribuire una schiuma incostante interamente alla tecnica senza considerare la freschezza del latte e la deriva del pH nel tempo.",
+        "challenge": "Perché aggiungere uno sciroppo acido prima della montatura potrebbe causare risultati visibilmente diversi rispetto ad aggiungerlo dopo?"
       }
     }
   },
@@ -276,6 +444,30 @@
         "tip": "Trate cada leite vegetal como sua própria categoria em vez de um substituto único; aveia e amêndoa podem se comportar de forma completamente diferente.",
         "mistake": "Aplicar a técnica de vaporização do leite comum sem alterações ao leite vegetal e culpar o leite quando os resultados diferem.",
         "challenge": "Por que a maioria dos produtos de leite vegetal 'para barista' contém ingredientes adicionados que o leite vegetal comum não tem?"
+      },
+      "de": {
+        "title": "Pflanzliche Milchproteine",
+        "definition": "Hafer-, Soja-, Mandel- und erbsenbasierte Milch beruhen jeweils auf völlig anderen Proteinstrukturen als Milchprodukte, weshalb sie sich so unterschiedlich aufschäumen lassen.",
+        "why": "Für Baristas formulierte Pflanzenmilch enthält oft Stabilisatoren und Gummis, speziell um Proteinstrukturen auszugleichen, die nicht natürlich wie Milch schäumen.",
+        "tip": "Behandle jede Pflanzenmilch als eigene Kategorie statt als einheitlichen Ersatz — Hafer und Mandel können sich völlig unterschiedlich verhalten.",
+        "mistake": "Milchaufschäumtechnik unverändert auf Pflanzenmilch anzuwenden und der Milch die Schuld zu geben, wenn die Ergebnisse abweichen.",
+        "challenge": "Warum enthalten die meisten 'Barista'-Pflanzenmilchprodukte zusätzliche Zutaten, die normale Pflanzenmilch nicht enthält?"
+      },
+      "fr": {
+        "title": "Protéines des laits végétaux",
+        "definition": "Les laits d'avoine, de soja, d'amande et de pois reposent chacun sur des structures protéiques complètement différentes de celles du lait de vache, ce qui explique pourquoi ils vaporisent si différemment les uns des autres.",
+        "why": "Les laits végétaux formulés pour baristas ajoutent souvent des stabilisants et des gommes spécifiquement pour compenser des structures protéiques qui ne moussent pas naturellement comme le lait de vache.",
+        "tip": "Traitez chaque lait végétal comme sa propre catégorie plutôt que comme un substitut unique — avoine et amande peuvent se comporter de manière totalement différente.",
+        "mistake": "Appliquer la technique de vaporisation du lait de vache sans modification au lait végétal et blâmer le lait quand les résultats diffèrent.",
+        "challenge": "Pourquoi la plupart des produits laitiers végétaux « barista » contiennent-ils des ingrédients ajoutés que le lait végétal ordinaire n'a pas ?"
+      },
+      "it": {
+        "title": "Proteine dei latti vegetali",
+        "definition": "I latti a base di avena, soia, mandorla e piselli si basano ciascuno su strutture proteiche completamente diverse rispetto al latte vaccino, ed è per questo che montano in modo così diverso l'uno dall'altro.",
+        "why": "I latti vegetali formulati per i baristi spesso aggiungono stabilizzanti e gomme specificamente per compensare strutture proteiche che non fanno schiuma naturalmente come il latte vaccino.",
+        "tip": "Tratta ogni latte vegetale come una categoria a sé invece che come un sostituto unico — avena e mandorla possono comportarsi in modo completamente diverso.",
+        "mistake": "Applicare la tecnica di montatura del latte vaccino invariata al latte vegetale e dare la colpa al latte quando i risultati differiscono.",
+        "challenge": "Perché la maggior parte dei prodotti a base vegetale 'da barista' contiene ingredienti aggiunti che il normale latte vegetale non ha?"
       }
     }
   },
@@ -312,6 +504,30 @@
         "tip": "Se a espuma parece ótima logo após vaporizar mas colapsa rápido, suspeite de interferência da gordura ou estrutura proteica insuficiente, não apenas do volume de ar.",
         "mistake": "Julgar a qualidade da espuma apenas no momento em que é servida, sem considerar como ela se sustenta no minuto seguinte.",
         "challenge": "Por que uma espuma que parece idêntica logo após a vaporização às vezes colapsa em ritmos muito diferentes?"
+      },
+      "de": {
+        "title": "Die Physik der Schaumstabilität",
+        "definition": "Stabiler Milchschaum hängt von einem dünnen Proteinfilm ab, der sich um eingeschlossene Luftblasen bildet, während Fett gleichzeitig daran arbeitet, diese Struktur mit der Zeit zu destabilisieren.",
+        "why": "Diese Spannung zwischen Protein und Fett zu verstehen erklärt fast jedes praktische Schaumproblem, dem Baristas begegnen.",
+        "tip": "Wenn Schaum sofort großartig aussieht, aber schnell zusammenfällt, vermute Fettbeeinträchtigung oder unzureichende Proteinstruktur, nicht nur das Luftvolumen.",
+        "mistake": "Schaumqualität nur im Moment des Einschenkens zu beurteilen, ohne zu berücksichtigen, wie er sich in der nächsten Minute hält.",
+        "challenge": "Warum kollabiert Schaum, der direkt nach dem Aufschäumen identisch aussieht, manchmal mit sehr unterschiedlichen Geschwindigkeiten?"
+      },
+      "fr": {
+        "title": "La physique de la stabilité de la mousse",
+        "definition": "Une mousse de lait stable dépend d'un mince film protéique se formant autour des bulles d'air emprisonnées, tandis que la matière grasse travaille à déstabiliser cette même structure au fil du temps.",
+        "why": "Comprendre cette tension entre protéine et matière grasse explique presque tous les problèmes pratiques de mousse rencontrés par les baristas.",
+        "tip": "Si la mousse semble excellente immédiatement mais s'effondre vite, soupçonnez une interférence de la matière grasse ou une structure protéique insuffisante, pas seulement le volume d'air.",
+        "mistake": "Juger la qualité de la mousse uniquement au moment où elle est versée, sans considérer comment elle tient pendant la minute suivante.",
+        "challenge": "Pourquoi une mousse qui semble identique juste après la vaporisation s'effondre-t-elle parfois à des vitesses très différentes ?"
+      },
+      "it": {
+        "title": "La fisica della stabilità della schiuma",
+        "definition": "Una schiuma di latte stabile dipende da un sottile film proteico che si forma attorno alle bolle d'aria intrappolate, mentre il grasso lavora per destabilizzare quella stessa struttura nel tempo.",
+        "why": "Capire questa tensione tra proteine e grassi spiega quasi ogni problema pratico di schiuma che i baristi incontrano.",
+        "tip": "Se la schiuma sembra ottima subito ma collassa rapidamente, sospetta un'interferenza dei grassi o una struttura proteica insufficiente, non solo il volume d'aria.",
+        "mistake": "Giudicare la qualità della schiuma solo nel momento in cui viene versata, senza considerare come si mantiene nel minuto successivo.",
+        "challenge": "Perché una schiuma che sembra identica subito dopo la montatura a volte collassa a velocità molto diverse?"
       }
     },
     "free_sample": true

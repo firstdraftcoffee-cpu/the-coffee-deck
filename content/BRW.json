@@ -31,6 +31,30 @@
         "tip": "Pense no rendimento de extração como 'quanto do café eu usei' e na força como 'quão concentrado ficou o resultado'; respondem perguntas diferentes.",
         "mistake": "Usar rendimento de extração e força como sinônimos ao discutir por que um preparo tem determinado sabor.",
         "challenge": "Dois preparos com rendimento de extração idêntico poderiam ter sabores completamente diferentes? Por quê?"
+      },
+      "de": {
+        "title": "Extraktionsausbeute",
+        "definition": "Der Prozentsatz der Trockenmasse des Kaffees, der sich tatsächlich im aufgebrühten Getränk auflöst — typischerweise zwischen 18-22% für ausgewogene Tassen.",
+        "why": "Es ist eine völlig andere Messgröße als die Stärke — ein Kaffee kann gleichzeitig stark und unterextrahiert oder schwach und überextrahiert sein.",
+        "tip": "Stell dir die Extraktionsausbeute als 'wie viel vom Kaffee habe ich genutzt' vor und die Stärke als 'wie konzentriert ist das Ergebnis' — beides beantwortet unterschiedliche Fragen.",
+        "mistake": "Extraktionsausbeute und Stärke synonym zu verwenden, wenn man erklärt, warum ein Brühergebnis auf eine bestimmte Weise schmeckt.",
+        "challenge": "Könnten zwei Brühungen mit identischer Extraktionsausbeute völlig unterschiedlich schmecken? Warum?"
+      },
+      "fr": {
+        "title": "Rendement d'extraction",
+        "definition": "Le pourcentage de la masse sèche du café qui se dissout réellement dans la boisson infusée, généralement ciblé entre 18 et 22 % pour des tasses équilibrées.",
+        "why": "C'est une mesure complètement différente de la force — un café peut être fort et sous-extrait, ou faible et sur-extrait, en même temps.",
+        "tip": "Pensez au rendement d'extraction comme « combien de café ai-je utilisé » et à la force comme « à quel point le résultat est concentré » — ce sont deux questions différentes.",
+        "mistake": "Utiliser rendement d'extraction et force de manière interchangeable pour expliquer pourquoi une infusion a un certain goût.",
+        "challenge": "Deux infusions avec un rendement d'extraction identique pourraient-elles avoir un goût complètement différent ? Pourquoi ?"
+      },
+      "it": {
+        "title": "Resa di estrazione",
+        "definition": "La percentuale della massa secca del caffè che si dissolve realmente nella bevanda preparata, tipicamente tra il 18-22% per tazze equilibrate.",
+        "why": "È una misura completamente diversa dalla forza — un caffè può essere forte e sottoestratto, o debole e sovraestratto, allo stesso tempo.",
+        "tip": "Pensa alla resa di estrazione come 'quanto caffè ho usato' e alla forza come 'quanto è concentrato il risultato' — rispondono a domande diverse.",
+        "mistake": "Usare resa di estrazione e forza in modo intercambiabile quando si discute perché un'infusione ha un certo sapore.",
+        "challenge": "Due infusioni con resa di estrazione identica potrebbero avere sapori completamente diversi? Perché?"
       }
     }
   },
@@ -66,6 +90,30 @@
         "tip": "Um refratômetro mede o TDS em segundos, mas sempre combine isso com a prova; o número sozinho não diz se um preparo tem bom sabor.",
         "mistake": "Tratar um número de TDS 'correto' como prova de qualidade sem realmente provar o café.",
         "challenge": "Por que a leitura de TDS de um refratômetro e o rendimento de extração precisam ser calculados juntos, não lidos separadamente?"
+      },
+      "de": {
+        "title": "TDS und Refraktometrie",
+        "definition": "Total Dissolved Solids (TDS) misst die Konzentration gelöster Kaffeeverbindungen in einem Getränk, üblicherweise mit einem Refraktometer gemessen.",
+        "why": "TDS liefert eine objektive Zahl für die Stärke und ersetzt Vermutungen durch eine Messung, die zwischen Brühungen direkt vergleichbar ist.",
+        "tip": "Ein Refraktometer liest TDS in Sekunden ab, aber kombiniere es immer mit dem Verkosten — die Zahl allein sagt nicht, ob eine Brühung gut schmeckt.",
+        "mistake": "Eine 'korrekte' TDS-Zahl als Qualitätsbeweis zu behandeln, ohne den Kaffee tatsächlich zu probieren.",
+        "challenge": "Warum müssen die TDS-Messung eines Refraktometers und die Extraktionsausbeute zusammen berechnet werden und nicht unabhängig voneinander?"
+      },
+      "fr": {
+        "title": "TDS et réfractométrie",
+        "definition": "Les matières dissoutes totales (TDS) mesurent la concentration de composés de café dissous dans une infusion, généralement lue avec un réfractomètre.",
+        "why": "Le TDS donne un chiffre objectif pour la force, remplaçant les suppositions par une mesure directement comparable entre les infusions.",
+        "tip": "Un réfractomètre lit le TDS en quelques secondes, mais associez-le toujours à la dégustation — le chiffre seul ne dit pas si une infusion a bon goût.",
+        "mistake": "Considérer un chiffre de TDS « correct » comme une preuve de qualité sans réellement goûter le café.",
+        "challenge": "Pourquoi la lecture du TDS d'un réfractomètre et le rendement d'extraction doivent-ils être calculés ensemble, et non lus indépendamment ?"
+      },
+      "it": {
+        "title": "TDS e rifrattometria",
+        "definition": "I solidi totali disciolti (TDS) misurano la concentrazione di composti del caffè disciolti in un'infusione, tipicamente letti con un rifrattometro.",
+        "why": "Il TDS fornisce un numero oggettivo per la forza, sostituendo le supposizioni con una misura direttamente confrontabile tra infusioni.",
+        "tip": "Un rifrattometro legge il TDS in pochi secondi, ma abbinalo sempre all'assaggio — il numero da solo non dice se un'infusione ha un buon sapore.",
+        "mistake": "Trattare un numero di TDS 'corretto' come prova di qualità senza assaggiare realmente il caffè.",
+        "challenge": "Perché la lettura del TDS di un rifrattometro e la resa di estrazione devono essere calcolate insieme, non lette indipendentemente?"
       }
     },
     "free_sample": true
@@ -102,6 +150,30 @@
         "tip": "Use o gráfico para diagnosticar problemas, não apenas para confirmar sucesso; uma xícara fora da zona diz exatamente em qual direção ajustar.",
         "mistake": "Tratar a zona-alvo como uma regra rígida em vez de uma referência geral que a maioria tende a preferir.",
         "challenge": "Se uma xícara cai fora da zona ideal mas você genuinamente gosta dela, o que isso diz sobre os limites do gráfico?"
+      },
+      "de": {
+        "title": "Die SCA Brewing Control Chart",
+        "definition": "Ein Diagramm, das Extraktionsausbeute gegen Stärke (TDS) aufträgt und eine Zielzone definiert, in der die meisten Verkoster den Kaffee als ausgewogen empfinden.",
+        "why": "Es gibt Brühern einen gemeinsamen, messbaren Bezugspunkt, statt sich rein auf subjektive Geschmacksbeschreibungen zu verlassen.",
+        "tip": "Nutze das Diagramm, um Probleme zu diagnostizieren, nicht nur um Erfolg zu bestätigen — eine Tasse außerhalb der Zone zeigt genau, in welche Richtung angepasst werden sollte.",
+        "mistake": "Die Zielzone als strikte Regel zu behandeln statt als allgemeinen Bezugspunkt, den die meisten Menschen tendenziell bevorzugen.",
+        "challenge": "Wenn eine Tasse außerhalb der idealen Zone liegt, dir aber wirklich schmeckt — was sagt das über die Grenzen des Diagramms aus?"
+      },
+      "fr": {
+        "title": "Le diagramme de contrôle d'infusion SCA",
+        "definition": "Un graphique traçant le rendement d'extraction par rapport à la force (TDS), définissant une zone cible où la plupart des dégustateurs s'accordent à dire que le café est bien équilibré.",
+        "why": "Il offre aux brasseurs un point de référence partagé et mesurable au lieu de s'appuyer uniquement sur des descriptions gustatives subjectives.",
+        "tip": "Utilisez le graphique pour diagnostiquer les problèmes, pas seulement pour confirmer le succès — une tasse hors zone indique exactement dans quelle direction ajuster.",
+        "mistake": "Traiter la zone cible comme une règle stricte plutôt que comme une référence générale que la plupart des gens ont tendance à préférer.",
+        "challenge": "Si une tasse tombe hors de la zone idéale mais que vous l'appréciez réellement, qu'est-ce que cela révèle sur les limites du graphique ?"
+      },
+      "it": {
+        "title": "Il grafico di controllo dell'infusione SCA",
+        "definition": "Un grafico che mette a confronto resa di estrazione e forza (TDS), definendo una zona target in cui la maggior parte degli assaggiatori concorda che il caffè sia ben bilanciato.",
+        "why": "Offre ai preparatori un punto di riferimento condiviso e misurabile invece di affidarsi solo a descrizioni gustative soggettive.",
+        "tip": "Usa il grafico per diagnosticare i problemi, non solo per confermare il successo — una tazza fuori zona indica esattamente in quale direzione correggere.",
+        "mistake": "Trattare la zona target come una regola rigida piuttosto che un riferimento generale che la maggior parte delle persone tende a preferire.",
+        "challenge": "Se una tazza cade fuori dalla zona ideale ma ti piace davvero, cosa dice questo sui limiti del grafico?"
       }
     }
   },
@@ -137,6 +209,30 @@
         "tip": "Um preparo travado ou longo demais continua extraindo mais compostos amargos mesmo depois que os agradáveis já foram extraídos.",
         "mistake": "Supor que um tempo de preparo mais longo sempre significa 'mais sabor' em vez de um equilíbrio diferente, muitas vezes mais amargo.",
         "challenge": "Por que encurtar ligeiramente um tempo de preparo poderia melhorar o equilíbrio mesmo reduzindo um pouco o rendimento de extração?"
+      },
+      "de": {
+        "title": "Löslichkeit und Extraktionskinetik",
+        "definition": "Verschiedene Verbindungen im Kaffee lösen sich unterschiedlich schnell — Säuren und Zucker extrahieren früh, während bittere Verbindungen später im Brühprozess extrahieren.",
+        "why": "Genau diese Reihenfolge erklärt, warum die Brühzeit einen so direkten Einfluss auf die Geschmacksbalance hat, nicht nur auf die Gesamtstärke.",
+        "tip": "Eine ins Stocken geratene oder zu lange Brühung zieht weiterhin bittere Verbindungen heraus, selbst nachdem die angenehmen bereits extrahiert wurden.",
+        "mistake": "Anzunehmen, eine längere Brühzeit bedeute automatisch 'mehr Geschmack', statt eine andere, oft bitterere Balance.",
+        "challenge": "Warum könnte eine leicht verkürzte Brühzeit die Balance verbessern, selbst wenn sie die Extraktionsausbeute leicht senkt?"
+      },
+      "fr": {
+        "title": "Solubilité et cinétique d'extraction",
+        "definition": "Différents composés du café se dissolvent à des vitesses différentes — les acides et les sucres s'extraient tôt, tandis que les composés amers s'extraient plus tard dans le processus d'infusion.",
+        "why": "Cet ordre explique exactement pourquoi le temps d'infusion a un effet aussi direct sur l'équilibre du goût, pas seulement sur la force globale.",
+        "tip": "Une infusion bloquée ou trop longue continue d'extraire davantage de composés amers même après que les composés agréables ont déjà été extraits.",
+        "mistake": "Supposer qu'un temps d'infusion plus long signifie toujours « plus de goût » plutôt qu'un équilibre différent, souvent plus amer.",
+        "challenge": "Pourquoi raccourcir légèrement un temps d'infusion pourrait-il améliorer l'équilibre même si cela réduit légèrement le rendement d'extraction ?"
+      },
+      "it": {
+        "title": "Solubilità e cinetica di estrazione",
+        "definition": "Diversi composti nel caffè si dissolvono a velocità diverse — acidi e zuccheri si estraggono presto, mentre i composti amari si estraggono più tardi nel processo di infusione.",
+        "why": "Questo ordine spiega esattamente perché il tempo di infusione ha un effetto così diretto sull'equilibrio del sapore, non solo sulla forza complessiva.",
+        "tip": "Un'infusione bloccata o troppo lunga continua a estrarre più composti amari anche dopo che quelli piacevoli sono già stati estratti.",
+        "mistake": "Supporre che un tempo di infusione più lungo significhi sempre 'più sapore' invece di un equilibrio diverso, spesso più amaro.",
+        "challenge": "Perché accorciare leggermente un tempo di infusione potrebbe migliorare l'equilibrio anche se abbassa leggermente la resa di estrazione?"
       }
     }
   },
@@ -172,6 +268,30 @@
         "tip": "Verifique os dois números separadamente ao solucionar problemas de água; uma leitura de dureza sozinha não conta toda a história.",
         "mistake": "Supor que 'água mole' é automaticamente boa água de preparo sem verificar também a alcalinidade.",
         "challenge": "Por que duas águas com a mesma dureza poderiam produzir café com sabores visivelmente diferentes?"
+      },
+      "de": {
+        "title": "Wasseralkalität vs. Härte",
+        "definition": "Alkalität misst die Pufferkapazität des Wassers gegen Säure, während Härte den Mineralgehalt misst — zwei unterschiedliche Eigenschaften, die oft verwechselt werden.",
+        "why": "Hohe Alkalität kann Säure abflachen und den Geschmack dämpfen, selbst wenn die Härte auf dem Papier völlig in Ordnung aussieht.",
+        "tip": "Überprüfe bei der Wasserfehlersuche beide Werte separat — eine Härtemessung allein erzählt nicht die ganze Geschichte.",
+        "mistake": "Anzunehmen, 'weiches Wasser' sei automatisch gutes Brühwasser, ohne auch die Alkalität zu prüfen.",
+        "challenge": "Warum könnten zwei Wasser mit identischer Härte spürbar unterschiedlich schmeckenden Kaffee ergeben?"
+      },
+      "fr": {
+        "title": "Alcalinité de l'eau vs dureté",
+        "definition": "L'alcalinité mesure la capacité tampon de l'eau contre l'acide, tandis que la dureté mesure sa teneur en minéraux — deux propriétés distinctes souvent confondues.",
+        "why": "Une alcalinité élevée peut aplatir l'acidité et atténuer le goût même quand la dureté paraît parfaitement correcte sur le papier.",
+        "tip": "Vérifiez les deux chiffres séparément lors du dépannage de l'eau — une mesure de dureté seule ne raconte pas toute l'histoire.",
+        "mistake": "Supposer que « l'eau douce » est automatiquement une bonne eau d'infusion sans vérifier aussi l'alcalinité.",
+        "challenge": "Pourquoi deux eaux avec une dureté identique pourraient-elles produire un café au goût sensiblement différent ?"
+      },
+      "it": {
+        "title": "Alcalinità dell'acqua vs durezza",
+        "definition": "L'alcalinità misura la capacità tampone dell'acqua contro l'acido, mentre la durezza misura il suo contenuto minerale — due proprietà distinte spesso confuse tra loro.",
+        "why": "Un'alta alcalinità può appiattire l'acidità e attenuare il sapore anche quando la durezza sembra perfettamente a posto sulla carta.",
+        "tip": "Controlla entrambi i valori separatamente quando risolvi problemi legati all'acqua — una lettura della sola durezza non racconta tutta la storia.",
+        "mistake": "Supporre che 'acqua dolce' sia automaticamente una buona acqua per l'infusione senza controllare anche l'alcalinità.",
+        "challenge": "Perché due acque con durezza identica potrebbero produrre un caffè dal sapore notevolmente diverso?"
       }
     }
   },
@@ -207,6 +327,30 @@
         "tip": "Mais agitação não é automaticamente melhor; ela acelera a extração, o que pode facilmente ultrapassar o alvo.",
         "mistake": "Adicionar mais agitação para corrigir um preparo de sabor fraco sem considerar que ele já pode estar superextraído.",
         "challenge": "Por que uma prensa francesa costuma precisar de uma moagem mais grossa do que um método que depende mais apenas da difusão?"
+      },
+      "de": {
+        "title": "Diffusion vs. Agitation",
+        "definition": "Diffusion ist die passive Bewegung gelöster Verbindungen vom Kaffee ins umgebende Wasser, während Agitation diesen Prozess aktiv beschleunigt, indem Wasser und Kaffeemehl physisch bewegt werden.",
+        "why": "Zu verstehen, welcher Mechanismus bei einer bestimmten Brühmethode dominiert, erklärt, warum agitationsintensive Methoden schneller extrahieren als passive.",
+        "tip": "Mehr Agitation ist nicht automatisch besser — sie beschleunigt die Extraktion, was das Ziel genauso leicht überschreiten kann.",
+        "mistake": "Mehr Agitation hinzuzufügen, um eine schwach schmeckende Brühung zu beheben, ohne zu bedenken, dass sie möglicherweise bereits überextrahiert ist.",
+        "challenge": "Warum benötigt eine French Press typischerweise einen gröberen Mahlgrad als eine Methode, die stärker auf reine Diffusion setzt?"
+      },
+      "fr": {
+        "title": "Diffusion vs agitation",
+        "definition": "La diffusion est le mouvement passif des composés dissous du café vers l'eau environnante, tandis que l'agitation accélère activement ce processus en déplaçant physiquement l'eau et la mouture ensemble.",
+        "why": "Comprendre quel mécanisme domine dans une méthode d'infusion donnée explique pourquoi les méthodes riches en agitation extraient plus vite que les méthodes passives.",
+        "tip": "Plus d'agitation n'est pas automatiquement meilleur — cela accélère l'extraction, qui peut tout aussi facilement dépasser la cible.",
+        "mistake": "Ajouter plus d'agitation pour corriger une infusion au goût faible sans considérer qu'elle pourrait déjà être sur-extraite.",
+        "challenge": "Pourquoi une cafetière à piston nécessite-t-elle généralement une mouture plus grossière qu'une méthode reposant davantage sur la seule diffusion ?"
+      },
+      "it": {
+        "title": "Diffusione vs agitazione",
+        "definition": "La diffusione è il movimento passivo dei composti disciolti dal caffè verso l'acqua circostante, mentre l'agitazione accelera attivamente questo processo muovendo fisicamente insieme acqua e macinato.",
+        "why": "Capire quale meccanismo domina in un dato metodo di infusione spiega perché i metodi ricchi di agitazione estraggono più velocemente di quelli passivi.",
+        "tip": "Più agitazione non è automaticamente meglio — accelera l'estrazione, che può altrettanto facilmente superare l'obiettivo.",
+        "mistake": "Aggiungere più agitazione per correggere un'infusione dal sapore debole senza considerare che potrebbe già essere sovraestratta.",
+        "challenge": "Perché una French press richiede tipicamente una macinatura più grossa rispetto a un metodo che si basa maggiormente sulla sola diffusione?"
       }
     }
   },
@@ -242,6 +386,30 @@
         "tip": "A distribuição uniforme antes do preparo importa especificamente porque elimina os pontos fracos que a água exploraria.",
         "mistake": "Supor que um fluxo rápido ou desigual é sempre um problema de moagem, quando o preparo do leito costuma ser a causa real.",
         "challenge": "Por que uma superfície desigual no leito pode causar canalização mesmo que o tamanho da moagem seja perfeitamente uniforme?"
+      },
+      "de": {
+        "title": "Kanalbildung — Physik",
+        "definition": "Wasser folgt natürlich dem Weg des geringsten Widerstands durch ein Kaffeebett und bildet Kanäle, die diese Bereiche stark extrahieren, während andere unterextrahiert bleiben.",
+        "why": "Kanalbildung ist eine der häufigsten Ursachen für eine ungleichmäßig, inkonsistent schmeckende Tasse, selbst wenn die Rezeptzahlen insgesamt korrekt aussehen.",
+        "tip": "Eine gleichmäßige Verteilung vor dem Brühen ist gerade deshalb wichtig, weil sie die Schwachstellen beseitigt, die Wasser sonst ausnutzen würde.",
+        "mistake": "Anzunehmen, ein schneller oder ungleichmäßiger Durchfluss sei immer ein Mahlgrad-Problem, wenn die Bettvorbereitung oft die eigentliche Ursache ist.",
+        "challenge": "Warum kann ein Kaffeebett mit unebener Oberfläche Kanalbildung verursachen, selbst wenn der Mahlgrad selbst völlig konsistent ist?"
+      },
+      "fr": {
+        "title": "Physique du canaling",
+        "definition": "L'eau suit naturellement le chemin de moindre résistance à travers un lit de café, créant des canaux qui extraient fortement ces zones tout en laissant d'autres sous-extraites.",
+        "why": "Le canaling est l'une des causes les plus courantes d'une tasse au goût irrégulier et incohérent, même quand les chiffres de la recette semblent corrects dans l'ensemble.",
+        "tip": "Une distribution homogène avant l'infusion compte particulièrement parce qu'elle élimine les points faibles que l'eau exploiterait sinon.",
+        "mistake": "Supposer qu'un écoulement rapide ou inégal est toujours un problème de mouture, alors que la préparation du lit en est souvent la vraie cause.",
+        "challenge": "Pourquoi un lit à la surface inégale peut-il provoquer du canaling même si la taille de la mouture elle-même est parfaitement homogène ?"
+      },
+      "it": {
+        "title": "Fisica del channeling",
+        "definition": "L'acqua segue naturalmente il percorso di minor resistenza attraverso un letto di caffè, creando canali che estraggono intensamente quelle zone lasciando altre sottoestratte.",
+        "why": "Il channeling è una delle cause più comuni di una tazza dal sapore irregolare e incoerente, anche quando i numeri della ricetta sembrano complessivamente corretti.",
+        "tip": "Una distribuzione uniforme prima dell'infusione conta proprio perché elimina i punti deboli che l'acqua altrimenti sfrutterebbe.",
+        "mistake": "Supporre che un flusso veloce o irregolare sia sempre un problema di macinatura, quando spesso la vera causa è la preparazione del letto.",
+        "challenge": "Perché un letto con una superficie irregolare può causare channeling anche se la macinatura stessa è perfettamente uniforme?"
       }
     }
   },
@@ -277,6 +445,30 @@
         "tip": "Deixe o café descansar pelo menos alguns dias após a torra antes de esperar uma extração totalmente previsível.",
         "mistake": "Supor que o café preparado no mesmo dia da torra terá automaticamente o melhor sabor só por ser o mais fresco.",
         "challenge": "Por que o bloom no coado manual revela visualmente quanto CO2 um café ainda tem?"
+      },
+      "de": {
+        "title": "Entgasung und CO2-Einfluss auf die Extraktion",
+        "definition": "Frisch gerösteter Kaffee speichert Kohlendioxid, das sich über Tage bis Wochen langsam freisetzt und dabei aktiv die Wassersättigung beim Brühen stört.",
+        "why": "Eingeschlossenes CO2 drängt Wasser vom Kaffeemehl weg — genau deshalb kann sehr frischer Kaffee trotz gutem Rezept inkonsistent oder unterextrahiert schmecken.",
+        "tip": "Lasse Kaffee mindestens einige Tage nach der Röstung ruhen, bevor du eine vollständig vorhersehbare Extraktion erwartest.",
+        "mistake": "Anzunehmen, am selben Tag gerösteter Kaffee schmecke automatisch am besten, nur weil er am frischesten ist.",
+        "challenge": "Warum zeigt das Blooming beim Filterkaffee visuell, wie viel CO2 ein Kaffee noch enthält?"
+      },
+      "fr": {
+        "title": "Dégazage et effet du CO2 sur l'extraction",
+        "definition": "Le café fraîchement torréfié piège du dioxyde de carbone qui se libère lentement sur des jours à des semaines, interférant activement avec la saturation en eau pendant l'infusion.",
+        "why": "Le CO2 piégé repousse l'eau loin de la mouture, ce qui explique exactement pourquoi un café très frais peut avoir un goût incohérent ou sous-extrait malgré une bonne recette.",
+        "tip": "Laissez reposer le café au moins quelques jours après la torréfaction avant d'attendre une extraction entièrement prévisible.",
+        "mistake": "Supposer qu'un café infusé le jour même de sa torréfaction aura automatiquement le meilleur goût simplement parce qu'il est le plus frais.",
+        "challenge": "Pourquoi le bloom en méthode filtre révèle-t-il visuellement la quantité de CO2 qu'il reste dans un café ?"
+      },
+      "it": {
+        "title": "Degasaggio ed effetto della CO2 sull'estrazione",
+        "definition": "Il caffè appena tostato intrappola anidride carbonica che si rilascia lentamente nell'arco di giorni o settimane, interferendo attivamente con la saturazione dell'acqua durante l'infusione.",
+        "why": "La CO2 intrappolata allontana l'acqua dal macinato, ed è esattamente per questo che un caffè molto fresco può avere un sapore incoerente o sottoestratto nonostante una buona ricetta.",
+        "tip": "Lascia riposare il caffè per almeno qualche giorno dopo la tostatura prima di aspettarti un'estrazione pienamente prevedibile.",
+        "mistake": "Supporre che un caffè preparato lo stesso giorno della tostatura avrà automaticamente il sapore migliore solo perché è il più fresco.",
+        "challenge": "Perché il bloom nella preparazione a filtro rivela visivamente quanta CO2 ha ancora un caffè?"
       }
     }
   },
@@ -312,6 +504,30 @@
         "tip": "Uma distribuição mais estreita e uniforme geralmente permite uma extração mais previsível e repetível do que uma ampla.",
         "mistake": "Julgar a qualidade da moagem apenas pelo tamanho médio de partícula sem considerar quão consistente esse tamanho realmente é.",
         "challenge": "Por que finos e boulders no mesmo preparo poderiam extrair em ritmos completamente diferentes, mesmo preparados juntos?"
+      },
+      "de": {
+        "title": "Partikelgrößenverteilung",
+        "definition": "Die gesamte Bandbreite an Partikelgrößen, die eine Mühle erzeugt — einschließlich unerwünschter Feinanteile und Grobkörner — nicht nur die durchschnittliche Mahlgradeinstellung.",
+        "why": "Zwei Mühlen, die auf die 'gleiche' Mahlgradstufe eingestellt sind, können sehr unterschiedliche Verteilungen erzeugen, und diese Streuung beeinflusst die Extraktionsgleichmäßigkeit genauso wie die durchschnittliche Größe.",
+        "tip": "Eine engere, gleichmäßigere Verteilung ermöglicht in der Regel eine vorhersehbarere, wiederholbarere Extraktion als eine breite.",
+        "mistake": "Die Mahlgradqualität allein anhand der durchschnittlichen Partikelgröße zu beurteilen, ohne zu berücksichtigen, wie konsistent diese Größe tatsächlich ist.",
+        "challenge": "Warum könnten Feinanteile und Grobkörner in derselben Brühung völlig unterschiedlich schnell extrahieren, selbst wenn sie zusammen gebrüht werden?"
+      },
+      "fr": {
+        "title": "Distribution granulométrique",
+        "definition": "L'éventail complet des tailles de particules qu'un moulin produit — y compris les fines et les grosses particules indésirables — pas seulement le réglage moyen de la mouture.",
+        "why": "Deux moulins réglés sur la « même » taille de mouture peuvent produire des distributions très différentes, et cet écart affecte l'homogénéité de l'extraction autant que la taille moyenne.",
+        "tip": "Une distribution plus resserrée et uniforme permet généralement une extraction plus prévisible et reproductible qu'une distribution large.",
+        "mistake": "Juger la qualité de la mouture uniquement sur la taille moyenne des particules sans considérer à quel point cette taille est réellement homogène.",
+        "challenge": "Pourquoi les fines et les grosses particules d'une même infusion pourraient-elles s'extraire à des vitesses complètement différentes, même infusées ensemble ?"
+      },
+      "it": {
+        "title": "Distribuzione granulometrica",
+        "definition": "L'intera gamma di dimensioni delle particelle prodotte da un macinacaffè — inclusi fini e grossolani indesiderati — non solo l'impostazione media di macinatura.",
+        "why": "Due macinacaffè impostati sulla 'stessa' macinatura possono produrre distribuzioni molto diverse, e questa dispersione influenza l'uniformità dell'estrazione tanto quanto la dimensione media.",
+        "tip": "Una distribuzione più stretta e uniforme generalmente permette un'estrazione più prevedibile e ripetibile rispetto a una ampia.",
+        "mistake": "Giudicare la qualità della macinatura solo dalla dimensione media delle particelle senza considerare quanto sia effettivamente coerente quella dimensione.",
+        "challenge": "Perché fini e grossolani nella stessa infusione potrebbero estrarsi a velocità completamente diverse, anche se preparati insieme?"
       }
     }
   }
