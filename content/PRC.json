@@ -32,6 +32,30 @@
         "tip": "Considere sempre o processamento junto com a origem e a variedade.",
         "mistake": "Supor que apenas a origem determina o sabor.",
         "challenge": "Nomeie os três métodos de processamento mais comuns."
+      },
+      "de": {
+        "title": "Kaffeeaufbereitung",
+        "definition": "Aufbereitung ist die Methode, mit der der Kaffeesamen nach der Ernte aus der Frucht entfernt wird.",
+        "why": "Aufbereitung hat einen großen Einfluss auf Geschmack, Körper und Säure.",
+        "tip": "Berücksichtige Aufbereitung immer zusammen mit Ursprung und Sorte.",
+        "mistake": "Anzunehmen, allein der Ursprung bestimme den Geschmack.",
+        "challenge": "Nenne die drei häufigsten Aufbereitungsmethoden."
+      },
+      "fr": {
+        "title": "Traitement du café",
+        "definition": "Le traitement est la méthode utilisée pour retirer la graine de café du fruit après la récolte.",
+        "why": "Le traitement a une influence majeure sur la saveur, le corps et l'acidité.",
+        "tip": "Considérez toujours le traitement en parallèle de l'origine et de la variété.",
+        "mistake": "Supposer que l'origine seule détermine la saveur.",
+        "challenge": "Nommez les trois méthodes de traitement les plus courantes."
+      },
+      "it": {
+        "title": "Lavorazione del caffè",
+        "definition": "La lavorazione è il metodo usato per rimuovere il seme di caffè dal frutto dopo la raccolta.",
+        "why": "La lavorazione ha una grande influenza su sapore, corpo e acidità.",
+        "tip": "Considera sempre la lavorazione insieme a origine e varietà.",
+        "mistake": "Supporre che solo l'origine determini il sapore.",
+        "challenge": "Nomina i tre metodi di lavorazione più comuni."
       }
     },
     "free_sample": true
@@ -69,6 +93,30 @@
         "tip": "Espere clareza e precisão na xícara.",
         "mistake": "Supor que lavado significa melhor qualidade.",
         "challenge": "Que sabores costumam estar associados aos cafés lavados?"
+      },
+      "de": {
+        "title": "Gewaschene Aufbereitung",
+        "definition": "Bei gewaschenen Kaffees wird die Frucht vor dem Trocknen entfernt, was saubere und transparente Geschmäcker erzeugt.",
+        "why": "Dieser Prozess betont Herkunftscharakter und Säure.",
+        "tip": "Erwarte Klarheit und Präzision in der Tasse.",
+        "mistake": "Anzunehmen, gewaschen bedeute bessere Qualität.",
+        "challenge": "Welche Geschmäcker werden häufig mit gewaschenen Kaffees assoziiert?"
+      },
+      "fr": {
+        "title": "Traitement lavé",
+        "definition": "Les cafés lavés ont le fruit retiré avant séchage, produisant des saveurs propres et transparentes.",
+        "why": "Ce procédé met en valeur le caractère d'origine et l'acidité.",
+        "tip": "Attendez-vous à de la clarté et de la précision en tasse.",
+        "mistake": "Supposer que lavé signifie meilleure qualité.",
+        "challenge": "Quelles saveurs sont couramment associées aux cafés lavés ?"
+      },
+      "it": {
+        "title": "Lavorazione lavata",
+        "definition": "I caffè lavati hanno il frutto rimosso prima dell'essiccazione, producendo sapori puliti e trasparenti.",
+        "why": "Questo processo valorizza carattere d'origine e acidità.",
+        "tip": "Aspettati chiarezza e precisione in tazza.",
+        "mistake": "Supporre che lavato significhi qualità migliore.",
+        "challenge": "Quali sapori sono comunemente associati ai caffè lavati?"
       }
     }
   },
@@ -105,6 +153,30 @@
         "tip": "Espere características de frutas vermelhas e tropicais.",
         "mistake": "Pensar que todos os naturais têm sabor fermentado.",
         "challenge": "Por que os naturais costumam ser mais doces que os lavados?"
+      },
+      "de": {
+        "title": "Natural-Aufbereitung",
+        "definition": "Natural-Kaffees werden mit intakter Frucht getrocknet, bevor sie geschält werden.",
+        "why": "Fruchtkontakt erhöht oft Süße und Körper.",
+        "tip": "Erwarte Beeren- und tropische Fruchtcharakteristika.",
+        "mistake": "Zu denken, alle Naturals schmecken fermentiert.",
+        "challenge": "Warum sind Naturals meist süßer als gewaschene Kaffees?"
+      },
+      "fr": {
+        "title": "Traitement naturel",
+        "definition": "Les cafés naturels sont séchés avec le fruit intact avant décorticage.",
+        "why": "Le contact avec le fruit augmente souvent la douceur et le corps.",
+        "tip": "Attendez-vous à des caractéristiques de baies et de fruits tropicaux.",
+        "mistake": "Penser que tous les naturels ont un goût fermenté.",
+        "challenge": "Pourquoi les naturels sont-ils généralement plus sucrés que les cafés lavés ?"
+      },
+      "it": {
+        "title": "Lavorazione naturale",
+        "definition": "I caffè naturali vengono essiccati con il frutto intatto prima della decorticazione.",
+        "why": "Il contatto con il frutto aumenta spesso dolcezza e corpo.",
+        "tip": "Aspettati caratteristiche di frutti di bosco e frutta tropicale.",
+        "mistake": "Pensare che tutti i naturali abbiano sapore fermentato.",
+        "challenge": "Perché i naturali sono di solito più dolci dei caffè lavati?"
       }
     }
   },
@@ -141,6 +213,30 @@
         "tip": "Honey se refere à mucilagem pegajosa, não a mel adicionado.",
         "mistake": "Supor que cafés honey contêm mel.",
         "challenge": "Descreva um perfil de sabor típico de processo honey."
+      },
+      "de": {
+        "title": "Honey-Aufbereitung",
+        "definition": "Bei der Honey-Aufbereitung bleibt während des Trocknens etwas klebriges Fruchtfleisch auf dem Samen.",
+        "why": "Es balanciert oft Klarheit mit Süße.",
+        "tip": "'Honey' bezieht sich auf das klebrige Fruchtfleisch, nicht auf zugesetzten Honig.",
+        "mistake": "Anzunehmen, Honey-Kaffees enthielten Honig.",
+        "challenge": "Beschreibe ein typisches Honey-Geschmacksprofil."
+      },
+      "fr": {
+        "title": "Traitement miel (honey)",
+        "definition": "Le traitement miel laisse un mucilage collant sur la graine pendant le séchage.",
+        "why": "Il équilibre souvent clarté et douceur.",
+        "tip": "« Miel » fait référence au mucilage collant, pas à du miel ajouté.",
+        "mistake": "Supposer que les cafés « miel » contiennent du miel.",
+        "challenge": "Décrivez un profil de saveur typique du traitement miel."
+      },
+      "it": {
+        "title": "Lavorazione honey",
+        "definition": "La lavorazione honey lascia del mucillagine appiccicoso sul seme durante l'essiccazione.",
+        "why": "Spesso bilancia chiarezza e dolcezza.",
+        "tip": "'Honey' si riferisce al mucillagine appiccicoso, non a miele aggiunto.",
+        "mistake": "Supporre che i caffè honey contengano miele.",
+        "challenge": "Descrivi un tipico profilo di sapore honey."
       }
     }
   },
@@ -177,6 +273,30 @@
         "tip": "Julgue a xícara, não o nome do processo.",
         "mistake": "Supor que cafés anaeróbicos são automaticamente superiores.",
         "challenge": "Que riscos vêm com o processamento anaeróbico?"
+      },
+      "de": {
+        "title": "Anaerobe Fermentation",
+        "definition": "Anaerobe Aufbereitung fermentiert Kaffee in versiegelten Tanks mit begrenztem Sauerstoff.",
+        "why": "Sie kann unverwechselbare Geschmacksprofile erzeugen.",
+        "tip": "Beurteile die Tasse, nicht den Prozessnamen.",
+        "mistake": "Anzunehmen, anaerobe Kaffees seien automatisch überlegen.",
+        "challenge": "Welche Risiken bringt anaerobe Aufbereitung mit sich?"
+      },
+      "fr": {
+        "title": "Fermentation anaérobie",
+        "definition": "Le traitement anaérobie fait fermenter le café dans des cuves scellées avec un oxygène limité.",
+        "why": "Il peut produire des profils de saveur distinctifs.",
+        "tip": "Jugez la tasse, pas le nom du procédé.",
+        "mistake": "Supposer que les cafés anaérobies sont automatiquement supérieurs.",
+        "challenge": "Quels risques comporte le traitement anaérobie ?"
+      },
+      "it": {
+        "title": "Fermentazione anaerobica",
+        "definition": "La lavorazione anaerobica fa fermentare il caffè in serbatoi sigillati con ossigeno limitato.",
+        "why": "Può produrre profili di sapore distintivi.",
+        "tip": "Giudica la tazza, non il nome del processo.",
+        "mistake": "Supporre che i caffè anaerobici siano automaticamente superiori.",
+        "challenge": "Quali rischi comporta la lavorazione anaerobica?"
       }
     }
   },
@@ -213,6 +333,30 @@
         "tip": "A fermentação é um processo controlado, não deterioração.",
         "mistake": "Pensar que todos os sabores de fermentação são defeitos.",
         "challenge": "Nomeie duas variáveis que afetam a fermentação."
+      },
+      "de": {
+        "title": "Fermentation",
+        "definition": "Fermentation nutzt natürlich vorkommende Mikroorganismen, um Fruchtmaterial abzubauen.",
+        "why": "Sorgfältige Fermentation verbessert die Geschmackskomplexität.",
+        "tip": "Fermentation ist ein kontrollierter Prozess, kein Verderb.",
+        "mistake": "Zu denken, alle Fermentationsgeschmäcker seien Fehler.",
+        "challenge": "Nenne zwei Variablen, die die Fermentation beeinflussen."
+      },
+      "fr": {
+        "title": "Fermentation",
+        "definition": "La fermentation utilise des micro-organismes naturellement présents pour décomposer la matière fruitée.",
+        "why": "Une fermentation soignée améliore la complexité aromatique.",
+        "tip": "La fermentation est un processus contrôlé, pas une altération.",
+        "mistake": "Penser que toutes les saveurs de fermentation sont des défauts.",
+        "challenge": "Nommez deux variables affectant la fermentation."
+      },
+      "it": {
+        "title": "Fermentazione",
+        "definition": "La fermentazione usa microrganismi naturalmente presenti per scomporre il materiale del frutto.",
+        "why": "Una fermentazione attenta migliora la complessità del sapore.",
+        "tip": "La fermentazione è un processo controllato, non un deterioramento.",
+        "mistake": "Pensare che tutti i sapori di fermentazione siano difetti.",
+        "challenge": "Nomina due variabili che influenzano la fermentazione."
       }
     }
   },
@@ -249,6 +393,30 @@
         "tip": "Seque de forma lenta e uniforme.",
         "mistake": "Secar rápido demais.",
         "challenge": "Qual faixa de umidade normalmente é o alvo?"
+      },
+      "de": {
+        "title": "Trocknung",
+        "definition": "Trocknung reduziert die Feuchtigkeit nach der Aufbereitung auf ein sicheres Lagerniveau.",
+        "why": "Gleichmäßige Trocknung bewahrt die Qualität.",
+        "tip": "Trockne langsam und gleichmäßig.",
+        "mistake": "Zu schnell zu trocknen.",
+        "challenge": "Welcher Feuchtigkeitsbereich wird normalerweise angestrebt?"
+      },
+      "fr": {
+        "title": "Séchage",
+        "definition": "Le séchage réduit l'humidité à un niveau de stockage sûr après le traitement.",
+        "why": "Un séchage homogène préserve la qualité.",
+        "tip": "Séchez lentement et uniformément.",
+        "mistake": "Sécher trop rapidement.",
+        "challenge": "Quelle plage d'humidité est normalement visée ?"
+      },
+      "it": {
+        "title": "Essiccazione",
+        "definition": "L'essiccazione riduce l'umidità a un livello sicuro per la conservazione dopo la lavorazione.",
+        "why": "Un'essiccazione uniforme preserva la qualità.",
+        "tip": "Essicca lentamente e uniformemente.",
+        "mistake": "Essiccare troppo velocemente.",
+        "challenge": "Quale intervallo di umidità viene normalmente ricercato?"
       }
     }
   },
@@ -285,6 +453,30 @@
         "tip": "Vire o café regularmente.",
         "mistake": "Deixar o café sem revirar por longos períodos.",
         "challenge": "Por que as camas elevadas são preferidas em relação aos terreiros de concreto?"
+      },
+      "de": {
+        "title": "Hochbeete",
+        "definition": "Hochbeete verbessern Luftzirkulation und Trocknungskonsistenz.",
+        "why": "Sie verringern das Risiko von Schimmel und ungleichmäßiger Trocknung.",
+        "tip": "Wende den Kaffee regelmäßig.",
+        "mistake": "Kaffee über lange Zeiträume unberührt zu lassen.",
+        "challenge": "Warum werden Hochbeete Betonpatios vorgezogen?"
+      },
+      "fr": {
+        "title": "Lits surélevés",
+        "definition": "Les lits surélevés améliorent la circulation d'air et la constance du séchage.",
+        "why": "Ils réduisent le risque de moisissure et de séchage inégal.",
+        "tip": "Retournez le café régulièrement.",
+        "mistake": "Laisser le café intact pendant de longues périodes.",
+        "challenge": "Pourquoi les lits surélevés sont-ils préférés aux patios en béton ?"
+      },
+      "it": {
+        "title": "Letti rialzati",
+        "definition": "I letti rialzati migliorano la circolazione dell'aria e la coerenza dell'essiccazione.",
+        "why": "Riducono il rischio di muffa ed essiccazione irregolare.",
+        "tip": "Gira il caffè regolarmente.",
+        "mistake": "Lasciare il caffè intatto per lunghi periodi.",
+        "challenge": "Perché i letti rialzati sono preferiti ai patii in cemento?"
       }
     }
   },
@@ -321,6 +513,30 @@
         "tip": "Evite temperaturas de secagem excessivas.",
         "mistake": "Secar de forma agressiva demais.",
         "challenge": "Quando a secagem mecânica é mais útil?"
+      },
+      "de": {
+        "title": "Mechanische Trocknung",
+        "definition": "Mechanische Trockner reduzieren die Feuchtigkeit, wenn Wetterbedingungen ungeeignet sind.",
+        "why": "Sie verbessern die Zuverlässigkeit, erfordern aber sorgfältige Kontrolle.",
+        "tip": "Vermeide übermäßige Trocknungstemperaturen.",
+        "mistake": "Zu aggressiv zu trocknen.",
+        "challenge": "Wann ist mechanische Trocknung am nützlichsten?"
+      },
+      "fr": {
+        "title": "Séchage mécanique",
+        "definition": "Les séchoirs mécaniques réduisent l'humidité quand les conditions météo sont défavorables.",
+        "why": "Ils améliorent la fiabilité mais nécessitent un contrôle attentif.",
+        "tip": "Évitez des températures de séchage excessives.",
+        "mistake": "Sécher de façon trop agressive.",
+        "challenge": "Quand le séchage mécanique est-il le plus utile ?"
+      },
+      "it": {
+        "title": "Essiccazione meccanica",
+        "definition": "Gli essiccatori meccanici riducono l'umidità quando le condizioni meteo sono sfavorevoli.",
+        "why": "Migliorano l'affidabilità ma richiedono un controllo attento.",
+        "tip": "Evita temperature di essiccazione eccessive.",
+        "mistake": "Essiccare in modo troppo aggressivo.",
+        "challenge": "Quando è più utile l'essiccazione meccanica?"
       }
     }
   },
@@ -357,6 +573,30 @@
         "tip": "Escolha o processamento para combinar com o café, não com as tendências.",
         "mistake": "Seguir a moda em vez da qualidade.",
         "challenge": "Como você escolheria entre processamento lavado e natural?"
+      },
+      "de": {
+        "title": "Wahl der Aufbereitung",
+        "definition": "Die Wahl der Aufbereitung hängt von Klima, Sorte, Infrastruktur und Marktnachfrage ab.",
+        "why": "Unterschiedliche Aufbereitungen schaffen unterschiedliche kommerzielle Möglichkeiten.",
+        "tip": "Wähle die Aufbereitung passend zum Kaffee, nicht nach Trends.",
+        "mistake": "Modeerscheinungen statt Qualität zu folgen.",
+        "challenge": "Wie würdest du zwischen gewaschener und Natural-Aufbereitung wählen?"
+      },
+      "fr": {
+        "title": "Choix du traitement",
+        "definition": "Le choix du traitement dépend du climat, de la variété, de l'infrastructure et de la demande du marché.",
+        "why": "Différents traitements créent différentes opportunités commerciales.",
+        "tip": "Choisissez le traitement adapté au café, pas aux tendances.",
+        "mistake": "Suivre la mode plutôt que la qualité.",
+        "challenge": "Comment choisiriez-vous entre traitement lavé et naturel ?"
+      },
+      "it": {
+        "title": "Scelta della lavorazione",
+        "definition": "La scelta della lavorazione dipende da clima, varietà, infrastrutture e domanda di mercato.",
+        "why": "Lavorazioni diverse creano opportunità commerciali diverse.",
+        "tip": "Scegli la lavorazione adatta al caffè, non le tendenze.",
+        "mistake": "Seguire la moda invece della qualità.",
+        "challenge": "Come sceglieresti tra lavorazione lavata e naturale?"
       }
     }
   }

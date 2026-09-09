@@ -3775,6 +3775,30 @@
         "tip": "Considere sempre o processamento junto com a origem e a variedade.",
         "mistake": "Supor que apenas a origem determina o sabor.",
         "challenge": "Nomeie os três métodos de processamento mais comuns."
+      },
+      "de": {
+        "title": "Kaffeeaufbereitung",
+        "definition": "Aufbereitung ist die Methode, mit der der Kaffeesamen nach der Ernte aus der Frucht entfernt wird.",
+        "why": "Aufbereitung hat einen großen Einfluss auf Geschmack, Körper und Säure.",
+        "tip": "Berücksichtige Aufbereitung immer zusammen mit Ursprung und Sorte.",
+        "mistake": "Anzunehmen, allein der Ursprung bestimme den Geschmack.",
+        "challenge": "Nenne die drei häufigsten Aufbereitungsmethoden."
+      },
+      "fr": {
+        "title": "Traitement du café",
+        "definition": "Le traitement est la méthode utilisée pour retirer la graine de café du fruit après la récolte.",
+        "why": "Le traitement a une influence majeure sur la saveur, le corps et l'acidité.",
+        "tip": "Considérez toujours le traitement en parallèle de l'origine et de la variété.",
+        "mistake": "Supposer que l'origine seule détermine la saveur.",
+        "challenge": "Nommez les trois méthodes de traitement les plus courantes."
+      },
+      "it": {
+        "title": "Lavorazione del caffè",
+        "definition": "La lavorazione è il metodo usato per rimuovere il seme di caffè dal frutto dopo la raccolta.",
+        "why": "La lavorazione ha una grande influenza su sapore, corpo e acidità.",
+        "tip": "Considera sempre la lavorazione insieme a origine e varietà.",
+        "mistake": "Supporre che solo l'origine determini il sapore.",
+        "challenge": "Nomina i tre metodi di lavorazione più comuni."
       }
     },
     "free_sample": true,
@@ -3813,6 +3837,30 @@
         "tip": "Espere clareza e precisão na xícara.",
         "mistake": "Supor que lavado significa melhor qualidade.",
         "challenge": "Que sabores costumam estar associados aos cafés lavados?"
+      },
+      "de": {
+        "title": "Gewaschene Aufbereitung",
+        "definition": "Bei gewaschenen Kaffees wird die Frucht vor dem Trocknen entfernt, was saubere und transparente Geschmäcker erzeugt.",
+        "why": "Dieser Prozess betont Herkunftscharakter und Säure.",
+        "tip": "Erwarte Klarheit und Präzision in der Tasse.",
+        "mistake": "Anzunehmen, gewaschen bedeute bessere Qualität.",
+        "challenge": "Welche Geschmäcker werden häufig mit gewaschenen Kaffees assoziiert?"
+      },
+      "fr": {
+        "title": "Traitement lavé",
+        "definition": "Les cafés lavés ont le fruit retiré avant séchage, produisant des saveurs propres et transparentes.",
+        "why": "Ce procédé met en valeur le caractère d'origine et l'acidité.",
+        "tip": "Attendez-vous à de la clarté et de la précision en tasse.",
+        "mistake": "Supposer que lavé signifie meilleure qualité.",
+        "challenge": "Quelles saveurs sont couramment associées aux cafés lavés ?"
+      },
+      "it": {
+        "title": "Lavorazione lavata",
+        "definition": "I caffè lavati hanno il frutto rimosso prima dell'essiccazione, producendo sapori puliti e trasparenti.",
+        "why": "Questo processo valorizza carattere d'origine e acidità.",
+        "tip": "Aspettati chiarezza e precisione in tazza.",
+        "mistake": "Supporre che lavato significhi qualità migliore.",
+        "challenge": "Quali sapori sono comunemente associati ai caffè lavati?"
       }
     },
     "id": 77
@@ -3850,6 +3898,30 @@
         "tip": "Espere características de frutas vermelhas e tropicais.",
         "mistake": "Pensar que todos os naturais têm sabor fermentado.",
         "challenge": "Por que os naturais costumam ser mais doces que os lavados?"
+      },
+      "de": {
+        "title": "Natural-Aufbereitung",
+        "definition": "Natural-Kaffees werden mit intakter Frucht getrocknet, bevor sie geschält werden.",
+        "why": "Fruchtkontakt erhöht oft Süße und Körper.",
+        "tip": "Erwarte Beeren- und tropische Fruchtcharakteristika.",
+        "mistake": "Zu denken, alle Naturals schmecken fermentiert.",
+        "challenge": "Warum sind Naturals meist süßer als gewaschene Kaffees?"
+      },
+      "fr": {
+        "title": "Traitement naturel",
+        "definition": "Les cafés naturels sont séchés avec le fruit intact avant décorticage.",
+        "why": "Le contact avec le fruit augmente souvent la douceur et le corps.",
+        "tip": "Attendez-vous à des caractéristiques de baies et de fruits tropicaux.",
+        "mistake": "Penser que tous les naturels ont un goût fermenté.",
+        "challenge": "Pourquoi les naturels sont-ils généralement plus sucrés que les cafés lavés ?"
+      },
+      "it": {
+        "title": "Lavorazione naturale",
+        "definition": "I caffè naturali vengono essiccati con il frutto intatto prima della decorticazione.",
+        "why": "Il contatto con il frutto aumenta spesso dolcezza e corpo.",
+        "tip": "Aspettati caratteristiche di frutti di bosco e frutta tropicale.",
+        "mistake": "Pensare che tutti i naturali abbiano sapore fermentato.",
+        "challenge": "Perché i naturali sono di solito più dolci dei caffè lavati?"
       }
     },
     "id": 78
@@ -3887,6 +3959,30 @@
         "tip": "Honey se refere à mucilagem pegajosa, não a mel adicionado.",
         "mistake": "Supor que cafés honey contêm mel.",
         "challenge": "Descreva um perfil de sabor típico de processo honey."
+      },
+      "de": {
+        "title": "Honey-Aufbereitung",
+        "definition": "Bei der Honey-Aufbereitung bleibt während des Trocknens etwas klebriges Fruchtfleisch auf dem Samen.",
+        "why": "Es balanciert oft Klarheit mit Süße.",
+        "tip": "'Honey' bezieht sich auf das klebrige Fruchtfleisch, nicht auf zugesetzten Honig.",
+        "mistake": "Anzunehmen, Honey-Kaffees enthielten Honig.",
+        "challenge": "Beschreibe ein typisches Honey-Geschmacksprofil."
+      },
+      "fr": {
+        "title": "Traitement miel (honey)",
+        "definition": "Le traitement miel laisse un mucilage collant sur la graine pendant le séchage.",
+        "why": "Il équilibre souvent clarté et douceur.",
+        "tip": "« Miel » fait référence au mucilage collant, pas à du miel ajouté.",
+        "mistake": "Supposer que les cafés « miel » contiennent du miel.",
+        "challenge": "Décrivez un profil de saveur typique du traitement miel."
+      },
+      "it": {
+        "title": "Lavorazione honey",
+        "definition": "La lavorazione honey lascia del mucillagine appiccicoso sul seme durante l'essiccazione.",
+        "why": "Spesso bilancia chiarezza e dolcezza.",
+        "tip": "'Honey' si riferisce al mucillagine appiccicoso, non a miele aggiunto.",
+        "mistake": "Supporre che i caffè honey contengano miele.",
+        "challenge": "Descrivi un tipico profilo di sapore honey."
       }
     },
     "id": 79
@@ -3924,6 +4020,30 @@
         "tip": "Julgue a xícara, não o nome do processo.",
         "mistake": "Supor que cafés anaeróbicos são automaticamente superiores.",
         "challenge": "Que riscos vêm com o processamento anaeróbico?"
+      },
+      "de": {
+        "title": "Anaerobe Fermentation",
+        "definition": "Anaerobe Aufbereitung fermentiert Kaffee in versiegelten Tanks mit begrenztem Sauerstoff.",
+        "why": "Sie kann unverwechselbare Geschmacksprofile erzeugen.",
+        "tip": "Beurteile die Tasse, nicht den Prozessnamen.",
+        "mistake": "Anzunehmen, anaerobe Kaffees seien automatisch überlegen.",
+        "challenge": "Welche Risiken bringt anaerobe Aufbereitung mit sich?"
+      },
+      "fr": {
+        "title": "Fermentation anaérobie",
+        "definition": "Le traitement anaérobie fait fermenter le café dans des cuves scellées avec un oxygène limité.",
+        "why": "Il peut produire des profils de saveur distinctifs.",
+        "tip": "Jugez la tasse, pas le nom du procédé.",
+        "mistake": "Supposer que les cafés anaérobies sont automatiquement supérieurs.",
+        "challenge": "Quels risques comporte le traitement anaérobie ?"
+      },
+      "it": {
+        "title": "Fermentazione anaerobica",
+        "definition": "La lavorazione anaerobica fa fermentare il caffè in serbatoi sigillati con ossigeno limitato.",
+        "why": "Può produrre profili di sapore distintivi.",
+        "tip": "Giudica la tazza, non il nome del processo.",
+        "mistake": "Supporre che i caffè anaerobici siano automaticamente superiori.",
+        "challenge": "Quali rischi comporta la lavorazione anaerobica?"
       }
     },
     "id": 80
@@ -3961,6 +4081,30 @@
         "tip": "A fermentação é um processo controlado, não deterioração.",
         "mistake": "Pensar que todos os sabores de fermentação são defeitos.",
         "challenge": "Nomeie duas variáveis que afetam a fermentação."
+      },
+      "de": {
+        "title": "Fermentation",
+        "definition": "Fermentation nutzt natürlich vorkommende Mikroorganismen, um Fruchtmaterial abzubauen.",
+        "why": "Sorgfältige Fermentation verbessert die Geschmackskomplexität.",
+        "tip": "Fermentation ist ein kontrollierter Prozess, kein Verderb.",
+        "mistake": "Zu denken, alle Fermentationsgeschmäcker seien Fehler.",
+        "challenge": "Nenne zwei Variablen, die die Fermentation beeinflussen."
+      },
+      "fr": {
+        "title": "Fermentation",
+        "definition": "La fermentation utilise des micro-organismes naturellement présents pour décomposer la matière fruitée.",
+        "why": "Une fermentation soignée améliore la complexité aromatique.",
+        "tip": "La fermentation est un processus contrôlé, pas une altération.",
+        "mistake": "Penser que toutes les saveurs de fermentation sont des défauts.",
+        "challenge": "Nommez deux variables affectant la fermentation."
+      },
+      "it": {
+        "title": "Fermentazione",
+        "definition": "La fermentazione usa microrganismi naturalmente presenti per scomporre il materiale del frutto.",
+        "why": "Una fermentazione attenta migliora la complessità del sapore.",
+        "tip": "La fermentazione è un processo controllato, non un deterioramento.",
+        "mistake": "Pensare che tutti i sapori di fermentazione siano difetti.",
+        "challenge": "Nomina due variabili che influenzano la fermentazione."
       }
     },
     "id": 81
@@ -3998,6 +4142,30 @@
         "tip": "Seque de forma lenta e uniforme.",
         "mistake": "Secar rápido demais.",
         "challenge": "Qual faixa de umidade normalmente é o alvo?"
+      },
+      "de": {
+        "title": "Trocknung",
+        "definition": "Trocknung reduziert die Feuchtigkeit nach der Aufbereitung auf ein sicheres Lagerniveau.",
+        "why": "Gleichmäßige Trocknung bewahrt die Qualität.",
+        "tip": "Trockne langsam und gleichmäßig.",
+        "mistake": "Zu schnell zu trocknen.",
+        "challenge": "Welcher Feuchtigkeitsbereich wird normalerweise angestrebt?"
+      },
+      "fr": {
+        "title": "Séchage",
+        "definition": "Le séchage réduit l'humidité à un niveau de stockage sûr après le traitement.",
+        "why": "Un séchage homogène préserve la qualité.",
+        "tip": "Séchez lentement et uniformément.",
+        "mistake": "Sécher trop rapidement.",
+        "challenge": "Quelle plage d'humidité est normalement visée ?"
+      },
+      "it": {
+        "title": "Essiccazione",
+        "definition": "L'essiccazione riduce l'umidità a un livello sicuro per la conservazione dopo la lavorazione.",
+        "why": "Un'essiccazione uniforme preserva la qualità.",
+        "tip": "Essicca lentamente e uniformemente.",
+        "mistake": "Essiccare troppo velocemente.",
+        "challenge": "Quale intervallo di umidità viene normalmente ricercato?"
       }
     },
     "id": 82
@@ -4035,6 +4203,30 @@
         "tip": "Vire o café regularmente.",
         "mistake": "Deixar o café sem revirar por longos períodos.",
         "challenge": "Por que as camas elevadas são preferidas em relação aos terreiros de concreto?"
+      },
+      "de": {
+        "title": "Hochbeete",
+        "definition": "Hochbeete verbessern Luftzirkulation und Trocknungskonsistenz.",
+        "why": "Sie verringern das Risiko von Schimmel und ungleichmäßiger Trocknung.",
+        "tip": "Wende den Kaffee regelmäßig.",
+        "mistake": "Kaffee über lange Zeiträume unberührt zu lassen.",
+        "challenge": "Warum werden Hochbeete Betonpatios vorgezogen?"
+      },
+      "fr": {
+        "title": "Lits surélevés",
+        "definition": "Les lits surélevés améliorent la circulation d'air et la constance du séchage.",
+        "why": "Ils réduisent le risque de moisissure et de séchage inégal.",
+        "tip": "Retournez le café régulièrement.",
+        "mistake": "Laisser le café intact pendant de longues périodes.",
+        "challenge": "Pourquoi les lits surélevés sont-ils préférés aux patios en béton ?"
+      },
+      "it": {
+        "title": "Letti rialzati",
+        "definition": "I letti rialzati migliorano la circolazione dell'aria e la coerenza dell'essiccazione.",
+        "why": "Riducono il rischio di muffa ed essiccazione irregolare.",
+        "tip": "Gira il caffè regolarmente.",
+        "mistake": "Lasciare il caffè intatto per lunghi periodi.",
+        "challenge": "Perché i letti rialzati sono preferiti ai patii in cemento?"
       }
     },
     "id": 83
@@ -4072,6 +4264,30 @@
         "tip": "Evite temperaturas de secagem excessivas.",
         "mistake": "Secar de forma agressiva demais.",
         "challenge": "Quando a secagem mecânica é mais útil?"
+      },
+      "de": {
+        "title": "Mechanische Trocknung",
+        "definition": "Mechanische Trockner reduzieren die Feuchtigkeit, wenn Wetterbedingungen ungeeignet sind.",
+        "why": "Sie verbessern die Zuverlässigkeit, erfordern aber sorgfältige Kontrolle.",
+        "tip": "Vermeide übermäßige Trocknungstemperaturen.",
+        "mistake": "Zu aggressiv zu trocknen.",
+        "challenge": "Wann ist mechanische Trocknung am nützlichsten?"
+      },
+      "fr": {
+        "title": "Séchage mécanique",
+        "definition": "Les séchoirs mécaniques réduisent l'humidité quand les conditions météo sont défavorables.",
+        "why": "Ils améliorent la fiabilité mais nécessitent un contrôle attentif.",
+        "tip": "Évitez des températures de séchage excessives.",
+        "mistake": "Sécher de façon trop agressive.",
+        "challenge": "Quand le séchage mécanique est-il le plus utile ?"
+      },
+      "it": {
+        "title": "Essiccazione meccanica",
+        "definition": "Gli essiccatori meccanici riducono l'umidità quando le condizioni meteo sono sfavorevoli.",
+        "why": "Migliorano l'affidabilità ma richiedono un controllo attento.",
+        "tip": "Evita temperature di essiccazione eccessive.",
+        "mistake": "Essiccare in modo troppo aggressivo.",
+        "challenge": "Quando è più utile l'essiccazione meccanica?"
       }
     },
     "id": 84
@@ -4109,6 +4325,30 @@
         "tip": "Escolha o processamento para combinar com o café, não com as tendências.",
         "mistake": "Seguir a moda em vez da qualidade.",
         "challenge": "Como você escolheria entre processamento lavado e natural?"
+      },
+      "de": {
+        "title": "Wahl der Aufbereitung",
+        "definition": "Die Wahl der Aufbereitung hängt von Klima, Sorte, Infrastruktur und Marktnachfrage ab.",
+        "why": "Unterschiedliche Aufbereitungen schaffen unterschiedliche kommerzielle Möglichkeiten.",
+        "tip": "Wähle die Aufbereitung passend zum Kaffee, nicht nach Trends.",
+        "mistake": "Modeerscheinungen statt Qualität zu folgen.",
+        "challenge": "Wie würdest du zwischen gewaschener und Natural-Aufbereitung wählen?"
+      },
+      "fr": {
+        "title": "Choix du traitement",
+        "definition": "Le choix du traitement dépend du climat, de la variété, de l'infrastructure et de la demande du marché.",
+        "why": "Différents traitements créent différentes opportunités commerciales.",
+        "tip": "Choisissez le traitement adapté au café, pas aux tendances.",
+        "mistake": "Suivre la mode plutôt que la qualité.",
+        "challenge": "Comment choisiriez-vous entre traitement lavé et naturel ?"
+      },
+      "it": {
+        "title": "Scelta della lavorazione",
+        "definition": "La scelta della lavorazione dipende da clima, varietà, infrastrutture e domanda di mercato.",
+        "why": "Lavorazioni diverse creano opportunità commerciali diverse.",
+        "tip": "Scegli la lavorazione adatta al caffè, non le tendenze.",
+        "mistake": "Seguire la moda invece della qualità.",
+        "challenge": "Come sceglieresti tra lavorazione lavata e naturale?"
       }
     },
     "id": 85
@@ -10081,6 +10321,30 @@
         "tip": "Classifique-os pela rapidez com que agem: oxigênio e luz causam dano em horas ou dias, enquanto umidade e calor agravam tudo o mais, então um saco que bloqueia os quatro é melhor do que um que bloqueia só um ou dois.",
         "mistake": "Focar em apenas um fator (como comprar um recipiente hermético) ignorando os demais; um recipiente hermético numa bancada ensolarada ainda deixa a luz e o calor causarem dano.",
         "challenge": "Por que a embalagem do café pode precisar se defender de quatro ameaças diferentes em vez de apenas vedar o ar?"
+      },
+      "de": {
+        "title": "Die Feinde der Frische: Sauerstoff, Licht, Feuchtigkeit, Hitze",
+        "definition": "Die vier Umweltfaktoren, die gerösteten Kaffee am schnellsten abbauen: Sauerstoff oxidiert aromatische Öle, Licht baut Verbindungen durch Photodegradation ab, Feuchtigkeit beschleunigt Alterungsreaktionen, und Hitze beschleunigt all das oben Genannte.",
+        "why": "Fast jede Verpackungs- und Lagerentscheidung bei Kaffee — Ventilbeutel, lichtundurchlässige Verpackung, luftdichte Behälter, kühle Lagerung — existiert speziell, um einen oder mehrere dieser vier Faktoren zu blockieren.",
+        "tip": "Ordne sie nach Wirkungsgeschwindigkeit: Sauerstoff und Licht schaden innerhalb von Stunden bis Tagen, Feuchtigkeit und Hitze verstärken alles andere — ein Beutel, der alle vier blockiert, schlägt einen, der nur ein oder zwei blockiert.",
+        "mistake": "Sich nur auf einen Faktor zu konzentrieren (wie den Kauf eines luftdichten Behälters), während die anderen ignoriert werden — ein Behälter auf einer sonnigen Arbeitsplatte lässt weiterhin Licht und Hitze Schaden anrichten.",
+        "challenge": "Warum müsste Kaffeeverpackung gegen vier verschiedene Bedrohungen schützen, statt nur Luft auszuschließen?"
+      },
+      "fr": {
+        "title": "Les ennemis du rassissement : oxygène, lumière, humidité, chaleur",
+        "definition": "Les quatre facteurs environnementaux qui dégradent le plus vite le café torréfié : l'oxygène oxyde les huiles aromatiques, la lumière décompose les composés par photodégradation, l'humidité accélère les réactions de rassissement, et la chaleur accélère tout ce qui précède.",
+        "why": "Presque chaque décision d'emballage et de stockage du café — sacs à valve, emballage opaque, boîtes hermétiques, stockage au frais — existe spécifiquement pour bloquer un ou plusieurs de ces quatre facteurs.",
+        "tip": "Classez-les par vitesse d'action : l'oxygène et la lumière font des dégâts en heures ou jours, l'humidité et la chaleur amplifient tout le reste, donc un sac qui bloque les quatre bat un sac qui n'en bloque qu'un ou deux.",
+        "mistake": "Se concentrer sur un seul facteur (comme acheter une boîte hermétique) en ignorant les autres — une boîte sur un comptoir ensoleillé laisse toujours la lumière et la chaleur faire des dégâts.",
+        "challenge": "Pourquoi l'emballage du café pourrait-il avoir besoin de se défendre contre quatre menaces différentes plutôt que de simplement bloquer l'air ?"
+      },
+      "it": {
+        "title": "I nemici dell'invecchiamento: ossigeno, luce, umidità, calore",
+        "definition": "I quattro fattori ambientali che degradano più rapidamente il caffè tostato: l'ossigeno ossida gli oli aromatici, la luce scompone i composti tramite fotodegradazione, l'umidità accelera le reazioni di invecchiamento, e il calore accelera tutto quanto sopra.",
+        "why": "Quasi ogni decisione di imballaggio e conservazione del caffè — sacchetti con valvola, imballaggio opaco, contenitori ermetici, conservazione al fresco — esiste specificamente per bloccare uno o più di questi quattro fattori.",
+        "tip": "Classificali per velocità d'azione: ossigeno e luce danneggiano in ore o giorni, umidità e calore amplificano tutto il resto, quindi un sacchetto che blocca tutti e quattro batte uno che ne blocca solo uno o due.",
+        "mistake": "Concentrarsi su un solo fattore (come comprare un contenitore ermetico) ignorando gli altri — un contenitore su un piano soleggiato lascia comunque che luce e calore facciano danni.",
+        "challenge": "Perché l'imballaggio del caffè potrebbe dover difendersi da quattro minacce diverse invece che semplicemente escludere l'aria?"
       }
     },
     "id": 212,
@@ -10118,6 +10382,30 @@
         "tip": "A maioria dos torrefadores especiais recomenda descansar o café de 3 a 7 dias após a torra antes de prepará-lo, já que o alto CO2 de um café muito fresco pode tornar a extração menos consistente, não mais.",
         "mistake": "Assumir que 'recém-torrado' sempre significa 'pronto para preparar imediatamente'; algum tempo de descanso costuma melhorar a consistência da extração em vez de prejudicá-la.",
         "challenge": "Por que um gás que está ativamente escapando do café ainda precisaria ser levado em conta no design do saco?"
+      },
+      "de": {
+        "title": "Entgasung und die CO2-Kurve",
+        "definition": "Der Prozess, bei dem frisch gerösteter Kaffee in den Tagen nach der Röstung Kohlendioxid freisetzt, ein Nebenprodukt der Röstung — zunächst schnell, dann über ein bis zwei Wochen abklingend.",
+        "why": "Entgasung prägt direkt sowohl Verpackungsdesign (Ventilbeutel existieren, um dieses Gas abzulassen) als auch das Brühen (zu viel eingeschlossenes CO2 verursacht übermäßiges Blooming und ungleichmäßige Extraktion, zu wenig bedeutet, dass der Kaffee altbacken ist).",
+        "tip": "Die meisten Specialty-Röster empfehlen, Kaffee 3-7 Tage nach der Röstung ruhen zu lassen, bevor gebrüht wird, da sehr frischer Kaffee mit hohem CO2-Gehalt die Extraktion tatsächlich weniger konsistent machen kann, nicht mehr.",
+        "mistake": "Anzunehmen, 'frisch geröstet' bedeute immer 'sofort brühfertig' — etwas Ruhezeit verbessert meist die Extraktionskonsistenz, statt zu schaden.",
+        "challenge": "Warum müsste ein Gas, das aktiv aus dem Kaffee entweicht, trotzdem beim Beuteldesign berücksichtigt werden?"
+      },
+      "fr": {
+        "title": "Dégazage et courbe de CO2",
+        "definition": "Le processus par lequel le café fraîchement torréfié libère du dioxyde de carbone, un sous-produit de la torréfaction, dans les jours suivants — rapidement au début, puis se réduisant sur une à deux semaines.",
+        "why": "Le dégazage façonne directement à la fois la conception de l'emballage (les sacs à valve existent pour évacuer ce gaz) et l'infusion (trop de CO2 piégé cause un bloom excessif et une extraction inégale, trop peu signifie que le café est rassis).",
+        "tip": "La plupart des torréfacteurs de spécialité recommandent de laisser reposer le café 3 à 7 jours après torréfaction avant l'infusion, car un CO2 élevé dans un café très frais peut en réalité rendre l'extraction moins constante, pas plus.",
+        "mistake": "Supposer que « fraîchement torréfié » signifie toujours « prêt à infuser immédiatement » — un temps de repos améliore généralement la constance de l'extraction plutôt que de la nuire.",
+        "challenge": "Pourquoi un gaz qui s'échappe activement du café devrait-il quand même être pris en compte dans la conception du sac ?"
+      },
+      "it": {
+        "title": "Degasaggio e curva della CO2",
+        "definition": "Il processo attraverso cui il caffè appena tostato rilascia anidride carbonica, un sottoprodotto della tostatura, nei giorni successivi — rapidamente all'inizio, poi diminuendo nell'arco di una o due settimane.",
+        "why": "Il degasaggio plasma direttamente sia il design dell'imballaggio (i sacchetti con valvola esistono per sfiatare questo gas) sia la preparazione (troppa CO2 intrappolata causa bloom eccessivo ed estrazione irregolare, troppo poca significa che il caffè è raffermo).",
+        "tip": "La maggior parte dei torrefattori specialty raccomanda di far riposare il caffè 3-7 giorni dopo la tostatura prima di prepararlo, poiché l'alta CO2 di un caffè molto fresco può in realtà rendere l'estrazione meno costante, non di più.",
+        "mistake": "Supporre che 'appena tostato' significhi sempre 'pronto per essere preparato immediatamente' — un po' di riposo di solito migliora la coerenza dell'estrazione invece di danneggiarla.",
+        "challenge": "Perché un gas che sta attivamente fuoriuscendo dal caffè dovrebbe comunque essere considerato nel design del sacchetto?"
       }
     },
     "id": 213
@@ -10154,6 +10442,30 @@
         "tip": "Aperte suavemente um saco com válvula; se ainda estiver levemente estufado dias após a torra, isso é na verdade um bom sinal de frescor, já que significa que a degaseificação ainda está ativa.",
         "mistake": "Assumir que um saco murcho e sem estufamento significa má embalagem; pode simplesmente indicar que o café é mais antigo e já terminou de degaseificar, não que a válvula falhou.",
         "challenge": "Por que a embalagem de café precisa de uma válvula que deixa o gás sair, quando a maioria das embalagens de alimentos é projetada para manter tudo vedado por dentro e por fora?"
+      },
+      "de": {
+        "title": "Einweg-Ventilbeutel",
+        "definition": "Kaffeeverpackung mit einem kleinen Entgasungsventil, das CO2 aus dem Beutel entweichen lässt, ohne dass äußerer Sauerstoff eindringt.",
+        "why": "Es löst einen echten Verpackungskonflikt — Kaffee muss sofort nach der Röstung versiegelt werden, um Frische zu schützen, aber luftdichtes Verschließen würde entweichendes CO2 einschließen und den Beutel schließlich aufreißen oder aufblähen lassen.",
+        "tip": "Drücke sanft auf einen Ventilbeutel — wenn er Tage nach der Röstung noch leicht aufgebläht ist, ist das tatsächlich ein gutes Frischezeichen, da es bedeutet, dass die Entgasung noch aktiv ist.",
+        "mistake": "Anzunehmen, ein flacher, nicht aufgeblähter Beutel bedeute schlechte Verpackung — es kann einfach bedeuten, dass der Kaffee älter ist und die Entgasung abgeschlossen hat, nicht dass das Ventil versagt hat.",
+        "challenge": "Warum braucht Kaffeeverpackung ein Ventil, das Gas entweichen lässt, wenn die meisten Lebensmittelverpackungen darauf ausgelegt sind, alles ein- und auszuschließen?"
+      },
+      "fr": {
+        "title": "Sacs à valve unidirectionnelle",
+        "definition": "Un emballage de café équipé d'une petite valve de dégazage qui laisse le CO2 s'échapper de l'intérieur du sac sans laisser entrer l'oxygène extérieur.",
+        "why": "Cela résout un véritable conflit d'emballage — le café doit être scellé immédiatement après torréfaction pour protéger sa fraîcheur, mais un scellage hermétique piégerait le CO2 en train de s'échapper et finirait par faire éclater ou gonfler le sac.",
+        "tip": "Appuyez doucement sur un sac à valve — s'il est encore légèrement gonflé plusieurs jours après torréfaction, c'est en fait un bon signe de fraîcheur, car cela signifie que le dégazage est encore actif.",
+        "mistake": "Supposer qu'un sac plat et non gonflé signifie un mauvais emballage — cela peut simplement signifier que le café est plus vieux et a fini de dégazer, pas que la valve a échoué.",
+        "challenge": "Pourquoi l'emballage du café a-t-il besoin d'une valve laissant sortir le gaz, alors que la plupart des emballages alimentaires sont conçus pour tout garder scellé ?"
+      },
+      "it": {
+        "title": "Sacchetti a valvola unidirezionale",
+        "definition": "Un imballaggio per caffè dotato di una piccola valvola di degasaggio che permette alla CO2 di fuoriuscire dall'interno del sacchetto senza far entrare l'ossigeno esterno.",
+        "why": "Risolve un vero conflitto di imballaggio — il caffè deve essere sigillato immediatamente dopo la tostatura per proteggerne la freschezza, ma sigillarlo ermeticamente intrappolerebbe la CO2 in fuoriuscita e alla fine romperebbe o gonfierebbe il sacchetto.",
+        "tip": "Premi delicatamente su un sacchetto a valvola — se è ancora leggermente gonfio giorni dopo la tostatura, è in realtà un buon segno di freschezza, perché significa che il degasaggio è ancora attivo.",
+        "mistake": "Supporre che un sacchetto piatto e non gonfio significhi cattivo imballaggio — potrebbe semplicemente significare che il caffè è più vecchio e ha finito di degasare, non che la valvola sia guasta.",
+        "challenge": "Perché l'imballaggio del caffè ha bisogno di una valvola che lascia uscire il gas, quando la maggior parte degli imballaggi alimentari è progettata per tenere tutto sigillato dentro e fuori?"
       }
     },
     "id": 214
@@ -10190,6 +10502,30 @@
         "tip": "Procure sempre uma data de torra real no saco em vez de confiar só na data de 'consumir preferencialmente antes de'; torrefadores especiais imprimem datas de torra justamente porque é uma informação mais significativa.",
         "mistake": "Tratar uma data de 'consumir preferencialmente antes de' distante como prova de frescor; ela indica principalmente que o café ainda é seguro e vendável, não que está no auge do sabor.",
         "challenge": "Por que um torrefador escolheria imprimir uma data de torra real mesmo sendo menos favorável do que uma data distante de 'consumir preferencialmente antes de'?"
+      },
+      "de": {
+        "title": "Röstdatum vs. 'Mindestens haltbar bis'-Kennzeichnung",
+        "definition": "Zwei verschiedene Informationen, die manchmal auf Kaffeebeuteln aufgedruckt sind — das tatsächliche Röstdatum sagt dir, wann der Kaffee geröstet wurde, während ein 'mindestens haltbar bis'-Datum eine grobe Haltbarkeitsschätzung ist, die unabhängig von der tatsächlichen Frische Monate im Voraus festgelegt werden kann.",
+        "why": "Ein 'mindestens haltbar bis'-Datum kann vor vielen Monaten gerösteten Kaffee genauso frisch erscheinen lassen wie letzte Woche gerösteten, da beide ein solches Datum tragen können, das noch weit in der Zukunft liegt.",
+        "tip": "Achte immer auf ein tatsächliches Röstdatum auf dem Beutel, statt dich allein auf ein 'mindestens haltbar bis'-Datum zu verlassen — Specialty-Röster drucken Röstdaten speziell deshalb, weil es aussagekräftigere Information ist.",
+        "mistake": "Ein weit entferntes 'mindestens haltbar bis'-Datum als Frischebeweis zu behandeln — es sagt hauptsächlich, dass der Kaffee noch sicher und verkäuflich ist, nicht dass er sich auf seinem Geschmackshöhepunkt befindet.",
+        "challenge": "Warum könnte sich ein Röster entscheiden, ein tatsächliches Röstdatum aufzudrucken, obwohl es weniger schmeichelhaft ist als ein weit entferntes 'mindestens haltbar bis'-Datum?"
+      },
+      "fr": {
+        "title": "Date de torréfaction vs étiquetage « à consommer de préférence avant »",
+        "definition": "Deux informations différentes parfois imprimées sur les sacs de café — la date de torréfaction réelle indique quand le café a été torréfié, tandis qu'une date « à consommer de préférence avant » est une estimation plus large de durée de conservation qui peut être fixée à plusieurs mois, indépendamment de la fraîcheur réelle.",
+        "why": "Une date « à consommer de préférence avant » peut faire paraître un café torréfié il y a plusieurs mois aussi frais qu'un café torréfié la semaine dernière, puisque les deux peuvent porter une date encore lointaine.",
+        "tip": "Cherchez toujours une date de torréfaction réelle sur le sac plutôt que de vous fier uniquement à une date « à consommer de préférence avant » — les torréfacteurs de spécialité impriment des dates de torréfaction précisément parce que c'est une information plus significative.",
+        "mistake": "Traiter une date « à consommer de préférence avant » lointaine comme une preuve de fraîcheur — elle indique surtout que le café est encore sûr et vendable, pas qu'il est à son pic de saveur.",
+        "challenge": "Pourquoi un torréfacteur choisirait-il d'imprimer une date de torréfaction réelle même si elle est moins flatteuse qu'une date « à consommer de préférence avant » lointaine ?"
+      },
+      "it": {
+        "title": "Data di tostatura vs etichettatura 'da consumarsi preferibilmente entro'",
+        "definition": "Due informazioni diverse a volte stampate sui sacchetti di caffè — la data di tostatura effettiva indica quando il caffè è stato tostato, mentre una data 'da consumarsi preferibilmente entro' è una stima più ampia della durata di conservazione che può essere fissata a mesi di distanza indipendentemente dalla freschezza reale.",
+        "why": "Una data 'da consumarsi preferibilmente entro' può far sembrare un caffè tostato molti mesi fa altrettanto fresco di uno tostato la settimana scorsa, poiché entrambi possono avere una data ancora lontana nel futuro.",
+        "tip": "Cerca sempre una data di tostatura effettiva sul sacchetto piuttosto che affidarti solo a una data 'da consumarsi preferibilmente entro' — i torrefattori specialty stampano le date di tostatura proprio perché è un'informazione più significativa.",
+        "mistake": "Trattare una data 'da consumarsi preferibilmente entro' lontana come prova di freschezza — indica principalmente che il caffè è ancora sicuro e vendibile, non che sia al suo apice di sapore.",
+        "challenge": "Perché un torrefattore potrebbe scegliere di stampare una data di tostatura effettiva anche se è meno lusinghiera di una data 'da consumarsi preferibilmente entro' lontana?"
       }
     },
     "id": 215
@@ -10226,6 +10562,30 @@
         "tip": "A injeção de nitrogênio é especialmente comum em café moído enlatado ou empacotado em tijolo (como embalagens a vácuo), em vez de em sacos frescos de café especial em grão, onde a válvula de escape geralmente já basta.",
         "mistake": "Assumir que a injeção de nitrogênio e as válvulas unidirecionais fazem o mesmo trabalho; a injeção remove o oxigênio no momento da embalagem, enquanto a válvula gerencia o gás que escapa depois. Alguns produtos usam uma, a outra, ou ambas.",
         "challenge": "Por que o café moído poderia precisar de uma proteção contra oxigênio mais agressiva do que o café em grão inteiro?"
+      },
+      "de": {
+        "title": "Stickstoffspülung",
+        "definition": "Eine Verpackungstechnik, bei der Stickstoffgas vor dem Versiegeln Sauerstoff im Kaffeebeutel oder in der Dose verdrängt und so eine sauerstoffarme Umgebung ohne Entgasungsventil schafft.",
+        "why": "Es ist eine gängige Lösung für vorgemahlenen und Dosenkaffee, der schneller altert als ganze Bohnen und sich nicht allein auf ein Ventil verlassen kann, da weniger eingeschlossenes CO2 aktiv Sauerstoff von innen herausdrückt.",
+        "tip": "Stickstoffspülung ist besonders häufig bei Dosen- oder blockverpacktem gemahlenem Kaffee (wie vakuumversiegelten Blöcken) statt bei frischen Specialty-Ganzbohnen-Beuteln, wo Ventilentlüftung meist ausreicht.",
+        "mistake": "Anzunehmen, Stickstoffspülung und Einwegventile erfüllten dieselbe Funktion — Spülung entfernt Sauerstoff im Moment der Verpackung, während ein Ventil danach entweichendes Gas verwaltet; manche Produkte nutzen das eine, das andere oder beides.",
+        "challenge": "Warum könnte vorgemahlener Kaffee aggressiveren Sauerstoffschutz benötigen als ganze Bohnen?"
+      },
+      "fr": {
+        "title": "Rinçage à l'azote",
+        "definition": "Une technique d'emballage où l'azote gazeux déplace l'oxygène à l'intérieur d'un sac ou d'une boîte de café avant le scellage, créant un environnement pauvre en oxygène sans nécessiter de valve de dégazage.",
+        "why": "C'est une solution courante pour le café pré-moulu et en boîte, qui rassit plus vite que le grain entier et ne peut pas compter sur une valve seule puisqu'il y a moins de CO2 piégé poussant activement l'oxygène vers l'extérieur.",
+        "tip": "Le rinçage à l'azote est particulièrement courant dans le café moulu en boîte ou en brique (comme les briques sous vide) plutôt que dans les sacs de grains entiers frais de spécialité, où l'évacuation par valve suffit généralement.",
+        "mistake": "Supposer que le rinçage à l'azote et les valves unidirectionnelles font le même travail — le rinçage retire l'oxygène au moment de l'emballage, tandis qu'une valve gère le gaz s'échappant après coup ; certains produits utilisent l'un, l'autre, ou les deux.",
+        "challenge": "Pourquoi le café pré-moulu pourrait-il avoir besoin d'une protection contre l'oxygène plus agressive que le café en grains entiers ?"
+      },
+      "it": {
+        "title": "Flussaggio con azoto",
+        "definition": "Una tecnica di imballaggio in cui l'azoto gassoso sposta l'ossigeno all'interno di un sacchetto o barattolo di caffè prima della sigillatura, creando un ambiente a basso contenuto di ossigeno senza bisogno di una valvola di degasaggio.",
+        "why": "È una soluzione comune per il caffè pre-macinato e in barattolo, che invecchia più velocemente rispetto ai chicchi interi e non può fare affidamento solo su una valvola poiché c'è meno CO2 intrappolata che spinge attivamente l'ossigeno verso l'esterno.",
+        "tip": "Il flussaggio con azoto è particolarmente comune nel caffè macinato in barattolo o in mattoncini (come mattoncini sottovuoto) piuttosto che nei sacchetti freschi di chicchi interi specialty, dove lo sfiato tramite valvola di solito è sufficiente.",
+        "mistake": "Supporre che flussaggio con azoto e valvole unidirezionali facciano lo stesso lavoro — il flussaggio rimuove l'ossigeno al momento dell'imballaggio, mentre una valvola gestisce il gas che fuoriesce successivamente; alcuni prodotti usano l'uno, l'altra, o entrambi.",
+        "challenge": "Perché il caffè pre-macinato potrebbe aver bisogno di una protezione dall'ossigeno più aggressiva rispetto al caffè in chicchi interi?"
       }
     },
     "id": 216
@@ -10262,6 +10622,30 @@
         "tip": "O papel kraft simples sem revestimento interno parece atraente e rústico, mas oferece pouquíssima proteção contra oxigênio, luz e umidade; é usado principalmente para café de validade curta ou vendido no próprio local.",
         "mistake": "Assumir que 'compostável' significa automaticamente 'tão protetor quanto o alumínio'; os filmes compostáveis melhoraram muito, mas historicamente ficam atrás do laminado multicamada com alumínio no desempenho como barreira de oxigênio.",
         "challenge": "Por que um torrefador poderia escolher deliberadamente um material de saco menos ecológico mesmo assim?"
+      },
+      "de": {
+        "title": "Beutelmaterialien: Kraftpapier, folienbeschichtet und kompostierbar",
+        "definition": "Die wichtigsten Materialoptionen für Kaffeebeutel — reines Kraftpapier (günstig, minimaler Barriereschutz), folienbeschichtetes oder mehrschichtiges Kunststofflaminat (starke Barriere, weniger biologisch abbaubar) und kompostierbare Biokunststofffolien (besseres Umweltprofil, historisch schwächere Barriereleistung).",
+        "why": "Jede Materialwahl ist ein echter Kompromiss zwischen Frischeschutz, Kosten und Umweltauswirkung — derzeit gibt es kein Material, das alle drei gleichzeitig maximiert.",
+        "tip": "Reines Kraftpapier ohne Beschichtung sieht ansprechend und rustikal aus, bietet aber sehr wenig Schutz gegen Sauerstoff, Licht und Feuchtigkeit — es wird meist für Kaffee mit kurzer Haltbarkeit oder Direktverkauf verwendet.",
+        "mistake": "Anzunehmen, 'kompostierbar' bedeute automatisch 'genauso schützend wie Folie' — kompostierbare Folien haben sich stark verbessert, liegen aber historisch hinter mehrschichtigem Folienlaminat bei der Sauerstoffbarriere zurück.",
+        "challenge": "Warum könnte sich ein Röster trotzdem bewusst für ein weniger umweltfreundliches Beutelmaterial entscheiden?"
+      },
+      "fr": {
+        "title": "Matériaux de sac : kraft, doublé de feuille et compostable",
+        "definition": "Les principaux choix de matériaux pour les sacs de café — le papier kraft simple (bon marché, protection barrière minimale), le laminé plastique multicouche ou doublé de feuille (forte barrière, moins biodégradable), et les films bioplastiques compostables (meilleur profil environnemental, performance barrière historiquement plus faible).",
+        "why": "Chaque choix de matériau est un véritable compromis entre protection de la fraîcheur, coût et impact environnemental — il n'existe actuellement aucun matériau qui maximise les trois à la fois.",
+        "tip": "Le papier kraft simple sans doublure paraît attrayant et rustique mais offre très peu de protection contre l'oxygène, la lumière et l'humidité — il est surtout utilisé pour le café à courte durée de conservation ou vendu sur place.",
+        "mistake": "Supposer que « compostable » signifie automatiquement « aussi protecteur que la feuille » — les films compostables se sont beaucoup améliorés mais accusent historiquement un retard par rapport au laminé multicouche en matière de barrière à l'oxygène.",
+        "challenge": "Pourquoi un torréfacteur choisirait-il délibérément un matériau de sac moins écologique malgré tout ?"
+      },
+      "it": {
+        "title": "Materiali dei sacchetti: kraft, laminati e compostabili",
+        "definition": "Le principali scelte di materiale per i sacchetti di caffè — carta kraft semplice (economica, protezione barriera minima), laminato multistrato o rivestito in foglio (barriera forte, meno biodegradabile), e film bioplastici compostabili (miglior profilo ambientale, prestazioni barriera storicamente più deboli).",
+        "why": "Ogni scelta di materiale è un vero compromesso tra protezione della freschezza, costo e impatto ambientale — attualmente non esiste un materiale che massimizzi tutti e tre contemporaneamente.",
+        "tip": "La carta kraft semplice senza rivestimento appare attraente e rustica ma offre pochissima protezione contro ossigeno, luce e umidità — è usata principalmente per caffè a breve conservazione o venduto in loco.",
+        "mistake": "Supporre che 'compostabile' significhi automaticamente 'protettivo quanto il foglio' — i film compostabili sono molto migliorati ma storicamente restano indietro rispetto al laminato multistrato nella prestazione della barriera all'ossigeno.",
+        "challenge": "Perché un torrefattore potrebbe comunque scegliere deliberatamente un materiale di imballaggio meno ecologico?"
       }
     },
     "id": 217
@@ -10298,6 +10682,30 @@
         "tip": "Moer bem antes de preparar é um dos hábitos de frescor de maior impacto disponíveis para quem prepara café em casa; mais impactante do que a maioria das melhorias de armazenamento.",
         "mistake": "Assumir que uma boa embalagem pode compensar totalmente moer o café com muita antecedência; nenhuma quantidade de boa embalagem compensa totalmente o problema da superfície depois que o café é moído.",
         "challenge": "Por que moer o café muda tanto sua velocidade de envelhecimento, muito mais do que simplesmente abrir um saco de grãos inteiros?"
+      },
+      "de": {
+        "title": "Das Frischefenster nach dem Mahlen",
+        "definition": "Der kurze Zeitraum — oft auf 15 bis 30 Minuten geschätzt —, während dessen gemahlener Kaffee die meisten seiner Aromastoffe behält, bevor Oxidation und CO2-Verlust den Geschmack erheblich abbauen.",
+        "why": "Mahlen vergrößert die dem Sauerstoff ausgesetzte Oberfläche des Kaffees dramatisch, weshalb gemahlener Kaffee weit schneller altert als ganze Bohnen, unabhängig davon, wie gut er verpackt ist.",
+        "tip": "Unmittelbar vor dem Brühen zu mahlen, ist eine der wirkungsvollsten Frischgewohnheiten für Hausbrauer — wirkungsvoller als die meisten Lagerungs-Upgrades.",
+        "mistake": "Anzunehmen, gute Verpackung könne das rechtzeitige Mahlen vor dem Brühen vollständig ausgleichen — keine noch so gute Verpackung gleicht das Oberflächenproblem einmal gemahlenen Kaffees vollständig aus.",
+        "challenge": "Warum verändert das Mahlen die Alterungsgeschwindigkeit des Kaffees so viel stärker, als es das bloße Öffnen eines Beutels ganzer Bohnen tut?"
+      },
+      "fr": {
+        "title": "La fenêtre de fraîcheur après la mouture",
+        "definition": "La courte période — souvent estimée entre 15 et 30 minutes — durant laquelle le café moulu conserve la plupart de ses composés aromatiques avant que l'oxydation et la perte de CO2 ne dégradent significativement la saveur.",
+        "why": "La mouture augmente considérablement la surface du café exposée à l'oxygène, ce qui explique pourquoi le café moulu rassit bien plus vite que les grains entiers, quelle que soit la qualité de l'emballage.",
+        "tip": "Moudre juste avant l'infusion est l'une des habitudes de fraîcheur les plus impactantes disponibles pour un préparateur maison — plus impactante que la plupart des améliorations de stockage.",
+        "mistake": "Supposer qu'un bon emballage peut entièrement compenser le fait de moudre le café bien à l'avance — aucun emballage, aussi bon soit-il, ne compense entièrement le problème de surface une fois le café moulu.",
+        "challenge": "Pourquoi moudre le café change-t-il tant sa vitesse de rassissement, bien plus que simplement ouvrir un sac de grains entiers ?"
+      },
+      "it": {
+        "title": "La finestra di freschezza dopo la macinatura",
+        "definition": "Il breve periodo — spesso stimato tra 15 e 30 minuti — durante il quale il caffè macinato mantiene la maggior parte dei suoi composti aromatici prima che ossidazione e perdita di CO2 degradino significativamente il sapore.",
+        "why": "La macinatura aumenta drammaticamente la superficie del caffè esposta all'ossigeno, ed è per questo che il caffè macinato invecchia molto più velocemente dei chicchi interi, indipendentemente da quanto bene sia imballato.",
+        "tip": "Macinare subito prima della preparazione è una delle abitudini di freschezza a più alto impatto disponibili per chi prepara caffè in casa — più impattante della maggior parte dei miglioramenti di stoccaggio.",
+        "mistake": "Supporre che un buon imballaggio possa compensare completamente la macinatura del caffè con largo anticipo — nessun imballaggio, per quanto buono, compensa del tutto il problema della superficie una volta macinato il caffè.",
+        "challenge": "Perché la macinatura cambia la velocità di invecchiamento del caffè molto più del semplice aprire un sacchetto di chicchi interi?"
       }
     },
     "id": 218
@@ -10334,6 +10742,30 @@
         "tip": "Se for congelar, primeiro porcione o café em quantidades pequenas e herméticas, e evite ciclos repetidos de congelamento e descongelamento, já que essa variação repetida de temperatura (não o frio em si) é o que causa dano por condensação.",
         "mistake": "Refrigerar o café numa geladeira comum de cozinha; a umidade e os odores fortes de alimentos numa geladeira causam mais dano do que a temperatura fresca ajuda.",
         "challenge": "Por que o mesmo eletrodoméstico pode ser genuinamente útil para armazenamento de longo prazo, mas prejudicial para o armazenamento do dia a dia?"
+      },
+      "de": {
+        "title": "Lagerungsmythen: Die Kühlschrank- und Gefrierschrank-Debatte",
+        "definition": "Eine seit langem andauernde Meinungsverschiedenheit in Kaffeekreisen darüber, ob Kühlen oder Einfrieren von Kaffee der Frische hilft oder schadet — Kühlschranklagerung wird heute wegen Feuchtigkeits- und Geruchsaufnahme weitgehend abgeraten, während Einfrieren in wirklich luftdichter, portionierter Verpackung umstritten bleibt, aber echte Unterstützung in der Specialty-Branche für die Langzeitlagerung hat.",
+        "why": "Es hier falsch zu machen, kann Kaffee tatsächlich schädigen, statt ihn zu schützen — die feuchte, geruchsgefüllte Umgebung eines Kühlschranks ist für Kaffee oft schlechter als ein kühler, dunkler Schrank.",
+        "tip": "Beim Einfrieren zuerst Kaffee in kleine, luftdichte Portionen aufteilen und wiederholte Auftau-Gefrier-Zyklen vermeiden, da dieser wiederholte Temperaturwechsel — nicht die Kälte selbst — Kondensationsschäden verursacht.",
+        "mistake": "Kaffee in einem normalen Küchenkühlschrank zu lagern — die Feuchtigkeit und starken Lebensmittelgerüche in einem Kühlschrank schaden mehr, als die kühle Temperatur nützt.",
+        "challenge": "Warum könnte dasselbe Gerät für die Langzeitlagerung wirklich nützlich sein, aber für die tägliche Lagerung schädlich?"
+      },
+      "fr": {
+        "title": "Mythes de stockage : le débat réfrigérateur et congélateur",
+        "definition": "Un désaccord persistant dans les cercles du café sur le fait que réfrigérer ou congeler le café aide ou nuit à sa fraîcheur — la réfrigération est aujourd'hui largement déconseillée en raison de l'absorption d'humidité et d'odeurs, tandis que la congélation dans un emballage vraiment hermétique et portionné reste débattue mais bénéficie d'un vrai soutien de l'industrie de spécialité pour le stockage à long terme.",
+        "why": "Se tromper ici peut activement endommager le café plutôt que le protéger — l'environnement humide et chargé d'odeurs d'un réfrigérateur est souvent pire pour le café qu'un placard frais et sombre.",
+        "tip": "En cas de congélation, portionnez d'abord le café en petites quantités hermétiques et évitez les cycles répétés de congélation-décongélation, car ce changement de température répété (pas le froid lui-même) est ce qui cause les dégâts de condensation.",
+        "mistake": "Réfrigérer le café dans un réfrigérateur de cuisine normal — l'humidité et les fortes odeurs alimentaires d'un réfrigérateur causent plus de dégâts que la température fraîche n'aide.",
+        "challenge": "Pourquoi le même appareil pourrait-il être réellement utile pour le stockage à long terme mais nuisible pour le stockage quotidien ?"
+      },
+      "it": {
+        "title": "Miti di conservazione: il dibattito su frigorifero e congelatore",
+        "definition": "Un disaccordo di lunga data negli ambienti del caffè sul fatto che refrigerare o congelare il caffè aiuti o danneggi la freschezza — la refrigerazione è oggi ampiamente sconsigliata a causa dell'assorbimento di umidità e odori, mentre il congelamento in un imballaggio veramente ermetico e porzionato resta dibattuto ma ha un vero supporto nell'industria specialty per la conservazione a lungo termine.",
+        "why": "Sbagliare qui può effettivamente danneggiare il caffè invece di proteggerlo — l'ambiente umido e pieno di odori di un frigorifero è spesso peggiore per il caffè di una dispensa fresca e buia.",
+        "tip": "Se congeli, porziona prima il caffè in piccole quantità ermetiche ed evita cicli ripetuti di congelamento-scongelamento, poiché è quel ripetuto sbalzo di temperatura — non il freddo in sé — a causare danni da condensa.",
+        "mistake": "Refrigerare il caffè in un normale frigorifero da cucina — l'umidità e i forti odori alimentari di un frigorifero causano più danni di quanto aiuti la temperatura fresca.",
+        "challenge": "Perché lo stesso elettrodomestico potrebbe essere genuinamente utile per la conservazione a lungo termine ma dannoso per quella quotidiana?"
       }
     },
     "id": 219
@@ -10370,6 +10802,30 @@
         "tip": "Se moer em casa não for uma opção, compre café já moído em quantidades menores e com mais frequência, em vez de um saco grande pensado para durar semanas.",
         "mistake": "Assumir que o café já moído de um bom torrefador se mantém fresco por tanto tempo quanto o produto em grão inteiro; a moagem em si é o fator limitante, não a qualidade do torrefador.",
         "challenge": "Por que dois sacos de café idêntico da mesma torra, um em grão inteiro e outro moído, poderiam ter vidas úteis reais muito diferentes?"
+      },
+      "de": {
+        "title": "Haltbarkeit: ganze Bohnen vs. vorgemahlen",
+        "definition": "Die deutliche Lücke bei nutzbarer Frische zwischen ganzen Kaffeebohnen (die in guter Verpackung wochenlang angemessene Qualität halten können) und vorgemahlenem Kaffee (der wegen seiner viel größeren exponierten Oberfläche binnen Tagen spürbar nachlässt).",
+        "why": "Es ist eine der einfachsten, wirkungsvollsten Kaufentscheidungen, die ein Kaffeetrinker treffen kann — ganze Bohnen zu kaufen und zu Hause zu mahlen bewahrt weit mehr Geschmack als der Kauf von vorgemahlenem Kaffee, unabhängig von Preis oder Marke.",
+        "tip": "Wenn zu Hause Mahlen keine Option ist, kaufe vorgemahlenen Kaffee öfter in kleineren Mengen statt eines großen Beutels, der wochenlang reichen soll.",
+        "mistake": "Anzunehmen, vorgemahlener Kaffee von einem guten Röster bleibe so lange frisch wie dessen ganze Bohnen — der Mahlgrad selbst ist der limitierende Faktor, nicht die Qualität des Rösters.",
+        "challenge": "Warum könnten zwei Beutel identischen Kaffees derselben Röstung — einer ganze Bohnen, einer gemahlen — sehr unterschiedliche realistische Haltbarkeiten haben?"
+      },
+      "fr": {
+        "title": "Durée de conservation : grains entiers vs pré-moulu",
+        "definition": "L'écart significatif de fraîcheur utilisable entre le café en grains entiers (qui peut conserver une qualité raisonnable pendant des semaines dans un bon emballage) et le café pré-moulu (qui décline nettement en quelques jours en raison de sa surface exposée bien plus grande).",
+        "why": "C'est l'une des décisions d'achat les plus simples et les plus impactantes qu'un buveur de café puisse prendre — acheter en grains entiers et moudre à la maison préserve bien plus de saveur qu'acheter du pré-moulu, indépendamment du prix ou de la marque.",
+        "tip": "Si moudre à la maison n'est pas une option, achetez du café pré-moulu en plus petites quantités plus souvent plutôt qu'un gros sac destiné à durer des semaines.",
+        "mistake": "Supposer que le café pré-moulu d'un bon torréfacteur reste frais aussi longtemps que son produit en grains entiers — la mouture elle-même est le facteur limitant, pas la qualité du torréfacteur.",
+        "challenge": "Pourquoi deux sacs de café identique de la même torréfaction, l'un en grains entiers et l'autre moulu, pourraient-ils avoir des durées de conservation réalistes très différentes ?"
+      },
+      "it": {
+        "title": "Durata: chicchi interi vs pre-macinato",
+        "definition": "Il divario significativo nella freschezza utilizzabile tra il caffè in chicchi interi (che può mantenere una qualità ragionevole per settimane in un buon imballaggio) e il caffè pre-macinato (che declina sensibilmente entro giorni a causa della sua superficie esposta molto più ampia).",
+        "why": "È una delle decisioni di acquisto più semplici e ad alto impatto che un bevitore di caffè possa prendere — comprare chicchi interi e macinare a casa preserva molto più sapore rispetto a comprare pre-macinato, indipendentemente da prezzo o marca.",
+        "tip": "Se macinare a casa non è un'opzione, compra caffè pre-macinato in quantità più piccole più spesso invece di un sacchetto grande pensato per durare settimane.",
+        "mistake": "Supporre che il caffè pre-macinato di un buon torrefattore rimanga fresco tanto quanto il loro prodotto in chicchi interi — la macinatura stessa è il fattore limitante, non la qualità del torrefattore.",
+        "challenge": "Perché due sacchetti di caffè identico della stessa tostatura, uno in chicchi interi e uno macinato, potrebbero avere durate realistiche molto diverse?"
       }
     },
     "id": 220
@@ -10406,6 +10862,30 @@
         "tip": "As cápsulas protegem o frescor excepcionalmente bem por dose individual, já que cada uma é selada separadamente, mas essa mesma selagem individual é o que gera seu resíduo de embalagem desproporcional por xícara.",
         "mistake": "Julgar um formato de embalagem apenas pela proteção do frescor sem pesar as trocas de custo e ambientais; o 'melhor' formato depende do que o comprador realmente mais valoriza.",
         "challenge": "Por que o formato de embalagem com melhor proteção de frescor também pode ser o de pior reputação ambiental?"
+      },
+      "de": {
+        "title": "Verpackungsformate im Vergleich: Beutel, Dosen und Kapseln",
+        "definition": "Die wichtigsten Einzelhandelsverpackungsformate für Kaffee — flexible Ventilbeutel (am häufigsten für Specialty-Ganzbohnen), starre Dosen (oft stickstoffgespült, häufig bei gemahlenem Kaffee) und Einzelportionskapseln (individuell versiegelt, maximaler Frischeschutz pro Dosis auf Kosten erheblichen Verpackungsabfalls).",
+        "why": "Jedes Format stellt eine andere Balance aus Frischeschutz, Kosten, Bequemlichkeit und Umweltauswirkung dar — es gibt kein universell 'bestes' Format, nur Kompromisse für verschiedene Anwendungsfälle.",
+        "tip": "Kapseln schützen die Frische pro einzelner Dosis außergewöhnlich gut, da jede separat versiegelt ist, aber genau diese individuelle Versiegelung erzeugt ihren überproportionalen Verpackungsabfall pro Tasse.",
+        "mistake": "Ein Verpackungsformat rein nach Frischeschutz zu beurteilen, ohne Kosten- und Umweltkompromisse abzuwägen — das 'beste' Format hängt davon ab, was dem Käufer tatsächlich am wichtigsten ist.",
+        "challenge": "Warum könnte das Verpackungsformat mit dem besten Frischeschutz auch das mit dem schlechtesten Umweltruf sein?"
+      },
+      "fr": {
+        "title": "Comparaison des formats d'emballage : sacs, boîtes et capsules",
+        "definition": "Les principaux formats d'emballage au détail pour le café — sacs à valve flexibles (les plus courants pour les grains entiers de spécialité), boîtes rigides (souvent rincées à l'azote, courantes pour le café moulu), et capsules individuelles (scellées individuellement, protection de fraîcheur maximale par dose au prix d'un déchet d'emballage important).",
+        "why": "Chaque format représente un équilibre différent entre protection de la fraîcheur, coût, commodité et impact environnemental — il n'existe pas de format universellement « meilleur », seulement des compromis adaptés à différents usages.",
+        "tip": "Les capsules protègent exceptionnellement bien la fraîcheur par dose individuelle, puisque chacune est scellée séparément, mais c'est ce même scellage individuel qui génère leur déchet d'emballage disproportionné par tasse.",
+        "mistake": "Juger un format d'emballage uniquement sur la protection de la fraîcheur sans peser les compromis de coût et d'environnement — le « meilleur » format dépend de ce que l'acheteur valorise réellement le plus.",
+        "challenge": "Pourquoi le format d'emballage offrant la meilleure protection de fraîcheur pourrait-il aussi être celui à la pire réputation environnementale ?"
+      },
+      "it": {
+        "title": "Confronto tra formati di imballaggio: sacchetti, lattine e capsule",
+        "definition": "I principali formati di imballaggio al dettaglio per il caffè — sacchetti flessibili a valvola (i più comuni per i chicchi interi specialty), lattine rigide (spesso flussate con azoto, comuni per il caffè macinato), e capsule monodose (sigillate individualmente, massima protezione della freschezza per dose al costo di uno spreco di imballaggio significativo).",
+        "why": "Ogni formato rappresenta un diverso equilibrio tra protezione della freschezza, costo, comodità e impatto ambientale — non esiste un formato universalmente 'migliore', solo compromessi adatti a diversi usi.",
+        "tip": "Le capsule proteggono la freschezza eccezionalmente bene per singola dose, poiché ciascuna è sigillata separatamente, ma è proprio quella sigillatura individuale a generare il loro spreco di imballaggio sproporzionato per tazza.",
+        "mistake": "Giudicare un formato di imballaggio solo sulla protezione della freschezza senza soppesare i compromessi di costo e ambiente — il formato 'migliore' dipende da cosa l'acquirente valorizza realmente di più.",
+        "challenge": "Perché il formato di imballaggio con la migliore protezione della freschezza potrebbe anche essere quello con la peggiore reputazione ambientale?"
       }
     },
     "id": 221
