@@ -32,6 +32,30 @@
         "tip": "Prove com propósito, não apenas por preferência.",
         "mistake": "Confundir a preferência pessoal com a qualidade objetiva.",
         "challenge": "Liste os cinco sentidos envolvidos na avaliação do café."
+      },
+      "de": {
+        "title": "Sensorische Bewertung",
+        "definition": "Sensorische Bewertung ist die systematische Beurteilung von Kaffee mittels Sehen, Aroma, Geschmack und Mundgefühl.",
+        "why": "Konsistente sensorische Fähigkeiten verbessern Qualitätskontrolle und Kaufentscheidungen.",
+        "tip": "Verkoste mit Zweck, nicht nur nach Vorliebe.",
+        "mistake": "Persönliche Vorliebe mit objektiver Qualität zu verwechseln.",
+        "challenge": "Liste die fünf Sinne auf, die bei der Kaffeebewertung beteiligt sind."
+      },
+      "fr": {
+        "title": "Évaluation sensorielle",
+        "definition": "L'évaluation sensorielle est l'appréciation systématique du café par la vue, l'arôme, le goût et la texture en bouche.",
+        "why": "Des compétences sensorielles constantes améliorent le contrôle qualité et les décisions d'achat.",
+        "tip": "Dégustez avec un objectif, pas seulement par préférence.",
+        "mistake": "Confondre préférence personnelle et qualité objective.",
+        "challenge": "Listez les cinq sens impliqués dans l'évaluation du café."
+      },
+      "it": {
+        "title": "Valutazione sensoriale",
+        "definition": "La valutazione sensoriale è l'apprezzamento sistematico del caffè tramite vista, aroma, gusto e sensazione in bocca.",
+        "why": "Competenze sensoriali costanti migliorano il controllo qualità e le decisioni di acquisto.",
+        "tip": "Assaggia con uno scopo, non solo per preferenza.",
+        "mistake": "Confondere la preferenza personale con la qualità oggettiva.",
+        "challenge": "Elenca i cinque sensi coinvolti nella valutazione del caffè."
       }
     },
     "free_sample": true
@@ -69,6 +93,30 @@
         "tip": "Dedique tempo a cheirar antes de provar.",
         "mistake": "Usar os termos de forma intercambiável.",
         "challenge": "Descreva três aromas de um café etíope recém-preparado."
+      },
+      "de": {
+        "title": "Duft vs. Aroma",
+        "definition": "Duft beschreibt den Geruch von trockenem Kaffee, während Aroma den Geruch nach Wasserzugabe beschreibt.",
+        "why": "Jede Phase offenbart unterschiedliche flüchtige Verbindungen.",
+        "tip": "Verbringe Zeit mit Riechen, bevor du probierst.",
+        "mistake": "Die Begriffe synonym zu verwenden.",
+        "challenge": "Beschreibe drei Aromen eines frisch gebrühten äthiopischen Kaffees."
+      },
+      "fr": {
+        "title": "Fragrance vs arôme",
+        "definition": "La fragrance décrit l'odeur du café sec, tandis que l'arôme décrit l'odeur après ajout d'eau.",
+        "why": "Chaque étape révèle des composés volatils différents.",
+        "tip": "Prenez le temps de sentir avant de goûter.",
+        "mistake": "Utiliser les termes de façon interchangeable.",
+        "challenge": "Décrivez trois arômes d'un café éthiopien fraîchement infusé."
+      },
+      "it": {
+        "title": "Fragranza vs aroma",
+        "definition": "La fragranza descrive l'odore del caffè secco, mentre l'aroma descrive l'odore dopo l'aggiunta di acqua.",
+        "why": "Ogni fase rivela composti volatili diversi.",
+        "tip": "Dedica del tempo ad annusare prima di assaggiare.",
+        "mistake": "Usare i termini in modo intercambiabile.",
+        "challenge": "Descrivi tre aromi di un caffè etiope appena preparato."
       }
     }
   },
@@ -105,6 +153,30 @@
         "tip": "Pense em cítricos ou frutas maduras em vez de algo azedo.",
         "mistake": "Chamar toda acidez de 'azeda'.",
         "challenge": "Nomeie três descritores positivos de acidez."
+      },
+      "de": {
+        "title": "Säure",
+        "definition": "Säure ist die helle, lebendige Empfindung, die Kaffee Struktur und Frische verleiht.",
+        "why": "Gute Säure schafft Balance und Komplexität.",
+        "tip": "Denke an Zitrus oder reife Frucht statt an Sauerkeit.",
+        "mistake": "Alle Säure als 'sauer' zu bezeichnen.",
+        "challenge": "Nenne drei positive Säure-Deskriptoren."
+      },
+      "fr": {
+        "title": "Acidité",
+        "definition": "L'acidité est la sensation vive et éclatante qui apporte structure et fraîcheur au café.",
+        "why": "Une bonne acidité crée équilibre et complexité.",
+        "tip": "Pensez agrumes ou fruit mûr plutôt qu'aigreur.",
+        "mistake": "Appeler toute acidité « aigre ».",
+        "challenge": "Nommez trois descripteurs positifs de l'acidité."
+      },
+      "it": {
+        "title": "Acidità",
+        "definition": "L'acidità è la sensazione brillante e vivace che dà struttura e freschezza al caffè.",
+        "why": "Una buona acidità crea equilibrio e complessità.",
+        "tip": "Pensa ad agrumi o frutta matura piuttosto che ad asprezza.",
+        "mistake": "Chiamare tutta l'acidità 'aspra'.",
+        "challenge": "Nomina tre descrittori positivi dell'acidità."
       }
     }
   },
@@ -141,6 +213,30 @@
         "tip": "Procure doçura de caramelo, mel ou fruta.",
         "mistake": "Confundir baixo amargor com doçura.",
         "challenge": "Como o desenvolvimento da torra pode influenciar a doçura?"
+      },
+      "de": {
+        "title": "Süße",
+        "definition": "Süße ist ein wichtiger Indikator für ausgewogene Extraktion und hochwertigen Kaffee.",
+        "why": "Größere Süße deutet meist auf bessere Balance hin.",
+        "tip": "Achte auf Karamell-, Honig- oder fruchtartige Süße.",
+        "mistake": "Geringe Bitterkeit mit Süße zu verwechseln.",
+        "challenge": "Wie kann die Röstentwicklung die Süße beeinflussen?"
+      },
+      "fr": {
+        "title": "Douceur",
+        "definition": "La douceur est un indicateur clé d'une extraction équilibrée et d'un café de haute qualité.",
+        "why": "Une plus grande douceur indique généralement un meilleur équilibre.",
+        "tip": "Recherchez une douceur de type caramel, miel ou fruit.",
+        "mistake": "Confondre faible amertume et douceur.",
+        "challenge": "Comment le développement de la torréfaction peut-il influencer la douceur ?"
+      },
+      "it": {
+        "title": "Dolcezza",
+        "definition": "La dolcezza è un indicatore chiave di un'estrazione equilibrata e di un caffè di alta qualità.",
+        "why": "Una maggiore dolcezza di solito indica un migliore equilibrio.",
+        "tip": "Cerca dolcezza simile a caramello, miele o frutta.",
+        "mistake": "Confondere la bassa amarezza con la dolcezza.",
+        "challenge": "Come può lo sviluppo della tostatura influenzare la dolcezza?"
       }
     }
   },
@@ -177,6 +273,30 @@
         "tip": "Julgue o amargor junto com a doçura.",
         "mistake": "Supor que todo amargor é um defeito.",
         "challenge": "Nomeie duas causas de amargor excessivo."
+      },
+      "de": {
+        "title": "Bitterkeit",
+        "definition": "Bitterkeit ist eine natürliche Geschmackseigenschaft, die bei Übermaß unangenehm wird.",
+        "why": "Kontrollierte Bitterkeit trägt zur Balance bei.",
+        "tip": "Beurteile Bitterkeit zusammen mit Süße.",
+        "mistake": "Anzunehmen, alle Bitterkeit sei ein Fehler.",
+        "challenge": "Nenne zwei Ursachen für übermäßige Bitterkeit."
+      },
+      "fr": {
+        "title": "Amertume",
+        "definition": "L'amertume est une caractéristique gustative naturelle qui devient désagréable en excès.",
+        "why": "Une amertume contrôlée contribue à l'équilibre.",
+        "tip": "Jugez l'amertume en parallèle de la douceur.",
+        "mistake": "Supposer que toute amertume est un défaut.",
+        "challenge": "Nommez deux causes d'amertume excessive."
+      },
+      "it": {
+        "title": "Amarezza",
+        "definition": "L'amarezza è una caratteristica gustativa naturale che diventa sgradevole se eccessiva.",
+        "why": "Un'amarezza controllata contribuisce all'equilibrio.",
+        "tip": "Giudica l'amarezza insieme alla dolcezza.",
+        "mistake": "Supporre che tutta l'amarezza sia un difetto.",
+        "challenge": "Nomina due cause di amarezza eccessiva."
       }
     }
   },
@@ -213,6 +333,30 @@
         "tip": "Compare leite desnatado e creme para entender as diferenças de corpo.",
         "mistake": "Confundir força com corpo.",
         "challenge": "Descreva um café com corpo semelhante ao de um chá."
+      },
+      "de": {
+        "title": "Körper",
+        "definition": "Körper beschreibt das Gewicht und die taktile Empfindung von Kaffee im Mund.",
+        "why": "Körper trägt erheblich zum Trinkerlebnis bei.",
+        "tip": "Vergleiche entrahmte Milch und Sahne, um Körperunterschiede zu verstehen.",
+        "mistake": "Stärke mit Körper zu verwechseln.",
+        "challenge": "Beschreibe einen Kaffee mit teeähnlichem Körper."
+      },
+      "fr": {
+        "title": "Corps",
+        "definition": "Le corps décrit le poids et la sensation tactile du café en bouche.",
+        "why": "Le corps contribue significativement à l'expérience de dégustation.",
+        "tip": "Comparez lait écrémé et crème pour comprendre les différences de corps.",
+        "mistake": "Confondre force et corps.",
+        "challenge": "Décrivez un café avec un corps proche du thé."
+      },
+      "it": {
+        "title": "Corpo",
+        "definition": "Il corpo descrive il peso e la sensazione tattile del caffè in bocca.",
+        "why": "Il corpo contribuisce significativamente all'esperienza di bevuta.",
+        "tip": "Confronta latte scremato e panna per capire le differenze di corpo.",
+        "mistake": "Confondere forza e corpo.",
+        "challenge": "Descrivi un caffè con un corpo simile al tè."
       }
     }
   },
@@ -249,6 +393,30 @@
         "tip": "Espere vários segundos antes de pontuar.",
         "mistake": "Ignorar o final.",
         "challenge": "Descreva o final do seu café favorito."
+      },
+      "de": {
+        "title": "Nachgeschmack",
+        "definition": "Nachgeschmack ist die Geschmacksempfindung, die nach dem Schlucken zurückbleibt.",
+        "why": "Ein angenehmer Abgang spiegelt oft die Gesamtqualität wider.",
+        "tip": "Warte einige Sekunden, bevor du bewertest.",
+        "mistake": "Den Abgang zu ignorieren.",
+        "challenge": "Beschreibe den Abgang deines Lieblingskaffees."
+      },
+      "fr": {
+        "title": "Arrière-goût",
+        "definition": "L'arrière-goût est la sensation de saveur qui persiste après avoir avalé.",
+        "why": "Une finale agréable reflète souvent la qualité globale.",
+        "tip": "Attendez plusieurs secondes avant de noter.",
+        "mistake": "Ignorer la finale.",
+        "challenge": "Décrivez la finale de votre café préféré."
+      },
+      "it": {
+        "title": "Retrogusto",
+        "definition": "Il retrogusto è la sensazione di sapore che rimane dopo aver deglutito.",
+        "why": "Un finale piacevole spesso riflette la qualità complessiva.",
+        "tip": "Aspetta diversi secondi prima di valutare.",
+        "mistake": "Ignorare il finale.",
+        "challenge": "Descrivi il finale del tuo caffè preferito."
       }
     }
   },
@@ -285,6 +453,30 @@
         "tip": "Evite focar em um único sabor.",
         "mistake": "Premiar a intensidade em vez do equilíbrio.",
         "challenge": "Um café pode ser muito ácido e ainda assim ser equilibrado?"
+      },
+      "de": {
+        "title": "Balance",
+        "definition": "Balance ist die Harmonie zwischen Säure, Süße, Bitterkeit und Körper.",
+        "why": "Ausgewogene Kaffees sind meist leichter wiederholt zu genießen.",
+        "tip": "Vermeide es, dich nur auf einen Geschmack zu konzentrieren.",
+        "mistake": "Intensität statt Balance zu belohnen.",
+        "challenge": "Kann ein Kaffee stark säurebetont und trotzdem ausgewogen sein?"
+      },
+      "fr": {
+        "title": "Équilibre",
+        "definition": "L'équilibre est l'harmonie entre acidité, douceur, amertume et corps.",
+        "why": "Les cafés équilibrés sont généralement plus faciles à apprécier de façon répétée.",
+        "tip": "Évitez de vous concentrer sur une seule saveur.",
+        "mistake": "Récompenser l'intensité plutôt que l'équilibre.",
+        "challenge": "Un café peut-il être très acide et rester équilibré ?"
+      },
+      "it": {
+        "title": "Equilibrio",
+        "definition": "L'equilibrio è l'armonia tra acidità, dolcezza, amarezza e corpo.",
+        "why": "I caffè equilibrati sono generalmente più facili da apprezzare ripetutamente.",
+        "tip": "Evita di concentrarti su un solo sapore.",
+        "mistake": "Premiare l'intensità invece dell'equilibrio.",
+        "challenge": "Un caffè può essere molto acido e comunque equilibrato?"
       }
     }
   },
@@ -321,6 +513,30 @@
         "tip": "Use alimentos familiares em vez de buscar descritores exóticos.",
         "mistake": "Tratar as notas de sabor como ingredientes.",
         "challenge": "Descreva um café usando cinco notas de sabor."
+      },
+      "de": {
+        "title": "Geschmacksnoten",
+        "definition": "Geschmacksnoten sind beschreibende Bezüge, die helfen, sensorische Erfahrungen zu kommunizieren.",
+        "why": "Sie schaffen eine gemeinsame Sprache für die Verkostung.",
+        "tip": "Nutze vertraute Lebensmittel statt exotische Deskriptoren zu suchen.",
+        "mistake": "Geschmacksnoten als Zutaten zu behandeln.",
+        "challenge": "Beschreibe einen Kaffee mit fünf Geschmacksnoten."
+      },
+      "fr": {
+        "title": "Notes de saveur",
+        "definition": "Les notes de saveur sont des références descriptives qui aident à communiquer les expériences sensorielles.",
+        "why": "Elles créent un langage commun pour la dégustation.",
+        "tip": "Utilisez des aliments familiers plutôt que de chercher des descripteurs exotiques.",
+        "mistake": "Traiter les notes de saveur comme des ingrédients.",
+        "challenge": "Décrivez un café en utilisant cinq notes de saveur."
+      },
+      "it": {
+        "title": "Note di sapore",
+        "definition": "Le note di sapore sono riferimenti descrittivi che aiutano a comunicare le esperienze sensoriali.",
+        "why": "Creano un linguaggio comune per la degustazione.",
+        "tip": "Usa alimenti familiari invece di cercare descrittori esotici.",
+        "mistake": "Trattare le note di sapore come ingredienti.",
+        "challenge": "Descrivi un caffè usando cinque note di sapore."
       }
     }
   },
@@ -357,6 +573,30 @@
         "tip": "Discuta as diferenças abertamente após cada prova.",
         "mistake": "Tentar chegar a um acordo antes de provar de forma independente.",
         "challenge": "Como você calibraria uma equipe de quatro provadores?"
+      },
+      "de": {
+        "title": "Kalibrierung",
+        "definition": "Kalibrierung ist der Prozess, sensorische Bewertungen zwischen mehreren Verkostern abzugleichen.",
+        "why": "Kalibrierung verbessert die Konsistenz über Cafés, Röstereien und QC-Teams hinweg.",
+        "tip": "Diskutiere Unterschiede offen nach jedem Cupping.",
+        "mistake": "Zu versuchen, sich zu einigen, bevor unabhängig verkostet wurde.",
+        "challenge": "Wie würdest du ein Team von vier Verkostern kalibrieren?"
+      },
+      "fr": {
+        "title": "Calibrage",
+        "definition": "Le calibrage est le processus d'alignement des évaluations sensorielles entre plusieurs dégustateurs.",
+        "why": "Le calibrage améliore la constance entre cafés, torréfacteurs et équipes qualité.",
+        "tip": "Discutez ouvertement des différences après chaque dégustation.",
+        "mistake": "Essayer de se mettre d'accord avant de goûter indépendamment.",
+        "challenge": "Comment calibreriez-vous une équipe de quatre dégustateurs ?"
+      },
+      "it": {
+        "title": "Calibrazione",
+        "definition": "La calibrazione è il processo di allineamento delle valutazioni sensoriali tra più assaggiatori.",
+        "why": "La calibrazione migliora la coerenza tra bar, torrefazioni e team di controllo qualità.",
+        "tip": "Discuti apertamente le differenze dopo ogni cupping.",
+        "mistake": "Cercare di trovare un accordo prima di assaggiare in modo indipendente.",
+        "challenge": "Come calibreresti un team di quattro assaggiatori?"
       }
     }
   }

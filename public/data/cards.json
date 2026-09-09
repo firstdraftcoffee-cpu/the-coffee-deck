@@ -2422,6 +2422,30 @@
         "tip": "Mova-se com propósito, não com pressa.",
         "mistake": "Cruzar o seu próprio espaço de trabalho.",
         "challenge": "Liste três formas de melhorar o fluxo de trabalho durante um serviço movimentado."
+      },
+      "de": {
+        "title": "Arbeitsablauf",
+        "definition": "Arbeitsablauf ist die Abfolge von Handlungen, die genutzt wird, um Getränke effizient und konsistent zuzubereiten.",
+        "why": "Guter Arbeitsablauf reduziert Fehler, Verschwendung und Wartezeiten für Kunden.",
+        "tip": "Bewege dich mit Zweck, nicht nur mit Geschwindigkeit.",
+        "mistake": "Den eigenen Arbeitsbereich zu durchkreuzen.",
+        "challenge": "Liste drei Wege auf, den Arbeitsablauf während eines geschäftigen Service zu verbessern."
+      },
+      "fr": {
+        "title": "Flux de travail",
+        "definition": "Le flux de travail est la séquence d'actions utilisée pour préparer les boissons de façon efficace et constante.",
+        "why": "Un bon flux de travail réduit les erreurs, le gaspillage et les temps d'attente des clients.",
+        "tip": "Bougez avec intention plutôt qu'avec vitesse.",
+        "mistake": "Traverser son propre espace de travail.",
+        "challenge": "Listez trois façons d'améliorer le flux de travail pendant un service chargé."
+      },
+      "it": {
+        "title": "Flusso di lavoro",
+        "definition": "Il flusso di lavoro è la sequenza di azioni usata per preparare le bevande in modo efficiente e costante.",
+        "why": "Un buon flusso di lavoro riduce errori, sprechi e tempi di attesa dei clienti.",
+        "tip": "Muoviti con intenzione, non solo con velocità.",
+        "mistake": "Attraversare il proprio spazio di lavoro.",
+        "challenge": "Elenca tre modi per migliorare il flusso di lavoro durante un servizio intenso."
       }
     },
     "free_sample": true,
@@ -2460,6 +2484,30 @@
         "tip": "Comece cada turno com a mesma rotina de montagem.",
         "mistake": "Preparar-se enquanto os clientes esperam.",
         "challenge": "Nomeie cinco itens que devem ser verificados antes de abrir."
+      },
+      "de": {
+        "title": "Mise en Place",
+        "definition": "Mise en Place bedeutet, alles vorbereitet und organisiert zu haben, bevor der Service beginnt.",
+        "why": "Vorbereitung reduziert Stress und verbessert Konsistenz.",
+        "tip": "Beginne jede Schicht mit derselben Einrichtungsroutine.",
+        "mistake": "Vorzubereiten, während Kunden warten.",
+        "challenge": "Nenne fünf Dinge, die vor der Öffnung überprüft werden sollten."
+      },
+      "fr": {
+        "title": "Mise en place",
+        "definition": "La mise en place signifie avoir tout préparé et organisé avant le début du service.",
+        "why": "La préparation réduit le stress et améliore la constance.",
+        "tip": "Commencez chaque service avec la même routine d'installation.",
+        "mistake": "Préparer pendant que les clients attendent.",
+        "challenge": "Nommez cinq éléments à vérifier avant l'ouverture."
+      },
+      "it": {
+        "title": "Mise en place",
+        "definition": "La mise en place significa avere tutto preparato e organizzato prima dell'inizio del servizio.",
+        "why": "La preparazione riduce lo stress e migliora la coerenza.",
+        "tip": "Inizia ogni turno con la stessa routine di allestimento.",
+        "mistake": "Preparare mentre i clienti aspettano.",
+        "challenge": "Nomina cinque elementi da controllare prima dell'apertura."
       }
     },
     "id": 47
@@ -2497,6 +2545,30 @@
         "tip": "Devolva cada ferramenta ao mesmo lugar.",
         "mistake": "Deixar o balcão desorganizado.",
         "challenge": "Descreva o layout ideal da sua estação de espresso."
+      },
+      "de": {
+        "title": "Stationsorganisation",
+        "definition": "Ein gut organisierter Arbeitsplatz hält Werkzeuge, Milch und Kaffee in leichter Reichweite.",
+        "why": "Kleine Verbesserungen sparen täglich hunderte Bewegungen.",
+        "tip": "Bringe jedes Werkzeug an denselben Ort zurück.",
+        "mistake": "Unordnung auf der Arbeitsfläche zu hinterlassen.",
+        "challenge": "Beschreibe deine ideale Espressostations-Anordnung."
+      },
+      "fr": {
+        "title": "Organisation du poste",
+        "definition": "Un poste de travail bien organisé garde outils, lait et café à portée de main.",
+        "why": "De petites améliorations économisent des centaines de mouvements chaque jour.",
+        "tip": "Remettez chaque outil au même endroit.",
+        "mistake": "Laisser du désordre sur le plan de travail.",
+        "challenge": "Décrivez l'agencement idéal de votre poste espresso."
+      },
+      "it": {
+        "title": "Organizzazione della postazione",
+        "definition": "Una postazione ben organizzata mantiene attrezzi, latte e caffè a portata di mano.",
+        "why": "Piccoli miglioramenti risparmiano centinaia di movimenti ogni giorno.",
+        "tip": "Rimetti ogni attrezzo sempre nello stesso posto.",
+        "mistake": "Lasciare disordine sul banco.",
+        "challenge": "Descrivi la tua disposizione ideale della postazione espresso."
       }
     },
     "id": 48
@@ -2534,6 +2606,30 @@
         "tip": "Pense com duas bebidas de antecedência.",
         "mistake": "Terminar uma bebida de cada vez durante os horários de pico.",
         "challenge": "Como você sequenciaria quatro bebidas com leite e dois cafés pretos?"
+      },
+      "de": {
+        "title": "Getränkereihenfolge",
+        "definition": "Getränkereihenfolge bedeutet, die effizienteste Reihenfolge zur Zubereitung mehrerer Getränke zu bestimmen.",
+        "why": "Richtige Reihenfolge verbessert die Geschwindigkeit, ohne die Qualität zu mindern.",
+        "tip": "Denke zwei Getränke voraus.",
+        "mistake": "Bei Hochbetrieb Getränke einzeln nacheinander fertigzustellen.",
+        "challenge": "Wie würdest du vier Milchgetränke und zwei schwarze Kaffees anordnen?"
+      },
+      "fr": {
+        "title": "Séquençage des boissons",
+        "definition": "Le séquençage des boissons consiste à décider de l'ordre le plus efficace pour préparer plusieurs boissons.",
+        "why": "Un bon séquençage améliore la vitesse sans réduire la qualité.",
+        "tip": "Pensez deux boissons à l'avance.",
+        "mistake": "Terminer une boisson à la fois pendant les rushes.",
+        "challenge": "Comment séquenceriez-vous quatre boissons lactées et deux cafés noirs ?"
+      },
+      "it": {
+        "title": "Sequenza delle bevande",
+        "definition": "La sequenza delle bevande consiste nel decidere l'ordine più efficiente per preparare più bevande.",
+        "why": "Una sequenza corretta migliora la velocità senza ridurre la qualità.",
+        "tip": "Pensa con due bevande di anticipo.",
+        "mistake": "Completare una bevanda alla volta durante i momenti di punta.",
+        "challenge": "Come sequenzeresti quattro bevande a base di latte e due caffè neri?"
       }
     },
     "id": 49
@@ -2571,6 +2667,30 @@
         "tip": "Reorganize a estação após cada cliente.",
         "mistake": "Esperar até a hora de fechar.",
         "challenge": "Liste cinco coisas que você deveria limpar durante o atendimento."
+      },
+      "de": {
+        "title": "Fortlaufendes Reinigen",
+        "definition": "Kleine, fortlaufend erledigte Reinigungsaufgaben verhindern spätere große Reinigungen.",
+        "why": "Eine saubere Station unterstützt Geschwindigkeit und Professionalität.",
+        "tip": "Setze die Station nach jedem Kunden zurück.",
+        "mistake": "Bis zur Schließzeit zu warten.",
+        "challenge": "Liste fünf Dinge auf, die du während des Service reinigen solltest."
+      },
+      "fr": {
+        "title": "Nettoyer en continu",
+        "definition": "De petites tâches de nettoyage effectuées en continu évitent un gros nettoyage plus tard.",
+        "why": "Un poste propre favorise la vitesse et le professionnalisme.",
+        "tip": "Remettez le poste à zéro après chaque client.",
+        "mistake": "Attendre l'heure de fermeture.",
+        "challenge": "Listez cinq choses que vous devriez nettoyer pendant le service."
+      },
+      "it": {
+        "title": "Pulire mentre si lavora",
+        "definition": "Piccoli compiti di pulizia svolti continuamente evitano una grande pulizia successiva.",
+        "why": "Una postazione pulita favorisce velocità e professionalità.",
+        "tip": "Ripristina la postazione dopo ogni cliente.",
+        "mistake": "Aspettare l'orario di chiusura.",
+        "challenge": "Elenca cinque cose che dovresti pulire durante il servizio."
       }
     },
     "id": 50
@@ -2608,6 +2728,30 @@
         "tip": "Use uma linguagem curta e consistente.",
         "mistake": "Fazer suposições.",
         "challenge": "Como você deveria comunicar um pedido atrasado?"
+      },
+      "de": {
+        "title": "Kommunikation",
+        "definition": "Klare Kommunikation hält das Team während des Service koordiniert.",
+        "why": "Die meisten Servicefehler entstehen durch schlechte Kommunikation, nicht durch schlechten Kaffee.",
+        "tip": "Verwende kurze, konsistente Sprache.",
+        "mistake": "Annahmen zu treffen.",
+        "challenge": "Wie solltest du eine verzögerte Bestellung kommunizieren?"
+      },
+      "fr": {
+        "title": "Communication",
+        "definition": "Une communication claire maintient l'équipe coordonnée pendant le service.",
+        "why": "La plupart des erreurs de service viennent d'une mauvaise communication plutôt que d'un mauvais café.",
+        "tip": "Utilisez un langage court et constant.",
+        "mistake": "Faire des suppositions.",
+        "challenge": "Comment devriez-vous communiquer une commande retardée ?"
+      },
+      "it": {
+        "title": "Comunicazione",
+        "definition": "Una comunicazione chiara mantiene il team coordinato durante il servizio.",
+        "why": "La maggior parte degli errori di servizio deriva da una comunicazione scarsa piuttosto che da un caffè scarso.",
+        "tip": "Usa un linguaggio breve e coerente.",
+        "mistake": "Fare supposizioni.",
+        "challenge": "Come dovresti comunicare un ordine in ritardo?"
       }
     },
     "id": 51
@@ -2645,6 +2789,30 @@
         "tip": "Devagar é suave. Suave se torna rápido.",
         "mistake": "Apressar-se e cometer erros evitáveis.",
         "challenge": "Como você se mantém calmo diante de uma fila de vinte clientes?"
+      },
+      "de": {
+        "title": "Stoßzeiten-Management",
+        "definition": "Stoßzeiten-Management bedeutet, Qualität bei hohem Kundenaufkommen aufrechtzuerhalten.",
+        "why": "Konsistenz unter Druck definiert professionelle Baristas.",
+        "tip": "Langsam ist geschmeidig. Geschmeidig wird schnell.",
+        "mistake": "Zu hetzen und vermeidbare Fehler zu machen.",
+        "challenge": "Wie bleibst du bei einer Schlange von zwanzig Kunden ruhig?"
+      },
+      "fr": {
+        "title": "Gestion des rushes",
+        "definition": "La gestion des rushes consiste à maintenir la qualité en servant un volume élevé de clients.",
+        "why": "La constance sous pression définit les baristas professionnels.",
+        "tip": "Lent est fluide. Fluide devient rapide.",
+        "mistake": "Se précipiter et commettre des erreurs évitables.",
+        "challenge": "Comment restez-vous calme face à une file de vingt clients ?"
+      },
+      "it": {
+        "title": "Gestione dei momenti di punta",
+        "definition": "La gestione dei momenti di punta consiste nel mantenere la qualità servendo alti volumi di clienti.",
+        "why": "La coerenza sotto pressione definisce i baristi professionisti.",
+        "tip": "Lento è fluido. Fluido diventa veloce.",
+        "mistake": "Affrettarsi e commettere errori evitabili.",
+        "challenge": "Come rimani calmo davanti a una fila di venti clienti?"
       }
     },
     "id": 52
@@ -2682,6 +2850,30 @@
         "tip": "Meça tudo o que puder.",
         "mistake": "Confiar apenas no instinto.",
         "challenge": "Nomeie três variáveis que você deveria medir em cada turno."
+      },
+      "de": {
+        "title": "Konsistenz",
+        "definition": "Konsistenz bedeutet, den ganzen Tag über wiederholt dieselbe Qualität zu produzieren.",
+        "why": "Kunden kommen zurück, weil sie dem Erlebnis vertrauen.",
+        "tip": "Miss alles, was du messen kannst.",
+        "mistake": "Sich allein auf Instinkt zu verlassen.",
+        "challenge": "Nenne drei Variablen, die du jede Schicht messen solltest."
+      },
+      "fr": {
+        "title": "Constance",
+        "definition": "La constance signifie produire la même qualité de manière répétée tout au long de la journée.",
+        "why": "Les clients reviennent parce qu'ils font confiance à l'expérience.",
+        "tip": "Mesurez tout ce que vous pouvez.",
+        "mistake": "Se fier uniquement à l'instinct.",
+        "challenge": "Nommez trois variables que vous devriez mesurer à chaque service."
+      },
+      "it": {
+        "title": "Coerenza",
+        "definition": "La coerenza significa produrre la stessa qualità ripetutamente durante tutta la giornata.",
+        "why": "I clienti tornano perché si fidano dell'esperienza.",
+        "tip": "Misura tutto ciò che puoi.",
+        "mistake": "Affidarsi solo all'istinto.",
+        "challenge": "Nomina tre variabili che dovresti misurare ad ogni turno."
       }
     },
     "id": 53
@@ -2719,6 +2911,30 @@
         "tip": "Priorize primeiro as tarefas que afetam os clientes.",
         "mistake": "Gastar tempo demais em tarefas de baixo valor.",
         "challenge": "Que tarefas podem ser concluídas durante os períodos tranquilos?"
+      },
+      "de": {
+        "title": "Zeitmanagement",
+        "definition": "Zeitmanagement bedeutet, Vorbereitung, Service und Reinigung effizient zu balancieren.",
+        "why": "Effektives Zeitmanagement reduziert Stress und verbessert die Servicequalität.",
+        "tip": "Priorisiere Aufgaben, die Kunden zuerst betreffen.",
+        "mistake": "Zu viel Zeit für Aufgaben mit geringem Wert aufzuwenden.",
+        "challenge": "Welche Arbeiten können in ruhigen Phasen erledigt werden?"
+      },
+      "fr": {
+        "title": "Gestion du temps",
+        "definition": "La gestion du temps consiste à équilibrer efficacement préparation, service et nettoyage.",
+        "why": "Une gestion du temps efficace réduit le stress et améliore la qualité du service.",
+        "tip": "Priorisez les tâches qui affectent les clients en premier.",
+        "mistake": "Passer trop de temps sur des tâches à faible valeur.",
+        "challenge": "Quelles tâches peuvent être accomplies pendant les périodes calmes ?"
+      },
+      "it": {
+        "title": "Gestione del tempo",
+        "definition": "La gestione del tempo consiste nel bilanciare efficacemente preparazione, servizio e pulizia.",
+        "why": "Una gestione efficace del tempo riduce lo stress e migliora la qualità del servizio.",
+        "tip": "Dai priorità ai compiti che riguardano prima i clienti.",
+        "mistake": "Passare troppo tempo su compiti a basso valore.",
+        "challenge": "Quali lavori possono essere completati durante i periodi tranquilli?"
       }
     },
     "id": 54
@@ -2756,6 +2972,30 @@
         "tip": "Use uma lista de verificação por escrito em cada turno.",
         "mistake": "Confiar na memória.",
         "challenge": "Escreva uma rotina de fechamento de dez passos para sua cafeteria."
+      },
+      "de": {
+        "title": "Schließroutine",
+        "definition": "Eine strukturierte Schließroutine bereitet das Café auf den folgenden Tag vor.",
+        "why": "Ein gutes Schließen schafft eine gute Eröffnung.",
+        "tip": "Nutze jede Schicht eine schriftliche Checkliste.",
+        "mistake": "Sich auf das Gedächtnis zu verlassen.",
+        "challenge": "Schreibe eine zehnstufige Schließroutine für dein Café."
+      },
+      "fr": {
+        "title": "Routine de fermeture",
+        "definition": "Une routine de fermeture structurée prépare le café pour le jour suivant.",
+        "why": "Une bonne fermeture prépare une bonne ouverture.",
+        "tip": "Utilisez une checklist écrite à chaque service.",
+        "mistake": "Se fier à la mémoire.",
+        "challenge": "Écrivez une routine de fermeture en dix étapes pour votre café."
+      },
+      "it": {
+        "title": "Routine di chiusura",
+        "definition": "Una routine di chiusura strutturata prepara il bar per il giorno successivo.",
+        "why": "Una buona chiusura crea una buona apertura.",
+        "tip": "Usa una checklist scritta ad ogni turno.",
+        "mistake": "Affidarsi alla memoria.",
+        "challenge": "Scrivi una routine di chiusura in dieci passaggi per il tuo bar."
       }
     },
     "id": 55
@@ -2793,6 +3033,30 @@
         "tip": "Prove com propósito, não apenas por preferência.",
         "mistake": "Confundir a preferência pessoal com a qualidade objetiva.",
         "challenge": "Liste os cinco sentidos envolvidos na avaliação do café."
+      },
+      "de": {
+        "title": "Sensorische Bewertung",
+        "definition": "Sensorische Bewertung ist die systematische Beurteilung von Kaffee mittels Sehen, Aroma, Geschmack und Mundgefühl.",
+        "why": "Konsistente sensorische Fähigkeiten verbessern Qualitätskontrolle und Kaufentscheidungen.",
+        "tip": "Verkoste mit Zweck, nicht nur nach Vorliebe.",
+        "mistake": "Persönliche Vorliebe mit objektiver Qualität zu verwechseln.",
+        "challenge": "Liste die fünf Sinne auf, die bei der Kaffeebewertung beteiligt sind."
+      },
+      "fr": {
+        "title": "Évaluation sensorielle",
+        "definition": "L'évaluation sensorielle est l'appréciation systématique du café par la vue, l'arôme, le goût et la texture en bouche.",
+        "why": "Des compétences sensorielles constantes améliorent le contrôle qualité et les décisions d'achat.",
+        "tip": "Dégustez avec un objectif, pas seulement par préférence.",
+        "mistake": "Confondre préférence personnelle et qualité objective.",
+        "challenge": "Listez les cinq sens impliqués dans l'évaluation du café."
+      },
+      "it": {
+        "title": "Valutazione sensoriale",
+        "definition": "La valutazione sensoriale è l'apprezzamento sistematico del caffè tramite vista, aroma, gusto e sensazione in bocca.",
+        "why": "Competenze sensoriali costanti migliorano il controllo qualità e le decisioni di acquisto.",
+        "tip": "Assaggia con uno scopo, non solo per preferenza.",
+        "mistake": "Confondere la preferenza personale con la qualità oggettiva.",
+        "challenge": "Elenca i cinque sensi coinvolti nella valutazione del caffè."
       }
     },
     "free_sample": true,
@@ -2831,6 +3095,30 @@
         "tip": "Dedique tempo a cheirar antes de provar.",
         "mistake": "Usar os termos de forma intercambiável.",
         "challenge": "Descreva três aromas de um café etíope recém-preparado."
+      },
+      "de": {
+        "title": "Duft vs. Aroma",
+        "definition": "Duft beschreibt den Geruch von trockenem Kaffee, während Aroma den Geruch nach Wasserzugabe beschreibt.",
+        "why": "Jede Phase offenbart unterschiedliche flüchtige Verbindungen.",
+        "tip": "Verbringe Zeit mit Riechen, bevor du probierst.",
+        "mistake": "Die Begriffe synonym zu verwenden.",
+        "challenge": "Beschreibe drei Aromen eines frisch gebrühten äthiopischen Kaffees."
+      },
+      "fr": {
+        "title": "Fragrance vs arôme",
+        "definition": "La fragrance décrit l'odeur du café sec, tandis que l'arôme décrit l'odeur après ajout d'eau.",
+        "why": "Chaque étape révèle des composés volatils différents.",
+        "tip": "Prenez le temps de sentir avant de goûter.",
+        "mistake": "Utiliser les termes de façon interchangeable.",
+        "challenge": "Décrivez trois arômes d'un café éthiopien fraîchement infusé."
+      },
+      "it": {
+        "title": "Fragranza vs aroma",
+        "definition": "La fragranza descrive l'odore del caffè secco, mentre l'aroma descrive l'odore dopo l'aggiunta di acqua.",
+        "why": "Ogni fase rivela composti volatili diversi.",
+        "tip": "Dedica del tempo ad annusare prima di assaggiare.",
+        "mistake": "Usare i termini in modo intercambiabile.",
+        "challenge": "Descrivi tre aromi di un caffè etiope appena preparato."
       }
     },
     "id": 57
@@ -2868,6 +3156,30 @@
         "tip": "Pense em cítricos ou frutas maduras em vez de algo azedo.",
         "mistake": "Chamar toda acidez de 'azeda'.",
         "challenge": "Nomeie três descritores positivos de acidez."
+      },
+      "de": {
+        "title": "Säure",
+        "definition": "Säure ist die helle, lebendige Empfindung, die Kaffee Struktur und Frische verleiht.",
+        "why": "Gute Säure schafft Balance und Komplexität.",
+        "tip": "Denke an Zitrus oder reife Frucht statt an Sauerkeit.",
+        "mistake": "Alle Säure als 'sauer' zu bezeichnen.",
+        "challenge": "Nenne drei positive Säure-Deskriptoren."
+      },
+      "fr": {
+        "title": "Acidité",
+        "definition": "L'acidité est la sensation vive et éclatante qui apporte structure et fraîcheur au café.",
+        "why": "Une bonne acidité crée équilibre et complexité.",
+        "tip": "Pensez agrumes ou fruit mûr plutôt qu'aigreur.",
+        "mistake": "Appeler toute acidité « aigre ».",
+        "challenge": "Nommez trois descripteurs positifs de l'acidité."
+      },
+      "it": {
+        "title": "Acidità",
+        "definition": "L'acidità è la sensazione brillante e vivace che dà struttura e freschezza al caffè.",
+        "why": "Una buona acidità crea equilibrio e complessità.",
+        "tip": "Pensa ad agrumi o frutta matura piuttosto che ad asprezza.",
+        "mistake": "Chiamare tutta l'acidità 'aspra'.",
+        "challenge": "Nomina tre descrittori positivi dell'acidità."
       }
     },
     "id": 58
@@ -2905,6 +3217,30 @@
         "tip": "Procure doçura de caramelo, mel ou fruta.",
         "mistake": "Confundir baixo amargor com doçura.",
         "challenge": "Como o desenvolvimento da torra pode influenciar a doçura?"
+      },
+      "de": {
+        "title": "Süße",
+        "definition": "Süße ist ein wichtiger Indikator für ausgewogene Extraktion und hochwertigen Kaffee.",
+        "why": "Größere Süße deutet meist auf bessere Balance hin.",
+        "tip": "Achte auf Karamell-, Honig- oder fruchtartige Süße.",
+        "mistake": "Geringe Bitterkeit mit Süße zu verwechseln.",
+        "challenge": "Wie kann die Röstentwicklung die Süße beeinflussen?"
+      },
+      "fr": {
+        "title": "Douceur",
+        "definition": "La douceur est un indicateur clé d'une extraction équilibrée et d'un café de haute qualité.",
+        "why": "Une plus grande douceur indique généralement un meilleur équilibre.",
+        "tip": "Recherchez une douceur de type caramel, miel ou fruit.",
+        "mistake": "Confondre faible amertume et douceur.",
+        "challenge": "Comment le développement de la torréfaction peut-il influencer la douceur ?"
+      },
+      "it": {
+        "title": "Dolcezza",
+        "definition": "La dolcezza è un indicatore chiave di un'estrazione equilibrata e di un caffè di alta qualità.",
+        "why": "Una maggiore dolcezza di solito indica un migliore equilibrio.",
+        "tip": "Cerca dolcezza simile a caramello, miele o frutta.",
+        "mistake": "Confondere la bassa amarezza con la dolcezza.",
+        "challenge": "Come può lo sviluppo della tostatura influenzare la dolcezza?"
       }
     },
     "id": 59
@@ -2942,6 +3278,30 @@
         "tip": "Julgue o amargor junto com a doçura.",
         "mistake": "Supor que todo amargor é um defeito.",
         "challenge": "Nomeie duas causas de amargor excessivo."
+      },
+      "de": {
+        "title": "Bitterkeit",
+        "definition": "Bitterkeit ist eine natürliche Geschmackseigenschaft, die bei Übermaß unangenehm wird.",
+        "why": "Kontrollierte Bitterkeit trägt zur Balance bei.",
+        "tip": "Beurteile Bitterkeit zusammen mit Süße.",
+        "mistake": "Anzunehmen, alle Bitterkeit sei ein Fehler.",
+        "challenge": "Nenne zwei Ursachen für übermäßige Bitterkeit."
+      },
+      "fr": {
+        "title": "Amertume",
+        "definition": "L'amertume est une caractéristique gustative naturelle qui devient désagréable en excès.",
+        "why": "Une amertume contrôlée contribue à l'équilibre.",
+        "tip": "Jugez l'amertume en parallèle de la douceur.",
+        "mistake": "Supposer que toute amertume est un défaut.",
+        "challenge": "Nommez deux causes d'amertume excessive."
+      },
+      "it": {
+        "title": "Amarezza",
+        "definition": "L'amarezza è una caratteristica gustativa naturale che diventa sgradevole se eccessiva.",
+        "why": "Un'amarezza controllata contribuisce all'equilibrio.",
+        "tip": "Giudica l'amarezza insieme alla dolcezza.",
+        "mistake": "Supporre che tutta l'amarezza sia un difetto.",
+        "challenge": "Nomina due cause di amarezza eccessiva."
       }
     },
     "id": 60
@@ -2979,6 +3339,30 @@
         "tip": "Compare leite desnatado e creme para entender as diferenças de corpo.",
         "mistake": "Confundir força com corpo.",
         "challenge": "Descreva um café com corpo semelhante ao de um chá."
+      },
+      "de": {
+        "title": "Körper",
+        "definition": "Körper beschreibt das Gewicht und die taktile Empfindung von Kaffee im Mund.",
+        "why": "Körper trägt erheblich zum Trinkerlebnis bei.",
+        "tip": "Vergleiche entrahmte Milch und Sahne, um Körperunterschiede zu verstehen.",
+        "mistake": "Stärke mit Körper zu verwechseln.",
+        "challenge": "Beschreibe einen Kaffee mit teeähnlichem Körper."
+      },
+      "fr": {
+        "title": "Corps",
+        "definition": "Le corps décrit le poids et la sensation tactile du café en bouche.",
+        "why": "Le corps contribue significativement à l'expérience de dégustation.",
+        "tip": "Comparez lait écrémé et crème pour comprendre les différences de corps.",
+        "mistake": "Confondre force et corps.",
+        "challenge": "Décrivez un café avec un corps proche du thé."
+      },
+      "it": {
+        "title": "Corpo",
+        "definition": "Il corpo descrive il peso e la sensazione tattile del caffè in bocca.",
+        "why": "Il corpo contribuisce significativamente all'esperienza di bevuta.",
+        "tip": "Confronta latte scremato e panna per capire le differenze di corpo.",
+        "mistake": "Confondere forza e corpo.",
+        "challenge": "Descrivi un caffè con un corpo simile al tè."
       }
     },
     "id": 61
@@ -3016,6 +3400,30 @@
         "tip": "Espere vários segundos antes de pontuar.",
         "mistake": "Ignorar o final.",
         "challenge": "Descreva o final do seu café favorito."
+      },
+      "de": {
+        "title": "Nachgeschmack",
+        "definition": "Nachgeschmack ist die Geschmacksempfindung, die nach dem Schlucken zurückbleibt.",
+        "why": "Ein angenehmer Abgang spiegelt oft die Gesamtqualität wider.",
+        "tip": "Warte einige Sekunden, bevor du bewertest.",
+        "mistake": "Den Abgang zu ignorieren.",
+        "challenge": "Beschreibe den Abgang deines Lieblingskaffees."
+      },
+      "fr": {
+        "title": "Arrière-goût",
+        "definition": "L'arrière-goût est la sensation de saveur qui persiste après avoir avalé.",
+        "why": "Une finale agréable reflète souvent la qualité globale.",
+        "tip": "Attendez plusieurs secondes avant de noter.",
+        "mistake": "Ignorer la finale.",
+        "challenge": "Décrivez la finale de votre café préféré."
+      },
+      "it": {
+        "title": "Retrogusto",
+        "definition": "Il retrogusto è la sensazione di sapore che rimane dopo aver deglutito.",
+        "why": "Un finale piacevole spesso riflette la qualità complessiva.",
+        "tip": "Aspetta diversi secondi prima di valutare.",
+        "mistake": "Ignorare il finale.",
+        "challenge": "Descrivi il finale del tuo caffè preferito."
       }
     },
     "id": 62
@@ -3053,6 +3461,30 @@
         "tip": "Evite focar em um único sabor.",
         "mistake": "Premiar a intensidade em vez do equilíbrio.",
         "challenge": "Um café pode ser muito ácido e ainda assim ser equilibrado?"
+      },
+      "de": {
+        "title": "Balance",
+        "definition": "Balance ist die Harmonie zwischen Säure, Süße, Bitterkeit und Körper.",
+        "why": "Ausgewogene Kaffees sind meist leichter wiederholt zu genießen.",
+        "tip": "Vermeide es, dich nur auf einen Geschmack zu konzentrieren.",
+        "mistake": "Intensität statt Balance zu belohnen.",
+        "challenge": "Kann ein Kaffee stark säurebetont und trotzdem ausgewogen sein?"
+      },
+      "fr": {
+        "title": "Équilibre",
+        "definition": "L'équilibre est l'harmonie entre acidité, douceur, amertume et corps.",
+        "why": "Les cafés équilibrés sont généralement plus faciles à apprécier de façon répétée.",
+        "tip": "Évitez de vous concentrer sur une seule saveur.",
+        "mistake": "Récompenser l'intensité plutôt que l'équilibre.",
+        "challenge": "Un café peut-il être très acide et rester équilibré ?"
+      },
+      "it": {
+        "title": "Equilibrio",
+        "definition": "L'equilibrio è l'armonia tra acidità, dolcezza, amarezza e corpo.",
+        "why": "I caffè equilibrati sono generalmente più facili da apprezzare ripetutamente.",
+        "tip": "Evita di concentrarti su un solo sapore.",
+        "mistake": "Premiare l'intensità invece dell'equilibrio.",
+        "challenge": "Un caffè può essere molto acido e comunque equilibrato?"
       }
     },
     "id": 63
@@ -3090,6 +3522,30 @@
         "tip": "Use alimentos familiares em vez de buscar descritores exóticos.",
         "mistake": "Tratar as notas de sabor como ingredientes.",
         "challenge": "Descreva um café usando cinco notas de sabor."
+      },
+      "de": {
+        "title": "Geschmacksnoten",
+        "definition": "Geschmacksnoten sind beschreibende Bezüge, die helfen, sensorische Erfahrungen zu kommunizieren.",
+        "why": "Sie schaffen eine gemeinsame Sprache für die Verkostung.",
+        "tip": "Nutze vertraute Lebensmittel statt exotische Deskriptoren zu suchen.",
+        "mistake": "Geschmacksnoten als Zutaten zu behandeln.",
+        "challenge": "Beschreibe einen Kaffee mit fünf Geschmacksnoten."
+      },
+      "fr": {
+        "title": "Notes de saveur",
+        "definition": "Les notes de saveur sont des références descriptives qui aident à communiquer les expériences sensorielles.",
+        "why": "Elles créent un langage commun pour la dégustation.",
+        "tip": "Utilisez des aliments familiers plutôt que de chercher des descripteurs exotiques.",
+        "mistake": "Traiter les notes de saveur comme des ingrédients.",
+        "challenge": "Décrivez un café en utilisant cinq notes de saveur."
+      },
+      "it": {
+        "title": "Note di sapore",
+        "definition": "Le note di sapore sono riferimenti descrittivi che aiutano a comunicare le esperienze sensoriali.",
+        "why": "Creano un linguaggio comune per la degustazione.",
+        "tip": "Usa alimenti familiari invece di cercare descrittori esotici.",
+        "mistake": "Trattare le note di sapore come ingredienti.",
+        "challenge": "Descrivi un caffè usando cinque note di sapore."
       }
     },
     "id": 64
@@ -3127,6 +3583,30 @@
         "tip": "Discuta as diferenças abertamente após cada prova.",
         "mistake": "Tentar chegar a um acordo antes de provar de forma independente.",
         "challenge": "Como você calibraria uma equipe de quatro provadores?"
+      },
+      "de": {
+        "title": "Kalibrierung",
+        "definition": "Kalibrierung ist der Prozess, sensorische Bewertungen zwischen mehreren Verkostern abzugleichen.",
+        "why": "Kalibrierung verbessert die Konsistenz über Cafés, Röstereien und QC-Teams hinweg.",
+        "tip": "Diskutiere Unterschiede offen nach jedem Cupping.",
+        "mistake": "Zu versuchen, sich zu einigen, bevor unabhängig verkostet wurde.",
+        "challenge": "Wie würdest du ein Team von vier Verkostern kalibrieren?"
+      },
+      "fr": {
+        "title": "Calibrage",
+        "definition": "Le calibrage est le processus d'alignement des évaluations sensorielles entre plusieurs dégustateurs.",
+        "why": "Le calibrage améliore la constance entre cafés, torréfacteurs et équipes qualité.",
+        "tip": "Discutez ouvertement des différences après chaque dégustation.",
+        "mistake": "Essayer de se mettre d'accord avant de goûter indépendamment.",
+        "challenge": "Comment calibreriez-vous une équipe de quatre dégustateurs ?"
+      },
+      "it": {
+        "title": "Calibrazione",
+        "definition": "La calibrazione è il processo di allineamento delle valutazioni sensoriali tra più assaggiatori.",
+        "why": "La calibrazione migliora la coerenza tra bar, torrefazioni e team di controllo qualità.",
+        "tip": "Discuti apertamente le differenze dopo ogni cupping.",
+        "mistake": "Cercare di trovare un accordo prima di assaggiare in modo indipendente.",
+        "challenge": "Come calibreresti un team di quattro assaggiatori?"
       }
     },
     "id": 65
