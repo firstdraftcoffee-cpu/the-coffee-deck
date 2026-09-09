@@ -217,6 +217,147 @@
             }
           ]
         }
+      },
+      "de": {
+        "title": "V60 Filterkaffee",
+        "definition": "Eine manuelle Filterkaffeemethode mit einem kegelförmigen Dripper mit einem großen Einzelloch und Spiralrippen, die dem Brauer volle Kontrolle über Gießrate und Bewegung gibt.",
+        "why": "Der V60 ist eine der am weitesten verbreiteten Filterkaffeemethoden im Specialty Coffee, geschätzt für eine saubere, helle Tasse, die den Herkunftscharakter eines Kaffees hervorhebt.",
+        "tip": "Gieße in langsamen, kontrollierten Kreisen statt alles auf einmal — konsistente Gießtechnik ist bei dieser Methode wichtiger als fast jede andere Variable.",
+        "mistake": "Zu schnell oder ungleichmäßig zu gießen, was Kanalbildung verursacht — Wasser findet einen leichten Weg durch das Kaffeemehl, statt gleichmäßig zu extrahieren.",
+        "challenge": "Warum könnte ein Dripper mit nur einem großen Loch mehr Gießgeschick erfordern als einer mit vielen kleinen Löchern?",
+        "recipe": {
+          "grind": "Mittelfein (wie grober Sand)",
+          "steps": [
+            {
+              "title": "Filter spülen",
+              "content": "Spüle den Papierfilter mit heißem Wasser, um Papiergeschmack zu entfernen und Dripper und Gefäß vorzuwärmen. Gieße das Spülwasser weg."
+            },
+            {
+              "title": "Kaffee einfüllen, glätten und bloomen lassen",
+              "content": "Fülle das gemahlene Kaffeepulver ein und glätte das Bett. Starte deinen Timer und gieße 40g Wasser, um das gesamte Kaffeemehl gleichmäßig zu sättigen. Lass es bloomen."
+            },
+            {
+              "title": "Erster Aufguss",
+              "content": "Gieße bis insgesamt 160g in langsamen, gleichmäßigen Kreisen, wobei der Wasserstand relativ konstant bleibt."
+            },
+            {
+              "title": "Zweiter Aufguss",
+              "content": "Gieße das restliche Wasser, um insgesamt 320g zu erreichen, wieder in langsamen Kreisen."
+            },
+            {
+              "title": "Drawdown",
+              "content": "Lass das Wasser vollständig ablaufen. Die Gesamtbrühzeit sollte bei etwa 2:30-3:00 liegen."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt sauer oder schwach",
+              "fix": "Feiner mahlen oder die Wassertemperatur leicht erhöhen."
+            },
+            {
+              "issue": "Schmeckt bitter oder hart",
+              "fix": "Gröber mahlen oder etwas schneller mit weniger Stufen gießen."
+            },
+            {
+              "issue": "Drawdown stockt oder läuft sehr langsam",
+              "fix": "Gröber mahlen — ein stockendes Bett bedeutet meist, dass der Mahlgrad für diese Methode zu fein ist."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "V60 (filtre)",
+        "definition": "Une méthode de filtre manuel utilisant un dripper conique avec un grand trou unique et des nervures en spirale, conçu pour donner au préparateur un contrôle total sur le débit de versement et l'agitation.",
+        "why": "Le V60 est l'une des méthodes de filtre les plus utilisées dans le café de spécialité, appréciée pour produire une tasse propre et lumineuse qui met en valeur le caractère d'origine d'un café.",
+        "tip": "Versez en cercles lents et contrôlés plutôt qu'en un seul jet — une technique de versement constante compte plus pour la tasse finale que presque toute autre variable dans cette méthode.",
+        "mistake": "Verser trop vite ou de façon inégale, ce qui cause du canaling — l'eau trouve un chemin facile à travers la mouture au lieu d'extraire uniformément.",
+        "challenge": "Pourquoi un dripper avec un seul grand trou pourrait-il nécessiter plus de compétence de versement qu'un dripper avec plusieurs petits trous ?",
+        "recipe": {
+          "grind": "Moyenne-fine (comme du sable grossier)",
+          "steps": [
+            {
+              "title": "Rincer le filtre",
+              "content": "Rincez le filtre en papier à l'eau chaude pour retirer le goût de papier et préchauffer le dripper et le récipient. Jetez l'eau de rinçage."
+            },
+            {
+              "title": "Ajouter le café, niveler et laisser bloom",
+              "content": "Ajoutez le café moulu et nivelez le lit. Démarrez votre minuteur et versez 40g d'eau, saturant uniformément toute la mouture. Laissez bloom."
+            },
+            {
+              "title": "Premier versement",
+              "content": "Versez jusqu'à 160g au total en cercles lents et réguliers, en gardant un niveau d'eau assez constant."
+            },
+            {
+              "title": "Deuxième versement",
+              "content": "Versez l'eau restante pour atteindre 320g au total, à nouveau en cercles lents."
+            },
+            {
+              "title": "Drainage final",
+              "content": "Laissez l'eau s'écouler complètement. Le temps total d'infusion devrait se situer autour de 2:30-3:00."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût acide ou faible",
+              "fix": "Moulez plus fin, ou augmentez légèrement la température de l'eau."
+            },
+            {
+              "issue": "Goût amer ou dur",
+              "fix": "Moulez plus grossier, ou versez un peu plus vite avec moins d'étapes."
+            },
+            {
+              "issue": "Le drainage bloque ou est très lent",
+              "fix": "Moulez plus grossier — un lit bloqué signifie généralement que la mouture est trop fine pour cette méthode."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "V60 (filtro)",
+        "definition": "Un metodo a filtro manuale che usa un dripper conico con un unico foro grande e nervature a spirale, progettato per dare a chi prepara pieno controllo su velocità di versamento e agitazione.",
+        "why": "Il V60 è uno dei metodi a filtro più usati nel caffè specialty, apprezzato per produrre una tazza pulita e brillante che valorizza il carattere d'origine di un caffè.",
+        "tip": "Versa in cerchi lenti e controllati invece che tutto insieme — una tecnica di versamento costante conta più di quasi ogni altra variabile in questo metodo.",
+        "mistake": "Versare troppo velocemente o in modo irregolare, il che causa channeling — l'acqua trova un percorso facile attraverso il macinato invece di estrarre uniformemente.",
+        "challenge": "Perché un dripper con un solo foro grande potrebbe richiedere più abilità di versamento rispetto a uno con molti fori piccoli?",
+        "recipe": {
+          "grind": "Medio-fine (come sabbia grossa)",
+          "steps": [
+            {
+              "title": "Risciacqua il filtro",
+              "content": "Risciacqua il filtro di carta con acqua calda per rimuovere il sapore di carta e preriscaldare dripper e recipiente. Getta via l'acqua di risciacquo."
+            },
+            {
+              "title": "Aggiungi il caffè, livella e fai il bloom",
+              "content": "Aggiungi il caffè macinato e livella il letto. Avvia il timer e versa 40g di acqua, saturando uniformemente tutto il macinato. Lascia fare il bloom."
+            },
+            {
+              "title": "Prima versata",
+              "content": "Versa fino a 160g totali in cerchi lenti e regolari, mantenendo il livello dell'acqua abbastanza costante."
+            },
+            {
+              "title": "Seconda versata",
+              "content": "Versa l'acqua rimanente per raggiungere 320g totali, di nuovo in cerchi lenti."
+            },
+            {
+              "title": "Drenaggio finale",
+              "content": "Lascia defluire completamente l'acqua. Il tempo totale di infusione dovrebbe essere intorno a 2:30-3:00."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore acido o debole",
+              "fix": "Macina più fine, o alza leggermente la temperatura dell'acqua."
+            },
+            {
+              "issue": "Sapore amaro o duro",
+              "fix": "Macina più grosso, o versa un po' più velocemente con meno fasi."
+            },
+            {
+              "issue": "Il drenaggio si blocca o è molto lento",
+              "fix": "Macina più grosso — un letto bloccato di solito significa che la macinatura è troppo fine per questo metodo."
+            }
+          ]
+        }
       }
     },
     "id": 234,
@@ -422,6 +563,135 @@
             {
               "issue": "Textura arenosa na xícara",
               "fix": "Moa um pouco mais grosso e pressione com mais suavidade em vez de forçar."
+            }
+          ]
+        }
+      },
+      "de": {
+        "title": "AeroPress (Standardmethode)",
+        "definition": "Ein Immersions- und Druckbrühgerät, bei dem Kaffee kurz zieht, bevor er mit einem Kolben durch einen Papierfilter gepresst wird.",
+        "why": "Die AeroPress wird für ihre Geschwindigkeit, Portabilität und ihr nachsichtiges Brühfenster geschätzt, was sie zu einer der beliebtesten Methoden für Reisen und schnelle, konsistente Tassen macht.",
+        "tip": "Eine kürzere Ziehzeit mit feinerem Mahlgrad erzeugt ein helleres, espressoähnlicheres Konzentrat; eine längere Ziehzeit mit gröberem Mahlgrad erzeugt etwas näher an Filterkaffee.",
+        "mistake": "Zu fest oder zu schnell zu pressen, was bittere Verbindungen durch den Filter drücken und eine harte, überextrahierte Tasse erzeugen kann.",
+        "challenge": "Warum könnte eine Methode, die Ziehen und Druck kombiniert, einem Brauer mehr Raum zum Experimentieren geben als reines Filterbrühen?",
+        "recipe": {
+          "grind": "Mittelfein",
+          "steps": [
+            {
+              "title": "Aufbau",
+              "content": "Spüle den Papierfilter, befestige die Kappe und stelle die AeroPress aufrecht auf eine stabile Tasse. Füge das gemahlene Kaffeepulver hinzu."
+            },
+            {
+              "title": "Gießen und rühren",
+              "content": "Starte deinen Timer, gieße das gesamte Wasser ein und rühre sanft für etwa 10 Sekunden."
+            },
+            {
+              "title": "Ziehen lassen",
+              "content": "Lass den Kaffee ungestört ziehen."
+            },
+            {
+              "title": "Pressen",
+              "content": "Setze den Kolben ein und drücke langsam und gleichmäßig über etwa 20-30 Sekunden, bis du ein zischendes Geräusch hörst."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt schwach oder sauer",
+              "fix": "Feiner mahlen oder die Ziehzeit um 15-20 Sekunden verlängern."
+            },
+            {
+              "issue": "Schmeckt bitter oder hart",
+              "fix": "Gröber mahlen oder vor dem Pressen kürzer ziehen lassen."
+            },
+            {
+              "issue": "Körnige Textur in der Tasse",
+              "fix": "Etwas gröber mahlen und sanfter pressen, statt zu forcieren."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "AeroPress (méthode standard)",
+        "definition": "Un dispositif d'infusion par immersion et pression où le café infuse brièvement avant d'être poussé à travers un filtre en papier à l'aide d'un piston.",
+        "why": "L'AeroPress est appréciée pour sa rapidité, sa portabilité et sa fenêtre d'infusion tolérante, en faisant l'une des méthodes les plus populaires pour voyager et obtenir des tasses rapides et constantes.",
+        "tip": "Un temps d'infusion plus court avec une mouture plus fine produit un concentré plus vif, proche de l'espresso ; une infusion plus longue avec une mouture plus grossière produit quelque chose de plus proche du café filtre.",
+        "mistake": "Presser trop fort ou trop vite, ce qui peut forcer des composés amers à travers le filtre et créer une tasse dure et sur-extraite.",
+        "challenge": "Pourquoi une méthode combinant infusion et pression pourrait-elle offrir plus de marge d'expérimentation qu'un filtre manuel pur ?",
+        "recipe": {
+          "grind": "Moyenne-fine",
+          "steps": [
+            {
+              "title": "Installation",
+              "content": "Rincez le filtre en papier, fixez le capuchon, et placez l'AeroPress à l'endroit sur une tasse robuste. Ajoutez le café moulu."
+            },
+            {
+              "title": "Verser et remuer",
+              "content": "Démarrez votre minuteur, versez toute l'eau, et remuez doucement pendant environ 10 secondes."
+            },
+            {
+              "title": "Infuser",
+              "content": "Laissez le café infuser sans y toucher."
+            },
+            {
+              "title": "Presser",
+              "content": "Insérez le piston et pressez lentement et régulièrement sur environ 20-30 secondes, en vous arrêtant quand vous entendez un sifflement."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût faible ou acide",
+              "fix": "Moulez plus fin, ou prolongez le temps d'infusion de 15-20 secondes."
+            },
+            {
+              "issue": "Goût amer ou dur",
+              "fix": "Moulez plus grossier, ou infusez moins longtemps avant de presser."
+            },
+            {
+              "issue": "Texture granuleuse en tasse",
+              "fix": "Moulez légèrement plus grossier et pressez plus doucement plutôt que de forcer."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "AeroPress (metodo standard)",
+        "definition": "Un dispositivo di preparazione a immersione e pressione dove il caffè infonde brevemente prima di essere spinto attraverso un filtro di carta con uno stantuffo.",
+        "why": "L'AeroPress è apprezzata per velocità, portabilità e finestra di preparazione tollerante, rendendola uno dei metodi più popolari per viaggiare e ottenere tazze rapide e costanti.",
+        "tip": "Un tempo di infusione più breve con macinatura più fine produce un concentrato più brillante, simile all'espresso; un'infusione più lunga con macinatura più grossa produce qualcosa di più vicino al caffè filtro.",
+        "mistake": "Premere troppo forte o troppo velocemente, il che può forzare composti amari attraverso il filtro e creare una tazza dura e sovraestratta.",
+        "challenge": "Perché un metodo che combina infusione e pressione potrebbe dare a chi prepara più spazio per sperimentare rispetto a un filtro manuale puro?",
+        "recipe": {
+          "grind": "Medio-fine",
+          "steps": [
+            {
+              "title": "Preparazione",
+              "content": "Risciacqua il filtro di carta, fissa il tappo, e posiziona l'AeroPress in verticale su una tazza robusta. Aggiungi il caffè macinato."
+            },
+            {
+              "title": "Versa e mescola",
+              "content": "Avvia il timer, versa tutta l'acqua, e mescola delicatamente per circa 10 secondi."
+            },
+            {
+              "title": "Infondi",
+              "content": "Lascia infondere il caffè senza disturbarlo."
+            },
+            {
+              "title": "Premi",
+              "content": "Inserisci lo stantuffo e premi lentamente e costantemente per circa 20-30 secondi, fermandoti quando senti un sibilo."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore debole o acido",
+              "fix": "Macina più fine, o estendi il tempo di infusione di 15-20 secondi."
+            },
+            {
+              "issue": "Sapore amaro o duro",
+              "fix": "Macina più grosso, o infondi per meno tempo prima di premere."
+            },
+            {
+              "issue": "Texture granulosa nella tazza",
+              "fix": "Macina leggermente più grosso e premi più delicatamente invece di forzare."
             }
           ]
         }
@@ -632,6 +902,135 @@
             }
           ]
         }
+      },
+      "de": {
+        "title": "French Press",
+        "definition": "Eine Vollimmersions-Brühmethode, bei der grob gemahlener Kaffee direkt in heißem Wasser zieht, bevor ein Metallsieb-Kolben das Kaffeemehl vom gebrühten Kaffee trennt.",
+        "why": "Da der Metallfilter mehr Öle und feine Partikel durchlässt als Papier, ergibt die French Press eine vollmundigere, schwerere Tasse als die meisten gefilterten Methoden.",
+        "tip": "Brich die Kruste aus Kaffeemehl, die sich oben nach dem Ziehen bildet, und lass sie sich eine Minute setzen, bevor du drückst — das reduziert Bodensatz in der fertigen Tasse.",
+        "mistake": "Einen zu feinen Mahlgrad zu verwenden, der durch das Metallsiebfilter rutscht und die Tasse mit Bodensatz trübt.",
+        "challenge": "Warum schmeckt French-Press-Kaffee typischerweise spürbar anders als eine papiergefilterte Brühung derselben Bohnen?",
+        "recipe": {
+          "grind": "Grob (wie Semmelbrösel)",
+          "steps": [
+            {
+              "title": "Kaffee und Wasser hinzufügen",
+              "content": "Gib den grob gemahlenen Kaffee in die leere Press, gieße dann das gesamte Wasser ein und starte deinen Timer."
+            },
+            {
+              "title": "Ziehen lassen",
+              "content": "Lass den Kaffee die ersten paar Minuten ungestört ziehen."
+            },
+            {
+              "title": "Kruste aufbrechen",
+              "content": "Rühre sanft oder brich die Kruste aus Kaffeemehl oben mit einem Löffel auf, dann lass sie sich etwa eine Minute setzen, bevor du drückst."
+            },
+            {
+              "title": "Drücken und servieren",
+              "content": "Drücke den Kolben langsam und gleichmäßig hinunter, dann gieße sofort ein, um Überextraktion zu stoppen."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt schwach",
+              "fix": "Etwas länger ziehen lassen oder etwas mehr Kaffee verwenden."
+            },
+            {
+              "issue": "Schmeckt bitter oder überextrahiert",
+              "fix": "Kürzer ziehen lassen oder etwas gröber mahlen."
+            },
+            {
+              "issue": "Trübe oder körnige Tasse",
+              "fix": "Gröber mahlen — feine Partikel rutschen durch das Metallsiebfilter."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Cafetière à piston",
+        "definition": "Une méthode d'infusion en immersion totale où du café grossièrement moulu infuse directement dans l'eau chaude avant qu'un piston à tamis métallique ne sépare la mouture du café infusé.",
+        "why": "Comme le filtre métallique laisse passer plus d'huiles et de fines particules que le papier, la cafetière à piston produit une tasse plus corsée et plus lourde que la plupart des méthodes filtrées.",
+        "tip": "Cassez la croûte de mouture qui se forme dessus après l'infusion et laissez reposer une minute avant de presser — cela réduit les sédiments dans la tasse finale.",
+        "mistake": "Utiliser une mouture trop fine, qui passe à travers le filtre à mailles métalliques et laisse la tasse boueuse avec des sédiments.",
+        "challenge": "Pourquoi le café de cafetière à piston a-t-il généralement un goût sensiblement différent d'un café filtré au papier avec les mêmes grains ?",
+        "recipe": {
+          "grind": "Grossière (comme de la chapelure)",
+          "steps": [
+            {
+              "title": "Ajouter café et eau",
+              "content": "Ajoutez le café grossièrement moulu dans la presse vide, puis versez toute l'eau et démarrez votre minuteur."
+            },
+            {
+              "title": "Infuser",
+              "content": "Laissez le café infuser sans y toucher pendant les premières minutes."
+            },
+            {
+              "title": "Casser la croûte",
+              "content": "Remuez doucement ou cassez la croûte de mouture sur le dessus avec une cuillère, puis laissez reposer environ une minute avant de presser."
+            },
+            {
+              "title": "Presser et servir",
+              "content": "Poussez le piston lentement et uniformément, puis versez immédiatement pour arrêter la sur-extraction."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût faible",
+              "fix": "Infusez un peu plus longtemps, ou utilisez un peu plus de café."
+            },
+            {
+              "issue": "Goût amer ou sur-extrait",
+              "fix": "Infusez moins longtemps, ou moulez légèrement plus grossier."
+            },
+            {
+              "issue": "Tasse boueuse ou granuleuse",
+              "fix": "Moulez plus grossier — des particules fines passent à travers le filtre à mailles métalliques."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "French press",
+        "definition": "Un metodo di preparazione a immersione totale dove caffè macinato grosso infonde direttamente in acqua calda prima che uno stantuffo a rete metallica separi il macinato dal caffè preparato.",
+        "why": "Poiché il filtro metallico lascia passare più oli e particelle fini della carta, la French press produce una tazza più corposa e pesante rispetto alla maggior parte dei metodi filtrati.",
+        "tip": "Rompi la crosta di macinato che si forma sopra dopo l'infusione e lasciala depositare per un minuto prima di premere — questo riduce i sedimenti nella tazza finale.",
+        "mistake": "Usare una macinatura troppo fine, che scivola attraverso il filtro a rete metallica e lascia la tazza torbida di sedimenti.",
+        "challenge": "Perché il caffè della French press ha tipicamente un sapore notevolmente diverso da un'infusione filtrata con carta degli stessi chicchi?",
+        "recipe": {
+          "grind": "Grossa (come pangrattato)",
+          "steps": [
+            {
+              "title": "Aggiungi caffè e acqua",
+              "content": "Aggiungi il caffè macinato grosso nella caraffa vuota, poi versa tutta l'acqua e avvia il timer."
+            },
+            {
+              "title": "Infondi",
+              "content": "Lascia infondere il caffè senza disturbarlo per i primi minuti."
+            },
+            {
+              "title": "Rompi la crosta",
+              "content": "Mescola delicatamente o rompi la crosta di macinato sopra con un cucchiaio, poi lasciala depositare per circa un minuto prima di premere."
+            },
+            {
+              "title": "Premi e servi",
+              "content": "Premi lo stantuffo lentamente e uniformemente, poi versa subito per fermare la sovraestrazione."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore debole",
+              "fix": "Infondi un po' più a lungo, o usa un po' più caffè."
+            },
+            {
+              "issue": "Sapore amaro o sovraestratto",
+              "fix": "Infondi per meno tempo, o macina leggermente più grosso."
+            },
+            {
+              "issue": "Tazza torbida o granulosa",
+              "fix": "Macina più grosso — particelle fini stanno passando attraverso il filtro a rete metallica."
+            }
+          ]
+        }
       }
     },
     "id": 236
@@ -836,6 +1235,135 @@
             {
               "issue": "O escoamento é muito lento ou trava",
               "fix": "Moa mais grosso primeiro; o filtro espesso do Chemex precisa de uma moagem mais grossa do que a maioria dos outros métodos de filtro."
+            }
+          ]
+        }
+      },
+      "de": {
+        "title": "Chemex",
+        "definition": "Eine Filterbrühmethode mit einem markanten sanduhrförmigen Glasgefäß und einem auffallend dicken Markenpapierfilter, der mehr Öle und Feinanteile entfernt als Standardfilterpapier.",
+        "why": "Der dicke Chemex-Filter erzeugt eine der saubersten, leichtesten Tassen, die mit Filterbrühen erreichbar sind, was ihn zu einem Favoriten macht, um delikate, hochklare Kaffees hervorzuheben.",
+        "tip": "Da der Filter so dick ist, verwende einen etwas gröberen Mahlgrad als für einen V60, um einen langsamen, überextrahierten Drawdown zu vermeiden.",
+        "mistake": "Einen Standard-V60-Mahlgrad zu verwenden, der für den dickeren Chemex-Filter oft zu fein ist und zu einer stockenden, bitteren Brühung führt.",
+        "challenge": "Warum könnte dickeres Filterpapier nicht nur die Klarheit, sondern auch den idealen Mahlgrad für eine Brühmethode verändern?",
+        "recipe": {
+          "grind": "Mittelgrob",
+          "steps": [
+            {
+              "title": "Filter spülen",
+              "content": "Entfalte den Chemex-Filter, platziere ihn mit der dickeren dreifach gefalteten Seite über der Ausgusstülle und spüle mit heißem Wasser. Gieße das Spülwasser weg."
+            },
+            {
+              "title": "Kaffee einfüllen und bloomen lassen",
+              "content": "Füge das gemahlene Kaffeepulver hinzu, glätte es, starte deinen Timer und gieße etwa 60g Wasser, um das Kaffeemehl gleichmäßig zu sättigen."
+            },
+            {
+              "title": "In Stufen gießen",
+              "content": "Gieße weiter in langsamen Stufen, ohne den Wasserstand zu nah an den Filterrand steigen zu lassen, bis du insgesamt 480g erreichst."
+            },
+            {
+              "title": "Drawdown",
+              "content": "Lass das restliche Wasser vollständig ablaufen, bevor du den Filter entfernst."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt sauer oder schwach",
+              "fix": "Etwas feiner mahlen."
+            },
+            {
+              "issue": "Schmeckt bitter oder hart",
+              "fix": "Gröber mahlen — der dicke Filter verlangsamt schon von sich aus stark."
+            },
+            {
+              "issue": "Drawdown ist sehr langsam oder stockt",
+              "fix": "Zuerst gröber mahlen; der dicke Chemex-Filter braucht einen gröberen Mahlgrad als die meisten anderen Filtermethoden."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Chemex",
+        "definition": "Une méthode de filtre manuel utilisant un récipient en verre en forme de sablier caractéristique et un filtre en papier propriétaire notablement épais qui retire plus d'huiles et de fines que les papiers filtres standards.",
+        "why": "Le filtre Chemex épais produit l'une des tasses les plus propres et légères réalisables en filtre manuel, en faisant un favori pour mettre en valeur des cafés délicats et très clairs.",
+        "tip": "Comme le filtre est si épais, utilisez une mouture légèrement plus grossière que pour un V60 pour éviter un drainage lent et sur-extrait.",
+        "mistake": "Utiliser une taille de mouture standard de type V60, souvent trop fine pour le filtre plus épais de la Chemex et menant à une infusion bloquée et amère.",
+        "challenge": "Pourquoi un papier filtre plus épais pourrait-il changer non seulement la clarté mais aussi la taille de mouture idéale pour une méthode d'infusion ?",
+        "recipe": {
+          "grind": "Moyenne-grossière",
+          "steps": [
+            {
+              "title": "Rincer le filtre",
+              "content": "Dépliez le filtre Chemex, placez-le avec le côté triple épaisseur plus épais sur le bec verseur, et rincez à l'eau chaude. Jetez l'eau de rinçage."
+            },
+            {
+              "title": "Ajouter le café et bloom",
+              "content": "Ajoutez le café moulu, nivelez-le, démarrez votre minuteur, et versez environ 60g d'eau pour saturer uniformément la mouture."
+            },
+            {
+              "title": "Verser par étapes",
+              "content": "Continuez à verser en étapes lentes, en gardant le niveau d'eau loin du bord du filtre, jusqu'à atteindre 480g au total."
+            },
+            {
+              "title": "Drainage final",
+              "content": "Laissez l'eau restante s'écouler complètement avant de retirer le filtre."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût acide ou faible",
+              "fix": "Moulez légèrement plus fin."
+            },
+            {
+              "issue": "Goût amer ou dur",
+              "fix": "Moulez plus grossier — le filtre épais ralentit déjà beaucoup les choses."
+            },
+            {
+              "issue": "Le drainage est très lent ou bloque",
+              "fix": "Moulez d'abord plus grossier ; le filtre Chemex épais nécessite une mouture plus grossière que la plupart des autres méthodes de filtre manuel."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Chemex",
+        "definition": "Un metodo a filtro manuale che usa un caratteristico recipiente di vetro a forma di clessidra e un filtro di carta proprietario notevolmente spesso che rimuove più oli e fini rispetto ai filtri di carta standard.",
+        "why": "Il filtro Chemex spesso produce una delle tazze più pulite e leggere ottenibili con il filtro manuale, rendendolo un favorito per valorizzare caffè delicati e ad alta chiarezza.",
+        "tip": "Poiché il filtro è così spesso, usa una macinatura leggermente più grossa rispetto a quella per un V60 per evitare un drenaggio lento e sovraestratto.",
+        "mistake": "Usare una dimensione di macinatura standard tipo V60, spesso troppo fine per il filtro più spesso della Chemex e che porta a un'infusione bloccata e amara.",
+        "challenge": "Perché una carta filtro più spessa potrebbe cambiare non solo la chiarezza ma anche la dimensione di macinatura ideale per un metodo di preparazione?",
+        "recipe": {
+          "grind": "Medio-grossa",
+          "steps": [
+            {
+              "title": "Risciacqua il filtro",
+              "content": "Apri il filtro Chemex, posizionalo con il lato a triplo strato più spesso sopra il beccuccio, e risciacqua con acqua calda. Getta via l'acqua di risciacquo."
+            },
+            {
+              "title": "Aggiungi il caffè e fai il bloom",
+              "content": "Aggiungi il caffè macinato, livellalo, avvia il timer, e versa circa 60g di acqua per saturare uniformemente il macinato."
+            },
+            {
+              "title": "Versa a fasi",
+              "content": "Continua a versare in fasi lente, mantenendo il livello dell'acqua lontano dal bordo del filtro, fino a raggiungere 480g totali."
+            },
+            {
+              "title": "Drenaggio finale",
+              "content": "Lascia defluire completamente l'acqua rimanente prima di rimuovere il filtro."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore acido o debole",
+              "fix": "Macina leggermente più fine."
+            },
+            {
+              "issue": "Sapore amaro o duro",
+              "fix": "Macina più grosso — il filtro spesso rallenta già molto il processo."
+            },
+            {
+              "issue": "Il drenaggio è molto lento o si blocca",
+              "fix": "Macina prima più grosso; il filtro Chemex spesso richiede una macinatura più grossa della maggior parte degli altri metodi a filtro manuale."
             }
           ]
         }
@@ -1046,6 +1574,135 @@
             }
           ]
         }
+      },
+      "de": {
+        "title": "Moka-Kanne (Herd)",
+        "definition": "Ein Herdbrühgerät, das Dampfdruck nutzt, um heißes Wasser durch ein Bett aus fein gemahlenem Kaffee nach oben zu drücken und eine starke, konzentrierte Brühung erzeugt, die im Stil näher an Espresso als an Filterkaffee liegt.",
+        "why": "Es ist eine der am weitesten verbreiteten Hausbrühmethoden in Italien und Lateinamerika, geschätzt dafür, starken Kaffee ohne Espressomaschine zu erzeugen.",
+        "tip": "Verwende bereits heißes (nicht kaltes) Wasser zum Befüllen des Bodens — das verkürzt die Zeit, die der Kaffee über der Hitze verbringt, und senkt das Risiko eines verbrannten, bitteren Ergebnisses.",
+        "mistake": "Das Kaffeemehl im Siebeinsatz wie einen Espresso-Puck zu tampern oder zu verdichten — Moka-Kanne-Kaffeemehl sollte locker liegen, nicht verdichtet.",
+        "challenge": "Warum könnte eine Brühmethode, die auf Dampfdruck beruht, anfälliger für Bitterkeit sein als eine, die allein auf Schwerkraft beruht?",
+        "recipe": {
+          "grind": "Fein (feiner als Filter, gröber als Espresso)",
+          "steps": [
+            {
+              "title": "Boden füllen",
+              "content": "Fülle die untere Kammer mit heißem Wasser bis zum Sicherheitsventil, nicht höher."
+            },
+            {
+              "title": "Siebeinsatz füllen",
+              "content": "Fülle den Trichtereinsatz mit Kaffee und glätte ihn sanft ohne zu tampern. Setze die Kanne zusammen."
+            },
+            {
+              "title": "Bei mittlerer bis niedriger Hitze brühen",
+              "content": "Stelle die Kanne mit offenem Deckel bei mittlerer bis niedriger Hitze auf den Herd und achte auf das gluckernde Geräusch, das den Beginn des Brühens signalisiert."
+            },
+            {
+              "title": "Entfernen, wenn es spuckt",
+              "content": "Nimm die Kanne vom Herd, sobald du ein spuckendes, zischendes Geräusch hörst, das signalisiert, dass das meiste Wasser durchgelaufen ist."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt verbrannt oder bitter",
+              "fix": "Herdhitze verringern und vom Herd nehmen, sobald es zu spucken beginnt."
+            },
+            {
+              "issue": "Schmeckt schwach oder wässrig",
+              "fix": "Etwas feineren Mahlgrad verwenden und sicherstellen, dass der Siebeinsatz gefüllt, aber nicht verdichtet ist."
+            },
+            {
+              "issue": "Brüht zu langsam",
+              "fix": "Etwas gröber mahlen und mit heißem (nicht kaltem) Wasser im Boden beginnen."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Cafetière italienne (moka)",
+        "definition": "Un dispositif d'infusion de cuisinière qui utilise la pression de vapeur pour pousser l'eau chaude à travers un lit de café finement moulu, produisant une infusion forte et concentrée plus proche en style de l'espresso que du café filtre.",
+        "why": "C'est l'une des méthodes d'infusion maison les plus utilisées en Italie et en Amérique latine, appréciée pour produire un café fort sans avoir besoin d'une machine à espresso.",
+        "tip": "Utilisez de l'eau déjà chaude (pas froide) en remplissant la base — cela réduit le temps que le café passe sur la chaleur et diminue le risque d'un résultat brûlé et amer.",
+        "mistake": "Tasser ou compresser la mouture dans le panier comme une galette d'espresso — la mouture de la cafetière italienne devrait rester lâche, pas tassée.",
+        "challenge": "Pourquoi une méthode d'infusion reposant sur la pression de vapeur pourrait-elle être plus sujette à l'amertume qu'une méthode reposant uniquement sur la gravité ?",
+        "recipe": {
+          "grind": "Fine (plus fine que le filtre, plus grossière que l'espresso)",
+          "steps": [
+            {
+              "title": "Remplir la base",
+              "content": "Remplissez la chambre de base avec de l'eau chaude jusqu'à la valve de sécurité, pas plus haut."
+            },
+            {
+              "title": "Remplir le panier",
+              "content": "Remplissez le panier entonnoir de café et nivelez doucement sans tasser. Assemblez la cafetière."
+            },
+            {
+              "title": "Infuser à feu moyen-doux",
+              "content": "Placez sur la cuisinière à feu moyen-doux avec le couvercle ouvert, et écoutez le bruit de gargouillement signalant que l'infusion a commencé."
+            },
+            {
+              "title": "Retirer quand ça crachote",
+              "content": "Retirez du feu dès que vous entendez un bruit de crachotement et de sifflement, signalant que la majeure partie de l'eau est passée."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût brûlé ou amer",
+              "fix": "Baissez le feu, et retirez de la chaleur dès que ça commence à crachoter."
+            },
+            {
+              "issue": "Goût faible ou aqueux",
+              "fix": "Utilisez une mouture légèrement plus fine, et assurez-vous que le panier est rempli mais pas tassé."
+            },
+            {
+              "issue": "Infuse trop lentement",
+              "fix": "Moulez légèrement plus grossier, et commencez avec de l'eau chaude (pas froide) dans la base."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Moka (fornello)",
+        "definition": "Un dispositivo di preparazione da fornello che usa pressione di vapore per spingere acqua calda attraverso un letto di caffè macinato fine, producendo un'infusione forte e concentrata più vicina nello stile all'espresso che al caffè filtro.",
+        "why": "È uno dei metodi di preparazione domestica più usati in Italia e America Latina, apprezzato per produrre caffè forte senza bisogno di una macchina da espresso.",
+        "tip": "Usa acqua già calda (non fredda) quando riempi la base — questo riduce il tempo che il caffè passa sul calore e abbassa il rischio di un risultato bruciato e amaro.",
+        "mistake": "Pressare o compattare il macinato nel filtro come un panetto da espresso — il macinato della moka dovrebbe stare libero, non compattato.",
+        "challenge": "Perché un metodo di preparazione che si basa sulla pressione del vapore potrebbe essere più incline all'amarezza rispetto a uno che si basa solo sulla gravità?",
+        "recipe": {
+          "grind": "Fine (più fine del filtro, più grossa dell'espresso)",
+          "steps": [
+            {
+              "title": "Riempi la base",
+              "content": "Riempi la camera inferiore con acqua calda fino alla valvola di sicurezza, non oltre."
+            },
+            {
+              "title": "Riempi il filtro",
+              "content": "Riempi il filtro a imbuto con caffè e livellalo delicatamente senza pressare. Assembla la moka."
+            },
+            {
+              "title": "Prepara a fuoco medio-basso",
+              "content": "Metti sul fornello a fuoco medio-basso con il coperchio aperto, e ascolta il suono gorgogliante che segnala l'inizio della preparazione."
+            },
+            {
+              "title": "Rimuovi quando sputa",
+              "content": "Togli dal fuoco appena senti un suono di sputacchiamento e sibilo, che segnala che la maggior parte dell'acqua è passata."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore bruciato o amaro",
+              "fix": "Abbassa il fuoco, e togli dal calore appena inizia a sputacchiare."
+            },
+            {
+              "issue": "Sapore debole o acquoso",
+              "fix": "Usa una macinatura leggermente più fine, e assicurati che il filtro sia pieno ma non compattato."
+            },
+            {
+              "issue": "Prepara troppo lentamente",
+              "fix": "Macina leggermente più grosso, e inizia con acqua calda (non fredda) nella base."
+            }
+          ]
+        }
       }
     },
     "id": 238
@@ -1250,6 +1907,135 @@
             {
               "issue": "Concentrado turvo ou arenoso",
               "fix": "Coe com mais cuidado usando um filtro de papel ou pano de queijo, e evite pressionar demais a borra."
+            }
+          ]
+        }
+      },
+      "de": {
+        "title": "Cold-Brew-Konzentrat",
+        "definition": "Eine lange, langsame Ziehmethode mit raumtemperiertem oder kaltem Wasser über viele Stunden, die ein weiches, säurearmes Konzentrat erzeugt, das vor dem Trinken verdünnt werden soll.",
+        "why": "Das Fehlen von Hitze während der Extraktion zieht weniger bittere und säurehaltige Verbindungen als heißes Brühen, weshalb Cold Brew selbst aus denselben Bohnen spürbar weicher und süßer schmeckt.",
+        "tip": "Cold-Brew-Konzentrat hält sich gekühlt typischerweise 1-2 Wochen gut, was es wirklich praktisch macht, es für die kommende Woche in großen Mengen zu brühen.",
+        "mistake": "Cold-Brew-Konzentrat in voller Stärke zu trinken, in der Erwartung, es schmecke wie Eiskaffee — es soll vor dem Trinken etwa 1:1 mit Wasser oder Milch verdünnt werden.",
+        "challenge": "Warum könnte das vollständige Entfernen von Hitze aus dem Brühprozess den Geschmack eines Kaffees stärker verändern als das bloße Abkühlen eines heiß gebrühten Kaffees danach?",
+        "recipe": {
+          "grind": "Grob",
+          "steps": [
+            {
+              "title": "Kombinieren und rühren",
+              "content": "Kombiniere den grob gemahlenen Kaffee und Wasser in einem großen Glas oder Krug und rühre, um sicherzustellen, dass das gesamte Kaffeemehl gesättigt ist."
+            },
+            {
+              "title": "Ziehen lassen",
+              "content": "Abdecken und bei Raumtemperatur oder im Kühlschrank ziehen lassen."
+            },
+            {
+              "title": "Abseihen",
+              "content": "Durch ein feines Sieb, ausgelegt mit einem Papierfilter oder Käsetuch, abseihen und dabei sanft drücken, um die Flüssigkeit zu extrahieren."
+            },
+            {
+              "title": "Verdünnen und servieren",
+              "content": "Verdünne das Konzentrat vor dem Trinken etwa 1:1 mit Wasser, Milch oder Eis und passe es nach Geschmack an."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Schmeckt schwach",
+              "fix": "Länger ziehen lassen oder beim nächsten Mal ein etwas stärkeres Verhältnis verwenden."
+            },
+            {
+              "issue": "Schmeckt bitter oder pflanzlich",
+              "fix": "Kürzer ziehen lassen oder etwas gröber mahlen."
+            },
+            {
+              "issue": "Trübes oder körniges Konzentrat",
+              "fix": "Gründlicher durch einen Papierfilter oder ein Käsetuch abseihen und vermeiden, zu stark auf das Kaffeemehl zu drücken."
+            }
+          ]
+        }
+      },
+      "fr": {
+        "title": "Concentré cold brew",
+        "definition": "Une méthode d'infusion longue et lente utilisant de l'eau à température ambiante ou froide pendant de nombreuses heures, produisant un concentré doux et peu acide destiné à être dilué avant de boire.",
+        "why": "L'absence de chaleur pendant l'extraction tire moins de composés amers et acides que l'infusion chaude, ce qui explique pourquoi le cold brew a un goût sensiblement plus doux et sucré même avec les mêmes grains.",
+        "tip": "Le concentré de cold brew se conserve généralement bien au réfrigérateur 1 à 2 semaines, ce qui le rend vraiment pratique à préparer en grande quantité pour la semaine.",
+        "mistake": "Boire le concentré de cold brew à pleine puissance en espérant un goût de café glacé — il est destiné à être dilué environ 1:1 avec de l'eau ou du lait avant de boire.",
+        "challenge": "Pourquoi retirer entièrement la chaleur du processus d'infusion pourrait-il changer la saveur d'un café plus que simplement refroidir un café infusé chaud après coup ?",
+        "recipe": {
+          "grind": "Grossière",
+          "steps": [
+            {
+              "title": "Combiner et remuer",
+              "content": "Combinez le café grossièrement moulu et l'eau dans un grand bocal ou pichet et remuez pour vous assurer que toute la mouture est saturée."
+            },
+            {
+              "title": "Infuser",
+              "content": "Couvrez et laissez infuser à température ambiante ou au réfrigérateur."
+            },
+            {
+              "title": "Filtrer",
+              "content": "Filtrez à travers un tamis fin doublé d'un filtre en papier ou d'une étamine, en pressant doucement pour extraire le liquide."
+            },
+            {
+              "title": "Diluer et servir",
+              "content": "Diluez le concentré environ 1:1 avec de l'eau, du lait ou de la glace avant de boire, en ajustant selon le goût."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Goût faible",
+              "fix": "Infusez plus longtemps, ou utilisez un ratio légèrement plus fort la prochaine fois."
+            },
+            {
+              "issue": "Goût amer ou végétal",
+              "fix": "Infusez moins longtemps, ou moulez légèrement plus grossier."
+            },
+            {
+              "issue": "Concentré trouble ou granuleux",
+              "fix": "Filtrez plus soigneusement à travers un filtre en papier ou une étamine, et évitez de trop presser la mouture."
+            }
+          ]
+        }
+      },
+      "it": {
+        "title": "Concentrato cold brew",
+        "definition": "Un metodo di infusione lunga e lenta usando acqua a temperatura ambiente o fredda per molte ore, producendo un concentrato morbido e a bassa acidità destinato a essere diluito prima di bere.",
+        "why": "L'assenza di calore durante l'estrazione tira fuori meno composti amari e acidi rispetto all'infusione calda, ed è per questo che il cold brew ha un sapore notevolmente più morbido e dolce anche dagli stessi chicchi.",
+        "tip": "Il concentrato di cold brew generalmente si conserva bene in frigorifero per 1-2 settimane, rendendolo davvero pratico da preparare in grande quantità per la settimana successiva.",
+        "mistake": "Bere il concentrato di cold brew a piena forza aspettandosi che sappia di caffè freddo — è pensato per essere diluito circa 1:1 con acqua o latte prima di bere.",
+        "challenge": "Perché rimuovere completamente il calore dal processo di preparazione potrebbe cambiare il sapore di un caffè più che semplicemente raffreddare un caffè preparato caldo in seguito?",
+        "recipe": {
+          "grind": "Grossa",
+          "steps": [
+            {
+              "title": "Combina e mescola",
+              "content": "Combina il caffè macinato grosso e l'acqua in un grande barattolo o brocca e mescola per assicurarti che tutto il macinato sia saturo."
+            },
+            {
+              "title": "Infondi",
+              "content": "Copri e lascia in infusione a temperatura ambiente o in frigorifero."
+            },
+            {
+              "title": "Filtra",
+              "content": "Filtra attraverso un setaccio a maglia fine foderato con un filtro di carta o garza, premendo delicatamente per estrarre il liquido."
+            },
+            {
+              "title": "Diluisci e servi",
+              "content": "Diluisci il concentrato circa 1:1 con acqua, latte o ghiaccio prima di bere, regolando a piacere."
+            }
+          ],
+          "dial_in": [
+            {
+              "issue": "Sapore debole",
+              "fix": "Infondi più a lungo, o usa un rapporto leggermente più forte la prossima volta."
+            },
+            {
+              "issue": "Sapore amaro o vegetale",
+              "fix": "Infondi per meno tempo, o macina leggermente più grosso."
+            },
+            {
+              "issue": "Concentrato torbido o granuloso",
+              "fix": "Filtra più accuratamente attraverso un filtro di carta o garza, ed evita di premere troppo forte sul macinato."
             }
           ]
         }
