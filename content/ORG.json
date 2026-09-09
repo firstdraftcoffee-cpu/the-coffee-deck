@@ -32,6 +32,30 @@
         "tip": "Pense na origem como uma parte da história de um café.",
         "mistake": "Supor que todo café de um mesmo país tem o mesmo sabor.",
         "challenge": "Nomeie três países grandes produtores de café."
+      },
+      "de": {
+        "title": "Kaffeeursprung",
+        "definition": "Ursprung bezieht sich auf das Land oder die Region, in der Kaffee angebaut wird.",
+        "why": "Klima, Höhenlage, Boden und Aufbereitung beeinflussen alle den Geschmack.",
+        "tip": "Betrachte den Ursprung als einen Teil der Geschichte eines Kaffees.",
+        "mistake": "Anzunehmen, jeder Kaffee aus einem Land schmecke gleich.",
+        "challenge": "Nenne drei große kaffeeproduzierende Länder."
+      },
+      "fr": {
+        "title": "Origine du café",
+        "definition": "L'origine désigne le pays ou la région où le café est cultivé.",
+        "why": "Climat, altitude, sol et traitement influencent tous la saveur.",
+        "tip": "Considérez l'origine comme une partie de l'histoire d'un café.",
+        "mistake": "Supposer que chaque café d'un même pays a le même goût.",
+        "challenge": "Nommez trois pays producteurs de café majeurs."
+      },
+      "it": {
+        "title": "Origine del caffè",
+        "definition": "L'origine si riferisce al paese o alla regione dove viene coltivato il caffè.",
+        "why": "Clima, altitudine, suolo e lavorazione influenzano tutti il sapore.",
+        "tip": "Considera l'origine come una parte della storia di un caffè.",
+        "mistake": "Supporre che ogni caffè di un paese abbia lo stesso sapore.",
+        "challenge": "Nomina tre importanti paesi produttori di caffè."
       }
     },
     "free_sample": true
@@ -69,6 +93,30 @@
         "tip": "Compare cafés de diferentes elevações dentro da mesma origem.",
         "mistake": "Acreditar que altitude maior sempre significa café melhor.",
         "challenge": "Por que a altitude afeta a densidade do grão?"
+      },
+      "de": {
+        "title": "Höhenlage",
+        "definition": "Höhenlage beeinflusst Bohnenentwicklung, Dichte und Geschmack.",
+        "why": "Höhere Lagen erzeugen oft Kaffees mit größerer Säure und Komplexität.",
+        "tip": "Vergleiche Kaffees aus verschiedenen Höhenlagen innerhalb desselben Ursprungs.",
+        "mistake": "Zu glauben, höhere Lage bedeute immer besseren Kaffee.",
+        "challenge": "Warum beeinflusst die Höhenlage die Bohnendichte?"
+      },
+      "fr": {
+        "title": "Altitude",
+        "definition": "L'altitude influence le développement du grain, sa densité et sa saveur.",
+        "why": "Les altitudes plus élevées produisent souvent des cafés avec une acidité et une complexité plus grandes.",
+        "tip": "Comparez des cafés de différentes altitudes au sein de la même origine.",
+        "mistake": "Croire que l'altitude plus élevée signifie toujours meilleur café.",
+        "challenge": "Pourquoi l'altitude affecte-t-elle la densité du grain ?"
+      },
+      "it": {
+        "title": "Altitudine",
+        "definition": "L'altitudine influenza lo sviluppo del chicco, la densità e il sapore.",
+        "why": "Le altitudini più elevate producono spesso caffè con maggiore acidità e complessità.",
+        "tip": "Confronta caffè di altitudini diverse all'interno della stessa origine.",
+        "mistake": "Credere che un'altitudine più elevata significhi sempre un caffè migliore.",
+        "challenge": "Perché l'altitudine influisce sulla densità del chicco?"
       }
     }
   },
@@ -105,6 +153,30 @@
         "tip": "Considere o solo, a chuva e o clima em conjunto.",
         "mistake": "Usar o terroir para explicar cada diferença de sabor.",
         "challenge": "Liste quatro fatores que compõem o terroir."
+      },
+      "de": {
+        "title": "Terroir",
+        "definition": "Terroir beschreibt die kombinierten Umweltfaktoren, die den Kaffeegeschmack beeinflussen.",
+        "why": "Es erklärt, warum Kaffees aus verschiedenen Regionen einzigartig schmecken.",
+        "tip": "Betrachte Boden, Niederschlag und Klima zusammen.",
+        "mistake": "Terroir zu nutzen, um jeden Geschmacksunterschied zu erklären.",
+        "challenge": "Liste vier Faktoren auf, die Terroir ausmachen."
+      },
+      "fr": {
+        "title": "Terroir",
+        "definition": "Le terroir décrit l'ensemble des facteurs environnementaux qui influencent la saveur du café.",
+        "why": "Il explique pourquoi les cafés de différentes régions ont un goût unique.",
+        "tip": "Considérez le sol, les précipitations et le climat ensemble.",
+        "mistake": "Utiliser le terroir pour expliquer chaque différence de saveur.",
+        "challenge": "Listez quatre facteurs qui composent le terroir."
+      },
+      "it": {
+        "title": "Terroir",
+        "definition": "Il terroir descrive l'insieme dei fattori ambientali che influenzano il sapore del caffè.",
+        "why": "Spiega perché i caffè di regioni diverse hanno un sapore unico.",
+        "tip": "Considera suolo, precipitazioni e clima insieme.",
+        "mistake": "Usare il terroir per spiegare ogni differenza di sapore.",
+        "challenge": "Elenca quattro fattori che compongono il terroir."
       }
     }
   },
@@ -141,6 +213,30 @@
         "tip": "Aprenda variedades comuns como Bourbon, Typica, SL28 e Gesha.",
         "mistake": "Confundir variedade com origem.",
         "challenge": "Nomeie quatro variedades de café."
+      },
+      "de": {
+        "title": "Kaffeesorte",
+        "definition": "Eine Sorte ist eine genetisch unterscheidbare Art der Kaffeepflanze.",
+        "why": "Unterschiedliche Sorten erzeugen unterschiedliche Geschmacksprofile und Erträge.",
+        "tip": "Lerne gängige Sorten wie Bourbon, Typica, SL28 und Gesha.",
+        "mistake": "Sorte mit Ursprung zu verwechseln.",
+        "challenge": "Nenne vier Kaffeesorten."
+      },
+      "fr": {
+        "title": "Variété de café",
+        "definition": "Une variété est un type génétiquement distinct de plant de café.",
+        "why": "Différentes variétés produisent différents profils de saveur et rendements.",
+        "tip": "Apprenez les variétés courantes comme Bourbon, Typica, SL28 et Gesha.",
+        "mistake": "Confondre variété et origine.",
+        "challenge": "Nommez quatre variétés de café."
+      },
+      "it": {
+        "title": "Varietà di caffè",
+        "definition": "Una varietà è un tipo geneticamente distinto di pianta di caffè.",
+        "why": "Varietà diverse producono profili di sapore e rese diversi.",
+        "tip": "Impara varietà comuni come Bourbon, Typica, SL28 e Gesha.",
+        "mistake": "Confondere varietà con origine.",
+        "challenge": "Nomina quattro varietà di caffè."
       }
     }
   },
@@ -177,6 +273,30 @@
         "tip": "Acompanhe as datas de colheita dos seus principais fornecedores.",
         "mistake": "Ignorar a temporada de colheita ao comprar.",
         "challenge": "Por que o Brasil e a Etiópia colhem em épocas diferentes?"
+      },
+      "de": {
+        "title": "Erntesaison",
+        "definition": "Erntesaisons variieren je nach Land und Klima über das Jahr.",
+        "why": "Erntekalender zu kennen hilft Röstern, frischeren Kaffee zu kaufen.",
+        "tip": "Verfolge die Erntedaten deiner Hauptlieferanten.",
+        "mistake": "Die Erntesaison beim Einkauf zu ignorieren.",
+        "challenge": "Warum ernten Brasilien und Äthiopien zu unterschiedlichen Zeiten?"
+      },
+      "fr": {
+        "title": "Saison de récolte",
+        "definition": "Les saisons de récolte varient selon le pays et le climat au cours de l'année.",
+        "why": "Connaître les calendriers de récolte aide les torréfacteurs à acheter un café plus frais.",
+        "tip": "Suivez les dates de récolte de vos principaux fournisseurs.",
+        "mistake": "Ignorer la saison de récolte lors de l'achat.",
+        "challenge": "Pourquoi le Brésil et l'Éthiopie récoltent-ils à des moments différents ?"
+      },
+      "it": {
+        "title": "Stagione di raccolta",
+        "definition": "Le stagioni di raccolta variano per paese e clima durante l'anno.",
+        "why": "Conoscere i calendari di raccolta aiuta i torrefattori ad acquistare caffè più fresco.",
+        "tip": "Tieni traccia delle date di raccolta dei tuoi fornitori principali.",
+        "mistake": "Ignorare la stagione del raccolto durante l'acquisto.",
+        "challenge": "Perché Brasile ed Etiopia raccolgono in periodi diversi?"
       }
     }
   },
@@ -213,6 +333,30 @@
         "tip": "Compare Guatemala, Costa Rica e El Salvador lado a lado.",
         "mistake": "Supor que todos os cafés centro-americanos têm o mesmo sabor.",
         "challenge": "Descreva um perfil típico da Guatemala."
+      },
+      "de": {
+        "title": "Zentralamerika",
+        "definition": "Zentralamerikanische Kaffees sind oft sauber, ausgewogen und hell.",
+        "why": "Sie bilden das Rückgrat vieler Specialty-Espresso-Blends.",
+        "tip": "Vergleiche Guatemala, Costa Rica und El Salvador nebeneinander.",
+        "mistake": "Anzunehmen, alle zentralamerikanischen Kaffees schmeckten identisch.",
+        "challenge": "Beschreibe ein typisches guatemaltekisches Profil."
+      },
+      "fr": {
+        "title": "Amérique centrale",
+        "definition": "Les cafés d'Amérique centrale sont souvent propres, équilibrés et lumineux.",
+        "why": "Ils forment l'épine dorsale de nombreux mélanges espresso de spécialité.",
+        "tip": "Comparez le Guatemala, le Costa Rica et le Salvador côte à côte.",
+        "mistake": "Supposer que tous les cafés d'Amérique centrale ont un goût identique.",
+        "challenge": "Décrivez un profil guatémaltèque typique."
+      },
+      "it": {
+        "title": "America Centrale",
+        "definition": "I caffè dell'America Centrale sono spesso puliti, equilibrati e brillanti.",
+        "why": "Formano la spina dorsale di molti blend espresso specialty.",
+        "tip": "Confronta Guatemala, Costa Rica e El Salvador fianco a fianco.",
+        "mistake": "Supporre che tutti i caffè dell'America Centrale abbiano lo stesso sapore.",
+        "challenge": "Descrivi un tipico profilo guatemalteco."
       }
     }
   },
@@ -249,6 +393,30 @@
         "tip": "Prove Etiópia e Quênia juntos para comparar estilos.",
         "mistake": "Esperar que todo café africano seja frutado.",
         "challenge": "Compare Etiópia com Quênia."
+      },
+      "de": {
+        "title": "Afrika",
+        "definition": "Afrikanische Kaffees sind bekannt für lebendige Fruchtnoten, blumige Aromen und lebhafte Säure.",
+        "why": "Sie definieren oft modernen Specialty-Kaffee.",
+        "tip": "Verkoste Äthiopien und Kenia zusammen, um Stile zu vergleichen.",
+        "mistake": "Zu erwarten, jeder afrikanische Kaffee sei fruchtig.",
+        "challenge": "Vergleiche Äthiopien mit Kenia."
+      },
+      "fr": {
+        "title": "Afrique",
+        "definition": "Les cafés africains sont réputés pour leurs arômes fruités vibrants, floraux et leur acidité vive.",
+        "why": "Ils définissent souvent le café de spécialité moderne.",
+        "tip": "Dégustez l'Éthiopie et le Kenya ensemble pour comparer les styles.",
+        "mistake": "S'attendre à ce que chaque café africain soit fruité.",
+        "challenge": "Comparez l'Éthiopie et le Kenya."
+      },
+      "it": {
+        "title": "Africa",
+        "definition": "I caffè africani sono rinomati per la frutta vibrante, gli aromi floreali e l'acidità vivace.",
+        "why": "Spesso definiscono il caffè specialty moderno.",
+        "tip": "Assaggia Etiopia e Kenya insieme per confrontare gli stili.",
+        "mistake": "Aspettarsi che ogni caffè africano sia fruttato.",
+        "challenge": "Confronta Etiopia e Kenya."
       }
     }
   },
@@ -285,6 +453,30 @@
         "tip": "O Brasil costuma ser escolhido pelo corpo e pela doçura.",
         "mistake": "Pensar que os cafés sul-americanos carecem de complexidade.",
         "challenge": "Por que o Brasil é popular no espresso?"
+      },
+      "de": {
+        "title": "Südamerika",
+        "definition": "Südamerikanische Kaffees bieten häufig Schokoladen-, Nuss- und Karamellsüße.",
+        "why": "Sie werden häufig in Espresso-Blends verwendet.",
+        "tip": "Brasilien wird oft wegen Körper und Süße gewählt.",
+        "mistake": "Zu denken, südamerikanischen Kaffees fehle es an Komplexität.",
+        "challenge": "Warum ist Brasilien bei Espresso beliebt?"
+      },
+      "fr": {
+        "title": "Amérique du Sud",
+        "definition": "Les cafés d'Amérique du Sud offrent couramment des douceurs de chocolat, de noix et de caramel.",
+        "why": "Ils sont largement utilisés dans les mélanges espresso.",
+        "tip": "Le Brésil est souvent choisi pour son corps et sa douceur.",
+        "mistake": "Penser que les cafés d'Amérique du Sud manquent de complexité.",
+        "challenge": "Pourquoi le Brésil est-il populaire en espresso ?"
+      },
+      "it": {
+        "title": "Sud America",
+        "definition": "I caffè del Sud America offrono comunemente dolcezza di cioccolato, noci e caramello.",
+        "why": "Sono ampiamente usati nei blend espresso.",
+        "tip": "Il Brasile è spesso scelto per corpo e dolcezza.",
+        "mistake": "Pensare che i caffè sudamericani manchino di complessità.",
+        "challenge": "Perché il Brasile è popolare nell'espresso?"
       }
     }
   },
@@ -321,6 +513,30 @@
         "tip": "Prove Sumatra ao lado de Papua-Nova Guiné.",
         "mistake": "Agrupar todos os cafés asiáticos da mesma forma.",
         "challenge": "Nomeie três países produtores na Ásia-Pacífico."
+      },
+      "de": {
+        "title": "Asien-Pazifik",
+        "definition": "Ursprünge im Asien-Pazifik-Raum erzeugen vielfältige Geschmacksprofile, von sirupartigen indonesischen Kaffees bis zu sauberen Papua-Loten.",
+        "why": "Die Region bietet außergewöhnliche Vielfalt.",
+        "tip": "Verkoste Sumatra neben Papua-Neuguinea.",
+        "mistake": "Alle asiatischen Kaffees in einen Topf zu werfen.",
+        "challenge": "Nenne drei produzierende Länder in Asien-Pazifik."
+      },
+      "fr": {
+        "title": "Asie-Pacifique",
+        "definition": "Les origines Asie-Pacifique produisent des profils de saveur variés, allant des cafés indonésiens sirupeux aux lots papous propres.",
+        "why": "La région offre une diversité exceptionnelle.",
+        "tip": "Dégustez le Sumatra à côté de la Papouasie-Nouvelle-Guinée.",
+        "mistake": "Regrouper tous les cafés asiatiques ensemble.",
+        "challenge": "Nommez trois pays producteurs en Asie-Pacifique."
+      },
+      "it": {
+        "title": "Asia-Pacifico",
+        "definition": "Le origini dell'Asia-Pacifico producono profili di sapore diversi, dai caffè indonesiani sciropposi ai lotti papuani puliti.",
+        "why": "La regione offre una diversità eccezionale.",
+        "tip": "Assaggia Sumatra accanto alla Papua Nuova Guinea.",
+        "mistake": "Raggruppare tutti i caffè asiatici insieme.",
+        "challenge": "Nomina tre paesi produttori nell'Asia-Pacifico."
       }
     }
   },
@@ -357,6 +573,30 @@
         "tip": "Julgue a xícara, não o rótulo.",
         "mistake": "Supor que a origem única é sempre melhor.",
         "challenge": "Quando você escolheria um blend em vez de uma origem única?"
+      },
+      "de": {
+        "title": "Single Origin vs. Blend",
+        "definition": "Single-Origin-Kaffees stammen aus einer definierten Quelle, während Blends mehrere Kaffees kombinieren.",
+        "why": "Beide haben Stärken, je nach gewünschtem Geschmack und Konsistenz.",
+        "tip": "Beurteile die Tasse, nicht das Etikett.",
+        "mistake": "Anzunehmen, Single Origin sei immer besser.",
+        "challenge": "Wann würdest du einen Blend einem Single Origin vorziehen?"
+      },
+      "fr": {
+        "title": "Single origin vs mélange",
+        "definition": "Les cafés single origin proviennent d'une source unique définie, tandis que les mélanges combinent plusieurs cafés.",
+        "why": "Les deux ont des atouts selon la saveur et la constance souhaitées.",
+        "tip": "Jugez la tasse, pas l'étiquette.",
+        "mistake": "Supposer que le single origin est toujours meilleur.",
+        "challenge": "Quand choisiriez-vous un mélange plutôt qu'un single origin ?"
+      },
+      "it": {
+        "title": "Single origin vs blend",
+        "definition": "I caffè single origin provengono da un'unica fonte definita, mentre i blend combinano più caffè.",
+        "why": "Entrambi hanno punti di forza a seconda del sapore e della coerenza desiderati.",
+        "tip": "Giudica la tazza, non l'etichetta.",
+        "mistake": "Supporre che il single origin sia sempre migliore.",
+        "challenge": "Quando sceglieresti un blend rispetto a un single origin?"
       }
     }
   },
@@ -393,6 +633,30 @@
         "tip": "Prepare-o mais leve e deixe os aromáticos liderarem; a superextração enterra a delicadeza que torna Yirgacheffe distinto.",
         "mistake": "Supor que todo café etíope tem o sabor de Yirgacheffe; as regiões do país variam enormemente.",
         "challenge": "A qual método de processamento Yirgacheffe está mais associado, e como isso molda seu sabor?"
+      },
+      "de": {
+        "title": "Äthiopien: Yirgacheffe",
+        "definition": "Eine Region mit gewaschenem Kaffee im Süden Äthiopiens, bekannt für intensiv blumige, zitrusbetonte Tassen, die oft als teeähnlich beschrieben werden.",
+        "why": "Es gilt weithin als der Archetyp dafür, wie gewaschener äthiopischer Kaffee schmecken kann, und als Referenzpunkt, mit dem viele andere Ursprünge verglichen werden.",
+        "tip": "Brühe ihn leichter und lass die Aromen führen — Überextraktion begräbt die Feinheit, die Yirgacheffe unverwechselbar macht.",
+        "mistake": "Anzunehmen, jeder äthiopische Kaffee schmecke wie Yirgacheffe — die Regionen des Landes variieren enorm.",
+        "challenge": "Mit welcher Aufbereitungsmethode wird Yirgacheffe am meisten assoziiert, und wie prägt das seinen Geschmack?"
+      },
+      "fr": {
+        "title": "Éthiopie : Yirgacheffe",
+        "definition": "Une région de café lavé dans le sud de l'Éthiopie connue pour des tasses intensément florales et axées sur les agrumes, souvent décrites comme proches du thé.",
+        "why": "C'est largement considéré comme l'archétype de ce que peut donner le café éthiopien lavé, et un point de référence auquel de nombreuses autres origines sont comparées.",
+        "tip": "Infusez-le plus léger et laissez les arômes guider — une sur-extraction enterre la délicatesse qui rend Yirgacheffe distinctif.",
+        "mistake": "Supposer que tout café éthiopien a le goût du Yirgacheffe — les régions du pays varient énormément.",
+        "challenge": "À quelle méthode de traitement le Yirgacheffe est-il le plus associé, et comment cela façonne-t-il sa saveur ?"
+      },
+      "it": {
+        "title": "Etiopia: Yirgacheffe",
+        "definition": "Una regione di caffè lavato nel sud dell'Etiopia nota per tazze intensamente floreali e agrumate, spesso descritte come simili al tè.",
+        "why": "È ampiamente considerato l'archetipo di come può essere il caffè etiope lavato, e un punto di riferimento con cui vengono confrontate molte altre origini.",
+        "tip": "Prepara più leggero e lascia guidare gli aromi — la sovraestrazione seppellisce la delicatezza che rende Yirgacheffe distintivo.",
+        "mistake": "Supporre che tutto il caffè etiope sappia di Yirgacheffe — le regioni del paese variano enormemente.",
+        "challenge": "A quale metodo di lavorazione è più associato lo Yirgacheffe, e come plasma il suo sapore?"
       }
     },
     "photo_placeholder": true
@@ -430,6 +694,30 @@
         "tip": "Prove os naturais de Guji lado a lado com um lavado de Yirgacheffe para perceber exatamente o que o processamento muda.",
         "mistake": "Tratar 'frutado' como sinônimo automático de 'fermentado' ou 'defeituoso'; essa intensidade costuma ser intencional e controlada.",
         "challenge": "Por que um comprador buscaria especificamente Guji para uma oferta de processo natural em vez de Yirgacheffe?"
+      },
+      "de": {
+        "title": "Äthiopien: Guji",
+        "definition": "Eine südäthiopische Region, die vor allem durch Natural-aufbereitete Lose mit intensivem Blaubeer- und Erdbeercharakter zu Bekanntheit gelangte.",
+        "why": "Guji-Naturals sind ein großer Grund dafür, warum die Natural-Aufbereitung im letzten Jahrzehnt im Specialty Coffee ernsthafte Glaubwürdigkeit gewann.",
+        "tip": "Cuppe Guji-Naturals nebeneinander mit einem gewaschenen Yirgacheffe-Los, um genau zu hören, was die Aufbereitung verändert.",
+        "mistake": "'Fruchtig' automatisch mit 'fermentiert' oder 'fehlerhaft' gleichzusetzen — diese Intensität ist oft beabsichtigt und kontrolliert.",
+        "challenge": "Warum könnte ein Käufer gezielt Guji für ein Natural-Aufbereitungsangebot suchen, statt Yirgacheffe?"
+      },
+      "fr": {
+        "title": "Éthiopie : Guji",
+        "definition": "Une région du sud de l'Éthiopie devenue célèbre en grande partie grâce à des lots traités naturels au caractère intense de myrtille et de fraise.",
+        "why": "Les naturels de Guji sont une grande raison pour laquelle le traitement naturel a gagné une crédibilité sérieuse dans le café de spécialité au cours de la dernière décennie.",
+        "tip": "Dégustez les naturels de Guji côte à côte avec un lot lavé de Yirgacheffe pour entendre exactement ce que le traitement change.",
+        "mistake": "Traiter « fruité » comme signifiant automatiquement « fermenté » ou « défectueux » — cette intensité est souvent intentionnelle et contrôlée.",
+        "challenge": "Pourquoi un acheteur pourrait-il spécifiquement rechercher le Guji pour une offre en traitement naturel plutôt que le Yirgacheffe ?"
+      },
+      "it": {
+        "title": "Etiopia: Guji",
+        "definition": "Una regione del sud dell'Etiopia salita alla ribalta in gran parte attraverso lotti lavorati al naturale con intenso carattere di mirtillo e fragola.",
+        "why": "I naturali di Guji sono gran parte del motivo per cui la lavorazione naturale ha guadagnato seria credibilità nel caffè specialty nell'ultimo decennio.",
+        "tip": "Fai cupping dei naturali di Guji fianco a fianco con un lotto lavato di Yirgacheffe per sentire esattamente cosa cambia la lavorazione.",
+        "mistake": "Trattare 'fruttato' come sinonimo automatico di 'fermentato' o 'difettoso' — quell'intensità è spesso intenzionale e controllata.",
+        "challenge": "Perché un acquirente potrebbe cercare specificamente Guji per un'offerta di lavorazione naturale invece di Yirgacheffe?"
       }
     },
     "photo_placeholder": true
@@ -466,6 +754,30 @@
         "tip": "Use Huila como sua referência para o que é o 'colombiano clássico' antes de explorar perfis regionais mais extremos.",
         "mistake": "Supor que uma região de cultivo tão grande só pode produzir café genérico e sem destaque.",
         "challenge": "Por que o enorme número de pequenas fazendas da Colômbia (em vez de poucas grandes propriedades) molda a forma como seu café é comprado e vendido?"
+      },
+      "de": {
+        "title": "Kolumbien: Huila",
+        "definition": "Kolumbiens produktivstes kaffeeanbauendes Departement, bekannt für ausgewogene Süße und zuverlässige Qualität über eine riesige Zahl kleiner Farmen.",
+        "why": "Huila allein liefert einen großen Anteil der Specialty-Exporte Kolumbiens und bildet damit das Rückgrat eines Großteils des Rufs des Landes.",
+        "tip": "Nutze Huila als deine Basislinie dafür, wie 'klassisch kolumbianisch' schmeckt, bevor du extremere regionale Profile erkundest.",
+        "mistake": "Anzunehmen, eine riesige Anbauregion könne nur generischen, unauffälligen Kaffee produzieren.",
+        "challenge": "Warum prägt Kolumbiens riesige Zahl kleiner Farmen (statt weniger großer Güter), wie sein Kaffee gekauft und verkauft wird?"
+      },
+      "fr": {
+        "title": "Colombie : Huila",
+        "definition": "Le département producteur de café le plus productif de Colombie, connu pour sa douceur équilibrée et sa qualité fiable à travers un grand nombre de petites fermes.",
+        "why": "Huila à lui seul fournit une grande part des exportations de spécialité de la Colombie, en faisant l'épine dorsale d'une grande partie de la réputation du pays.",
+        "tip": "Utilisez Huila comme référence pour le goût « colombien classique » avant d'explorer des profils régionaux plus extrêmes.",
+        "mistake": "Supposer qu'une immense région de culture ne peut produire qu'un café générique et sans relief.",
+        "challenge": "Pourquoi le grand nombre de petites fermes de Colombie (plutôt que quelques grands domaines) façonne-t-il la façon dont son café est acheté et vendu ?"
+      },
+      "it": {
+        "title": "Colombia: Huila",
+        "definition": "Il dipartimento coltivatore di caffè più produttivo della Colombia, noto per dolcezza equilibrata e qualità affidabile attraverso un enorme numero di piccole aziende agricole.",
+        "why": "Solo Huila fornisce una grande quota delle esportazioni specialty della Colombia, rendendola la spina dorsale di gran parte della reputazione del paese.",
+        "tip": "Usa Huila come base per capire come sappia il 'colombiano classico' prima di esplorare profili regionali più estremi.",
+        "mistake": "Supporre che un'enorme regione di coltivazione possa produrre solo caffè generico e poco notevole.",
+        "challenge": "Perché l'enorme numero di piccole aziende agricole della Colombia (invece di poche grandi tenute) plasma come il suo caffè viene comprato e venduto?"
       }
     },
     "photo_placeholder": true
@@ -502,6 +814,30 @@
         "tip": "Espere uma acidez mais pronunciada aqui do que na maioria das outras regiões colombianas; é parte de sua assinatura, não um defeito.",
         "mistake": "Julgar Nariño com as mesmas expectativas de sabor de Huila, de menor altitude.",
         "challenge": "Por que cultivar perto do equador, mais do que a latitude sozinha, permite um cultivo em altitude tão elevada aqui?"
+      },
+      "de": {
+        "title": "Kolumbien: Nariño",
+        "definition": "Eine Hochlage-Region nahe der ecuadorianischen Grenze, eines der höchsten Kaffeeanbaugebiete Kolumbiens, die helle, strukturierte Säure erzeugt.",
+        "why": "Ihre extreme Höhenlage und ihre nahezu äquatoriale Breite kombinieren sich, um die Kirschreifung zu verlangsamen und Zucker und Säuren zu konzentrieren.",
+        "tip": "Erwarte hier ausgeprägtere Säure als in den meisten anderen kolumbianischen Regionen — das ist Teil der Signatur, kein Fehler.",
+        "mistake": "Nariño mit denselben Geschmackserwartungen zu beurteilen wie das niedriger gelegene Huila.",
+        "challenge": "Warum ermöglicht der Anbau nahe dem Äquator, nicht die Breite allein, so hochgelegenen Anbau hier?"
+      },
+      "fr": {
+        "title": "Colombie : Nariño",
+        "definition": "Une région de haute altitude près de la frontière équatorienne, parmi les terres de culture de café les plus élevées de Colombie, produisant une acidité vive et structurée.",
+        "why": "Son altitude extrême et sa latitude proche de l'équateur se combinent pour ralentir la maturation des cerises, concentrant sucres et acides.",
+        "tip": "Attendez-vous à une acidité plus prononcée ici que dans la plupart des autres régions colombiennes — cela fait partie de la signature, pas un défaut.",
+        "mistake": "Juger Nariño selon les mêmes attentes de saveur que Huila, situé plus bas.",
+        "challenge": "Pourquoi cultiver près de l'équateur, plutôt que la latitude seule, permet-il une culture à si haute altitude ici ?"
+      },
+      "it": {
+        "title": "Colombia: Nariño",
+        "definition": "Una regione ad alta altitudine vicino al confine ecuadoriano, tra i terreni di coltivazione del caffè più alti della Colombia, che produce un'acidità brillante e strutturata.",
+        "why": "La sua altitudine estrema e la latitudine vicina all'equatore si combinano per rallentare la maturazione delle ciliegie, concentrando zuccheri e acidi.",
+        "tip": "Aspettati un'acidità più pronunciata qui rispetto alla maggior parte delle altre regioni colombiane — fa parte della firma, non è un difetto.",
+        "mistake": "Giudicare Nariño con le stesse aspettative di sapore dell'Huila a quota più bassa.",
+        "challenge": "Perché coltivare vicino all'equatore, piuttosto che la sola latitudine, permette una coltivazione così in alta quota qui?"
       }
     },
     "photo_placeholder": true
@@ -538,6 +874,30 @@
         "tip": "Sempre prove os lotes quenianos independentemente do grau; algumas das melhores xícaras já registradas foram AB, não AA.",
         "mistake": "Supor que AA é automaticamente o grau de melhor sabor só porque soa premium.",
         "challenge": "Se AA não garante qualidade, por que ainda tem preços mais altos?"
+      },
+      "de": {
+        "title": "Kenia: AA/AB-Klassifizierung",
+        "definition": "Kenias siebgrößenbasiertes Klassifizierungssystem, bei dem AA die größte Bohnengröße bezeichnet, gefolgt von AB und kleineren Klassen.",
+        "why": "Es ist eines der am meisten missverstandenen Klassifizierungssysteme im Kaffee — größenbasiert, nicht qualitätsbasiert.",
+        "tip": "Cuppe kenianische Lose immer unabhängig von der Klasse — einige der besten je aufgezeichneten Tassen waren AB, nicht AA.",
+        "mistake": "Anzunehmen, AA sei automatisch die geschmacklich beste Klasse, weil es hochwertig klingt.",
+        "challenge": "Wenn AA keine Qualität garantiert, warum erzielt es dann immer noch höhere Preise?"
+      },
+      "fr": {
+        "title": "Kenya : classification AA/AB",
+        "definition": "Le système de classification kényan basé sur la taille du tamis, où AA désigne la plus grande taille de grain, suivi de AB et de qualités plus petites.",
+        "why": "C'est l'un des systèmes de classification les plus mal compris du café — basé sur la taille, pas sur la qualité.",
+        "tip": "Dégustez toujours les lots kényans indépendamment de la qualité — certaines des meilleures tasses enregistrées étaient AB, pas AA.",
+        "mistake": "Supposer que AA est automatiquement la qualité au meilleur goût parce que cela sonne premium.",
+        "challenge": "Si AA ne garantit pas la qualité, pourquoi commande-t-il quand même des prix plus élevés ?"
+      },
+      "it": {
+        "title": "Kenya: classificazione AA/AB",
+        "definition": "Il sistema di classificazione keniano basato sulla dimensione del setaccio, dove AA si riferisce alla dimensione di chicco più grande, seguita da AB e gradi più piccoli.",
+        "why": "È uno dei sistemi di classificazione più fraintesi nel caffè — basato sulla dimensione, non sulla qualità.",
+        "tip": "Fai sempre cupping dei lotti keniani indipendentemente dal grado — alcune delle migliori tazze registrate sono state AB, non AA.",
+        "mistake": "Supporre che AA sia automaticamente il grado dal miglior sapore perché suona premium.",
+        "challenge": "Se AA non garantisce la qualità, perché comanda ancora prezzi più alti?"
       }
     },
     "photo_placeholder": true
@@ -574,6 +934,30 @@
         "tip": "Procure um leve toque defumado junto com notas de chocolate e especiarias; essa é a assinatura de Antigua.",
         "mistake": "Confundir Antigua a região cafeeira com Antigua a cidade colonial que ela cerca; a área de cultivo se estende bem além dela.",
         "challenge": "Como a composição do solo vulcânico poderia influenciar o sabor do café de forma diferente do solo tropical típico?"
+      },
+      "de": {
+        "title": "Guatemala: Antigua",
+        "definition": "Ein historisches Anbautal, umgeben von drei Vulkanen, das Kaffee mit unverwechselbarer rauchiger, würziger Komplexität aus seinem reichen vulkanischen Boden erzeugt.",
+        "why": "Es ist eine der ältesten geschützten Kaffeebezeichnungen der Welt und ein Referenzpunkt für Charakter aus vulkanischem Boden.",
+        "tip": "Achte auf eine sanfte Rauchigkeit neben Schokoladen- und Gewürznoten — das ist die Antigua-Signatur.",
+        "mistake": "Die Kaffeeregion Antigua mit der kolonialen Stadt Antigua zu verwechseln, die sie umgibt — das Anbaugebiet erstreckt sich weit darüber hinaus.",
+        "challenge": "Wie könnte die Zusammensetzung vulkanischen Bodens den Kaffeegeschmack anders beeinflussen als typischer tropischer Boden?"
+      },
+      "fr": {
+        "title": "Guatemala : Antigua",
+        "definition": "Une vallée de culture historique entourée de trois volcans, produisant un café à la complexité fumée et épicée distinctive issue de son riche sol volcanique.",
+        "why": "C'est l'une des plus anciennes appellations de café protégées au monde et un point de référence pour le caractère du sol volcanique.",
+        "tip": "Cherchez une douce note fumée aux côtés de notes de chocolat et d'épices — c'est la signature d'Antigua.",
+        "mistake": "Confondre la région caféière d'Antigua avec la ville coloniale d'Antigua qu'elle entoure — la zone de culture s'étend bien au-delà.",
+        "challenge": "Comment la composition du sol volcanique pourrait-elle influencer la saveur du café différemment d'un sol tropical typique ?"
+      },
+      "it": {
+        "title": "Guatemala: Antigua",
+        "definition": "Una storica valle di coltivazione circondata da tre vulcani, che produce caffè con distintiva complessità affumicata e speziata dal suo ricco suolo vulcanico.",
+        "why": "È una delle più antiche denominazioni di caffè protette al mondo e un punto di riferimento per il carattere del suolo vulcanico.",
+        "tip": "Cerca una delicata affumicatura accanto a note di cioccolato e spezie — questa è la firma di Antigua.",
+        "mistake": "Confondere la regione caffearia di Antigua con la città coloniale di Antigua che circonda — l'area di coltivazione si estende ben oltre.",
+        "challenge": "Come potrebbe la composizione del suolo vulcanico influenzare il sapore del caffè diversamente dal tipico suolo tropicale?"
       }
     }
   },
@@ -609,6 +993,30 @@
         "tip": "O Geisha de Boquete tende a jasmim intenso, bergamota e fruta tropical; prove uma vez para entender o fenômeno.",
         "mistake": "Supor que todo café rotulado como Geisha entregará qualidade no nível da Esmeralda só pelo nome da variedade.",
         "challenge": "O que a história de Boquete revela sobre o quanto a variedade e o terroir podem superar o processamento sozinho?"
+      },
+      "de": {
+        "title": "Panama: Boquete und der Geisha-Boom",
+        "definition": "Eine hochgelegene panamaische Region, die weltberühmt wurde, nachdem die Geisha-Sorte von Hacienda La Esmeralda 2004 den Best-of-Panama-Wettbewerb gewann und neu definierte, was Käufer für außergewöhnlichen Kaffee zu zahlen bereit waren.",
+        "why": "Es veränderte im Alleingang die Obergrenze der Kaffee-Auktionspreise und brachte eine ganze Sorte weltweit auf die Landkarte.",
+        "tip": "Geisha aus Boquete tendiert zu intensivem Jasmin, Bergamotte und tropischen Fruchtnoten — probiere ihn einmal, um den Hype zu verstehen.",
+        "mistake": "Anzunehmen, jeder mit Geisha etikettierte Kaffee liefere Qualität auf Esmeralda-Niveau allein wegen des Sortennamens.",
+        "challenge": "Was verrät die Boquete-Geschichte darüber, wie sehr Sorte und Terroir allein die Aufbereitung überwiegen können?"
+      },
+      "fr": {
+        "title": "Panama : Boquete et le boom Geisha",
+        "definition": "Une région panaméenne de haute altitude devenue mondialement célèbre après que la variété Geisha de Hacienda La Esmeralda a remporté le Best of Panama en 2004, redéfinissant ce que les acheteurs étaient prêts à payer pour un café exceptionnel.",
+        "why": "Cela a à lui seul changé le plafond des prix aux enchères de café et mis toute une variété sur la carte mondiale.",
+        "tip": "Le Geisha de Boquete tend vers un jasmin intense, de la bergamote et des notes de fruits tropicaux — goûtez-le une fois pour comprendre le battage médiatique.",
+        "mistake": "Supposer que chaque café étiqueté Geisha offrira une qualité de niveau Esmeralda simplement à cause du nom de variété.",
+        "challenge": "Que révèle l'histoire de Boquete sur à quel point variété et terroir peuvent l'emporter sur le seul traitement ?"
+      },
+      "it": {
+        "title": "Panama: Boquete e il boom Geisha",
+        "definition": "Una regione panamense ad alta altitudine diventata famosa in tutto il mondo dopo che la varietà Geisha di Hacienda La Esmeralda ha vinto il Best of Panama nel 2004, ridefinendo quanto gli acquirenti erano disposti a pagare per un caffè eccezionale.",
+        "why": "Ha da solo cambiato il tetto dei prezzi delle aste di caffè e messo un'intera varietà sulla mappa mondiale.",
+        "tip": "Il Geisha di Boquete tende verso gelsomino intenso, bergamotto e note di frutta tropicale — assaggialo una volta per capire l'hype.",
+        "mistake": "Supporre che ogni caffè etichettato Geisha offra una qualità a livello Esmeralda solo per il nome della varietà.",
+        "challenge": "Cosa rivela la storia di Boquete su quanto varietà e terroir possano superare la sola lavorazione?"
       }
     },
     "photo_placeholder": true,
@@ -646,6 +1054,30 @@
         "tip": "Use o Cerrado como referência do que o café colhido mecanicamente ainda pode ter de sabor quando bem feito.",
         "mistake": "Supor que a colheita mecanizada sempre significa menor qualidade; o Cerrado desmente isso constantemente.",
         "challenge": "Por que o terreno plano importa tanto para o método de colheita e o custo?"
+      },
+      "de": {
+        "title": "Brasilien: Cerrado",
+        "definition": "Eine relativ flache, hochgelegene Hochebene, die es Brasilien ermöglichte, die Ernte im großen Maßstab zu mechanisieren und nussigen, schokoladigen, säurearmen Kaffee zu erzeugen.",
+        "why": "Sein flaches Gelände (im Gegensatz zu den meisten steilen Kaffeeanbaugebieten) ist genau der Grund, warum Brasilien zum größten Kaffeeproduzenten der Welt wurde.",
+        "tip": "Nutze Cerrado als Referenzpunkt dafür, wie mechanisch geernteter Kaffee immer noch schmecken kann, wenn es gut gemacht wird.",
+        "mistake": "Anzunehmen, mechanisierte Ernte bedeute immer geringere Qualität — Cerrado widerlegt das durchgehend.",
+        "challenge": "Warum ist flaches Gelände für Erntemethode und Kosten so bedeutend?"
+      },
+      "fr": {
+        "title": "Brésil : Cerrado",
+        "definition": "Un plateau relativement plat et de haute altitude qui a permis au Brésil de mécaniser la récolte à grande échelle, produisant un café noisette, chocolaté, à faible acidité.",
+        "why": "Son terrain plat (contrairement à la plupart des terres de culture de café escarpées) est exactement pourquoi le Brésil est devenu le plus grand producteur de café au monde.",
+        "tip": "Utilisez Cerrado comme point de référence pour ce qu'un café récolté mécaniquement peut encore donner comme goût quand c'est bien fait.",
+        "mistake": "Supposer que la récolte mécanisée signifie toujours une qualité inférieure — Cerrado le dément constamment.",
+        "challenge": "Pourquoi un terrain plat compte-t-il autant pour la méthode de récolte et le coût ?"
+      },
+      "it": {
+        "title": "Brasile: Cerrado",
+        "definition": "Un altopiano relativamente piatto e ad alta altitudine che ha permesso al Brasile di meccanizzare la raccolta su scala massiccia, producendo caffè nocciolato, cioccolatoso e a bassa acidità.",
+        "why": "Il suo terreno piatto (a differenza della maggior parte dei terreni di coltivazione del caffè ripidi) è esattamente il motivo per cui il Brasile è diventato il più grande produttore di caffè al mondo.",
+        "tip": "Usa Cerrado come punto di riferimento per come può ancora sapere il caffè raccolto meccanicamente quando fatto bene.",
+        "mistake": "Supporre che la raccolta meccanizzata significhi sempre qualità inferiore — Cerrado lo smentisce costantemente.",
+        "challenge": "Perché il terreno piatto conta così tanto per il metodo di raccolta e il costo?"
       }
     },
     "photo_placeholder": true
@@ -682,6 +1114,30 @@
         "tip": "Procure xícaras limpas, brilhantes e cítricas com uma doçura distinta, típica dos lotes honey de Tarrazú.",
         "mistake": "Supor que 'micro-beneficiamento' significa automaticamente pequena escala ou hobby; muitos produzem volume comercial sério.",
         "challenge": "Como a ascensão dos micro-beneficiamentos mudou quem lucra com um saco de café costarriquenho?"
+      },
+      "de": {
+        "title": "Costa Rica: Tarrazú",
+        "definition": "Eine Bergregion südlich von San José, bekannt als Wegbereiterin der Honey-Prozess-Mikromühlen-Bewegung, die veränderte, wie kleine costa-ricanische Farmen konkurrieren.",
+        "why": "Tarrazús Mikromühlen ermöglichen einzelnen Farmen, ihren eigenen Kaffee zu verarbeiten und zu vermarkten, statt Kirschen an große Mühlen zu verkaufen, was verändert, wer Wert in der Lieferkette erfasst.",
+        "tip": "Achte auf saubere, helle, zitrusartige Tassen mit einer ausgeprägten Süße, typisch für Honey-aufbereitete Tarrazú-Lose.",
+        "mistake": "Anzunehmen, 'Mikromühle' bedeute automatisch Kleinbetrieb oder Hobby — viele produzieren ernsthaftes kommerzielles Volumen.",
+        "challenge": "Wie veränderte der Aufstieg der Mikromühlen, wer von einem Beutel costa-ricanischen Kaffees profitiert?"
+      },
+      "fr": {
+        "title": "Costa Rica : Tarrazú",
+        "definition": "Une région montagneuse au sud de San José connue pour avoir été pionnière du mouvement des micro-moulins à traitement miel qui a remodelé la façon dont les petites fermes costariciennes rivalisent.",
+        "why": "Les micro-moulins de Tarrazú permettent à des fermes individuelles de traiter et commercialiser leur propre café au lieu de vendre la cerise à de grands moulins, changeant qui capte la valeur dans la chaîne d'approvisionnement.",
+        "tip": "Recherchez des tasses propres, lumineuses et citronnées avec une douceur distincte typique des lots de Tarrazú traités au miel.",
+        "mistake": "Supposer que « micro-moulin » signifie automatiquement petite échelle ou amateur — beaucoup produisent un volume commercial sérieux.",
+        "challenge": "Comment l'essor des micro-moulins a-t-il changé qui profite d'un sac de café costaricien ?"
+      },
+      "it": {
+        "title": "Costa Rica: Tarrazú",
+        "definition": "Una regione montuosa a sud di San José nota per aver aperto la strada al movimento dei micro-mulini a lavorazione honey che ha rimodellato il modo in cui le piccole aziende agricole costaricane competono.",
+        "why": "I micro-mulini di Tarrazú permettono alle singole aziende agricole di lavorare e commercializzare il proprio caffè invece di vendere la ciliegia a grandi mulini, cambiando chi cattura valore nella catena di fornitura.",
+        "tip": "Cerca tazze pulite, brillanti e agrumate con una dolcezza distinta tipica dei lotti di Tarrazú lavorati honey.",
+        "mistake": "Supporre che 'micro-mulino' significhi automaticamente piccola scala o hobbistico — molti producono un serio volume commerciale.",
+        "challenge": "Come ha cambiato l'ascesa dei micro-mulini chi trae profitto da un sacchetto di caffè costaricano?"
       }
     },
     "photo_placeholder": true
