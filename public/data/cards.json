@@ -10640,6 +10640,30 @@
         "tip": "Trate a lenda de Kaldi como folclore, não como história; útil como contexto, não para citar como fato.",
         "mistake": "Apresentar a lenda de Kaldi como fato histórico verificado em vez de uma tradição oral popular.",
         "challenge": "Por que uma história como essa poderia sobreviver por séculos mesmo sem evidência histórica?"
+      },
+      "de": {
+        "title": "Die Kaldi-Legende",
+        "definition": "Eine populäre Ursprungsgeschichte, die einem äthiopischen Ziegenhirten namens Kaldi die Entdeckung des Kaffees zuschreibt, nachdem er bemerkte, dass seine Ziegen vom Fressen bestimmter roter Beeren energiegeladen wurden.",
+        "why": "Es ist die am weitesten verbreitete Kaffee-Ursprungsgeschichte, obwohl sie erst Jahrhunderte nach ihrem angeblichen Geschehen niedergeschrieben wurde.",
+        "tip": "Behandle Kaldi als Folklore, nicht als Geschichte — nützlich für Kontext, nicht als Tatsachenzitat.",
+        "mistake": "Die Kaldi-Legende als bestätigte historische Tatsache statt als populäre mündliche Überlieferung darzustellen.",
+        "challenge": "Warum könnte eine solche Geschichte Jahrhunderte überdauern, auch ohne historische Belege?"
+      },
+      "fr": {
+        "title": "La légende de Kaldi",
+        "definition": "Une histoire d'origine populaire créditant un chevrier éthiopien nommé Kaldi de la découverte du café après avoir remarqué que ses chèvres devenaient énergiques en mangeant certaines baies rouges.",
+        "why": "C'est l'histoire d'origine du café la plus racontée, même si elle n'a été écrite que des siècles après sa supposée survenue.",
+        "tip": "Traitez Kaldi comme du folklore, pas de l'histoire — utile pour le contexte, pas à citer comme un fait.",
+        "mistake": "Présenter la légende de Kaldi comme un fait historique vérifié plutôt qu'une tradition orale populaire.",
+        "challenge": "Pourquoi une histoire comme celle-ci pourrait-elle survivre pendant des siècles même sans preuve historique ?"
+      },
+      "it": {
+        "title": "La leggenda di Kaldi",
+        "definition": "Una popolare storia delle origini che attribuisce a un pastore di capre etiope di nome Kaldi la scoperta del caffè dopo aver notato che le sue capre diventavano energiche mangiando certe bacche rosse.",
+        "why": "È la storia delle origini del caffè più raccontata, anche se non fu messa per iscritto fino a secoli dopo il presunto accadimento.",
+        "tip": "Tratta Kaldi come folklore, non come storia — utile per il contesto, non da citare come fatto.",
+        "mistake": "Presentare la leggenda di Kaldi come un fatto storico verificato piuttosto che una popolare tradizione orale.",
+        "challenge": "Perché una storia come questa potrebbe sopravvivere per secoli anche senza prove storiche?"
       }
     },
     "free_sample": true,
@@ -10677,6 +10701,30 @@
         "tip": "Note quão rápido o café passou de uma bebida privada e medicinal para uma social e pública assim que chegou às cidades otomanas.",
         "mistake": "Supor que a cultura do café começou na Europa em vez de séculos antes no mundo otomano.",
         "challenge": "Por que os governantes às vezes viam as cafeterias com desconfiança ou tentavam proibi-las?"
+      },
+      "de": {
+        "title": "Kaffee im Osmanischen Reich",
+        "definition": "Kaffee verbreitete sich vom Jemen aus bis zum 16. Jahrhundert im Osmanischen Reich, wo eigene Kaffeehäuser namens 'kiva han' zum Mittelpunkt des öffentlichen Lebens in Städten wie Istanbul wurden.",
+        "why": "Hier wurde Kaffee erstmals zu einer echten sozialen Institution, nicht nur zu einem Getränk — das Kaffeehaus als öffentlicher Versammlungsort beginnt hier.",
+        "tip": "Beachte, wie schnell sich Kaffee von einem privaten, medizinischen Getränk zu einem öffentlichen, sozialen entwickelte, sobald er osmanische Städte erreichte.",
+        "mistake": "Anzunehmen, die Kaffeekultur habe in Europa begonnen, statt Jahrhunderte früher in der osmanischen Welt.",
+        "challenge": "Warum könnten Herrscher Kaffeehäuser gelegentlich mit Misstrauen betrachtet oder versucht haben, sie zu verbieten?"
+      },
+      "fr": {
+        "title": "Le café dans l'Empire ottoman",
+        "definition": "Le café s'est répandu du Yémen vers l'Empire ottoman au 16e siècle, où des cafés dédiés appelés « kiva han » sont devenus centraux dans la vie publique de villes comme Istanbul.",
+        "why": "C'est là que le café est devenu pour la première fois une véritable institution sociale, pas juste une boisson — le café comme espace de rassemblement public commence ici.",
+        "tip": "Remarquez à quelle vitesse le café est passé d'une boisson privée et médicinale à une boisson publique et sociale une fois arrivé dans les villes ottomanes.",
+        "mistake": "Supposer que la culture du café a commencé en Europe plutôt que des siècles plus tôt dans le monde ottoman.",
+        "challenge": "Pourquoi des dirigeants auraient-ils occasionnellement vu les cafés avec suspicion ou tenté de les interdire ?"
+      },
+      "it": {
+        "title": "Il caffè nell'Impero Ottomano",
+        "definition": "Il caffè si diffuse dallo Yemen verso l'Impero Ottomano nel XVI secolo, dove caffetterie dedicate chiamate 'kiva han' divennero centrali per la vita pubblica in città come Istanbul.",
+        "why": "Qui il caffè divenne per la prima volta una vera istituzione sociale, non solo una bevanda — la caffetteria come spazio di ritrovo pubblico inizia qui.",
+        "tip": "Nota quanto velocemente il caffè passò da bevanda privata e medicinale a bevanda pubblica e sociale una volta raggiunte le città ottomane.",
+        "mistake": "Supporre che la cultura del caffè sia iniziata in Europa piuttosto che secoli prima nel mondo ottomano.",
+        "challenge": "Perché i governanti potrebbero aver occasionalmente visto le caffetterie con sospetto o cercato di vietarle?"
       }
     },
     "free_sample": true,
@@ -10714,6 +10762,30 @@
         "tip": "Pense na primeira cafeteria como uma mistura de café, redação de notícias e sala de debate ao mesmo tempo.",
         "mistake": "Supor que as cafeterias eram apenas locais sociais sem nenhuma função intelectual ou econômica real.",
         "challenge": "O que o apelido 'universidade de um centavo' revela sobre o que as pessoas realmente buscavam lá?"
+      },
+      "de": {
+        "title": "Europas erste Kaffeehäuser",
+        "definition": "Kaffeehäuser verbreiteten sich im 17. Jahrhundert nach Venedig, Oxford und London und erhielten schnell den Spitznamen 'Penny-Universitäten', da ein Penny-Kaffee stundenlange Gespräche und Debatten ermöglichte.",
+        "why": "Diese Orte wurden zu echten Motoren für Ideen, Information und frühen Journalismus, nicht nur zu Orten, um Kaffee zu trinken.",
+        "tip": "Stell dir das frühe Kaffeehaus als eine Mischung aus Café, Nachrichtenredaktion und Debattierhalle zugleich vor.",
+        "mistake": "Anzunehmen, Kaffeehäuser seien rein soziale Orte ohne echte intellektuelle oder wirtschaftliche Funktion gewesen.",
+        "challenge": "Was verrät der Spitzname 'Penny-Universität' darüber, weswegen Menschen dort tatsächlich hingingen?"
+      },
+      "fr": {
+        "title": "Les premiers cafés d'Europe",
+        "definition": "Les cafés se sont répandus à Venise, Oxford et Londres dans les années 1600, gagnant rapidement le surnom d'« universités du sou » car un café à un penny achetait des heures de conversation et de débat.",
+        "why": "Ces lieux sont devenus de véritables moteurs d'idées, d'information et de journalisme naissant, pas seulement des endroits pour boire du café.",
+        "tip": "Pensez au café des débuts comme un mélange de café, salle de rédaction et salle de débat à la fois.",
+        "mistake": "Supposer que les cafés étaient des lieux purement sociaux sans réelle fonction intellectuelle ou économique.",
+        "challenge": "Que révèle le surnom « université du sou » sur ce pour quoi les gens s'y rendaient réellement ?"
+      },
+      "it": {
+        "title": "Le prime caffetterie d'Europa",
+        "definition": "Le caffetterie si diffusero a Venezia, Oxford e Londra negli anni 1600, guadagnandosi rapidamente il soprannome di 'università da un penny' perché un caffè da un penny comprava ore di conversazione e dibattito.",
+        "why": "Questi luoghi divennero veri motori di idee, informazione e giornalismo nascente, non solo posti dove bere caffè.",
+        "tip": "Pensa alla prima caffetteria come a un misto di caffè, redazione e sala dibattiti insieme.",
+        "mistake": "Supporre che le caffetterie fossero luoghi puramente sociali senza reale funzione intellettuale o economica.",
+        "challenge": "Cosa rivela il soprannome 'università da un penny' su cosa la gente andasse effettivamente a cercare lì?"
       }
     },
     "id": 177
@@ -10750,6 +10822,30 @@
         "tip": "Pesquise em qual cafeteria específica a Lloyd's of London começou; a história é mais literal do que as pessoas esperam.",
         "mistake": "Tratar isso como coincidência em vez de reconhecer as cafeterias como uma verdadeira infraestrutura para a troca de ideias.",
         "challenge": "Por que um ambiente estimulado por cafeína pode ter favorecido o debate intelectual sério mais do que uma taverna?"
+      },
+      "de": {
+        "title": "Kaffeehäuser und die Aufklärung",
+        "definition": "Europäische Kaffeehäuser wurden zu Treffpunkten für Wissenschaftler, Schriftsteller und Kaufleute und beeinflussten direkt so bedeutende Institutionen wie Lloyd's of London (in einem Kaffeehaus geboren) und frühe Börsen.",
+        "why": "Einige der wichtigsten Finanz- und Wissenschaftsinstitutionen der Geschichte gehen auf Gespräche zurück, die bei Kaffee stattfanden.",
+        "tip": "Schau nach, in welchem konkreten Kaffeehaus Lloyd's of London begann — die Geschichte ist wörtlicher, als man erwartet.",
+        "mistake": "Dies als Zufall zu behandeln, statt Kaffeehäuser als echte Infrastruktur für den Ideenaustausch zu erkennen.",
+        "challenge": "Warum könnte eine koffeinierte, wache Umgebung ernsthafte intellektuelle Debatten besser gefördert haben als eine Wirtschaft?"
+      },
+      "fr": {
+        "title": "Les cafés et les Lumières",
+        "definition": "Les cafés européens sont devenus des lieux de rencontre pour scientifiques, écrivains et marchands, influençant directement des institutions aussi importantes que le Lloyd's de Londres (né dans un café) et les premières bourses.",
+        "why": "Certaines des institutions financières et scientifiques les plus importantes de l'histoire tirent leurs racines de conversations qui ont eu lieu autour d'un café.",
+        "tip": "Recherchez dans quel café spécifique le Lloyd's de Londres a débuté — l'histoire est plus littérale que ce à quoi les gens s'attendent.",
+        "mistake": "Traiter cela comme une coïncidence plutôt que de reconnaître les cafés comme une véritable infrastructure d'échange d'idées.",
+        "challenge": "Pourquoi un environnement caféiné et alerte aurait-il mieux convenu à un débat intellectuel sérieux qu'une taverne ?"
+      },
+      "it": {
+        "title": "Le caffetterie e l'Illuminismo",
+        "definition": "Le caffetterie europee divennero luoghi di incontro per scienziati, scrittori e mercanti, influenzando direttamente istituzioni importanti come Lloyd's of London (nata in una caffetteria) e le prime borse valori.",
+        "why": "Alcune delle istituzioni finanziarie e scientifiche più importanti della storia hanno le loro radici in conversazioni avvenute davanti a un caffè.",
+        "tip": "Cerca in quale specifica caffetteria è iniziata Lloyd's of London — la storia è più letterale di quanto ci si aspetti.",
+        "mistake": "Trattare questo come una coincidenza invece di riconoscere le caffetterie come una vera infrastruttura per lo scambio di idee.",
+        "challenge": "Perché un ambiente stimolato dalla caffeina e vigile potrebbe essersi adattato meglio a un dibattito intellettuale serio rispetto a una taverna?"
       }
     },
     "id": 178
@@ -10786,6 +10882,30 @@
         "tip": "Use essa história para explicar por que o café, e não o chá, se tornou a bebida quente dominante nos Estados Unidos.",
         "mistake": "Supor que o café sempre foi mais popular que o chá nos Estados Unidos; a mudança tem um gatilho político específico.",
         "challenge": "Você consegue pensar em um exemplo moderno em que uma escolha de consumo se tornou uma declaração política da mesma forma?"
+      },
+      "de": {
+        "title": "Der Kaffeewechsel der Boston Tea Party",
+        "definition": "Nach der Boston Tea Party 1773 wurde das Trinken von Kaffee statt Tee für viele amerikanische Kolonisten, die gegen die britische Besteuerung protestierten, zu einem Akt des Patriotismus.",
+        "why": "Es ist ein seltener Fall, in dem sich eine nationale Getränkevorliebe aus ausdrücklich politischen Gründen verschob, statt aus Geschmack oder Verfügbarkeit.",
+        "tip": "Nutze diese Geschichte, um zu erklären, warum Kaffee statt Tee zum dominierenden Heißgetränk in den USA wurde.",
+        "mistake": "Anzunehmen, Kaffee sei in Amerika immer beliebter gewesen als Tee — der Wandel hat einen konkreten politischen Auslöser.",
+        "challenge": "Fällt dir ein modernes Beispiel ein, bei dem eine Konsumentscheidung auf dieselbe Weise zu einer politischen Aussage wurde?"
+      },
+      "fr": {
+        "title": "Le basculement vers le café de la Boston Tea Party",
+        "definition": "Après la Boston Tea Party de 1773, boire du café au lieu du thé est devenu un acte de patriotisme pour de nombreux colons américains protestant contre l'imposition britannique.",
+        "why": "C'est un cas rare où une préférence de consommation nationale a basculé pour des raisons explicitement politiques plutôt que de goût ou de disponibilité.",
+        "tip": "Utilisez cette histoire pour expliquer pourquoi le café, et non le thé, est devenu la boisson chaude dominante aux États-Unis.",
+        "mistake": "Supposer que le café a toujours été plus populaire que le thé en Amérique — le basculement a un déclencheur politique spécifique.",
+        "challenge": "Pouvez-vous penser à un exemple moderne où un choix de consommateur est devenu une déclaration politique de la même façon ?"
+      },
+      "it": {
+        "title": "Lo spostamento al caffè del Boston Tea Party",
+        "definition": "Dopo il Boston Tea Party del 1773, bere caffè invece di tè divenne un atto di patriottismo per molti coloni americani che protestavano contro la tassazione britannica.",
+        "why": "È un raro caso in cui una preferenza di consumo nazionale è cambiata per ragioni esplicitamente politiche piuttosto che di gusto o disponibilità.",
+        "tip": "Usa questa storia per spiegare perché il caffè, non il tè, è diventato la bevanda calda dominante negli Stati Uniti.",
+        "mistake": "Supporre che il caffè sia sempre stato più popolare del tè in America — il cambiamento ha un innesco politico specifico.",
+        "challenge": "Riesci a pensare a un esempio moderno in cui una scelta del consumatore è diventata una dichiarazione politica nello stesso modo?"
       }
     },
     "id": 179
@@ -10822,6 +10942,30 @@
         "tip": "Note que o design de pistão alavancado de Gaggia na década de 1940 é o que realmente criou a crema como a conhecemos hoje.",
         "mistake": "Supor que o espresso sempre teve a aparência e o funcionamento atuais; a versão moderna é uma inovação do século XX.",
         "challenge": "Por que adicionar pressão real mudou o espresso de forma mais fundamental do que qualquer mudança na torra ou moagem?"
+      },
+      "de": {
+        "title": "Die Erfindung der Espressomaschine",
+        "definition": "Italienische Erfinder des frühen 20. Jahrhunderts, darunter Luigi Bezzera und später Achille Gaggia, entwickelten die Druckbrühmethoden, die zum modernen Espresso wurden.",
+        "why": "Diese Geschichte zu verstehen erklärt, warum Espresso durch Druck definiert wird, nicht nur durch feines Mahlen oder dunkles Rösten.",
+        "tip": "Beachte, dass Gaggias Kolbenhebel-Design in den 1940er Jahren tatsächlich die Crema erschuf, wie wir sie heute kennen.",
+        "mistake": "Anzunehmen, Espresso habe schon immer so ausgesehen und funktioniert wie heute — die moderne Version ist eine Innovation des 20. Jahrhunderts.",
+        "challenge": "Warum veränderte das Hinzufügen von echtem Druck Espresso grundlegender, als es jede Veränderung von Röstung oder Mahlgrad je könnte?"
+      },
+      "fr": {
+        "title": "L'invention de la machine à espresso",
+        "definition": "Des inventeurs italiens du début du 20e siècle, dont Luigi Bezzera et plus tard Achille Gaggia, ont développé les méthodes d'infusion sous pression devenues l'espresso moderne.",
+        "why": "Comprendre cette histoire explique pourquoi l'espresso est défini par la pression, pas seulement par une mouture fine ou une torréfaction foncée.",
+        "tip": "Notez que le design à piston-levier de Gaggia dans les années 1940 est ce qui a réellement créé la crema telle que nous la connaissons aujourd'hui.",
+        "mistake": "Supposer que l'espresso a toujours eu l'apparence et le fonctionnement qu'il a maintenant — la version moderne est une innovation du 20e siècle.",
+        "challenge": "Pourquoi l'ajout d'une véritable pression a-t-il changé l'espresso plus fondamentalement qu'aucun changement de torréfaction ou de mouture ne l'a jamais fait ?"
+      },
+      "it": {
+        "title": "L'invenzione della macchina da espresso",
+        "definition": "Inventori italiani dell'inizio del XX secolo, tra cui Luigi Bezzera e successivamente Achille Gaggia, svilupparono i metodi di preparazione pressurizzata che divennero l'espresso moderno.",
+        "why": "Capire questa storia spiega perché l'espresso è definito dalla pressione, non solo dalla macinatura fine o dalla tostatura scura.",
+        "tip": "Nota che il design a leva a pistone di Gaggia negli anni '40 è ciò che ha effettivamente creato la crema come la conosciamo oggi.",
+        "mistake": "Supporre che l'espresso sia sempre stato così com'è ora nell'aspetto e nel funzionamento — la versione moderna è un'innovazione del XX secolo.",
+        "challenge": "Perché aggiungere vera pressione ha cambiato l'espresso più fondamentalmente di quanto abbia mai potuto fare qualsiasi cambiamento di tostatura o macinatura?"
       }
     },
     "id": 180
@@ -10858,6 +11002,30 @@
         "tip": "Considere o papel do café instantâneo em tornar o café acessível em lugares onde a infraestrutura de preparo fresco não chegava.",
         "mistake": "Descartar a história do café instantâneo como irrelevante para a história do café especial; as indústrias estão mais conectadas do que parecem.",
         "challenge": "Por que a logística de guerra pode ter impulsionado um salto tecnológico maior no café do que a demanda em tempos de paz?"
+      },
+      "de": {
+        "title": "Der Aufstieg des Instantkaffees",
+        "definition": "Instantkaffee verzeichnete während des Zweiten Weltkriegs massives Wachstum, als er in Massenproduktion als kompakte, lagerfähige Rationen für Soldaten hergestellt wurde.",
+        "why": "Die Kriegsnachfrage veränderte dauerhaft, wie Kaffee weltweit hergestellt, verpackt und konsumiert wurde.",
+        "tip": "Bedenke die Rolle des Instantkaffees dabei, Kaffee an Orten zugänglich zu machen, die frische Brüh-Infrastruktur nicht erreichte.",
+        "mistake": "Die Geschichte des Instantkaffees als irrelevant für die Geschichte des Specialty Coffee abzutun — die Branchen sind stärker verbunden, als es scheint.",
+        "challenge": "Warum könnte die Kriegslogistik einen größeren Sprung in der Kaffeetechnologie vorangetrieben haben als Friedensnachfrage?"
+      },
+      "fr": {
+        "title": "L'essor du café instantané",
+        "definition": "Le café instantané a connu une croissance massive pendant la Seconde Guerre mondiale, lorsqu'il était produit en masse comme rations compactes et longue conservation pour les soldats.",
+        "why": "La demande en temps de guerre a changé de façon permanente la manière dont le café était fabriqué, emballé et consommé à l'échelle mondiale.",
+        "tip": "Considérez le rôle du café instantané pour rendre le café accessible dans des endroits où l'infrastructure d'infusion fraîche n'atteignait pas.",
+        "mistake": "Écarter l'histoire du café instantané comme non pertinente pour l'histoire du café de spécialité — les industries sont plus liées qu'il n'y paraît.",
+        "challenge": "Pourquoi la logistique de guerre aurait-elle pu entraîner un plus grand bond dans la technologie du café que la demande en temps de paix ?"
+      },
+      "it": {
+        "title": "L'ascesa del caffè istantaneo",
+        "definition": "Il caffè istantaneo vide una crescita massiccia durante la Seconda Guerra Mondiale, quando veniva prodotto in massa come razioni compatte e a lunga conservazione per i soldati.",
+        "why": "La domanda in tempo di guerra ha cambiato permanentemente il modo in cui il caffè veniva prodotto, imballato e consumato su scala globale.",
+        "tip": "Considera il ruolo del caffè istantaneo nel rendere il caffè accessibile in luoghi dove l'infrastruttura di preparazione fresca non arrivava.",
+        "mistake": "Liquidare la storia del caffè istantaneo come irrilevante per la storia del caffè specialty — le industrie sono più collegate di quanto sembri.",
+        "challenge": "Perché la logistica bellica potrebbe aver guidato un salto maggiore nella tecnologia del caffè rispetto alla domanda in tempo di pace?"
       }
     },
     "id": 181
@@ -10894,6 +11062,30 @@
         "tip": "Use a estrutura com flexibilidade; é uma lente útil, não uma linha do tempo rígida com limites fixos.",
         "mistake": "Tratar as ondas como eras sequenciais que se substituíram completamente, em vez de mudanças culturais sobrepostas.",
         "challenge": "Que sinais poderiam sugerir que uma 'quarta onda' já está em andamento?"
+      },
+      "de": {
+        "title": "Die drei Wellen des Kaffees",
+        "definition": "Ein Rahmenmodell, das die Entwicklung des Kaffees beschreibt: erste Welle (Massenverfügbarkeit und Bequemlichkeit), zweite Welle (Cafékultur und Espressogetränke) und dritte Welle (Herkunftstransparenz, Handwerk und Qualitätsfokus).",
+        "why": "Es ist die gängigste Abkürzung, die die Branche verwendet, um zu beschreiben, wie sich Kaffeekultur und Verbrauchererwartungen im Laufe der Zeit verändert haben.",
+        "tip": "Nutze das Rahmenmodell locker — es ist eine nützliche Linse, keine strenge Zeitleiste mit festen Grenzen.",
+        "mistake": "Die Wellen als aufeinanderfolgende Epochen zu behandeln, die sich vollständig ablösten, statt als überlappende kulturelle Verschiebungen.",
+        "challenge": "Welche Anzeichen könnten darauf hindeuten, dass bereits eine 'vierte Welle' im Gange ist?"
+      },
+      "fr": {
+        "title": "Les trois vagues du café",
+        "definition": "Un cadre décrivant l'évolution du café : première vague (disponibilité de masse et commodité), deuxième vague (culture du café et boissons espresso), et troisième vague (transparence de l'origine, artisanat et focus qualité).",
+        "why": "C'est le raccourci le plus courant que l'industrie utilise pour décrire comment la culture du café et les attentes des consommateurs ont évolué au fil du temps.",
+        "tip": "Utilisez le cadre de façon souple — c'est un objectif utile, pas une chronologie stricte avec des limites nettes.",
+        "mistake": "Traiter les vagues comme des ères séquentielles qui se sont entièrement remplacées plutôt que des changements culturels qui se chevauchent.",
+        "challenge": "Quels signes pourraient suggérer qu'une « quatrième vague » est déjà en cours ?"
+      },
+      "it": {
+        "title": "Le tre ondate del caffè",
+        "definition": "Un modello che descrive l'evoluzione del caffè: prima ondata (disponibilità di massa e comodità), seconda ondata (cultura del caffè e bevande espresso), e terza ondata (trasparenza dell'origine, artigianalità e focus sulla qualità).",
+        "why": "È l'abbreviazione più comune che l'industria usa per descrivere come la cultura del caffè e le aspettative dei consumatori sono cambiate nel tempo.",
+        "tip": "Usa il modello in modo flessibile — è una lente utile, non una linea temporale rigida con confini netti.",
+        "mistake": "Trattare le ondate come ere sequenziali che si sono completamente sostituite invece che cambiamenti culturali sovrapposti.",
+        "challenge": "Quali segnali potrebbero suggerire che una 'quarta ondata' sia già in corso?"
       }
     },
     "id": 182
@@ -10931,6 +11123,30 @@
         "tip": "Conecte essa história aos cartões de origem atuais; muitas regiões produtoras importantes remontam a essa onda específica de plantio colonial.",
         "mistake": "Tratar a chegada do café às Américas como uma expansão natural em vez de um projeto colonial deliberado, muitas vezes explorador.",
         "challenge": "Por que entender essa história pode importar para como a indústria fala hoje sobre origem e terroir?"
+      },
+      "de": {
+        "title": "Kaffee erreicht Amerika",
+        "definition": "Der Kaffeeanbau verbreitete sich im 18. Jahrhundert durch niederländische und französische Kolonialplantagen in die Karibik und nach Lateinamerika und legte damit den Grundstein für die heutigen großen Produzentenländer.",
+        "why": "Diese einzelne koloniale Expansion ist der Grund, warum Brasilien, Kolumbien und weite Teile Zentralamerikas Jahrhunderte später zu Kaffeekraftwerken wurden.",
+        "tip": "Verbinde diese Geschichte mit den heutigen Ursprungskarten — viele große Produktionsregionen gehen auf genau diese Welle kolonialer Anpflanzung zurück.",
+        "mistake": "Kaffees Ankunft in Amerika als natürliche Ausbreitung zu behandeln, statt als bewusstes, oft ausbeuterisches koloniales Projekt.",
+        "challenge": "Warum könnte das Verständnis dieser Geschichte wichtig dafür sein, wie die Branche heute über Herkunft und Terroir spricht?"
+      },
+      "fr": {
+        "title": "Le café atteint les Amériques",
+        "definition": "La culture du café s'est répandue dans les Caraïbes et en Amérique latine au 18e siècle par le biais de plantations coloniales néerlandaises et françaises, posant les bases des principaux pays producteurs actuels.",
+        "why": "Cette seule expansion de l'époque coloniale explique pourquoi le Brésil, la Colombie et une grande partie de l'Amérique centrale sont devenus des puissances du café des siècles plus tard.",
+        "tip": "Reliez cette histoire aux cartes d'origine d'aujourd'hui — de nombreuses régions productrices majeures remontent à cette vague spécifique de plantation coloniale.",
+        "mistake": "Traiter l'arrivée du café dans les Amériques comme une propagation naturelle plutôt qu'un projet colonial délibéré, souvent exploiteur.",
+        "challenge": "Pourquoi comprendre cette histoire pourrait-il compter pour la façon dont l'industrie parle d'origine et de terroir aujourd'hui ?"
+      },
+      "it": {
+        "title": "Il caffè raggiunge le Americhe",
+        "definition": "La coltivazione del caffè si diffuse nei Caraibi e in America Latina nel XVIII secolo attraverso piantagioni coloniali olandesi e francesi, gettando le basi per gli attuali principali paesi produttori.",
+        "why": "Questa singola espansione dell'epoca coloniale è il motivo per cui Brasile, Colombia e gran parte dell'America Centrale divennero potenze del caffè secoli dopo.",
+        "tip": "Collega questa storia alle carte di origine di oggi — molte importanti regioni produttrici risalgono proprio a questa ondata di piantagione coloniale.",
+        "mistake": "Trattare l'arrivo del caffè nelle Americhe come una diffusione naturale piuttosto che un progetto coloniale deliberato, spesso sfruttatore.",
+        "challenge": "Perché capire questa storia potrebbe contare per come l'industria parla oggi di origine e terroir?"
       }
     },
     "id": 183
@@ -10967,6 +11183,30 @@
         "tip": "Separe 'onde o café cresceu de forma selvagem' (Etiópia) de 'onde foi primeiro cultivado e preparado deliberadamente' (Iêmen); são afirmações distintas.",
         "mistake": "Tratar Etiópia e Iêmen como intercambiáveis na história de origem do café em vez de duas etapas distintas.",
         "challenge": "Por que uma prática religiosa, em vez de comércio ou agricultura, pode ter sido o primeiro impulsor do cultivo deliberado de café?"
+      },
+      "de": {
+        "title": "Jemen und der erste angebaute Kaffee",
+        "definition": "Während Kaffee wahrscheinlich wild in Äthiopien entstand, waren es sufische Klöster im Jemen des 15. Jahrhunderts, die ihn erstmals bewusst anbauten und brühten, um während langer Gebetsnächte wach zu bleiben.",
+        "why": "Dies ist der tatsächliche historische Ausgangspunkt für Kaffee als angebautes, gebrühtes Getränk, getrennt von den früheren äthiopischen Legenden über seine Entdeckung.",
+        "tip": "Trenne 'wo Kaffee wild wuchs' (Äthiopien) von 'wo Kaffee erstmals bewusst angebaut und gebrüht wurde' (Jemen) — es sind unterschiedliche Behauptungen.",
+        "mistake": "Äthiopien und Jemen in der Ursprungsgeschichte des Kaffees austauschbar zu behandeln, statt als zwei getrennte Stufen.",
+        "challenge": "Warum könnte eine religiöse Praxis, statt Handel oder Landwirtschaft, der erste Antrieb für den bewussten Kaffeeanbau gewesen sein?"
+      },
+      "fr": {
+        "title": "Le Yémen et le premier café cultivé",
+        "definition": "Bien que le café soit probablement né à l'état sauvage en Éthiopie, ce sont des monastères soufis du Yémen du 15e siècle qui l'ont pour la première fois délibérément cultivé et infusé, l'utilisant pour rester alertes pendant de longues nuits de prière.",
+        "why": "C'est le véritable point de départ historique du café comme boisson cultivée et infusée, distinct des légendes éthiopiennes antérieures sur sa découverte.",
+        "tip": "Séparez « où le café poussait à l'état sauvage » (Éthiopie) de « où le café a d'abord été délibérément cultivé et infusé » (Yémen) — ce sont des affirmations différentes.",
+        "mistake": "Traiter l'Éthiopie et le Yémen comme interchangeables dans l'histoire d'origine du café plutôt que deux étapes distinctes.",
+        "challenge": "Pourquoi une pratique religieuse, plutôt que le commerce ou l'agriculture, aurait-elle pu être le premier moteur de la culture délibérée du café ?"
+      },
+      "it": {
+        "title": "Lo Yemen e il primo caffè coltivato",
+        "definition": "Sebbene il caffè sia probabilmente nato allo stato selvatico in Etiopia, furono i monasteri sufi nello Yemen del XV secolo a coltivarlo e prepararlo deliberatamente per la prima volta, usandolo per restare vigili durante le lunghe notti di preghiera.",
+        "why": "Questo è il vero punto di partenza storico per il caffè come bevanda coltivata e preparata, distinto dalle precedenti leggende etiopi sulla sua scoperta.",
+        "tip": "Separa 'dove il caffè cresceva selvatico' (Etiopia) da 'dove il caffè fu per primo coltivato e preparato deliberatamente' (Yemen) — sono affermazioni diverse.",
+        "mistake": "Trattare Etiopia e Yemen come intercambiabili nella storia delle origini del caffè invece che due fasi distinte.",
+        "challenge": "Perché una pratica religiosa, piuttosto che commercio o agricoltura, potrebbe essere stata il primo motore della coltivazione deliberata del caffè?"
       }
     },
     "id": 184
@@ -11003,6 +11243,30 @@
         "tip": "Note com que frequência as proibições visavam especificamente as cafeterias, não a bebida em si; o encontro era a verdadeira preocupação.",
         "mistake": "Supor que a expansão do café sempre foi tranquila e bem-vinda, em vez de politicamente contestada em vários momentos.",
         "challenge": "Por que um governante temeria mais uma cafeteria do que uma taverna que serve álcool?"
+      },
+      "de": {
+        "title": "Kaffeeverbot und frühe Bannungen",
+        "definition": "Kaffee wurde zu verschiedenen Zeitpunkten verboten: 1511 in Mekka, in Teilen des Osmanischen Reichs und wiederholt im Schweden des 18. Jahrhunderts, oft aus Angst, er fördere politischen Widerstand oder stelle religiöse Autorität infrage.",
+        "why": "Es ist eine eindringliche Erinnerung daran, dass Kaffeehäuser von den Behörden ihrer Zeit als genuin disruptive Institutionen wahrgenommen wurden, nicht als harmlose soziale Orte.",
+        "tip": "Beachte, wie oft Verbote sich speziell gegen Kaffeehäuser richteten, nicht gegen das Getränk Kaffee selbst — die Versammlung war das eigentliche Anliegen.",
+        "mistake": "Anzunehmen, die Verbreitung des Kaffees sei immer reibungslos und willkommen verlaufen, statt an mehreren Stellen politisch umkämpft.",
+        "challenge": "Warum würde ein Herrscher ein Kaffeehaus mehr fürchten als eine Wirtschaft, die Alkohol ausschenkt?"
+      },
+      "fr": {
+        "title": "Prohibition du café et interdictions précoces",
+        "definition": "Le café a été interdit à divers moments à La Mecque en 1511, dans des parties de l'Empire ottoman, et à plusieurs reprises dans la Suède du 18e siècle, souvent par crainte qu'il encourage la dissidence politique ou défie l'autorité religieuse.",
+        "why": "C'est un rappel frappant que les cafés étaient perçus comme des institutions véritablement perturbatrices, pas des espaces sociaux inoffensifs, par les autorités de leur époque.",
+        "tip": "Remarquez à quel point les interdictions ciblaient spécifiquement les cafés, pas le café lui-même comme boisson — le rassemblement était la vraie préoccupation.",
+        "mistake": "Supposer que la propagation du café a toujours été fluide et bien accueillie plutôt que politiquement contestée à plusieurs reprises.",
+        "challenge": "Pourquoi un dirigeant craindrait-il davantage un café qu'une taverne servant de l'alcool ?"
+      },
+      "it": {
+        "title": "Proibizione del caffè e divieti precoci",
+        "definition": "Il caffè fu vietato in vari momenti alla Mecca nel 1511, in parti dell'Impero Ottomano, e ripetutamente nella Svezia del XVIII secolo, spesso per timore che incoraggiasse il dissenso politico o sfidasse l'autorità religiosa.",
+        "why": "È un promemoria sorprendente che le caffetterie erano viste come istituzioni genuinamente dirompenti, non spazi sociali innocui, dalle autorità del loro tempo.",
+        "tip": "Nota quanto spesso i divieti prendessero di mira specificamente le caffetterie, non il caffè come bevanda in sé — il ritrovo era la vera preoccupazione.",
+        "mistake": "Supporre che la diffusione del caffè sia sempre stata fluida e ben accolta piuttosto che politicamente contestata in più punti.",
+        "challenge": "Perché un governante temerebbe una caffetteria più di una taverna che serve alcolici?"
       }
     },
     "id": 185
@@ -11039,6 +11303,30 @@
         "tip": "Conecte isso diretamente ao café de origem atual da Ásia-Pacífico; o cultivo colonial holandês é a razão pela qual a Indonésia se tornou uma importante região cafeeira.",
         "mistake": "Supor que o cultivo de café se espalhou globalmente por comércio e acordos em vez de, em grande parte, apropriação colonial.",
         "challenge": "Por que controlar a própria planta, não apenas o comércio dos grãos, teria sido tão importante estrategicamente?"
+      },
+      "de": {
+        "title": "Der niederländische Kaffeepflanzenschmuggel",
+        "definition": "Ende des 17. Jahrhunderts erwarben die Niederländer Kaffeepflanzen aus dem Jemen und kultivierten sie erfolgreich in Gewächshäusern und Kolonien, wodurch sie das jahrhundertelange arabische Monopol auf den Kaffeeanbau brachen.",
+        "why": "Dieser einzelne Akt des Pflanzenschmuggels ist der Grund, warum sich der Kaffeeanbau schließlich über niederländisches Kolonialgebiet auf Java und darüber hinaus ausbreitete und veränderte, wer den globalen Kaffeehandel kontrollierte.",
+        "tip": "Verbinde dies direkt mit heutigem Kaffee aus Asien-Pazifik — niederländischer Kolonialanbau ist der Grund, warum Indonesien zu einer bedeutenden Kaffeeanbauregion wurde.",
+        "mistake": "Anzunehmen, der Kaffeeanbau habe sich global durch Handel und Vereinbarungen verbreitet, statt größtenteils durch koloniale Aneignung.",
+        "challenge": "Warum wäre die Kontrolle über die Pflanze selbst, nicht nur über den Bohnenhandel, strategisch so bedeutsam gewesen?"
+      },
+      "fr": {
+        "title": "La contrebande néerlandaise de plants de café",
+        "definition": "À la fin des années 1600, les Néerlandais ont obtenu des plants de café du Yémen et les ont cultivés avec succès dans des serres et des colonies, brisant le monopole arabe séculaire sur la culture du café.",
+        "why": "Ce seul acte de contrebande de plantes explique pourquoi la culture du café s'est finalement répandue sur le territoire colonial néerlandais à Java et au-delà, remodelant qui contrôlait le commerce mondial du café.",
+        "tip": "Reliez cela directement au café d'origine Asie-Pacifique d'aujourd'hui — la culture coloniale néerlandaise explique pourquoi l'Indonésie est devenue une importante région de culture du café.",
+        "mistake": "Supposer que la culture du café s'est répandue mondialement par le commerce et l'accord plutôt que largement par l'appropriation coloniale.",
+        "challenge": "Pourquoi contrôler la plante elle-même, pas seulement le commerce des grains, aurait-il compté autant stratégiquement ?"
+      },
+      "it": {
+        "title": "Il contrabbando olandese di piante di caffè",
+        "definition": "Alla fine del 1600, gli olandesi ottennero piante di caffè dallo Yemen e le coltivarono con successo in serre e colonie, rompendo il secolare monopolio arabo sulla coltivazione del caffè.",
+        "why": "Questo singolo atto di contrabbando di piante è il motivo per cui la coltivazione del caffè si diffuse infine nel territorio coloniale olandese a Giava e oltre, rimodellando chi controllava il commercio globale del caffè.",
+        "tip": "Collega questo direttamente al caffè di origine Asia-Pacifico di oggi — la coltivazione coloniale olandese è il motivo per cui l'Indonesia divenne un'importante regione di coltivazione del caffè.",
+        "mistake": "Supporre che la coltivazione del caffè si sia diffusa globalmente attraverso commercio e accordi piuttosto che in gran parte attraverso l'appropriazione coloniale.",
+        "challenge": "Perché controllare la pianta stessa, non solo il commercio dei chicchi, sarebbe stato così strategicamente importante?"
       }
     },
     "id": 186
@@ -11075,6 +11363,30 @@
         "tip": "Trate isso da mesma forma que a lenda de Kaldi: uma história fundadora colorida que vale a pena conhecer, não um registro histórico totalmente verificado.",
         "mistake": "Apresentar a história de Palheta como fato confirmado em vez de uma história amplamente repetida (e apenas parcialmente verificável).",
         "challenge": "Por que histórias de origem como essa tendem a sobreviver e se espalhar mesmo quando historiadores não conseguem confirmar todos os detalhes?"
+      },
+      "de": {
+        "title": "Brasiliens Gründungslegende des Kaffees",
+        "definition": "Eine populäre Geschichte schreibt Francisco de Melo Palheta zu, 1727 Kaffeesetzlinge aus Französisch-Guayana nach Brasilien geschmuggelt zu haben, angeblich versteckt in einem Abschiedsstrauß von der Frau eines Gouverneurs.",
+        "why": "Ob völlig genau oder teilweise ausgeschmückt, diese Geschichte markiert den traditionellen Ausgangspunkt für Brasiliens Aufstieg zum größten Kaffeeproduzenten der Welt.",
+        "tip": "Behandle dies genauso wie die Kaldi-Legende — eine farbenfrohe Gründungsgeschichte, die es wert ist, gekannt zu werden, aber kein vollständig verifizierter historischer Bericht.",
+        "mistake": "Die Palheta-Geschichte als bestätigte Tatsache darzustellen, statt als weithin wiederholte (und nur teilweise verifizierbare) Ursprungserzählung.",
+        "challenge": "Warum überdauern und verbreiten sich Ursprungsgeschichten wie diese oft, selbst wenn Historiker die Details nicht vollständig bestätigen können?"
+      },
+      "fr": {
+        "title": "La légende fondatrice du café brésilien",
+        "definition": "Une histoire populaire crédite Francisco de Melo Palheta d'avoir fait passer en contrebande des plants de café hors de la Guyane française vers le Brésil en 1727, prétendument cachés dans un bouquet d'adieu offert par la femme d'un gouverneur.",
+        "why": "Qu'elle soit entièrement exacte ou partiellement enjolivée, cette histoire marque le point de départ traditionnel de l'ascension du Brésil au rang de plus grand producteur de café au monde.",
+        "tip": "Traitez cela de la même façon que la légende de Kaldi — une histoire fondatrice colorée qui mérite d'être connue, pas un dossier historique entièrement vérifié.",
+        "mistake": "Présenter l'histoire de Palheta comme un fait confirmé plutôt qu'un récit d'origine largement répété (et seulement partiellement vérifiable).",
+        "challenge": "Pourquoi des histoires d'origine comme celle-ci ont-elles tendance à survivre et se propager même quand les historiens ne peuvent pas entièrement confirmer les détails ?"
+      },
+      "it": {
+        "title": "La leggenda fondativa del caffè brasiliano",
+        "definition": "Una storia popolare attribuisce a Francisco de Melo Palheta il contrabbando di piantine di caffè dalla Guyana Francese al Brasile nel 1727, presumibilmente nascoste in un bouquet d'addio offerto dalla moglie di un governatore.",
+        "why": "Che sia interamente accurata o parzialmente abbellita, questa storia segna il punto di partenza tradizionale dell'ascesa del Brasile a diventare il più grande produttore di caffè al mondo.",
+        "tip": "Tratta questo allo stesso modo della leggenda di Kaldi — una colorata storia fondativa che vale la pena conoscere, non un resoconto storico interamente verificato.",
+        "mistake": "Presentare la storia di Palheta come un fatto confermato piuttosto che un racconto delle origini ampiamente ripetuto (e solo parzialmente verificabile).",
+        "challenge": "Perché storie delle origini come questa tendono a sopravvivere e diffondersi anche quando gli storici non possono confermare completamente i dettagli?"
       }
     },
     "id": 187
@@ -11111,6 +11423,30 @@
         "tip": "Trate isso como contexto histórico necessário, não como uma nota de rodapé; moldou os fundamentos da indústria em que este baralho se baseia.",
         "mistake": "Falar da expansão colonial do café apenas em termos de rotas comerciais e genética das plantas, deixando de fora o custo humano.",
         "challenge": "Como essa história pode se conectar às conversas modernas sobre preços justos e condições de trabalho nas regiões cafeeiras?"
+      },
+      "de": {
+        "title": "Kolonialplantagen und Zwangsarbeit",
+        "definition": "Ein Großteil der kolonialzeitlichen Expansion des Kaffees in die Karibik und nach Amerika beruhte auf versklavter und erzwungener Arbeit auf Plantagen, ein Erbe, das die wirtschaftliche und soziale Struktur großer Kaffeeanbauregionen über Generationen prägte.",
+        "why": "Diese Geschichte zu verstehen ist essenzieller Kontext dafür, warum sich Kaffeeanbauregionen so entwickelten, wie sie es taten, und warum faire Arbeitspraktiken heute ein zentrales Anliegen der Branche bleiben.",
+        "tip": "Behandle dies als notwendigen historischen Kontext, nicht als Fußnote — es prägte die Grundlagen der Branche, um die sich dieses Deck dreht.",
+        "mistake": "Die koloniale Expansion des Kaffees rein in Bezug auf Handelsrouten und Pflanzengenetik zu diskutieren, während die menschlichen Kosten ausgelassen werden.",
+        "challenge": "Wie könnte diese Geschichte mit modernen Gesprächen über faire Preise und Arbeitsbedingungen in Kaffeeanbauregionen zusammenhängen?"
+      },
+      "fr": {
+        "title": "Plantations coloniales et travail forcé",
+        "definition": "Une grande partie de l'expansion du café à l'époque coloniale dans les Caraïbes et les Amériques reposait sur le travail esclave et forcé dans les plantations, un héritage qui a façonné la structure économique et sociale des principales régions productrices de café pendant des générations.",
+        "why": "Comprendre cette histoire est un contexte essentiel pour expliquer pourquoi les régions productrices de café se sont développées de la façon dont elles l'ont fait, et pourquoi des pratiques de travail équitables restent une préoccupation centrale de l'industrie aujourd'hui.",
+        "tip": "Traitez cela comme un contexte historique nécessaire, pas une note de bas de page — cela a façonné les fondations de l'industrie autour de laquelle ce jeu est construit.",
+        "mistake": "Discuter de l'expansion coloniale du café uniquement en termes de routes commerciales et de génétique des plantes en omettant le coût humain.",
+        "challenge": "Comment cette histoire pourrait-elle se rattacher aux conversations modernes sur les prix équitables et les conditions de travail dans les régions productrices de café ?"
+      },
+      "it": {
+        "title": "Piantagioni coloniali e lavoro forzato",
+        "definition": "Gran parte dell'espansione del caffè nell'epoca coloniale nei Caraibi e nelle Americhe si basava su lavoro schiavizzato e forzato nelle piantagioni, un'eredità che ha plasmato la struttura economica e sociale delle principali regioni di coltivazione del caffè per generazioni.",
+        "why": "Capire questa storia è un contesto essenziale per capire perché le regioni di coltivazione del caffè si sono sviluppate nel modo in cui l'hanno fatto, e perché pratiche lavorative eque rimangono una preoccupazione centrale dell'industria oggi.",
+        "tip": "Tratta questo come un contesto storico necessario, non una nota a piè di pagina — ha plasmato le fondamenta dell'industria attorno a cui è costruito questo mazzo.",
+        "mistake": "Discutere l'espansione coloniale del caffè solo in termini di rotte commerciali e genetica delle piante omettendo il costo umano.",
+        "challenge": "Come potrebbe questa storia collegarsi alle conversazioni moderne su prezzi equi e condizioni di lavoro nelle regioni di coltivazione del caffè?"
       }
     },
     "id": 188
@@ -11147,6 +11483,30 @@
         "tip": "Use o Café Procope como uma âncora concreta ao explicar o papel mais amplo das cafeterias no Iluminismo.",
         "mistake": "Tratar as conexões entre cafeterias e revolução como generalizações vagas em vez de apontar locais específicos e documentados como este.",
         "challenge": "Por que uma cafeteria, em vez de uma casa particular, pode ter sido um lugar mais seguro ou eficaz para a circulação de ideias revolucionárias?"
+      },
+      "de": {
+        "title": "Café Procope und das revolutionäre Paris",
+        "definition": "1686 in Paris eröffnet, wurde das Café Procope zum regelmäßigen Treffpunkt für Denker der Aufklärung und später für Figuren, die mit der Französischen Revolution verbunden waren.",
+        "why": "Es ist eines der klarsten Beispiele für ein konkretes, benanntes Kaffeehaus, das direkt mit bedeutender politischer und intellektueller Geschichte verknüpft ist, nicht nur eine symbolische Assoziation.",
+        "tip": "Nutze das Café Procope als konkreten Ankerpunkt, wenn du die breitere Rolle der Kaffeehäuser in der Aufklärung erklärst.",
+        "mistake": "Verbindungen zwischen Kaffeehäusern und Revolution als vage Verallgemeinerungen zu behandeln, statt auf konkrete, dokumentierte Orte wie diesen hinzuweisen.",
+        "challenge": "Warum könnte ein Kaffeehaus, statt eines Privathauses, ein sichererer oder effektiverer Ort dafür gewesen sein, dass revolutionäre Ideen zirkulieren?"
+      },
+      "fr": {
+        "title": "Le Café Procope et le Paris révolutionnaire",
+        "definition": "Ouvert à Paris en 1686, le Café Procope est devenu un lieu de rencontre régulier pour les penseurs des Lumières et, plus tard, des figures associées à la Révolution française.",
+        "why": "C'est l'un des exemples les plus clairs d'un café spécifique et nommé directement lié à une histoire politique et intellectuelle majeure, pas seulement une association symbolique.",
+        "tip": "Utilisez le Café Procope comme ancrage concret pour expliquer le rôle plus large des cafés dans les Lumières.",
+        "mistake": "Traiter les liens entre café et révolution comme des généralisations vagues plutôt que de pointer vers des lieux spécifiques et documentés comme celui-ci.",
+        "challenge": "Pourquoi un café, plutôt qu'une maison privée, aurait-il pu être un lieu plus sûr ou plus efficace pour la circulation d'idées révolutionnaires ?"
+      },
+      "it": {
+        "title": "Il Café Procope e la Parigi rivoluzionaria",
+        "definition": "Aperto a Parigi nel 1686, il Café Procope divenne un luogo di incontro regolare per i pensatori dell'Illuminismo e, in seguito, per figure associate alla Rivoluzione Francese.",
+        "why": "È uno degli esempi più chiari di una specifica caffetteria, con nome proprio, direttamente collegata a un'importante storia politica e intellettuale, non solo un'associazione simbolica.",
+        "tip": "Usa il Café Procope come ancora concreta quando spieghi il ruolo più ampio delle caffetterie nell'Illuminismo.",
+        "mistake": "Trattare i collegamenti tra caffetterie e rivoluzione come generalizzazioni vaghe invece di indicare luoghi specifici e documentati come questo.",
+        "challenge": "Perché una caffetteria, piuttosto che una casa privata, potrebbe essere stata un luogo più sicuro o più efficace per la circolazione di idee rivoluzionarie?"
       }
     },
     "id": 189
@@ -11183,6 +11543,30 @@
         "tip": "Combine este cartão com a história da Lloyd's of London para mostrar o mesmo padrão se repetindo em ambos os lados do Atlântico.",
         "mistake": "Supor que esse tipo de transição de cafeteria para instituição foi exclusivo de Londres em vez de um padrão mais amplo.",
         "challenge": "Por que os comerciantes podem ter preferido se reunir em uma cafeteria em vez de um escritório formal ao fechar os primeiros acordos comerciais?"
+      },
+      "de": {
+        "title": "Das Tontine Coffee House und die Wall Street",
+        "definition": "New Yorks Tontine Coffee House, 1793 eröffnet, diente als früher Handelsort für Kaufleute und Börsenmakler und spielte eine Rolle in den Ursprüngen dessen, was zur New Yorker Börse wurde.",
+        "why": "Es ist das amerikanische Gegenstück zu Lloyd's of London — ein weiterer Fall, in dem ein Kaffeehaus als echte Finanzinfrastruktur fungierte, nicht nur als sozialer Ort.",
+        "tip": "Kombiniere diese Karte mit der Lloyd's-of-London-Geschichte, um zu zeigen, dass sich das Muster auf beiden Seiten des Atlantiks wiederholte.",
+        "mistake": "Anzunehmen, diese Art von Übergang vom Kaffeehaus zur Institution sei einzigartig für London gewesen, statt ein breiteres Muster.",
+        "challenge": "Warum könnten Kaufleute es vorgezogen haben, sich in einem Kaffeehaus statt in einem formellen Büro zu treffen, um frühe Handelsvereinbarungen auszuhandeln?"
+      },
+      "fr": {
+        "title": "Le Tontine Coffee House et Wall Street",
+        "definition": "Le Tontine Coffee House de New York, ouvert en 1793, a servi de premier lieu de négoce pour marchands et courtiers, jouant un rôle dans les origines de ce qui est devenu la Bourse de New York.",
+        "why": "C'est le parallèle américain du Lloyd's de Londres — un autre cas où un café a fonctionné comme une véritable infrastructure financière, pas seulement un lieu social.",
+        "tip": "Associez cette carte à l'histoire du Lloyd's de Londres pour montrer que le schéma s'est répété des deux côtés de l'Atlantique.",
+        "mistake": "Supposer que ce type de passage de café à institution était unique à Londres plutôt qu'un schéma plus large.",
+        "challenge": "Pourquoi des marchands auraient-ils pu préférer se rencontrer dans un café plutôt que dans un bureau formel pour négocier les premiers accords commerciaux ?"
+      },
+      "it": {
+        "title": "Il Tontine Coffee House e Wall Street",
+        "definition": "Il Tontine Coffee House di New York, aperto nel 1793, servì come primo luogo di scambio per mercanti e agenti di borsa, giocando un ruolo nelle origini di ciò che divenne la Borsa di New York.",
+        "why": "È il parallelo americano di Lloyd's of London — un altro caso in cui una caffetteria funzionò come vera infrastruttura finanziaria, non solo un luogo sociale.",
+        "tip": "Abbina questa carta alla storia di Lloyd's of London per mostrare che lo schema si è ripetuto su entrambi i lati dell'Atlantico.",
+        "mistake": "Supporre che questo tipo di passaggio da caffetteria a istituzione fosse unico a Londra invece che uno schema più ampio.",
+        "challenge": "Perché i mercanti potrebbero aver preferito incontrarsi in una caffetteria piuttosto che in un ufficio formale per negoziare i primi accordi commerciali?"
       }
     },
     "id": 190
@@ -11219,6 +11603,30 @@
         "tip": "Use isso como um exemplo divertido e concreto ao explicar quão normalizado o consumo de café havia se tornado na Europa nessa época.",
         "mistake": "Supor que a importância cultural do café na Europa só é inferida de registros comerciais, em vez de aparecer diretamente na arte e no entretenimento.",
         "challenge": "O que isso sugere sobre o lugar do café na sociedade, o fato de um grande compositor tê-lo escolhido como tema cômico?"
+      },
+      "de": {
+        "title": "Die Kaffeekantate",
+        "definition": "1735 schrieb der Komponist Johann Sebastian Bach eine komische Kurzoper, bekannt als 'Kaffeekantate', die sich über die Kaffeebesessenheit einer jungen Frau gegen den Willen ihres Vaters lustig macht.",
+        "why": "Es ist echter kultureller Beleg dafür, wie tief Kaffee sich bis zum frühen 18. Jahrhundert in das europäische Alltagsleben eingebettet hatte, genug, um zum Thema einer Komödie zu werden.",
+        "tip": "Nutze dies als unterhaltsames, konkretes Beispiel, wenn du erklärst, wie normalisiert Kaffeetrinken in Europa zu dieser Zeit geworden war.",
+        "mistake": "Anzunehmen, die kulturelle Bedeutung des Kaffees in Europa lasse sich nur aus Handelsaufzeichnungen ableiten, statt direkt in Kunst und Unterhaltung sichtbar zu werden.",
+        "challenge": "Was deutet es über den Stellenwert des Kaffees in der Gesellschaft an, dass ein bedeutender Komponist ihn als komödiantisches Thema wählte?"
+      },
+      "fr": {
+        "title": "La Cantate du café",
+        "definition": "En 1735, le compositeur Johann Sebastian Bach a écrit un opéra comique court connu sous le nom de « Cantate du café », se moquant de l'obsession d'une jeune femme pour le café contre la volonté de son père.",
+        "why": "C'est une preuve culturelle authentique de la profondeur avec laquelle le café s'était ancré dans la vie quotidienne européenne au début du 18e siècle, au point de devenir un sujet de comédie.",
+        "tip": "Utilisez cela comme un exemple amusant et concret en expliquant à quel point la consommation de café était devenue normalisée en Europe à cette époque.",
+        "mistake": "Supposer que l'importance culturelle du café en Europe ne se déduit que des registres commerciaux plutôt qu'apparaissant directement dans l'art et le divertissement.",
+        "challenge": "Que suggère le fait qu'un grand compositeur ait choisi le café comme sujet comique sur sa place dans la société ?"
+      },
+      "it": {
+        "title": "La Cantata del caffè",
+        "definition": "Nel 1735, il compositore Johann Sebastian Bach scrisse una breve opera comica nota come 'Cantata del caffè', prendendo in giro l'ossessione di una giovane donna per il caffè contro la volontà del padre.",
+        "why": "È una prova culturale autentica di quanto profondamente il caffè si fosse radicato nella vita quotidiana europea all'inizio del XVIII secolo, abbastanza da diventare soggetto di commedia.",
+        "tip": "Usa questo come esempio divertente e concreto quando spieghi quanto fosse diventato normalizzato bere caffè in Europa in questo periodo.",
+        "mistake": "Supporre che il significato culturale del caffè in Europa sia dedotto solo dai registri commerciali piuttosto che apparire direttamente nell'arte e nell'intrattenimento.",
+        "challenge": "Cosa suggerisce sul posto del caffè nella società il fatto che un importante compositore lo abbia scelto come soggetto comico?"
       }
     },
     "id": 191
@@ -11255,6 +11663,30 @@
         "tip": "Conecte essa epidemia histórica diretamente à importância atual de variedades resistentes a doenças, como a Castillo.",
         "mistake": "Tratar a ferrugem apenas como um desafio moderno em vez de uma doença com histórico documentado de redefinir indústrias inteiras.",
         "challenge": "Por que uma única doença de planta pode ter tido um efeito tão desproporcional na direção agrícola de um país inteiro?"
+      },
+      "de": {
+        "title": "Die Ceylon-Kaffeerost-Epidemie",
+        "definition": "Ein verheerender Ausbruch des Kaffeeblattrosts in Ceylon (dem heutigen Sri Lanka) in den 1870er Jahren zerstörte einen Großteil der Kaffeeindustrie der Insel und veranlasste viele Pflanzer, stattdessen auf Tee umzusteigen.",
+        "why": "Dieser einzelne Krankheitsausbruch prägte die landwirtschaftliche Identität Ceylons dauerhaft neu und ist ein Grund dafür, warum die Insel weltweit für Tee statt für Kaffee bekannt wurde.",
+        "tip": "Verbinde diese historische Epidemie direkt damit, warum krankheitsresistente Sorten wie Castillo heute so wichtig sind.",
+        "mistake": "Blattrost nur als moderne Herausforderung zu behandeln, statt als Krankheit mit einer dokumentierten Geschichte, ganze Branchen umzugestalten.",
+        "challenge": "Warum könnte eine einzige Pflanzenkrankheit eine so überproportionale Wirkung auf die landwirtschaftliche Ausrichtung eines ganzen Landes gehabt haben?"
+      },
+      "fr": {
+        "title": "L'épidémie de rouille du café à Ceylan",
+        "definition": "Une épidémie dévastatrice de rouille du caféier à Ceylan (le Sri Lanka moderne) dans les années 1870 a détruit une grande partie de l'industrie caféière de l'île, poussant de nombreux planteurs à se tourner vers le thé à la place.",
+        "why": "Cette seule épidémie de maladie a remodelé de façon permanente l'identité agricole de Ceylan et explique en partie pourquoi l'île est devenue mondialement connue pour le thé plutôt que le café.",
+        "tip": "Reliez directement cette épidémie historique à l'importance actuelle des cultivars résistants aux maladies comme le Castillo.",
+        "mistake": "Traiter la rouille du feuillage comme seulement un défi moderne plutôt qu'une maladie avec un historique documenté de remodelage d'industries entières.",
+        "challenge": "Pourquoi une seule maladie de plante aurait-elle pu avoir un effet aussi disproportionné sur l'orientation agricole d'un pays entier ?"
+      },
+      "it": {
+        "title": "L'epidemia di ruggine del caffè a Ceylon",
+        "definition": "Un devastante focolaio di ruggine delle foglie del caffè a Ceylon (l'odierno Sri Lanka) negli anni 1870 distrusse gran parte dell'industria caffearia dell'isola, spingendo molti coltivatori a passare al tè.",
+        "why": "Questo singolo focolaio di malattia ha rimodellato permanentemente l'identità agricola di Ceylon ed è parte del motivo per cui l'isola divenne globalmente nota per il tè piuttosto che per il caffè.",
+        "tip": "Collega questa epidemia storica direttamente al motivo per cui cultivar resistenti alle malattie come Castillo contano così tanto oggi.",
+        "mistake": "Trattare la ruggine delle foglie solo come una sfida moderna piuttosto che una malattia con una storia documentata di rimodellamento di intere industrie.",
+        "challenge": "Perché una singola malattia della pianta potrebbe aver avuto un effetto così sproporzionato sull'intero orientamento agricolo di un paese?"
       }
     },
     "id": 192
@@ -11291,6 +11723,30 @@
         "tip": "Observe o que tornou a versão vienense distinta: longas permanências, jornais e uma etiqueta particular sobre demorar-se com uma única xícara.",
         "mistake": "Agrupar todas as tradições europeias de cafeteria em vez de reconhecer que Viena desenvolveu seu próprio caráter particular.",
         "challenge": "Por que uma tradição de cafeteria, em vez de um único prato ou prédio, poderia se qualificar para reconhecimento como patrimônio cultural?"
+      },
+      "de": {
+        "title": "Wiens Kaffeehaustradition",
+        "definition": "Die Wiener Kaffeehauskultur entwickelte ab dem späten 17. Jahrhundert eine eigene, unverwechselbare Identität und wurde schließlich in die Liste des immateriellen Kulturerbes der UNESCO aufgenommen.",
+        "why": "Es ist ein seltener Fall, in dem eine Kaffeehaustradition selbst, nicht nur ein bestimmtes Gebäude oder eine Brühmethode, formelle kulturelle Anerkennung als Erbe erhält.",
+        "tip": "Beachte, was Wiens Version unverwechselbar machte — lange Aufenthalte, Zeitungen und eine bestimmte Etikette rund um das Verweilen bei einer Tasse.",
+        "mistake": "Alle europäischen Kaffeehaustraditionen in einen Topf zu werfen, statt zu erkennen, dass Wien seinen eigenen besonderen Charakter entwickelte.",
+        "challenge": "Warum könnte eine Kaffeehaustradition, statt eines einzelnen Gerichts oder Gebäudes, für die Anerkennung als Kulturerbe infrage kommen?"
+      },
+      "fr": {
+        "title": "La tradition des cafés viennois",
+        "definition": "La culture des cafés viennois a développé sa propre identité distincte à partir de la fin du 17e siècle, obtenant finalement une reconnaissance sur la liste du patrimoine culturel immatériel de l'UNESCO.",
+        "why": "C'est un cas rare où une tradition de café en elle-même, pas seulement un bâtiment ou une méthode d'infusion spécifique, reçoit une reconnaissance formelle de patrimoine culturel.",
+        "tip": "Notez ce qui rendait la version viennoise distincte — de longs séjours, des journaux, et une étiquette particulière autour du fait de s'attarder sur une tasse.",
+        "mistake": "Regrouper toutes les traditions de café européennes ensemble plutôt que de reconnaître que Vienne a développé son propre caractère particulier.",
+        "challenge": "Pourquoi une tradition de café, plutôt qu'un plat unique ou un bâtiment, pourrait-elle se qualifier pour une reconnaissance de patrimoine culturel ?"
+      },
+      "it": {
+        "title": "La tradizione delle caffetterie viennesi",
+        "definition": "La cultura delle caffetterie viennesi sviluppò una propria identità distinta a partire dalla fine del XVII secolo, ottenendo infine il riconoscimento nella lista del patrimonio culturale immateriale dell'UNESCO.",
+        "why": "È un caso raro in cui una tradizione di caffetteria in sé, non solo un edificio specifico o un metodo di preparazione, riceve un riconoscimento formale di patrimonio culturale.",
+        "tip": "Nota cosa rendeva distinta la versione viennese — lunghe permanenze, giornali e un'etichetta particolare attorno al soffermarsi su una tazza.",
+        "mistake": "Raggruppare tutte le tradizioni di caffetteria europee insieme invece di riconoscere che Vienna ha sviluppato il proprio carattere particolare.",
+        "challenge": "Perché una tradizione di caffetteria, piuttosto che un singolo piatto o edificio, potrebbe qualificarsi per il riconoscimento come patrimonio culturale?"
       }
     },
     "id": 193
@@ -11327,6 +11783,30 @@
         "tip": "Use isso como a história concreta em nível de empresa por trás da estrutura mais abstrata da 'segunda onda'.",
         "mistake": "Tratar a Starbucks como algo separado da estrutura das ondas em vez de seu exemplo mais visível e definidor.",
         "challenge": "Por que escalar uma experiência de cafeteria globalmente pode exigir decisões diferentes das de administrar um único e ótimo café independente?"
+      },
+      "de": {
+        "title": "Die Gründung von Starbucks",
+        "definition": "Starbucks eröffnete 1971 sein erstes Geschäft in Seattle, und seine spätere Expansion unter Howard Schultz wird weithin dafür verantwortlich gemacht, die Cafékultur auf globaler Massenmarktebene populär gemacht zu haben.",
+        "why": "Es ist das einzige Unternehmen, das am meisten dafür verantwortlich ist, das 'Kaffeehauserlebnis' zu einem normalen Bestandteil des Alltags für Millionen von Menschen zu machen, die zuvor nie in einem Specialty-Café gewesen waren.",
+        "tip": "Nutze dies als konkrete Firmengeschichte hinter dem abstrakteren Rahmenmodell der 'zweiten Welle'.",
+        "mistake": "Starbucks als getrennt vom Wellenmodell zu behandeln, statt als sein sichtbarstes, definierendes Beispiel.",
+        "challenge": "Warum könnte es andere Entscheidungen erfordern, ein Kaffeehauserlebnis global zu skalieren, als ein großartiges unabhängiges Café zu betreiben?"
+      },
+      "fr": {
+        "title": "La fondation de Starbucks",
+        "definition": "Starbucks a ouvert son premier magasin à Seattle en 1971, et son expansion ultérieure sous Howard Schultz est largement créditée d'avoir popularisé la culture du café à l'échelle mondiale et grand public.",
+        "why": "C'est l'entreprise la plus responsable d'avoir fait de « l'expérience du café » une partie normale de la vie quotidienne pour des millions de personnes qui n'étaient jamais allées dans un café de spécialité auparavant.",
+        "tip": "Utilisez cela comme l'histoire concrète d'entreprise derrière le cadre plus abstrait de la « deuxième vague ».",
+        "mistake": "Traiter Starbucks comme séparé du cadre des vagues plutôt que comme son exemple le plus visible et définissant.",
+        "challenge": "Pourquoi mettre à l'échelle une expérience de café à l'échelle mondiale pourrait-il nécessiter des choix différents de la gestion d'un seul excellent café indépendant ?"
+      },
+      "it": {
+        "title": "La fondazione di Starbucks",
+        "definition": "Starbucks aprì il suo primo negozio a Seattle nel 1971, e la sua successiva espansione sotto Howard Schultz è ampiamente accreditata di aver reso popolare la cultura del caffè su scala globale e di massa.",
+        "why": "È l'azienda singola più responsabile dell'aver reso 'l'esperienza della caffetteria' una parte normale della vita quotidiana per milioni di persone che non erano mai state in un caffè specialty prima.",
+        "tip": "Usa questo come la storia aziendale concreta dietro il più astratto modello della 'seconda ondata'.",
+        "mistake": "Trattare Starbucks come separato dal modello delle ondate invece che come il suo esempio più visibile e definente.",
+        "challenge": "Perché scalare un'esperienza di caffetteria a livello globale potrebbe richiedere scelte diverse rispetto alla gestione di un unico ottimo caffè indipendente?"
       }
     },
     "id": 194
