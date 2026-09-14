@@ -38,7 +38,8 @@ const CATEGORY_NAMES = {
     PKG: "Packaging & Freshness",
     ETH: "Sustainability & Ethics",
     REC: "Recipe Cards",
-    MNT: "Machine Maintenance"
+    MNT: "Machine Maintenance",
+    CAS: "Cascara & Byproducts"
 };
 
 const search = document.getElementById("search");

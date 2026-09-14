@@ -19578,5 +19578,965 @@
       }
     },
     "id": 262
+  },
+  {
+    "number": "263",
+    "title": "What Is Cascara",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "263.jpg",
+    "definition": "Cascara is the dried skin and pulp of the coffee cherry, separated from the seed during processing and traditionally treated as agricultural waste.",
+    "why": "It represents most of the coffee cherry by weight, yet for most of coffee's history was discarded rather than sold.",
+    "tip": "Look for cascara sold with a clear origin and processing date, the same way you would for green coffee.",
+    "mistake": "Assuming cascara is simply dried coffee cherries with the seed still inside.",
+    "challenge": "Why might a byproduct that makes up most of the cherry's weight have been ignored commercially for so long?",
+    "related": [
+      "076",
+      "078"
+    ],
+    "translations": {
+      "es": {
+        "title": "Qué es la cascara",
+        "definition": "La cascara es la piel y pulpa seca de la cereza de café, separada de la semilla durante el procesamiento y tradicionalmente tratada como residuo agrícola.",
+        "why": "Representa la mayor parte del peso de la cereza de café, aunque durante la mayor parte de la historia del café se descartaba en lugar de venderse.",
+        "tip": "Busca cascara vendida con origen claro y fecha de procesamiento, igual que harías con café verde.",
+        "mistake": "Suponer que la cascara son simplemente cerezas de café secas con la semilla todavía dentro.",
+        "challenge": "¿Por qué un subproducto que constituye la mayor parte del peso de la cereza pudo ser ignorado comercialmente durante tanto tiempo?"
+      },
+      "pt": {
+        "title": "O que é a cascara",
+        "definition": "A cascara é a casca e a polpa seca da cereja do café, separada da semente durante o processamento e tradicionalmente tratada como resíduo agrícola.",
+        "why": "Representa a maior parte do peso da cereja do café, embora durante a maior parte da história do café fosse descartada em vez de vendida.",
+        "tip": "Procure cascara vendida com origem clara e data de processamento, assim como faria com café verde.",
+        "mistake": "Supor que a cascara são simplesmente cerejas de café secas com a semente ainda dentro.",
+        "challenge": "Por que um subproduto que constitui a maior parte do peso da cereja pôde ser ignorado comercialmente por tanto tempo?"
+      },
+      "de": {
+        "title": "Was ist Cascara",
+        "definition": "Cascara ist die getrocknete Schale und das Fruchtfleisch der Kaffeekirsche, das während der Aufbereitung vom Samen getrennt wird und traditionell als landwirtschaftlicher Abfall behandelt wurde.",
+        "why": "Sie macht den größten Teil des Gewichts der Kaffeekirsche aus, wurde aber die meiste Zeit der Kaffeegeschichte weggeworfen statt verkauft.",
+        "tip": "Achte auf Cascara, die mit klarem Ursprung und Aufbereitungsdatum verkauft wird, genau wie bei Rohkaffee.",
+        "mistake": "Anzunehmen, Cascara seien einfach getrocknete Kaffeekirschen mit dem Samen noch darin.",
+        "challenge": "Warum könnte ein Nebenprodukt, das den Großteil des Kirschgewichts ausmacht, kommerziell so lange ignoriert worden sein?"
+      },
+      "fr": {
+        "title": "Qu'est-ce que la cascara",
+        "definition": "La cascara est la peau et la pulpe séchée de la cerise de café, séparée de la graine pendant le traitement et traditionnellement traitée comme un déchet agricole.",
+        "why": "Elle représente la majeure partie du poids de la cerise de café, bien que pendant la majeure partie de l'histoire du café elle ait été jetée plutôt que vendue.",
+        "tip": "Recherchez de la cascara vendue avec une origine claire et une date de traitement, comme vous le feriez pour du café vert.",
+        "mistake": "Supposer que la cascara n'est que des cerises de café séchées avec la graine encore à l'intérieur.",
+        "challenge": "Pourquoi un sous-produit qui constitue la majeure partie du poids de la cerise a-t-il pu être ignoré commercialement si longtemps ?"
+      },
+      "it": {
+        "title": "Cos'è la cascara",
+        "definition": "La cascara è la buccia e la polpa essiccata della ciliegia di caffè, separata dal seme durante la lavorazione e tradizionalmente trattata come scarto agricolo.",
+        "why": "Rappresenta la maggior parte del peso della ciliegia di caffè, sebbene per gran parte della storia del caffè venisse scartata invece che venduta.",
+        "tip": "Cerca cascara venduta con un'origine chiara e una data di lavorazione, come faresti per il caffè verde.",
+        "mistake": "Supporre che la cascara sia semplicemente ciliegie di caffè essiccate con il seme ancora dentro.",
+        "challenge": "Perché un sottoprodotto che costituisce la maggior parte del peso della ciliegia potrebbe essere stato ignorato commercialmente per così tanto tempo?"
+      }
+    },
+    "id": 263
+  },
+  {
+    "number": "264",
+    "title": "Cascara Tea Brewing",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "264.jpg",
+    "definition": "Cascara tea is brewed by steeping the dried cherry husks in hot water, similar to a loose-leaf tea rather than a coffee extraction.",
+    "why": "It gives cafés a caffeinated, coffee-adjacent product to offer that isn't coffee itself, appealing to a different part of the menu.",
+    "tip": "Start with a lighter steep than you'd expect and adjust up, since strength varies a lot between origins.",
+    "mistake": "Treating cascara like ground coffee and running it through an espresso machine.",
+    "challenge": "Why does cascara call for a tea-like brewing approach rather than an espresso or filter one?",
+    "related": [
+      "263",
+      "026"
+    ],
+    "translations": {
+      "es": {
+        "title": "Preparación del té de cascara",
+        "definition": "El té de cascara se prepara infusionando las cáscaras secas de la cereza en agua caliente, de forma similar a un té de hoja suelta y no a una extracción de café.",
+        "why": "Ofrece a las cafeterías un producto con cafeína relacionado con el café que no es café en sí, atrayendo a otra parte del menú.",
+        "tip": "Empieza con una infusión más ligera de lo que esperas y ajusta hacia arriba, ya que la intensidad varía mucho entre orígenes.",
+        "mistake": "Tratar la cascara como café molido y pasarla por una máquina de espresso.",
+        "challenge": "¿Por qué la cascara requiere un enfoque de preparación tipo té en lugar de uno tipo espresso o filtro?"
+      },
+      "pt": {
+        "title": "Preparo do chá de cascara",
+        "definition": "O chá de cascara é preparado infundindo as cascas secas da cereja em água quente, de forma semelhante a um chá de folhas soltas e não a uma extração de café.",
+        "why": "Dá às cafeterias um produto com cafeína relacionado ao café que não é café em si, agradando a outra parte do menu.",
+        "tip": "Comece com uma infusão mais leve do que espera e ajuste para cima, já que a intensidade varia muito entre origens.",
+        "mistake": "Tratar a cascara como café moído e passá-la por uma máquina de espresso.",
+        "challenge": "Por que a cascara pede uma abordagem de preparo tipo chá em vez de espresso ou filtro?"
+      },
+      "de": {
+        "title": "Zubereitung von Cascara-Tee",
+        "definition": "Cascara-Tee wird gebrüht, indem die getrockneten Kirschschalen in heißem Wasser ziehen, ähnlich wie loser Tee statt einer Kaffeeextraktion.",
+        "why": "Er gibt Cafés ein koffeinhaltiges, kaffeeverwandtes Produkt, das kein Kaffee selbst ist und einen anderen Teil der Speisekarte anspricht.",
+        "tip": "Beginne mit einer leichteren Ziehzeit als erwartet und passe nach oben an, da die Stärke je nach Ursprung stark variiert.",
+        "mistake": "Cascara wie gemahlenen Kaffee zu behandeln und durch eine Espressomaschine laufen zu lassen.",
+        "challenge": "Warum verlangt Cascara eine teeähnliche Brühweise statt einer Espresso- oder Filtermethode?"
+      },
+      "fr": {
+        "title": "Préparation du thé de cascara",
+        "definition": "Le thé de cascara est préparé en infusant les peaux de cerise séchées dans l'eau chaude, comme un thé en vrac plutôt qu'une extraction de café.",
+        "why": "Il donne aux cafés un produit caféiné proche du café mais qui n'en est pas, attirant une autre partie de la carte.",
+        "tip": "Commencez par une infusion plus légère que prévu et ajustez à la hausse, car la force varie beaucoup selon les origines.",
+        "mistake": "Traiter la cascara comme du café moulu et la faire passer dans une machine à espresso.",
+        "challenge": "Pourquoi la cascara nécessite-t-elle une approche d'infusion proche du thé plutôt qu'un espresso ou un filtre ?"
+      },
+      "it": {
+        "title": "Preparazione del tè di cascara",
+        "definition": "Il tè di cascara si prepara facendo infondere le bucce essiccate della ciliegia in acqua calda, in modo simile a un tè sfuso piuttosto che a un'estrazione di caffè.",
+        "why": "Offre ai bar un prodotto con caffeina affine al caffè ma che non è caffè in sé, attirando un'altra parte del menu.",
+        "tip": "Inizia con un'infusione più leggera del previsto e regola verso l'alto, poiché la forza varia molto tra le origini.",
+        "mistake": "Trattare la cascara come caffè macinato e farla passare in una macchina da espresso.",
+        "challenge": "Perché la cascara richiede un approccio di preparazione simile al tè piuttosto che espresso o filtro?"
+      }
+    },
+    "id": 264
+  },
+  {
+    "number": "265",
+    "title": "Cascara Flavor Profile",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "265.jpg",
+    "definition": "Cascara typically tastes sweet and fruity, often described as dried hibiscus, cherry, or raisin, with little to no bitterness or caffeine sourness.",
+    "why": "Its flavor comes entirely from the fruit, not the seed, which is why it tastes nothing like coffee despite the shared origin.",
+    "tip": "Taste cascara blind before assuming it will remind customers of coffee at all.",
+    "mistake": "Marketing cascara as tasting like a light coffee, which sets the wrong expectation.",
+    "challenge": "Why might describing cascara as 'coffee tea' actually undersell what makes it interesting?",
+    "related": [
+      "263",
+      "264"
+    ],
+    "translations": {
+      "es": {
+        "title": "Perfil de sabor de la cascara",
+        "definition": "La cascara suele tener un sabor dulce y afrutado, a menudo descrito como hibisco seco, cereza o pasas, con poca o ninguna amargura o acidez de cafeína.",
+        "why": "Su sabor proviene enteramente de la fruta, no de la semilla, por lo que no sabe en absoluto a café pese al origen compartido.",
+        "tip": "Prueba la cascara a ciegas antes de suponer que recordará el café a los clientes en absoluto.",
+        "mistake": "Comercializar la cascara diciendo que sabe a café ligero, lo cual crea una expectativa equivocada.",
+        "challenge": "¿Por qué describir la cascara como 'té de café' podría en realidad restarle valor a lo que la hace interesante?"
+      },
+      "pt": {
+        "title": "Perfil de sabor da cascara",
+        "definition": "A cascara geralmente tem sabor doce e frutado, muitas vezes descrito como hibisco seco, cereja ou passas, com pouca ou nenhuma amargura ou acidez de cafeína.",
+        "why": "Seu sabor vem inteiramente da fruta, não da semente, por isso não tem gosto de café apesar da origem compartilhada.",
+        "tip": "Prove a cascara às cegas antes de supor que ela lembrará café aos clientes de alguma forma.",
+        "mistake": "Divulgar a cascara dizendo que tem gosto de café leve, o que cria a expectativa errada.",
+        "challenge": "Por que descrever a cascara como 'chá de café' pode na verdade subestimar o que a torna interessante?"
+      },
+      "de": {
+        "title": "Geschmacksprofil von Cascara",
+        "definition": "Cascara schmeckt typischerweise süß und fruchtig, oft beschrieben als getrockneter Hibiskus, Kirsche oder Rosine, mit wenig bis keiner Bitterkeit oder Koffeinsäure.",
+        "why": "Ihr Geschmack kommt vollständig von der Frucht, nicht vom Samen, weshalb sie trotz des gemeinsamen Ursprungs überhaupt nicht nach Kaffee schmeckt.",
+        "tip": "Verkoste Cascara blind, bevor du annimmst, sie werde Kunden überhaupt an Kaffee erinnern.",
+        "mistake": "Cascara so zu vermarkten, als schmecke sie wie leichter Kaffee, was eine falsche Erwartung weckt.",
+        "challenge": "Warum könnte die Beschreibung von Cascara als 'Kaffeetee' das, was sie interessant macht, tatsächlich unterverkaufen?"
+      },
+      "fr": {
+        "title": "Profil aromatique de la cascara",
+        "definition": "La cascara a généralement un goût sucré et fruité, souvent décrit comme de l'hibiscus séché, de la cerise ou du raisin sec, avec peu ou pas d'amertume ou d'acidité de caféine.",
+        "why": "Sa saveur vient entièrement du fruit, pas de la graine, d'où son goût qui ne ressemble en rien au café malgré l'origine partagée.",
+        "tip": "Goûtez la cascara à l'aveugle avant de supposer qu'elle rappellera le café aux clients.",
+        "mistake": "Commercialiser la cascara en disant qu'elle a le goût d'un café léger, ce qui crée une mauvaise attente.",
+        "challenge": "Pourquoi décrire la cascara comme un « thé de café » pourrait-il en réalité sous-vendre ce qui la rend intéressante ?"
+      },
+      "it": {
+        "title": "Profilo di sapore della cascara",
+        "definition": "La cascara ha tipicamente un sapore dolce e fruttato, spesso descritto come ibisco essiccato, ciliegia o uvetta, con poca o nessuna amarezza o acidità da caffeina.",
+        "why": "Il suo sapore deriva interamente dal frutto, non dal seme, motivo per cui non sa affatto di caffè nonostante l'origine condivisa.",
+        "tip": "Assaggia la cascara alla cieca prima di supporre che ricorderà il caffè ai clienti in qualche modo.",
+        "mistake": "Commercializzare la cascara dicendo che sa di caffè leggero, il che crea l'aspettativa sbagliata.",
+        "challenge": "Perché descrivere la cascara come 'tè di caffè' potrebbe in realtà sottovendere ciò che la rende interessante?"
+      }
+    },
+    "id": 265
+  },
+  {
+    "number": "266",
+    "title": "Cascara Processing",
+    "category": "CAS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "266.jpg",
+    "definition": "Cascara is typically produced from the husks separated during natural or honey processing, then dried carefully to avoid mold before the seed spoils it.",
+    "why": "Poor drying causes the same mold and fermentation defects in cascara that ruin green coffee during drying.",
+    "tip": "Treat cascara drying with the same care and monitoring as green coffee drying, not as an afterthought.",
+    "mistake": "Assuming cascara is inherently forgiving to produce simply because it was previously discarded.",
+    "challenge": "Why would a byproduct that used to be thrown away suddenly need careful processing once it has commercial value?",
+    "related": [
+      "082",
+      "263"
+    ],
+    "translations": {
+      "es": {
+        "title": "Procesamiento de la cascara",
+        "definition": "La cascara suele producirse a partir de las cáscaras separadas durante el proceso natural o honey, y luego se seca con cuidado para evitar moho antes de que la semilla la eche a perder.",
+        "why": "Un secado deficiente causa en la cascara los mismos defectos de moho y fermentación que arruinan el café verde durante el secado.",
+        "tip": "Trata el secado de la cascara con el mismo cuidado y monitoreo que el secado del café verde, no como algo secundario.",
+        "mistake": "Suponer que la cascara es intrínsecamente fácil de producir solo porque antes se descartaba.",
+        "challenge": "¿Por qué un subproducto que solía tirarse necesitaría de repente un procesamiento cuidadoso una vez que tiene valor comercial?"
+      },
+      "pt": {
+        "title": "Processamento da cascara",
+        "definition": "A cascara geralmente é produzida a partir das cascas separadas durante o processo natural ou honey, e então secada com cuidado para evitar mofo antes que a semente a estrague.",
+        "why": "Uma secagem ruim causa na cascara os mesmos defeitos de mofo e fermentação que arruinam o café verde durante a secagem.",
+        "tip": "Trate a secagem da cascara com o mesmo cuidado e monitoramento da secagem do café verde, não como algo secundário.",
+        "mistake": "Supor que a cascara é inerentemente fácil de produzir só porque antes era descartada.",
+        "challenge": "Por que um subproduto que costumava ser jogado fora precisaria de repente de processamento cuidadoso quando passa a ter valor comercial?"
+      },
+      "de": {
+        "title": "Cascara-Aufbereitung",
+        "definition": "Cascara wird typischerweise aus den Schalen hergestellt, die bei der Natural- oder Honey-Aufbereitung getrennt werden, und dann sorgfältig getrocknet, um Schimmel zu vermeiden, bevor der Samen sie verdirbt.",
+        "why": "Schlechte Trocknung verursacht bei Cascara dieselben Schimmel- und Fermentationsfehler, die grünen Kaffee beim Trocknen ruinieren.",
+        "tip": "Behandle die Cascara-Trocknung mit derselben Sorgfalt und Überwachung wie die Rohkaffeetrocknung, nicht als Nebensache.",
+        "mistake": "Anzunehmen, Cascara sei von Natur aus nachsichtig in der Herstellung, nur weil sie früher weggeworfen wurde.",
+        "challenge": "Warum bräuchte ein Nebenprodukt, das früher weggeworfen wurde, plötzlich sorgfältige Aufbereitung, sobald es kommerziellen Wert hat?"
+      },
+      "fr": {
+        "title": "Traitement de la cascara",
+        "definition": "La cascara est généralement produite à partir des peaux séparées pendant le traitement naturel ou miel, puis séchée soigneusement pour éviter la moisissure avant que la graine ne l'abîme.",
+        "why": "Un mauvais séchage cause dans la cascara les mêmes défauts de moisissure et de fermentation qui ruinent le café vert pendant le séchage.",
+        "tip": "Traitez le séchage de la cascara avec le même soin et la même surveillance que le séchage du café vert, pas comme une réflexion après coup.",
+        "mistake": "Supposer que la cascara est intrinsèquement facile à produire simplement parce qu'elle était auparavant jetée.",
+        "challenge": "Pourquoi un sous-produit qui était jeté aurait-il soudainement besoin d'un traitement soigné une fois qu'il a une valeur commerciale ?"
+      },
+      "it": {
+        "title": "Lavorazione della cascara",
+        "definition": "La cascara viene tipicamente prodotta dalle bucce separate durante la lavorazione naturale o honey, poi essiccata con cura per evitare la muffa prima che il seme la rovini.",
+        "why": "Un'essiccazione scadente causa nella cascara gli stessi difetti di muffa e fermentazione che rovinano il caffè verde durante l'essiccazione.",
+        "tip": "Tratta l'essiccazione della cascara con la stessa cura e monitoraggio dell'essiccazione del caffè verde, non come un ripensamento.",
+        "mistake": "Supporre che la cascara sia intrinsecamente facile da produrre solo perché in precedenza veniva scartata.",
+        "challenge": "Perché un sottoprodotto che veniva buttato via avrebbe improvvisamente bisogno di una lavorazione attenta una volta che ha valore commerciale?"
+      }
+    },
+    "id": 266
+  },
+  {
+    "number": "267",
+    "title": "Coffee Flour",
+    "category": "CAS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "267.jpg",
+    "definition": "Coffee flour is made by drying and grinding leftover cherry pulp into a fine powder used as a gluten-free baking ingredient.",
+    "why": "It turns a processing byproduct into a food product with its own separate market, entirely apart from coffee drinking.",
+    "tip": "Use coffee flour as a partial substitute in recipes, not a full flour replacement, since it behaves differently when baked.",
+    "mistake": "Assuming coffee flour tastes strongly of coffee, when it's actually mild and fruity like the pulp it comes from.",
+    "challenge": "Why might a product made from coffee cherries not actually taste like coffee at all?",
+    "related": [
+      "263",
+      "266"
+    ],
+    "translations": {
+      "es": {
+        "title": "Harina de café",
+        "definition": "La harina de café se elabora secando y moliendo la pulpa sobrante de la cereza hasta convertirla en un polvo fino usado como ingrediente de repostería sin gluten.",
+        "why": "Convierte un subproducto del procesamiento en un producto alimentario con su propio mercado, totalmente al margen de beber café.",
+        "tip": "Usa la harina de café como sustituto parcial en recetas, no como reemplazo total de la harina, ya que se comporta distinto al hornear.",
+        "mistake": "Suponer que la harina de café sabe fuertemente a café, cuando en realidad es suave y afrutada como la pulpa de la que proviene.",
+        "challenge": "¿Por qué un producto hecho de cerezas de café podría no saber a café en absoluto?"
+      },
+      "pt": {
+        "title": "Farinha de café",
+        "definition": "A farinha de café é feita secando e moendo a polpa restante da cereja até virar um pó fino usado como ingrediente de panificação sem glúten.",
+        "why": "Transforma um subproduto do processamento em um produto alimentício com seu próprio mercado, totalmente à parte do consumo de café.",
+        "tip": "Use a farinha de café como substituto parcial em receitas, não como substituição total da farinha, já que se comporta de forma diferente ao assar.",
+        "mistake": "Supor que a farinha de café tem sabor forte de café, quando na verdade é suave e frutada como a polpa de onde vem.",
+        "challenge": "Por que um produto feito de cerejas de café pode não ter gosto de café algum?"
+      },
+      "de": {
+        "title": "Kaffeemehl",
+        "definition": "Kaffeemehl wird hergestellt, indem übrig gebliebenes Kirschfruchtfleisch getrocknet und zu einem feinen Pulver gemahlen wird, das als glutenfreie Backzutat verwendet wird.",
+        "why": "Es verwandelt ein Aufbereitungsnebenprodukt in ein Lebensmittelprodukt mit eigenem Markt, völlig losgelöst vom Kaffeetrinken.",
+        "tip": "Verwende Kaffeemehl als teilweisen Ersatz in Rezepten, nicht als vollständigen Mehlersatz, da es sich beim Backen anders verhält.",
+        "mistake": "Anzunehmen, Kaffeemehl schmecke stark nach Kaffee, obwohl es tatsächlich mild und fruchtig wie das Fruchtfleisch schmeckt, aus dem es stammt.",
+        "challenge": "Warum könnte ein aus Kaffeekirschen hergestelltes Produkt überhaupt nicht nach Kaffee schmecken?"
+      },
+      "fr": {
+        "title": "Farine de café",
+        "definition": "La farine de café est fabriquée en séchant et en moulant la pulpe de cerise restante en une fine poudre utilisée comme ingrédient de boulangerie sans gluten.",
+        "why": "Elle transforme un sous-produit de traitement en produit alimentaire avec son propre marché, entièrement à part de la consommation de café.",
+        "tip": "Utilisez la farine de café comme substitut partiel dans les recettes, pas comme remplacement total de la farine, car elle se comporte différemment à la cuisson.",
+        "mistake": "Supposer que la farine de café a un fort goût de café, alors qu'elle est en réalité douce et fruitée comme la pulpe dont elle provient.",
+        "challenge": "Pourquoi un produit fabriqué à partir de cerises de café pourrait-il ne pas avoir du tout le goût du café ?"
+      },
+      "it": {
+        "title": "Farina di caffè",
+        "definition": "La farina di caffè si ottiene essiccando e macinando la polpa residua della ciliegia fino a ridurla in una polvere fine usata come ingrediente da forno senza glutine.",
+        "why": "Trasforma un sottoprodotto della lavorazione in un prodotto alimentare con un proprio mercato, completamente separato dal bere caffè.",
+        "tip": "Usa la farina di caffè come sostituto parziale nelle ricette, non come sostituzione totale della farina, poiché si comporta diversamente in cottura.",
+        "mistake": "Supporre che la farina di caffè abbia un sapore forte di caffè, quando in realtà è delicata e fruttata come la polpa da cui proviene.",
+        "challenge": "Perché un prodotto fatto con ciliegie di caffè potrebbe non avere affatto sapore di caffè?"
+      }
+    },
+    "id": 267
+  },
+  {
+    "number": "268",
+    "title": "Coffee Cherry Vinegar",
+    "category": "CAS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "268.jpg",
+    "definition": "Coffee cherry vinegar is produced by fermenting the sugars in leftover cherry pulp into alcohol and then into acetic acid, the same way any fruit vinegar is made.",
+    "why": "It's another route to using pulp that would otherwise be discarded, aimed at a food and condiment market rather than a coffee-drinking one.",
+    "tip": "Judge cherry vinegar on its own culinary merits, not as a coffee-adjacent novelty.",
+    "mistake": "Expecting cherry vinegar to carry any coffee flavor, since fermentation transforms the sugars entirely.",
+    "challenge": "Why does fermenting coffee cherry pulp remove any trace of what most people associate with coffee flavor?",
+    "related": [
+      "263",
+      "081"
+    ],
+    "translations": {
+      "es": {
+        "title": "Vinagre de cereza de café",
+        "definition": "El vinagre de cereza de café se produce fermentando los azúcares de la pulpa sobrante en alcohol y luego en ácido acético, igual que se elabora cualquier vinagre de fruta.",
+        "why": "Es otra vía para aprovechar la pulpa que de otro modo se descartaría, dirigida a un mercado gastronómico y de condimentos más que al del consumo de café.",
+        "tip": "Juzga el vinagre de cereza por sus propios méritos culinarios, no como una novedad relacionada con el café.",
+        "mistake": "Esperar que el vinagre de cereza tenga algún sabor a café, ya que la fermentación transforma por completo los azúcares.",
+        "challenge": "¿Por qué fermentar la pulpa de la cereza de café elimina cualquier rastro de lo que la mayoría asocia con el sabor a café?"
+      },
+      "pt": {
+        "title": "Vinagre de cereja de café",
+        "definition": "O vinagre de cereja de café é produzido fermentando os açúcares da polpa restante em álcool e depois em ácido acético, da mesma forma que qualquer vinagre de fruta é feito.",
+        "why": "É outra forma de aproveitar a polpa que seria descartada, voltada para um mercado gastronômico e de condimentos, e não para o de consumo de café.",
+        "tip": "Julgue o vinagre de cereja por seus próprios méritos culinários, não como uma novidade relacionada ao café.",
+        "mistake": "Esperar que o vinagre de cereja tenha algum sabor de café, já que a fermentação transforma completamente os açúcares.",
+        "challenge": "Por que fermentar a polpa da cereja do café remove qualquer traço do que a maioria associa ao sabor de café?"
+      },
+      "de": {
+        "title": "Kaffeekirschenessig",
+        "definition": "Kaffeekirschenessig wird hergestellt, indem die Zucker im übrig gebliebenen Fruchtfleisch zu Alkohol und dann zu Essigsäure fermentiert werden, genau wie jeder Fruchtessig hergestellt wird.",
+        "why": "Es ist ein weiterer Weg, Fruchtfleisch zu nutzen, das sonst weggeworfen würde, ausgerichtet auf einen Lebensmittel- und Gewürzmarkt statt auf den Kaffeekonsum.",
+        "tip": "Beurteile Kirschenessig nach seinen eigenen kulinarischen Verdiensten, nicht als kaffeeverwandte Neuheit.",
+        "mistake": "Zu erwarten, dass Kirschenessig irgendeinen Kaffeegeschmack trägt, da die Fermentation die Zucker vollständig umwandelt.",
+        "challenge": "Warum entfernt das Fermentieren von Kaffeekirschenfruchtfleisch jede Spur dessen, was die meisten Menschen mit Kaffeegeschmack verbinden?"
+      },
+      "fr": {
+        "title": "Vinaigre de cerise de café",
+        "definition": "Le vinaigre de cerise de café est produit en fermentant les sucres de la pulpe restante en alcool puis en acide acétique, de la même façon que tout vinaigre de fruit.",
+        "why": "C'est une autre voie pour utiliser une pulpe qui serait autrement jetée, visant un marché culinaire et de condiments plutôt que celui de la consommation de café.",
+        "tip": "Jugez le vinaigre de cerise sur ses propres mérites culinaires, pas comme une nouveauté liée au café.",
+        "mistake": "S'attendre à ce que le vinaigre de cerise ait un goût de café, puisque la fermentation transforme entièrement les sucres.",
+        "challenge": "Pourquoi la fermentation de la pulpe de cerise de café élimine-t-elle toute trace de ce que la plupart des gens associent à la saveur du café ?"
+      },
+      "it": {
+        "title": "Aceto di ciliegia di caffè",
+        "definition": "L'aceto di ciliegia di caffè si produce fermentando gli zuccheri della polpa residua in alcol e poi in acido acetico, allo stesso modo di qualsiasi aceto di frutta.",
+        "why": "È un'altra via per utilizzare la polpa che altrimenti verrebbe scartata, rivolta a un mercato gastronomico e di condimenti piuttosto che a quello del consumo di caffè.",
+        "tip": "Giudica l'aceto di ciliegia in base ai suoi meriti culinari, non come una novità legata al caffè.",
+        "mistake": "Aspettarsi che l'aceto di ciliegia abbia un sapore di caffè, poiché la fermentazione trasforma completamente gli zuccheri.",
+        "challenge": "Perché fermentare la polpa della ciliegia di caffè rimuove ogni traccia di ciò che la maggior parte associa al sapore del caffè?"
+      }
+    },
+    "id": 268
+  },
+  {
+    "number": "269",
+    "title": "Coffee Pulp Composting",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "269.jpg",
+    "definition": "Composting returns leftover coffee pulp to the soil as organic fertilizer, either on the same farm or sold to nearby growers.",
+    "why": "It closes a nutrient loop at origin, reducing both waste and the farm's need for purchased fertilizer.",
+    "tip": "Compost pulp properly before applying it, since raw pulp can be too acidic or attract pests directly on soil.",
+    "mistake": "Assuming any use of pulp automatically counts as sustainable, regardless of how it's actually applied.",
+    "challenge": "Why might improperly composted pulp cause problems rather than solve them?",
+    "related": [
+      "263",
+      "228"
+    ],
+    "translations": {
+      "es": {
+        "title": "Compostaje de la pulpa de café",
+        "definition": "El compostaje devuelve la pulpa sobrante de café al suelo como fertilizante orgánico, ya sea en la misma finca o vendida a productores cercanos.",
+        "why": "Cierra un ciclo de nutrientes en origen, reduciendo tanto el desperdicio como la necesidad de fertilizante comprado por la finca.",
+        "tip": "Composta bien la pulpa antes de aplicarla, ya que la pulpa cruda puede ser demasiado ácida o atraer plagas directamente sobre el suelo.",
+        "mistake": "Suponer que cualquier uso de la pulpa cuenta automáticamente como sostenible, sin importar cómo se aplique realmente.",
+        "challenge": "¿Por qué la pulpa mal compostada podría causar problemas en lugar de resolverlos?"
+      },
+      "pt": {
+        "title": "Compostagem da polpa de café",
+        "definition": "A compostagem devolve a polpa restante do café ao solo como fertilizante orgânico, seja na mesma fazenda ou vendida a produtores próximos.",
+        "why": "Fecha um ciclo de nutrientes na origem, reduzindo tanto o desperdício quanto a necessidade de fertilizante comprado pela fazenda.",
+        "tip": "Composte bem a polpa antes de aplicá-la, já que a polpa crua pode ser ácida demais ou atrair pragas diretamente no solo.",
+        "mistake": "Supor que qualquer uso da polpa conta automaticamente como sustentável, independentemente de como é realmente aplicada.",
+        "challenge": "Por que a polpa mal compostada pode causar problemas em vez de resolvê-los?"
+      },
+      "de": {
+        "title": "Kompostierung von Kaffeekirschenfruchtfleisch",
+        "definition": "Kompostierung führt übrig gebliebenes Kaffeekirschenfruchtfleisch als organischen Dünger in den Boden zurück, entweder auf derselben Farm oder verkauft an nahegelegene Anbauer.",
+        "why": "Sie schließt einen Nährstoffkreislauf am Ursprung und reduziert sowohl Abfall als auch den Bedarf der Farm an zugekauftem Dünger.",
+        "tip": "Komposte Fruchtfleisch richtig, bevor du es ausbringst, da rohes Fruchtfleisch zu sauer sein oder direkt auf dem Boden Schädlinge anziehen kann.",
+        "mistake": "Anzunehmen, jede Verwendung von Fruchtfleisch zähle automatisch als nachhaltig, unabhängig davon, wie sie tatsächlich angewendet wird.",
+        "challenge": "Warum könnte unsachgemäß kompostiertes Fruchtfleisch Probleme verursachen, statt sie zu lösen?"
+      },
+      "fr": {
+        "title": "Compostage de la pulpe de café",
+        "definition": "Le compostage renvoie la pulpe de café restante au sol comme engrais organique, soit sur la même ferme, soit vendue à des producteurs voisins.",
+        "why": "Il referme un cycle de nutriments à l'origine, réduisant à la fois le gaspillage et le besoin d'engrais acheté par la ferme.",
+        "tip": "Compostez correctement la pulpe avant de l'appliquer, car la pulpe brute peut être trop acide ou attirer des nuisibles directement sur le sol.",
+        "mistake": "Supposer que toute utilisation de la pulpe compte automatiquement comme durable, quelle que soit la façon dont elle est réellement appliquée.",
+        "challenge": "Pourquoi une pulpe mal compostée pourrait-elle causer des problèmes plutôt que les résoudre ?"
+      },
+      "it": {
+        "title": "Compostaggio della polpa di caffè",
+        "definition": "Il compostaggio restituisce la polpa residua del caffè al suolo come fertilizzante organico, sia nella stessa azienda agricola sia venduta a coltivatori vicini.",
+        "why": "Chiude un ciclo di nutrienti all'origine, riducendo sia lo spreco sia il bisogno dell'azienda agricola di fertilizzante acquistato.",
+        "tip": "Composta correttamente la polpa prima di applicarla, poiché la polpa cruda può essere troppo acida o attirare parassiti direttamente sul suolo.",
+        "mistake": "Supporre che qualsiasi uso della polpa conti automaticamente come sostenibile, indipendentemente da come viene effettivamente applicata.",
+        "challenge": "Perché una polpa compostata in modo improprio potrebbe causare problemi invece di risolverli?"
+      }
+    },
+    "id": 269
+  },
+  {
+    "number": "270",
+    "title": "Coffee Leaf Tea",
+    "category": "CAS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "270.jpg",
+    "definition": "Coffee leaf tea is brewed from the dried leaves of the coffee plant itself, a byproduct entirely separate from the cherry.",
+    "why": "It gives farms a product to sell from pruning and plant maintenance that would otherwise generate no revenue at all.",
+    "tip": "Expect a milder, more herbal profile than cascara, since it comes from a completely different part of the plant.",
+    "mistake": "Confusing coffee leaf tea with cascara — they come from different parts of the plant entirely.",
+    "challenge": "Why might coffee leaf tea appeal to farms even more than cascara from a resource-use standpoint?",
+    "related": [
+      "263",
+      "086"
+    ],
+    "translations": {
+      "es": {
+        "title": "Té de hoja de café",
+        "definition": "El té de hoja de café se prepara con las hojas secas de la propia planta de café, un subproducto totalmente distinto de la cereza.",
+        "why": "Da a las fincas un producto para vender a partir de la poda y el mantenimiento de la planta que de otro modo no generaría ingresos en absoluto.",
+        "tip": "Espera un perfil más suave y herbal que la cascara, ya que proviene de una parte completamente distinta de la planta.",
+        "mistake": "Confundir el té de hoja de café con la cascara — provienen de partes totalmente distintas de la planta.",
+        "challenge": "¿Por qué el té de hoja de café podría atraer a las fincas incluso más que la cascara desde el punto de vista del uso de recursos?"
+      },
+      "pt": {
+        "title": "Chá de folha de café",
+        "definition": "O chá de folha de café é preparado com as folhas secas da própria planta de café, um subproduto totalmente separado da cereja.",
+        "why": "Dá às fazendas um produto para vender a partir da poda e manutenção da planta que de outra forma não geraria nenhuma receita.",
+        "tip": "Espere um perfil mais suave e herbal do que a cascara, já que vem de uma parte totalmente diferente da planta.",
+        "mistake": "Confundir o chá de folha de café com a cascara — eles vêm de partes totalmente diferentes da planta.",
+        "challenge": "Por que o chá de folha de café pode atrair as fazendas ainda mais que a cascara do ponto de vista do uso de recursos?"
+      },
+      "de": {
+        "title": "Kaffeeblatt-Tee",
+        "definition": "Kaffeeblatt-Tee wird aus den getrockneten Blättern der Kaffeepflanze selbst gebrüht, ein Nebenprodukt völlig getrennt von der Kirsche.",
+        "why": "Er gibt Farmen ein Produkt zum Verkauf aus Beschneidung und Pflanzenpflege, das sonst überhaupt keinen Umsatz generieren würde.",
+        "tip": "Erwarte ein milderes, krautigeres Profil als Cascara, da es aus einem völlig anderen Teil der Pflanze stammt.",
+        "mistake": "Kaffeeblatt-Tee mit Cascara zu verwechseln — sie stammen aus völlig unterschiedlichen Teilen der Pflanze.",
+        "challenge": "Warum könnte Kaffeeblatt-Tee für Farmen aus Sicht der Ressourcennutzung sogar attraktiver sein als Cascara?"
+      },
+      "fr": {
+        "title": "Thé de feuille de café",
+        "definition": "Le thé de feuille de café est infusé à partir des feuilles séchées du plant de café lui-même, un sous-produit entièrement distinct de la cerise.",
+        "why": "Il donne aux fermes un produit à vendre issu de la taille et de l'entretien de la plante qui, autrement, ne générerait aucun revenu.",
+        "tip": "Attendez-vous à un profil plus doux et plus herbacé que la cascara, car il provient d'une partie complètement différente de la plante.",
+        "mistake": "Confondre le thé de feuille de café avec la cascara — ils proviennent de parties entièrement différentes de la plante.",
+        "challenge": "Pourquoi le thé de feuille de café pourrait-il séduire les fermes encore plus que la cascara du point de vue de l'utilisation des ressources ?"
+      },
+      "it": {
+        "title": "Tè di foglie di caffè",
+        "definition": "Il tè di foglie di caffè si prepara con le foglie essiccate della stessa pianta di caffè, un sottoprodotto interamente separato dalla ciliegia.",
+        "why": "Dà alle aziende agricole un prodotto da vendere derivante dalla potatura e manutenzione della pianta che altrimenti non genererebbe alcun ricavo.",
+        "tip": "Aspettati un profilo più delicato ed erbaceo rispetto alla cascara, poiché proviene da una parte completamente diversa della pianta.",
+        "mistake": "Confondere il tè di foglie di caffè con la cascara — provengono da parti completamente diverse della pianta.",
+        "challenge": "Perché il tè di foglie di caffè potrebbe attrarre le aziende agricole ancora più della cascara dal punto di vista dell'uso delle risorse?"
+      }
+    },
+    "id": 270
+  },
+  {
+    "number": "271",
+    "title": "Spent Coffee Grounds Reuse",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "271.jpg",
+    "definition": "Spent coffee grounds, the leftover material after brewing, can be reused for garden fertilizer, exfoliants, odor absorption, and mushroom cultivation substrate.",
+    "why": "Cafés generate large volumes of spent grounds daily, making even simple reuse programs a meaningful waste reduction.",
+    "tip": "Partner with a local garden, farm, or mushroom grower to take grounds regularly rather than relying on customers to collect them occasionally.",
+    "mistake": "Assuming spent grounds are nutritionally similar to fresh compost material without accounting for their acidity and prior processing.",
+    "challenge": "Why might a café's daily spent grounds be more useful to a local grower than to the café's own bin?",
+    "related": [
+      "269",
+      "096"
+    ],
+    "translations": {
+      "es": {
+        "title": "Reutilización de la borra de café",
+        "definition": "La borra de café, el material sobrante tras la preparación, puede reutilizarse como fertilizante de jardín, exfoliante, absorbente de olores y sustrato para el cultivo de hongos.",
+        "why": "Las cafeterías generan grandes volúmenes de borra a diario, por lo que incluso programas sencillos de reutilización suponen una reducción de residuos significativa.",
+        "tip": "Asóciate con un jardín, finca o cultivador de hongos local para recoger la borra regularmente, en lugar de depender de que los clientes la recojan de vez en cuando.",
+        "mistake": "Suponer que la borra usada es nutricionalmente similar al material de compost fresco sin tener en cuenta su acidez y procesamiento previo.",
+        "challenge": "¿Por qué la borra diaria de una cafetería podría ser más útil para un productor local que para el propio cubo de basura de la cafetería?"
+      },
+      "pt": {
+        "title": "Reaproveitamento da borra de café",
+        "definition": "A borra de café, o material restante após o preparo, pode ser reaproveitada como fertilizante de jardim, esfoliante, absorvente de odores e substrato para cultivo de cogumelos.",
+        "why": "As cafeterias geram grandes volumes de borra diariamente, tornando até programas simples de reaproveitamento uma redução significativa de resíduos.",
+        "tip": "Faça parceria com um jardim, fazenda ou cultivador de cogumelos local para recolher a borra regularmente, em vez de depender de clientes que a recolhem ocasionalmente.",
+        "mistake": "Supor que a borra usada é nutricionalmente semelhante a material de compostagem fresco sem considerar sua acidez e processamento anterior.",
+        "challenge": "Por que a borra diária de uma cafeteria pode ser mais útil para um produtor local do que para a lixeira da própria cafeteria?"
+      },
+      "de": {
+        "title": "Wiederverwendung von Kaffeesatz",
+        "definition": "Kaffeesatz, das übrig gebliebene Material nach dem Brühen, kann als Gartendünger, Peeling, Geruchsabsorber und Substrat für den Pilzanbau wiederverwendet werden.",
+        "why": "Cafés erzeugen täglich große Mengen an Kaffeesatz, sodass selbst einfache Wiederverwendungsprogramme eine bedeutende Abfallreduzierung darstellen.",
+        "tip": "Arbeite mit einem lokalen Garten, einer Farm oder einem Pilzzüchter zusammen, um Kaffeesatz regelmäßig abzuholen, statt darauf zu vertrauen, dass Kunden ihn gelegentlich sammeln.",
+        "mistake": "Anzunehmen, gebrauchter Kaffeesatz sei nährstoffmäßig frischem Kompostmaterial ähnlich, ohne seine Säure und vorherige Verarbeitung zu berücksichtigen.",
+        "challenge": "Warum könnte der tägliche Kaffeesatz eines Cafés für einen lokalen Anbauer nützlicher sein als für die eigene Mülltonne des Cafés?"
+      },
+      "fr": {
+        "title": "Réutilisation du marc de café",
+        "definition": "Le marc de café, la matière restante après l'infusion, peut être réutilisé comme engrais de jardin, exfoliant, absorbeur d'odeurs et substrat de culture de champignons.",
+        "why": "Les cafés génèrent chaque jour de grands volumes de marc, ce qui fait de même des programmes de réutilisation simples une réduction significative des déchets.",
+        "tip": "Associez-vous à un jardin, une ferme ou un cultivateur de champignons local pour récupérer le marc régulièrement, plutôt que de compter sur les clients pour le collecter occasionnellement.",
+        "mistake": "Supposer que le marc usé est nutritionnellement similaire au compost frais sans tenir compte de son acidité et de son traitement préalable.",
+        "challenge": "Pourquoi le marc quotidien d'un café pourrait-il être plus utile à un producteur local qu'à la propre poubelle du café ?"
+      },
+      "it": {
+        "title": "Riutilizzo dei fondi di caffè esausti",
+        "definition": "I fondi di caffè esausti, il materiale residuo dopo la preparazione, possono essere riutilizzati come fertilizzante da giardino, esfoliante, assorbi-odori e substrato per la coltivazione di funghi.",
+        "why": "I bar generano grandi volumi di fondi ogni giorno, rendendo anche programmi semplici di riutilizzo una riduzione significativa degli sprechi.",
+        "tip": "Collabora con un giardino, un'azienda agricola o un coltivatore di funghi locale per ritirare i fondi regolarmente, invece di affidarti ai clienti che li raccolgono occasionalmente.",
+        "mistake": "Supporre che i fondi usati siano nutrizionalmente simili al materiale di compost fresco senza considerare la loro acidità e la lavorazione precedente.",
+        "challenge": "Perché i fondi quotidiani di un bar potrebbero essere più utili a un coltivatore locale che al bidone del bar stesso?"
+      }
+    },
+    "id": 271
+  },
+  {
+    "number": "272",
+    "title": "Cascara Cocktails & Sodas",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "272.jpg",
+    "definition": "Commercial cascara products include ready-to-drink sodas and cocktail syrups that use cascara's fruity sweetness as a flavor base.",
+    "why": "These products extend cascara beyond a niche tea into mainstream beverage categories with wider customer familiarity.",
+    "tip": "Try a commercial cascara soda to understand the flavor as a benchmark before brewing your own version.",
+    "mistake": "Assuming homemade cascara tea and commercial cascara soda will taste similar — added sugar and carbonation change the experience significantly.",
+    "challenge": "Why might packaging cascara as a soda reach a wider audience than serving it as a hot tea?",
+    "related": [
+      "264",
+      "265"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cócteles y refrescos de cascara",
+        "definition": "Los productos comerciales de cascara incluyen refrescos listos para beber y jarabes para cóctel que usan la dulzura afrutada de la cascara como base de sabor.",
+        "why": "Estos productos llevan la cascara más allá de un té de nicho hacia categorías de bebidas convencionales con mayor familiaridad para el cliente.",
+        "tip": "Prueba un refresco comercial de cascara para entender el sabor como referencia antes de preparar tu propia versión.",
+        "mistake": "Suponer que el té casero de cascara y el refresco comercial de cascara sabrán parecido — el azúcar añadido y la carbonatación cambian mucho la experiencia.",
+        "challenge": "¿Por qué presentar la cascara como refresco podría llegar a un público más amplio que servirla como té caliente?"
+      },
+      "pt": {
+        "title": "Coquetéis e refrigerantes de cascara",
+        "definition": "Os produtos comerciais de cascara incluem refrigerantes prontos para beber e xaropes de coquetel que usam a doçura frutada da cascara como base de sabor.",
+        "why": "Esses produtos levam a cascara além de um chá de nicho para categorias de bebidas convencionais com maior familiaridade do cliente.",
+        "tip": "Experimente um refrigerante comercial de cascara para entender o sabor como referência antes de preparar sua própria versão.",
+        "mistake": "Supor que o chá caseiro de cascara e o refrigerante comercial de cascara terão sabor semelhante — o açúcar adicionado e a carbonatação mudam bastante a experiência.",
+        "challenge": "Por que apresentar a cascara como refrigerante pode alcançar um público mais amplo do que servi-la como chá quente?"
+      },
+      "de": {
+        "title": "Cascara-Cocktails & Limonaden",
+        "definition": "Kommerzielle Cascara-Produkte umfassen trinkfertige Limonaden und Cocktail-Sirups, die die fruchtige Süße der Cascara als Geschmacksbasis nutzen.",
+        "why": "Diese Produkte bringen Cascara über einen Nischen-Tee hinaus in gängige Getränkekategorien mit breiterer Kundenvertrautheit.",
+        "tip": "Probiere eine kommerzielle Cascara-Limonade, um den Geschmack als Referenz zu verstehen, bevor du deine eigene Version brühst.",
+        "mistake": "Anzunehmen, hausgemachter Cascara-Tee und kommerzielle Cascara-Limonade würden ähnlich schmecken — zugesetzter Zucker und Kohlensäure verändern das Erlebnis erheblich.",
+        "challenge": "Warum könnte die Verpackung von Cascara als Limonade ein breiteres Publikum erreichen als das Servieren als heißer Tee?"
+      },
+      "fr": {
+        "title": "Cocktails et sodas à la cascara",
+        "definition": "Les produits commerciaux de cascara incluent des sodas prêts à boire et des sirops de cocktail qui utilisent la douceur fruitée de la cascara comme base aromatique.",
+        "why": "Ces produits étendent la cascara au-delà d'un thé de niche vers des catégories de boissons grand public avec une familiarité client plus large.",
+        "tip": "Essayez un soda commercial à la cascara pour comprendre la saveur comme référence avant de préparer votre propre version.",
+        "mistake": "Supposer que le thé de cascara fait maison et le soda commercial à la cascara auront un goût similaire — le sucre ajouté et la carbonatation changent significativement l'expérience.",
+        "challenge": "Pourquoi présenter la cascara sous forme de soda pourrait-il toucher un public plus large que la servir en thé chaud ?"
+      },
+      "it": {
+        "title": "Cocktail e bibite gassate alla cascara",
+        "definition": "I prodotti commerciali a base di cascara includono bibite gassate pronte da bere e sciroppi per cocktail che usano la dolcezza fruttata della cascara come base di sapore.",
+        "why": "Questi prodotti portano la cascara oltre un tè di nicchia verso categorie di bevande mainstream con maggiore familiarità del cliente.",
+        "tip": "Prova una bibita commerciale alla cascara per capire il sapore come riferimento prima di preparare la tua versione.",
+        "mistake": "Supporre che il tè di cascara fatto in casa e la bibita commerciale alla cascara abbiano un sapore simile — lo zucchero aggiunto e la carbonatazione cambiano significativamente l'esperienza.",
+        "challenge": "Perché confezionare la cascara come bibita gassata potrebbe raggiungere un pubblico più ampio rispetto a servirla come tè caldo?"
+      }
+    },
+    "id": 272
+  },
+  {
+    "number": "273",
+    "title": "Cascara Sourcing & Quality",
+    "category": "CAS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "273.jpg",
+    "definition": "Quality cascara sourcing looks at drying consistency, absence of mold or off-odors, and traceability back to a specific farm or mill.",
+    "why": "Poor-quality cascara can carry mold or fermentation defects invisible until it's steeped, unlike green coffee which can be cupped before buying.",
+    "tip": "Buy cascara from suppliers who can name the farm and processing method, the same standard applied to specialty green coffee.",
+    "mistake": "Buying cascara purely on price without asking about drying conditions or storage.",
+    "challenge": "Why is cascara arguably harder to quality-check before purchase than green coffee is?",
+    "related": [
+      "266",
+      "073"
+    ],
+    "translations": {
+      "es": {
+        "title": "Origen y calidad de la cascara",
+        "definition": "El abastecimiento de cascara de calidad examina la consistencia del secado, la ausencia de moho u olores extraños, y la trazabilidad hasta una finca o beneficio específico.",
+        "why": "La cascara de mala calidad puede tener defectos de moho o fermentación invisibles hasta que se infusiona, a diferencia del café verde, que puede catarse antes de comprar.",
+        "tip": "Compra cascara a proveedores que puedan nombrar la finca y el método de procesamiento, el mismo estándar que se aplica al café verde de especialidad.",
+        "mistake": "Comprar cascara únicamente por precio sin preguntar sobre las condiciones de secado o almacenamiento.",
+        "challenge": "¿Por qué la cascara es posiblemente más difícil de verificar en calidad antes de comprar que el café verde?"
+      },
+      "pt": {
+        "title": "Origem e qualidade da cascara",
+        "definition": "O abastecimento de cascara de qualidade observa a consistência da secagem, a ausência de mofo ou odores estranhos, e a rastreabilidade até uma fazenda ou beneficiamento específico.",
+        "why": "Cascara de má qualidade pode ter defeitos de mofo ou fermentação invisíveis até ser infundida, diferente do café verde, que pode ser provado antes da compra.",
+        "tip": "Compre cascara de fornecedores que consigam nomear a fazenda e o método de processamento, o mesmo padrão aplicado ao café verde especial.",
+        "mistake": "Comprar cascara apenas pelo preço sem perguntar sobre as condições de secagem ou armazenamento.",
+        "challenge": "Por que a cascara é possivelmente mais difícil de verificar quanto à qualidade antes da compra do que o café verde?"
+      },
+      "de": {
+        "title": "Beschaffung und Qualität von Cascara",
+        "definition": "Qualitätsvolle Cascara-Beschaffung achtet auf gleichmäßige Trocknung, Abwesenheit von Schimmel oder Fehlgerüchen und Rückverfolgbarkeit zu einer bestimmten Farm oder Mühle.",
+        "why": "Minderwertige Cascara kann Schimmel- oder Fermentationsfehler tragen, die bis zum Aufgießen unsichtbar sind, anders als Rohkaffee, der vor dem Kauf gecuppt werden kann.",
+        "tip": "Kaufe Cascara von Lieferanten, die Farm und Aufbereitungsmethode nennen können — derselbe Standard wie bei Specialty-Rohkaffee.",
+        "mistake": "Cascara rein nach Preis zu kaufen, ohne nach Trocknungsbedingungen oder Lagerung zu fragen.",
+        "challenge": "Warum ist Cascara vor dem Kauf wohl schwerer auf Qualität zu prüfen als Rohkaffee?"
+      },
+      "fr": {
+        "title": "Approvisionnement et qualité de la cascara",
+        "definition": "L'approvisionnement de qualité en cascara examine la constance du séchage, l'absence de moisissure ou d'odeurs anormales, et la traçabilité jusqu'à une ferme ou un moulin spécifique.",
+        "why": "Une cascara de mauvaise qualité peut présenter des défauts de moisissure ou de fermentation invisibles jusqu'à l'infusion, contrairement au café vert qui peut être dégusté avant l'achat.",
+        "tip": "Achetez de la cascara auprès de fournisseurs capables de nommer la ferme et la méthode de traitement, la même norme appliquée au café vert de spécialité.",
+        "mistake": "Acheter de la cascara uniquement sur le prix sans se renseigner sur les conditions de séchage ou de stockage.",
+        "challenge": "Pourquoi la cascara est-elle sans doute plus difficile à contrôler en qualité avant l'achat que le café vert ?"
+      },
+      "it": {
+        "title": "Approvvigionamento e qualità della cascara",
+        "definition": "L'approvvigionamento di cascara di qualità considera la coerenza dell'essiccazione, l'assenza di muffa o odori anomali, e la tracciabilità fino a una specifica azienda agricola o mulino.",
+        "why": "La cascara di scarsa qualità può presentare difetti di muffa o fermentazione invisibili fino all'infusione, a differenza del caffè verde che può essere assaggiato prima dell'acquisto.",
+        "tip": "Acquista cascara da fornitori che possano nominare l'azienda agricola e il metodo di lavorazione, lo stesso standard applicato al caffè verde specialty.",
+        "mistake": "Acquistare cascara solo in base al prezzo senza chiedere delle condizioni di essiccazione o conservazione.",
+        "challenge": "Perché la cascara è probabilmente più difficile da controllare in termini di qualità prima dell'acquisto rispetto al caffè verde?"
+      }
+    },
+    "id": 273
+  },
+  {
+    "number": "274",
+    "title": "The Environmental Case for Byproducts",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "274.jpg",
+    "definition": "Using coffee cherry byproducts reduces the volume of organic waste that would otherwise be dumped or left to rot near processing sites.",
+    "why": "Discarded pulp left in large piles can pollute waterways as it decomposes, making reuse an environmental as well as commercial win.",
+    "tip": "Frame byproduct use to customers as waste reduction, not just novelty, since that's the more durable story.",
+    "mistake": "Treating byproduct products as purely a marketing gimmick rather than acknowledging the real waste problem they address.",
+    "challenge": "Why might discarded coffee pulp be an environmental problem at origin even though it's organic material?",
+    "related": [
+      "229",
+      "269"
+    ],
+    "translations": {
+      "es": {
+        "title": "El argumento ambiental de los subproductos",
+        "definition": "Usar los subproductos de la cereza de café reduce el volumen de residuos orgánicos que de otro modo se verterían o se dejarían pudrir cerca de los lugares de procesamiento.",
+        "why": "La pulpa desechada dejada en grandes montones puede contaminar los cursos de agua al descomponerse, haciendo que su reutilización sea una ganancia ambiental además de comercial.",
+        "tip": "Presenta el uso de subproductos a los clientes como reducción de residuos, no solo como novedad, ya que es la historia más duradera.",
+        "mistake": "Tratar los productos derivados de subproductos como un simple truco de marketing en lugar de reconocer el problema real de residuos que resuelven.",
+        "challenge": "¿Por qué la pulpa de café desechada podría ser un problema ambiental en origen aunque sea material orgánico?"
+      },
+      "pt": {
+        "title": "O argumento ambiental dos subprodutos",
+        "definition": "Usar os subprodutos da cereja do café reduz o volume de resíduos orgânicos que, de outra forma, seriam despejados ou deixados apodrecer perto dos locais de processamento.",
+        "why": "A polpa descartada deixada em grandes pilhas pode poluir cursos d'água ao se decompor, tornando o reaproveitamento um ganho ambiental além de comercial.",
+        "tip": "Apresente o uso de subprodutos aos clientes como redução de resíduos, não apenas como novidade, já que essa é a história mais duradoura.",
+        "mistake": "Tratar produtos de subprodutos como um mero truque de marketing em vez de reconhecer o problema real de resíduos que resolvem.",
+        "challenge": "Por que a polpa de café descartada pode ser um problema ambiental na origem mesmo sendo material orgânico?"
+      },
+      "de": {
+        "title": "Das Umweltargument für Nebenprodukte",
+        "definition": "Die Nutzung von Kaffeekirschen-Nebenprodukten reduziert die Menge organischen Abfalls, der sonst in der Nähe von Aufbereitungsstandorten entsorgt oder verrotten gelassen würde.",
+        "why": "Weggeworfenes Fruchtfleisch in großen Haufen kann beim Verrotten Gewässer verschmutzen, was Wiederverwendung zu einem ökologischen ebenso wie kommerziellen Gewinn macht.",
+        "tip": "Präsentiere Nebenprodukt-Nutzung Kunden gegenüber als Abfallreduzierung, nicht nur als Neuheit, da das die langlebigere Geschichte ist.",
+        "mistake": "Nebenprodukte rein als Marketing-Gag zu behandeln, statt das echte Abfallproblem anzuerkennen, das sie adressieren.",
+        "challenge": "Warum könnte weggeworfenes Kaffeefruchtfleisch am Ursprungsort ein Umweltproblem sein, obwohl es organisches Material ist?"
+      },
+      "fr": {
+        "title": "L'argument environnemental des sous-produits",
+        "definition": "L'utilisation des sous-produits de la cerise de café réduit le volume de déchets organiques qui seraient autrement déversés ou laissés à pourrir près des sites de traitement.",
+        "why": "La pulpe jetée en grands tas peut polluer les cours d'eau en se décomposant, faisant de la réutilisation un gain environnemental autant que commercial.",
+        "tip": "Présentez l'utilisation des sous-produits aux clients comme une réduction des déchets, pas seulement comme une nouveauté, car c'est l'histoire la plus durable.",
+        "mistake": "Traiter les produits dérivés comme un simple argument marketing plutôt que de reconnaître le vrai problème de déchets qu'ils résolvent.",
+        "challenge": "Pourquoi la pulpe de café jetée pourrait-elle être un problème environnemental à l'origine même s'il s'agit de matière organique ?"
+      },
+      "it": {
+        "title": "L'argomento ambientale per i sottoprodotti",
+        "definition": "Usare i sottoprodotti della ciliegia di caffè riduce il volume di rifiuti organici che altrimenti verrebbero scaricati o lasciati marcire vicino ai siti di lavorazione.",
+        "why": "La polpa scartata lasciata in grandi cumuli può inquinare i corsi d'acqua mentre si decompone, rendendo il riutilizzo un vantaggio ambientale oltre che commerciale.",
+        "tip": "Presenta l'uso dei sottoprodotti ai clienti come riduzione degli sprechi, non solo come novità, poiché è la storia più duratura.",
+        "mistake": "Trattare i prodotti derivati dai sottoprodotti come un semplice espediente di marketing invece di riconoscere il vero problema di spreco che affrontano.",
+        "challenge": "Perché la polpa di caffè scartata potrebbe essere un problema ambientale all'origine anche se è materiale organico?"
+      }
+    },
+    "id": 274
+  },
+  {
+    "number": "275",
+    "title": "Cascara Market & Pricing",
+    "category": "CAS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "275.jpg",
+    "definition": "Cascara is bought by cafés, beverage brands, and food manufacturers, with pricing that varies widely based on quality, origin, and processing consistency.",
+    "why": "As a market still establishing standards, cascara pricing hasn't stabilized into the tiered structure that green coffee already has.",
+    "tip": "Compare cascara pricing per kilogram, not per bag, since bag sizes vary more than they do for standard green coffee.",
+    "mistake": "Assuming cascara pricing follows the same logic as green coffee pricing.",
+    "challenge": "Why might a young, less standardized market make pricing comparisons harder for buyers?",
+    "related": [
+      "263",
+      "273"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mercado y precios de la cascara",
+        "definition": "La cascara la compran cafeterías, marcas de bebidas y fabricantes de alimentos, con precios muy variables según calidad, origen y consistencia del procesamiento.",
+        "why": "Al ser un mercado aún en formación de estándares, el precio de la cascara no se ha estabilizado en la estructura escalonada que ya tiene el café verde.",
+        "tip": "Compara el precio de la cascara por kilogramo, no por bolsa, ya que el tamaño de las bolsas varía más que en el café verde estándar.",
+        "mistake": "Suponer que el precio de la cascara sigue la misma lógica que el precio del café verde.",
+        "challenge": "¿Por qué un mercado joven y menos estandarizado podría dificultar las comparaciones de precio para los compradores?"
+      },
+      "pt": {
+        "title": "Mercado e preços da cascara",
+        "definition": "A cascara é comprada por cafeterias, marcas de bebidas e fabricantes de alimentos, com preços que variam muito conforme qualidade, origem e consistência do processamento.",
+        "why": "Sendo um mercado ainda estabelecendo padrões, o preço da cascara não se estabilizou na estrutura escalonada que o café verde já possui.",
+        "tip": "Compare o preço da cascara por quilograma, não por saco, já que o tamanho dos sacos varia mais do que no café verde padrão.",
+        "mistake": "Supor que o preço da cascara segue a mesma lógica do preço do café verde.",
+        "challenge": "Por que um mercado jovem e menos padronizado pode dificultar as comparações de preço para os compradores?"
+      },
+      "de": {
+        "title": "Cascara-Markt und Preisgestaltung",
+        "definition": "Cascara wird von Cafés, Getränkemarken und Lebensmittelherstellern gekauft, wobei die Preise je nach Qualität, Ursprung und Aufbereitungskonsistenz stark variieren.",
+        "why": "Als noch entstehender Markt mit sich erst etablierenden Standards hat sich die Cascara-Preisgestaltung nicht in die gestufte Struktur eingependelt, die Rohkaffee bereits hat.",
+        "tip": "Vergleiche Cascara-Preise pro Kilogramm, nicht pro Beutel, da Beutelgrößen stärker variieren als bei Standard-Rohkaffee.",
+        "mistake": "Anzunehmen, Cascara-Preise folgten derselben Logik wie Rohkaffee-Preise.",
+        "challenge": "Warum könnte ein junger, weniger standardisierter Markt Preisvergleiche für Käufer erschweren?"
+      },
+      "fr": {
+        "title": "Marché et prix de la cascara",
+        "definition": "La cascara est achetée par des cafés, des marques de boissons et des fabricants alimentaires, avec des prix qui varient largement selon la qualité, l'origine et la constance du traitement.",
+        "why": "En tant que marché encore en train d'établir des normes, la tarification de la cascara ne s'est pas stabilisée dans la structure échelonnée qu'a déjà le café vert.",
+        "tip": "Comparez le prix de la cascara au kilogramme, pas au sac, car la taille des sacs varie plus que pour le café vert standard.",
+        "mistake": "Supposer que la tarification de la cascara suit la même logique que celle du café vert.",
+        "challenge": "Pourquoi un marché jeune et moins standardisé pourrait-il rendre les comparaisons de prix plus difficiles pour les acheteurs ?"
+      },
+      "it": {
+        "title": "Mercato e prezzi della cascara",
+        "definition": "La cascara viene acquistata da bar, marchi di bevande e produttori alimentari, con prezzi che variano ampiamente in base a qualità, origine e coerenza della lavorazione.",
+        "why": "Essendo un mercato ancora in fase di definizione degli standard, il prezzo della cascara non si è stabilizzato nella struttura a livelli che il caffè verde ha già.",
+        "tip": "Confronta il prezzo della cascara per chilogrammo, non per sacchetto, poiché le dimensioni dei sacchetti variano più che nel caffè verde standard.",
+        "mistake": "Supporre che il prezzo della cascara segua la stessa logica del prezzo del caffè verde.",
+        "challenge": "Perché un mercato giovane e meno standardizzato potrebbe rendere più difficili i confronti di prezzo per gli acquirenti?"
+      }
+    },
+    "id": 275
+  },
+  {
+    "number": "276",
+    "title": "Cascara Cold Brew",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "276.jpg",
+    "definition": "Cascara can be cold-steeped the same way coffee is for cold brew, producing a smoother, less tannic result than hot steeping.",
+    "why": "Cold extraction pulls less of the astringent compounds that can make hot-steeped cascara taste sharp if oversteeped.",
+    "tip": "Steep cascara cold for several hours in the refrigerator, similar timing to a light cold brew coffee.",
+    "mistake": "Applying the same steep time used for hot cascara tea to a cold steep, which needs much longer.",
+    "challenge": "Why does cold extraction change cascara's flavor balance compared to hot steeping?",
+    "related": [
+      "239",
+      "264"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cascara en frío",
+        "definition": "La cascara puede infusionarse en frío igual que el café para el cold brew, produciendo un resultado más suave y menos tánico que la infusión caliente.",
+        "why": "La extracción en frío extrae menos compuestos astringentes que pueden hacer que la cascara infusionada en caliente sepa áspera si se sobreinfusiona.",
+        "tip": "Infusiona la cascara en frío durante varias horas en el refrigerador, un tiempo similar al de un cold brew de café ligero.",
+        "mistake": "Aplicar el mismo tiempo de infusión usado para el té caliente de cascara a una infusión fría, que necesita mucho más tiempo.",
+        "challenge": "¿Por qué la extracción en frío cambia el equilibrio de sabor de la cascara en comparación con la infusión caliente?"
+      },
+      "pt": {
+        "title": "Cascara em cold brew",
+        "definition": "A cascara pode ser infundida a frio da mesma forma que o café para o cold brew, produzindo um resultado mais suave e menos tânico do que a infusão quente.",
+        "why": "A extração a frio retira menos dos compostos adstringentes que podem deixar a cascara infundida a quente com sabor áspero se infundida em excesso.",
+        "tip": "Infunda a cascara a frio por várias horas na geladeira, tempo semelhante ao de um cold brew de café leve.",
+        "mistake": "Aplicar o mesmo tempo de infusão usado para o chá quente de cascara a uma infusão fria, que precisa de muito mais tempo.",
+        "challenge": "Por que a extração a frio muda o equilíbrio de sabor da cascara em comparação com a infusão quente?"
+      },
+      "de": {
+        "title": "Cascara Cold Brew",
+        "definition": "Cascara kann genauso kalt gezogen werden wie Kaffee für Cold Brew, was ein weicheres, weniger tanninhaltiges Ergebnis als heißes Ziehen erzeugt.",
+        "why": "Kalte Extraktion zieht weniger adstringierende Verbindungen, die heiß gezogene Cascara bei Überextraktion scharf schmecken lassen können.",
+        "tip": "Ziehe Cascara mehrere Stunden kalt im Kühlschrank, ähnlich der Zeit für einen leichten Cold-Brew-Kaffee.",
+        "mistake": "Dieselbe Ziehzeit wie für heißen Cascara-Tee auf ein kaltes Ziehen anzuwenden, das viel länger braucht.",
+        "challenge": "Warum verändert kalte Extraktion die Geschmacksbalance von Cascara im Vergleich zu heißem Ziehen?"
+      },
+      "fr": {
+        "title": "Cascara en infusion froide",
+        "definition": "La cascara peut être infusée à froid de la même façon que le café pour le cold brew, produisant un résultat plus doux et moins tannique que l'infusion chaude.",
+        "why": "L'extraction à froid tire moins des composés astringents qui peuvent rendre la cascara infusée à chaud âpre en cas de sur-infusion.",
+        "tip": "Infusez la cascara à froid pendant plusieurs heures au réfrigérateur, un temps similaire à celui d'un café cold brew léger.",
+        "mistake": "Appliquer le même temps d'infusion utilisé pour le thé chaud de cascara à une infusion froide, qui nécessite beaucoup plus de temps.",
+        "challenge": "Pourquoi l'extraction à froid change-t-elle l'équilibre de saveur de la cascara par rapport à l'infusion chaude ?"
+      },
+      "it": {
+        "title": "Cascara cold brew",
+        "definition": "La cascara può essere infusa a freddo allo stesso modo del caffè per il cold brew, producendo un risultato più morbido e meno tannico rispetto all'infusione calda.",
+        "why": "L'estrazione a freddo tira fuori meno composti astringenti che possono rendere la cascara infusa a caldo dal sapore aspro se infusa troppo a lungo.",
+        "tip": "Infondi la cascara a freddo per diverse ore in frigorifero, tempistica simile a quella di un cold brew di caffè leggero.",
+        "mistake": "Applicare lo stesso tempo di infusione usato per il tè caldo di cascara a un'infusione fredda, che richiede molto più tempo.",
+        "challenge": "Perché l'estrazione a freddo cambia l'equilibrio di sapore della cascara rispetto all'infusione calda?"
+      }
+    },
+    "id": 276
+  },
+  {
+    "number": "277",
+    "title": "Byproduct Regulation & Food Safety",
+    "category": "CAS",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "277.jpg",
+    "definition": "Coffee byproducts like cascara have faced regulatory uncertainty in some markets, including periods where cascara was classified as a novel food requiring separate approval.",
+    "why": "A product with centuries of informal use at origin can still face import restrictions in markets treating it as an unapproved new food.",
+    "tip": "Check the current regulatory status of cascara in your specific market before importing or selling it commercially.",
+    "mistake": "Assuming a product's long history of traditional use automatically satisfies modern food safety regulation elsewhere.",
+    "challenge": "Why might a food eaten for generations at origin still need formal approval to be sold somewhere else?",
+    "related": [
+      "263",
+      "108"
+    ],
+    "translations": {
+      "es": {
+        "title": "Regulación de subproductos y seguridad alimentaria",
+        "definition": "Subproductos del café como la cascara han enfrentado incertidumbre regulatoria en algunos mercados, incluidos períodos en que se clasificó como alimento novedoso que requería aprobación separada.",
+        "why": "Un producto con siglos de uso informal en origen puede aun así enfrentar restricciones de importación en mercados que lo tratan como un alimento nuevo no aprobado.",
+        "tip": "Verifica el estado regulatorio actual de la cascara en tu mercado específico antes de importarla o venderla comercialmente.",
+        "mistake": "Suponer que el largo historial de uso tradicional de un producto satisface automáticamente la regulación moderna de seguridad alimentaria en otro lugar.",
+        "challenge": "¿Por qué un alimento consumido durante generaciones en origen podría necesitar aprobación formal para venderse en otro lugar?"
+      },
+      "pt": {
+        "title": "Regulamentação de subprodutos e segurança alimentar",
+        "definition": "Subprodutos do café como a cascara enfrentaram incerteza regulatória em alguns mercados, incluindo períodos em que a cascara foi classificada como alimento novo exigindo aprovação separada.",
+        "why": "Um produto com séculos de uso informal na origem ainda pode enfrentar restrições de importação em mercados que o tratam como um alimento novo não aprovado.",
+        "tip": "Verifique o status regulatório atual da cascara no seu mercado específico antes de importá-la ou vendê-la comercialmente.",
+        "mistake": "Supor que o longo histórico de uso tradicional de um produto satisfaz automaticamente a regulamentação moderna de segurança alimentar em outro lugar.",
+        "challenge": "Por que um alimento consumido por gerações na origem ainda pode precisar de aprovação formal para ser vendido em outro lugar?"
+      },
+      "de": {
+        "title": "Regulierung von Nebenprodukten und Lebensmittelsicherheit",
+        "definition": "Kaffee-Nebenprodukte wie Cascara sahen sich in manchen Märkten regulatorischer Unsicherheit gegenüber, einschließlich Phasen, in denen Cascara als neuartiges Lebensmittel eingestuft wurde, das gesonderte Zulassung erfordert.",
+        "why": "Ein Produkt mit jahrhundertelanger informeller Nutzung am Ursprungsort kann trotzdem Importbeschränkungen in Märkten unterliegen, die es als nicht zugelassenes neues Lebensmittel behandeln.",
+        "tip": "Prüfe den aktuellen regulatorischen Status von Cascara in deinem spezifischen Markt, bevor du sie kommerziell importierst oder verkaufst.",
+        "mistake": "Anzunehmen, die lange traditionelle Nutzungsgeschichte eines Produkts erfülle automatisch moderne Lebensmittelsicherheitsvorschriften anderswo.",
+        "challenge": "Warum könnte ein seit Generationen am Ursprungsort gegessenes Lebensmittel trotzdem eine formelle Zulassung benötigen, um anderswo verkauft zu werden?"
+      },
+      "fr": {
+        "title": "Réglementation des sous-produits et sécurité alimentaire",
+        "definition": "Les sous-produits du café comme la cascara ont fait face à une incertitude réglementaire sur certains marchés, y compris des périodes où la cascara était classée comme nouvel aliment nécessitant une approbation distincte.",
+        "why": "Un produit ayant des siècles d'utilisation informelle à l'origine peut malgré tout faire face à des restrictions d'importation sur des marchés qui le traitent comme un nouvel aliment non approuvé.",
+        "tip": "Vérifiez le statut réglementaire actuel de la cascara sur votre marché spécifique avant de l'importer ou de la vendre commercialement.",
+        "mistake": "Supposer que le long historique d'utilisation traditionnelle d'un produit satisfait automatiquement la réglementation moderne de sécurité alimentaire ailleurs.",
+        "challenge": "Pourquoi un aliment consommé depuis des générations à l'origine pourrait-il encore nécessiter une approbation formelle pour être vendu ailleurs ?"
+      },
+      "it": {
+        "title": "Regolamentazione dei sottoprodotti e sicurezza alimentare",
+        "definition": "I sottoprodotti del caffè come la cascara hanno affrontato incertezza normativa in alcuni mercati, inclusi periodi in cui la cascara è stata classificata come nuovo alimento che richiede approvazione separata.",
+        "why": "Un prodotto con secoli di uso informale all'origine può comunque affrontare restrizioni all'importazione in mercati che lo trattano come un nuovo alimento non approvato.",
+        "tip": "Verifica lo stato normativo attuale della cascara nel tuo mercato specifico prima di importarla o venderla commercialmente.",
+        "mistake": "Supporre che la lunga storia di uso tradizionale di un prodotto soddisfi automaticamente la moderna regolamentazione sulla sicurezza alimentare altrove.",
+        "challenge": "Perché un alimento consumato per generazioni all'origine potrebbe comunque aver bisogno di approvazione formale per essere venduto altrove?"
+      }
+    },
+    "id": 277
+  },
+  {
+    "number": "278",
+    "title": "The Business Case for Byproducts",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "278.jpg",
+    "definition": "Selling byproducts like cascara gives farmers an additional revenue stream from the same harvest, without growing any more coffee.",
+    "why": "Coffee farming income is often thin and volatile, so extra income from material that used to be discarded can meaningfully help farm economics.",
+    "tip": "Ask whether the origin you're buying from also sells cascara, since it signals additional infrastructure and income at that farm.",
+    "mistake": "Treating byproduct sales as a minor curiosity rather than recognizing their real economic value to smallholder farms.",
+    "challenge": "Why might extra income from a byproduct matter more to a farmer than it does to a buyer?",
+    "related": [
+      "225",
+      "263"
+    ],
+    "translations": {
+      "es": {
+        "title": "El argumento comercial de los subproductos",
+        "definition": "Vender subproductos como la cascara da a los agricultores una fuente de ingresos adicional de la misma cosecha, sin necesidad de cultivar más café.",
+        "why": "El ingreso del cultivo de café suele ser escaso y volátil, así que un ingreso extra de material que antes se desechaba puede ayudar de forma significativa a la economía de la finca.",
+        "tip": "Pregunta si el origen del que compras también vende cascara, ya que indica infraestructura e ingresos adicionales en esa finca.",
+        "mistake": "Tratar la venta de subproductos como una curiosidad menor en lugar de reconocer su verdadero valor económico para los pequeños agricultores.",
+        "challenge": "¿Por qué el ingreso extra de un subproducto podría importarle más a un agricultor que a un comprador?"
+      },
+      "pt": {
+        "title": "O argumento de negócio dos subprodutos",
+        "definition": "Vender subprodutos como a cascara dá aos agricultores uma fonte de renda adicional da mesma safra, sem precisar cultivar mais café.",
+        "why": "A renda do cultivo de café costuma ser pequena e volátil, então uma renda extra de material que antes era descartado pode ajudar de forma significativa a economia da fazenda.",
+        "tip": "Pergunte se a origem de onde você compra também vende cascara, já que isso indica infraestrutura e renda adicional naquela fazenda.",
+        "mistake": "Tratar a venda de subprodutos como uma curiosidade menor em vez de reconhecer seu real valor econômico para pequenos agricultores.",
+        "challenge": "Por que uma renda extra de um subproduto pode importar mais para um agricultor do que para um comprador?"
+      },
+      "de": {
+        "title": "Das Geschäftsargument für Nebenprodukte",
+        "definition": "Der Verkauf von Nebenprodukten wie Cascara gibt Bauern eine zusätzliche Einnahmequelle aus derselben Ernte, ohne mehr Kaffee anzubauen.",
+        "why": "Das Einkommen aus dem Kaffeeanbau ist oft dünn und schwankend, sodass zusätzliches Einkommen aus früher weggeworfenem Material der Farmwirtschaft spürbar helfen kann.",
+        "tip": "Frage, ob der Ursprung, von dem du kaufst, auch Cascara verkauft, da dies zusätzliche Infrastruktur und Einkommen auf dieser Farm signalisiert.",
+        "mistake": "Nebenprodukt-Verkäufe als kleine Kuriosität zu behandeln, statt ihren echten wirtschaftlichen Wert für Kleinbauern anzuerkennen.",
+        "challenge": "Warum könnte zusätzliches Einkommen aus einem Nebenprodukt einem Bauern wichtiger sein als einem Käufer?"
+      },
+      "fr": {
+        "title": "L'argument commercial des sous-produits",
+        "definition": "La vente de sous-produits comme la cascara donne aux producteurs une source de revenus supplémentaire issue de la même récolte, sans cultiver plus de café.",
+        "why": "Le revenu de la culture du café est souvent faible et volatil, donc un revenu supplémentaire provenant d'une matière auparavant jetée peut aider significativement l'économie de la ferme.",
+        "tip": "Demandez si l'origine chez qui vous achetez vend aussi de la cascara, car cela signale une infrastructure et un revenu supplémentaires sur cette ferme.",
+        "mistake": "Traiter les ventes de sous-produits comme une curiosité mineure plutôt que de reconnaître leur véritable valeur économique pour les petits producteurs.",
+        "challenge": "Pourquoi un revenu supplémentaire provenant d'un sous-produit pourrait-il compter davantage pour un producteur que pour un acheteur ?"
+      },
+      "it": {
+        "title": "L'argomento economico per i sottoprodotti",
+        "definition": "Vendere sottoprodotti come la cascara dà agli agricoltori una fonte di reddito aggiuntiva dallo stesso raccolto, senza coltivare più caffè.",
+        "why": "Il reddito della coltivazione del caffè è spesso esiguo e volatile, quindi un reddito extra da materiale che prima veniva scartato può aiutare in modo significativo l'economia dell'azienda agricola.",
+        "tip": "Chiedi se l'origine da cui acquisti vende anche cascara, poiché segnala infrastrutture e reddito aggiuntivi in quell'azienda agricola.",
+        "mistake": "Trattare le vendite di sottoprodotti come una curiosità minore invece di riconoscere il loro vero valore economico per i piccoli agricoltori.",
+        "challenge": "Perché un reddito extra da un sottoprodotto potrebbe contare più per un agricoltore che per un acquirente?"
+      }
+    },
+    "id": 278
   }
 ]
