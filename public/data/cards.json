@@ -18618,5 +18618,965 @@
       }
     },
     "id": 246
+  },
+  {
+    "number": "247",
+    "title": "Daily Backflushing",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "247.jpg",
+    "definition": "Backflushing forces water and detergent backward through the group head using a blind basket to strip oils and coffee residue from the internal valve.",
+    "why": "Daily backflushing prevents rancid oil buildup that causes stale, bitter-tasting shots regardless of how good the coffee is.",
+    "tip": "Backflush with detergent at the end of every day the machine runs, and with plain water several times during service.",
+    "mistake": "Backflushing with detergent while the portafilter still has coffee in the basket instead of a blind (solid) basket.",
+    "challenge": "Why does backflushing use a blind basket instead of a normal one?",
+    "related": [
+      "036",
+      "041",
+      "250"
+    ],
+    "translations": {
+      "es": {
+        "title": "Retrolavado diario",
+        "definition": "El retrolavado fuerza agua y detergente hacia atrás a través del grupo usando un filtro ciego para eliminar aceites y residuos de café de la válvula interna.",
+        "why": "El retrolavado diario evita la acumulación de aceites rancios que causan shots de sabor viejo y amargo, sin importar la calidad del café.",
+        "tip": "Retrolava con detergente al final de cada día de uso, y con agua sola varias veces durante el servicio.",
+        "mistake": "Retrolavar con detergente mientras el portafiltro todavía tiene café en la canasta en lugar de una canasta ciega.",
+        "challenge": "¿Por qué el retrolavado usa una canasta ciega en lugar de una normal?"
+      },
+      "pt": {
+        "title": "Retrolavagem diária",
+        "definition": "A retrolavagem força água e detergente para trás através do grupo usando um filtro cego para remover óleos e resíduos de café da válvula interna.",
+        "why": "A retrolavagem diária evita o acúmulo de óleos rançosos que causam shots de sabor velho e amargo, não importa a qualidade do café.",
+        "tip": "Faça retrolavagem com detergente no final de cada dia de uso, e com água pura várias vezes durante o serviço.",
+        "mistake": "Fazer retrolavagem com detergente enquanto o portafiltro ainda tem café no cesto em vez de um cesto cego.",
+        "challenge": "Por que a retrolavagem usa um cesto cego em vez de um normal?"
+      },
+      "de": {
+        "title": "Tägliches Backflushing",
+        "definition": "Beim Backflushing wird Wasser und Reinigungsmittel mithilfe eines Blindsiebs rückwärts durch die Brühgruppe gepresst, um Öle und Kaffeerückstände aus dem internen Ventil zu entfernen.",
+        "why": "Tägliches Backflushing verhindert ranzige Ölablagerungen, die unabhängig von der Kaffeequalität abgestanden und bitter schmeckende Shots verursachen.",
+        "tip": "Backflushe am Ende jedes Betriebstages mit Reinigungsmittel und mehrmals während des Service mit klarem Wasser.",
+        "mistake": "Mit Reinigungsmittel zu backflushen, während sich noch Kaffee im Siebeinsatz befindet, statt eines Blindsiebs.",
+        "challenge": "Warum wird beim Backflushing ein Blindsieb statt eines normalen verwendet?"
+      },
+      "fr": {
+        "title": "Rétro-lavage quotidien",
+        "definition": "Le rétro-lavage force l'eau et le détergent à contre-courant à travers le groupe en utilisant un panier aveugle pour éliminer les huiles et résidus de café de la vanne interne.",
+        "why": "Le rétro-lavage quotidien évite l'accumulation d'huiles rances qui provoquent des shots au goût vieux et amer, quelle que soit la qualité du café.",
+        "tip": "Rétro-lavez avec du détergent à la fin de chaque journée d'utilisation, et à l'eau claire plusieurs fois pendant le service.",
+        "mistake": "Rétro-laver avec du détergent alors que le porte-filtre contient encore du café au lieu d'un panier aveugle.",
+        "challenge": "Pourquoi le rétro-lavage utilise-t-il un panier aveugle plutôt qu'un panier normal ?"
+      },
+      "it": {
+        "title": "Backflush quotidiano",
+        "definition": "Il backflush spinge acqua e detergente all'indietro attraverso il gruppo usando un filtro cieco per rimuovere oli e residui di caffè dalla valvola interna.",
+        "why": "Il backflush quotidiano previene l'accumulo di oli rancidi che causano shot dal sapore stantio e amaro, indipendentemente dalla qualità del caffè.",
+        "tip": "Fai il backflush con detergente alla fine di ogni giornata di utilizzo, e con acqua pura più volte durante il servizio.",
+        "mistake": "Fare il backflush con detergente mentre il portafiltro ha ancora caffè nel cestello invece di un cestello cieco.",
+        "challenge": "Perché il backflush usa un cestello cieco invece di uno normale?"
+      }
+    },
+    "id": 247
+  },
+  {
+    "number": "248",
+    "title": "Descaling",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "248.jpg",
+    "definition": "Descaling removes limescale deposits built up inside boilers and pipes from dissolved minerals in the water.",
+    "why": "Scale insulates heating elements and narrows pipes, wasting energy and eventually damaging the machine.",
+    "tip": "Follow the manufacturer's descaling schedule rather than waiting for visible symptoms.",
+    "mistake": "Assuming a water filter makes descaling unnecessary.",
+    "challenge": "Why does scale build up even with a water filter installed?",
+    "related": [
+      "044",
+      "247"
+    ],
+    "translations": {
+      "es": {
+        "title": "Desincrustación",
+        "definition": "La desincrustación elimina los depósitos de cal acumulados dentro de calderas y tuberías por los minerales disueltos en el agua.",
+        "why": "La cal aísla las resistencias y estrecha las tuberías, desperdiciando energía y dañando finalmente la máquina.",
+        "tip": "Sigue el calendario de desincrustación del fabricante en lugar de esperar síntomas visibles.",
+        "mistake": "Suponer que un filtro de agua hace innecesaria la desincrustación.",
+        "challenge": "¿Por qué se acumula cal incluso con un filtro de agua instalado?"
+      },
+      "pt": {
+        "title": "Descalcificação",
+        "definition": "A descalcificação remove os depósitos de calcário acumulados dentro de caldeiras e tubos pelos minerais dissolvidos na água.",
+        "why": "O calcário isola as resistências e estreita os tubos, desperdiçando energia e eventualmente danificando a máquina.",
+        "tip": "Siga o cronograma de descalcificação do fabricante em vez de esperar sintomas visíveis.",
+        "mistake": "Supor que um filtro de água torna a descalcificação desnecessária.",
+        "challenge": "Por que o calcário se acumula mesmo com um filtro de água instalado?"
+      },
+      "de": {
+        "title": "Entkalken",
+        "definition": "Entkalken entfernt Kalkablagerungen, die sich durch gelöste Mineralien im Wasser in Boilern und Rohren gebildet haben.",
+        "why": "Kalk isoliert Heizelemente und verengt Rohre, was Energie verschwendet und die Maschine schließlich beschädigt.",
+        "tip": "Folge dem Entkalkungsplan des Herstellers, statt auf sichtbare Symptome zu warten.",
+        "mistake": "Anzunehmen, ein Wasserfilter mache Entkalken überflüssig.",
+        "challenge": "Warum bildet sich Kalk auch bei installiertem Wasserfilter?"
+      },
+      "fr": {
+        "title": "Détartrage",
+        "definition": "Le détartrage élimine les dépôts de calcaire accumulés à l'intérieur des chaudières et tuyaux par les minéraux dissous dans l'eau.",
+        "why": "Le calcaire isole les résistances et rétrécit les tuyaux, gaspillant de l'énergie et finissant par endommager la machine.",
+        "tip": "Suivez le calendrier de détartrage du fabricant plutôt que d'attendre des symptômes visibles.",
+        "mistake": "Supposer qu'un filtre à eau rend le détartrage inutile.",
+        "challenge": "Pourquoi le calcaire s'accumule-t-il même avec un filtre à eau installé ?"
+      },
+      "it": {
+        "title": "Decalcificazione",
+        "definition": "La decalcificazione rimuove i depositi di calcare accumulati all'interno di caldaie e tubi dai minerali disciolti nell'acqua.",
+        "why": "Il calcare isola le resistenze e restringe i tubi, sprecando energia e alla fine danneggiando la macchina.",
+        "tip": "Segui il programma di decalcificazione del produttore invece di aspettare sintomi visibili.",
+        "mistake": "Supporre che un filtro dell'acqua renda inutile la decalcificazione.",
+        "challenge": "Perché il calcare si accumula anche con un filtro dell'acqua installato?"
+      }
+    },
+    "id": 248
+  },
+  {
+    "number": "249",
+    "title": "Group Head Gasket Replacement",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "249.jpg",
+    "definition": "The group head gasket is a rubber seal that creates a watertight fit between the portafilter and the group when locked in.",
+    "why": "A worn gasket leaks water and grounds, causing channeling and a hissing sound during extraction.",
+    "tip": "Replace gaskets on a schedule based on shot volume, not just when they visibly fail.",
+    "mistake": "Waiting for an obvious leak before replacing a gasket that has already been affecting extraction for weeks.",
+    "challenge": "Why might a worn gasket affect flavor before it visibly leaks?",
+    "related": [
+      "041",
+      "036"
+    ],
+    "translations": {
+      "es": {
+        "title": "Reemplazo del sello del grupo",
+        "definition": "El sello del grupo es una junta de goma que crea un ajuste hermético entre el portafiltro y el grupo cuando está enganchado.",
+        "why": "Un sello desgastado deja escapar agua y café molido, causando canalización y un silbido durante la extracción.",
+        "tip": "Reemplaza los sellos según un calendario basado en el volumen de shots, no solo cuando fallan visiblemente.",
+        "mistake": "Esperar una fuga evidente antes de reemplazar un sello que ya lleva semanas afectando la extracción.",
+        "challenge": "¿Por qué un sello desgastado podría afectar el sabor antes de gotear visiblemente?"
+      },
+      "pt": {
+        "title": "Substituição da vedação do grupo",
+        "definition": "A vedação do grupo é um anel de borracha que cria um ajuste hermético entre o portafiltro e o grupo quando encaixado.",
+        "why": "Uma vedação desgastada vaza água e pó de café, causando canalização e um assobio durante a extração.",
+        "tip": "Substitua as vedações seguindo um cronograma baseado no volume de shots, não apenas quando falharem visivelmente.",
+        "mistake": "Esperar um vazamento óbvio antes de substituir uma vedação que já afeta a extração há semanas.",
+        "challenge": "Por que uma vedação desgastada pode afetar o sabor antes de vazar visivelmente?"
+      },
+      "de": {
+        "title": "Austausch der Brühgruppendichtung",
+        "definition": "Die Brühgruppendichtung ist eine Gummidichtung, die eine wasserdichte Passung zwischen Siebträger und Brühgruppe erzeugt, wenn er eingerastet ist.",
+        "why": "Eine abgenutzte Dichtung lässt Wasser und Kaffeemehl austreten, was Kanalbildung und ein zischendes Geräusch während der Extraktion verursacht.",
+        "tip": "Ersetze Dichtungen nach einem Zeitplan basierend auf dem Shot-Volumen, nicht erst, wenn sie sichtbar versagen.",
+        "mistake": "Auf ein offensichtliches Leck zu warten, bevor eine Dichtung ersetzt wird, die die Extraktion schon wochenlang beeinträchtigt hat.",
+        "challenge": "Warum könnte eine abgenutzte Dichtung den Geschmack beeinflussen, bevor sie sichtbar leckt?"
+      },
+      "fr": {
+        "title": "Remplacement du joint du groupe",
+        "definition": "Le joint du groupe est un joint en caoutchouc qui crée un ajustement étanche entre le porte-filtre et le groupe une fois verrouillé.",
+        "why": "Un joint usé laisse fuir de l'eau et du café moulu, causant du canaling et un sifflement pendant l'extraction.",
+        "tip": "Remplacez les joints selon un calendrier basé sur le volume de shots, pas seulement quand ils échouent visiblement.",
+        "mistake": "Attendre une fuite évidente avant de remplacer un joint qui affecte déjà l'extraction depuis des semaines.",
+        "challenge": "Pourquoi un joint usé pourrait-il affecter la saveur avant de fuir visiblement ?"
+      },
+      "it": {
+        "title": "Sostituzione della guarnizione del gruppo",
+        "definition": "La guarnizione del gruppo è una tenuta in gomma che crea un adattamento a tenuta stagna tra portafiltro e gruppo quando agganciato.",
+        "why": "Una guarnizione usurata fa perdere acqua e caffè macinato, causando channeling e un sibilo durante l'estrazione.",
+        "tip": "Sostituisci le guarnizioni secondo un programma basato sul volume di shot, non solo quando falliscono visibilmente.",
+        "mistake": "Aspettare una perdita evidente prima di sostituire una guarnizione che influisce già sull'estrazione da settimane.",
+        "challenge": "Perché una guarnizione usurata potrebbe influenzare il sapore prima di perdere visibilmente?"
+      }
+    },
+    "id": 249
+  },
+  {
+    "number": "250",
+    "title": "Shower Screen Deep Clean",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "250.jpg",
+    "definition": "A deep clean removes the shower screen and dispersion plate entirely to clear residue trapped behind them, beyond what daily brushing reaches.",
+    "why": "Buildup behind the screen disrupts even water distribution across the puck, even if the visible surface looks clean.",
+    "tip": "Soak removed screens in detergent solution rather than scrubbing them dry.",
+    "mistake": "Only ever brushing the visible front surface of the shower screen.",
+    "challenge": "Why can a shower screen look clean but still cause uneven extraction?",
+    "related": [
+      "039",
+      "247"
+    ],
+    "translations": {
+      "es": {
+        "title": "Limpieza profunda de la ducha",
+        "definition": "Una limpieza profunda retira por completo la ducha y el plato difusor para eliminar residuos atrapados detrás, más allá de lo que alcanza el cepillado diario.",
+        "why": "La acumulación detrás de la ducha altera la distribución uniforme del agua sobre el café, aunque la superficie visible parezca limpia.",
+        "tip": "Remoja las duchas retiradas en solución detergente en lugar de cepillarlas en seco.",
+        "mistake": "Cepillar siempre solo la superficie frontal visible de la ducha.",
+        "challenge": "¿Por qué una ducha puede verse limpia pero seguir causando una extracción desigual?"
+      },
+      "pt": {
+        "title": "Limpeza profunda do chuveiro",
+        "definition": "Uma limpeza profunda remove completamente o chuveiro e o disco difusor para eliminar resíduos presos atrás deles, além do que a escovação diária alcança.",
+        "why": "O acúmulo atrás do chuveiro atrapalha a distribuição uniforme da água sobre o café, mesmo que a superfície visível pareça limpa.",
+        "tip": "Deixe os chuveiros removidos de molho em solução detergente em vez de escová-los a seco.",
+        "mistake": "Escovar sempre apenas a superfície frontal visível do chuveiro.",
+        "challenge": "Por que um chuveiro pode parecer limpo mas ainda causar extração desigual?"
+      },
+      "de": {
+        "title": "Tiefenreinigung des Duschsiebs",
+        "definition": "Bei einer Tiefenreinigung werden Duschsieb und Verteilerplatte vollständig entfernt, um Rückstände dahinter zu beseitigen, die die tägliche Bürste nicht erreicht.",
+        "why": "Ablagerungen hinter dem Sieb stören die gleichmäßige Wasserverteilung über dem Kaffeepuck, selbst wenn die sichtbare Oberfläche sauber aussieht.",
+        "tip": "Weiche entfernte Siebe in Reinigungslösung ein, statt sie trocken zu schrubben.",
+        "mistake": "Immer nur die sichtbare Vorderseite des Duschsiebs zu bürsten.",
+        "challenge": "Warum kann ein Duschsieb sauber aussehen und trotzdem ungleichmäßige Extraktion verursachen?"
+      },
+      "fr": {
+        "title": "Nettoyage en profondeur de l'écran de douche",
+        "definition": "Un nettoyage en profondeur retire entièrement l'écran de douche et la plaque de répartition pour éliminer les résidus piégés derrière, au-delà de ce que le brossage quotidien atteint.",
+        "why": "L'accumulation derrière l'écran perturbe la répartition uniforme de l'eau sur la galette, même si la surface visible paraît propre.",
+        "tip": "Faites tremper les écrans retirés dans une solution détergente plutôt que de les brosser à sec.",
+        "mistake": "Ne brosser que la surface avant visible de l'écran de douche.",
+        "challenge": "Pourquoi un écran de douche peut-il paraître propre tout en causant une extraction inégale ?"
+      },
+      "it": {
+        "title": "Pulizia profonda della doccetta",
+        "definition": "Una pulizia profonda rimuove completamente la doccetta e la piastra di distribuzione per eliminare i residui intrappolati dietro, oltre a ciò che la spazzolatura quotidiana raggiunge.",
+        "why": "L'accumulo dietro la doccetta disturba la distribuzione uniforme dell'acqua sul panetto, anche se la superficie visibile sembra pulita.",
+        "tip": "Immergi le doccette rimosse in soluzione detergente invece di spazzolarle a secco.",
+        "mistake": "Spazzolare sempre solo la superficie anteriore visibile della doccetta.",
+        "challenge": "Perché una doccetta può sembrare pulita ma causare comunque un'estrazione irregolare?"
+      }
+    },
+    "id": 250
+  },
+  {
+    "number": "251",
+    "title": "Grinder Burr Cleaning",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "251.jpg",
+    "definition": "Burr cleaning removes trapped coffee oils and fines built up between and around the burrs, separate from replacing worn burrs entirely.",
+    "why": "Oil buildup on burrs turns rancid and taints fresh coffee even when the beans themselves are fresh.",
+    "tip": "Use dedicated grinder cleaning tablets rather than water, which can promote rust on some burr sets.",
+    "mistake": "Confusing burr cleaning with burr replacement — a clean burr can still be a worn burr.",
+    "challenge": "Why might a freshly cleaned grinder still need new burrs?",
+    "related": [
+      "042",
+      "043"
+    ],
+    "translations": {
+      "es": {
+        "title": "Limpieza de las muelas del molino",
+        "definition": "La limpieza de muelas elimina los aceites de café y finos atrapados entre y alrededor de las muelas, algo distinto de reemplazar muelas desgastadas.",
+        "why": "La acumulación de aceite en las muelas se vuelve rancia y contamina el café fresco aunque los granos mismos sean frescos.",
+        "tip": "Usa pastillas de limpieza específicas para molinos en lugar de agua, que puede favorecer el óxido en algunos juegos de muelas.",
+        "mistake": "Confundir limpieza de muelas con reemplazo de muelas — una muela limpia puede seguir siendo una muela desgastada.",
+        "challenge": "¿Por qué un molino recién limpiado podría seguir necesitando muelas nuevas?"
+      },
+      "pt": {
+        "title": "Limpeza das mós do moedor",
+        "definition": "A limpeza das mós remove óleos de café e finos presos entre e ao redor das mós, algo diferente de substituir mós desgastadas.",
+        "why": "O acúmulo de óleo nas mós fica rançoso e contamina o café fresco mesmo quando os grãos em si estão frescos.",
+        "tip": "Use pastilhas de limpeza específicas para moedores em vez de água, que pode favorecer ferrugem em alguns conjuntos de mós.",
+        "mistake": "Confundir limpeza de mós com substituição de mós — uma mó limpa ainda pode ser uma mó desgastada.",
+        "challenge": "Por que um moedor recém-limpo ainda pode precisar de mós novas?"
+      },
+      "de": {
+        "title": "Reinigung der Mahlscheiben",
+        "definition": "Die Mahlscheibenreinigung entfernt eingeschlossene Kaffeeöle und Feinanteile zwischen und um die Mahlscheiben, getrennt vom kompletten Austausch abgenutzter Mahlscheiben.",
+        "why": "Ölablagerungen auf den Mahlscheiben werden ranzig und verderben frischen Kaffee, selbst wenn die Bohnen selbst frisch sind.",
+        "tip": "Verwende spezielle Mühlenreinigungstabletten statt Wasser, das bei manchen Mahlscheibensets Rost fördern kann.",
+        "mistake": "Mahlscheibenreinigung mit Mahlscheibenaustausch zu verwechseln — eine saubere Mahlscheibe kann trotzdem abgenutzt sein.",
+        "challenge": "Warum könnte eine frisch gereinigte Mühle trotzdem neue Mahlscheiben benötigen?"
+      },
+      "fr": {
+        "title": "Nettoyage des meules du moulin",
+        "definition": "Le nettoyage des meules élimine les huiles de café et les fines piégées entre et autour des meules, ce qui diffère du remplacement complet de meules usées.",
+        "why": "L'accumulation d'huile sur les meules devient rance et contamine le café frais même quand les grains eux-mêmes sont frais.",
+        "tip": "Utilisez des pastilles de nettoyage spécifiques aux moulins plutôt que de l'eau, qui peut favoriser la rouille sur certains jeux de meules.",
+        "mistake": "Confondre nettoyage des meules et remplacement des meules — une meule propre peut rester une meule usée.",
+        "challenge": "Pourquoi un moulin fraîchement nettoyé pourrait-il encore avoir besoin de nouvelles meules ?"
+      },
+      "it": {
+        "title": "Pulizia delle macine",
+        "definition": "La pulizia delle macine rimuove oli di caffè e fini intrappolati tra e intorno alle macine, cosa diversa dalla sostituzione completa di macine usurate.",
+        "why": "L'accumulo di olio sulle macine diventa rancido e contamina il caffè fresco anche quando i chicchi stessi sono freschi.",
+        "tip": "Usa pastiglie di pulizia specifiche per macinacaffè invece di acqua, che può favorire la ruggine su alcuni set di macine.",
+        "mistake": "Confondere la pulizia delle macine con la sostituzione delle macine — una macina pulita può comunque essere una macina usurata.",
+        "challenge": "Perché un macinacaffè appena pulito potrebbe comunque aver bisogno di macine nuove?"
+      }
+    },
+    "id": 251
+  },
+  {
+    "number": "252",
+    "title": "Steam Wand Deep Clean",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "252.jpg",
+    "definition": "A deep clean removes the steam tip entirely to soak and clear dried milk protein blocking the internal holes.",
+    "why": "Blocked steam tip holes reduce steam pressure and create uneven, splashy texturing even when the wand is wiped daily.",
+    "tip": "Soak tips in a dedicated milk-protein cleaner rather than scrubbing with anything abrasive.",
+    "mistake": "Assuming daily wiping and purging is equivalent to a deep clean.",
+    "challenge": "Why does daily wiping fail to reach the buildup that causes long-term texturing problems?",
+    "related": [
+      "040",
+      "024"
+    ],
+    "translations": {
+      "es": {
+        "title": "Limpieza profunda de la lanza de vapor",
+        "definition": "Una limpieza profunda retira por completo la punta de vapor para remojarla y despejar la proteína de leche seca que bloquea los orificios internos.",
+        "why": "Los orificios bloqueados de la punta de vapor reducen la presión y crean una textura desigual y salpicada aunque la lanza se limpie a diario.",
+        "tip": "Remoja las puntas en un limpiador específico para proteína de leche en lugar de frotar con algo abrasivo.",
+        "mistake": "Suponer que limpiar y purgar a diario equivale a una limpieza profunda.",
+        "challenge": "¿Por qué la limpieza diaria no llega a la acumulación que causa problemas de textura a largo plazo?"
+      },
+      "pt": {
+        "title": "Limpeza profunda da lança de vapor",
+        "definition": "Uma limpeza profunda remove completamente a ponta de vapor para deixá-la de molho e eliminar a proteína de leite seca que bloqueia os furos internos.",
+        "why": "Furos bloqueados na ponta de vapor reduzem a pressão e criam textura desigual e respingada mesmo que a lança seja limpa diariamente.",
+        "tip": "Deixe as pontas de molho em um limpador específico para proteína de leite em vez de esfregar com algo abrasivo.",
+        "mistake": "Supor que limpar e purgar diariamente equivale a uma limpeza profunda.",
+        "challenge": "Por que a limpeza diária não alcança o acúmulo que causa problemas de textura a longo prazo?"
+      },
+      "de": {
+        "title": "Tiefenreinigung der Dampflanze",
+        "definition": "Bei einer Tiefenreinigung wird die Dampfdüse vollständig entfernt, um eingetrocknetes Milcheiweiß, das die internen Löcher blockiert, einzuweichen und zu entfernen.",
+        "why": "Blockierte Löcher in der Dampfdüse verringern den Dampfdruck und erzeugen ungleichmäßige, spritzige Textur, selbst wenn die Lanze täglich abgewischt wird.",
+        "tip": "Weiche Düsen in einem speziellen Milcheiweiß-Reiniger ein, statt sie mit etwas Scheuerndem zu schrubben.",
+        "mistake": "Anzunehmen, tägliches Abwischen und Abdampfen entspreche einer Tiefenreinigung.",
+        "challenge": "Warum erreicht tägliches Abwischen nicht die Ablagerungen, die langfristige Texturprobleme verursachen?"
+      },
+      "fr": {
+        "title": "Nettoyage en profondeur de la buse vapeur",
+        "definition": "Un nettoyage en profondeur retire entièrement la buse vapeur pour la faire tremper et éliminer la protéine de lait séchée bloquant les trous internes.",
+        "why": "Des trous de buse bloqués réduisent la pression vapeur et créent une texture inégale et éclaboussante même si la buse est essuyée quotidiennement.",
+        "tip": "Faites tremper les buses dans un nettoyant spécifique aux protéines de lait plutôt que de frotter avec quelque chose d'abrasif.",
+        "mistake": "Supposer que l'essuyage et la purge quotidiens équivalent à un nettoyage en profondeur.",
+        "challenge": "Pourquoi l'essuyage quotidien n'atteint-il pas l'accumulation qui cause des problèmes de texture à long terme ?"
+      },
+      "it": {
+        "title": "Pulizia profonda della lancia vapore",
+        "definition": "Una pulizia profonda rimuove completamente la punta del vapore per immergerla ed eliminare la proteina del latte essiccata che blocca i fori interni.",
+        "why": "Fori della punta vapore bloccati riducono la pressione e creano una texture irregolare e schizzata anche se la lancia viene pulita quotidianamente.",
+        "tip": "Immergi le punte in un detergente specifico per proteine del latte invece di strofinare con qualcosa di abrasivo.",
+        "mistake": "Supporre che pulire e sfiatare quotidianamente equivalga a una pulizia profonda.",
+        "challenge": "Perché la pulizia quotidiana non raggiunge l'accumulo che causa problemi di texture a lungo termine?"
+      }
+    },
+    "id": 252
+  },
+  {
+    "number": "253",
+    "title": "Water Filter Cartridge Replacement",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "253.jpg",
+    "definition": "Water filter cartridges lose effectiveness over time and require replacement based on water volume or capacity, not just calendar time.",
+    "why": "An exhausted filter stops protecting the machine from scale and can even release previously trapped particles.",
+    "tip": "Track filter replacement by litres filtered where possible, since usage volume varies more than time does.",
+    "mistake": "Replacing filters purely on a fixed monthly schedule regardless of actual water volume used.",
+    "challenge": "Why might two identical cafés need different filter replacement schedules?",
+    "related": [
+      "044",
+      "248"
+    ],
+    "translations": {
+      "es": {
+        "title": "Reemplazo del cartucho del filtro de agua",
+        "definition": "Los cartuchos de filtro de agua pierden efectividad con el tiempo y requieren reemplazo según el volumen o la capacidad de agua, no solo el tiempo calendario.",
+        "why": "Un filtro agotado deja de proteger la máquina contra la cal e incluso puede liberar partículas antes retenidas.",
+        "tip": "Registra el reemplazo del filtro por litros filtrados cuando sea posible, ya que el volumen de uso varía más que el tiempo.",
+        "mistake": "Reemplazar filtros según un calendario mensual fijo sin importar el volumen real de agua usado.",
+        "challenge": "¿Por qué dos cafeterías idénticas podrían necesitar calendarios de reemplazo de filtro diferentes?"
+      },
+      "pt": {
+        "title": "Substituição do cartucho do filtro de água",
+        "definition": "Cartuchos de filtro de água perdem eficácia com o tempo e precisam ser substituídos com base no volume ou capacidade de água, não apenas no tempo do calendário.",
+        "why": "Um filtro esgotado deixa de proteger a máquina contra o calcário e pode até liberar partículas antes retidas.",
+        "tip": "Acompanhe a substituição do filtro por litros filtrados quando possível, já que o volume de uso varia mais que o tempo.",
+        "mistake": "Substituir filtros seguindo um cronograma mensal fixo, independentemente do volume real de água usado.",
+        "challenge": "Por que duas cafeterias idênticas podem precisar de cronogramas de substituição de filtro diferentes?"
+      },
+      "de": {
+        "title": "Austausch der Wasserfilterkartusche",
+        "definition": "Wasserfilterkartuschen verlieren mit der Zeit an Wirksamkeit und müssen basierend auf Wasservolumen oder Kapazität ersetzt werden, nicht nur nach Kalenderzeit.",
+        "why": "Ein erschöpfter Filter schützt die Maschine nicht mehr vor Kalk und kann sogar zuvor eingeschlossene Partikel freisetzen.",
+        "tip": "Verfolge den Filteraustausch nach gefilterten Litern, wo möglich, da das Nutzungsvolumen stärker variiert als die Zeit.",
+        "mistake": "Filter rein nach einem festen monatlichen Zeitplan zu ersetzen, unabhängig vom tatsächlichen Wasservolumen.",
+        "challenge": "Warum könnten zwei identische Cafés unterschiedliche Filterwechselpläne benötigen?"
+      },
+      "fr": {
+        "title": "Remplacement de la cartouche du filtre à eau",
+        "definition": "Les cartouches de filtre à eau perdent en efficacité avec le temps et doivent être remplacées selon le volume ou la capacité d'eau, pas seulement le temps calendaire.",
+        "why": "Un filtre épuisé cesse de protéger la machine contre le tartre et peut même relâcher des particules auparavant piégées.",
+        "tip": "Suivez le remplacement du filtre par litres filtrés quand possible, car le volume d'utilisation varie plus que le temps.",
+        "mistake": "Remplacer les filtres selon un calendrier mensuel fixe, indépendamment du volume d'eau réellement utilisé.",
+        "challenge": "Pourquoi deux cafés identiques pourraient-ils nécessiter des calendriers de remplacement de filtre différents ?"
+      },
+      "it": {
+        "title": "Sostituzione della cartuccia del filtro dell'acqua",
+        "definition": "Le cartucce del filtro dell'acqua perdono efficacia nel tempo e richiedono sostituzione in base al volume o alla capacità d'acqua, non solo al tempo di calendario.",
+        "why": "Un filtro esaurito smette di proteggere la macchina dal calcare e può persino rilasciare particelle precedentemente trattenute.",
+        "tip": "Tieni traccia della sostituzione del filtro in litri filtrati quando possibile, poiché il volume d'uso varia più del tempo.",
+        "mistake": "Sostituire i filtri secondo un programma mensile fisso, indipendentemente dal volume d'acqua effettivamente usato.",
+        "challenge": "Perché due bar identici potrebbero aver bisogno di programmi di sostituzione del filtro diversi?"
+      }
+    },
+    "id": 253
+  },
+  {
+    "number": "254",
+    "title": "Portafilter & Basket Care",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "254.jpg",
+    "definition": "Portafilters and baskets need regular soaking and inspection for warping, worn holes, and coffee oil buildup that plain rinsing misses.",
+    "why": "Warped baskets or enlarged holes change extraction unpredictably even with a perfect grind and dose.",
+    "tip": "Soak baskets separately from other equipment to check for warping and residue by feel.",
+    "mistake": "Judging portafilter cleanliness by appearance alone rather than checking basket hole condition.",
+    "challenge": "Why might a visually clean basket still be affecting extraction badly?",
+    "related": [
+      "037",
+      "038"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cuidado del portafiltro y la canasta",
+        "definition": "Los portafiltros y canastas necesitan remojo regular e inspección por deformaciones, orificios desgastados y acumulación de aceite de café que un simple enjuague no elimina.",
+        "why": "Canastas deformadas u orificios agrandados cambian la extracción de forma impredecible incluso con un molido y dosis perfectos.",
+        "tip": "Remoja las canastas por separado de otros equipos para revisar deformaciones y residuos al tacto.",
+        "mistake": "Juzgar la limpieza del portafiltro solo por su apariencia sin revisar el estado de los orificios de la canasta.",
+        "challenge": "¿Por qué una canasta visualmente limpia podría seguir afectando mal la extracción?"
+      },
+      "pt": {
+        "title": "Cuidados com o portafiltro e o cesto",
+        "definition": "Portafiltros e cestos precisam de imersão regular e inspeção quanto a empenamento, furos desgastados e acúmulo de óleo de café que uma simples lavagem não remove.",
+        "why": "Cestos empenados ou furos alargados mudam a extração de forma imprevisível mesmo com moagem e dose perfeitas.",
+        "tip": "Deixe os cestos de molho separadamente de outros equipamentos para verificar empenamento e resíduos ao toque.",
+        "mistake": "Julgar a limpeza do portafiltro apenas pela aparência sem verificar o estado dos furos do cesto.",
+        "challenge": "Por que um cesto visualmente limpo ainda pode estar afetando mal a extração?"
+      },
+      "de": {
+        "title": "Pflege von Siebträger und Siebeinsatz",
+        "definition": "Siebträger und Siebeinsätze benötigen regelmäßiges Einweichen und Kontrolle auf Verformungen, abgenutzte Löcher und Kaffeeölablagerungen, die bloßes Spülen nicht erfasst.",
+        "why": "Verformte Siebeinsätze oder vergrößerte Löcher verändern die Extraktion unvorhersehbar, selbst bei perfektem Mahlgrad und Dosis.",
+        "tip": "Weiche Siebeinsätze getrennt von anderer Ausrüstung ein, um Verformung und Rückstände fühlbar zu prüfen.",
+        "mistake": "Die Sauberkeit des Siebträgers allein am Aussehen zu beurteilen, statt den Zustand der Sieblöcher zu prüfen.",
+        "challenge": "Warum könnte ein optisch sauberer Siebeinsatz die Extraktion trotzdem stark beeinträchtigen?"
+      },
+      "fr": {
+        "title": "Entretien du porte-filtre et du panier",
+        "definition": "Les porte-filtres et paniers nécessitent un trempage régulier et une inspection pour déformation, trous usés et accumulation d'huile de café qu'un simple rinçage ne détecte pas.",
+        "why": "Des paniers déformés ou des trous agrandis changent l'extraction de façon imprévisible même avec une mouture et une dose parfaites.",
+        "tip": "Faites tremper les paniers séparément des autres équipements pour vérifier au toucher la déformation et les résidus.",
+        "mistake": "Juger la propreté du porte-filtre uniquement par l'apparence sans vérifier l'état des trous du panier.",
+        "challenge": "Pourquoi un panier visuellement propre pourrait-il quand même mal affecter l'extraction ?"
+      },
+      "it": {
+        "title": "Cura di portafiltro e filtro",
+        "definition": "Portafiltri e filtri necessitano di ammollo regolare e ispezione per deformazioni, fori usurati e accumulo di olio di caffè che il semplice risciacquo non rimuove.",
+        "why": "Filtri deformati o fori allargati cambiano l'estrazione in modo imprevedibile anche con macinatura e dose perfette.",
+        "tip": "Immergi i filtri separatamente da altre attrezzature per controllare al tatto deformazioni e residui.",
+        "mistake": "Giudicare la pulizia del portafiltro solo dall'aspetto senza controllare lo stato dei fori del filtro.",
+        "challenge": "Perché un filtro visivamente pulito potrebbe comunque influenzare male l'estrazione?"
+      }
+    },
+    "id": 254
+  },
+  {
+    "number": "255",
+    "title": "Preventive Maintenance Schedule",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "255.jpg",
+    "definition": "A preventive maintenance schedule assigns specific cleaning and inspection tasks to daily, weekly, monthly and annual intervals.",
+    "why": "Written schedules prevent maintenance from depending on any one person's memory or initiative.",
+    "tip": "Assign each task an owner and a checkbox, not just a description.",
+    "mistake": "Relying on staff to remember maintenance tasks without a written, visible schedule.",
+    "challenge": "Why does a maintenance schedule need named ownership, not just a task list?",
+    "related": [
+      "045",
+      "247"
+    ],
+    "translations": {
+      "es": {
+        "title": "Calendario de mantenimiento preventivo",
+        "definition": "Un calendario de mantenimiento preventivo asigna tareas específicas de limpieza e inspección a intervalos diarios, semanales, mensuales y anuales.",
+        "why": "Los calendarios escritos evitan que el mantenimiento dependa de la memoria o iniciativa de una sola persona.",
+        "tip": "Asigna a cada tarea un responsable y una casilla de verificación, no solo una descripción.",
+        "mistake": "Confiar en que el personal recuerde las tareas de mantenimiento sin un calendario escrito y visible.",
+        "challenge": "¿Por qué un calendario de mantenimiento necesita responsables nombrados, no solo una lista de tareas?"
+      },
+      "pt": {
+        "title": "Cronograma de manutenção preventiva",
+        "definition": "Um cronograma de manutenção preventiva atribui tarefas específicas de limpeza e inspeção a intervalos diários, semanais, mensais e anuais.",
+        "why": "Cronogramas escritos evitam que a manutenção dependa da memória ou iniciativa de uma única pessoa.",
+        "tip": "Atribua a cada tarefa um responsável e uma caixa de verificação, não apenas uma descrição.",
+        "mistake": "Confiar que a equipe se lembrará das tarefas de manutenção sem um cronograma escrito e visível.",
+        "challenge": "Por que um cronograma de manutenção precisa de responsáveis nomeados, não apenas uma lista de tarefas?"
+      },
+      "de": {
+        "title": "Vorbeugender Wartungsplan",
+        "definition": "Ein vorbeugender Wartungsplan weist bestimmte Reinigungs- und Inspektionsaufgaben täglichen, wöchentlichen, monatlichen und jährlichen Intervallen zu.",
+        "why": "Schriftliche Pläne verhindern, dass Wartung vom Gedächtnis oder der Eigeninitiative einer einzelnen Person abhängt.",
+        "tip": "Weise jeder Aufgabe einen Verantwortlichen und ein Kontrollkästchen zu, nicht nur eine Beschreibung.",
+        "mistake": "Sich darauf zu verlassen, dass sich das Personal ohne schriftlichen, sichtbaren Plan an Wartungsaufgaben erinnert.",
+        "challenge": "Warum braucht ein Wartungsplan benannte Verantwortliche, nicht nur eine Aufgabenliste?"
+      },
+      "fr": {
+        "title": "Calendrier de maintenance préventive",
+        "definition": "Un calendrier de maintenance préventive attribue des tâches spécifiques de nettoyage et d'inspection à des intervalles quotidiens, hebdomadaires, mensuels et annuels.",
+        "why": "Des calendriers écrits évitent que la maintenance dépende de la mémoire ou de l'initiative d'une seule personne.",
+        "tip": "Attribuez à chaque tâche un responsable et une case à cocher, pas seulement une description.",
+        "mistake": "Compter sur le personnel pour se souvenir des tâches de maintenance sans calendrier écrit et visible.",
+        "challenge": "Pourquoi un calendrier de maintenance a-t-il besoin de responsables nommés, pas seulement d'une liste de tâches ?"
+      },
+      "it": {
+        "title": "Programma di manutenzione preventiva",
+        "definition": "Un programma di manutenzione preventiva assegna specifici compiti di pulizia e ispezione a intervalli giornalieri, settimanali, mensili e annuali.",
+        "why": "Programmi scritti evitano che la manutenzione dipenda dalla memoria o dall'iniziativa di una sola persona.",
+        "tip": "Assegna a ogni compito un responsabile e una casella di controllo, non solo una descrizione.",
+        "mistake": "Affidarsi al personale perché ricordi i compiti di manutenzione senza un programma scritto e visibile.",
+        "challenge": "Perché un programma di manutenzione ha bisogno di responsabili nominati, non solo di un elenco di compiti?"
+      }
+    },
+    "id": 255
+  },
+  {
+    "number": "256",
+    "title": "Pump Pressure Checks",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "256.jpg",
+    "definition": "Pump pressure checks measure whether the machine's pump is delivering the intended pressure during extraction, typically read from a built-in gauge.",
+    "why": "A drifting or failing pump changes extraction even when grind, dose and technique stay identical.",
+    "tip": "Log pressure readings periodically so a gradual drift is caught before it becomes a sudden failure.",
+    "mistake": "Only investigating pump pressure after a shot problem appears, rather than checking it periodically.",
+    "challenge": "Why might pump pressure drift gradually rather than fail all at once?",
+    "related": [
+      "012",
+      "036"
+    ],
+    "translations": {
+      "es": {
+        "title": "Revisión de presión de la bomba",
+        "definition": "Las revisiones de presión de la bomba miden si la bomba de la máquina entrega la presión prevista durante la extracción, normalmente leída en un manómetro incorporado.",
+        "why": "Una bomba que se desvía o falla cambia la extracción aunque el molido, la dosis y la técnica sigan siendo idénticos.",
+        "tip": "Registra las lecturas de presión periódicamente para detectar una desviación gradual antes de que se convierta en un fallo repentino.",
+        "mistake": "Investigar la presión de la bomba solo después de que aparece un problema en el shot, en lugar de revisarla periódicamente.",
+        "challenge": "¿Por qué la presión de la bomba podría desviarse gradualmente en lugar de fallar de golpe?"
+      },
+      "pt": {
+        "title": "Verificações de pressão da bomba",
+        "definition": "As verificações de pressão da bomba medem se a bomba da máquina está fornecendo a pressão pretendida durante a extração, geralmente lida em um manômetro incorporado.",
+        "why": "Uma bomba com desvio ou falhando muda a extração mesmo que a moagem, dose e técnica permaneçam idênticas.",
+        "tip": "Registre as leituras de pressão periodicamente para detectar um desvio gradual antes que se torne uma falha repentina.",
+        "mistake": "Investigar a pressão da bomba somente depois que um problema no shot aparece, em vez de verificá-la periodicamente.",
+        "challenge": "Por que a pressão da bomba pode desviar gradualmente em vez de falhar de uma vez?"
+      },
+      "de": {
+        "title": "Pumpendruckprüfungen",
+        "definition": "Pumpendruckprüfungen messen, ob die Pumpe der Maschine während der Extraktion den vorgesehenen Druck liefert, meist an einem eingebauten Manometer abgelesen.",
+        "why": "Eine driftende oder ausfallende Pumpe verändert die Extraktion, selbst wenn Mahlgrad, Dosis und Technik gleich bleiben.",
+        "tip": "Protokolliere Druckmesswerte regelmäßig, damit eine allmähliche Drift erkannt wird, bevor sie zu einem plötzlichen Ausfall wird.",
+        "mistake": "Den Pumpendruck erst zu untersuchen, wenn ein Shot-Problem auftritt, statt ihn regelmäßig zu prüfen.",
+        "challenge": "Warum könnte der Pumpendruck allmählich driften, statt auf einmal auszufallen?"
+      },
+      "fr": {
+        "title": "Contrôles de pression de la pompe",
+        "definition": "Les contrôles de pression de la pompe mesurent si la pompe de la machine délivre la pression prévue pendant l'extraction, généralement lue sur une jauge intégrée.",
+        "why": "Une pompe qui dérive ou tombe en panne change l'extraction même si mouture, dose et technique restent identiques.",
+        "tip": "Consignez les relevés de pression périodiquement pour détecter une dérive progressive avant qu'elle ne devienne une panne soudaine.",
+        "mistake": "N'enquêter sur la pression de la pompe qu'après l'apparition d'un problème de shot, plutôt que de la vérifier périodiquement.",
+        "challenge": "Pourquoi la pression de la pompe pourrait-elle dériver progressivement plutôt que tomber en panne d'un coup ?"
+      },
+      "it": {
+        "title": "Controlli della pressione della pompa",
+        "definition": "I controlli della pressione della pompa misurano se la pompa della macchina eroga la pressione prevista durante l'estrazione, solitamente letta su un manometro incorporato.",
+        "why": "Una pompa che deriva o si guasta cambia l'estrazione anche se macinatura, dose e tecnica rimangono identiche.",
+        "tip": "Registra periodicamente le letture di pressione così una deriva graduale viene rilevata prima che diventi un guasto improvviso.",
+        "mistake": "Indagare sulla pressione della pompa solo dopo che appare un problema nello shot, invece di controllarla periodicamente.",
+        "challenge": "Perché la pressione della pompa potrebbe derivare gradualmente invece di guastarsi tutta in una volta?"
+      }
+    },
+    "id": 256
+  },
+  {
+    "number": "257",
+    "title": "Boiler & PID Checks",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "257.jpg",
+    "definition": "Boiler and PID checks confirm that the machine's temperature control system is heating and holding temperature at the set target accurately.",
+    "why": "A faulty sensor or heating element can cause temperature instability well before it triggers an obvious fault code.",
+    "tip": "Cross-check the machine's displayed temperature against an independent thermometer periodically.",
+    "mistake": "Trusting the machine's own temperature display as automatically accurate.",
+    "challenge": "Why might a machine's displayed temperature diverge from its actual brewing temperature over time?",
+    "related": [
+      "013",
+      "036"
+    ],
+    "translations": {
+      "es": {
+        "title": "Revisión de caldera y PID",
+        "definition": "Las revisiones de caldera y PID confirman que el sistema de control de temperatura de la máquina calienta y mantiene la temperatura en el objetivo establecido con precisión.",
+        "why": "Un sensor o resistencia defectuosos pueden causar inestabilidad de temperatura mucho antes de activar un código de error evidente.",
+        "tip": "Compara periódicamente la temperatura mostrada por la máquina con un termómetro independiente.",
+        "mistake": "Confiar en que la pantalla de temperatura de la máquina es automáticamente precisa.",
+        "challenge": "¿Por qué la temperatura mostrada por una máquina podría diferir con el tiempo de su temperatura real de extracción?"
+      },
+      "pt": {
+        "title": "Verificações da caldeira e do PID",
+        "definition": "As verificações da caldeira e do PID confirmam que o sistema de controle de temperatura da máquina está aquecendo e mantendo a temperatura no valor definido com precisão.",
+        "why": "Um sensor ou resistência com defeito pode causar instabilidade de temperatura bem antes de acionar um código de erro evidente.",
+        "tip": "Compare periodicamente a temperatura exibida pela máquina com um termômetro independente.",
+        "mistake": "Confiar que o visor de temperatura da máquina é automaticamente preciso.",
+        "challenge": "Por que a temperatura exibida por uma máquina pode divergir com o tempo de sua temperatura real de extração?"
+      },
+      "de": {
+        "title": "Boiler- und PID-Kontrollen",
+        "definition": "Boiler- und PID-Kontrollen bestätigen, dass das Temperaturregelsystem der Maschine genau auf den eingestellten Zielwert heizt und hält.",
+        "why": "Ein fehlerhafter Sensor oder Heizelement kann Temperaturinstabilität verursachen, lange bevor ein offensichtlicher Fehlercode ausgelöst wird.",
+        "tip": "Vergleiche die angezeigte Temperatur der Maschine regelmäßig mit einem unabhängigen Thermometer.",
+        "mistake": "Der eigenen Temperaturanzeige der Maschine automatisch zu vertrauen.",
+        "challenge": "Warum könnte die angezeigte Temperatur einer Maschine im Laufe der Zeit von der tatsächlichen Brühtemperatur abweichen?"
+      },
+      "fr": {
+        "title": "Contrôles de la chaudière et du PID",
+        "definition": "Les contrôles de la chaudière et du PID confirment que le système de contrôle de température de la machine chauffe et maintient précisément la température à la cible définie.",
+        "why": "Un capteur ou une résistance défectueux peuvent causer une instabilité de température bien avant de déclencher un code d'erreur évident.",
+        "tip": "Comparez périodiquement la température affichée par la machine avec un thermomètre indépendant.",
+        "mistake": "Faire confiance à l'affichage de température de la machine comme étant automatiquement précis.",
+        "challenge": "Pourquoi la température affichée par une machine pourrait-elle diverger de sa température d'infusion réelle avec le temps ?"
+      },
+      "it": {
+        "title": "Controlli di caldaia e PID",
+        "definition": "I controlli di caldaia e PID confermano che il sistema di controllo della temperatura della macchina stia riscaldando e mantenendo la temperatura al target impostato con precisione.",
+        "why": "Un sensore o una resistenza difettosi possono causare instabilità di temperatura molto prima di innescare un codice di errore evidente.",
+        "tip": "Confronta periodicamente la temperatura visualizzata dalla macchina con un termometro indipendente.",
+        "mistake": "Fidarsi che il display della temperatura della macchina sia automaticamente accurato.",
+        "challenge": "Perché la temperatura visualizzata da una macchina potrebbe divergere nel tempo dalla sua temperatura di preparazione effettiva?"
+      }
+    },
+    "id": 257
+  },
+  {
+    "number": "258",
+    "title": "Drain Line Cleaning",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "258.jpg",
+    "definition": "Drain line cleaning clears coffee grounds, milk residue and scale from the waste pipes that carry water and drips away from the machine.",
+    "why": "A blocked drain line causes slow drainage, bad smells and eventually backup into the drip tray.",
+    "tip": "Flush drain lines with a dedicated drain cleaner on a regular schedule, not only when a smell appears.",
+    "mistake": "Treating drain odour as a cosmetic issue rather than a sign of a blockage forming.",
+    "challenge": "Why does a drain smell often appear well before the drain actually stops working?",
+    "related": [
+      "247"
+    ],
+    "translations": {
+      "es": {
+        "title": "Limpieza de la línea de desagüe",
+        "definition": "La limpieza de la línea de desagüe elimina posos de café, residuos de leche y cal de las tuberías de desecho que llevan agua y goteos lejos de la máquina.",
+        "why": "Una línea de desagüe bloqueada causa drenaje lento, malos olores y eventualmente reflujo hacia la bandeja de goteo.",
+        "tip": "Descarga las líneas de desagüe con un limpiador específico para desagües de forma regular, no solo cuando aparece un olor.",
+        "mistake": "Tratar el olor del desagüe como un problema estético en lugar de una señal de bloqueo formándose.",
+        "challenge": "¿Por qué a menudo aparece un olor de desagüe mucho antes de que el desagüe realmente deje de funcionar?"
+      },
+      "pt": {
+        "title": "Limpeza da linha de drenagem",
+        "definition": "A limpeza da linha de drenagem remove borra de café, resíduos de leite e calcário dos tubos de descarte que levam água e pingos para longe da máquina.",
+        "why": "Uma linha de drenagem bloqueada causa drenagem lenta, mau cheiro e eventualmente refluxo para a bandeja de gotejamento.",
+        "tip": "Enxágue as linhas de drenagem com um limpador específico para ralos regularmente, não só quando surge um cheiro.",
+        "mistake": "Tratar o odor do ralo como um problema estético em vez de um sinal de bloqueio se formando.",
+        "challenge": "Por que um cheiro de ralo frequentemente aparece bem antes do ralo realmente parar de funcionar?"
+      },
+      "de": {
+        "title": "Reinigung der Ablaufleitung",
+        "definition": "Die Reinigung der Ablaufleitung entfernt Kaffeesatz, Milchreste und Kalk aus den Abwasserrohren, die Wasser und Tropfen von der Maschine wegleiten.",
+        "why": "Eine verstopfte Ablaufleitung verursacht langsamen Abfluss, schlechte Gerüche und schließlich einen Rückstau in die Abtropfschale.",
+        "tip": "Spüle Ablaufleitungen regelmäßig mit einem speziellen Ablaufreiniger, nicht nur wenn ein Geruch auftritt.",
+        "mistake": "Ablaufgeruch als kosmetisches Problem statt als Zeichen einer entstehenden Verstopfung zu behandeln.",
+        "challenge": "Warum tritt ein Ablaufgeruch oft schon lange auf, bevor der Abfluss tatsächlich aufhört zu funktionieren?"
+      },
+      "fr": {
+        "title": "Nettoyage de la conduite d'évacuation",
+        "definition": "Le nettoyage de la conduite d'évacuation élimine le marc de café, les résidus de lait et le tartre des tuyaux d'évacuation qui évacuent l'eau et les gouttes de la machine.",
+        "why": "Une conduite d'évacuation bloquée cause un drainage lent, de mauvaises odeurs et finit par refouler dans le bac d'égouttement.",
+        "tip": "Rincez les conduites d'évacuation avec un nettoyant spécifique aux drains régulièrement, pas seulement quand une odeur apparaît.",
+        "mistake": "Traiter l'odeur d'évacuation comme un problème esthétique plutôt qu'un signe de blocage en formation.",
+        "challenge": "Pourquoi une odeur d'évacuation apparaît-elle souvent bien avant que l'évacuation ne cesse réellement de fonctionner ?"
+      },
+      "it": {
+        "title": "Pulizia della linea di scarico",
+        "definition": "La pulizia della linea di scarico rimuove fondi di caffè, residui di latte e calcare dai tubi di scarico che allontanano acqua e gocciolamenti dalla macchina.",
+        "why": "Una linea di scarico bloccata causa drenaggio lento, cattivi odori e alla fine un rigurgito nella vaschetta raccogligocce.",
+        "tip": "Sciacqua le linee di scarico con un detergente specifico per scarichi regolarmente, non solo quando appare un odore.",
+        "mistake": "Trattare l'odore dello scarico come un problema estetico invece che un segno di un blocco in formazione.",
+        "challenge": "Perché un odore di scarico spesso appare molto prima che lo scarico smetta realmente di funzionare?"
+      }
+    },
+    "id": 258
+  },
+  {
+    "number": "259",
+    "title": "Grinder Calibration Drift",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "259.jpg",
+    "definition": "Calibration drift is the gradual change in a grinder's true particle size at a given setting, usually caused by burr wear.",
+    "why": "Drift means the same dial number no longer produces the same grind, quietly throwing off dial-in over weeks.",
+    "tip": "Re-check calibration against a known reference point periodically, not only after a burr change.",
+    "mistake": "Assuming a grinder's settings stay accurate indefinitely between calibrations.",
+    "challenge": "Why might a barista blame the beans when the real cause is grinder drift?",
+    "related": [
+      "043",
+      "042"
+    ],
+    "translations": {
+      "es": {
+        "title": "Desviación de calibración del molino",
+        "definition": "La desviación de calibración es el cambio gradual en el tamaño de partícula real de un molino a un ajuste determinado, generalmente causado por el desgaste de las muelas.",
+        "why": "La desviación significa que el mismo número del dial ya no produce el mismo molido, desajustando silenciosamente el dial-in a lo largo de semanas.",
+        "tip": "Revisa la calibración periódicamente contra un punto de referencia conocido, no solo tras un cambio de muelas.",
+        "mistake": "Suponer que los ajustes de un molino permanecen precisos indefinidamente entre calibraciones.",
+        "challenge": "¿Por qué un barista podría culpar a los granos cuando la causa real es la desviación del molino?"
+      },
+      "pt": {
+        "title": "Desvio de calibração do moedor",
+        "definition": "O desvio de calibração é a mudança gradual no tamanho real da partícula de um moedor em um ajuste específico, geralmente causado pelo desgaste das mós.",
+        "why": "O desvio significa que o mesmo número do disco não produz mais a mesma moagem, desajustando silenciosamente o dial-in ao longo de semanas.",
+        "tip": "Reverifique a calibração periodicamente contra um ponto de referência conhecido, não só depois de trocar as mós.",
+        "mistake": "Supor que os ajustes de um moedor permanecem precisos indefinidamente entre calibrações.",
+        "challenge": "Por que um barista pode culpar os grãos quando a causa real é o desvio do moedor?"
+      },
+      "de": {
+        "title": "Kalibrierungsdrift der Mühle",
+        "definition": "Kalibrierungsdrift ist die allmähliche Veränderung der tatsächlichen Partikelgröße einer Mühle bei einer bestimmten Einstellung, meist durch Mahlscheibenverschleiß verursacht.",
+        "why": "Drift bedeutet, dass dieselbe Skalenzahl nicht mehr denselben Mahlgrad erzeugt, was das Dialing-in über Wochen hinweg still verschiebt.",
+        "tip": "Überprüfe die Kalibrierung regelmäßig gegen einen bekannten Referenzpunkt, nicht nur nach einem Mahlscheibenwechsel.",
+        "mistake": "Anzunehmen, die Einstellungen einer Mühle blieben zwischen Kalibrierungen unbegrenzt genau.",
+        "challenge": "Warum könnte ein Barista den Bohnen die Schuld geben, wenn die eigentliche Ursache Mühlendrift ist?"
+      },
+      "fr": {
+        "title": "Dérive de calibration du moulin",
+        "definition": "La dérive de calibration est le changement progressif de la taille réelle des particules d'un moulin à un réglage donné, généralement causé par l'usure des meules.",
+        "why": "La dérive signifie que le même numéro de cadran ne produit plus la même mouture, décalant silencieusement le dial-in sur des semaines.",
+        "tip": "Revérifiez la calibration périodiquement par rapport à un point de référence connu, pas seulement après un changement de meules.",
+        "mistake": "Supposer que les réglages d'un moulin restent précis indéfiniment entre les calibrations.",
+        "challenge": "Pourquoi un barista pourrait-il blâmer les grains quand la vraie cause est la dérive du moulin ?"
+      },
+      "it": {
+        "title": "Deriva di calibrazione del macinacaffè",
+        "definition": "La deriva di calibrazione è il cambiamento graduale della dimensione reale delle particelle di un macinacaffè a un'impostazione data, solitamente causato dall'usura delle macine.",
+        "why": "La deriva significa che lo stesso numero del quadrante non produce più la stessa macinatura, spostando silenziosamente il dial-in nel corso di settimane.",
+        "tip": "Ricontrolla periodicamente la calibrazione rispetto a un punto di riferimento noto, non solo dopo un cambio di macine.",
+        "mistake": "Supporre che le impostazioni di un macinacaffè rimangano accurate indefinitamente tra una calibrazione e l'altra.",
+        "challenge": "Perché un barista potrebbe incolpare i chicchi quando la vera causa è la deriva del macinacaffè?"
+      }
+    },
+    "id": 259
+  },
+  {
+    "number": "260",
+    "title": "Basic Machine Troubleshooting",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "260.jpg",
+    "definition": "Basic troubleshooting is a structured first-response process for narrowing down an equipment problem before calling a technician.",
+    "why": "A clear diagnostic sequence saves technician callout costs and downtime for issues staff can safely resolve themselves.",
+    "tip": "Always check the simplest explanation first: power, water supply, and basic settings before assuming a major fault.",
+    "mistake": "Jumping straight to calling a technician without ruling out simple causes first.",
+    "challenge": "Why should the simplest explanation always be checked before the more complex ones?",
+    "related": [
+      "261",
+      "255"
+    ],
+    "translations": {
+      "es": {
+        "title": "Solución básica de problemas de la máquina",
+        "definition": "La solución básica de problemas es un proceso estructurado de primera respuesta para acotar un problema del equipo antes de llamar a un técnico.",
+        "why": "Una secuencia de diagnóstico clara ahorra costos de visita técnica y tiempo de inactividad para problemas que el personal puede resolver de forma segura.",
+        "tip": "Revisa siempre la explicación más simple primero: energía, suministro de agua y ajustes básicos, antes de suponer una avería mayor.",
+        "mistake": "Llamar directamente a un técnico sin descartar antes causas sencillas.",
+        "challenge": "¿Por qué siempre se debe revisar primero la explicación más simple antes que las más complejas?"
+      },
+      "pt": {
+        "title": "Solução básica de problemas da máquina",
+        "definition": "A solução básica de problemas é um processo estruturado de primeira resposta para restringir um problema do equipamento antes de chamar um técnico.",
+        "why": "Uma sequência de diagnóstico clara economiza custos de visita técnica e tempo de inatividade para problemas que a equipe pode resolver com segurança.",
+        "tip": "Sempre verifique a explicação mais simples primeiro: energia, abastecimento de água e configurações básicas, antes de supor uma falha maior.",
+        "mistake": "Ligar direto para um técnico sem antes descartar causas simples.",
+        "challenge": "Por que a explicação mais simples deve sempre ser verificada antes das mais complexas?"
+      },
+      "de": {
+        "title": "Grundlegende Fehlersuche an der Maschine",
+        "definition": "Grundlegende Fehlersuche ist ein strukturierter Erstreaktionsprozess, um ein Geräteproblem einzugrenzen, bevor ein Techniker gerufen wird.",
+        "why": "Eine klare Diagnosesequenz spart Kosten für Techniker-Einsätze und Ausfallzeiten bei Problemen, die das Personal sicher selbst lösen kann.",
+        "tip": "Prüfe immer zuerst die einfachste Erklärung: Strom, Wasserversorgung und Grundeinstellungen, bevor du einen größeren Defekt annimmst.",
+        "mistake": "Direkt einen Techniker zu rufen, ohne zuvor einfache Ursachen auszuschließen.",
+        "challenge": "Warum sollte immer zuerst die einfachste Erklärung geprüft werden, bevor komplexere in Betracht gezogen werden?"
+      },
+      "fr": {
+        "title": "Dépannage de base de la machine",
+        "definition": "Le dépannage de base est un processus structuré de première réponse pour cerner un problème d'équipement avant d'appeler un technicien.",
+        "why": "Une séquence de diagnostic claire économise les coûts de déplacement technicien et les temps d'arrêt pour les problèmes que le personnel peut résoudre en toute sécurité.",
+        "tip": "Vérifiez toujours l'explication la plus simple en premier : alimentation, arrivée d'eau et réglages de base, avant de supposer une panne majeure.",
+        "mistake": "Appeler directement un technicien sans avoir d'abord écarté les causes simples.",
+        "challenge": "Pourquoi l'explication la plus simple devrait-elle toujours être vérifiée avant les plus complexes ?"
+      },
+      "it": {
+        "title": "Risoluzione base dei problemi della macchina",
+        "definition": "La risoluzione base dei problemi è un processo strutturato di prima risposta per circoscrivere un problema dell'attrezzatura prima di chiamare un tecnico.",
+        "why": "Una sequenza diagnostica chiara risparmia i costi di intervento del tecnico e i tempi di inattività per problemi che il personale può risolvere in sicurezza.",
+        "tip": "Controlla sempre prima la spiegazione più semplice: alimentazione, approvvigionamento idrico e impostazioni di base, prima di supporre un guasto importante.",
+        "mistake": "Chiamare subito un tecnico senza prima escludere cause semplici.",
+        "challenge": "Perché la spiegazione più semplice dovrebbe sempre essere controllata prima di quelle più complesse?"
+      }
+    },
+    "id": 260
+  },
+  {
+    "number": "261",
+    "title": "Choosing a Service Technician",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "261.jpg",
+    "definition": "Choosing a service technician means evaluating response time, manufacturer certification, and parts availability, not just price per callout.",
+    "why": "A cheap technician who takes days to arrive or lacks genuine parts can cost far more in downtime than a pricier reliable one.",
+    "tip": "Ask a prospective technician about typical response time and parts sourcing before an emergency, not during one.",
+    "mistake": "Choosing a technician purely on callout price without checking response time or parts access.",
+    "challenge": "Why might the cheapest technician option end up being the most expensive one?",
+    "related": [
+      "260",
+      "045"
+    ],
+    "translations": {
+      "es": {
+        "title": "Elegir un técnico de servicio",
+        "definition": "Elegir un técnico de servicio significa evaluar el tiempo de respuesta, la certificación del fabricante y la disponibilidad de repuestos, no solo el precio por visita.",
+        "why": "Un técnico barato que tarda días en llegar o no tiene repuestos genuinos puede costar mucho más en tiempo de inactividad que uno más caro pero confiable.",
+        "tip": "Pregunta a un técnico potencial sobre su tiempo de respuesta típico y el suministro de repuestos antes de una emergencia, no durante ella.",
+        "mistake": "Elegir un técnico únicamente por el precio de la visita sin revisar el tiempo de respuesta o el acceso a repuestos.",
+        "challenge": "¿Por qué la opción de técnico más barata podría terminar siendo la más cara?"
+      },
+      "pt": {
+        "title": "Escolhendo um técnico de serviço",
+        "definition": "Escolher um técnico de serviço significa avaliar o tempo de resposta, a certificação do fabricante e a disponibilidade de peças, não apenas o preço por visita.",
+        "why": "Um técnico barato que demora dias para chegar ou não tem peças genuínas pode custar muito mais em tempo de inatividade do que um mais caro e confiável.",
+        "tip": "Pergunte a um técnico em potencial sobre o tempo de resposta típico e o fornecimento de peças antes de uma emergência, não durante ela.",
+        "mistake": "Escolher um técnico apenas pelo preço da visita sem verificar o tempo de resposta ou o acesso a peças.",
+        "challenge": "Por que a opção de técnico mais barata pode acabar sendo a mais cara?"
+      },
+      "de": {
+        "title": "Auswahl eines Servicetechnikers",
+        "definition": "Die Wahl eines Servicetechnikers bedeutet, Reaktionszeit, Herstellerzertifizierung und Ersatzteilverfügbarkeit zu bewerten, nicht nur den Preis pro Einsatz.",
+        "why": "Ein billiger Techniker, der Tage braucht oder keine Originalteile hat, kann durch Ausfallzeit weit mehr kosten als ein teurerer, zuverlässiger.",
+        "tip": "Frage einen potenziellen Techniker vor einem Notfall nach typischer Reaktionszeit und Ersatzteilbeschaffung, nicht währenddessen.",
+        "mistake": "Einen Techniker rein nach dem Einsatzpreis zu wählen, ohne Reaktionszeit oder Teileverfügbarkeit zu prüfen.",
+        "challenge": "Warum könnte die billigste Technikeroption letztlich die teuerste sein?"
+      },
+      "fr": {
+        "title": "Choisir un technicien de service",
+        "definition": "Choisir un technicien de service signifie évaluer le temps de réponse, la certification du fabricant et la disponibilité des pièces, pas seulement le prix par intervention.",
+        "why": "Un technicien bon marché qui met des jours à arriver ou manque de pièces authentiques peut coûter bien plus en temps d'arrêt qu'un technicien plus cher mais fiable.",
+        "tip": "Demandez à un technicien potentiel son temps de réponse habituel et son approvisionnement en pièces avant une urgence, pas pendant.",
+        "mistake": "Choisir un technicien uniquement sur le prix de l'intervention sans vérifier le temps de réponse ou l'accès aux pièces.",
+        "challenge": "Pourquoi l'option de technicien la moins chère pourrait-elle finir par être la plus coûteuse ?"
+      },
+      "it": {
+        "title": "Scegliere un tecnico di assistenza",
+        "definition": "Scegliere un tecnico di assistenza significa valutare tempo di risposta, certificazione del produttore e disponibilità dei ricambi, non solo il prezzo per intervento.",
+        "why": "Un tecnico economico che impiega giorni ad arrivare o manca di ricambi originali può costare molto di più in tempi di inattività rispetto a uno più caro ma affidabile.",
+        "tip": "Chiedi a un potenziale tecnico il tempo di risposta tipico e l'approvvigionamento dei ricambi prima di un'emergenza, non durante.",
+        "mistake": "Scegliere un tecnico solo in base al prezzo dell'intervento senza controllare tempo di risposta o accesso ai ricambi.",
+        "challenge": "Perché l'opzione del tecnico più economico potrebbe finire per essere la più costosa?"
+      }
+    },
+    "id": 261
+  },
+  {
+    "number": "262",
+    "title": "Cleaning Chemical Safety",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "262.jpg",
+    "definition": "Cleaning chemical safety covers using only manufacturer-approved detergents at correct dilution, and rinsing thoroughly before brewing.",
+    "why": "Wrong chemicals or concentrations can damage seals and internal components, or leave residue that taints coffee flavor.",
+    "tip": "Store and label cleaning chemicals separately from food items, and never mix products.",
+    "mistake": "Using a stronger detergent concentration than specified, assuming it cleans better.",
+    "challenge": "Why can a stronger-than-recommended detergent solution actually cause more equipment damage?",
+    "related": [
+      "247",
+      "248"
+    ],
+    "translations": {
+      "es": {
+        "title": "Seguridad de los productos de limpieza",
+        "definition": "La seguridad de los productos de limpieza implica usar solo detergentes aprobados por el fabricante en la dilución correcta, y enjuagar bien antes de preparar café.",
+        "why": "Productos o concentraciones incorrectas pueden dañar sellos y componentes internos, o dejar residuos que contaminan el sabor del café.",
+        "tip": "Guarda y etiqueta los productos de limpieza por separado de los alimentos, y nunca mezcles productos.",
+        "mistake": "Usar una concentración de detergente más fuerte de la especificada, suponiendo que limpia mejor.",
+        "challenge": "¿Por qué una solución de detergente más fuerte de lo recomendado puede causar más daño al equipo?"
+      },
+      "pt": {
+        "title": "Segurança dos produtos de limpeza",
+        "definition": "A segurança dos produtos de limpeza envolve usar apenas detergentes aprovados pelo fabricante na diluição correta, e enxaguar bem antes de preparar café.",
+        "why": "Produtos ou concentrações errados podem danificar vedações e componentes internos, ou deixar resíduos que contaminam o sabor do café.",
+        "tip": "Guarde e rotule os produtos de limpeza separadamente dos alimentos, e nunca misture produtos.",
+        "mistake": "Usar uma concentração de detergente mais forte que a especificada, supondo que limpa melhor.",
+        "challenge": "Por que uma solução de detergente mais forte que a recomendada pode causar mais danos ao equipamento?"
+      },
+      "de": {
+        "title": "Sicherheit bei Reinigungschemikalien",
+        "definition": "Sicherheit bei Reinigungschemikalien bedeutet, nur vom Hersteller zugelassene Reinigungsmittel in korrekter Verdünnung zu verwenden und vor dem Brühen gründlich zu spülen.",
+        "why": "Falsche Chemikalien oder Konzentrationen können Dichtungen und interne Bauteile beschädigen oder Rückstände hinterlassen, die den Kaffeegeschmack beeinträchtigen.",
+        "tip": "Lagere und beschrifte Reinigungschemikalien getrennt von Lebensmitteln und mische niemals Produkte.",
+        "mistake": "Eine stärkere Reinigungsmittelkonzentration als angegeben zu verwenden, in der Annahme, sie reinige besser.",
+        "challenge": "Warum kann eine stärkere als die empfohlene Reinigungslösung tatsächlich mehr Geräteschäden verursachen?"
+      },
+      "fr": {
+        "title": "Sécurité des produits chimiques de nettoyage",
+        "definition": "La sécurité des produits chimiques de nettoyage consiste à n'utiliser que des détergents approuvés par le fabricant à la bonne dilution, et à bien rincer avant l'infusion.",
+        "why": "De mauvais produits chimiques ou concentrations peuvent endommager les joints et composants internes, ou laisser des résidus qui contaminent la saveur du café.",
+        "tip": "Stockez et étiquetez les produits de nettoyage séparément des aliments, et ne mélangez jamais les produits.",
+        "mistake": "Utiliser une concentration de détergent plus forte que celle spécifiée, en supposant que cela nettoie mieux.",
+        "challenge": "Pourquoi une solution détergente plus forte que recommandée peut-elle en réalité causer plus de dommages à l'équipement ?"
+      },
+      "it": {
+        "title": "Sicurezza dei prodotti chimici per la pulizia",
+        "definition": "La sicurezza dei prodotti chimici per la pulizia implica usare solo detergenti approvati dal produttore alla diluizione corretta, e risciacquare accuratamente prima di preparare il caffè.",
+        "why": "Prodotti chimici o concentrazioni sbagliate possono danneggiare guarnizioni e componenti interni, o lasciare residui che contaminano il sapore del caffè.",
+        "tip": "Conserva ed etichetta i prodotti chimici per la pulizia separatamente dagli alimenti, e non mescolare mai i prodotti.",
+        "mistake": "Usare una concentrazione di detergente più forte di quella specificata, supponendo che pulisca meglio.",
+        "challenge": "Perché una soluzione detergente più forte del raccomandato può in realtà causare più danni all'attrezzatura?"
+      }
+    },
+    "id": 262
   }
 ]

@@ -37,7 +37,8 @@ const CATEGORY_NAMES = {
     CLT: "Coffee & Culture",
     PKG: "Packaging & Freshness",
     ETH: "Sustainability & Ethics",
-    REC: "Recipe Cards"
+    REC: "Recipe Cards",
+    MNT: "Machine Maintenance"
 };
 
 const search = document.getElementById("search");
