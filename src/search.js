@@ -41,7 +41,8 @@ const CATEGORY_NAMES = {
     MNT: "Machine Maintenance",
     CAS: "Cascara & Byproducts",
     XSN: "Cross-Category Sensory",
-    DEC: "Decaf"
+    DEC: "Decaf",
+    HAC: "Food Safety"
 };
 
 const search = document.getElementById("search");

@@ -47,18 +47,18 @@ check("No errors during search page load/init", errors.length === 0);
 if (errors.length) console.log(errors.join("\n---\n"));
 
 check("Search input exists", !!doc.getElementById("search"));
-check("Category list renders", doc.querySelectorAll(".category-pill").length === 26); // 25 categories + ALL
-check("'All Categories' pill shown with full total", doc.querySelector(".category-pill")?.textContent.includes("312"));
+check("Category list renders", doc.querySelectorAll(".category-pill").length === 27); // 26 categories + ALL
+check("'All Categories' pill shown with full total", doc.querySelector(".category-pill")?.textContent.includes("330"));
 check("Category pills use full display names, not abbreviations", [...doc.querySelectorAll(".category-pill")].some(p => p.textContent.includes("Espresso")));
 check("No raw 3-letter category codes visible in pills (e.g. bare 'ESP')", ![...doc.querySelectorAll(".category-pill")].some(p => /^ESP\s/.test(p.textContent.trim())));
-check("Results list renders all cards by default", doc.querySelectorAll(".result-card").length === 312);
-check("Result count text shows total", doc.getElementById("resultCount")?.textContent.includes("312"));
+check("Results list renders all cards by default", doc.querySelectorAll(".result-card").length === 330);
+check("Result count text shows total", doc.getElementById("resultCount")?.textContent.includes("330"));
 
 const search = doc.getElementById("search");
 search.value = "espresso";
 search.dispatchEvent(new window.Event("input", { bubbles: true }));
 await new Promise(r => setTimeout(r, 50));
-check("Typing 'espresso' filters results down", doc.querySelectorAll(".result-card").length < 312);
+check("Typing 'espresso' filters results down", doc.querySelectorAll(".result-card").length < 330);
 check("Espresso card appears in filtered results", [...doc.querySelectorAll(".result-title")].some(t => t.textContent.toLowerCase().includes("espresso")));
 check("URL updates with the query as you type (bookmarkable)", new URL(window.location.href).searchParams.get("q") === "espresso");
 

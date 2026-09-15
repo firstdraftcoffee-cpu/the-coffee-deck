@@ -1,0 +1,1064 @@
+[
+  {
+    "number": "313",
+    "title": "What Is HACCP",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "313.jpg",
+    "definition": "HACCP (Hazard Analysis Critical Control Points) is a systematic approach to food safety that identifies where hazards can occur and builds specific controls at each point.",
+    "why": "It shifts food safety from reacting to problems after they happen to preventing them at the specific steps where they're most likely to occur.",
+    "tip": "Map your own café's actual workflow before assuming a generic HACCP template covers your specific risks.",
+    "mistake": "Treating HACCP as paperwork to complete rather than as an active system that changes daily practice.",
+    "challenge": "Why might a generic HACCP template need real adaptation for a specific café's actual layout and workflow?",
+    "related": [
+      "108",
+      "314"
+    ],
+    "translations": {
+      "es": {
+        "title": "Qué es el HACCP",
+        "definition": "El HACCP (Análisis de Peligros y Puntos Críticos de Control) es un enfoque sistemático de la seguridad alimentaria que identifica dónde pueden ocurrir peligros y establece controles específicos en cada punto.",
+        "why": "Cambia la seguridad alimentaria de reaccionar a los problemas después de que ocurren a prevenirlos en los pasos específicos donde es más probable que sucedan.",
+        "tip": "Mapea el flujo de trabajo real de tu propia cafetería antes de suponer que una plantilla HACCP genérica cubre tus riesgos específicos.",
+        "mistake": "Tratar el HACCP como papeleo por completar en lugar de como un sistema activo que cambia la práctica diaria.",
+        "challenge": "¿Por qué una plantilla HACCP genérica podría necesitar una adaptación real para el diseño y flujo de trabajo reales de una cafetería específica?"
+      },
+      "pt": {
+        "title": "O que é o HACCP",
+        "definition": "O HACCP (Análise de Perigos e Pontos Críticos de Controle) é uma abordagem sistemática de segurança alimentar que identifica onde perigos podem ocorrer e estabelece controles específicos em cada ponto.",
+        "why": "Muda a segurança alimentar de reagir a problemas depois que acontecem para preveni-los nas etapas específicas onde são mais prováveis de ocorrer.",
+        "tip": "Mapeie o fluxo de trabalho real da sua própria cafeteria antes de supor que um modelo HACCP genérico cobre seus riscos específicos.",
+        "mistake": "Tratar o HACCP como papelada a ser preenchida em vez de como um sistema ativo que muda a prática diária.",
+        "challenge": "Por que um modelo HACCP genérico pode precisar de adaptação real para o layout e fluxo de trabalho reais de uma cafeteria específica?"
+      },
+      "de": {
+        "title": "Was ist HACCP",
+        "definition": "HACCP (Hazard Analysis Critical Control Points) ist ein systematischer Ansatz zur Lebensmittelsicherheit, der identifiziert, wo Gefahren auftreten können, und an jedem Punkt spezifische Kontrollen einrichtet.",
+        "why": "Es verschiebt Lebensmittelsicherheit vom Reagieren auf bereits eingetretene Probleme hin zur Prävention an den Schritten, an denen sie am wahrscheinlichsten auftreten.",
+        "tip": "Kartiere den tatsächlichen Arbeitsablauf deines eigenen Cafés, bevor du annimmst, eine generische HACCP-Vorlage decke deine spezifischen Risiken ab.",
+        "mistake": "HACCP als auszufüllenden Papierkram statt als aktives System zu behandeln, das die tägliche Praxis verändert.",
+        "challenge": "Warum könnte eine generische HACCP-Vorlage echte Anpassung an das tatsächliche Layout und den Arbeitsablauf eines bestimmten Cafés benötigen?"
+      },
+      "fr": {
+        "title": "Qu'est-ce que l'HACCP",
+        "definition": "L'HACCP (analyse des dangers et points critiques pour leur maîtrise) est une approche systématique de la sécurité alimentaire qui identifie où les dangers peuvent survenir et établit des contrôles spécifiques à chaque point.",
+        "why": "Elle fait passer la sécurité alimentaire de la réaction aux problèmes après qu'ils surviennent à leur prévention aux étapes spécifiques où ils sont les plus susceptibles de se produire.",
+        "tip": "Cartographiez le flux de travail réel de votre propre café avant de supposer qu'un modèle HACCP générique couvre vos risques spécifiques.",
+        "mistake": "Traiter l'HACCP comme de la paperasse à remplir plutôt que comme un système actif qui change la pratique quotidienne.",
+        "challenge": "Pourquoi un modèle HACCP générique pourrait-il nécessiter une véritable adaptation à l'agencement et au flux de travail réels d'un café spécifique ?"
+      },
+      "it": {
+        "title": "Cos'è l'HACCP",
+        "definition": "L'HACCP (Analisi dei Rischi e Punti Critici di Controllo) è un approccio sistematico alla sicurezza alimentare che identifica dove possono verificarsi rischi e crea controlli specifici in ogni punto.",
+        "why": "Sposta la sicurezza alimentare dal reagire ai problemi dopo che accadono al prevenirli nei passaggi specifici in cui sono più probabili.",
+        "tip": "Mappa il flusso di lavoro reale del tuo bar prima di supporre che un modello HACCP generico copra i tuoi rischi specifici.",
+        "mistake": "Trattare l'HACCP come documentazione da completare invece che come un sistema attivo che cambia la pratica quotidiana.",
+        "challenge": "Perché un modello HACCP generico potrebbe aver bisogno di un vero adattamento alla disposizione e al flusso di lavoro reali di un bar specifico?"
+      }
+    }
+  },
+  {
+    "number": "314",
+    "title": "Critical Control Points in a Café",
+    "category": "HAC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "314.jpg",
+    "definition": "A critical control point is a specific step where a food safety hazard can be prevented, eliminated, or reduced to an acceptable level, such as milk cold-holding or dishwasher sanitizing temperature.",
+    "why": "Identifying real critical control points focuses limited attention on the steps that actually matter for safety, rather than spreading effort evenly across everything.",
+    "tip": "List every point in your café's workflow where temperature, time, or contamination risk genuinely changes outcome, not just steps that feel important.",
+    "mistake": "Treating every single task as equally critical rather than identifying the handful of steps where failure is genuinely dangerous.",
+    "challenge": "Why might a café have only a few genuine critical control points despite dozens of daily tasks?",
+    "related": [
+      "313",
+      "315"
+    ],
+    "translations": {
+      "es": {
+        "title": "Puntos críticos de control en una cafetería",
+        "definition": "Un punto crítico de control es un paso específico donde un peligro para la seguridad alimentaria puede prevenirse, eliminarse o reducirse a un nivel aceptable, como la refrigeración de la leche o la temperatura de sanitización del lavavajillas.",
+        "why": "Identificar puntos críticos de control reales enfoca la atención limitada en los pasos que realmente importan para la seguridad, en lugar de repartir el esfuerzo por igual en todo.",
+        "tip": "Enumera cada punto en el flujo de trabajo de tu cafetería donde la temperatura, el tiempo o el riesgo de contaminación realmente cambien el resultado, no solo los pasos que se sienten importantes.",
+        "mistake": "Tratar cada tarea individual como igualmente crítica en lugar de identificar el puñado de pasos donde un fallo es genuinamente peligroso.",
+        "challenge": "¿Por qué una cafetería podría tener solo unos pocos puntos críticos de control genuinos pese a docenas de tareas diarias?"
+      },
+      "pt": {
+        "title": "Pontos críticos de controle em uma cafeteria",
+        "definition": "Um ponto crítico de controle é uma etapa específica onde um perigo para a segurança alimentar pode ser prevenido, eliminado ou reduzido a um nível aceitável, como a refrigeração do leite ou a temperatura de sanitização da máquina de lavar louça.",
+        "why": "Identificar pontos críticos de controle reais concentra a atenção limitada nas etapas que realmente importam para a segurança, em vez de espalhar o esforço igualmente por tudo.",
+        "tip": "Liste cada ponto no fluxo de trabalho da sua cafeteria onde temperatura, tempo ou risco de contaminação genuinamente mudam o resultado, não apenas etapas que parecem importantes.",
+        "mistake": "Tratar cada tarefa individual como igualmente crítica em vez de identificar o punhado de etapas onde uma falha é genuinamente perigosa.",
+        "challenge": "Por que uma cafeteria pode ter apenas alguns pontos críticos de controle genuínos apesar de dezenas de tarefas diárias?"
+      },
+      "de": {
+        "title": "Kritische Kontrollpunkte in einem Café",
+        "definition": "Ein kritischer Kontrollpunkt ist ein bestimmter Schritt, an dem eine Lebensmittelsicherheitsgefahr verhindert, eliminiert oder auf ein akzeptables Niveau reduziert werden kann, etwa die Kühlhaltung von Milch oder die Sanitierungstemperatur der Spülmaschine.",
+        "why": "Echte kritische Kontrollpunkte zu identifizieren fokussiert begrenzte Aufmerksamkeit auf die Schritte, die für die Sicherheit tatsächlich zählen, statt den Aufwand gleichmäßig über alles zu verteilen.",
+        "tip": "Liste jeden Punkt im Arbeitsablauf deines Cafés auf, an dem Temperatur, Zeit oder Kontaminationsrisiko das Ergebnis wirklich verändern, nicht nur Schritte, die sich wichtig anfühlen.",
+        "mistake": "Jede einzelne Aufgabe als gleich kritisch zu behandeln, statt die wenigen Schritte zu identifizieren, bei denen ein Versagen wirklich gefährlich ist.",
+        "challenge": "Warum könnte ein Café trotz Dutzender täglicher Aufgaben nur wenige echte kritische Kontrollpunkte haben?"
+      },
+      "fr": {
+        "title": "Points critiques de contrôle dans un café",
+        "definition": "Un point critique de contrôle est une étape spécifique où un danger de sécurité alimentaire peut être prévenu, éliminé ou réduit à un niveau acceptable, comme le maintien au froid du lait ou la température de désinfection du lave-vaisselle.",
+        "why": "Identifier de vrais points critiques de contrôle concentre l'attention limitée sur les étapes qui comptent réellement pour la sécurité, plutôt que de répartir l'effort également sur tout.",
+        "tip": "Listez chaque point dans le flux de travail de votre café où la température, le temps ou le risque de contamination changent réellement le résultat, pas seulement les étapes qui semblent importantes.",
+        "mistake": "Traiter chaque tâche individuelle comme également critique plutôt que d'identifier la poignée d'étapes où un échec est réellement dangereux.",
+        "challenge": "Pourquoi un café pourrait-il n'avoir que quelques points critiques de contrôle réels malgré des dizaines de tâches quotidiennes ?"
+      },
+      "it": {
+        "title": "Punti critici di controllo in un bar",
+        "definition": "Un punto critico di controllo è un passaggio specifico in cui un pericolo per la sicurezza alimentare può essere prevenuto, eliminato o ridotto a un livello accettabile, come il mantenimento a freddo del latte o la temperatura di sanificazione della lavastoviglie.",
+        "why": "Identificare veri punti critici di controllo concentra l'attenzione limitata sui passaggi che contano realmente per la sicurezza, invece di distribuire lo sforzo uniformemente su tutto.",
+        "tip": "Elenca ogni punto nel flusso di lavoro del tuo bar in cui temperatura, tempo o rischio di contaminazione cambiano davvero il risultato, non solo i passaggi che sembrano importanti.",
+        "mistake": "Trattare ogni singolo compito come ugualmente critico invece di identificare la manciata di passaggi in cui un fallimento è genuinamente pericoloso.",
+        "challenge": "Perché un bar potrebbe avere solo pochi veri punti critici di controllo nonostante decine di compiti quotidiani?"
+      }
+    }
+  },
+  {
+    "number": "315",
+    "title": "Milk Temperature Danger Zone",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "315.jpg",
+    "definition": "The temperature danger zone, roughly 5°C to 60°C, is the range in which bacteria multiply fastest in perishable foods like milk.",
+    "why": "Milk left in this range for too long, even without any visible sign of spoilage, becomes a genuine food safety risk.",
+    "tip": "Track how long milk sits out during service, not just its starting and ending temperature.",
+    "mistake": "Judging milk safety by smell or taste rather than by tracked time in the danger zone.",
+    "challenge": "Why can milk be dangerous to serve even when it still tastes and smells completely normal?",
+    "related": [
+      "313",
+      "017"
+    ],
+    "translations": {
+      "es": {
+        "title": "Zona de peligro de temperatura de la leche",
+        "definition": "La zona de peligro de temperatura, aproximadamente entre 5°C y 60°C, es el rango en el que las bacterias se multiplican más rápido en alimentos perecederos como la leche.",
+        "why": "La leche dejada en este rango demasiado tiempo, incluso sin ningún signo visible de deterioro, se convierte en un riesgo real para la seguridad alimentaria.",
+        "tip": "Registra cuánto tiempo permanece la leche fuera durante el servicio, no solo su temperatura inicial y final.",
+        "mistake": "Juzgar la seguridad de la leche por el olor o el sabor en lugar del tiempo registrado en la zona de peligro.",
+        "challenge": "¿Por qué la leche puede ser peligrosa de servir aunque todavía sepa y huela completamente normal?"
+      },
+      "pt": {
+        "title": "Zona de perigo da temperatura do leite",
+        "definition": "A zona de perigo de temperatura, aproximadamente entre 5°C e 60°C, é a faixa em que as bactérias se multiplicam mais rápido em alimentos perecíveis como o leite.",
+        "why": "O leite deixado nessa faixa por tempo demais, mesmo sem nenhum sinal visível de deterioração, torna-se um risco real de segurança alimentar.",
+        "tip": "Acompanhe quanto tempo o leite fica fora durante o serviço, não apenas sua temperatura inicial e final.",
+        "mistake": "Julgar a segurança do leite pelo cheiro ou sabor em vez do tempo rastreado na zona de perigo.",
+        "challenge": "Por que o leite pode ser perigoso de servir mesmo quando ainda tem gosto e cheiro completamente normais?"
+      },
+      "de": {
+        "title": "Temperatur-Gefahrenzone bei Milch",
+        "definition": "Die Temperatur-Gefahrenzone, etwa 5°C bis 60°C, ist der Bereich, in dem sich Bakterien in verderblichen Lebensmitteln wie Milch am schnellsten vermehren.",
+        "why": "In diesem Bereich zu lange stehen gelassene Milch wird auch ohne sichtbares Verderbszeichen zu einem echten Lebensmittelsicherheitsrisiko.",
+        "tip": "Verfolge, wie lange Milch während des Service draußen steht, nicht nur ihre Start- und Endtemperatur.",
+        "mistake": "Die Sicherheit von Milch am Geruch oder Geschmack zu beurteilen statt an der verfolgten Zeit in der Gefahrenzone.",
+        "challenge": "Warum kann Milch gefährlich zu servieren sein, obwohl sie noch völlig normal schmeckt und riecht?"
+      },
+      "fr": {
+        "title": "Zone de danger de température du lait",
+        "definition": "La zone de danger de température, environ 5°C à 60°C, est la plage où les bactéries se multiplient le plus vite dans les aliments périssables comme le lait.",
+        "why": "Un lait laissé trop longtemps dans cette plage, même sans aucun signe visible de détérioration, devient un véritable risque de sécurité alimentaire.",
+        "tip": "Suivez combien de temps le lait reste sorti pendant le service, pas seulement sa température de départ et d'arrivée.",
+        "mistake": "Juger la sécurité du lait à l'odeur ou au goût plutôt qu'au temps suivi dans la zone de danger.",
+        "challenge": "Pourquoi le lait peut-il être dangereux à servir même quand il a encore un goût et une odeur complètement normaux ?"
+      },
+      "it": {
+        "title": "Zona di pericolo della temperatura del latte",
+        "definition": "La zona di pericolo della temperatura, all'incirca 5°C-60°C, è l'intervallo in cui i batteri si moltiplicano più velocemente in alimenti deperibili come il latte.",
+        "why": "Il latte lasciato in questo intervallo troppo a lungo, anche senza alcun segno visibile di deterioramento, diventa un vero rischio per la sicurezza alimentare.",
+        "tip": "Tieni traccia di quanto tempo il latte rimane fuori durante il servizio, non solo della sua temperatura iniziale e finale.",
+        "mistake": "Giudicare la sicurezza del latte dall'odore o dal sapore invece che dal tempo tracciato nella zona di pericolo.",
+        "challenge": "Perché il latte può essere pericoloso da servire anche quando ha ancora un sapore e un odore completamente normali?"
+      }
+    }
+  },
+  {
+    "number": "316",
+    "title": "Allergen Management",
+    "category": "HAC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "316.jpg",
+    "definition": "Allergen management covers preventing cross-contact between allergens (like dairy, nuts, or gluten) and foods meant to be free of them, alongside accurate customer communication.",
+    "why": "For someone with a genuine allergy, a small cross-contact mistake can cause a serious or life-threatening reaction, not just discomfort.",
+    "tip": "Use dedicated equipment for alternative milks and gluten-free items where volume allows, rather than just rinsing shared tools between uses.",
+    "mistake": "Assuming a quick rinse of shared equipment is sufficient to prevent allergen cross-contact.",
+    "challenge": "Why might a customer's allergy reaction be dramatically more severe than a typical food intolerance response?",
+    "related": [
+      "313",
+      "317"
+    ],
+    "translations": {
+      "es": {
+        "title": "Gestión de alérgenos",
+        "definition": "La gestión de alérgenos abarca prevenir el contacto cruzado entre alérgenos (como lácteos, frutos secos o gluten) y alimentos que deben estar libres de ellos, junto con una comunicación precisa al cliente.",
+        "why": "Para alguien con una alergia real, un pequeño error de contacto cruzado puede causar una reacción grave o potencialmente mortal, no solo malestar.",
+        "tip": "Usa equipo dedicado para leches alternativas y artículos sin gluten cuando el volumen lo permita, en lugar de simplemente enjuagar herramientas compartidas entre usos.",
+        "mistake": "Suponer que un enjuague rápido de equipo compartido es suficiente para prevenir el contacto cruzado de alérgenos.",
+        "challenge": "¿Por qué la reacción alérgica de un cliente podría ser dramáticamente más grave que una respuesta típica de intolerancia alimentaria?"
+      },
+      "pt": {
+        "title": "Gestão de alérgenos",
+        "definition": "A gestão de alérgenos abrange prevenir o contato cruzado entre alérgenos (como laticínios, nozes ou glúten) e alimentos que devem estar livres deles, junto com comunicação precisa ao cliente.",
+        "why": "Para alguém com uma alergia real, um pequeno erro de contato cruzado pode causar uma reação grave ou potencialmente fatal, não apenas desconforto.",
+        "tip": "Use equipamento dedicado para leites alternativos e itens sem glúten quando o volume permitir, em vez de apenas enxaguar ferramentas compartilhadas entre usos.",
+        "mistake": "Supor que um enxágue rápido de equipamento compartilhado é suficiente para prevenir o contato cruzado de alérgenos.",
+        "challenge": "Por que a reação alérgica de um cliente pode ser dramaticamente mais grave do que uma resposta típica de intolerância alimentar?"
+      },
+      "de": {
+        "title": "Allergenmanagement",
+        "definition": "Allergenmanagement umfasst die Verhinderung von Kreuzkontakt zwischen Allergenen (wie Milchprodukten, Nüssen oder Gluten) und Lebensmitteln, die davon frei sein sollen, sowie genaue Kundenkommunikation.",
+        "why": "Bei jemandem mit echter Allergie kann ein kleiner Kreuzkontaktfehler eine schwere oder lebensbedrohliche Reaktion verursachen, nicht nur Unwohlsein.",
+        "tip": "Verwende spezielle Ausrüstung für alternative Milch und glutenfreie Artikel, wo das Volumen es erlaubt, statt gemeinsam genutzte Werkzeuge zwischen den Einsätzen nur zu spülen.",
+        "mistake": "Anzunehmen, ein kurzes Spülen gemeinsam genutzter Ausrüstung reiche aus, um Allergen-Kreuzkontakt zu verhindern.",
+        "challenge": "Warum könnte die allergische Reaktion eines Kunden dramatisch schwerer sein als eine typische Reaktion auf Lebensmittelunverträglichkeit?"
+      },
+      "fr": {
+        "title": "Gestion des allergènes",
+        "definition": "La gestion des allergènes couvre la prévention du contact croisé entre allergènes (comme produits laitiers, noix ou gluten) et aliments censés en être exempts, avec une communication client précise.",
+        "why": "Pour quelqu'un ayant une véritable allergie, une petite erreur de contact croisé peut causer une réaction grave ou potentiellement mortelle, pas seulement un inconfort.",
+        "tip": "Utilisez un équipement dédié pour les laits alternatifs et les articles sans gluten quand le volume le permet, plutôt que de simplement rincer les outils partagés entre utilisations.",
+        "mistake": "Supposer qu'un rinçage rapide de l'équipement partagé suffit à prévenir le contact croisé des allergènes.",
+        "challenge": "Pourquoi la réaction allergique d'un client pourrait-elle être dramatiquement plus sévère qu'une réponse typique d'intolérance alimentaire ?"
+      },
+      "it": {
+        "title": "Gestione degli allergeni",
+        "definition": "La gestione degli allergeni copre la prevenzione del contatto crociato tra allergeni (come latticini, noci o glutine) e alimenti che dovrebbero esserne privi, insieme a una comunicazione accurata al cliente.",
+        "why": "Per qualcuno con una vera allergia, un piccolo errore di contatto crociato può causare una reazione grave o potenzialmente letale, non solo disagio.",
+        "tip": "Usa attrezzature dedicate per latti alternativi e articoli senza glutine dove il volume lo consente, invece di limitarti a risciacquare strumenti condivisi tra un uso e l'altro.",
+        "mistake": "Supporre che un rapido risciacquo di attrezzature condivise sia sufficiente a prevenire il contatto crociato degli allergeni.",
+        "challenge": "Perché la reazione allergica di un cliente potrebbe essere drammaticamente più grave di una tipica risposta di intolleranza alimentare?"
+      }
+    }
+  },
+  {
+    "number": "317",
+    "title": "Food Storage Temperatures",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "317.jpg",
+    "definition": "Different foods require specific storage temperatures — refrigerated dairy and pastries, frozen items, and shelf-stable dry goods — each with its own safe range.",
+    "why": "A single unmonitored fridge running slightly warm can silently compromise every perishable item stored in it.",
+    "tip": "Log fridge and freezer temperatures on a fixed schedule rather than checking only when something seems off.",
+    "mistake": "Trusting a fridge's setting dial rather than verifying actual internal temperature with a thermometer.",
+    "challenge": "Why might a fridge's control dial not accurately reflect what's actually happening inside it?",
+    "related": [
+      "313",
+      "315"
+    ],
+    "translations": {
+      "es": {
+        "title": "Temperaturas de almacenamiento de alimentos",
+        "definition": "Distintos alimentos requieren temperaturas de almacenamiento específicas —lácteos y pasteles refrigerados, artículos congelados y productos secos de estante— cada uno con su propio rango seguro.",
+        "why": "Un solo refrigerador sin monitorear que funcione un poco caliente puede comprometer silenciosamente cada artículo perecedero almacenado en él.",
+        "tip": "Registra las temperaturas del refrigerador y congelador según un horario fijo en lugar de revisar solo cuando algo parece estar mal.",
+        "mistake": "Confiar en el dial de ajuste de un refrigerador en lugar de verificar la temperatura interna real con un termómetro.",
+        "challenge": "¿Por qué el dial de control de un refrigerador podría no reflejar con precisión lo que realmente sucede dentro de él?"
+      },
+      "pt": {
+        "title": "Temperaturas de armazenamento de alimentos",
+        "definition": "Alimentos diferentes exigem temperaturas de armazenamento específicas — laticínios e doces refrigerados, itens congelados e produtos secos de prateleira — cada um com sua própria faixa segura.",
+        "why": "Uma única geladeira sem monitoramento funcionando um pouco quente pode comprometer silenciosamente todo item perecível armazenado nela.",
+        "tip": "Registre as temperaturas da geladeira e do freezer em um cronograma fixo em vez de verificar apenas quando algo parece errado.",
+        "mistake": "Confiar no botão de ajuste de uma geladeira em vez de verificar a temperatura interna real com um termômetro.",
+        "challenge": "Por que o botão de controle de uma geladeira pode não refletir com precisão o que realmente está acontecendo dentro dela?"
+      },
+      "de": {
+        "title": "Lagertemperaturen für Lebensmittel",
+        "definition": "Verschiedene Lebensmittel benötigen bestimmte Lagertemperaturen — gekühlte Milchprodukte und Gebäck, Tiefkühlware und lagerstabile Trockenware — jeweils mit eigenem sicherem Bereich.",
+        "why": "Ein einzelner unüberwachter Kühlschrank, der etwas zu warm läuft, kann still jedes darin gelagerte verderbliche Lebensmittel gefährden.",
+        "tip": "Protokolliere Kühlschrank- und Gefrierschranktemperaturen nach festem Zeitplan, statt nur zu prüfen, wenn etwas verdächtig erscheint.",
+        "mistake": "Dem Einstellrad eines Kühlschranks zu vertrauen, statt die tatsächliche Innentemperatur mit einem Thermometer zu überprüfen.",
+        "challenge": "Warum könnte das Einstellrad eines Kühlschranks nicht genau widerspiegeln, was tatsächlich im Inneren passiert?"
+      },
+      "fr": {
+        "title": "Températures de stockage des aliments",
+        "definition": "Différents aliments nécessitent des températures de stockage spécifiques — produits laitiers et pâtisseries réfrigérés, articles congelés et produits secs à température ambiante — chacun avec sa propre plage sûre.",
+        "why": "Un seul réfrigérateur non surveillé fonctionnant un peu trop chaud peut compromettre silencieusement chaque article périssable qui y est stocké.",
+        "tip": "Consignez les températures du réfrigérateur et du congélateur selon un calendrier fixe plutôt que de vérifier seulement quand quelque chose semble anormal.",
+        "mistake": "Faire confiance au cadran de réglage d'un réfrigérateur plutôt que de vérifier la température interne réelle avec un thermomètre.",
+        "challenge": "Pourquoi le cadran de contrôle d'un réfrigérateur pourrait-il ne pas refléter précisément ce qui se passe réellement à l'intérieur ?"
+      },
+      "it": {
+        "title": "Temperature di conservazione degli alimenti",
+        "definition": "Alimenti diversi richiedono temperature di conservazione specifiche — latticini e pasticceria refrigerati, articoli congelati e prodotti secchi a temperatura ambiente — ciascuno con il proprio intervallo sicuro.",
+        "why": "Un singolo frigorifero non monitorato che funziona leggermente caldo può compromettere silenziosamente ogni articolo deperibile conservato al suo interno.",
+        "tip": "Registra le temperature di frigorifero e congelatore secondo un programma fisso invece di controllare solo quando qualcosa sembra strano.",
+        "mistake": "Fidarsi della manopola di impostazione di un frigorifero invece di verificare la temperatura interna reale con un termometro.",
+        "challenge": "Perché la manopola di controllo di un frigorifero potrebbe non riflettere accuratamente ciò che sta realmente accadendo al suo interno?"
+      }
+    }
+  },
+  {
+    "number": "318",
+    "title": "Cleaning Schedules & Records",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "318.jpg",
+    "definition": "Documented cleaning schedules assign specific sanitation tasks to specific intervals and record when they were actually completed, not just when they should happen.",
+    "why": "Written records prove due diligence during a health inspection and reveal gaps that memory alone would miss.",
+    "tip": "Keep cleaning records simple enough that staff will actually fill them in consistently, not so detailed they get skipped.",
+    "mistake": "Having a cleaning schedule that exists only as a wall poster, never actually filled in with real completion records.",
+    "challenge": "Why might an unfilled cleaning schedule be almost as risky as having no schedule at all?",
+    "related": [
+      "255",
+      "313"
+    ],
+    "translations": {
+      "es": {
+        "title": "Calendarios y registros de limpieza",
+        "definition": "Los calendarios de limpieza documentados asignan tareas de saneamiento específicas a intervalos concretos y registran cuándo se completaron realmente, no solo cuándo deberían suceder.",
+        "why": "Los registros escritos demuestran diligencia debida durante una inspección sanitaria y revelan vacíos que la sola memoria pasaría por alto.",
+        "tip": "Mantén los registros de limpieza lo suficientemente simples para que el personal realmente los complete de forma constante, no tan detallados que se salten.",
+        "mistake": "Tener un calendario de limpieza que existe solo como cartel de pared, nunca completado realmente con registros de finalización.",
+        "challenge": "¿Por qué un calendario de limpieza sin completar podría ser casi tan arriesgado como no tener ningún calendario?"
+      },
+      "pt": {
+        "title": "Cronogramas e registros de limpeza",
+        "definition": "Cronogramas de limpeza documentados atribuem tarefas específicas de higienização a intervalos específicos e registram quando foram realmente concluídas, não apenas quando deveriam acontecer.",
+        "why": "Registros escritos comprovam diligência durante uma inspeção sanitária e revelam lacunas que a memória sozinha deixaria passar.",
+        "tip": "Mantenha os registros de limpeza simples o suficiente para que a equipe realmente os preencha consistentemente, não tão detalhados que sejam ignorados.",
+        "mistake": "Ter um cronograma de limpeza que existe apenas como um pôster na parede, nunca realmente preenchido com registros reais de conclusão.",
+        "challenge": "Por que um cronograma de limpeza não preenchido pode ser quase tão arriscado quanto não ter cronograma algum?"
+      },
+      "de": {
+        "title": "Reinigungspläne und -aufzeichnungen",
+        "definition": "Dokumentierte Reinigungspläne weisen bestimmten Intervallen konkrete Hygieneaufgaben zu und protokollieren, wann sie tatsächlich erledigt wurden, nicht nur wann sie erledigt werden sollten.",
+        "why": "Schriftliche Aufzeichnungen belegen bei einer Gesundheitsinspektion die gebotene Sorgfalt und decken Lücken auf, die reines Erinnern übersehen würde.",
+        "tip": "Halte Reinigungsaufzeichnungen einfach genug, dass das Personal sie tatsächlich konsequent ausfüllt, nicht so detailliert, dass sie übersprungen werden.",
+        "mistake": "Einen Reinigungsplan zu haben, der nur als Wandposter existiert und nie tatsächlich mit echten Erledigungsaufzeichnungen ausgefüllt wird.",
+        "challenge": "Warum könnte ein unausgefüllter Reinigungsplan fast so riskant sein wie gar kein Plan?"
+      },
+      "fr": {
+        "title": "Calendriers et registres de nettoyage",
+        "definition": "Les calendriers de nettoyage documentés attribuent des tâches de désinfection spécifiques à des intervalles précis et enregistrent quand elles ont réellement été effectuées, pas seulement quand elles devraient avoir lieu.",
+        "why": "Des registres écrits prouvent la diligence raisonnable lors d'une inspection sanitaire et révèlent des lacunes que la seule mémoire manquerait.",
+        "tip": "Gardez les registres de nettoyage assez simples pour que le personnel les remplisse réellement de façon constante, pas si détaillés qu'ils soient négligés.",
+        "mistake": "Avoir un calendrier de nettoyage qui n'existe que comme affiche murale, jamais réellement rempli avec de vrais registres d'achèvement.",
+        "challenge": "Pourquoi un calendrier de nettoyage non rempli pourrait-il être presque aussi risqué que l'absence totale de calendrier ?"
+      },
+      "it": {
+        "title": "Programmi e registri di pulizia",
+        "definition": "I programmi di pulizia documentati assegnano compiti specifici di sanificazione a intervalli specifici e registrano quando sono stati effettivamente completati, non solo quando dovrebbero avvenire.",
+        "why": "I registri scritti dimostrano la diligenza dovuta durante un'ispezione sanitaria e rivelano lacune che la sola memoria non coglierebbe.",
+        "tip": "Mantieni i registri di pulizia abbastanza semplici da far sì che il personale li compili effettivamente in modo costante, non così dettagliati da essere saltati.",
+        "mistake": "Avere un programma di pulizia che esiste solo come poster a muro, mai effettivamente compilato con registri reali di completamento.",
+        "challenge": "Perché un programma di pulizia non compilato potrebbe essere quasi rischioso quanto non avere alcun programma?"
+      }
+    }
+  },
+  {
+    "number": "319",
+    "title": "Personal Hygiene Standards",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "319.jpg",
+    "definition": "Personal hygiene standards cover handwashing frequency and technique, clean uniforms, tied-back hair, and staying home when genuinely ill.",
+    "why": "Staff themselves are one of the most common routes for contamination to enter food, more so than most equipment or storage issues.",
+    "tip": "Make handwashing stations genuinely convenient to reach from every work area, not just present somewhere in the building.",
+    "mistake": "Assuming hygiene rules are followed just because they're posted, without checking actual practice.",
+    "challenge": "Why might staff be the single biggest contamination risk in a well-equipped, well-cleaned café?",
+    "related": [
+      "313",
+      "316"
+    ],
+    "translations": {
+      "es": {
+        "title": "Normas de higiene personal",
+        "definition": "Las normas de higiene personal cubren la frecuencia y técnica de lavado de manos, uniformes limpios, cabello recogido y quedarse en casa cuando se está genuinamente enfermo.",
+        "why": "El propio personal es una de las vías más comunes de contaminación de los alimentos, más que la mayoría de los problemas de equipo o almacenamiento.",
+        "tip": "Haz que las estaciones de lavado de manos sean realmente cómodas de alcanzar desde cada área de trabajo, no solo presentes en algún lugar del local.",
+        "mistake": "Suponer que las reglas de higiene se siguen solo porque están publicadas, sin verificar la práctica real.",
+        "challenge": "¿Por qué el personal podría ser el mayor riesgo de contaminación en una cafetería bien equipada y bien limpia?"
+      },
+      "pt": {
+        "title": "Padrões de higiene pessoal",
+        "definition": "Os padrões de higiene pessoal cobrem frequência e técnica de lavagem das mãos, uniformes limpos, cabelo preso e ficar em casa quando genuinamente doente.",
+        "why": "A própria equipe é uma das rotas mais comuns de contaminação dos alimentos, mais do que a maioria dos problemas de equipamento ou armazenamento.",
+        "tip": "Torne as estações de lavagem de mãos genuinamente convenientes de alcançar de cada área de trabalho, não apenas presentes em algum lugar do estabelecimento.",
+        "mistake": "Supor que as regras de higiene são seguidas só porque estão afixadas, sem verificar a prática real.",
+        "challenge": "Por que a equipe pode ser o maior risco de contaminação em uma cafeteria bem equipada e bem limpa?"
+      },
+      "de": {
+        "title": "Persönliche Hygienestandards",
+        "definition": "Persönliche Hygienestandards umfassen Häufigkeit und Technik des Händewaschens, saubere Uniformen, zurückgebundenes Haar und zu Hause bleiben bei echter Krankheit.",
+        "why": "Das Personal selbst ist einer der häufigsten Wege, über die Kontamination in Lebensmittel gelangt, mehr noch als die meisten Ausrüstungs- oder Lagerungsprobleme.",
+        "tip": "Mache Handwaschstationen von jedem Arbeitsbereich aus wirklich bequem erreichbar, nicht nur irgendwo im Gebäude vorhanden.",
+        "mistake": "Anzunehmen, Hygieneregeln würden befolgt, nur weil sie ausgehängt sind, ohne die tatsächliche Praxis zu überprüfen.",
+        "challenge": "Warum könnte das Personal das größte Kontaminationsrisiko in einem gut ausgestatteten, gut gereinigten Café sein?"
+      },
+      "fr": {
+        "title": "Normes d'hygiène personnelle",
+        "definition": "Les normes d'hygiène personnelle couvrent la fréquence et la technique de lavage des mains, des uniformes propres, des cheveux attachés, et rester chez soi en cas de maladie réelle.",
+        "why": "Le personnel lui-même est l'une des voies les plus courantes de contamination des aliments, plus que la plupart des problèmes d'équipement ou de stockage.",
+        "tip": "Rendez les postes de lavage des mains vraiment pratiques d'accès depuis chaque zone de travail, pas seulement présents quelque part dans le bâtiment.",
+        "mistake": "Supposer que les règles d'hygiène sont suivies simplement parce qu'elles sont affichées, sans vérifier la pratique réelle.",
+        "challenge": "Pourquoi le personnel pourrait-il être le plus grand risque de contamination dans un café bien équipé et bien nettoyé ?"
+      },
+      "it": {
+        "title": "Standard di igiene personale",
+        "definition": "Gli standard di igiene personale coprono frequenza e tecnica del lavaggio delle mani, uniformi pulite, capelli raccolti e restare a casa quando genuinamente malati.",
+        "why": "Il personale stesso è una delle vie più comuni attraverso cui la contaminazione entra negli alimenti, più della maggior parte dei problemi di attrezzatura o conservazione.",
+        "tip": "Rendi le stazioni di lavaggio delle mani genuinamente comode da raggiungere da ogni area di lavoro, non solo presenti da qualche parte nel locale.",
+        "mistake": "Supporre che le regole di igiene vengano seguite solo perché sono affisse, senza verificare la pratica effettiva.",
+        "challenge": "Perché il personale potrebbe essere il più grande rischio di contaminazione in un bar ben attrezzato e ben pulito?"
+      }
+    }
+  },
+  {
+    "number": "320",
+    "title": "Pest Control Basics",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "320.jpg",
+    "definition": "Pest control involves preventing entry points, eliminating food and water sources for pests, and regular monitoring rather than reacting only after an infestation is visible.",
+    "why": "A visible pest problem usually means the issue has existed unnoticed for some time already, making prevention far more effective than reaction.",
+    "tip": "Inspect delivery boxes and storage areas regularly for early signs like droppings or gnaw marks, not just visible live pests.",
+    "mistake": "Only addressing pest control after a customer or inspector spots a problem.",
+    "challenge": "Why might the absence of visible pests not mean the absence of an actual pest problem?",
+    "related": [
+      "313",
+      "321"
+    ],
+    "translations": {
+      "es": {
+        "title": "Conceptos básicos del control de plagas",
+        "definition": "El control de plagas implica prevenir puntos de entrada, eliminar fuentes de alimento y agua para las plagas, y un monitoreo regular en lugar de reaccionar solo después de que una infestación sea visible.",
+        "why": "Un problema visible de plagas generalmente significa que el problema ya existía sin notarse durante un tiempo, haciendo que la prevención sea mucho más efectiva que la reacción.",
+        "tip": "Inspecciona regularmente las cajas de entrega y las áreas de almacenamiento en busca de señales tempranas como excrementos o marcas de mordisco, no solo plagas vivas visibles.",
+        "mistake": "Abordar el control de plagas solo después de que un cliente o inspector detecte un problema.",
+        "challenge": "¿Por qué la ausencia de plagas visibles podría no significar la ausencia de un problema real de plagas?"
+      },
+      "pt": {
+        "title": "Conceitos básicos de controle de pragas",
+        "definition": "O controle de pragas envolve prevenir pontos de entrada, eliminar fontes de alimento e água para pragas, e monitoramento regular em vez de reagir apenas depois que uma infestação é visível.",
+        "why": "Um problema visível de pragas geralmente significa que a questão já existia despercebida por algum tempo, tornando a prevenção muito mais eficaz do que a reação.",
+        "tip": "Inspecione regularmente caixas de entrega e áreas de armazenamento em busca de sinais precoces como fezes ou marcas de mordida, não apenas pragas vivas visíveis.",
+        "mistake": "Só abordar o controle de pragas depois que um cliente ou inspetor detecta um problema.",
+        "challenge": "Por que a ausência de pragas visíveis pode não significar a ausência de um problema real de pragas?"
+      },
+      "de": {
+        "title": "Grundlagen der Schädlingsbekämpfung",
+        "definition": "Schädlingsbekämpfung umfasst das Verhindern von Eintrittspunkten, das Beseitigen von Nahrungs- und Wasserquellen für Schädlinge und regelmäßige Überwachung, statt erst nach sichtbarem Befall zu reagieren.",
+        "why": "Ein sichtbares Schädlingsproblem bedeutet meist, dass das Problem schon eine Weile unbemerkt bestand, was Prävention weit wirksamer macht als Reaktion.",
+        "tip": "Untersuche Lieferkartons und Lagerbereiche regelmäßig auf frühe Anzeichen wie Kot oder Nagespuren, nicht nur auf sichtbare lebende Schädlinge.",
+        "mistake": "Schädlingsbekämpfung erst anzugehen, nachdem ein Kunde oder Inspektor ein Problem entdeckt.",
+        "challenge": "Warum könnte das Fehlen sichtbarer Schädlinge nicht das Fehlen eines tatsächlichen Schädlingsproblems bedeuten?"
+      },
+      "fr": {
+        "title": "Bases de la lutte antiparasitaire",
+        "definition": "La lutte antiparasitaire consiste à prévenir les points d'entrée, éliminer les sources de nourriture et d'eau pour les nuisibles, et surveiller régulièrement plutôt que de réagir seulement après qu'une infestation soit visible.",
+        "why": "Un problème de nuisibles visible signifie généralement que le problème existait déjà sans être remarqué depuis un certain temps, rendant la prévention bien plus efficace que la réaction.",
+        "tip": "Inspectez régulièrement les cartons de livraison et les zones de stockage à la recherche de signes précoces comme des excréments ou des marques de rongement, pas seulement des nuisibles vivants visibles.",
+        "mistake": "N'aborder la lutte antiparasitaire qu'après qu'un client ou un inspecteur repère un problème.",
+        "challenge": "Pourquoi l'absence de nuisibles visibles pourrait-elle ne pas signifier l'absence d'un véritable problème de nuisibles ?"
+      },
+      "it": {
+        "title": "Nozioni di base sul controllo dei parassiti",
+        "definition": "Il controllo dei parassiti implica prevenire i punti di ingresso, eliminare fonti di cibo e acqua per i parassiti, e un monitoraggio regolare invece di reagire solo dopo che un'infestazione è visibile.",
+        "why": "Un problema visibile di parassiti di solito significa che il problema esisteva già inosservato da un po', rendendo la prevenzione molto più efficace della reazione.",
+        "tip": "Ispeziona regolarmente scatole di consegna e aree di stoccaggio per segni precoci come escrementi o segni di morso, non solo parassiti vivi visibili.",
+        "mistake": "Affrontare il controllo dei parassiti solo dopo che un cliente o un ispettore nota un problema.",
+        "challenge": "Perché l'assenza di parassiti visibili potrebbe non significare l'assenza di un vero problema di parassiti?"
+      }
+    }
+  },
+  {
+    "number": "321",
+    "title": "Waste Management & Food Safety",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "321.jpg",
+    "definition": "Proper waste management keeps food waste separated, contained, and removed promptly, since accumulated waste attracts pests and can contaminate nearby prep areas.",
+    "why": "Waste bins near food prep are a genuine cross-contamination risk if not managed with the same care as any other station.",
+    "tip": "Position waste bins away from direct food prep and handwashing zones wherever the layout allows.",
+    "mistake": "Treating waste disposal as a low-priority task disconnected from overall food safety.",
+    "challenge": "Why might waste management deserve the same level of attention as cleaning schedules or storage temperatures?",
+    "related": [
+      "320",
+      "313"
+    ],
+    "translations": {
+      "es": {
+        "title": "Gestión de residuos y seguridad alimentaria",
+        "definition": "Una gestión adecuada de residuos mantiene los desechos de alimentos separados, contenidos y retirados con prontitud, ya que los residuos acumulados atraen plagas y pueden contaminar áreas de preparación cercanas.",
+        "why": "Los contenedores de basura cerca de la preparación de alimentos son un riesgo real de contaminación cruzada si no se gestionan con el mismo cuidado que cualquier otra estación.",
+        "tip": "Coloca los contenedores de basura lejos de la preparación directa de alimentos y de las zonas de lavado de manos siempre que el diseño lo permita.",
+        "mistake": "Tratar la eliminación de residuos como una tarea de baja prioridad desconectada de la seguridad alimentaria general.",
+        "challenge": "¿Por qué la gestión de residuos podría merecer el mismo nivel de atención que los calendarios de limpieza o las temperaturas de almacenamiento?"
+      },
+      "pt": {
+        "title": "Gestão de resíduos e segurança alimentar",
+        "definition": "A gestão adequada de resíduos mantém os resíduos de alimentos separados, contidos e removidos prontamente, já que resíduos acumulados atraem pragas e podem contaminar áreas de preparo próximas.",
+        "why": "Lixeiras perto do preparo de alimentos são um risco real de contaminação cruzada se não forem geridas com o mesmo cuidado que qualquer outra estação.",
+        "tip": "Posicione as lixeiras longe do preparo direto de alimentos e das zonas de lavagem de mãos sempre que o layout permitir.",
+        "mistake": "Tratar o descarte de resíduos como tarefa de baixa prioridade desconectada da segurança alimentar geral.",
+        "challenge": "Por que a gestão de resíduos pode merecer o mesmo nível de atenção que cronogramas de limpeza ou temperaturas de armazenamento?"
+      },
+      "de": {
+        "title": "Abfallmanagement und Lebensmittelsicherheit",
+        "definition": "Ordentliches Abfallmanagement hält Lebensmittelabfälle getrennt, eingedämmt und zeitnah entfernt, da angesammelter Abfall Schädlinge anzieht und nahegelegene Vorbereitungsbereiche kontaminieren kann.",
+        "why": "Mülltonnen in der Nähe der Lebensmittelzubereitung sind ein echtes Kreuzkontaminationsrisiko, wenn sie nicht mit derselben Sorgfalt wie jede andere Station verwaltet werden.",
+        "tip": "Platziere Mülltonnen fernab von direkter Lebensmittelzubereitung und Handwaschzonen, wo immer es das Layout erlaubt.",
+        "mistake": "Abfallentsorgung als niedrigprioritäre Aufgabe zu behandeln, losgelöst von der gesamten Lebensmittelsicherheit.",
+        "challenge": "Warum könnte Abfallmanagement dieselbe Aufmerksamkeit verdienen wie Reinigungspläne oder Lagertemperaturen?"
+      },
+      "fr": {
+        "title": "Gestion des déchets et sécurité alimentaire",
+        "definition": "Une gestion adéquate des déchets maintient les déchets alimentaires séparés, contenus et retirés rapidement, car les déchets accumulés attirent les nuisibles et peuvent contaminer les zones de préparation voisines.",
+        "why": "Les poubelles près de la préparation des aliments sont un véritable risque de contamination croisée si elles ne sont pas gérées avec le même soin que tout autre poste.",
+        "tip": "Positionnez les poubelles loin de la préparation directe des aliments et des zones de lavage des mains partout où l'agencement le permet.",
+        "mistake": "Traiter l'élimination des déchets comme une tâche de faible priorité déconnectée de la sécurité alimentaire globale.",
+        "challenge": "Pourquoi la gestion des déchets pourrait-elle mériter le même niveau d'attention que les calendriers de nettoyage ou les températures de stockage ?"
+      },
+      "it": {
+        "title": "Gestione dei rifiuti e sicurezza alimentare",
+        "definition": "Una corretta gestione dei rifiuti mantiene i rifiuti alimentari separati, contenuti e rimossi tempestivamente, poiché i rifiuti accumulati attirano parassiti e possono contaminare le aree di preparazione vicine.",
+        "why": "I bidoni dei rifiuti vicino alla preparazione degli alimenti sono un vero rischio di contaminazione crociata se non gestiti con la stessa cura di qualsiasi altra postazione.",
+        "tip": "Posiziona i bidoni dei rifiuti lontano dalla preparazione diretta degli alimenti e dalle zone di lavaggio delle mani ovunque la disposizione lo permetta.",
+        "mistake": "Trattare lo smaltimento dei rifiuti come un compito a bassa priorità scollegato dalla sicurezza alimentare generale.",
+        "challenge": "Perché la gestione dei rifiuti potrebbe meritare lo stesso livello di attenzione dei programmi di pulizia o delle temperature di conservazione?"
+      }
+    }
+  },
+  {
+    "number": "322",
+    "title": "Supplier Verification & Traceability",
+    "category": "HAC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "322.jpg",
+    "definition": "Supplier verification confirms that ingredients arrive from certified, inspected sources, while traceability means being able to track any ingredient back to its origin if a problem arises.",
+    "why": "If a food safety issue is later traced to a specific ingredient, traceability records determine how quickly and precisely the source can be identified.",
+    "tip": "Keep delivery records and supplier certification documents organized and easy to retrieve, not scattered across different systems.",
+    "mistake": "Assuming a trusted long-term supplier relationship removes the need for documented verification.",
+    "challenge": "Why might a café need traceability records even for a supplier it has worked with for years without incident?",
+    "related": [
+      "313",
+      "108"
+    ],
+    "translations": {
+      "es": {
+        "title": "Verificación de proveedores y trazabilidad",
+        "definition": "La verificación de proveedores confirma que los ingredientes proceden de fuentes certificadas e inspeccionadas, mientras que la trazabilidad significa poder rastrear cualquier ingrediente hasta su origen si surge un problema.",
+        "why": "Si un problema de seguridad alimentaria se rastrea después hasta un ingrediente específico, los registros de trazabilidad determinan qué tan rápido y con qué precisión se puede identificar la fuente.",
+        "tip": "Mantén los registros de entrega y los documentos de certificación de proveedores organizados y fáciles de recuperar, no dispersos en distintos sistemas.",
+        "mistake": "Suponer que una relación de confianza a largo plazo con un proveedor elimina la necesidad de verificación documentada.",
+        "challenge": "¿Por qué una cafetería podría necesitar registros de trazabilidad incluso para un proveedor con el que ha trabajado durante años sin incidentes?"
+      },
+      "pt": {
+        "title": "Verificação de fornecedores e rastreabilidade",
+        "definition": "A verificação de fornecedores confirma que os ingredientes vêm de fontes certificadas e inspecionadas, enquanto a rastreabilidade significa poder rastrear qualquer ingrediente até sua origem se surgir um problema.",
+        "why": "Se um problema de segurança alimentar for depois rastreado até um ingrediente específico, os registros de rastreabilidade determinam quão rápida e precisamente a fonte pode ser identificada.",
+        "tip": "Mantenha os registros de entrega e os documentos de certificação de fornecedores organizados e fáceis de recuperar, não espalhados por sistemas diferentes.",
+        "mistake": "Supor que um relacionamento de confiança de longo prazo com um fornecedor elimina a necessidade de verificação documentada.",
+        "challenge": "Por que uma cafeteria pode precisar de registros de rastreabilidade mesmo para um fornecedor com quem trabalha há anos sem incidentes?"
+      },
+      "de": {
+        "title": "Lieferantenverifizierung und Rückverfolgbarkeit",
+        "definition": "Lieferantenverifizierung bestätigt, dass Zutaten von zertifizierten, inspizierten Quellen stammen, während Rückverfolgbarkeit bedeutet, jede Zutat bei Auftreten eines Problems bis zu ihrem Ursprung zurückverfolgen zu können.",
+        "why": "Wird ein Lebensmittelsicherheitsproblem später auf eine bestimmte Zutat zurückgeführt, bestimmen Rückverfolgbarkeitsaufzeichnungen, wie schnell und präzise die Quelle identifiziert werden kann.",
+        "tip": "Halte Lieferaufzeichnungen und Lieferantenzertifizierungsdokumente organisiert und leicht abrufbar, nicht über verschiedene Systeme verstreut.",
+        "mistake": "Anzunehmen, eine vertrauensvolle langjährige Lieferantenbeziehung mache dokumentierte Verifizierung überflüssig.",
+        "challenge": "Warum könnte ein Café Rückverfolgbarkeitsaufzeichnungen benötigen, selbst für einen Lieferanten, mit dem es jahrelang ohne Zwischenfall zusammengearbeitet hat?"
+      },
+      "fr": {
+        "title": "Vérification des fournisseurs et traçabilité",
+        "definition": "La vérification des fournisseurs confirme que les ingrédients proviennent de sources certifiées et inspectées, tandis que la traçabilité signifie pouvoir retracer tout ingrédient jusqu'à son origine si un problème survient.",
+        "why": "Si un problème de sécurité alimentaire est ensuite retracé jusqu'à un ingrédient spécifique, les registres de traçabilité déterminent avec quelle rapidité et précision la source peut être identifiée.",
+        "tip": "Gardez les registres de livraison et les documents de certification des fournisseurs organisés et faciles à récupérer, pas dispersés dans différents systèmes.",
+        "mistake": "Supposer qu'une relation de confiance de longue date avec un fournisseur élimine le besoin de vérification documentée.",
+        "challenge": "Pourquoi un café pourrait-il avoir besoin de registres de traçabilité même pour un fournisseur avec lequel il travaille depuis des années sans incident ?"
+      },
+      "it": {
+        "title": "Verifica dei fornitori e tracciabilità",
+        "definition": "La verifica dei fornitori conferma che gli ingredienti provengano da fonti certificate e ispezionate, mentre la tracciabilità significa poter risalire a qualsiasi ingrediente fino alla sua origine se sorge un problema.",
+        "why": "Se un problema di sicurezza alimentare viene successivamente ricondotto a un ingrediente specifico, i registri di tracciabilità determinano con quanta rapidità e precisione la fonte può essere identificata.",
+        "tip": "Mantieni i registri di consegna e i documenti di certificazione dei fornitori organizzati e facili da recuperare, non sparsi in sistemi diversi.",
+        "mistake": "Supporre che una relazione di fiducia a lungo termine con un fornitore elimini la necessità di verifica documentata.",
+        "challenge": "Perché un bar potrebbe aver bisogno di registri di tracciabilità anche per un fornitore con cui lavora da anni senza incidenti?"
+      }
+    }
+  },
+  {
+    "number": "323",
+    "title": "FIFO & Date Labeling",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "323.jpg",
+    "definition": "First In, First Out (FIFO) stock rotation combined with clear date labeling ensures older stock is used before newer stock, preventing items from expiring unnoticed at the back of storage.",
+    "why": "Without consistent FIFO practice, expired stock can sit hidden behind newer deliveries until someone finds it by accident.",
+    "tip": "Label every opened item with the date it was opened, not just relying on the manufacturer's printed expiry date.",
+    "mistake": "Stocking new deliveries in front of existing stock instead of behind it.",
+    "challenge": "Why might a well-organized storage area still have expired stock if FIFO isn't actively enforced?",
+    "related": [
+      "117",
+      "313"
+    ],
+    "translations": {
+      "es": {
+        "title": "FIFO y etiquetado de fechas",
+        "definition": "La rotación de existencias 'primero en entrar, primero en salir' (FIFO) combinada con un etiquetado claro de fechas garantiza que las existencias más antiguas se usen antes que las nuevas, evitando que los artículos caduquen desapercibidos al fondo del almacén.",
+        "why": "Sin una práctica FIFO constante, las existencias caducadas pueden quedar ocultas detrás de entregas más nuevas hasta que alguien las encuentre por accidente.",
+        "tip": "Etiqueta cada artículo abierto con la fecha en que se abrió, en lugar de confiar solo en la fecha de caducidad impresa del fabricante.",
+        "mistake": "Colocar las nuevas entregas delante de las existencias actuales en lugar de detrás.",
+        "challenge": "¿Por qué un área de almacenamiento bien organizada podría seguir teniendo existencias caducadas si el FIFO no se aplica activamente?"
+      },
+      "pt": {
+        "title": "FIFO e rotulagem de datas",
+        "definition": "A rotação de estoque 'primeiro a entrar, primeiro a sair' (FIFO), combinada com rotulagem clara de datas, garante que o estoque mais antigo seja usado antes do mais novo, evitando que itens vençam despercebidos no fundo do armazenamento.",
+        "why": "Sem uma prática FIFO consistente, o estoque vencido pode ficar escondido atrás de entregas mais novas até alguém encontrá-lo por acidente.",
+        "tip": "Rotule cada item aberto com a data em que foi aberto, em vez de confiar apenas na data de validade impressa pelo fabricante.",
+        "mistake": "Colocar novas entregas na frente do estoque existente em vez de atrás.",
+        "challenge": "Por que uma área de armazenamento bem organizada ainda pode ter estoque vencido se o FIFO não for ativamente aplicado?"
+      },
+      "de": {
+        "title": "FIFO und Datumskennzeichnung",
+        "definition": "Die First-In-First-Out-Lagerrotation (FIFO) kombiniert mit klarer Datumskennzeichnung stellt sicher, dass ältere Bestände vor neueren verwendet werden, und verhindert, dass Artikel unbemerkt hinten im Lager ablaufen.",
+        "why": "Ohne konsequente FIFO-Praxis kann abgelaufener Bestand hinter neueren Lieferungen versteckt bleiben, bis ihn jemand zufällig findet.",
+        "tip": "Kennzeichne jeden geöffneten Artikel mit dem Öffnungsdatum, statt dich allein auf das gedruckte Verfallsdatum des Herstellers zu verlassen.",
+        "mistake": "Neue Lieferungen vor statt hinter bestehenden Bestand zu stellen.",
+        "challenge": "Warum könnte ein gut organisierter Lagerbereich trotzdem abgelaufenen Bestand haben, wenn FIFO nicht aktiv durchgesetzt wird?"
+      },
+      "fr": {
+        "title": "FIFO et étiquetage des dates",
+        "definition": "La rotation des stocks « premier entré, premier sorti » (FIFO) combinée à un étiquetage clair des dates garantit que les stocks plus anciens sont utilisés avant les plus récents, évitant que des articles n'expirent inaperçus au fond du stockage.",
+        "why": "Sans pratique FIFO constante, un stock périmé peut rester caché derrière des livraisons plus récentes jusqu'à ce que quelqu'un le trouve par accident.",
+        "tip": "Étiquetez chaque article ouvert avec la date à laquelle il a été ouvert, plutôt que de vous fier uniquement à la date de péremption imprimée par le fabricant.",
+        "mistake": "Placer les nouvelles livraisons devant le stock existant plutôt que derrière.",
+        "challenge": "Pourquoi une zone de stockage bien organisée pourrait-elle quand même avoir du stock périmé si le FIFO n'est pas activement appliqué ?"
+      },
+      "it": {
+        "title": "FIFO ed etichettatura delle date",
+        "definition": "La rotazione delle scorte 'primo a entrare, primo a uscire' (FIFO) combinata con una chiara etichettatura delle date garantisce che le scorte più vecchie vengano usate prima di quelle più nuove, evitando che gli articoli scadano inosservati in fondo alla dispensa.",
+        "why": "Senza una pratica FIFO costante, le scorte scadute possono rimanere nascoste dietro consegne più recenti finché qualcuno non le trova per caso.",
+        "tip": "Etichetta ogni articolo aperto con la data in cui è stato aperto, invece di affidarti solo alla data di scadenza stampata dal produttore.",
+        "mistake": "Mettere le nuove consegne davanti alle scorte esistenti invece che dietro.",
+        "challenge": "Perché un'area di stoccaggio ben organizzata potrebbe comunque avere scorte scadute se il FIFO non viene applicato attivamente?"
+      }
+    }
+  },
+  {
+    "number": "324",
+    "title": "Equipment Sanitation Standards",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "324.jpg",
+    "definition": "Equipment sanitation covers not just visible cleanliness but actual pathogen reduction using correct sanitizer concentration, contact time, and water temperature.",
+    "why": "Equipment can look completely clean while still carrying enough bacteria to cause illness, since visible cleanliness and sanitization are genuinely different things.",
+    "tip": "Use sanitizer test strips periodically to confirm your solution is at the correct concentration, not just assume the dispenser is working.",
+    "mistake": "Treating a visually spotless surface as automatically sanitized.",
+    "challenge": "Why can a surface look perfectly clean and still be unsafe from a bacterial standpoint?",
+    "related": [
+      "262",
+      "313"
+    ],
+    "translations": {
+      "es": {
+        "title": "Normas de sanitización de equipos",
+        "definition": "La sanitización de equipos abarca no solo la limpieza visible sino la reducción real de patógenos usando la concentración correcta de desinfectante, el tiempo de contacto y la temperatura del agua.",
+        "why": "El equipo puede parecer completamente limpio mientras aún porta suficientes bacterias para causar enfermedad, ya que la limpieza visible y la sanitización son en realidad cosas distintas.",
+        "tip": "Usa tiras de prueba de desinfectante periódicamente para confirmar que tu solución tiene la concentración correcta, no solo supongas que el dispensador funciona.",
+        "mistake": "Tratar una superficie visualmente impecable como automáticamente sanitizada.",
+        "challenge": "¿Por qué una superficie puede verse perfectamente limpia y seguir siendo insegura desde el punto de vista bacteriano?"
+      },
+      "pt": {
+        "title": "Padrões de higienização de equipamentos",
+        "definition": "A higienização de equipamentos cobre não apenas a limpeza visível, mas a redução real de patógenos usando a concentração correta de sanitizante, tempo de contato e temperatura da água.",
+        "why": "O equipamento pode parecer completamente limpo enquanto ainda carrega bactérias suficientes para causar doença, já que limpeza visível e higienização são realmente coisas diferentes.",
+        "tip": "Use tiras de teste de sanitizante periodicamente para confirmar que sua solução está na concentração correta, não apenas suponha que o dispensador está funcionando.",
+        "mistake": "Tratar uma superfície visualmente impecável como automaticamente higienizada.",
+        "challenge": "Por que uma superfície pode parecer perfeitamente limpa e ainda ser insegura do ponto de vista bacteriano?"
+      },
+      "de": {
+        "title": "Sanitierungsstandards für Ausrüstung",
+        "definition": "Ausrüstungssanitierung umfasst nicht nur sichtbare Sauberkeit, sondern tatsächliche Krankheitserregerreduktion mittels korrekter Desinfektionsmittelkonzentration, Einwirkzeit und Wassertemperatur.",
+        "why": "Ausrüstung kann völlig sauber aussehen, während sie noch genug Bakterien trägt, um Krankheit zu verursachen, da sichtbare Sauberkeit und Sanitierung tatsächlich unterschiedliche Dinge sind.",
+        "tip": "Nutze regelmäßig Desinfektionsmittel-Teststreifen, um zu bestätigen, dass deine Lösung die richtige Konzentration hat, statt einfach anzunehmen, der Spender funktioniere.",
+        "mistake": "Eine optisch makellose Oberfläche als automatisch sanitiert zu behandeln.",
+        "challenge": "Warum kann eine Oberfläche perfekt sauber aussehen und aus bakterieller Sicht trotzdem unsicher sein?"
+      },
+      "fr": {
+        "title": "Normes de désinfection de l'équipement",
+        "definition": "La désinfection de l'équipement couvre non seulement la propreté visible mais la réduction réelle des pathogènes grâce à la bonne concentration de désinfectant, au temps de contact et à la température de l'eau.",
+        "why": "L'équipement peut paraître totalement propre tout en portant encore assez de bactéries pour causer une maladie, car propreté visible et désinfection sont réellement des choses différentes.",
+        "tip": "Utilisez périodiquement des bandelettes de test de désinfectant pour confirmer que votre solution est à la bonne concentration, plutôt que de simplement supposer que le distributeur fonctionne.",
+        "mistake": "Traiter une surface visuellement impeccable comme automatiquement désinfectée.",
+        "challenge": "Pourquoi une surface peut-elle paraître parfaitement propre et rester dangereuse d'un point de vue bactérien ?"
+      },
+      "it": {
+        "title": "Standard di sanificazione delle attrezzature",
+        "definition": "La sanificazione delle attrezzature copre non solo la pulizia visibile ma l'effettiva riduzione dei patogeni usando la concentrazione corretta di sanificante, il tempo di contatto e la temperatura dell'acqua.",
+        "why": "L'attrezzatura può sembrare completamente pulita pur portando ancora abbastanza batteri da causare malattie, poiché pulizia visibile e sanificazione sono in realtà cose diverse.",
+        "tip": "Usa periodicamente strisce reattive per il sanificante per confermare che la tua soluzione sia alla concentrazione corretta, invece di supporre semplicemente che il dosatore funzioni.",
+        "mistake": "Trattare una superficie visivamente impeccabile come automaticamente sanificata.",
+        "challenge": "Perché una superficie può sembrare perfettamente pulita ed essere comunque non sicura dal punto di vista batterico?"
+      }
+    }
+  },
+  {
+    "number": "325",
+    "title": "Water Safety in Food Prep",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "325.jpg",
+    "definition": "Water safety in food prep covers using potable water for ice, cleaning, and any food contact, and monitoring for contamination risk in the plumbing supplying it.",
+    "why": "Water is used constantly throughout a café and any contamination in the supply can spread across many products at once.",
+    "tip": "Know the source and treatment of your water supply, especially for ice production, which is often overlooked as a food safety point.",
+    "mistake": "Assuming ice is automatically safe simply because it's made from tap water.",
+    "challenge": "Why might ice be an overlooked food safety risk compared to more obviously monitored items like milk?",
+    "related": [
+      "313",
+      "317"
+    ],
+    "translations": {
+      "es": {
+        "title": "Seguridad del agua en la preparación de alimentos",
+        "definition": "La seguridad del agua en la preparación de alimentos abarca el uso de agua potable para hielo, limpieza y cualquier contacto con alimentos, y el monitoreo del riesgo de contaminación en la fontanería que la suministra.",
+        "why": "El agua se usa constantemente en toda una cafetería y cualquier contaminación en el suministro puede extenderse a muchos productos a la vez.",
+        "tip": "Conoce el origen y el tratamiento de tu suministro de agua, especialmente para la producción de hielo, que a menudo se pasa por alto como punto de seguridad alimentaria.",
+        "mistake": "Suponer que el hielo es automáticamente seguro solo porque se hace con agua del grifo.",
+        "challenge": "¿Por qué el hielo podría ser un riesgo de seguridad alimentaria pasado por alto en comparación con artículos más obviamente monitoreados como la leche?"
+      },
+      "pt": {
+        "title": "Segurança da água no preparo de alimentos",
+        "definition": "A segurança da água no preparo de alimentos abrange o uso de água potável para gelo, limpeza e qualquer contato com alimentos, e o monitoramento do risco de contaminação no encanamento que a fornece.",
+        "why": "A água é usada constantemente em toda uma cafeteria e qualquer contaminação no fornecimento pode se espalhar por muitos produtos de uma vez.",
+        "tip": "Conheça a origem e o tratamento do seu fornecimento de água, especialmente para produção de gelo, que muitas vezes é negligenciada como ponto de segurança alimentar.",
+        "mistake": "Supor que o gelo é automaticamente seguro só porque é feito com água da torneira.",
+        "challenge": "Por que o gelo pode ser um risco de segurança alimentar negligenciado comparado a itens mais obviamente monitorados como o leite?"
+      },
+      "de": {
+        "title": "Wassersicherheit bei der Lebensmittelzubereitung",
+        "definition": "Wassersicherheit bei der Lebensmittelzubereitung umfasst die Verwendung von Trinkwasser für Eis, Reinigung und jeden Lebensmittelkontakt sowie die Überwachung des Kontaminationsrisikos in der versorgenden Sanitärinstallation.",
+        "why": "Wasser wird ständig in einem Café verwendet, und jede Kontamination der Versorgung kann sich gleichzeitig über viele Produkte ausbreiten.",
+        "tip": "Kenne Quelle und Aufbereitung deiner Wasserversorgung, besonders für die Eisproduktion, die als Lebensmittelsicherheitspunkt oft übersehen wird.",
+        "mistake": "Anzunehmen, Eis sei automatisch sicher, nur weil es aus Leitungswasser hergestellt wird.",
+        "challenge": "Warum könnte Eis im Vergleich zu offensichtlicher überwachten Artikeln wie Milch ein übersehenes Lebensmittelsicherheitsrisiko sein?"
+      },
+      "fr": {
+        "title": "Sécurité de l'eau dans la préparation alimentaire",
+        "definition": "La sécurité de l'eau dans la préparation alimentaire couvre l'utilisation d'eau potable pour la glace, le nettoyage et tout contact alimentaire, et la surveillance du risque de contamination dans la plomberie qui l'alimente.",
+        "why": "L'eau est utilisée constamment dans un café et toute contamination de l'approvisionnement peut se propager à de nombreux produits à la fois.",
+        "tip": "Connaissez la source et le traitement de votre approvisionnement en eau, en particulier pour la production de glace, souvent négligée comme point de sécurité alimentaire.",
+        "mistake": "Supposer que la glace est automatiquement sûre simplement parce qu'elle est faite à partir d'eau du robinet.",
+        "challenge": "Pourquoi la glace pourrait-elle être un risque de sécurité alimentaire négligé comparé à des articles plus manifestement surveillés comme le lait ?"
+      },
+      "it": {
+        "title": "Sicurezza dell'acqua nella preparazione alimentare",
+        "definition": "La sicurezza dell'acqua nella preparazione alimentare copre l'uso di acqua potabile per ghiaccio, pulizia e qualsiasi contatto alimentare, e il monitoraggio del rischio di contaminazione nell'impianto idraulico che la fornisce.",
+        "why": "L'acqua viene usata costantemente in tutto un bar e qualsiasi contaminazione nella fornitura può diffondersi su molti prodotti contemporaneamente.",
+        "tip": "Conosci la fonte e il trattamento della tua fornitura d'acqua, specialmente per la produzione di ghiaccio, spesso trascurata come punto di sicurezza alimentare.",
+        "mistake": "Supporre che il ghiaccio sia automaticamente sicuro solo perché fatto con acqua di rubinetto.",
+        "challenge": "Perché il ghiaccio potrebbe essere un rischio di sicurezza alimentare trascurato rispetto a elementi più ovviamente monitorati come il latte?"
+      }
+    }
+  },
+  {
+    "number": "326",
+    "title": "Handling a Food Safety Incident",
+    "category": "HAC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "326.jpg",
+    "definition": "A food safety incident response plan covers isolating the suspected product, documenting what happened, notifying relevant parties, and identifying the root cause before resuming normal operations.",
+    "why": "A calm, structured response protects both customers and the business, while a panicked or hidden response can make a bad situation genuinely worse.",
+    "tip": "Write your incident response steps down in advance, so no one has to improvise a plan during an actual crisis.",
+    "mistake": "Having no documented incident plan and only figuring out the process after something has already gone wrong.",
+    "challenge": "Why might having a plan written down in advance matter more than having good instincts in the moment?",
+    "related": [
+      "313",
+      "322"
+    ],
+    "translations": {
+      "es": {
+        "title": "Manejo de un incidente de seguridad alimentaria",
+        "definition": "Un plan de respuesta a incidentes de seguridad alimentaria abarca aislar el producto sospechoso, documentar lo sucedido, notificar a las partes relevantes e identificar la causa raíz antes de reanudar las operaciones normales.",
+        "why": "Una respuesta calmada y estructurada protege tanto a los clientes como al negocio, mientras que una respuesta apresurada u oculta puede empeorar genuinamente una mala situación.",
+        "tip": "Escribe con antelación los pasos de respuesta a incidentes, para que nadie tenga que improvisar un plan durante una crisis real.",
+        "mistake": "No tener un plan de incidentes documentado y solo descubrir el proceso después de que algo ya haya salido mal.",
+        "challenge": "¿Por qué tener un plan escrito con antelación podría importar más que tener buenos instintos en el momento?"
+      },
+      "pt": {
+        "title": "Lidando com um incidente de segurança alimentar",
+        "definition": "Um plano de resposta a incidentes de segurança alimentar abrange isolar o produto suspeito, documentar o que aconteceu, notificar as partes relevantes e identificar a causa raiz antes de retomar as operações normais.",
+        "why": "Uma resposta calma e estruturada protege tanto os clientes quanto o negócio, enquanto uma resposta apressada ou oculta pode piorar genuinamente uma situação ruim.",
+        "tip": "Escreva com antecedência os passos de resposta a incidentes, para que ninguém precise improvisar um plano durante uma crise real.",
+        "mistake": "Não ter um plano de incidentes documentado e só descobrir o processo depois que algo já deu errado.",
+        "challenge": "Por que ter um plano escrito com antecedência pode importar mais do que ter bons instintos no momento?"
+      },
+      "de": {
+        "title": "Umgang mit einem Lebensmittelsicherheitsvorfall",
+        "definition": "Ein Reaktionsplan für Lebensmittelsicherheitsvorfälle umfasst die Isolierung des verdächtigen Produkts, die Dokumentation des Geschehenen, die Benachrichtigung relevanter Parteien und die Identifizierung der Ursache, bevor der normale Betrieb wieder aufgenommen wird.",
+        "why": "Eine ruhige, strukturierte Reaktion schützt sowohl Kunden als auch das Unternehmen, während eine panische oder verheimlichte Reaktion eine schlechte Situation tatsächlich verschlimmern kann.",
+        "tip": "Schreibe deine Vorfall-Reaktionsschritte im Voraus auf, damit niemand während einer echten Krise einen Plan improvisieren muss.",
+        "mistake": "Keinen dokumentierten Vorfallplan zu haben und den Prozess erst herauszufinden, nachdem bereits etwas schiefgelaufen ist.",
+        "challenge": "Warum könnte ein im Voraus schriftlich festgelegter Plan wichtiger sein als gute Instinkte im Moment?"
+      },
+      "fr": {
+        "title": "Gérer un incident de sécurité alimentaire",
+        "definition": "Un plan de réponse aux incidents de sécurité alimentaire couvre l'isolement du produit suspecté, la documentation de ce qui s'est passé, la notification des parties concernées et l'identification de la cause profonde avant de reprendre les opérations normales.",
+        "why": "Une réponse calme et structurée protège à la fois les clients et l'entreprise, tandis qu'une réponse paniquée ou cachée peut réellement aggraver une mauvaise situation.",
+        "tip": "Écrivez vos étapes de réponse aux incidents à l'avance, afin que personne n'ait à improviser un plan lors d'une véritable crise.",
+        "mistake": "Ne pas avoir de plan d'incident documenté et découvrir le processus seulement après que quelque chose a déjà mal tourné.",
+        "challenge": "Pourquoi avoir un plan écrit à l'avance pourrait-il compter plus que d'avoir de bons instincts sur le moment ?"
+      },
+      "it": {
+        "title": "Gestire un incidente di sicurezza alimentare",
+        "definition": "Un piano di risposta agli incidenti di sicurezza alimentare copre l'isolamento del prodotto sospetto, la documentazione di ciò che è accaduto, la notifica alle parti interessate e l'identificazione della causa alla radice prima di riprendere le operazioni normali.",
+        "why": "Una risposta calma e strutturata protegge sia i clienti che l'attività, mentre una risposta nel panico o nascosta può peggiorare genuinamente una brutta situazione.",
+        "tip": "Scrivi in anticipo i tuoi passaggi di risposta agli incidenti, così nessuno deve improvvisare un piano durante una vera crisi.",
+        "mistake": "Non avere un piano di incidenti documentato e capire il processo solo dopo che qualcosa è già andato storto.",
+        "challenge": "Perché avere un piano scritto in anticipo potrebbe contare più che avere buoni istinti nel momento?"
+      }
+    }
+  },
+  {
+    "number": "327",
+    "title": "Staff Training & Certification",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "327.jpg",
+    "definition": "Food safety training and certification ensures staff understand the reasoning behind safety rules, not just the rules themselves, and often satisfies a legal requirement.",
+    "why": "Staff who understand why a rule exists are more likely to follow it consistently than staff who were just told to follow it.",
+    "tip": "Refresh food safety training periodically rather than treating a single onboarding session as sufficient for years.",
+    "mistake": "Treating certification as a one-time box to check rather than an ongoing understanding to maintain.",
+    "challenge": "Why might staff who only memorized rules without understanding them be more likely to cut corners under pressure?",
+    "related": [
+      "313",
+      "319"
+    ],
+    "translations": {
+      "es": {
+        "title": "Capacitación y certificación del personal",
+        "definition": "La capacitación y certificación en seguridad alimentaria asegura que el personal entienda el razonamiento detrás de las normas de seguridad, no solo las normas en sí, y a menudo satisface un requisito legal.",
+        "why": "El personal que entiende por qué existe una norma tiene más probabilidades de seguirla de forma constante que el personal al que simplemente se le dijo que la siguiera.",
+        "tip": "Renueva la capacitación en seguridad alimentaria periódicamente en lugar de tratar una sola sesión de incorporación como suficiente durante años.",
+        "mistake": "Tratar la certificación como una casilla que se marca una sola vez en lugar de una comprensión continua a mantener.",
+        "challenge": "¿Por qué el personal que solo memorizó normas sin entenderlas podría tener más probabilidades de tomar atajos bajo presión?"
+      },
+      "pt": {
+        "title": "Treinamento e certificação da equipe",
+        "definition": "O treinamento e a certificação em segurança alimentar garantem que a equipe entenda o raciocínio por trás das normas de segurança, não apenas as normas em si, e muitas vezes satisfaz uma exigência legal.",
+        "why": "Funcionários que entendem por que uma regra existe têm mais probabilidade de segui-la consistentemente do que aqueles que apenas foram instruídos a segui-la.",
+        "tip": "Renove o treinamento de segurança alimentar periodicamente, em vez de tratar uma única sessão de integração como suficiente por anos.",
+        "mistake": "Tratar a certificação como uma caixa a marcar uma única vez em vez de uma compreensão contínua a manter.",
+        "challenge": "Por que funcionários que apenas memorizaram regras sem entendê-las podem ter mais probabilidade de cortar caminho sob pressão?"
+      },
+      "de": {
+        "title": "Personalschulung und Zertifizierung",
+        "definition": "Schulung und Zertifizierung in Lebensmittelsicherheit stellen sicher, dass das Personal die Logik hinter den Sicherheitsregeln versteht, nicht nur die Regeln selbst, und erfüllen oft eine gesetzliche Anforderung.",
+        "why": "Personal, das versteht, warum eine Regel existiert, befolgt sie eher konsequent als Personal, dem nur gesagt wurde, sie zu befolgen.",
+        "tip": "Erneuere die Lebensmittelsicherheitsschulung regelmäßig, statt eine einzelne Einarbeitungssitzung jahrelang als ausreichend zu behandeln.",
+        "mistake": "Zertifizierung als einmalig abzuhakendes Kästchen zu behandeln statt als aufrechtzuerhaltendes fortlaufendes Verständnis.",
+        "challenge": "Warum könnte Personal, das Regeln nur auswendig gelernt hat, ohne sie zu verstehen, unter Druck eher Abkürzungen nehmen?"
+      },
+      "fr": {
+        "title": "Formation et certification du personnel",
+        "definition": "La formation et la certification en sécurité alimentaire garantissent que le personnel comprend le raisonnement derrière les règles de sécurité, pas seulement les règles elles-mêmes, et satisfait souvent une exigence légale.",
+        "why": "Le personnel qui comprend pourquoi une règle existe est plus susceptible de la suivre de façon constante que le personnel à qui on a simplement dit de la suivre.",
+        "tip": "Renouvelez la formation en sécurité alimentaire périodiquement plutôt que de traiter une seule séance d'intégration comme suffisante pendant des années.",
+        "mistake": "Traiter la certification comme une case à cocher une seule fois plutôt qu'une compréhension continue à entretenir.",
+        "challenge": "Pourquoi le personnel qui a seulement mémorisé les règles sans les comprendre pourrait-il être plus susceptible de prendre des raccourcis sous pression ?"
+      },
+      "it": {
+        "title": "Formazione e certificazione del personale",
+        "definition": "La formazione e certificazione sulla sicurezza alimentare garantiscono che il personale comprenda la logica dietro le regole di sicurezza, non solo le regole stesse, e spesso soddisfa un requisito legale.",
+        "why": "Il personale che capisce perché esiste una regola è più propenso a seguirla in modo costante rispetto a chi ha semplicemente ricevuto l'ordine di seguirla.",
+        "tip": "Rinnova periodicamente la formazione sulla sicurezza alimentare invece di trattare una singola sessione di inserimento come sufficiente per anni.",
+        "mistake": "Trattare la certificazione come una casella da spuntare una volta sola invece che una comprensione continua da mantenere.",
+        "challenge": "Perché il personale che ha solo memorizzato le regole senza capirle potrebbe essere più propenso a prendere scorciatoie sotto pressione?"
+      }
+    }
+  },
+  {
+    "number": "328",
+    "title": "Health Inspections",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "328.jpg",
+    "definition": "Health inspections evaluate a food business against regulatory standards, typically checking temperature control, cleanliness, staff practices, and documentation.",
+    "why": "Inspections are a periodic check on systems that should already be running well every day, not a special event to prepare for reactively.",
+    "tip": "Keep your café audit-ready at all times rather than doing a special cleanup only before an expected inspection.",
+    "mistake": "Treating inspection day as separate from normal daily standards rather than a snapshot of them.",
+    "challenge": "Why might a café that only cleans thoroughly before inspections actually be at higher risk the rest of the year?",
+    "related": [
+      "313",
+      "318"
+    ],
+    "translations": {
+      "es": {
+        "title": "Inspecciones sanitarias",
+        "definition": "Las inspecciones sanitarias evalúan un negocio de alimentos frente a normas regulatorias, comprobando típicamente el control de temperatura, la limpieza, las prácticas del personal y la documentación.",
+        "why": "Las inspecciones son una comprobación periódica de sistemas que ya deberían funcionar bien cada día, no un evento especial para el que prepararse de forma reactiva.",
+        "tip": "Mantén tu cafetería lista para auditoría en todo momento en lugar de hacer una limpieza especial solo antes de una inspección esperada.",
+        "mistake": "Tratar el día de la inspección como algo distinto de los estándares diarios normales en lugar de una instantánea de ellos.",
+        "challenge": "¿Por qué una cafetería que solo limpia a fondo antes de las inspecciones podría estar en realidad en mayor riesgo el resto del año?"
+      },
+      "pt": {
+        "title": "Inspeções sanitárias",
+        "definition": "As inspeções sanitárias avaliam um negócio de alimentos frente a padrões regulatórios, normalmente verificando controle de temperatura, limpeza, práticas da equipe e documentação.",
+        "why": "As inspeções são uma verificação periódica de sistemas que já deveriam estar funcionando bem todos os dias, não um evento especial para se preparar de forma reativa.",
+        "tip": "Mantenha sua cafeteria sempre pronta para auditoria em vez de fazer uma limpeza especial só antes de uma inspeção esperada.",
+        "mistake": "Tratar o dia da inspeção como algo separado dos padrões diários normais em vez de uma fotografia deles.",
+        "challenge": "Por que uma cafeteria que só limpa completamente antes das inspeções pode na verdade estar em maior risco no resto do ano?"
+      },
+      "de": {
+        "title": "Gesundheitsinspektionen",
+        "definition": "Gesundheitsinspektionen bewerten einen Lebensmittelbetrieb anhand von regulatorischen Standards, meist mit Prüfung von Temperaturkontrolle, Sauberkeit, Personalpraxis und Dokumentation.",
+        "why": "Inspektionen sind eine regelmäßige Überprüfung von Systemen, die bereits jeden Tag gut laufen sollten, kein besonderes Ereignis, auf das man sich reaktiv vorbereitet.",
+        "tip": "Halte dein Café jederzeit prüfungsbereit, statt eine Sonderreinigung nur vor einer erwarteten Inspektion durchzuführen.",
+        "mistake": "Den Inspektionstag als getrennt von den normalen täglichen Standards zu behandeln, statt als deren Momentaufnahme.",
+        "challenge": "Warum könnte ein Café, das nur vor Inspektionen gründlich reinigt, den Rest des Jahres tatsächlich einem höheren Risiko ausgesetzt sein?"
+      },
+      "fr": {
+        "title": "Inspections sanitaires",
+        "definition": "Les inspections sanitaires évaluent une entreprise alimentaire par rapport aux normes réglementaires, vérifiant généralement le contrôle de température, la propreté, les pratiques du personnel et la documentation.",
+        "why": "Les inspections sont une vérification périodique de systèmes qui devraient déjà bien fonctionner chaque jour, pas un événement spécial auquel se préparer de façon réactive.",
+        "tip": "Gardez votre café prêt pour un audit en permanence plutôt que de faire un nettoyage spécial seulement avant une inspection attendue.",
+        "mistake": "Traiter le jour de l'inspection comme distinct des normes quotidiennes normales plutôt qu'un instantané de celles-ci.",
+        "challenge": "Pourquoi un café qui ne nettoie soigneusement qu'avant les inspections pourrait-il en réalité être plus à risque le reste de l'année ?"
+      },
+      "it": {
+        "title": "Ispezioni sanitarie",
+        "definition": "Le ispezioni sanitarie valutano un'attività alimentare rispetto agli standard normativi, tipicamente controllando controllo della temperatura, pulizia, pratiche del personale e documentazione.",
+        "why": "Le ispezioni sono un controllo periodico su sistemi che dovrebbero già funzionare bene ogni giorno, non un evento speciale per cui prepararsi in modo reattivo.",
+        "tip": "Mantieni il tuo bar sempre pronto per un audit invece di fare una pulizia speciale solo prima di un'ispezione attesa.",
+        "mistake": "Trattare il giorno dell'ispezione come separato dagli standard quotidiani normali invece che come un'istantanea di essi.",
+        "challenge": "Perché un bar che pulisce a fondo solo prima delle ispezioni potrebbe in realtà essere a rischio maggiore per il resto dell'anno?"
+      }
+    }
+  },
+  {
+    "number": "329",
+    "title": "Documentation & Record-Keeping",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "329.jpg",
+    "definition": "Food safety documentation includes temperature logs, cleaning records, supplier certificates, and training records, kept organized and accessible for review.",
+    "why": "Without documentation, even a genuinely well-run food safety system can't prove its own consistency during an inspection or investigation.",
+    "tip": "Store records digitally where possible, with backups, rather than relying on a single paper folder that can be lost or damaged.",
+    "mistake": "Running excellent food safety practices in reality but keeping no record of it happening.",
+    "challenge": "Why might genuinely good food safety practice still fail an inspection if it isn't documented?",
+    "related": [
+      "313",
+      "318"
+    ],
+    "translations": {
+      "es": {
+        "title": "Documentación y mantenimiento de registros",
+        "definition": "La documentación de seguridad alimentaria incluye registros de temperatura, registros de limpieza, certificados de proveedores y registros de capacitación, mantenidos organizados y accesibles para revisión.",
+        "why": "Sin documentación, incluso un sistema de seguridad alimentaria genuinamente bien gestionado no puede demostrar su propia consistencia durante una inspección o investigación.",
+        "tip": "Guarda los registros digitalmente cuando sea posible, con copias de seguridad, en lugar de depender de una sola carpeta de papel que se puede perder o dañar.",
+        "mistake": "Aplicar excelentes prácticas de seguridad alimentaria en la realidad pero no mantener ningún registro de que ocurran.",
+        "challenge": "¿Por qué una práctica de seguridad alimentaria genuinamente buena podría fallar una inspección si no está documentada?"
+      },
+      "pt": {
+        "title": "Documentação e manutenção de registros",
+        "definition": "A documentação de segurança alimentar inclui registros de temperatura, registros de limpeza, certificados de fornecedores e registros de treinamento, mantidos organizados e acessíveis para revisão.",
+        "why": "Sem documentação, mesmo um sistema de segurança alimentar genuinamente bem administrado não consegue provar sua própria consistência durante uma inspeção ou investigação.",
+        "tip": "Armazene registros digitalmente quando possível, com backups, em vez de depender de uma única pasta de papel que pode ser perdida ou danificada.",
+        "mistake": "Executar excelentes práticas de segurança alimentar na realidade mas não manter nenhum registro de que estão acontecendo.",
+        "challenge": "Por que uma prática de segurança alimentar genuinamente boa ainda pode falhar em uma inspeção se não estiver documentada?"
+      },
+      "de": {
+        "title": "Dokumentation und Aufzeichnungsführung",
+        "definition": "Lebensmittelsicherheitsdokumentation umfasst Temperaturprotokolle, Reinigungsaufzeichnungen, Lieferantenzertifikate und Schulungsaufzeichnungen, organisiert und für die Überprüfung zugänglich gehalten.",
+        "why": "Ohne Dokumentation kann selbst ein tatsächlich gut geführtes Lebensmittelsicherheitssystem seine eigene Konsistenz bei einer Inspektion oder Untersuchung nicht belegen.",
+        "tip": "Speichere Aufzeichnungen wo möglich digital mit Backups, statt dich auf einen einzelnen Papierordner zu verlassen, der verloren gehen oder beschädigt werden kann.",
+        "mistake": "In der Realität ausgezeichnete Lebensmittelsicherheitspraxis zu betreiben, aber keine Aufzeichnung darüber zu führen.",
+        "challenge": "Warum könnte tatsächlich gute Lebensmittelsicherheitspraxis eine Inspektion trotzdem nicht bestehen, wenn sie nicht dokumentiert ist?"
+      },
+      "fr": {
+        "title": "Documentation et tenue de registres",
+        "definition": "La documentation de sécurité alimentaire comprend les journaux de température, les registres de nettoyage, les certificats fournisseurs et les registres de formation, tenus organisés et accessibles pour examen.",
+        "why": "Sans documentation, même un système de sécurité alimentaire réellement bien géré ne peut pas prouver sa propre constance lors d'une inspection ou enquête.",
+        "tip": "Stockez les registres numériquement quand c'est possible, avec des sauvegardes, plutôt que de dépendre d'un seul dossier papier qui peut être perdu ou endommagé.",
+        "mistake": "Appliquer d'excellentes pratiques de sécurité alimentaire dans la réalité mais n'en garder aucune trace.",
+        "challenge": "Pourquoi une pratique de sécurité alimentaire réellement bonne pourrait-elle quand même échouer à une inspection si elle n'est pas documentée ?"
+      },
+      "it": {
+        "title": "Documentazione e tenuta dei registri",
+        "definition": "La documentazione sulla sicurezza alimentare include registri di temperatura, registri di pulizia, certificati dei fornitori e registri di formazione, mantenuti organizzati e accessibili per la revisione.",
+        "why": "Senza documentazione, anche un sistema di sicurezza alimentare genuinamente ben gestito non può dimostrare la propria coerenza durante un'ispezione o un'indagine.",
+        "tip": "Conserva i registri digitalmente dove possibile, con backup, invece di affidarti a un'unica cartella di carta che può andare persa o danneggiata.",
+        "mistake": "Applicare eccellenti pratiche di sicurezza alimentare nella realtà ma non tenerne alcuna registrazione.",
+        "challenge": "Perché una pratica di sicurezza alimentare genuinamente buona potrebbe comunque fallire un'ispezione se non è documentata?"
+      }
+    }
+  },
+  {
+    "number": "330",
+    "title": "Building a Food Safety Culture",
+    "category": "HAC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "330.jpg",
+    "definition": "A genuine food safety culture exists when staff follow safe practices consistently even when no one is watching or checking, not just when management or inspectors are present.",
+    "why": "Rules enforced only through supervision break down the moment supervision isn't there, while genuine culture holds regardless of who's watching.",
+    "tip": "Ask staff to explain why a safety rule exists, not just what it is, as a quick check for genuine understanding versus rote compliance.",
+    "mistake": "Assuming consistent behavior during observed shifts means the same standards hold during unobserved ones.",
+    "challenge": "Why might a food safety system that only works under supervision actually be more fragile than it appears?",
+    "related": [
+      "327",
+      "313"
+    ],
+    "translations": {
+      "es": {
+        "title": "Construir una cultura de seguridad alimentaria",
+        "definition": "Una cultura genuina de seguridad alimentaria existe cuando el personal sigue prácticas seguras de forma constante incluso cuando nadie observa o supervisa, no solo cuando la dirección o los inspectores están presentes.",
+        "why": "Las normas aplicadas solo mediante supervisión se derrumban en cuanto esa supervisión desaparece, mientras que una cultura genuina se mantiene sin importar quién observe.",
+        "tip": "Pide al personal que explique por qué existe una norma de seguridad, no solo cuál es, como comprobación rápida de comprensión genuina frente a cumplimiento mecánico.",
+        "mistake": "Suponer que un comportamiento constante durante turnos observados significa que los mismos estándares se mantienen durante turnos no observados.",
+        "challenge": "¿Por qué un sistema de seguridad alimentaria que solo funciona bajo supervisión podría ser en realidad más frágil de lo que parece?"
+      },
+      "pt": {
+        "title": "Construindo uma cultura de segurança alimentar",
+        "definition": "Uma cultura genuína de segurança alimentar existe quando a equipe segue práticas seguras de forma consistente mesmo quando ninguém está observando ou verificando, não apenas quando a gerência ou inspetores estão presentes.",
+        "why": "Regras impostas apenas por supervisão desmoronam no momento em que a supervisão não está presente, enquanto uma cultura genuína se mantém independentemente de quem está observando.",
+        "tip": "Peça à equipe para explicar por que uma regra de segurança existe, não apenas o que ela é, como uma verificação rápida de compreensão genuína versus cumprimento mecânico.",
+        "mistake": "Supor que um comportamento consistente durante turnos observados significa que os mesmos padrões se mantêm durante turnos não observados.",
+        "challenge": "Por que um sistema de segurança alimentar que só funciona sob supervisão pode na verdade ser mais frágil do que parece?"
+      },
+      "de": {
+        "title": "Aufbau einer Lebensmittelsicherheitskultur",
+        "definition": "Eine echte Lebensmittelsicherheitskultur existiert, wenn das Personal sichere Praktiken konsequent befolgt, selbst wenn niemand zuschaut oder überprüft, nicht nur, wenn Management oder Inspektoren anwesend sind.",
+        "why": "Regeln, die nur durch Aufsicht durchgesetzt werden, brechen zusammen, sobald die Aufsicht fehlt, während echte Kultur unabhängig davon Bestand hat, wer zuschaut.",
+        "tip": "Bitte das Personal zu erklären, warum eine Sicherheitsregel existiert, nicht nur was sie ist, als schnelle Prüfung für echtes Verständnis gegenüber bloßem Auswendiglernen.",
+        "mistake": "Anzunehmen, konsequentes Verhalten während beobachteter Schichten bedeute, dieselben Standards gälten auch während unbeobachteter Schichten.",
+        "challenge": "Warum könnte ein Lebensmittelsicherheitssystem, das nur unter Aufsicht funktioniert, tatsächlich fragiler sein, als es erscheint?"
+      },
+      "fr": {
+        "title": "Construire une culture de sécurité alimentaire",
+        "definition": "Une véritable culture de sécurité alimentaire existe lorsque le personnel suit des pratiques sûres de manière constante même quand personne ne regarde ou ne vérifie, pas seulement en présence de la direction ou des inspecteurs.",
+        "why": "Les règles appliquées uniquement par supervision s'effondrent dès que la supervision disparaît, tandis qu'une véritable culture tient bon peu importe qui regarde.",
+        "tip": "Demandez au personnel d'expliquer pourquoi une règle de sécurité existe, pas seulement ce qu'elle est, comme vérification rapide d'une compréhension réelle plutôt qu'une conformité mécanique.",
+        "mistake": "Supposer qu'un comportement constant pendant les services observés signifie que les mêmes normes tiennent pendant les services non observés.",
+        "challenge": "Pourquoi un système de sécurité alimentaire qui ne fonctionne que sous supervision pourrait-il en réalité être plus fragile qu'il n'y paraît ?"
+      },
+      "it": {
+        "title": "Costruire una cultura della sicurezza alimentare",
+        "definition": "Una vera cultura della sicurezza alimentare esiste quando il personale segue pratiche sicure in modo costante anche quando nessuno osserva o controlla, non solo quando la direzione o gli ispettori sono presenti.",
+        "why": "Le regole applicate solo tramite supervisione crollano nel momento in cui la supervisione non c'è, mentre una vera cultura regge indipendentemente da chi osserva.",
+        "tip": "Chiedi al personale di spiegare perché esiste una regola di sicurezza, non solo qual è, come rapido controllo di comprensione genuina rispetto a conformità meccanica.",
+        "mistake": "Supporre che un comportamento costante durante i turni osservati significhi che gli stessi standard reggono durante i turni non osservati.",
+        "challenge": "Perché un sistema di sicurezza alimentare che funziona solo sotto supervisione potrebbe in realtà essere più fragile di quanto sembri?"
+      }
+    }
+  }
+]
