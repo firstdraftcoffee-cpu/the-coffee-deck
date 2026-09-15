@@ -1,0 +1,946 @@
+[
+  {
+    "number": "297",
+    "title": "What Is Decaf",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "297.jpg",
+    "definition": "Decaf is coffee that has had most of its caffeine removed from the green bean before roasting, typically reducing caffeine by 97% or more rather than eliminating it entirely.",
+    "why": "Understanding decaf as 'reduced' rather than 'zero' caffeine sets accurate expectations for customers with real sensitivity or medical needs.",
+    "tip": "Check the specific caffeine reduction standard used, since regulations vary by country on what qualifies as decaf.",
+    "mistake": "Telling a customer decaf is completely caffeine-free.",
+    "challenge": "Why might 'caffeine-free' be a meaningfully different claim from 'decaffeinated'?",
+    "related": [
+      "298",
+      "299"
+    ],
+    "translations": {
+      "es": {
+        "title": "Qué es el descafeinado",
+        "definition": "El descafeinado es café al que se le ha eliminado la mayor parte de la cafeína del grano verde antes de tostar, reduciendo típicamente la cafeína en un 97% o más en lugar de eliminarla por completo.",
+        "why": "Entender el descafeinado como 'reducido' y no 'cero' cafeína establece expectativas precisas para clientes con sensibilidad real o necesidades médicas.",
+        "tip": "Verifica el estándar específico de reducción de cafeína usado, ya que las regulaciones varían según el país sobre qué califica como descafeinado.",
+        "mistake": "Decirle a un cliente que el descafeinado no tiene cafeína en absoluto.",
+        "challenge": "¿Por qué 'libre de cafeína' podría ser una afirmación significativamente distinta de 'descafeinado'?"
+      },
+      "pt": {
+        "title": "O que é o descafeinado",
+        "definition": "O descafeinado é café que teve a maior parte de sua cafeína removida do grão verde antes de torrar, tipicamente reduzindo a cafeína em 97% ou mais em vez de eliminá-la completamente.",
+        "why": "Entender o descafeinado como 'reduzido' em vez de 'zero' cafeína estabelece expectativas precisas para clientes com sensibilidade real ou necessidades médicas.",
+        "tip": "Verifique o padrão específico de redução de cafeína usado, já que as regulamentações variam por país sobre o que qualifica como descafeinado.",
+        "mistake": "Dizer a um cliente que o descafeinado não tem cafeína alguma.",
+        "challenge": "Por que 'livre de cafeína' pode ser uma afirmação significativamente diferente de 'descafeinado'?"
+      },
+      "de": {
+        "title": "Was ist Decaf",
+        "definition": "Decaf ist Kaffee, dem vor dem Rösten der Großteil des Koffeins aus der grünen Bohne entzogen wurde, wobei der Koffeingehalt typischerweise um 97% oder mehr reduziert wird, statt ihn vollständig zu entfernen.",
+        "why": "Decaf als 'reduziert' statt 'null' Koffein zu verstehen setzt genaue Erwartungen für Kunden mit echter Empfindlichkeit oder medizinischem Bedarf.",
+        "tip": "Prüfe den spezifischen Koffeinreduktionsstandard, da Vorschriften je nach Land variieren, was als Decaf gilt.",
+        "mistake": "Einem Kunden zu sagen, Decaf sei völlig koffeinfrei.",
+        "challenge": "Warum könnte 'koffeinfrei' eine bedeutend andere Behauptung sein als 'entkoffeiniert'?"
+      },
+      "fr": {
+        "title": "Qu'est-ce que le décaféiné",
+        "definition": "Le décaféiné est du café dont la majeure partie de la caféine a été retirée du grain vert avant torréfaction, réduisant généralement la caféine de 97% ou plus plutôt que de l'éliminer entièrement.",
+        "why": "Comprendre le décaféiné comme « réduit » plutôt que « zéro » caféine établit des attentes précises pour les clients ayant une sensibilité réelle ou des besoins médicaux.",
+        "tip": "Vérifiez la norme spécifique de réduction de caféine utilisée, car les réglementations varient selon les pays sur ce qui qualifie de décaféiné.",
+        "mistake": "Dire à un client que le décaféiné est totalement sans caféine.",
+        "challenge": "Pourquoi « sans caféine » pourrait-il être une affirmation significativement différente de « décaféiné » ?"
+      },
+      "it": {
+        "title": "Cos'è il decaffeinato",
+        "definition": "Il decaffeinato è caffè a cui è stata rimossa la maggior parte della caffeina dal chicco verde prima della tostatura, tipicamente riducendo la caffeina del 97% o più invece di eliminarla completamente.",
+        "why": "Capire il decaffeinato come 'ridotto' piuttosto che 'zero' caffeina stabilisce aspettative accurate per clienti con reale sensibilità o esigenze mediche.",
+        "tip": "Controlla lo specifico standard di riduzione della caffeina usato, poiché le normative variano per paese su cosa si qualifichi come decaffeinato.",
+        "mistake": "Dire a un cliente che il decaffeinato è completamente privo di caffeina.",
+        "challenge": "Perché 'privo di caffeina' potrebbe essere un'affermazione significativamente diversa da 'decaffeinato'?"
+      }
+    }
+  },
+  {
+    "number": "298",
+    "title": "Swiss Water Process",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "298.jpg",
+    "definition": "The Swiss Water Process removes caffeine using only water, temperature, and time, filtering green coffee through activated carbon without any chemical solvents.",
+    "why": "It's the leading solvent-free decaffeination method, appealing to buyers who want decaf without any chemical processing at all.",
+    "tip": "Look for the Swiss Water trademark specifically if solvent-free processing is a hard requirement for your customers.",
+    "mistake": "Assuming all 'water process' decaf uses the same trademarked Swiss Water method.",
+    "challenge": "Why might a purely water-based process still be able to selectively remove caffeine while leaving most flavor compounds behind?",
+    "related": [
+      "297",
+      "299"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proceso Swiss Water",
+        "definition": "El proceso Swiss Water elimina la cafeína usando solo agua, temperatura y tiempo, filtrando el café verde a través de carbón activado sin ningún solvente químico.",
+        "why": "Es el método líder de descafeinado sin solventes, atractivo para compradores que quieren descafeinado sin ningún procesamiento químico en absoluto.",
+        "tip": "Busca específicamente la marca Swiss Water si el procesamiento sin solventes es un requisito indispensable para tus clientes.",
+        "mistake": "Suponer que todo descafeinado 'proceso de agua' usa el mismo método patentado Swiss Water.",
+        "challenge": "¿Por qué un proceso puramente basado en agua podría seguir eliminando selectivamente la cafeína dejando la mayoría de los compuestos de sabor intactos?"
+      },
+      "pt": {
+        "title": "Processo Swiss Water",
+        "definition": "O processo Swiss Water remove a cafeína usando apenas água, temperatura e tempo, filtrando o café verde através de carvão ativado sem nenhum solvente químico.",
+        "why": "É o método líder de descafeinização sem solventes, atraente para compradores que querem descafeinado sem nenhum processamento químico.",
+        "tip": "Procure especificamente a marca Swiss Water se o processamento sem solventes for um requisito indispensável para seus clientes.",
+        "mistake": "Supor que todo descafeinado 'processo de água' usa o mesmo método patenteado Swiss Water.",
+        "challenge": "Por que um processo puramente baseado em água ainda pode remover seletivamente a cafeína deixando a maioria dos compostos de sabor intactos?"
+      },
+      "de": {
+        "title": "Swiss-Water-Verfahren",
+        "definition": "Das Swiss-Water-Verfahren entfernt Koffein nur mit Wasser, Temperatur und Zeit, indem Rohkaffee ohne chemische Lösungsmittel durch Aktivkohle gefiltert wird.",
+        "why": "Es ist die führende lösungsmittelfreie Entkoffeinierungsmethode, attraktiv für Käufer, die Decaf ganz ohne chemische Verarbeitung wollen.",
+        "tip": "Achte gezielt auf die Swiss-Water-Marke, wenn lösungsmittelfreie Verarbeitung eine harte Anforderung deiner Kunden ist.",
+        "mistake": "Anzunehmen, jedes 'Wasserverfahren'-Decaf nutze dieselbe markenrechtlich geschützte Swiss-Water-Methode.",
+        "challenge": "Warum könnte ein rein wasserbasiertes Verfahren trotzdem Koffein selektiv entfernen, während die meisten Geschmacksverbindungen erhalten bleiben?"
+      },
+      "fr": {
+        "title": "Procédé Swiss Water",
+        "definition": "Le procédé Swiss Water élimine la caféine en utilisant uniquement de l'eau, de la température et du temps, filtrant le café vert à travers du charbon actif sans aucun solvant chimique.",
+        "why": "C'est la méthode de décaféination sans solvant leader, séduisant les acheteurs qui veulent du décaféiné sans aucun traitement chimique.",
+        "tip": "Recherchez spécifiquement la marque Swiss Water si un traitement sans solvant est une exigence stricte pour vos clients.",
+        "mistake": "Supposer que tout décaféiné « procédé à l'eau » utilise la même méthode Swiss Water déposée.",
+        "challenge": "Pourquoi un procédé purement à base d'eau pourrait-il quand même retirer sélectivement la caféine tout en laissant la plupart des composés aromatiques intacts ?"
+      },
+      "it": {
+        "title": "Processo Swiss Water",
+        "definition": "Il processo Swiss Water rimuove la caffeina usando solo acqua, temperatura e tempo, filtrando il caffè verde attraverso carbone attivo senza alcun solvente chimico.",
+        "why": "È il metodo leader di decaffeinizzazione senza solventi, attraente per acquirenti che vogliono decaffeinato senza alcuna lavorazione chimica.",
+        "tip": "Cerca specificamente il marchio Swiss Water se la lavorazione senza solventi è un requisito rigido per i tuoi clienti.",
+        "mistake": "Supporre che ogni decaffeinato 'processo ad acqua' usi lo stesso metodo brevettato Swiss Water.",
+        "challenge": "Perché un processo puramente a base d'acqua potrebbe comunque rimuovere selettivamente la caffeina lasciando intatti la maggior parte dei composti di sapore?"
+      }
+    }
+  },
+  {
+    "number": "299",
+    "title": "CO2 (Supercritical) Process",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "299.jpg",
+    "definition": "The CO2 process uses pressurized carbon dioxide in a supercritical state to selectively bond with and extract caffeine molecules from green coffee.",
+    "why": "It's considered one of the more flavor-preserving methods since supercritical CO2 targets caffeine with relatively high selectivity.",
+    "tip": "Expect this method to be used mostly for large-scale commercial decaf, since the equipment required is expensive and industrial.",
+    "mistake": "Assuming CO2 decaf involves any chemical solvent, when the process specifically avoids one.",
+    "challenge": "Why might a gas-based extraction method be more selective for caffeine than earlier solvent-based approaches?",
+    "related": [
+      "297",
+      "300"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proceso de CO2 (supercrítico)",
+        "definition": "El proceso de CO2 usa dióxido de carbono presurizado en estado supercrítico para unirse selectivamente y extraer las moléculas de cafeína del café verde.",
+        "why": "Se considera uno de los métodos que mejor preserva el sabor, ya que el CO2 supercrítico apunta a la cafeína con relativamente alta selectividad.",
+        "tip": "Espera que este método se use principalmente para descafeinado comercial a gran escala, ya que el equipo requerido es caro e industrial.",
+        "mistake": "Suponer que el descafeinado con CO2 implica algún solvente químico, cuando el proceso específicamente evita uno.",
+        "challenge": "¿Por qué un método de extracción basado en gas podría ser más selectivo para la cafeína que los enfoques anteriores basados en solventes?"
+      },
+      "pt": {
+        "title": "Processo de CO2 (supercrítico)",
+        "definition": "O processo de CO2 usa dióxido de carbono pressurizado em estado supercrítico para se ligar seletivamente e extrair as moléculas de cafeína do café verde.",
+        "why": "É considerado um dos métodos que mais preserva o sabor, já que o CO2 supercrítico visa a cafeína com relativamente alta seletividade.",
+        "tip": "Espere que esse método seja usado principalmente para descafeinado comercial em grande escala, já que o equipamento necessário é caro e industrial.",
+        "mistake": "Supor que o descafeinado com CO2 envolve algum solvente químico, quando o processo especificamente evita um.",
+        "challenge": "Por que um método de extração baseado em gás pode ser mais seletivo para a cafeína do que abordagens anteriores baseadas em solventes?"
+      },
+      "de": {
+        "title": "CO2-Verfahren (superkritisch)",
+        "definition": "Das CO2-Verfahren nutzt unter Druck stehendes Kohlendioxid im überkritischen Zustand, um selektiv an Koffeinmoleküle zu binden und sie aus Rohkaffee zu extrahieren.",
+        "why": "Es gilt als eine der geschmacksschonenderen Methoden, da überkritisches CO2 Koffein mit relativ hoher Selektivität anvisiert.",
+        "tip": "Erwarte, dass diese Methode hauptsächlich für großskaliges kommerzielles Decaf verwendet wird, da die erforderliche Ausrüstung teuer und industriell ist.",
+        "mistake": "Anzunehmen, CO2-Decaf beinhalte irgendein chemisches Lösungsmittel, obwohl das Verfahren genau das vermeidet.",
+        "challenge": "Warum könnte eine gasbasierte Extraktionsmethode selektiver für Koffein sein als frühere lösungsmittelbasierte Ansätze?"
+      },
+      "fr": {
+        "title": "Procédé au CO2 (supercritique)",
+        "definition": "Le procédé au CO2 utilise du dioxyde de carbone pressurisé à l'état supercritique pour se lier sélectivement et extraire les molécules de caféine du café vert.",
+        "why": "Il est considéré comme l'une des méthodes préservant le mieux la saveur, car le CO2 supercritique cible la caféine avec une sélectivité relativement élevée.",
+        "tip": "Attendez-vous à ce que cette méthode soit utilisée principalement pour le décaféiné commercial à grande échelle, car l'équipement requis est coûteux et industriel.",
+        "mistake": "Supposer que le décaféiné au CO2 implique un solvant chimique, alors que le procédé en évite spécifiquement un.",
+        "challenge": "Pourquoi une méthode d'extraction à base de gaz pourrait-elle être plus sélective pour la caféine que les approches antérieures à base de solvants ?"
+      },
+      "it": {
+        "title": "Processo a CO2 (supercritico)",
+        "definition": "Il processo a CO2 usa anidride carbonica pressurizzata in stato supercritico per legarsi selettivamente ed estrarre le molecole di caffeina dal caffè verde.",
+        "why": "È considerato uno dei metodi che meglio preservano il sapore, poiché la CO2 supercritica mira alla caffeina con relativa alta selettività.",
+        "tip": "Aspettati che questo metodo sia usato principalmente per il decaffeinato commerciale su larga scala, poiché l'attrezzatura richiesta è costosa e industriale.",
+        "mistake": "Supporre che il decaffeinato a CO2 comporti un solvente chimico, quando il processo lo evita specificamente.",
+        "challenge": "Perché un metodo di estrazione a base di gas potrebbe essere più selettivo per la caffeina rispetto ai precedenti approcci a base di solventi?"
+      }
+    }
+  },
+  {
+    "number": "300",
+    "title": "Ethyl Acetate (Sugarcane) Process",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "300.jpg",
+    "definition": "This process uses ethyl acetate, often derived from fermented sugarcane, to bond with and remove caffeine, marketed in some markets as a 'natural process' decaf.",
+    "why": "Its sugarcane origin lets it be positioned as more natural than fully synthetic solvents, though it remains a chemical solvent process.",
+    "tip": "Ask specifically whether the ethyl acetate used is plant-derived if that distinction matters to your customers.",
+    "mistake": "Assuming 'natural process' means no chemical solvent was used at all.",
+    "challenge": "Why might calling this a 'natural' decaf process be technically accurate but still slightly misleading to some customers?",
+    "related": [
+      "297",
+      "301"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proceso de acetato de etilo (caña de azúcar)",
+        "definition": "Este proceso usa acetato de etilo, a menudo derivado de caña de azúcar fermentada, para unirse y eliminar la cafeína, comercializado en algunos mercados como descafeinado de 'proceso natural'.",
+        "why": "Su origen de caña de azúcar le permite posicionarse como más natural que los solventes totalmente sintéticos, aunque sigue siendo un proceso con solvente químico.",
+        "tip": "Pregunta específicamente si el acetato de etilo usado es de origen vegetal si esa distinción importa a tus clientes.",
+        "mistake": "Suponer que 'proceso natural' significa que no se usó ningún solvente químico en absoluto.",
+        "challenge": "¿Por qué llamar a esto descafeinado 'natural' podría ser técnicamente preciso pero seguir siendo algo engañoso para algunos clientes?"
+      },
+      "pt": {
+        "title": "Processo de acetato de etila (cana-de-açúcar)",
+        "definition": "Esse processo usa acetato de etila, muitas vezes derivado de cana-de-açúcar fermentada, para se ligar e remover a cafeína, comercializado em alguns mercados como descafeinado de 'processo natural'.",
+        "why": "Sua origem de cana-de-açúcar permite que seja posicionado como mais natural do que solventes totalmente sintéticos, embora ainda seja um processo com solvente químico.",
+        "tip": "Pergunte especificamente se o acetato de etila usado é de origem vegetal, se essa distinção importar para seus clientes.",
+        "mistake": "Supor que 'processo natural' significa que nenhum solvente químico foi usado.",
+        "challenge": "Por que chamar isso de descafeinado 'natural' pode ser tecnicamente preciso mas ainda um pouco enganoso para alguns clientes?"
+      },
+      "de": {
+        "title": "Ethylacetat-Verfahren (Zuckerrohr)",
+        "definition": "Dieses Verfahren nutzt Ethylacetat, oft aus fermentiertem Zuckerrohr gewonnen, um Koffein zu binden und zu entfernen, in manchen Märkten als 'Natural-Process'-Decaf vermarktet.",
+        "why": "Seine Herkunft aus Zuckerrohr erlaubt eine Positionierung als natürlicher als vollständig synthetische Lösungsmittel, obwohl es weiterhin ein chemisches Lösungsmittelverfahren bleibt.",
+        "tip": "Frage gezielt, ob das verwendete Ethylacetat pflanzlichen Ursprungs ist, falls diese Unterscheidung für deine Kunden wichtig ist.",
+        "mistake": "Anzunehmen, 'natürliches Verfahren' bedeute, dass überhaupt kein chemisches Lösungsmittel verwendet wurde.",
+        "challenge": "Warum könnte es technisch korrekt, aber dennoch leicht irreführend für manche Kunden sein, dies ein 'natürliches' Decaf-Verfahren zu nennen?"
+      },
+      "fr": {
+        "title": "Procédé à l'acétate d'éthyle (canne à sucre)",
+        "definition": "Ce procédé utilise de l'acétate d'éthyle, souvent dérivé de canne à sucre fermentée, pour se lier et éliminer la caféine, commercialisé sur certains marchés comme décaféiné « procédé naturel ».",
+        "why": "Son origine de canne à sucre lui permet d'être positionné comme plus naturel que des solvants entièrement synthétiques, bien qu'il reste un procédé à solvant chimique.",
+        "tip": "Demandez spécifiquement si l'acétate d'éthyle utilisé est d'origine végétale si cette distinction compte pour vos clients.",
+        "mistake": "Supposer que « procédé naturel » signifie qu'aucun solvant chimique n'a été utilisé du tout.",
+        "challenge": "Pourquoi appeler cela un procédé de décaféination « naturel » pourrait-il être techniquement exact mais quand même légèrement trompeur pour certains clients ?"
+      },
+      "it": {
+        "title": "Processo all'acetato di etile (canna da zucchero)",
+        "definition": "Questo processo usa acetato di etile, spesso derivato dalla canna da zucchero fermentata, per legarsi e rimuovere la caffeina, commercializzato in alcuni mercati come decaffeinato a 'processo naturale'.",
+        "why": "La sua origine dalla canna da zucchero permette di posizionarlo come più naturale rispetto a solventi completamente sintetici, sebbene rimanga un processo con solvente chimico.",
+        "tip": "Chiedi specificamente se l'acetato di etile usato è di origine vegetale se quella distinzione conta per i tuoi clienti.",
+        "mistake": "Supporre che 'processo naturale' significhi che non è stato usato alcun solvente chimico.",
+        "challenge": "Perché chiamare questo un processo di decaffeinizzazione 'naturale' potrebbe essere tecnicamente accurato ma comunque leggermente fuorviante per alcuni clienti?"
+      }
+    }
+  },
+  {
+    "number": "301",
+    "title": "Methylene Chloride Process",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "301.jpg",
+    "definition": "The direct solvent process uses methylene chloride to bond with caffeine in the green bean, then rinses and steams the beans to remove any residual solvent before drying.",
+    "why": "It's one of the oldest industrial decaffeination methods and remains regulated with strict residual limits in most countries that permit it.",
+    "tip": "Understand that regulatory limits exist specifically because trace solvent residue is a real, monitored concern with this method.",
+    "mistake": "Assuming this method is banned everywhere just because some markets restrict or avoid it.",
+    "challenge": "Why might a decades-old, heavily regulated process still be in commercial use today despite consumer preference shifting toward solvent-free options?",
+    "related": [
+      "297",
+      "300"
+    ],
+    "translations": {
+      "es": {
+        "title": "Proceso de cloruro de metileno",
+        "definition": "El proceso de solvente directo usa cloruro de metileno para unirse a la cafeína en el grano verde, luego enjuaga y cuece al vapor los granos para eliminar cualquier solvente residual antes de secar.",
+        "why": "Es uno de los métodos industriales de descafeinado más antiguos y sigue regulado con límites estrictos de residuos en la mayoría de los países que lo permiten.",
+        "tip": "Entiende que los límites regulatorios existen específicamente porque el residuo de solvente traza es una preocupación real y monitoreada con este método.",
+        "mistake": "Suponer que este método está prohibido en todas partes solo porque algunos mercados lo restringen o evitan.",
+        "challenge": "¿Por qué un proceso de décadas de antigüedad y muy regulado podría seguir en uso comercial hoy pese a que la preferencia del consumidor se inclina hacia opciones sin solventes?"
+      },
+      "pt": {
+        "title": "Processo de cloreto de metileno",
+        "definition": "O processo de solvente direto usa cloreto de metileno para se ligar à cafeína no grão verde, depois enxágua e cozinha os grãos a vapor para remover qualquer solvente residual antes de secar.",
+        "why": "É um dos métodos industriais de descafeinização mais antigos e continua regulamentado com limites rígidos de resíduos na maioria dos países que o permitem.",
+        "tip": "Entenda que os limites regulatórios existem especificamente porque o resíduo residual de solvente é uma preocupação real e monitorada com esse método.",
+        "mistake": "Supor que esse método é proibido em todo lugar só porque alguns mercados o restringem ou evitam.",
+        "challenge": "Por que um processo antigo e fortemente regulamentado ainda pode estar em uso comercial hoje apesar da preferência do consumidor mudando para opções sem solventes?"
+      },
+      "de": {
+        "title": "Methylenchlorid-Verfahren",
+        "definition": "Das direkte Lösungsmittelverfahren nutzt Methylenchlorid, um sich mit Koffein in der grünen Bohne zu verbinden, dann werden die Bohnen gespült und gedämpft, um vor dem Trocknen jegliches Lösungsmittelrestpotential zu entfernen.",
+        "why": "Es ist eine der ältesten industriellen Entkoffeinierungsmethoden und bleibt in den meisten Ländern, die sie erlauben, mit strengen Rückstandsgrenzen reguliert.",
+        "tip": "Verstehe, dass regulatorische Grenzwerte speziell deshalb existieren, weil Spuren von Lösungsmittelrückständen bei dieser Methode ein echtes, überwachtes Anliegen sind.",
+        "mistake": "Anzunehmen, diese Methode sei überall verboten, nur weil manche Märkte sie einschränken oder meiden.",
+        "challenge": "Warum könnte ein jahrzehntealtes, stark reguliertes Verfahren trotz sich zu lösungsmittelfreien Optionen verschiebender Verbraucherpräferenz noch kommerziell im Einsatz sein?"
+      },
+      "fr": {
+        "title": "Procédé au chlorure de méthylène",
+        "definition": "Le procédé à solvant direct utilise du chlorure de méthylène pour se lier à la caféine dans le grain vert, puis rince et étuve les grains pour éliminer tout résidu de solvant avant séchage.",
+        "why": "C'est l'une des méthodes de décaféination industrielles les plus anciennes et elle reste réglementée avec des limites de résidus strictes dans la plupart des pays qui l'autorisent.",
+        "tip": "Comprenez que les limites réglementaires existent spécifiquement parce que les traces résiduelles de solvant sont une préoccupation réelle et surveillée avec cette méthode.",
+        "mistake": "Supposer que cette méthode est interdite partout simplement parce que certains marchés la restreignent ou l'évitent.",
+        "challenge": "Pourquoi un procédé vieux de plusieurs décennies et fortement réglementé pourrait-il encore être en usage commercial aujourd'hui malgré une préférence des consommateurs se tournant vers des options sans solvant ?"
+      },
+      "it": {
+        "title": "Processo al cloruro di metilene",
+        "definition": "Il processo a solvente diretto usa cloruro di metilene per legarsi alla caffeina nel chicco verde, poi risciacqua e cuoce a vapore i chicchi per rimuovere eventuali residui di solvente prima dell'essiccazione.",
+        "why": "È uno dei più antichi metodi industriali di decaffeinizzazione e rimane regolamentato con limiti severi sui residui nella maggior parte dei paesi che lo permettono.",
+        "tip": "Capisci che i limiti normativi esistono specificamente perché le tracce di residuo di solvente sono una preoccupazione reale e monitorata con questo metodo.",
+        "mistake": "Supporre che questo metodo sia vietato ovunque solo perché alcuni mercati lo limitano o lo evitano.",
+        "challenge": "Perché un processo vecchio di decenni e fortemente regolamentato potrebbe essere ancora in uso commerciale oggi nonostante la preferenza dei consumatori si stia spostando verso opzioni senza solventi?"
+      }
+    }
+  },
+  {
+    "number": "302",
+    "title": "Decaf Flavor Trade-offs",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "302.jpg",
+    "definition": "Every decaffeination method involves some loss or alteration of flavor compounds alongside caffeine removal, meaning no decaf tastes identical to its original caffeinated version.",
+    "why": "Setting honest expectations about flavor difference prevents customers from assuming decaf 'should' taste exactly like regular coffee.",
+    "tip": "Cup decaf against its own caffeinated counterpart to understand exactly what changed, rather than comparing it to an unrelated regular coffee.",
+    "mistake": "Judging decaf against the best caffeinated coffee you know rather than against what that same bean would taste like decaffeinated.",
+    "challenge": "Why is comparing decaf to an unrelated caffeinated coffee an unfair test of decaf quality?",
+    "related": [
+      "297",
+      "303"
+    ],
+    "translations": {
+      "es": {
+        "title": "Compromisos de sabor del descafeinado",
+        "definition": "Todo método de descafeinado implica cierta pérdida o alteración de compuestos de sabor junto con la eliminación de cafeína, lo que significa que ningún descafeinado sabe idéntico a su versión con cafeína original.",
+        "why": "Establecer expectativas honestas sobre la diferencia de sabor evita que los clientes supongan que el descafeinado 'debería' saber exactamente igual al café normal.",
+        "tip": "Catea el descafeinado contra su propia contraparte con cafeína para entender exactamente qué cambió, en lugar de compararlo con un café normal no relacionado.",
+        "mistake": "Juzgar el descafeinado frente al mejor café con cafeína que conoces en lugar de frente a cómo sabría ese mismo grano descafeinado.",
+        "challenge": "¿Por qué comparar el descafeinado con un café con cafeína no relacionado es una prueba injusta de la calidad del descafeinado?"
+      },
+      "pt": {
+        "title": "Compromissos de sabor do descafeinado",
+        "definition": "Todo método de descafeinização envolve alguma perda ou alteração de compostos de sabor junto com a remoção de cafeína, o que significa que nenhum descafeinado tem gosto idêntico à sua versão original com cafeína.",
+        "why": "Estabelecer expectativas honestas sobre a diferença de sabor evita que os clientes suponham que o descafeinado 'deveria' ter gosto exatamente igual ao café normal.",
+        "tip": "Prove o descafeinado contra sua própria contraparte com cafeína para entender exatamente o que mudou, em vez de compará-lo a um café normal não relacionado.",
+        "mistake": "Julgar o descafeinado contra o melhor café com cafeína que você conhece em vez de contra como aquele mesmo grão teria gosto descafeinado.",
+        "challenge": "Por que comparar o descafeinado a um café com cafeína não relacionado é um teste injusto da qualidade do descafeinado?"
+      },
+      "de": {
+        "title": "Geschmackliche Kompromisse bei Decaf",
+        "definition": "Jedes Entkoffeinierungsverfahren beinhaltet neben der Koffeinentfernung einen gewissen Verlust oder eine Veränderung von Geschmacksverbindungen, weshalb kein Decaf identisch zu seiner ursprünglichen koffeinhaltigen Version schmeckt.",
+        "why": "Ehrliche Erwartungen bezüglich Geschmacksunterschiede zu setzen verhindert, dass Kunden annehmen, Decaf 'sollte' genau wie normaler Kaffee schmecken.",
+        "tip": "Cuppe Decaf gegen sein eigenes koffeinhaltiges Gegenstück, um genau zu verstehen, was sich verändert hat, statt es mit einem unabhängigen normalen Kaffee zu vergleichen.",
+        "mistake": "Decaf am besten koffeinhaltigen Kaffee zu messen, den du kennst, statt daran, wie dieselbe Bohne entkoffeiniert schmecken würde.",
+        "challenge": "Warum ist der Vergleich von Decaf mit einem unabhängigen koffeinhaltigen Kaffee ein unfairer Test für die Decaf-Qualität?"
+      },
+      "fr": {
+        "title": "Compromis de saveur du décaféiné",
+        "definition": "Chaque méthode de décaféination implique une certaine perte ou altération de composés aromatiques en même temps que l'élimination de la caféine, ce qui signifie qu'aucun décaféiné n'a un goût identique à sa version caféinée originale.",
+        "why": "Fixer des attentes honnêtes sur la différence de saveur évite aux clients de supposer que le décaféiné « devrait » avoir exactement le même goût que le café normal.",
+        "tip": "Dégustez le décaféiné contre son propre équivalent caféiné pour comprendre exactement ce qui a changé, plutôt que de le comparer à un café normal sans rapport.",
+        "mistake": "Juger le décaféiné par rapport au meilleur café caféiné que vous connaissez plutôt que par rapport à ce que ce même grain aurait comme goût décaféiné.",
+        "challenge": "Pourquoi comparer le décaféiné à un café caféiné sans rapport est-il un test injuste de la qualité du décaféiné ?"
+      },
+      "it": {
+        "title": "Compromessi di sapore del decaffeinato",
+        "definition": "Ogni metodo di decaffeinizzazione comporta una qualche perdita o alterazione dei composti di sapore insieme alla rimozione della caffeina, il che significa che nessun decaffeinato ha un sapore identico alla sua versione originale con caffeina.",
+        "why": "Stabilire aspettative oneste sulla differenza di sapore impedisce ai clienti di supporre che il decaffeinato 'dovrebbe' sapere esattamente come il caffè normale.",
+        "tip": "Fai cupping del decaffeinato contro la sua stessa controparte con caffeina per capire esattamente cosa è cambiato, invece di confrontarlo con un caffè normale non correlato.",
+        "mistake": "Giudicare il decaffeinato rispetto al miglior caffè con caffeina che conosci invece che rispetto a come saprebbe quello stesso chicco decaffeinato.",
+        "challenge": "Perché confrontare il decaffeinato con un caffè con caffeina non correlato è un test ingiusto della qualità del decaffeinato?"
+      }
+    }
+  },
+  {
+    "number": "303",
+    "title": "Decaf Roasting Adjustments",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "303.jpg",
+    "definition": "Decaf green beans roast differently than regular green beans because decaffeination changes bean density, moisture, and structure before roasting even begins.",
+    "why": "Applying a regular coffee's roast profile directly to its decaf version usually produces an inferior result because the bean itself has already changed.",
+    "tip": "Expect decaf to roast faster and darken more quickly than the same origin's regular version, and adjust profile timing accordingly.",
+    "mistake": "Using an identical roast profile for decaf and regular versions of the same origin.",
+    "challenge": "Why would a bean that's already been processed once behave differently under the same heat as an unprocessed green bean?",
+    "related": [
+      "096",
+      "097"
+    ],
+    "translations": {
+      "es": {
+        "title": "Ajustes de tueste para el descafeinado",
+        "definition": "Los granos verdes descafeinados se tuestan de forma distinta a los granos verdes normales porque el descafeinado cambia la densidad, humedad y estructura del grano incluso antes de empezar a tostar.",
+        "why": "Aplicar directamente el perfil de tueste de un café normal a su versión descafeinada suele producir un resultado inferior porque el grano en sí ya ha cambiado.",
+        "tip": "Espera que el descafeinado tueste más rápido y oscurezca más rápidamente que la versión normal del mismo origen, y ajusta el tiempo del perfil en consecuencia.",
+        "mistake": "Usar un perfil de tueste idéntico para las versiones descafeinada y normal del mismo origen.",
+        "challenge": "¿Por qué un grano que ya ha sido procesado una vez podría comportarse distinto bajo el mismo calor que un grano verde sin procesar?"
+      },
+      "pt": {
+        "title": "Ajustes de torra para descafeinado",
+        "definition": "Os grãos verdes descafeinados torram de forma diferente dos grãos verdes normais porque a descafeinização muda a densidade, umidade e estrutura do grão mesmo antes de a torra começar.",
+        "why": "Aplicar diretamente o perfil de torra de um café normal à sua versão descafeinada geralmente produz um resultado inferior porque o próprio grão já mudou.",
+        "tip": "Espere que o descafeinado torre mais rápido e escureça mais rapidamente que a versão normal da mesma origem, e ajuste a cronometragem do perfil de acordo.",
+        "mistake": "Usar um perfil de torra idêntico para as versões descafeinada e normal da mesma origem.",
+        "challenge": "Por que um grão que já foi processado uma vez pode se comportar de forma diferente sob o mesmo calor do que um grão verde não processado?"
+      },
+      "de": {
+        "title": "Röstanpassungen für Decaf",
+        "definition": "Entkoffeinierte Rohbohnen rösten anders als normale Rohbohnen, weil die Entkoffeinierung Dichte, Feuchtigkeit und Struktur der Bohne bereits vor Röstbeginn verändert.",
+        "why": "Ein normales Röstprofil direkt auf die Decaf-Version anzuwenden liefert meist ein minderwertiges Ergebnis, da sich die Bohne selbst bereits verändert hat.",
+        "tip": "Erwarte, dass Decaf schneller röstet und dunkler wird als die normale Version desselben Ursprungs, und passe das Profil-Timing entsprechend an.",
+        "mistake": "Ein identisches Röstprofil für die Decaf- und die normale Version desselben Ursprungs zu verwenden.",
+        "challenge": "Warum könnte sich eine bereits einmal verarbeitete Bohne unter derselben Hitze anders verhalten als eine unverarbeitete Rohbohne?"
+      },
+      "fr": {
+        "title": "Ajustements de torréfaction pour le décaféiné",
+        "definition": "Les grains verts décaféinés torréfient différemment des grains verts normaux car la décaféination change la densité, l'humidité et la structure du grain avant même que la torréfaction ne commence.",
+        "why": "Appliquer directement le profil de torréfaction d'un café normal à sa version décaféinée produit généralement un résultat inférieur car le grain lui-même a déjà changé.",
+        "tip": "Attendez-vous à ce que le décaféiné torréfie plus vite et fonce plus rapidement que la version normale de la même origine, et ajustez le timing du profil en conséquence.",
+        "mistake": "Utiliser un profil de torréfaction identique pour les versions décaféinée et normale de la même origine.",
+        "challenge": "Pourquoi un grain déjà traité une fois pourrait-il se comporter différemment sous la même chaleur qu'un grain vert non traité ?"
+      },
+      "it": {
+        "title": "Adattamenti di tostatura per il decaffeinato",
+        "definition": "I chicchi verdi decaffeinati tostano diversamente dai chicchi verdi normali perché la decaffeinizzazione cambia densità, umidità e struttura del chicco già prima che inizi la tostatura.",
+        "why": "Applicare direttamente il profilo di tostatura di un caffè normale alla sua versione decaffeinata di solito produce un risultato inferiore perché il chicco stesso è già cambiato.",
+        "tip": "Aspettati che il decaffeinato tosti più velocemente e si scurisca più rapidamente della versione normale della stessa origine, e regola la tempistica del profilo di conseguenza.",
+        "mistake": "Usare un profilo di tostatura identico per le versioni decaffeinata e normale della stessa origine.",
+        "challenge": "Perché un chicco già lavorato una volta potrebbe comportarsi diversamente sotto lo stesso calore rispetto a un chicco verde non lavorato?"
+      }
+    }
+  },
+  {
+    "number": "304",
+    "title": "Decaf Green Bean Appearance",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "304.jpg",
+    "definition": "Decaf green beans often look visibly different from regular green beans, appearing darker, duller, or slightly oilier depending on the decaffeination method used.",
+    "why": "Recognizing this visual difference prevents mistaking a normal decaf characteristic for a quality defect.",
+    "tip": "Learn what your specific decaf's green appearance should look like so you can spot genuine quality issues rather than normal processing traits.",
+    "mistake": "Judging decaf green coffee by the same visual standards used for regular green coffee.",
+    "challenge": "Why might a visual trait that would signal a defect in regular green coffee be completely normal in decaf?",
+    "related": [
+      "066",
+      "297"
+    ],
+    "translations": {
+      "es": {
+        "title": "Apariencia del grano verde descafeinado",
+        "definition": "Los granos verdes descafeinados a menudo se ven visiblemente distintos de los granos verdes normales, apareciendo más oscuros, opacos o ligeramente más aceitosos según el método de descafeinado usado.",
+        "why": "Reconocer esta diferencia visual evita confundir una característica normal del descafeinado con un defecto de calidad.",
+        "tip": "Aprende cómo debería verse la apariencia verde de tu descafeinado específico para poder detectar problemas de calidad genuinos en lugar de rasgos normales del procesamiento.",
+        "mistake": "Juzgar el café verde descafeinado con los mismos estándares visuales usados para el café verde normal.",
+        "challenge": "¿Por qué un rasgo visual que señalaría un defecto en café verde normal podría ser completamente normal en el descafeinado?"
+      },
+      "pt": {
+        "title": "Aparência do grão verde descafeinado",
+        "definition": "Os grãos verdes descafeinados frequentemente parecem visivelmente diferentes dos grãos verdes normais, aparecendo mais escuros, foscos ou ligeiramente mais oleosos dependendo do método de descafeinização usado.",
+        "why": "Reconhecer essa diferença visual evita confundir uma característica normal do descafeinado com um defeito de qualidade.",
+        "tip": "Aprenda como deveria ser a aparência verde do seu descafeinado específico para poder identificar problemas reais de qualidade em vez de traços normais do processamento.",
+        "mistake": "Julgar o café verde descafeinado pelos mesmos padrões visuais usados para o café verde normal.",
+        "challenge": "Por que um traço visual que sinalizaria um defeito no café verde normal pode ser completamente normal no descafeinado?"
+      },
+      "de": {
+        "title": "Aussehen der Decaf-Rohbohne",
+        "definition": "Entkoffeinierte Rohbohnen sehen oft sichtbar anders aus als normale Rohbohnen und erscheinen je nach verwendeter Entkoffeinierungsmethode dunkler, matter oder etwas öliger.",
+        "why": "Diesen visuellen Unterschied zu erkennen verhindert, ein normales Decaf-Merkmal mit einem Qualitätsfehler zu verwechseln.",
+        "tip": "Lerne, wie das grüne Aussehen deines spezifischen Decafs aussehen sollte, damit du echte Qualitätsprobleme statt normaler Verarbeitungsmerkmale erkennst.",
+        "mistake": "Decaf-Rohkaffee nach denselben visuellen Standards zu beurteilen, die für normalen Rohkaffee verwendet werden.",
+        "challenge": "Warum könnte ein visuelles Merkmal, das bei normalem Rohkaffee einen Fehler signalisieren würde, bei Decaf völlig normal sein?"
+      },
+      "fr": {
+        "title": "Apparence du grain vert décaféiné",
+        "definition": "Les grains verts décaféinés paraissent souvent visiblement différents des grains verts normaux, apparaissant plus foncés, ternes ou légèrement plus huileux selon la méthode de décaféination utilisée.",
+        "why": "Reconnaître cette différence visuelle évite de confondre une caractéristique normale du décaféiné avec un défaut de qualité.",
+        "tip": "Apprenez à quoi devrait ressembler l'apparence verte de votre décaféiné spécifique afin de repérer de vrais problèmes de qualité plutôt que des traits normaux de traitement.",
+        "mistake": "Juger le café vert décaféiné selon les mêmes normes visuelles utilisées pour le café vert normal.",
+        "challenge": "Pourquoi un trait visuel qui signalerait un défaut dans un café vert normal pourrait-il être totalement normal dans le décaféiné ?"
+      },
+      "it": {
+        "title": "Aspetto del chicco verde decaffeinato",
+        "definition": "I chicchi verdi decaffeinati spesso appaiono visibilmente diversi dai chicchi verdi normali, apparendo più scuri, opachi o leggermente più oleosi a seconda del metodo di decaffeinizzazione usato.",
+        "why": "Riconoscere questa differenza visiva evita di scambiare una caratteristica normale del decaffeinato per un difetto di qualità.",
+        "tip": "Impara come dovrebbe apparire l'aspetto verde del tuo specifico decaffeinato così da individuare veri problemi di qualità invece di normali tratti di lavorazione.",
+        "mistake": "Giudicare il caffè verde decaffeinato con gli stessi standard visivi usati per il caffè verde normale.",
+        "challenge": "Perché un tratto visivo che segnalerebbe un difetto nel caffè verde normale potrebbe essere completamente normale nel decaffeinato?"
+      }
+    }
+  },
+  {
+    "number": "305",
+    "title": "Decaf Market Perception",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "305.jpg",
+    "definition": "Decaf has historically carried a reputation for poor quality, often served as an afterthought rather than a genuinely well-sourced product.",
+    "why": "That reputation gap creates real opportunity for cafés willing to treat decaf sourcing and dialing-in with the same care as regular coffee.",
+    "tip": "Cup and dial in decaf espresso with the same seriousness as your house blend, since customer expectations for it are often set embarrassingly low.",
+    "mistake": "Treating decaf as a lower priority simply because it sells less volume than regular coffee.",
+    "challenge": "Why might treating decaf seriously actually be a meaningful competitive advantage rather than just good practice?",
+    "related": [
+      "302",
+      "312"
+    ],
+    "translations": {
+      "es": {
+        "title": "Percepción del mercado del descafeinado",
+        "definition": "El descafeinado históricamente ha cargado con una reputación de baja calidad, a menudo servido como algo secundario en lugar de un producto genuinamente bien abastecido.",
+        "why": "Esa brecha de reputación crea una oportunidad real para cafeterías dispuestas a tratar el abastecimiento y ajuste del descafeinado con el mismo cuidado que el café normal.",
+        "tip": "Catea y ajusta el espresso descafeinado con la misma seriedad que tu mezcla de la casa, ya que las expectativas de los clientes suelen ser vergonzosamente bajas.",
+        "mistake": "Tratar el descafeinado como una prioridad menor simplemente porque vende menos volumen que el café normal.",
+        "challenge": "¿Por qué tratar el descafeinado con seriedad podría ser en realidad una ventaja competitiva significativa y no solo buena práctica?"
+      },
+      "pt": {
+        "title": "Percepção de mercado do descafeinado",
+        "definition": "O descafeinado historicamente carrega uma reputação de baixa qualidade, muitas vezes servido como algo secundário em vez de um produto genuinamente bem selecionado.",
+        "why": "Essa lacuna de reputação cria uma oportunidade real para cafeterias dispostas a tratar o abastecimento e o ajuste do descafeinado com o mesmo cuidado que o café normal.",
+        "tip": "Prove e ajuste o espresso descafeinado com a mesma seriedade que seu blend da casa, já que as expectativas dos clientes costumam ser vergonhosamente baixas.",
+        "mistake": "Tratar o descafeinado como uma prioridade menor simplesmente porque vende menos volume que o café normal.",
+        "challenge": "Por que tratar o descafeinado com seriedade pode ser na verdade uma vantagem competitiva significativa e não apenas boa prática?"
+      },
+      "de": {
+        "title": "Marktwahrnehmung von Decaf",
+        "definition": "Decaf trug historisch den Ruf minderer Qualität und wurde oft eher als Nebensache serviert statt als tatsächlich gut beschafftes Produkt.",
+        "why": "Diese Reputationslücke schafft echte Chance für Cafés, die bereit sind, Decaf-Beschaffung und Dialing-in mit derselben Sorgfalt wie normalen Kaffee zu behandeln.",
+        "tip": "Cuppe und stelle Decaf-Espresso mit derselben Ernsthaftigkeit ein wie deinen Hausblend, da die Kundenerwartungen dafür oft beschämend niedrig sind.",
+        "mistake": "Decaf als niedrigere Priorität zu behandeln, nur weil er weniger Volumen verkauft als normaler Kaffee.",
+        "challenge": "Warum könnte es ein bedeutender Wettbewerbsvorteil sein, Decaf ernst zu nehmen, statt nur gute Praxis?"
+      },
+      "fr": {
+        "title": "Perception du marché du décaféiné",
+        "definition": "Le décaféiné a historiquement porté une réputation de mauvaise qualité, souvent servi comme un afterthought plutôt qu'un produit véritablement bien sourcé.",
+        "why": "Cet écart de réputation crée une réelle opportunité pour les cafés prêts à traiter l'approvisionnement et le réglage du décaféiné avec le même soin que le café normal.",
+        "tip": "Dégustez et réglez l'espresso décaféiné avec le même sérieux que votre mélange maison, car les attentes des clients à son égard sont souvent embarrassement basses.",
+        "mistake": "Traiter le décaféiné comme une priorité moindre simplement parce qu'il vend moins de volume que le café normal.",
+        "challenge": "Pourquoi traiter le décaféiné sérieusement pourrait-il en réalité constituer un avantage concurrentiel significatif plutôt qu'une simple bonne pratique ?"
+      },
+      "it": {
+        "title": "Percezione di mercato del decaffeinato",
+        "definition": "Il decaffeinato ha storicamente portato una reputazione di scarsa qualità, spesso servito come un ripiego piuttosto che come un prodotto genuinamente ben selezionato.",
+        "why": "Questo divario di reputazione crea una vera opportunità per i bar disposti a trattare l'approvvigionamento e il dial-in del decaffeinato con la stessa cura del caffè normale.",
+        "tip": "Fai cupping e dial-in dell'espresso decaffeinato con la stessa serietà del tuo blend di casa, poiché le aspettative dei clienti su di esso sono spesso imbarazzantemente basse.",
+        "mistake": "Trattare il decaffeinato come una priorità minore semplicemente perché vende meno volume del caffè normale.",
+        "challenge": "Perché trattare il decaffeinato seriamente potrebbe essere in realtà un vantaggio competitivo significativo piuttosto che semplicemente buona pratica?"
+      }
+    }
+  },
+  {
+    "number": "306",
+    "title": "Decaf Sourcing",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "306.jpg",
+    "definition": "Not every origin or variety decaffeinates equally well — bean density, structure, and starting flavor profile all affect how much quality survives the process.",
+    "why": "Choosing the right base coffee for decaffeination matters as much as choosing the decaffeination method itself.",
+    "tip": "Ask your green buyer specifically which lots were selected for decaffeination and why, rather than assuming any surplus lot will do.",
+    "mistake": "Assuming any coffee can be decaffeinated with equally good results regardless of its starting characteristics.",
+    "challenge": "Why might a coffee that tastes excellent regular not necessarily make excellent decaf?",
+    "related": [
+      "089",
+      "303"
+    ],
+    "translations": {
+      "es": {
+        "title": "Abastecimiento de descafeinado",
+        "definition": "No todos los orígenes o variedades se descafeinan igual de bien — la densidad, estructura y perfil de sabor inicial del grano afectan cuánta calidad sobrevive al proceso.",
+        "why": "Elegir el café base adecuado para descafeinar importa tanto como elegir el propio método de descafeinado.",
+        "tip": "Pregunta a tu comprador de verde específicamente qué lotes se seleccionaron para descafeinar y por qué, en lugar de suponer que cualquier lote sobrante servirá.",
+        "mistake": "Suponer que cualquier café puede descafeinarse con resultados igualmente buenos sin importar sus características iniciales.",
+        "challenge": "¿Por qué un café que sabe excelente en su versión normal podría no necesariamente producir un excelente descafeinado?"
+      },
+      "pt": {
+        "title": "Abastecimento de descafeinado",
+        "definition": "Nem toda origem ou variedade descafeína igualmente bem — densidade, estrutura e perfil de sabor inicial do grão afetam quanta qualidade sobrevive ao processo.",
+        "why": "Escolher o café base certo para descafeinar importa tanto quanto escolher o próprio método de descafeinização.",
+        "tip": "Pergunte ao seu comprador de verde especificamente quais lotes foram selecionados para descafeinar e por quê, em vez de supor que qualquer lote excedente servirá.",
+        "mistake": "Supor que qualquer café pode ser descafeinado com resultados igualmente bons independentemente de suas características iniciais.",
+        "challenge": "Por que um café que tem sabor excelente na versão normal pode não necessariamente produzir um excelente descafeinado?"
+      },
+      "de": {
+        "title": "Decaf-Beschaffung",
+        "definition": "Nicht jeder Ursprung oder jede Sorte entkoffeiniert gleich gut — Bohnendichte, Struktur und ursprüngliches Geschmacksprofil beeinflussen alle, wie viel Qualität den Prozess übersteht.",
+        "why": "Die richtige Basiskaffeesorte für die Entkoffeinierung zu wählen ist ebenso wichtig wie die Wahl der Entkoffeinierungsmethode selbst.",
+        "tip": "Frage deinen Rohkaffeeeinkäufer gezielt, welche Lose für die Entkoffeinierung ausgewählt wurden und warum, statt anzunehmen, jedes Überschusslos tue es.",
+        "mistake": "Anzunehmen, jeder Kaffee könne mit gleich guten Ergebnissen entkoffeiniert werden, unabhängig von seinen Ausgangseigenschaften.",
+        "challenge": "Warum könnte ein Kaffee, der normal ausgezeichnet schmeckt, nicht unbedingt ausgezeichneten Decaf ergeben?"
+      },
+      "fr": {
+        "title": "Approvisionnement en décaféiné",
+        "definition": "Toutes les origines ou variétés ne se décaféinent pas également bien — densité du grain, structure et profil de saveur de départ affectent tous la quantité de qualité qui survit au processus.",
+        "why": "Choisir le bon café de base pour la décaféination compte autant que choisir la méthode de décaféination elle-même.",
+        "tip": "Demandez spécifiquement à votre acheteur de vert quels lots ont été sélectionnés pour la décaféination et pourquoi, plutôt que de supposer que n'importe quel lot excédentaire fera l'affaire.",
+        "mistake": "Supposer que n'importe quel café peut être décaféiné avec des résultats également bons quelles que soient ses caractéristiques de départ.",
+        "challenge": "Pourquoi un café qui a un goût excellent en version normale pourrait-il ne pas nécessairement donner un excellent décaféiné ?"
+      },
+      "it": {
+        "title": "Approvvigionamento del decaffeinato",
+        "definition": "Non tutte le origini o varietà decaffeinano ugualmente bene — densità del chicco, struttura e profilo di sapore iniziale influenzano tutti quanta qualità sopravvive al processo.",
+        "why": "Scegliere il caffè base giusto per la decaffeinizzazione conta tanto quanto scegliere il metodo di decaffeinizzazione stesso.",
+        "tip": "Chiedi al tuo acquirente di verde specificamente quali lotti sono stati selezionati per la decaffeinizzazione e perché, invece di supporre che qualsiasi lotto in eccedenza vada bene.",
+        "mistake": "Supporre che qualsiasi caffè possa essere decaffeinato con risultati ugualmente buoni indipendentemente dalle sue caratteristiche iniziali.",
+        "challenge": "Perché un caffè che ha un sapore eccellente da normale potrebbe non produrre necessariamente un eccellente decaffeinato?"
+      }
+    }
+  },
+  {
+    "number": "307",
+    "title": "Decaf Espresso Dialing",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "307.jpg",
+    "definition": "Decaf espresso often requires its own dial-in separate from regular espresso, since altered bean structure and density can change how it packs, grinds, and extracts.",
+    "why": "Applying the regular espresso's exact settings to decaf often produces an inconsistent shot because the underlying bean is physically different.",
+    "tip": "Dial in decaf independently at the start of the day rather than assuming it will match your main espresso's settings.",
+    "mistake": "Skipping a proper dial-in for decaf because it's treated as a lower priority than the house espresso.",
+    "challenge": "Why might the same dose and grind setting produce a different shot time on decaf versus regular espresso?",
+    "related": [
+      "014",
+      "303"
+    ],
+    "translations": {
+      "es": {
+        "title": "Ajuste del espresso descafeinado",
+        "definition": "El espresso descafeinado a menudo requiere su propio ajuste independiente del espresso normal, ya que la estructura y densidad alteradas del grano pueden cambiar cómo se empaca, muele y extrae.",
+        "why": "Aplicar los ajustes exactos del espresso normal al descafeinado suele producir un shot inconsistente porque el grano subyacente es físicamente distinto.",
+        "tip": "Ajusta el descafeinado de forma independiente al inicio del día en lugar de suponer que coincidirá con los ajustes de tu espresso principal.",
+        "mistake": "Saltarte un ajuste adecuado para el descafeinado porque se trata como una prioridad menor que el espresso de la casa.",
+        "challenge": "¿Por qué la misma dosis y ajuste de molido podrían producir un tiempo de shot distinto en descafeinado frente a espresso normal?"
+      },
+      "pt": {
+        "title": "Ajuste do espresso descafeinado",
+        "definition": "O espresso descafeinado geralmente requer seu próprio ajuste separado do espresso normal, já que a estrutura e densidade alteradas do grão podem mudar como ele compacta, mói e extrai.",
+        "why": "Aplicar as configurações exatas do espresso normal ao descafeinado geralmente produz um shot inconsistente porque o grão subjacente é fisicamente diferente.",
+        "tip": "Ajuste o descafeinado de forma independente no início do dia em vez de supor que corresponderá às configurações do seu espresso principal.",
+        "mistake": "Pular um ajuste adequado para o descafeinado porque ele é tratado como prioridade menor do que o espresso da casa.",
+        "challenge": "Por que a mesma dose e ajuste de moagem podem produzir um tempo de shot diferente no descafeinado versus espresso normal?"
+      },
+      "de": {
+        "title": "Decaf-Espresso-Einstellung",
+        "definition": "Decaf-Espresso benötigt oft eine eigene, vom normalen Espresso getrennte Einstellung, da veränderte Bohnenstruktur und -dichte beeinflussen können, wie er sich verdichtet, mahlt und extrahiert.",
+        "why": "Die exakten Einstellungen des normalen Espressos auf Decaf anzuwenden erzeugt oft einen inkonsistenten Shot, weil die zugrundeliegende Bohne physisch anders ist.",
+        "tip": "Stelle Decaf unabhängig zu Beginn des Tages ein, statt anzunehmen, dass er den Einstellungen deines Haupt-Espressos entspricht.",
+        "mistake": "Eine ordentliche Einstellung für Decaf zu überspringen, weil er als niedrigere Priorität als der Haus-Espresso behandelt wird.",
+        "challenge": "Warum könnten dieselbe Dosis und Mahlgradeinstellung bei Decaf eine andere Shot-Zeit erzeugen als bei normalem Espresso?"
+      },
+      "fr": {
+        "title": "Réglage de l'espresso décaféiné",
+        "definition": "L'espresso décaféiné nécessite souvent son propre réglage distinct de l'espresso normal, car la structure et la densité modifiées du grain peuvent changer sa façon de se tasser, moudre et extraire.",
+        "why": "Appliquer les réglages exacts de l'espresso normal au décaféiné produit souvent un shot incohérent car le grain sous-jacent est physiquement différent.",
+        "tip": "Réglez le décaféiné indépendamment en début de journée plutôt que de supposer qu'il correspondra aux réglages de votre espresso principal.",
+        "mistake": "Sauter un réglage approprié pour le décaféiné parce qu'il est traité comme une priorité moindre que l'espresso maison.",
+        "challenge": "Pourquoi la même dose et le même réglage de mouture pourraient-ils produire un temps de shot différent sur du décaféiné par rapport à l'espresso normal ?"
+      },
+      "it": {
+        "title": "Dial-in dell'espresso decaffeinato",
+        "definition": "L'espresso decaffeinato richiede spesso un proprio dial-in separato dall'espresso normale, poiché la struttura e la densità alterate del chicco possono cambiare come si compatta, macina ed estrae.",
+        "why": "Applicare le impostazioni esatte dell'espresso normale al decaffeinato spesso produce uno shot incoerente perché il chicco sottostante è fisicamente diverso.",
+        "tip": "Fai il dial-in del decaffeinato in modo indipendente all'inizio della giornata invece di supporre che corrisponda alle impostazioni del tuo espresso principale.",
+        "mistake": "Saltare un adeguato dial-in per il decaffeinato perché viene trattato come priorità minore rispetto all'espresso di casa.",
+        "challenge": "Perché la stessa dose e regolazione di macinatura potrebbero produrre un tempo di shot diverso sul decaffeinato rispetto all'espresso normale?"
+      }
+    }
+  },
+  {
+    "number": "308",
+    "title": "Caffeine Content Myths",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "308.jpg",
+    "definition": "Decaf still contains a small amount of caffeine per cup, and multiple decaf cups can add up to a meaningful dose for genuinely sensitive individuals.",
+    "why": "Customers with real medical caffeine restrictions need accurate information, not the assumption that decaf equals zero risk regardless of quantity.",
+    "tip": "Know your specific decaf's approximate caffeine content per cup if customers ask, rather than giving a vague reassurance.",
+    "mistake": "Telling a customer with a strict medical caffeine limit that decaf poses no risk regardless of how much they drink.",
+    "challenge": "Why might 'decaf' and 'safe in any quantity for caffeine-sensitive people' not actually be the same claim?",
+    "related": [
+      "297",
+      "305"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mitos sobre el contenido de cafeína",
+        "definition": "El descafeinado todavía contiene una pequeña cantidad de cafeína por taza, y varias tazas de descafeinado pueden sumar una dosis significativa para personas genuinamente sensibles.",
+        "why": "Los clientes con restricciones médicas reales de cafeína necesitan información precisa, no la suposición de que el descafeinado equivale a riesgo cero sin importar la cantidad.",
+        "tip": "Conoce el contenido aproximado de cafeína por taza de tu descafeinado específico si los clientes preguntan, en lugar de dar una garantía vaga.",
+        "mistake": "Decirle a un cliente con un límite médico estricto de cafeína que el descafeinado no supone ningún riesgo sin importar cuánto beba.",
+        "challenge": "¿Por qué 'descafeinado' y 'seguro en cualquier cantidad para personas sensibles a la cafeína' podrían no ser en realidad la misma afirmación?"
+      },
+      "pt": {
+        "title": "Mitos sobre o teor de cafeína",
+        "definition": "O descafeinado ainda contém uma pequena quantidade de cafeína por xícara, e várias xícaras de descafeinado podem somar uma dose significativa para pessoas genuinamente sensíveis.",
+        "why": "Clientes com restrições médicas reais de cafeína precisam de informações precisas, não da suposição de que descafeinado equivale a risco zero independentemente da quantidade.",
+        "tip": "Conheça o teor aproximado de cafeína por xícara do seu descafeinado específico se os clientes perguntarem, em vez de dar uma garantia vaga.",
+        "mistake": "Dizer a um cliente com limite médico estrito de cafeína que o descafeinado não representa risco algum, não importa quanto beba.",
+        "challenge": "Por que 'descafeinado' e 'seguro em qualquer quantidade para pessoas sensíveis à cafeína' podem não ser na verdade a mesma afirmação?"
+      },
+      "de": {
+        "title": "Mythen über den Koffeingehalt",
+        "definition": "Decaf enthält immer noch eine kleine Menge Koffein pro Tasse, und mehrere Decaf-Tassen können sich zu einer bedeutsamen Dosis für wirklich empfindliche Personen summieren.",
+        "why": "Kunden mit echten medizinischen Koffeinbeschränkungen brauchen genaue Informationen, nicht die Annahme, Decaf entspreche unabhängig von der Menge null Risiko.",
+        "tip": "Kenne den ungefähren Koffeingehalt deines spezifischen Decafs pro Tasse, wenn Kunden fragen, statt eine vage Beruhigung zu geben.",
+        "mistake": "Einem Kunden mit strikter medizinischer Koffeingrenze zu sagen, Decaf berge kein Risiko, egal wie viel er trinkt.",
+        "challenge": "Warum könnten 'entkoffeiniert' und 'in jeder Menge sicher für koffeinempfindliche Personen' nicht tatsächlich dieselbe Aussage sein?"
+      },
+      "fr": {
+        "title": "Mythes sur la teneur en caféine",
+        "definition": "Le décaféiné contient toujours une petite quantité de caféine par tasse, et plusieurs tasses de décaféiné peuvent s'additionner en une dose significative pour des personnes réellement sensibles.",
+        "why": "Les clients avec de réelles restrictions médicales de caféine ont besoin d'informations précises, pas de la supposition que le décaféiné équivaut à un risque zéro quelle que soit la quantité.",
+        "tip": "Connaissez la teneur approximative en caféine par tasse de votre décaféiné spécifique si des clients demandent, plutôt que de donner une assurance vague.",
+        "mistake": "Dire à un client avec une limite médicale stricte de caféine que le décaféiné ne présente aucun risque quelle que soit la quantité bue.",
+        "challenge": "Pourquoi « décaféiné » et « sûr en toute quantité pour les personnes sensibles à la caféine » pourraient-ils ne pas être réellement la même affirmation ?"
+      },
+      "it": {
+        "title": "Miti sul contenuto di caffeina",
+        "definition": "Il decaffeinato contiene ancora una piccola quantità di caffeina per tazza, e più tazze di decaffeinato possono sommarsi a una dose significativa per persone genuinamente sensibili.",
+        "why": "I clienti con reali restrizioni mediche sulla caffeina hanno bisogno di informazioni accurate, non della supposizione che il decaffeinato equivalga a rischio zero indipendentemente dalla quantità.",
+        "tip": "Conosci il contenuto approssimativo di caffeina per tazza del tuo specifico decaffeinato se i clienti chiedono, invece di dare una rassicurazione vaga.",
+        "mistake": "Dire a un cliente con un limite medico rigido sulla caffeina che il decaffeinato non comporta alcun rischio indipendentemente da quanto ne beva.",
+        "challenge": "Perché 'decaffeinato' e 'sicuro in qualsiasi quantità per persone sensibili alla caffeina' potrebbero non essere in realtà la stessa affermazione?"
+      }
+    }
+  },
+  {
+    "number": "309",
+    "title": "Decaf Storage & Freshness",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "309.jpg",
+    "definition": "Decaf's altered bean structure from processing can make it more porous and prone to faster staling than regular coffee if storage isn't adjusted accordingly.",
+    "why": "Treating decaf storage identically to regular coffee can mean it goes stale faster on the shelf without anyone noticing why.",
+    "tip": "Buy decaf in smaller, more frequent batches given its typically lower turnover and faster staling tendency.",
+    "mistake": "Stocking decaf in the same large bulk quantities used for high-turnover regular coffee.",
+    "challenge": "Why might a product that already sells in lower volume also need more careful freshness management, not less?",
+    "related": [
+      "213",
+      "218"
+    ],
+    "translations": {
+      "es": {
+        "title": "Almacenamiento y frescura del descafeinado",
+        "definition": "La estructura alterada del grano del descafeinado por el procesamiento puede hacerlo más poroso y propenso a envejecer más rápido que el café normal si el almacenamiento no se ajusta en consecuencia.",
+        "why": "Tratar el almacenamiento del descafeinado igual que el del café normal puede hacer que se vuelva rancio más rápido en el estante sin que nadie note por qué.",
+        "tip": "Compra descafeinado en lotes más pequeños y frecuentes dada su rotación típicamente menor y su tendencia a envejecer más rápido.",
+        "mistake": "Almacenar el descafeinado en las mismas grandes cantidades a granel usadas para café normal de alta rotación.",
+        "challenge": "¿Por qué un producto que ya se vende en menor volumen también podría necesitar una gestión de frescura más cuidadosa, no menos?"
+      },
+      "pt": {
+        "title": "Armazenamento e frescor do descafeinado",
+        "definition": "A estrutura alterada do grão do descafeinado pelo processamento pode torná-lo mais poroso e propenso a envelhecer mais rápido que o café normal se o armazenamento não for ajustado adequadamente.",
+        "why": "Tratar o armazenamento do descafeinado igual ao do café normal pode fazer com que fique velho mais rápido na prateleira sem que ninguém perceba o porquê.",
+        "tip": "Compre descafeinado em lotes menores e mais frequentes dada sua rotatividade tipicamente menor e tendência a envelhecer mais rápido.",
+        "mistake": "Estocar descafeinado nas mesmas grandes quantidades a granel usadas para café normal de alta rotatividade.",
+        "challenge": "Por que um produto que já vende em menor volume também pode precisar de gestão de frescor mais cuidadosa, não menos?"
+      },
+      "de": {
+        "title": "Lagerung und Frische von Decaf",
+        "definition": "Die durch die Verarbeitung veränderte Bohnenstruktur von Decaf kann sie poröser und anfälliger für schnelleres Altern machen als normalen Kaffee, wenn die Lagerung nicht entsprechend angepasst wird.",
+        "why": "Decaf-Lagerung identisch zu normalem Kaffee zu behandeln kann bedeuten, dass er im Regal schneller altbacken wird, ohne dass jemand merkt, warum.",
+        "tip": "Kaufe Decaf in kleineren, häufigeren Chargen angesichts seines typisch niedrigeren Umsatzes und seiner Tendenz zu schnellerem Altern.",
+        "mistake": "Decaf in denselben großen Mengen zu lagern, die für schnell umschlagenden normalen Kaffee verwendet werden.",
+        "challenge": "Warum könnte ein Produkt, das bereits in geringerem Volumen verkauft wird, auch sorgfältigeres Frischemanagement benötigen, nicht weniger?"
+      },
+      "fr": {
+        "title": "Stockage et fraîcheur du décaféiné",
+        "definition": "La structure de grain altérée du décaféiné par le traitement peut le rendre plus poreux et sujet à rassir plus vite que le café normal si le stockage n'est pas ajusté en conséquence.",
+        "why": "Traiter le stockage du décaféiné de façon identique au café normal peut signifier qu'il rassit plus vite en rayon sans que personne ne remarque pourquoi.",
+        "tip": "Achetez le décaféiné en lots plus petits et plus fréquents étant donné sa rotation généralement plus faible et sa tendance à rassir plus vite.",
+        "mistake": "Stocker le décaféiné dans les mêmes grandes quantités en vrac utilisées pour le café normal à forte rotation.",
+        "challenge": "Pourquoi un produit qui se vend déjà en plus petit volume pourrait-il aussi avoir besoin d'une gestion de fraîcheur plus soignée, pas moins ?"
+      },
+      "it": {
+        "title": "Conservazione e freschezza del decaffeinato",
+        "definition": "La struttura alterata del chicco del decaffeinato dovuta alla lavorazione può renderlo più poroso e incline a raffermarsi più velocemente del caffè normale se la conservazione non viene adattata di conseguenza.",
+        "why": "Trattare la conservazione del decaffeinato in modo identico al caffè normale può significare che diventa raffermo più velocemente sullo scaffale senza che nessuno noti il motivo.",
+        "tip": "Acquista il decaffeinato in lotti più piccoli e più frequenti data la sua tipicamente minore rotazione e tendenza a raffermarsi più velocemente.",
+        "mistake": "Immagazzinare il decaffeinato nelle stesse grandi quantità all'ingrosso usate per il caffè normale ad alta rotazione.",
+        "challenge": "Perché un prodotto che vende già in volume minore potrebbe anche aver bisogno di una gestione della freschezza più attenta, non minore?"
+      }
+    }
+  },
+  {
+    "number": "310",
+    "title": "Decaf Labeling",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "310.jpg",
+    "definition": "Decaf labeling often names the decaffeination method (Swiss Water, CO2, etc.) alongside origin information, since the process itself has become a meaningful part of how decaf is marketed.",
+    "why": "Naming the process gives customers who care about solvent-free options a clear way to choose, similar to how processing method is now named for regular coffee.",
+    "tip": "Read decaf labeling for the process name the same way you'd check a regular coffee's processing method.",
+    "mistake": "Assuming all decaf labeling is equally transparent about which method was actually used.",
+    "challenge": "Why might naming the decaffeination process on a label matter as much to some buyers as naming the coffee's origin?",
+    "related": [
+      "297",
+      "298"
+    ],
+    "translations": {
+      "es": {
+        "title": "Etiquetado del descafeinado",
+        "definition": "El etiquetado del descafeinado a menudo nombra el método de descafeinado (Swiss Water, CO2, etc.) junto con la información de origen, ya que el propio proceso se ha convertido en una parte significativa de cómo se comercializa el descafeinado.",
+        "why": "Nombrar el proceso da a los clientes interesados en opciones sin solventes una forma clara de elegir, similar a cómo ahora se nombra el método de procesamiento para el café normal.",
+        "tip": "Lee el etiquetado del descafeinado buscando el nombre del proceso de la misma forma que revisarías el método de procesamiento de un café normal.",
+        "mistake": "Suponer que todo etiquetado de descafeinado es igualmente transparente sobre qué método se usó realmente.",
+        "challenge": "¿Por qué nombrar el proceso de descafeinado en una etiqueta podría importar tanto a algunos compradores como nombrar el origen del café?"
+      },
+      "pt": {
+        "title": "Rotulagem do descafeinado",
+        "definition": "A rotulagem do descafeinado frequentemente nomeia o método de descafeinização (Swiss Water, CO2, etc.) junto com informações de origem, já que o próprio processo se tornou uma parte significativa de como o descafeinado é comercializado.",
+        "why": "Nomear o processo dá aos clientes que se importam com opções sem solventes uma forma clara de escolher, semelhante a como o método de processamento agora é nomeado para o café normal.",
+        "tip": "Leia a rotulagem do descafeinado buscando o nome do processo da mesma forma que verificaria o método de processamento de um café normal.",
+        "mistake": "Supor que toda rotulagem de descafeinado é igualmente transparente sobre qual método foi realmente usado.",
+        "challenge": "Por que nomear o processo de descafeinização em um rótulo pode importar tanto para alguns compradores quanto nomear a origem do café?"
+      },
+      "de": {
+        "title": "Decaf-Kennzeichnung",
+        "definition": "Decaf-Kennzeichnung nennt oft die Entkoffeinierungsmethode (Swiss Water, CO2 usw.) neben Herkunftsinformationen, da der Prozess selbst zu einem bedeutenden Teil der Decaf-Vermarktung geworden ist.",
+        "why": "Die Nennung des Verfahrens gibt Kunden, die sich um lösungsmittelfreie Optionen kümmern, eine klare Wahlmöglichkeit, ähnlich wie die Aufbereitungsmethode jetzt für normalen Kaffee genannt wird.",
+        "tip": "Lies die Decaf-Kennzeichnung auf den Verfahrensnamen, genauso wie du die Aufbereitungsmethode eines normalen Kaffees prüfen würdest.",
+        "mistake": "Anzunehmen, jede Decaf-Kennzeichnung sei gleichermaßen transparent darüber, welches Verfahren tatsächlich verwendet wurde.",
+        "challenge": "Warum könnte die Nennung des Entkoffeinierungsverfahrens auf einem Etikett manchen Käufern genauso wichtig sein wie die Nennung der Kaffeeherkunft?"
+      },
+      "fr": {
+        "title": "Étiquetage du décaféiné",
+        "definition": "L'étiquetage du décaféiné nomme souvent la méthode de décaféination (Swiss Water, CO2, etc.) aux côtés des informations d'origine, car le procédé lui-même est devenu une partie significative de la façon dont le décaféiné est commercialisé.",
+        "why": "Nommer le procédé donne aux clients soucieux d'options sans solvant un moyen clair de choisir, similaire à la façon dont la méthode de traitement est maintenant nommée pour le café normal.",
+        "tip": "Lisez l'étiquetage du décaféiné pour le nom du procédé de la même façon que vous vérifieriez la méthode de traitement d'un café normal.",
+        "mistake": "Supposer que tout étiquetage de décaféiné est également transparent sur la méthode réellement utilisée.",
+        "challenge": "Pourquoi nommer le procédé de décaféination sur une étiquette pourrait-il compter autant pour certains acheteurs que nommer l'origine du café ?"
+      },
+      "it": {
+        "title": "Etichettatura del decaffeinato",
+        "definition": "L'etichettatura del decaffeinato spesso nomina il metodo di decaffeinizzazione (Swiss Water, CO2, ecc.) insieme alle informazioni sull'origine, poiché il processo stesso è diventato una parte significativa di come viene commercializzato il decaffeinato.",
+        "why": "Nominare il processo dà ai clienti attenti alle opzioni senza solventi un modo chiaro per scegliere, simile a come il metodo di lavorazione viene ora nominato per il caffè normale.",
+        "tip": "Leggi l'etichettatura del decaffeinato cercando il nome del processo allo stesso modo in cui controlleresti il metodo di lavorazione di un caffè normale.",
+        "mistake": "Supporre che tutta l'etichettatura del decaffeinato sia ugualmente trasparente su quale metodo sia stato effettivamente usato.",
+        "challenge": "Perché nominare il processo di decaffeinizzazione su un'etichetta potrebbe contare tanto per alcuni acquirenti quanto nominare l'origine del caffè?"
+      }
+    }
+  },
+  {
+    "number": "311",
+    "title": "History of Decaffeination",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "311.jpg",
+    "definition": "Commercial decaffeination began in the early 1900s in Germany, when Ludwig Roselius developed one of the first viable industrial processes, later marketed as Kaffee Hag.",
+    "why": "Knowing decaf has over a century of commercial history reframes it as an established craft with real technical development, not a recent compromise product.",
+    "tip": "Mention decaf's genuine history when a skeptical customer treats it as a lesser, newer invention.",
+    "mistake": "Assuming decaf is a modern health-trend product with no real historical depth.",
+    "challenge": "Why might knowing decaf's actual age change how seriously a coffee professional treats it?",
+    "related": [
+      "301",
+      "297"
+    ],
+    "translations": {
+      "es": {
+        "title": "Historia del descafeinado",
+        "definition": "El descafeinado comercial comenzó a principios del siglo XX en Alemania, cuando Ludwig Roselius desarrolló uno de los primeros procesos industriales viables, comercializado más tarde como Kaffee Hag.",
+        "why": "Saber que el descafeinado tiene más de un siglo de historia comercial lo replantea como un oficio establecido con desarrollo técnico real, no un producto de compromiso reciente.",
+        "tip": "Menciona la historia genuina del descafeinado cuando un cliente escéptico lo trate como una invención menor y más reciente.",
+        "mistake": "Suponer que el descafeinado es un producto de tendencia de salud moderna sin profundidad histórica real.",
+        "challenge": "¿Por qué conocer la edad real del descafeinado podría cambiar cuán en serio lo trata un profesional del café?"
+      },
+      "pt": {
+        "title": "História da descafeinização",
+        "definition": "A descafeinização comercial começou no início dos anos 1900 na Alemanha, quando Ludwig Roselius desenvolveu um dos primeiros processos industriais viáveis, mais tarde comercializado como Kaffee Hag.",
+        "why": "Saber que o descafeinado tem mais de um século de história comercial o reformula como um ofício estabelecido com desenvolvimento técnico real, não um produto de compromisso recente.",
+        "tip": "Mencione a história genuína do descafeinado quando um cliente cético o tratar como uma invenção menor e mais recente.",
+        "mistake": "Supor que o descafeinado é um produto de tendência de saúde moderna sem profundidade histórica real.",
+        "challenge": "Por que saber a idade real do descafeinado pode mudar quão a sério um profissional do café o trata?"
+      },
+      "de": {
+        "title": "Geschichte der Entkoffeinierung",
+        "definition": "Die kommerzielle Entkoffeinierung begann Anfang der 1900er Jahre in Deutschland, als Ludwig Roselius eines der ersten praktikablen industriellen Verfahren entwickelte, später als Kaffee Hag vermarktet.",
+        "why": "Zu wissen, dass Decaf über ein Jahrhundert kommerzielle Geschichte hat, rahmt ihn als etabliertes Handwerk mit echter technischer Entwicklung neu, nicht als jüngeres Kompromissprodukt.",
+        "tip": "Erwähne die echte Geschichte von Decaf, wenn ein skeptischer Kunde ihn als geringere, neuere Erfindung behandelt.",
+        "mistake": "Anzunehmen, Decaf sei ein modernes Gesundheitstrend-Produkt ohne echte historische Tiefe.",
+        "challenge": "Warum könnte das Wissen um das tatsächliche Alter von Decaf verändern, wie ernst ein Kaffeeprofi ihn nimmt?"
+      },
+      "fr": {
+        "title": "Histoire de la décaféination",
+        "definition": "La décaféination commerciale a commencé au début des années 1900 en Allemagne, quand Ludwig Roselius a développé l'un des premiers procédés industriels viables, plus tard commercialisé sous le nom de Kaffee Hag.",
+        "why": "Savoir que le décaféiné a plus d'un siècle d'histoire commerciale le recadre comme un artisanat établi avec un véritable développement technique, pas un produit de compromis récent.",
+        "tip": "Mentionnez la véritable histoire du décaféiné quand un client sceptique le traite comme une invention mineure et récente.",
+        "mistake": "Supposer que le décaféiné est un produit de tendance santé moderne sans réelle profondeur historique.",
+        "challenge": "Pourquoi connaître l'âge réel du décaféiné pourrait-il changer à quel point un professionnel du café le prend au sérieux ?"
+      },
+      "it": {
+        "title": "Storia della decaffeinizzazione",
+        "definition": "La decaffeinizzazione commerciale iniziò all'inizio del XX secolo in Germania, quando Ludwig Roselius sviluppò uno dei primi processi industriali praticabili, poi commercializzato come Kaffee Hag.",
+        "why": "Sapere che il decaffeinato ha oltre un secolo di storia commerciale lo ridefinisce come un mestiere consolidato con un vero sviluppo tecnico, non un prodotto di compromesso recente.",
+        "tip": "Menziona la vera storia del decaffeinato quando un cliente scettico lo tratta come un'invenzione minore e più recente.",
+        "mistake": "Supporre che il decaffeinato sia un prodotto di tendenza salutista moderno senza vera profondità storica.",
+        "challenge": "Perché conoscere l'età reale del decaffeinato potrebbe cambiare quanto seriamente un professionista del caffè lo tratta?"
+      }
+    }
+  },
+  {
+    "number": "312",
+    "title": "Building a Decaf Program",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "312.jpg",
+    "definition": "A well-built decaf program treats sourcing, roasting, dial-in, and freshness with dedicated attention rather than folding decaf in as an afterthought to the regular coffee program.",
+    "why": "A poor decaf experience can lose a customer as effectively as a poor regular coffee experience, even though it represents a smaller share of sales.",
+    "tip": "Rotate and refresh decaf offerings periodically, the same way you would for regular single origins, rather than running one static decaf indefinitely.",
+    "mistake": "Running the same decaf option unchanged for years without revisiting whether better options now exist.",
+    "challenge": "Why might a café's decaf reputation matter disproportionately to the small percentage of customers who order it?",
+    "related": [
+      "305",
+      "306"
+    ],
+    "translations": {
+      "es": {
+        "title": "Construir un programa de descafeinado",
+        "definition": "Un buen programa de descafeinado trata el abastecimiento, tueste, ajuste y frescura con atención dedicada en lugar de incluir el descafeinado como algo secundario al programa de café normal.",
+        "why": "Una mala experiencia de descafeinado puede perder a un cliente tan eficazmente como una mala experiencia de café normal, aunque represente una menor parte de las ventas.",
+        "tip": "Rota y renueva las opciones de descafeinado periódicamente, igual que harías con los orígenes únicos normales, en lugar de mantener un solo descafeinado estático indefinidamente.",
+        "mistake": "Mantener la misma opción de descafeinado sin cambios durante años sin revisar si ahora existen mejores opciones.",
+        "challenge": "¿Por qué la reputación del descafeinado de una cafetería podría importar de forma desproporcionada al pequeño porcentaje de clientes que lo pide?"
+      },
+      "pt": {
+        "title": "Construindo um programa de descafeinado",
+        "definition": "Um bom programa de descafeinado trata abastecimento, torra, ajuste e frescor com atenção dedicada em vez de incluir o descafeinado como algo secundário ao programa de café normal.",
+        "why": "Uma experiência ruim de descafeinado pode perder um cliente tão efetivamente quanto uma experiência ruim de café normal, mesmo representando uma parcela menor das vendas.",
+        "tip": "Alterne e renove as opções de descafeinado periodicamente, da mesma forma que faria com origens únicas normais, em vez de manter um único descafeinado estático indefinidamente.",
+        "mistake": "Manter a mesma opção de descafeinado inalterada por anos sem revisar se agora existem opções melhores.",
+        "challenge": "Por que a reputação do descafeinado de uma cafeteria pode importar desproporcionalmente à pequena porcentagem de clientes que o pede?"
+      },
+      "de": {
+        "title": "Aufbau eines Decaf-Programms",
+        "definition": "Ein gut aufgebautes Decaf-Programm behandelt Beschaffung, Röstung, Einstellung und Frische mit gezielter Aufmerksamkeit, statt Decaf als Nebensache in das normale Kaffeeprogramm einzugliedern.",
+        "why": "Eine schlechte Decaf-Erfahrung kann einen Kunden ebenso effektiv verlieren wie eine schlechte normale Kaffeeerfahrung, obwohl er einen kleineren Umsatzanteil ausmacht.",
+        "tip": "Rotiere und erneuere Decaf-Angebote regelmäßig, genau wie du es bei normalen Einzelursprüngen tun würdest, statt unbegrenzt ein statisches Decaf zu führen.",
+        "mistake": "Über Jahre dieselbe Decaf-Option unverändert zu führen, ohne zu prüfen, ob inzwischen bessere Optionen existieren.",
+        "challenge": "Warum könnte der Decaf-Ruf eines Cafés unverhältnismäßig wichtig für den kleinen Prozentsatz von Kunden sein, die ihn bestellen?"
+      },
+      "fr": {
+        "title": "Construire un programme de décaféiné",
+        "definition": "Un bon programme de décaféiné traite l'approvisionnement, la torréfaction, le réglage et la fraîcheur avec une attention dédiée plutôt que d'intégrer le décaféiné comme une réflexion après coup au programme de café normal.",
+        "why": "Une mauvaise expérience de décaféiné peut faire perdre un client aussi efficacement qu'une mauvaise expérience de café normal, même s'il représente une part plus petite des ventes.",
+        "tip": "Faites tourner et renouvelez les offres de décaféiné périodiquement, de la même façon que vous le feriez pour des single origins normaux, plutôt que de proposer un décaféiné statique indéfiniment.",
+        "mistake": "Conserver la même option de décaféiné inchangée pendant des années sans revoir si de meilleures options existent maintenant.",
+        "challenge": "Pourquoi la réputation du décaféiné d'un café pourrait-elle compter de façon disproportionnée pour le petit pourcentage de clients qui le commandent ?"
+      },
+      "it": {
+        "title": "Costruire un programma di decaffeinato",
+        "definition": "Un programma di decaffeinato ben costruito tratta approvvigionamento, tostatura, dial-in e freschezza con attenzione dedicata invece di inserire il decaffeinato come un ripiego nel programma di caffè normale.",
+        "why": "Una cattiva esperienza di decaffeinato può far perdere un cliente con la stessa efficacia di una cattiva esperienza di caffè normale, anche se rappresenta una quota minore delle vendite.",
+        "tip": "Ruota e rinnova periodicamente le offerte di decaffeinato, allo stesso modo in cui faresti con i single origin normali, invece di mantenere un unico decaffeinato statico indefinitamente.",
+        "mistake": "Mantenere la stessa opzione di decaffeinato invariata per anni senza rivedere se ora esistono opzioni migliori.",
+        "challenge": "Perché la reputazione del decaffeinato di un bar potrebbe contare in modo sproporzionato per la piccola percentuale di clienti che lo ordina?"
+      }
+    }
+  }
+]

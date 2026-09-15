@@ -40,7 +40,8 @@ const CATEGORY_NAMES = {
     REC: "Recipe Cards",
     MNT: "Machine Maintenance",
     CAS: "Cascara & Byproducts",
-    XSN: "Cross-Category Sensory"
+    XSN: "Cross-Category Sensory",
+    DEC: "Decaf"
 };
 
 const search = document.getElementById("search");
