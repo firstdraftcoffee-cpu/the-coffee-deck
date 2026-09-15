@@ -39,7 +39,8 @@ const CATEGORY_NAMES = {
     ETH: "Sustainability & Ethics",
     REC: "Recipe Cards",
     MNT: "Machine Maintenance",
-    CAS: "Cascara & Byproducts"
+    CAS: "Cascara & Byproducts",
+    XSN: "Cross-Category Sensory"
 };
 
 const search = document.getElementById("search");

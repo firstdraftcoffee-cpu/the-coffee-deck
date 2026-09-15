@@ -1,0 +1,1065 @@
+[
+  {
+    "number": "279",
+    "title": "Shared Tasting Vocabulary",
+    "category": "XSN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "279.jpg",
+    "definition": "Coffee, wine, whiskey, and chocolate tasting all use overlapping descriptors like body, acidity, and finish, borrowed and adapted across each industry.",
+    "why": "Recognizing shared vocabulary lets skills built in one category transfer meaningfully to another, rather than starting from zero each time.",
+    "tip": "When learning a new category's vocabulary, map new terms back to a coffee term you already understand well.",
+    "mistake": "Assuming a shared word always means exactly the same sensation in every category.",
+    "challenge": "Why might the word 'body' mean something slightly different in wine than it does in coffee?",
+    "related": [
+      "064",
+      "172"
+    ],
+    "translations": {
+      "es": {
+        "title": "Vocabulario de cata compartido",
+        "definition": "La cata de café, vino, whisky y chocolate usa descriptores superpuestos como cuerpo, acidez y final, tomados y adaptados entre cada industria.",
+        "why": "Reconocer el vocabulario compartido permite que las habilidades desarrolladas en una categoría se transfieran de forma significativa a otra, en lugar de empezar desde cero cada vez.",
+        "tip": "Al aprender el vocabulario de una nueva categoría, relaciona los términos nuevos con un término del café que ya entiendas bien.",
+        "mistake": "Suponer que una palabra compartida siempre significa exactamente la misma sensación en cada categoría.",
+        "challenge": "¿Por qué la palabra 'cuerpo' podría significar algo ligeramente distinto en el vino respecto al café?"
+      },
+      "pt": {
+        "title": "Vocabulário de degustação compartilhado",
+        "definition": "A degustação de café, vinho, uísque e chocolate usa descritores sobrepostos como corpo, acidez e final, emprestados e adaptados entre cada indústria.",
+        "why": "Reconhecer o vocabulário compartilhado permite que habilidades desenvolvidas em uma categoria transfiram de forma significativa para outra, em vez de começar do zero cada vez.",
+        "tip": "Ao aprender o vocabulário de uma nova categoria, relacione os termos novos a um termo do café que você já entenda bem.",
+        "mistake": "Supor que uma palavra compartilhada sempre significa exatamente a mesma sensação em cada categoria.",
+        "challenge": "Por que a palavra 'corpo' pode significar algo ligeiramente diferente no vinho em relação ao café?"
+      },
+      "de": {
+        "title": "Gemeinsames Verkostungsvokabular",
+        "definition": "Die Verkostung von Kaffee, Wein, Whisky und Schokolade nutzt überlappende Deskriptoren wie Körper, Säure und Abgang, übernommen und angepasst über jede Branche hinweg.",
+        "why": "Gemeinsames Vokabular zu erkennen ermöglicht, dass in einer Kategorie erworbene Fähigkeiten sinnvoll auf eine andere übertragen werden, statt jedes Mal bei null anzufangen.",
+        "tip": "Ordne beim Erlernen des Vokabulars einer neuen Kategorie neue Begriffe einem Kaffeebegriff zu, den du bereits gut verstehst.",
+        "mistake": "Anzunehmen, ein gemeinsames Wort bedeute in jeder Kategorie genau dieselbe Empfindung.",
+        "challenge": "Warum könnte das Wort 'Körper' bei Wein etwas anderes bedeuten als bei Kaffee?"
+      },
+      "fr": {
+        "title": "Vocabulaire de dégustation partagé",
+        "definition": "La dégustation de café, vin, whisky et chocolat utilise des descripteurs qui se chevauchent comme corps, acidité et finale, empruntés et adaptés entre chaque industrie.",
+        "why": "Reconnaître un vocabulaire partagé permet aux compétences acquises dans une catégorie de se transférer de façon significative à une autre, plutôt que de repartir de zéro à chaque fois.",
+        "tip": "En apprenant le vocabulaire d'une nouvelle catégorie, associez les nouveaux termes à un terme du café que vous comprenez déjà bien.",
+        "mistake": "Supposer qu'un mot partagé signifie toujours exactement la même sensation dans chaque catégorie.",
+        "challenge": "Pourquoi le mot « corps » pourrait-il signifier quelque chose de légèrement différent dans le vin que dans le café ?"
+      },
+      "it": {
+        "title": "Vocabolario di degustazione condiviso",
+        "definition": "La degustazione di caffè, vino, whisky e cioccolato usa descrittori sovrapposti come corpo, acidità e finale, presi in prestito e adattati tra ogni settore.",
+        "why": "Riconoscere il vocabolario condiviso permette alle competenze sviluppate in una categoria di trasferirsi in modo significativo a un'altra, invece di ripartire da zero ogni volta.",
+        "tip": "Quando impari il vocabolario di una nuova categoria, collega i nuovi termini a un termine del caffè che già capisci bene.",
+        "mistake": "Supporre che una parola condivisa significhi sempre esattamente la stessa sensazione in ogni categoria.",
+        "challenge": "Perché la parola 'corpo' potrebbe significare qualcosa di leggermente diverso nel vino rispetto al caffè?"
+      }
+    }
+  },
+  {
+    "number": "280",
+    "title": "Terroir Across Categories",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "280.jpg",
+    "definition": "Terroir — the influence of soil, climate, and altitude on flavor — is a concept coffee shares directly with wine, and to a lesser extent with cacao and certain whiskies.",
+    "why": "Understanding how wine communicates terroir can sharpen how you talk about coffee origin character, since wine's language for it is more developed.",
+    "tip": "Study how a wine region explains its own terroir, then look for the equivalent explanation from a coffee-growing region.",
+    "mistake": "Assuming terroir works identically across categories just because the word is the same.",
+    "challenge": "Why might terroir language be more developed in wine than in coffee, despite both depending on similar environmental factors?",
+    "related": [
+      "088",
+      "086"
+    ],
+    "translations": {
+      "es": {
+        "title": "El terruño a través de categorías",
+        "definition": "El terruño —la influencia del suelo, el clima y la altitud en el sabor— es un concepto que el café comparte directamente con el vino, y en menor medida con el cacao y algunos whiskies.",
+        "why": "Entender cómo el vino comunica el terruño puede afinar cómo hablas del carácter de origen del café, ya que el lenguaje del vino para ello está más desarrollado.",
+        "tip": "Estudia cómo una región vinícola explica su propio terruño, y luego busca la explicación equivalente de una región cafetalera.",
+        "mistake": "Suponer que el terruño funciona igual en todas las categorías solo porque la palabra es la misma.",
+        "challenge": "¿Por qué el lenguaje del terruño podría estar más desarrollado en el vino que en el café, pese a que ambos dependen de factores ambientales similares?"
+      },
+      "pt": {
+        "title": "Terroir entre categorias",
+        "definition": "O terroir — a influência do solo, clima e altitude no sabor — é um conceito que o café compartilha diretamente com o vinho, e em menor grau com o cacau e alguns uísques.",
+        "why": "Entender como o vinho comunica terroir pode aprimorar como você fala sobre o caráter de origem do café, já que a linguagem do vinho para isso é mais desenvolvida.",
+        "tip": "Estude como uma região vinícola explica seu próprio terroir, e depois procure a explicação equivalente de uma região cafeicultora.",
+        "mistake": "Supor que o terroir funciona igual em todas as categorias só porque a palavra é a mesma.",
+        "challenge": "Por que a linguagem de terroir pode estar mais desenvolvida no vinho do que no café, apesar de ambos dependerem de fatores ambientais semelhantes?"
+      },
+      "de": {
+        "title": "Terroir über Kategorien hinweg",
+        "definition": "Terroir — der Einfluss von Boden, Klima und Höhenlage auf den Geschmack — ist ein Konzept, das Kaffee direkt mit Wein und in geringerem Maße mit Kakao und manchen Whiskys teilt.",
+        "why": "Zu verstehen, wie Wein Terroir kommuniziert, kann schärfen, wie du über den Herkunftscharakter von Kaffee sprichst, da die Sprache des Weins dafür weiter entwickelt ist.",
+        "tip": "Studiere, wie eine Weinregion ihr eigenes Terroir erklärt, und suche dann nach der entsprechenden Erklärung einer Kaffeeanbauregion.",
+        "mistake": "Anzunehmen, Terroir funktioniere in allen Kategorien identisch, nur weil das Wort dasselbe ist.",
+        "challenge": "Warum könnte die Terroir-Sprache beim Wein weiter entwickelt sein als beim Kaffee, obwohl beide von ähnlichen Umweltfaktoren abhängen?"
+      },
+      "fr": {
+        "title": "Le terroir à travers les catégories",
+        "definition": "Le terroir — l'influence du sol, du climat et de l'altitude sur la saveur — est un concept que le café partage directement avec le vin, et dans une moindre mesure avec le cacao et certains whiskies.",
+        "why": "Comprendre comment le vin communique le terroir peut affiner votre façon de parler du caractère d'origine du café, car le langage du vin pour cela est plus développé.",
+        "tip": "Étudiez comment une région viticole explique son propre terroir, puis cherchez l'explication équivalente d'une région de culture du café.",
+        "mistake": "Supposer que le terroir fonctionne de façon identique dans toutes les catégories simplement parce que le mot est le même.",
+        "challenge": "Pourquoi le langage du terroir pourrait-il être plus développé dans le vin que dans le café, alors que les deux dépendent de facteurs environnementaux similaires ?"
+      },
+      "it": {
+        "title": "Il terroir tra le categorie",
+        "definition": "Il terroir — l'influenza di suolo, clima e altitudine sul sapore — è un concetto che il caffè condivide direttamente con il vino, e in misura minore con il cacao e alcuni whisky.",
+        "why": "Capire come il vino comunica il terroir può affinare il modo in cui parli del carattere d'origine del caffè, poiché il linguaggio del vino per questo è più sviluppato.",
+        "tip": "Studia come una regione vinicola spiega il proprio terroir, poi cerca la spiegazione equivalente di una regione di coltivazione del caffè.",
+        "mistake": "Supporre che il terroir funzioni in modo identico in tutte le categorie solo perché la parola è la stessa.",
+        "challenge": "Perché il linguaggio del terroir potrebbe essere più sviluppato nel vino che nel caffè, nonostante entrambi dipendano da fattori ambientali simili?"
+      }
+    }
+  },
+  {
+    "number": "281",
+    "title": "Acidity Compared",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "281.jpg",
+    "definition": "Both coffee and wine prize acidity as a structural, positive quality, but the term carries more instant negative baggage among untrained coffee drinkers than among wine drinkers.",
+    "why": "Wine has spent longer training consumers that acidity is desirable, which coffee could learn from when trying to reframe the term for its own customers.",
+    "tip": "Borrow wine's habit of naming acidity by fruit comparison (citrus, green apple) rather than using the word 'acidic' alone.",
+    "mistake": "Using the bare word 'acidic' with a customer unfamiliar with coffee terminology, where it reads as a flaw rather than a quality.",
+    "challenge": "Why might the same underlying sensation be received so differently depending on which industry's vocabulary describes it?",
+    "related": [
+      "058",
+      "168"
+    ],
+    "translations": {
+      "es": {
+        "title": "Comparando la acidez",
+        "definition": "Tanto el café como el vino valoran la acidez como una cualidad estructural y positiva, pero el término conlleva más connotación negativa instantánea entre bebedores de café sin entrenamiento que entre bebedores de vino.",
+        "why": "El vino lleva más tiempo enseñando a los consumidores que la acidez es deseable, algo de lo que el café podría aprender al intentar replantear el término para sus propios clientes.",
+        "tip": "Toma prestada la costumbre del vino de nombrar la acidez comparándola con frutas (cítricos, manzana verde) en lugar de usar solo la palabra 'ácido'.",
+        "mistake": "Usar la palabra 'ácido' sola con un cliente que no conoce la terminología del café, donde se percibe como un defecto y no como una cualidad.",
+        "challenge": "¿Por qué la misma sensación subyacente podría recibirse de forma tan distinta según el vocabulario de qué industria la describa?"
+      },
+      "pt": {
+        "title": "Comparando a acidez",
+        "definition": "Tanto o café quanto o vinho valorizam a acidez como uma qualidade estrutural e positiva, mas o termo carrega mais bagagem negativa instantânea entre bebedores de café sem treinamento do que entre bebedores de vinho.",
+        "why": "O vinho passou mais tempo ensinando aos consumidores que a acidez é desejável, algo que o café poderia aprender ao tentar reformular o termo para seus próprios clientes.",
+        "tip": "Tome emprestado o hábito do vinho de nomear a acidez comparando-a a frutas (cítricos, maçã verde) em vez de usar apenas a palavra 'ácido'.",
+        "mistake": "Usar a palavra 'ácido' sozinha com um cliente que não conhece a terminologia do café, onde soa como um defeito, não como uma qualidade.",
+        "challenge": "Por que a mesma sensação subjacente pode ser recebida de forma tão diferente dependendo do vocabulário de qual indústria a descreve?"
+      },
+      "de": {
+        "title": "Säure im Vergleich",
+        "definition": "Sowohl Kaffee als auch Wein schätzen Säure als strukturelle, positive Eigenschaft, aber der Begriff trägt bei ungeübten Kaffeetrinkern mehr sofortige negative Konnotation als bei Weintrinkern.",
+        "why": "Wein hat länger daran gearbeitet, Konsumenten zu vermitteln, dass Säure erwünscht ist — davon könnte Kaffee lernen, wenn er versucht, den Begriff für seine eigenen Kunden neu zu fassen.",
+        "tip": "Übernimm die Gewohnheit des Weins, Säure durch Fruchtvergleiche (Zitrus, grüner Apfel) zu benennen, statt allein das Wort 'säurehaltig' zu verwenden.",
+        "mistake": "Das bloße Wort 'säurehaltig' bei einem mit Kaffeeterminologie nicht vertrauten Kunden zu verwenden, wo es als Fehler statt als Qualität ankommt.",
+        "challenge": "Warum könnte dieselbe zugrundeliegende Empfindung je nach beschreibendem Branchenvokabular so unterschiedlich aufgenommen werden?"
+      },
+      "fr": {
+        "title": "L'acidité comparée",
+        "definition": "Le café et le vin valorisent tous deux l'acidité comme une qualité structurelle et positive, mais le terme porte plus de connotation négative instantanée chez les buveurs de café non initiés que chez les amateurs de vin.",
+        "why": "Le vin a passé plus de temps à enseigner aux consommateurs que l'acidité est désirable, ce dont le café pourrait s'inspirer en essayant de recadrer le terme pour ses propres clients.",
+        "tip": "Empruntez l'habitude du vin de nommer l'acidité par comparaison fruitée (agrumes, pomme verte) plutôt que d'utiliser seul le mot « acide ».",
+        "mistake": "Utiliser le seul mot « acide » avec un client peu familier de la terminologie du café, où cela se lit comme un défaut plutôt qu'une qualité.",
+        "challenge": "Pourquoi la même sensation sous-jacente pourrait-elle être reçue si différemment selon le vocabulaire de quelle industrie la décrit ?"
+      },
+      "it": {
+        "title": "Acidità a confronto",
+        "definition": "Sia il caffè che il vino valorizzano l'acidità come qualità strutturale e positiva, ma il termine porta più connotazione negativa immediata tra i bevitori di caffè non esperti rispetto ai bevitori di vino.",
+        "why": "Il vino ha impiegato più tempo a insegnare ai consumatori che l'acidità è desiderabile, cosa da cui il caffè potrebbe imparare nel tentare di riformulare il termine per i propri clienti.",
+        "tip": "Prendi in prestito l'abitudine del vino di nominare l'acidità per confronto con la frutta (agrumi, mela verde) invece di usare solo la parola 'acido'.",
+        "mistake": "Usare la sola parola 'acido' con un cliente non familiare con la terminologia del caffè, dove suona come un difetto invece che come una qualità.",
+        "challenge": "Perché la stessa sensazione di fondo potrebbe essere accolta in modo così diverso a seconda del vocabolario di quale settore la descrive?"
+      }
+    }
+  },
+  {
+    "number": "282",
+    "title": "Tannins & Astringency",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "282.jpg",
+    "definition": "Tannins in wine and black tea create a drying, puckering sensation closely related to the astringency sometimes found in under-extracted or over-fermented coffee.",
+    "why": "Coffee doesn't have significant tannins the way wine does, but the trigeminal sensation of astringency is genuinely shared across both.",
+    "tip": "Compare a very tannic red wine to an astringent coffee side by side to feel the physical similarity, even though the chemistry differs.",
+    "mistake": "Assuming coffee astringency and wine tannins come from the same compounds just because they feel similar.",
+    "challenge": "Why can two different chemical causes produce such a similar physical sensation in the mouth?",
+    "related": [
+      "173",
+      "058"
+    ],
+    "translations": {
+      "es": {
+        "title": "Taninos y astringencia",
+        "definition": "Los taninos del vino y del té negro crean una sensación seca y de pliegue muy relacionada con la astringencia que a veces aparece en café subextraído o sobrefermentado.",
+        "why": "El café no tiene taninos significativos como el vino, pero la sensación trigeminal de astringencia es genuinamente compartida entre ambos.",
+        "tip": "Compara un vino tinto muy tánico con un café astringente lado a lado para sentir la similitud física, aunque la química sea distinta.",
+        "mistake": "Suponer que la astringencia del café y los taninos del vino provienen de los mismos compuestos solo porque se sienten parecidos.",
+        "challenge": "¿Por qué dos causas químicas distintas pueden producir una sensación física tan similar en la boca?"
+      },
+      "pt": {
+        "title": "Taninos e adstringência",
+        "definition": "Os taninos do vinho e do chá preto criam uma sensação seca e de contração intimamente relacionada à adstringência às vezes encontrada em café subextraído ou superfermentado.",
+        "why": "O café não tem taninos significativos como o vinho, mas a sensação trigeminal de adstringência é genuinamente compartilhada entre ambos.",
+        "tip": "Compare um vinho tinto muito tânico com um café adstringente lado a lado para sentir a semelhança física, mesmo que a química seja diferente.",
+        "mistake": "Supor que a adstringência do café e os taninos do vinho vêm dos mesmos compostos só porque parecem semelhantes.",
+        "challenge": "Por que duas causas químicas diferentes podem produzir uma sensação física tão semelhante na boca?"
+      },
+      "de": {
+        "title": "Tannine und Adstringenz",
+        "definition": "Tannine in Wein und schwarzem Tee erzeugen ein trocknendes, zusammenziehendes Gefühl, das eng mit der Adstringenz verwandt ist, die manchmal in unterextrahiertem oder überfermentiertem Kaffee auftritt.",
+        "why": "Kaffee hat nicht wie Wein bedeutende Tannine, aber die trigeminale Empfindung der Adstringenz wird tatsächlich von beiden geteilt.",
+        "tip": "Vergleiche einen sehr tanninhaltigen Rotwein mit einem adstringierenden Kaffee nebeneinander, um die physische Ähnlichkeit zu spüren, obwohl sich die Chemie unterscheidet.",
+        "mistake": "Anzunehmen, Kaffeeadstringenz und Weintannine stammten aus denselben Verbindungen, nur weil sie sich ähnlich anfühlen.",
+        "challenge": "Warum können zwei verschiedene chemische Ursachen im Mund eine so ähnliche physische Empfindung erzeugen?"
+      },
+      "fr": {
+        "title": "Tanins et astringence",
+        "definition": "Les tanins du vin et du thé noir créent une sensation asséchante et resserrante étroitement liée à l'astringence parfois trouvée dans un café sous-extrait ou trop fermenté.",
+        "why": "Le café n'a pas de tanins significatifs comme le vin, mais la sensation trigéminale d'astringence est réellement partagée entre les deux.",
+        "tip": "Comparez un vin rouge très tannique à un café astringent côte à côte pour ressentir la similitude physique, même si la chimie diffère.",
+        "mistake": "Supposer que l'astringence du café et les tanins du vin proviennent des mêmes composés simplement parce qu'ils se ressemblent.",
+        "challenge": "Pourquoi deux causes chimiques différentes peuvent-elles produire une sensation physique si similaire en bouche ?"
+      },
+      "it": {
+        "title": "Tannini e astringenza",
+        "definition": "I tannini nel vino e nel tè nero creano una sensazione asciugante e restringente strettamente legata all'astringenza che a volte si trova in un caffè sottoestratto o troppo fermentato.",
+        "why": "Il caffè non ha tannini significativi come il vino, ma la sensazione trigeminale dell'astringenza è genuinamente condivisa tra entrambi.",
+        "tip": "Confronta un vino rosso molto tannico con un caffè astringente fianco a fianco per sentire la somiglianza fisica, anche se la chimica differisce.",
+        "mistake": "Supporre che l'astringenza del caffè e i tannini del vino provengano dagli stessi composti solo perché si sentono simili.",
+        "challenge": "Perché due cause chimiche diverse possono produrre una sensazione fisica così simile in bocca?"
+      }
+    }
+  },
+  {
+    "number": "283",
+    "title": "Cask & Barrel Influence",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "283.jpg",
+    "definition": "Whiskey and wine take on flavor from aging in wooden casks, while coffee has its own experimental parallel in barrel-aged green coffee, stored in emptied spirit casks before roasting.",
+    "why": "Comparing the two shows how differently the same principle — wood contact transferring flavor — plays out depending on whether it's applied to a liquid or a solid seed.",
+    "tip": "Taste a barrel-aged coffee specifically for oak, vanilla, or spirit notes, the same vocabulary used to judge a cask-aged whiskey.",
+    "mistake": "Assuming barrel-aged coffee picks up flavor the same way a liquid aged in the same barrel would.",
+    "challenge": "Why might a solid green coffee bean absorb barrel character differently than a liquid spirit does?",
+    "related": [
+      "100",
+      "096"
+    ],
+    "translations": {
+      "es": {
+        "title": "Influencia de la barrica",
+        "definition": "El whisky y el vino adquieren sabor al envejecer en barricas de madera, mientras que el café tiene su propio paralelo experimental en el café verde envejecido en barrica, almacenado en barricas de licor vacías antes de tostar.",
+        "why": "Comparar ambos muestra lo diferente que se desarrolla el mismo principio —la transferencia de sabor por contacto con la madera— según se aplique a un líquido o a una semilla sólida.",
+        "tip": "Prueba un café envejecido en barrica buscando específicamente notas de roble, vainilla o licor, el mismo vocabulario usado para juzgar un whisky envejecido en barrica.",
+        "mistake": "Suponer que el café envejecido en barrica adquiere sabor de la misma forma que lo haría un líquido envejecido en la misma barrica.",
+        "challenge": "¿Por qué un grano de café verde sólido podría absorber el carácter de la barrica de forma distinta a como lo hace un licor líquido?"
+      },
+      "pt": {
+        "title": "Influência do barril",
+        "definition": "O uísque e o vinho ganham sabor ao envelhecer em barris de madeira, enquanto o café tem seu próprio paralelo experimental no café verde envelhecido em barril, armazenado em barris de destilados vazios antes de torrar.",
+        "why": "Comparar os dois mostra como o mesmo princípio — a transferência de sabor pelo contato com a madeira — se desenvolve de forma diferente conforme aplicado a um líquido ou a uma semente sólida.",
+        "tip": "Prove um café envelhecido em barril buscando especificamente notas de carvalho, baunilha ou destilado, o mesmo vocabulário usado para julgar um uísque envelhecido em barril.",
+        "mistake": "Supor que o café envelhecido em barril ganha sabor da mesma forma que um líquido envelhecido no mesmo barril.",
+        "challenge": "Por que um grão de café verde sólido pode absorver o caráter do barril de forma diferente de um destilado líquido?"
+      },
+      "de": {
+        "title": "Fass- und Whiskyfasseinfluss",
+        "definition": "Whisky und Wein nehmen durch Reifung in Holzfässern Geschmack an, während Kaffee seine eigene experimentelle Parallele in fassgereiftem Rohkaffee hat, der vor dem Rösten in geleerten Spirituosenfässern gelagert wird.",
+        "why": "Der Vergleich beider zeigt, wie unterschiedlich sich dasselbe Prinzip — Geschmacksübertragung durch Holzkontakt — auswirkt, je nachdem ob es auf eine Flüssigkeit oder einen festen Samen angewendet wird.",
+        "tip": "Verkoste fassgereiften Kaffee gezielt auf Eichen-, Vanille- oder Spirituosennoten, dasselbe Vokabular, das zur Beurteilung eines fassgereiften Whiskys genutzt wird.",
+        "mistake": "Anzunehmen, fassgereifter Kaffee nehme Geschmack auf dieselbe Weise an wie eine im selben Fass gereifte Flüssigkeit.",
+        "challenge": "Warum könnte ein fester roher Kaffeebohne den Fasscharakter anders aufnehmen als eine flüssige Spirituose?"
+      },
+      "fr": {
+        "title": "Influence du fût",
+        "definition": "Le whisky et le vin prennent de la saveur en vieillissant dans des fûts de bois, tandis que le café a son propre parallèle expérimental dans le café vert vieilli en fût, stocké dans des fûts de spiritueux vidés avant torréfaction.",
+        "why": "Comparer les deux montre à quel point le même principe — le transfert de saveur par contact avec le bois — se déroule différemment selon qu'il s'applique à un liquide ou à une graine solide.",
+        "tip": "Dégustez un café vieilli en fût en cherchant spécifiquement des notes de chêne, vanille ou spiritueux, le même vocabulaire utilisé pour juger un whisky vieilli en fût.",
+        "mistake": "Supposer que le café vieilli en fût prend de la saveur de la même façon qu'un liquide vieilli dans le même fût.",
+        "challenge": "Pourquoi un grain de café vert solide pourrait-il absorber le caractère du fût différemment qu'un spiritueux liquide ?"
+      },
+      "it": {
+        "title": "Influenza della botte",
+        "definition": "Whisky e vino acquisiscono sapore invecchiando in botti di legno, mentre il caffè ha il suo parallelo sperimentale nel caffè verde invecchiato in botte, conservato in botti di distillati svuotate prima della tostatura.",
+        "why": "Confrontare i due mostra quanto diversamente si sviluppi lo stesso principio — il trasferimento di sapore tramite contatto con il legno — a seconda che venga applicato a un liquido o a un seme solido.",
+        "tip": "Assaggia un caffè invecchiato in botte cercando specificamente note di quercia, vaniglia o distillato, lo stesso vocabolario usato per giudicare un whisky invecchiato in botte.",
+        "mistake": "Supporre che il caffè invecchiato in botte acquisisca sapore allo stesso modo di un liquido invecchiato nella stessa botte.",
+        "challenge": "Perché un chicco di caffè verde solido potrebbe assorbire il carattere della botte in modo diverso da un distillato liquido?"
+      }
+    }
+  },
+  {
+    "number": "284",
+    "title": "Fermentation Across Categories",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "284.jpg",
+    "definition": "Wine, chocolate, and coffee all rely on natural fermentation early in production — of grape juice, cacao pulp, and coffee cherry mucilage respectively.",
+    "why": "Understanding fermentation in wine or chocolate can make coffee's own fermentation-driven flavors easier to recognize and discuss with confidence.",
+    "tip": "Notice how winemakers and chocolate makers describe controlled versus wild fermentation, then apply the same distinction to coffee processing.",
+    "mistake": "Treating all fermentation-derived flavor as a defect, when in wine and chocolate it's often the entire point.",
+    "challenge": "Why might coffee professionals be quicker to call a fermented flavor a fault than winemakers or chocolate makers are?",
+    "related": [
+      "081",
+      "080"
+    ],
+    "translations": {
+      "es": {
+        "title": "La fermentación en distintas categorías",
+        "definition": "El vino, el chocolate y el café dependen de la fermentación natural en etapas tempranas de producción — del jugo de uva, la pulpa de cacao y el mucílago de la cereza de café, respectivamente.",
+        "why": "Entender la fermentación en el vino o el chocolate puede hacer que los sabores del café derivados de la fermentación sean más fáciles de reconocer y comentar con confianza.",
+        "tip": "Observa cómo los productores de vino y chocolate describen la fermentación controlada frente a la silvestre, y aplica la misma distinción al procesamiento del café.",
+        "mistake": "Tratar todo sabor derivado de la fermentación como un defecto, cuando en el vino y el chocolate suele ser precisamente el objetivo.",
+        "challenge": "¿Por qué los profesionales del café podrían ser más rápidos en llamar defecto a un sabor fermentado que los enólogos o chocolateros?"
+      },
+      "pt": {
+        "title": "A fermentação em diferentes categorias",
+        "definition": "Vinho, chocolate e café dependem todos de fermentação natural nas etapas iniciais da produção — do suco de uva, da polpa de cacau e da mucilagem da cereja do café, respectivamente.",
+        "why": "Entender a fermentação no vinho ou no chocolate pode tornar os sabores do café derivados de fermentação mais fáceis de reconhecer e discutir com confiança.",
+        "tip": "Observe como produtores de vinho e chocolate descrevem a fermentação controlada versus a selvagem, e aplique a mesma distinção ao processamento do café.",
+        "mistake": "Tratar todo sabor derivado de fermentação como defeito, quando no vinho e no chocolate é frequentemente todo o objetivo.",
+        "challenge": "Por que profissionais do café podem ser mais rápidos em chamar um sabor fermentado de defeito do que enólogos ou fabricantes de chocolate?"
+      },
+      "de": {
+        "title": "Fermentation über Kategorien hinweg",
+        "definition": "Wein, Schokolade und Kaffee beruhen alle früh in der Produktion auf natürlicher Fermentation — von Traubensaft, Kakaofruchtfleisch bzw. Kaffeekirschen-Schleimschicht.",
+        "why": "Fermentation bei Wein oder Schokolade zu verstehen kann es erleichtern, die eigenen fermentationsbedingten Geschmacksnoten des Kaffees zu erkennen und selbstbewusst zu diskutieren.",
+        "tip": "Beachte, wie Winzer und Schokoladenhersteller kontrollierte versus wilde Fermentation beschreiben, und wende dieselbe Unterscheidung auf die Kaffeeaufbereitung an.",
+        "mistake": "Jeden fermentationsbedingten Geschmack als Fehler zu behandeln, obwohl er bei Wein und Schokolade oft genau der Sinn der Sache ist.",
+        "challenge": "Warum könnten Kaffeeprofis schneller einen fermentierten Geschmack als Fehler bezeichnen als Winzer oder Schokoladenhersteller?"
+      },
+      "fr": {
+        "title": "La fermentation à travers les catégories",
+        "definition": "Le vin, le chocolat et le café reposent tous sur une fermentation naturelle en début de production — du jus de raisin, de la pulpe de cacao et du mucilage de cerise de café respectivement.",
+        "why": "Comprendre la fermentation dans le vin ou le chocolat peut rendre les saveurs propres au café issues de la fermentation plus faciles à reconnaître et à discuter avec assurance.",
+        "tip": "Remarquez comment les vignerons et les chocolatiers décrivent la fermentation contrôlée par rapport à la sauvage, puis appliquez la même distinction au traitement du café.",
+        "mistake": "Traiter toute saveur issue de la fermentation comme un défaut, alors que dans le vin et le chocolat c'est souvent tout l'objectif.",
+        "challenge": "Pourquoi les professionnels du café pourraient-ils être plus prompts à qualifier une saveur fermentée de défaut que les vignerons ou les chocolatiers ?"
+      },
+      "it": {
+        "title": "La fermentazione tra le categorie",
+        "definition": "Vino, cioccolato e caffè si basano tutti sulla fermentazione naturale nelle prime fasi di produzione — rispettivamente del succo d'uva, della polpa di cacao e della mucillagine della ciliegia di caffè.",
+        "why": "Capire la fermentazione nel vino o nel cioccolato può rendere più facile riconoscere e discutere con sicurezza i sapori del caffè derivati dalla fermentazione.",
+        "tip": "Osserva come i produttori di vino e cioccolato descrivono la fermentazione controllata rispetto a quella selvaggia, poi applica la stessa distinzione alla lavorazione del caffè.",
+        "mistake": "Trattare ogni sapore derivato dalla fermentazione come un difetto, quando nel vino e nel cioccolato è spesso proprio l'obiettivo.",
+        "challenge": "Perché i professionisti del caffè potrebbero essere più rapidi a definire difettoso un sapore fermentato rispetto a enologi o cioccolatieri?"
+      }
+    }
+  },
+  {
+    "number": "285",
+    "title": "The Flavor Wheel Family",
+    "category": "XSN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "285.jpg",
+    "definition": "Coffee, wine, whiskey, and chocolate each have their own flavor wheel — a circular visual reference organizing descriptors from broad categories to specific notes.",
+    "why": "Comparing wheels side by side reveals both shared structure and category-specific quirks, useful for anyone cross-training across categories.",
+    "tip": "Notice which broad categories appear on every wheel (fruity, floral, nutty) versus which are unique to one product.",
+    "mistake": "Assuming coffee's flavor wheel was the original template all the others copied.",
+    "challenge": "Why might a wine flavor wheel include categories that make no sense applied to coffee, and vice versa?",
+    "related": [
+      "172",
+      "279"
+    ],
+    "translations": {
+      "es": {
+        "title": "La familia de ruedas de sabor",
+        "definition": "El café, el vino, el whisky y el chocolate tienen cada uno su propia rueda de sabores, una referencia visual circular que organiza descriptores desde categorías amplias hasta notas específicas.",
+        "why": "Comparar ruedas lado a lado revela tanto una estructura compartida como particularidades propias de cada categoría, útil para quien entrena habilidades entre categorías.",
+        "tip": "Observa qué categorías amplias aparecen en todas las ruedas (frutal, floral, a frutos secos) frente a cuáles son exclusivas de un producto.",
+        "mistake": "Suponer que la rueda de sabores del café fue la plantilla original que todas las demás copiaron.",
+        "challenge": "¿Por qué una rueda de sabores del vino podría incluir categorías que no tienen sentido aplicadas al café, y viceversa?"
+      },
+      "pt": {
+        "title": "A família das rodas de sabor",
+        "definition": "Café, vinho, uísque e chocolate têm cada um sua própria roda de sabores, uma referência visual circular que organiza descritores de categorias amplas até notas específicas.",
+        "why": "Comparar rodas lado a lado revela tanto uma estrutura compartilhada quanto peculiaridades próprias de cada categoria, útil para quem treina habilidades entre categorias.",
+        "tip": "Observe quais categorias amplas aparecem em todas as rodas (frutado, floral, amendoado) versus quais são exclusivas de um produto.",
+        "mistake": "Supor que a roda de sabores do café foi o modelo original que todas as outras copiaram.",
+        "challenge": "Por que uma roda de sabores do vinho pode incluir categorias que não fazem sentido aplicadas ao café, e vice-versa?"
+      },
+      "de": {
+        "title": "Die Familie der Aromaräder",
+        "definition": "Kaffee, Wein, Whisky und Schokolade haben jeweils ihr eigenes Aromarad — eine kreisförmige visuelle Referenz, die Deskriptoren von breiten Kategorien bis zu spezifischen Noten ordnet.",
+        "why": "Räder nebeneinander zu vergleichen zeigt sowohl gemeinsame Struktur als auch kategoriespezifische Eigenheiten, nützlich für jeden, der kategorieübergreifend trainiert.",
+        "tip": "Beachte, welche breiten Kategorien auf jedem Rad erscheinen (fruchtig, blumig, nussig) im Vergleich zu solchen, die nur für ein Produkt einzigartig sind.",
+        "mistake": "Anzunehmen, das Kaffee-Aromarad sei die ursprüngliche Vorlage, die alle anderen kopiert hätten.",
+        "challenge": "Warum könnte ein Wein-Aromarad Kategorien enthalten, die auf Kaffee angewendet keinen Sinn ergeben, und umgekehrt?"
+      },
+      "fr": {
+        "title": "La famille des roues des saveurs",
+        "definition": "Le café, le vin, le whisky et le chocolat ont chacun leur propre roue des saveurs — une référence visuelle circulaire organisant les descripteurs des catégories larges aux notes spécifiques.",
+        "why": "Comparer les roues côte à côte révèle à la fois une structure partagée et des particularités propres à chaque catégorie, utile pour quiconque s'entraîne à travers les catégories.",
+        "tip": "Remarquez quelles catégories larges apparaissent sur chaque roue (fruité, floral, noisette) par rapport à celles uniques à un seul produit.",
+        "mistake": "Supposer que la roue des saveurs du café était le modèle original que toutes les autres ont copié.",
+        "challenge": "Pourquoi une roue des saveurs du vin pourrait-elle inclure des catégories qui n'ont aucun sens appliquées au café, et vice versa ?"
+      },
+      "it": {
+        "title": "La famiglia delle ruote dei sapori",
+        "definition": "Caffè, vino, whisky e cioccolato hanno ciascuno la propria ruota dei sapori — un riferimento visivo circolare che organizza i descrittori da categorie ampie a note specifiche.",
+        "why": "Confrontare le ruote fianco a fianco rivela sia una struttura condivisa sia peculiarità specifiche di categoria, utile per chiunque si alleni tra le categorie.",
+        "tip": "Nota quali categorie ampie appaiono su ogni ruota (fruttato, floreale, di noci) rispetto a quelle uniche di un solo prodotto.",
+        "mistake": "Supporre che la ruota dei sapori del caffè fosse il modello originale che tutte le altre hanno copiato.",
+        "challenge": "Perché una ruota dei sapori del vino potrebbe includere categorie che non hanno senso applicate al caffè, e viceversa?"
+      }
+    }
+  },
+  {
+    "number": "286",
+    "title": "Sweetness Perception",
+    "category": "XSN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "286.jpg",
+    "definition": "Sweetness in coffee, wine, and chocolate is often perceived rather than measured — a sensory impression created by balance with acidity and bitterness, not actual sugar content.",
+    "why": "Recognizing perceived sweetness as a cross-category phenomenon explains why a dry wine or unsweetened dark chocolate can still taste sweet.",
+    "tip": "When tasting for sweetness, ask whether it's balancing acidity or bitterness rather than looking for literal sugar.",
+    "mistake": "Assuming a product must contain added sugar to register as sweet on the palate.",
+    "challenge": "Why can a completely unsweetened coffee or chocolate still taste genuinely sweet?",
+    "related": [
+      "059",
+      "063"
+    ],
+    "translations": {
+      "es": {
+        "title": "Percepción de la dulzura",
+        "definition": "La dulzura en el café, el vino y el chocolate suele percibirse más que medirse — una impresión sensorial creada por el equilibrio con la acidez y el amargor, no por el contenido real de azúcar.",
+        "why": "Reconocer la dulzura percibida como un fenómeno transversal explica por qué un vino seco o un chocolate negro sin azúcar pueden seguir sabiendo dulces.",
+        "tip": "Al catar buscando dulzura, pregúntate si equilibra la acidez o el amargor, en lugar de buscar azúcar literal.",
+        "mistake": "Suponer que un producto debe contener azúcar añadido para registrarse como dulce en el paladar.",
+        "challenge": "¿Por qué un café o un chocolate completamente sin endulzar pueden seguir sabiendo genuinamente dulces?"
+      },
+      "pt": {
+        "title": "Percepção da doçura",
+        "definition": "A doçura no café, no vinho e no chocolate costuma ser percebida em vez de medida — uma impressão sensorial criada pelo equilíbrio com a acidez e o amargor, não pelo teor real de açúcar.",
+        "why": "Reconhecer a doçura percebida como um fenômeno transversal explica por que um vinho seco ou um chocolate amargo sem açúcar ainda podem ter gosto doce.",
+        "tip": "Ao degustar buscando doçura, pergunte se ela equilibra a acidez ou o amargor, em vez de procurar açúcar literal.",
+        "mistake": "Supor que um produto precisa conter açúcar adicionado para registrar como doce no paladar.",
+        "challenge": "Por que um café ou chocolate completamente sem adoçante ainda pode ter gosto genuinamente doce?"
+      },
+      "de": {
+        "title": "Süße-Wahrnehmung",
+        "definition": "Süße bei Kaffee, Wein und Schokolade wird oft wahrgenommen statt gemessen — ein sensorischer Eindruck, der durch Balance mit Säure und Bitterkeit entsteht, nicht durch tatsächlichen Zuckergehalt.",
+        "why": "Wahrgenommene Süße als kategorieübergreifendes Phänomen zu erkennen erklärt, warum ein trockener Wein oder ungesüßte dunkle Schokolade trotzdem süß schmecken können.",
+        "tip": "Frage beim Verkosten auf Süße, ob sie Säure oder Bitterkeit ausbalanciert, statt nach buchstäblichem Zucker zu suchen.",
+        "mistake": "Anzunehmen, ein Produkt müsse zugesetzten Zucker enthalten, um am Gaumen als süß registriert zu werden.",
+        "challenge": "Warum kann ein völlig ungesüßter Kaffee oder eine Schokolade trotzdem echt süß schmecken?"
+      },
+      "fr": {
+        "title": "Perception de la douceur",
+        "definition": "La douceur dans le café, le vin et le chocolat est souvent perçue plutôt que mesurée — une impression sensorielle créée par l'équilibre avec l'acidité et l'amertume, pas par une teneur réelle en sucre.",
+        "why": "Reconnaître la douceur perçue comme un phénomène transversal explique pourquoi un vin sec ou un chocolat noir non sucré peuvent quand même avoir un goût sucré.",
+        "tip": "En dégustant pour la douceur, demandez-vous si elle équilibre l'acidité ou l'amertume plutôt que de chercher du sucre littéral.",
+        "mistake": "Supposer qu'un produit doit contenir du sucre ajouté pour être perçu comme sucré au palais.",
+        "challenge": "Pourquoi un café ou un chocolat complètement non sucré peut-il quand même avoir un goût réellement sucré ?"
+      },
+      "it": {
+        "title": "Percezione della dolcezza",
+        "definition": "La dolcezza nel caffè, nel vino e nel cioccolato viene spesso percepita piuttosto che misurata — un'impressione sensoriale creata dall'equilibrio con acidità e amarezza, non dal contenuto reale di zucchero.",
+        "why": "Riconoscere la dolcezza percepita come un fenomeno cross-categoria spiega perché un vino secco o un cioccolato fondente non zuccherato possano comunque sapere di dolce.",
+        "tip": "Quando degusti cercando la dolcezza, chiediti se sta bilanciando acidità o amarezza invece di cercare zucchero letterale.",
+        "mistake": "Supporre che un prodotto debba contenere zucchero aggiunto per registrarsi come dolce sul palato.",
+        "challenge": "Perché un caffè o un cioccolato completamente non zuccherato può comunque sapere genuinamente di dolce?"
+      }
+    }
+  },
+  {
+    "number": "287",
+    "title": "Body & Mouthfeel Compared",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "287.jpg",
+    "definition": "Body in coffee, wine, and chocolate all describe a tactile weight sensation, but the underlying cause differs — oils and solids in coffee, alcohol and glycerol in wine, cocoa butter in chocolate.",
+    "why": "Understanding what physically creates body in each category prevents the vocabulary from becoming an empty, interchangeable label.",
+    "tip": "When describing body, try to name what you think is causing it, not just rate it as light or heavy.",
+    "mistake": "Using the word 'body' as a vague catch-all without connecting it to an actual physical cause.",
+    "challenge": "Why might two products with completely different chemical compositions produce a similar sense of body?",
+    "related": [
+      "061",
+      "078"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cuerpo y textura comparados",
+        "definition": "El cuerpo en el café, el vino y el chocolate describen una sensación táctil de peso, pero la causa subyacente difiere: aceites y sólidos en el café, alcohol y glicerol en el vino, manteca de cacao en el chocolate.",
+        "why": "Entender qué crea físicamente el cuerpo en cada categoría evita que el vocabulario se convierta en una etiqueta vacía e intercambiable.",
+        "tip": "Al describir el cuerpo, intenta nombrar qué crees que lo causa, no solo calificarlo como ligero o pesado.",
+        "mistake": "Usar la palabra 'cuerpo' como un cajón de sastre vago sin conectarla con una causa física real.",
+        "challenge": "¿Por qué dos productos con composiciones químicas completamente distintas podrían producir una sensación de cuerpo similar?"
+      },
+      "pt": {
+        "title": "Corpo e textura comparados",
+        "definition": "O corpo no café, no vinho e no chocolate descrevem uma sensação tátil de peso, mas a causa subjacente difere: óleos e sólidos no café, álcool e glicerol no vinho, manteiga de cacau no chocolate.",
+        "why": "Entender o que fisicamente cria o corpo em cada categoria evita que o vocabulário se torne um rótulo vago e intercambiável.",
+        "tip": "Ao descrever o corpo, tente nomear o que você acha que o está causando, não apenas classificá-lo como leve ou pesado.",
+        "mistake": "Usar a palavra 'corpo' como um termo genérico vago sem conectá-la a uma causa física real.",
+        "challenge": "Por que dois produtos com composições químicas completamente diferentes podem produzir uma sensação de corpo semelhante?"
+      },
+      "de": {
+        "title": "Körper und Mundgefühl im Vergleich",
+        "definition": "Körper bei Kaffee, Wein und Schokolade beschreibt jeweils eine taktile Gewichtsempfindung, aber die zugrundeliegende Ursache unterscheidet sich — Öle und Feststoffe bei Kaffee, Alkohol und Glycerin bei Wein, Kakaobutter bei Schokolade.",
+        "why": "Zu verstehen, was Körper in jeder Kategorie physisch erzeugt, verhindert, dass das Vokabular zu einem leeren, austauschbaren Etikett wird.",
+        "tip": "Versuche beim Beschreiben von Körper zu benennen, was ihn deiner Meinung nach verursacht, statt ihn nur als leicht oder schwer einzustufen.",
+        "mistake": "Das Wort 'Körper' als vagen Oberbegriff zu verwenden, ohne ihn mit einer tatsächlichen physischen Ursache zu verbinden.",
+        "challenge": "Warum könnten zwei Produkte mit völlig unterschiedlicher chemischer Zusammensetzung ein ähnliches Körpergefühl erzeugen?"
+      },
+      "fr": {
+        "title": "Corps et texture comparés",
+        "definition": "Le corps dans le café, le vin et le chocolat décrit tous une sensation tactile de poids, mais la cause sous-jacente diffère — huiles et solides dans le café, alcool et glycérol dans le vin, beurre de cacao dans le chocolat.",
+        "why": "Comprendre ce qui crée physiquement le corps dans chaque catégorie évite que le vocabulaire ne devienne une étiquette vide et interchangeable.",
+        "tip": "En décrivant le corps, essayez de nommer ce que vous pensez en être la cause, pas seulement de le qualifier de léger ou lourd.",
+        "mistake": "Utiliser le mot « corps » comme fourre-tout vague sans le relier à une cause physique réelle.",
+        "challenge": "Pourquoi deux produits aux compositions chimiques complètement différentes pourraient-ils produire une sensation de corps similaire ?"
+      },
+      "it": {
+        "title": "Corpo e sensazione in bocca a confronto",
+        "definition": "Il corpo nel caffè, nel vino e nel cioccolato descrive tutti una sensazione tattile di peso, ma la causa di fondo differisce — oli e solidi nel caffè, alcol e glicerolo nel vino, burro di cacao nel cioccolato.",
+        "why": "Capire cosa crea fisicamente il corpo in ogni categoria evita che il vocabolario diventi un'etichetta vaga e intercambiabile.",
+        "tip": "Quando descrivi il corpo, prova a nominare cosa pensi lo stia causando, non limitarti a valutarlo come leggero o pesante.",
+        "mistake": "Usare la parola 'corpo' come un contenitore vago senza collegarla a una causa fisica reale.",
+        "challenge": "Perché due prodotti con composizioni chimiche completamente diverse potrebbero produrre una sensazione di corpo simile?"
+      }
+    }
+  },
+  {
+    "number": "288",
+    "title": "Aging & Oxidation",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "288.jpg",
+    "definition": "Wine benefits from controlled aging and oxidation in many styles, while coffee generally treats oxidation and staling as flavor loss to be minimized rather than cultivated.",
+    "why": "Comparing the two highlights that 'aging is good' is not a universal truth — it depends entirely on what a category has learned to control and desire.",
+    "tip": "Notice which categories treat age as an asset (wine, some whiskey) versus a liability (coffee, most chocolate) and ask why.",
+    "mistake": "Assuming that because aging improves wine, an 'aged coffee' claim automatically means something positive.",
+    "challenge": "Why might the same chemical process, oxidation, be desirable in one product and a defect in another?",
+    "related": [
+      "213",
+      "218"
+    ],
+    "translations": {
+      "es": {
+        "title": "Envejecimiento y oxidación",
+        "definition": "El vino se beneficia de un envejecimiento y oxidación controlados en muchos estilos, mientras que el café generalmente trata la oxidación y el envejecimiento como pérdida de sabor a minimizar, no a cultivar.",
+        "why": "Comparar ambos resalta que 'envejecer es bueno' no es una verdad universal — depende por completo de lo que una categoría ha aprendido a controlar y desear.",
+        "tip": "Observa qué categorías tratan la edad como un activo (vino, algunos whiskies) frente a un pasivo (café, la mayoría del chocolate) y pregúntate por qué.",
+        "mistake": "Suponer que, como el envejecimiento mejora el vino, la afirmación de un 'café añejo' significa automáticamente algo positivo.",
+        "challenge": "¿Por qué el mismo proceso químico, la oxidación, podría ser deseable en un producto y un defecto en otro?"
+      },
+      "pt": {
+        "title": "Envelhecimento e oxidação",
+        "definition": "O vinho se beneficia de envelhecimento e oxidação controlados em muitos estilos, enquanto o café geralmente trata a oxidação e o envelhecimento como perda de sabor a ser minimizada, não cultivada.",
+        "why": "Comparar os dois destaca que 'envelhecer é bom' não é uma verdade universal — depende inteiramente do que uma categoria aprendeu a controlar e desejar.",
+        "tip": "Observe quais categorias tratam a idade como um ativo (vinho, alguns uísques) versus um passivo (café, a maioria do chocolate) e pergunte-se por quê.",
+        "mistake": "Supor que, como o envelhecimento melhora o vinho, uma alegação de 'café envelhecido' significa automaticamente algo positivo.",
+        "challenge": "Por que o mesmo processo químico, a oxidação, pode ser desejável em um produto e um defeito em outro?"
+      },
+      "de": {
+        "title": "Alterung und Oxidation",
+        "definition": "Wein profitiert bei vielen Stilen von kontrollierter Alterung und Oxidation, während Kaffee Oxidation und Altern generell als Geschmacksverlust behandelt, den es zu minimieren gilt, statt ihn zu kultivieren.",
+        "why": "Der Vergleich beider zeigt, dass 'Altern ist gut' keine universelle Wahrheit ist — es hängt vollständig davon ab, was eine Kategorie zu kontrollieren und zu wünschen gelernt hat.",
+        "tip": "Beachte, welche Kategorien Alter als Vorteil behandeln (Wein, mancher Whisky) versus als Nachteil (Kaffee, die meiste Schokolade) und frage dich warum.",
+        "mistake": "Anzunehmen, weil Alterung Wein verbessert, bedeute eine Behauptung 'gealterter Kaffee' automatisch etwas Positives.",
+        "challenge": "Warum könnte derselbe chemische Prozess, Oxidation, bei einem Produkt erwünscht und bei einem anderen ein Fehler sein?"
+      },
+      "fr": {
+        "title": "Vieillissement et oxydation",
+        "definition": "Le vin bénéficie d'un vieillissement et d'une oxydation contrôlés dans de nombreux styles, tandis que le café traite généralement l'oxydation et le rassissement comme une perte de saveur à minimiser plutôt qu'à cultiver.",
+        "why": "Comparer les deux met en lumière que « vieillir c'est bien » n'est pas une vérité universelle — cela dépend entièrement de ce qu'une catégorie a appris à contrôler et désirer.",
+        "tip": "Remarquez quelles catégories traitent l'âge comme un atout (vin, certains whiskies) contre un handicap (café, la plupart des chocolats) et demandez-vous pourquoi.",
+        "mistake": "Supposer que, parce que le vieillissement améliore le vin, une allégation de « café vieilli » signifie automatiquement quelque chose de positif.",
+        "challenge": "Pourquoi le même processus chimique, l'oxydation, pourrait-il être désirable dans un produit et un défaut dans un autre ?"
+      },
+      "it": {
+        "title": "Invecchiamento e ossidazione",
+        "definition": "Il vino trae beneficio da invecchiamento e ossidazione controllati in molti stili, mentre il caffè generalmente tratta ossidazione e invecchiamento come perdita di sapore da minimizzare, non da coltivare.",
+        "why": "Confrontare i due evidenzia che 'invecchiare fa bene' non è una verità universale — dipende interamente da ciò che una categoria ha imparato a controllare e desiderare.",
+        "tip": "Nota quali categorie trattano l'età come un vantaggio (vino, alcuni whisky) rispetto a uno svantaggio (caffè, la maggior parte del cioccolato) e chiediti perché.",
+        "mistake": "Supporre che, poiché l'invecchiamento migliora il vino, un'affermazione di 'caffè invecchiato' significhi automaticamente qualcosa di positivo.",
+        "challenge": "Perché lo stesso processo chimico, l'ossidazione, potrebbe essere desiderabile in un prodotto e un difetto in un altro?"
+      }
+    }
+  },
+  {
+    "number": "289",
+    "title": "Roast vs Toast",
+    "category": "XSN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "289.jpg",
+    "definition": "Coffee roasting and oak toasting in wine and whiskey barrels both use controlled heat to develop Maillard-driven flavor compounds before the product reaches the consumer.",
+    "why": "Recognizing the shared Maillard chemistry explains why roasted coffee and toasted oak can share caramel, nutty, and toasty descriptors despite coming from entirely different materials.",
+    "tip": "Compare a lightly toasted versus heavily charred oak barrel description to a light versus dark coffee roast description — the vocabulary maps closely.",
+    "mistake": "Assuming the flavor similarity between roasted coffee and toasted oak is a coincidence rather than shared chemistry.",
+    "challenge": "Why might two completely different raw materials produce similar flavor compounds when exposed to controlled heat?",
+    "related": [
+      "100",
+      "096"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tueste de café vs tostado de madera",
+        "definition": "El tueste del café y el tostado del roble en barricas de vino y whisky usan calor controlado para desarrollar compuestos de sabor derivados de Maillard antes de que el producto llegue al consumidor.",
+        "why": "Reconocer la química Maillard compartida explica por qué el café tostado y el roble tostado pueden compartir descriptores de caramelo, frutos secos y tostado pese a provenir de materiales totalmente distintos.",
+        "tip": "Compara la descripción de una barrica de roble ligeramente tostada frente a una fuertemente carbonizada con la de un tueste de café claro frente a uno oscuro — el vocabulario coincide de cerca.",
+        "mistake": "Suponer que la similitud de sabor entre el café tostado y el roble tostado es coincidencia y no química compartida.",
+        "challenge": "¿Por qué dos materias primas completamente distintas podrían producir compuestos de sabor similares al exponerse a calor controlado?"
+      },
+      "pt": {
+        "title": "Torra do café vs tostagem da madeira",
+        "definition": "A torra do café e a tostagem do carvalho em barris de vinho e uísque usam calor controlado para desenvolver compostos de sabor derivados de Maillard antes de o produto chegar ao consumidor.",
+        "why": "Reconhecer a química Maillard compartilhada explica por que o café torrado e o carvalho tostado podem compartilhar descritores de caramelo, amendoado e tostado apesar de virem de materiais totalmente diferentes.",
+        "tip": "Compare a descrição de um barril de carvalho levemente tostado versus fortemente carbonizado com a de uma torra de café clara versus escura — o vocabulário se aproxima bastante.",
+        "mistake": "Supor que a semelhança de sabor entre café torrado e carvalho tostado é coincidência e não química compartilhada.",
+        "challenge": "Por que duas matérias-primas completamente diferentes podem produzir compostos de sabor semelhantes quando expostas a calor controlado?"
+      },
+      "de": {
+        "title": "Kaffeeröstung vs. Holztoasting",
+        "definition": "Kaffeeröstung und das Toasten von Eichenholz in Wein- und Whiskyfässern nutzen beide kontrollierte Hitze, um Maillard-getriebene Geschmacksverbindungen zu entwickeln, bevor das Produkt den Konsumenten erreicht.",
+        "why": "Die gemeinsame Maillard-Chemie zu erkennen erklärt, warum gerösteter Kaffee und getoastete Eiche Karamell-, Nuss- und Röstnoten teilen können, obwohl sie aus völlig unterschiedlichen Materialien stammen.",
+        "tip": "Vergleiche eine Beschreibung von leicht getoastetem versus stark verkohltem Eichenfass mit einer Beschreibung von heller versus dunkler Kaffeeröstung — das Vokabular deckt sich stark.",
+        "mistake": "Anzunehmen, die Geschmacksähnlichkeit zwischen geröstetem Kaffee und getoasteter Eiche sei Zufall statt gemeinsamer Chemie.",
+        "challenge": "Warum könnten zwei völlig unterschiedliche Rohmaterialien bei kontrollierter Hitzeeinwirkung ähnliche Geschmacksverbindungen erzeugen?"
+      },
+      "fr": {
+        "title": "Torréfaction du café vs toastage du bois",
+        "definition": "La torréfaction du café et le toastage du chêne dans les fûts de vin et de whisky utilisent tous deux une chaleur contrôlée pour développer des composés aromatiques issus de la réaction de Maillard avant que le produit n'atteigne le consommateur.",
+        "why": "Reconnaître la chimie de Maillard partagée explique pourquoi le café torréfié et le chêne toasté peuvent partager des descripteurs de caramel, de noisette et de grillé malgré des matériaux d'origine totalement différents.",
+        "tip": "Comparez une description de fût de chêne légèrement toasté versus fortement carbonisé à une description de torréfaction de café claire versus foncée — le vocabulaire se recoupe étroitement.",
+        "mistake": "Supposer que la similitude de saveur entre café torréfié et chêne toasté est une coïncidence plutôt qu'une chimie partagée.",
+        "challenge": "Pourquoi deux matières premières complètement différentes pourraient-elles produire des composés aromatiques similaires lorsqu'elles sont exposées à une chaleur contrôlée ?"
+      },
+      "it": {
+        "title": "Tostatura del caffè vs tostatura del legno",
+        "definition": "La tostatura del caffè e la tostatura della quercia nelle botti di vino e whisky usano entrambe calore controllato per sviluppare composti di sapore derivati da Maillard prima che il prodotto raggiunga il consumatore.",
+        "why": "Riconoscere la chimica di Maillard condivisa spiega perché il caffè tostato e la quercia tostata possono condividere descrittori di caramello, nocciola e tostato nonostante provengano da materiali completamente diversi.",
+        "tip": "Confronta una descrizione di botte di quercia leggermente tostata rispetto a fortemente carbonizzata con quella di una tostatura di caffè chiara rispetto a scura — il vocabolario si sovrappone strettamente.",
+        "mistake": "Supporre che la somiglianza di sapore tra caffè tostato e quercia tostata sia una coincidenza piuttosto che chimica condivisa.",
+        "challenge": "Perché due materie prime completamente diverse potrebbero produrre composti di sapore simili se esposte a calore controllato?"
+      }
+    }
+  },
+  {
+    "number": "290",
+    "title": "Chocolate & Coffee Shared Origins",
+    "category": "XSN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "290.jpg",
+    "definition": "Cacao and coffee are frequently grown in the same tropical regions and sometimes on the same farms, sharing climate needs and even some processing steps like fermentation and drying.",
+    "why": "The overlap means many origin lessons from coffee — terroir, altitude, processing care — transfer almost directly to understanding chocolate quality.",
+    "tip": "Ask whether a coffee origin you know also produces cacao, and compare the flavor language used for both.",
+    "mistake": "Treating coffee and chocolate as unrelated products just because they end up consumed so differently.",
+    "challenge": "Why might a coffee buyer's skills transfer more easily to evaluating cacao than to evaluating, say, tea?",
+    "related": [
+      "078",
+      "081",
+      "088"
+    ],
+    "translations": {
+      "es": {
+        "title": "Orígenes compartidos entre chocolate y café",
+        "definition": "El cacao y el café suelen cultivarse en las mismas regiones tropicales y a veces en las mismas fincas, compartiendo necesidades climáticas e incluso algunos pasos de procesamiento como la fermentación y el secado.",
+        "why": "Esta superposición significa que muchas lecciones de origen del café —terruño, altitud, cuidado en el procesamiento— se transfieren casi directamente a la comprensión de la calidad del chocolate.",
+        "tip": "Pregunta si un origen de café que conoces también produce cacao, y compara el lenguaje de sabor usado para ambos.",
+        "mistake": "Tratar el café y el chocolate como productos no relacionados solo porque terminan consumiéndose de forma tan distinta.",
+        "challenge": "¿Por qué las habilidades de un comprador de café podrían transferirse más fácilmente a evaluar cacao que a evaluar, digamos, té?"
+      },
+      "pt": {
+        "title": "Origens compartilhadas entre chocolate e café",
+        "definition": "O cacau e o café são frequentemente cultivados nas mesmas regiões tropicais e às vezes nas mesmas fazendas, compartilhando necessidades climáticas e até algumas etapas de processamento como fermentação e secagem.",
+        "why": "Essa sobreposição significa que muitas lições de origem do café — terroir, altitude, cuidado no processamento — se transferem quase diretamente para entender a qualidade do chocolate.",
+        "tip": "Pergunte se uma origem de café que você conhece também produz cacau, e compare a linguagem de sabor usada para ambos.",
+        "mistake": "Tratar café e chocolate como produtos não relacionados só porque acabam sendo consumidos de forma tão diferente.",
+        "challenge": "Por que as habilidades de um comprador de café podem transferir mais facilmente para avaliar cacau do que para avaliar, digamos, chá?"
+      },
+      "de": {
+        "title": "Gemeinsame Ursprünge von Schokolade und Kaffee",
+        "definition": "Kakao und Kaffee werden häufig in denselben tropischen Regionen und manchmal auf denselben Farmen angebaut, teilen sich Klimabedürfnisse und sogar manche Aufbereitungsschritte wie Fermentation und Trocknung.",
+        "why": "Die Überschneidung bedeutet, dass sich viele Ursprungslektionen des Kaffees — Terroir, Höhenlage, sorgfältige Aufbereitung — fast direkt auf das Verständnis der Schokoladenqualität übertragen lassen.",
+        "tip": "Frage, ob ein dir bekannter Kaffeeursprung auch Kakao produziert, und vergleiche die für beide verwendete Geschmackssprache.",
+        "mistake": "Kaffee und Schokolade als unabhängige Produkte zu behandeln, nur weil sie am Ende so unterschiedlich konsumiert werden.",
+        "challenge": "Warum könnten sich die Fähigkeiten eines Kaffeeeinkäufers leichter auf die Bewertung von Kakao übertragen als etwa auf die Bewertung von Tee?"
+      },
+      "fr": {
+        "title": "Origines partagées entre chocolat et café",
+        "definition": "Le cacao et le café sont souvent cultivés dans les mêmes régions tropicales et parfois dans les mêmes fermes, partageant des besoins climatiques et même certaines étapes de traitement comme la fermentation et le séchage.",
+        "why": "Ce chevauchement signifie que de nombreuses leçons d'origine du café — terroir, altitude, soin du traitement — se transfèrent presque directement à la compréhension de la qualité du chocolat.",
+        "tip": "Demandez-vous si une origine de café que vous connaissez produit aussi du cacao, et comparez le langage de saveur utilisé pour les deux.",
+        "mistake": "Traiter le café et le chocolat comme des produits sans rapport simplement parce qu'ils finissent consommés de façon si différente.",
+        "challenge": "Pourquoi les compétences d'un acheteur de café pourraient-elles se transférer plus facilement à l'évaluation du cacao qu'à celle, disons, du thé ?"
+      },
+      "it": {
+        "title": "Origini condivise tra cioccolato e caffè",
+        "definition": "Cacao e caffè sono spesso coltivati nelle stesse regioni tropicali e talvolta nelle stesse aziende agricole, condividendo esigenze climatiche e persino alcune fasi di lavorazione come fermentazione ed essiccazione.",
+        "why": "Questa sovrapposizione significa che molte lezioni di origine del caffè — terroir, altitudine, cura nella lavorazione — si trasferiscono quasi direttamente alla comprensione della qualità del cioccolato.",
+        "tip": "Chiediti se un'origine di caffè che conosci produce anche cacao, e confronta il linguaggio di sapore usato per entrambi.",
+        "mistake": "Trattare caffè e cioccolato come prodotti non correlati solo perché finiscono per essere consumati in modo così diverso.",
+        "challenge": "Perché le competenze di un acquirente di caffè potrebbero trasferirsi più facilmente alla valutazione del cacao che a quella, ad esempio, del tè?"
+      }
+    }
+  },
+  {
+    "number": "291",
+    "title": "Pairing Principles",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "291.jpg",
+    "definition": "Pairing across coffee, wine, whiskey, and chocolate follows shared logic: matching intensity levels, complementing or contrasting flavors, and avoiding one element overwhelming the other.",
+    "why": "A pairing principle learned in wine (match weight to weight) applies almost unchanged to building a coffee and dessert pairing.",
+    "tip": "Before designing a new coffee pairing, look at how a wine pairing guide frames the same basic decision.",
+    "mistake": "Assuming pairing knowledge doesn't transfer because the specific foods and drinks are different.",
+    "challenge": "Why might the underlying logic of a good pairing stay the same even when the specific items change completely?",
+    "related": [
+      "279",
+      "285"
+    ],
+    "translations": {
+      "es": {
+        "title": "Principios de maridaje",
+        "definition": "El maridaje entre café, vino, whisky y chocolate sigue una lógica compartida: igualar niveles de intensidad, complementar o contrastar sabores, y evitar que un elemento domine al otro.",
+        "why": "Un principio de maridaje aprendido en el vino (igualar peso con peso) se aplica casi sin cambios al crear un maridaje de café y postre.",
+        "tip": "Antes de diseñar un nuevo maridaje de café, observa cómo una guía de maridaje de vinos plantea la misma decisión básica.",
+        "mistake": "Suponer que el conocimiento de maridaje no se transfiere porque los alimentos y bebidas específicos son distintos.",
+        "challenge": "¿Por qué la lógica subyacente de un buen maridaje podría seguir siendo la misma aunque los elementos específicos cambien por completo?"
+      },
+      "pt": {
+        "title": "Princípios de harmonização",
+        "definition": "A harmonização entre café, vinho, uísque e chocolate segue uma lógica compartilhada: igualar níveis de intensidade, complementar ou contrastar sabores, e evitar que um elemento domine o outro.",
+        "why": "Um princípio de harmonização aprendido no vinho (igualar peso com peso) se aplica quase sem mudanças à criação de uma harmonização de café e sobremesa.",
+        "tip": "Antes de criar uma nova harmonização de café, veja como um guia de harmonização de vinhos aborda a mesma decisão básica.",
+        "mistake": "Supor que o conhecimento de harmonização não se transfere porque os alimentos e bebidas específicos são diferentes.",
+        "challenge": "Por que a lógica subjacente de uma boa harmonização pode permanecer a mesma mesmo quando os itens específicos mudam completamente?"
+      },
+      "de": {
+        "title": "Pairing-Prinzipien",
+        "definition": "Das Pairing bei Kaffee, Wein, Whisky und Schokolade folgt gemeinsamer Logik: Intensitätsstufen aneinander anpassen, Geschmäcker ergänzen oder kontrastieren und vermeiden, dass ein Element das andere überwältigt.",
+        "why": "Ein beim Wein gelerntes Pairing-Prinzip (Gewicht zu Gewicht abstimmen) lässt sich fast unverändert auf ein Kaffee-Dessert-Pairing anwenden.",
+        "tip": "Schau dir vor der Entwicklung eines neuen Kaffee-Pairings an, wie ein Weinpairing-Leitfaden dieselbe Grundentscheidung rahmt.",
+        "mistake": "Anzunehmen, Pairing-Wissen lasse sich nicht übertragen, nur weil die konkreten Speisen und Getränke unterschiedlich sind.",
+        "challenge": "Warum könnte die zugrundeliegende Logik eines guten Pairings gleich bleiben, auch wenn sich die konkreten Elemente völlig ändern?"
+      },
+      "fr": {
+        "title": "Principes d'accord",
+        "definition": "L'accord entre café, vin, whisky et chocolat suit une logique partagée : adapter les niveaux d'intensité, compléter ou contraster les saveurs, et éviter qu'un élément n'écrase l'autre.",
+        "why": "Un principe d'accord appris dans le vin (adapter le poids au poids) s'applique presque sans changement à la construction d'un accord café-dessert.",
+        "tip": "Avant de concevoir un nouvel accord café, regardez comment un guide d'accords vins présente la même décision de base.",
+        "mistake": "Supposer que la connaissance des accords ne se transfère pas parce que les aliments et boissons spécifiques diffèrent.",
+        "challenge": "Pourquoi la logique sous-jacente d'un bon accord pourrait-elle rester la même même lorsque les éléments spécifiques changent complètement ?"
+      },
+      "it": {
+        "title": "Principi di abbinamento",
+        "definition": "L'abbinamento tra caffè, vino, whisky e cioccolato segue una logica condivisa: far corrispondere i livelli di intensità, completare o contrastare i sapori, ed evitare che un elemento sovrasti l'altro.",
+        "why": "Un principio di abbinamento appreso nel vino (abbinare peso a peso) si applica quasi senza modifiche alla costruzione di un abbinamento caffè-dessert.",
+        "tip": "Prima di progettare un nuovo abbinamento con il caffè, guarda come una guida agli abbinamenti di vino inquadra la stessa decisione di base.",
+        "mistake": "Supporre che la conoscenza degli abbinamenti non si trasferisca perché i cibi e le bevande specifici sono diversi.",
+        "challenge": "Perché la logica di fondo di un buon abbinamento potrebbe rimanere la stessa anche quando gli elementi specifici cambiano completamente?"
+      }
+    }
+  },
+  {
+    "number": "292",
+    "title": "Judging Panels Compared",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "292.jpg",
+    "definition": "Coffee cupping panels, wine judging panels, and whiskey competition panels all use calibration, blind tasting, and structured scoring, though each with its own specific format.",
+    "why": "Studying another industry's judging format can reveal blind spots or improvements for coffee's own calibration and scoring practices.",
+    "tip": "Compare how a wine competition handles judge disagreement to how coffee cupping calibration handles the same problem.",
+    "mistake": "Assuming coffee cupping invented the concept of structured blind judging independently of other industries.",
+    "challenge": "Why might different industries converge on similar judging structures even without direct influence from one another?",
+    "related": [
+      "065",
+      "174"
+    ],
+    "translations": {
+      "es": {
+        "title": "Paneles de jueces comparados",
+        "definition": "Los paneles de cata de café, los paneles de jueces de vino y los paneles de competiciones de whisky usan calibración, cata a ciegas y puntuación estructurada, aunque cada uno con su propio formato específico.",
+        "why": "Estudiar el formato de juicio de otra industria puede revelar puntos ciegos o mejoras para las propias prácticas de calibración y puntuación del café.",
+        "tip": "Compara cómo una competición de vinos maneja el desacuerdo entre jueces con cómo la calibración de catación de café maneja el mismo problema.",
+        "mistake": "Suponer que la catación de café inventó el concepto de juicio estructurado a ciegas de forma independiente de otras industrias.",
+        "challenge": "¿Por qué distintas industrias podrían converger en estructuras de juicio similares incluso sin influencia directa entre ellas?"
+      },
+      "pt": {
+        "title": "Painéis de julgamento comparados",
+        "definition": "Os painéis de cupping de café, os painéis de julgamento de vinho e os painéis de competição de uísque usam calibração, degustação às cegas e pontuação estruturada, embora cada um com seu formato específico.",
+        "why": "Estudar o formato de julgamento de outra indústria pode revelar pontos cegos ou melhorias para as próprias práticas de calibração e pontuação do café.",
+        "tip": "Compare como uma competição de vinhos lida com o desacordo entre juízes com a forma como a calibração do cupping de café lida com o mesmo problema.",
+        "mistake": "Supor que o cupping de café inventou o conceito de julgamento estruturado às cegas de forma independente de outras indústrias.",
+        "challenge": "Por que diferentes indústrias podem convergir para estruturas de julgamento semelhantes mesmo sem influência direta entre si?"
+      },
+      "de": {
+        "title": "Jurygremien im Vergleich",
+        "definition": "Kaffee-Cupping-Panels, Weinjuroren und Whisky-Wettbewerbsjurys nutzen alle Kalibrierung, Blindverkostung und strukturierte Bewertung, jeweils jedoch mit eigenem spezifischem Format.",
+        "why": "Das Bewertungsformat einer anderen Branche zu studieren kann blinde Flecken oder Verbesserungen für die eigene Kalibrierungs- und Bewertungspraxis des Kaffees aufzeigen.",
+        "tip": "Vergleiche, wie ein Weinwettbewerb Uneinigkeit unter Juroren handhabt, mit der Art, wie die Kaffee-Cupping-Kalibrierung dasselbe Problem angeht.",
+        "mistake": "Anzunehmen, das Kaffee-Cupping habe das Konzept des strukturierten Blindjudgings unabhängig von anderen Branchen erfunden.",
+        "challenge": "Warum könnten verschiedene Branchen zu ähnlichen Bewertungsstrukturen gelangen, auch ohne direkten gegenseitigen Einfluss?"
+      },
+      "fr": {
+        "title": "Jurys de dégustation comparés",
+        "definition": "Les panels de cupping de café, les jurys de dégustation de vin et les panels de compétition de whisky utilisent tous calibrage, dégustation à l'aveugle et notation structurée, chacun avec son propre format spécifique.",
+        "why": "Étudier le format de jugement d'une autre industrie peut révéler des angles morts ou des améliorations pour les propres pratiques de calibrage et de notation du café.",
+        "tip": "Comparez comment une compétition de vin gère le désaccord entre juges à la façon dont le calibrage du cupping de café gère le même problème.",
+        "mistake": "Supposer que le cupping de café a inventé le concept de jugement à l'aveugle structuré indépendamment d'autres industries.",
+        "challenge": "Pourquoi différentes industries pourraient-elles converger vers des structures de jugement similaires même sans influence directe l'une sur l'autre ?"
+      },
+      "it": {
+        "title": "Giurie a confronto",
+        "definition": "I panel di cupping del caffè, le giurie di degustazione del vino e i panel di competizione del whisky usano tutti calibrazione, degustazione alla cieca e punteggio strutturato, ciascuno però con il proprio formato specifico.",
+        "why": "Studiare il formato di giudizio di un altro settore può rivelare punti ciechi o miglioramenti per le pratiche di calibrazione e punteggio del caffè.",
+        "tip": "Confronta come una competizione di vino gestisce il disaccordo tra giudici con come la calibrazione del cupping del caffè gestisce lo stesso problema.",
+        "mistake": "Supporre che il cupping del caffè abbia inventato il concetto di giudizio alla cieca strutturato indipendentemente da altri settori.",
+        "challenge": "Perché settori diversi potrebbero convergere su strutture di giudizio simili anche senza influenza diretta reciproca?"
+      }
+    }
+  },
+  {
+    "number": "293",
+    "title": "Off-Flavors Compared",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "293.jpg",
+    "definition": "Corked wine, quakers in coffee, and bloom in chocolate are all named, recognized faults specific to their category, each with a distinct cause and detection method.",
+    "why": "Learning how another industry names and trains detection of its faults can sharpen how precisely coffee professionals describe their own.",
+    "tip": "Ask a wine professional to describe cork taint in detail, then compare the precision of that description to how coffee describes a quaker.",
+    "mistake": "Assuming all off-flavor vocabulary is equally precise across categories just because each has named faults.",
+    "challenge": "Why might one industry's fault vocabulary be far more precise and widely understood than another's?",
+    "related": [
+      "108",
+      "073"
+    ],
+    "translations": {
+      "es": {
+        "title": "Defectos de sabor comparados",
+        "definition": "El vino con corcho, los quakers en el café y el bloom en el chocolate son defectos nombrados y reconocidos específicos de cada categoría, cada uno con una causa y un método de detección distintos.",
+        "why": "Aprender cómo otra industria nombra y entrena la detección de sus defectos puede afinar la precisión con la que los profesionales del café describen los suyos.",
+        "tip": "Pide a un profesional del vino que describa en detalle el defecto del corcho, y compara la precisión de esa descripción con cómo el café describe un quaker.",
+        "mistake": "Suponer que todo el vocabulario de defectos es igual de preciso entre categorías solo porque cada una tiene defectos nombrados.",
+        "challenge": "¿Por qué el vocabulario de defectos de una industria podría ser mucho más preciso y ampliamente entendido que el de otra?"
+      },
+      "pt": {
+        "title": "Defeitos de sabor comparados",
+        "definition": "O vinho com rolha, os quakers no café e o bloom no chocolate são defeitos nomeados e reconhecidos específicos de cada categoria, cada um com uma causa e um método de detecção distintos.",
+        "why": "Aprender como outra indústria nomeia e treina a detecção de seus defeitos pode aprimorar a precisão com que os profissionais do café descrevem os seus.",
+        "tip": "Peça a um profissional do vinho para descrever em detalhes o defeito da rolha, e compare a precisão dessa descrição com a forma como o café descreve um quaker.",
+        "mistake": "Supor que todo o vocabulário de defeitos é igualmente preciso entre categorias só porque cada uma tem defeitos nomeados.",
+        "challenge": "Por que o vocabulário de defeitos de uma indústria pode ser muito mais preciso e amplamente compreendido do que o de outra?"
+      },
+      "de": {
+        "title": "Fehlgeschmäcker im Vergleich",
+        "definition": "Korkgeschmack bei Wein, Quaker bei Kaffee und Fett- oder Zuckerreif bei Schokolade sind alle benannte, anerkannte Fehler, spezifisch für ihre Kategorie, jeweils mit eigener Ursache und Nachweismethode.",
+        "why": "Zu lernen, wie eine andere Branche ihre Fehler benennt und deren Erkennung trainiert, kann schärfen, wie präzise Kaffeeprofis ihre eigenen beschreiben.",
+        "tip": "Bitte einen Weinprofi, Korkfehler im Detail zu beschreiben, und vergleiche die Präzision dieser Beschreibung mit der Art, wie Kaffee einen Quaker beschreibt.",
+        "mistake": "Anzunehmen, das gesamte Fehlgeschmacksvokabular sei über Kategorien hinweg gleich präzise, nur weil jede benannte Fehler hat.",
+        "challenge": "Warum könnte das Fehlervokabular einer Branche weit präziser und breiter verstanden sein als das einer anderen?"
+      },
+      "fr": {
+        "title": "Défauts de saveur comparés",
+        "definition": "Le vin bouchonné, les quakers dans le café et le blanchiment dans le chocolat sont tous des défauts nommés et reconnus spécifiques à leur catégorie, chacun avec une cause et une méthode de détection distinctes.",
+        "why": "Apprendre comment une autre industrie nomme et entraîne la détection de ses défauts peut affiner la précision avec laquelle les professionnels du café décrivent les leurs.",
+        "tip": "Demandez à un professionnel du vin de décrire en détail le goût de bouchon, puis comparez la précision de cette description à la façon dont le café décrit un quaker.",
+        "mistake": "Supposer que tout le vocabulaire des défauts est également précis d'une catégorie à l'autre simplement parce que chacune a des défauts nommés.",
+        "challenge": "Pourquoi le vocabulaire des défauts d'une industrie pourrait-il être bien plus précis et largement compris que celui d'une autre ?"
+      },
+      "it": {
+        "title": "Difetti di sapore a confronto",
+        "definition": "Il vino di tappo, i quaker nel caffè e l'affioramento nel cioccolato sono tutti difetti nominati e riconosciuti specifici della loro categoria, ciascuno con una causa e un metodo di rilevamento distinti.",
+        "why": "Imparare come un altro settore nomina e allena il rilevamento dei propri difetti può affinare quanto precisamente i professionisti del caffè descrivono i propri.",
+        "tip": "Chiedi a un professionista del vino di descrivere in dettaglio il difetto del tappo, poi confronta la precisione di quella descrizione con come il caffè descrive un quaker.",
+        "mistake": "Supporre che tutto il vocabolario dei difetti sia ugualmente preciso tra le categorie solo perché ciascuna ha difetti nominati.",
+        "challenge": "Perché il vocabolario dei difetti di un settore potrebbe essere molto più preciso e ampiamente compreso di quello di un altro?"
+      }
+    }
+  },
+  {
+    "number": "294",
+    "title": "Palate Fatigue Across Industries",
+    "category": "XSN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "294.jpg",
+    "definition": "Sensory fatigue during long tasting sessions is a universal challenge across coffee cupping, wine judging, and whiskey competitions, not a coffee-specific problem.",
+    "why": "Techniques other industries use to manage fatigue — palate cleansers, session pacing, sample ordering — can be borrowed directly for coffee cupping sessions.",
+    "tip": "Look at how wine competitions structure judging breaks and palate cleansers, then apply a similar structure to long cupping sessions.",
+    "mistake": "Treating palate fatigue as something only inexperienced coffee tasters struggle with.",
+    "challenge": "Why would experienced judges across every tasting industry still build in breaks rather than relying on trained endurance alone?",
+    "related": [
+      "171",
+      "292"
+    ],
+    "translations": {
+      "es": {
+        "title": "La fatiga del paladar en distintas industrias",
+        "definition": "La fatiga sensorial durante sesiones de cata largas es un desafío universal en la catación de café, el juicio de vinos y las competiciones de whisky, no un problema exclusivo del café.",
+        "why": "Las técnicas que otras industrias usan para manejar la fatiga —limpiadores de paladar, ritmo de la sesión, orden de muestras— pueden tomarse prestadas directamente para sesiones de catación de café.",
+        "tip": "Observa cómo las competiciones de vino estructuran las pausas de juicio y los limpiadores de paladar, y luego aplica una estructura similar a sesiones largas de catación.",
+        "mistake": "Tratar la fatiga del paladar como algo con lo que solo luchan los catadores de café inexpertos.",
+        "challenge": "¿Por qué jueces experimentados en toda industria de cata seguirían incorporando pausas en lugar de confiar solo en la resistencia entrenada?"
+      },
+      "pt": {
+        "title": "A fadiga do palato em diferentes indústrias",
+        "definition": "A fadiga sensorial durante sessões longas de degustação é um desafio universal na catação de café, no julgamento de vinhos e nas competições de uísque, não um problema exclusivo do café.",
+        "why": "Técnicas que outras indústrias usam para gerenciar a fadiga — limpadores de palato, ritmo da sessão, ordem das amostras — podem ser emprestadas diretamente para sessões de cupping de café.",
+        "tip": "Observe como as competições de vinho estruturam pausas de julgamento e limpadores de palato, e depois aplique uma estrutura semelhante a sessões longas de cupping.",
+        "mistake": "Tratar a fadiga do palato como algo com que apenas provadores de café inexperientes lutam.",
+        "challenge": "Por que juízes experientes em toda indústria de degustação ainda incorporariam pausas em vez de confiar apenas na resistência treinada?"
+      },
+      "de": {
+        "title": "Gaumenermüdung branchenübergreifend",
+        "definition": "Sensorische Ermüdung während langer Verkostungssitzungen ist eine universelle Herausforderung bei Kaffee-Cupping, Weinjuroren und Whisky-Wettbewerben, kein kaffeespezifisches Problem.",
+        "why": "Techniken, die andere Branchen zur Bewältigung von Ermüdung nutzen — Gaumenreiniger, Sitzungstempo, Probenreihenfolge — können direkt für Kaffee-Cupping-Sitzungen übernommen werden.",
+        "tip": "Schau dir an, wie Weinwettbewerbe Bewertungspausen und Gaumenreiniger strukturieren, und wende eine ähnliche Struktur auf lange Cupping-Sitzungen an.",
+        "mistake": "Gaumenermüdung als etwas zu behandeln, mit dem nur unerfahrene Kaffeeverkoster zu kämpfen haben.",
+        "challenge": "Warum würden erfahrene Juroren in jeder Verkostungsbranche trotzdem Pausen einbauen, statt sich allein auf trainierte Ausdauer zu verlassen?"
+      },
+      "fr": {
+        "title": "La fatigue du palais dans différentes industries",
+        "definition": "La fatigue sensorielle pendant de longues séances de dégustation est un défi universel dans le cupping de café, le jugement de vin et les compétitions de whisky, pas un problème spécifique au café.",
+        "why": "Les techniques que d'autres industries utilisent pour gérer la fatigue — rince-palais, rythme des séances, ordre des échantillons — peuvent être directement empruntées pour les séances de cupping de café.",
+        "tip": "Regardez comment les compétitions de vin structurent les pauses de jugement et les rince-palais, puis appliquez une structure similaire aux longues séances de cupping.",
+        "mistake": "Traiter la fatigue du palais comme quelque chose avec lequel seuls les dégustateurs de café inexpérimentés luttent.",
+        "challenge": "Pourquoi des juges expérimentés dans chaque industrie de dégustation intégreraient-ils quand même des pauses plutôt que de compter uniquement sur une endurance entraînée ?"
+      },
+      "it": {
+        "title": "L'affaticamento del palato tra i settori",
+        "definition": "L'affaticamento sensoriale durante lunghe sessioni di degustazione è una sfida universale nel cupping del caffè, nel giudizio del vino e nelle competizioni di whisky, non un problema specifico del caffè.",
+        "why": "Le tecniche che altri settori usano per gestire l'affaticamento — detergenti per il palato, ritmo della sessione, ordine dei campioni — possono essere prese in prestito direttamente per le sessioni di cupping del caffè.",
+        "tip": "Guarda come le competizioni di vino strutturano le pause di giudizio e i detergenti per il palato, poi applica una struttura simile alle lunghe sessioni di cupping.",
+        "mistake": "Trattare l'affaticamento del palato come qualcosa con cui lottano solo gli assaggiatori di caffè inesperti.",
+        "challenge": "Perché giudici esperti in ogni settore della degustazione includerebbero comunque pause invece di affidarsi solo alla resistenza allenata?"
+      }
+    }
+  },
+  {
+    "number": "295",
+    "title": "Blind Tasting Methodology Compared",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "295.jpg",
+    "definition": "Blind tasting protocols in wine, whiskey, and coffee all aim to remove label bias, but differ in how strictly they control temperature, glassware, and sample order.",
+    "why": "A stricter blind protocol from one industry can expose weaknesses in how casually another industry sometimes runs its own blind tastings.",
+    "tip": "Compare how a wine competition randomizes sample order to how your own coffee cupping sessions are organized.",
+    "mistake": "Assuming any tasting done without visible labels automatically counts as a rigorous blind protocol.",
+    "challenge": "Why might a tasting be technically 'blind' but still carry hidden bias through other cues like glass shape or serving order?",
+    "related": [
+      "174",
+      "292"
+    ],
+    "translations": {
+      "es": {
+        "title": "Metodología de cata a ciegas comparada",
+        "definition": "Los protocolos de cata a ciegas en vino, whisky y café buscan todos eliminar el sesgo de etiqueta, pero difieren en cuán estrictamente controlan la temperatura, la cristalería y el orden de las muestras.",
+        "why": "Un protocolo a ciegas más estricto de una industria puede exponer debilidades en la forma a veces casual en que otra industria realiza sus propias catas a ciegas.",
+        "tip": "Compara cómo una competición de vinos aleatoriza el orden de las muestras con cómo se organizan tus propias sesiones de catación de café.",
+        "mistake": "Suponer que cualquier cata hecha sin etiquetas visibles cuenta automáticamente como un protocolo a ciegas riguroso.",
+        "challenge": "¿Por qué una cata podría ser técnicamente 'a ciegas' pero seguir teniendo sesgo oculto por otras señales como la forma de la copa o el orden de servicio?"
+      },
+      "pt": {
+        "title": "Metodologia de degustação às cegas comparada",
+        "definition": "Os protocolos de degustação às cegas em vinho, uísque e café buscam todos eliminar o viés de rótulo, mas diferem em quão rigorosamente controlam temperatura, taças e ordem das amostras.",
+        "why": "Um protocolo às cegas mais rigoroso de uma indústria pode expor fraquezas na forma às vezes casual como outra indústria conduz suas próprias degustações às cegas.",
+        "tip": "Compare como uma competição de vinhos randomiza a ordem das amostras com a forma como suas próprias sessões de cupping de café são organizadas.",
+        "mistake": "Supor que qualquer degustação feita sem rótulos visíveis conta automaticamente como um protocolo às cegas rigoroso.",
+        "challenge": "Por que uma degustação pode ser tecnicamente 'às cegas' mas ainda carregar viés oculto por meio de outras pistas como formato da taça ou ordem de serviço?"
+      },
+      "de": {
+        "title": "Blindverkostungsmethodik im Vergleich",
+        "definition": "Blindverkostungsprotokolle bei Wein, Whisky und Kaffee zielen alle darauf ab, Etikettenverzerrung zu entfernen, unterscheiden sich aber darin, wie streng sie Temperatur, Gläser und Probenreihenfolge kontrollieren.",
+        "why": "Ein strengeres Blindprotokoll einer Branche kann Schwächen in der manchmal lockereren Art aufzeigen, wie eine andere Branche ihre eigenen Blindverkostungen durchführt.",
+        "tip": "Vergleiche, wie ein Weinwettbewerb die Probenreihenfolge randomisiert, mit der Organisation deiner eigenen Kaffee-Cupping-Sitzungen.",
+        "mistake": "Anzunehmen, jede ohne sichtbare Etiketten durchgeführte Verkostung zähle automatisch als rigoroses Blindprotokoll.",
+        "challenge": "Warum könnte eine Verkostung technisch 'blind' sein, aber trotzdem versteckte Verzerrung durch andere Hinweise wie Glasform oder Servierreihenfolge tragen?"
+      },
+      "fr": {
+        "title": "Méthodologie de dégustation à l'aveugle comparée",
+        "definition": "Les protocoles de dégustation à l'aveugle dans le vin, le whisky et le café visent tous à éliminer le biais d'étiquette, mais diffèrent dans la rigueur avec laquelle ils contrôlent température, verrerie et ordre des échantillons.",
+        "why": "Un protocole à l'aveugle plus strict d'une industrie peut exposer des faiblesses dans la façon parfois désinvolte dont une autre industrie mène ses propres dégustations à l'aveugle.",
+        "tip": "Comparez comment une compétition de vin randomise l'ordre des échantillons à la façon dont vos propres séances de cupping de café sont organisées.",
+        "mistake": "Supposer que toute dégustation faite sans étiquettes visibles compte automatiquement comme un protocole à l'aveugle rigoureux.",
+        "challenge": "Pourquoi une dégustation pourrait-elle être techniquement « à l'aveugle » mais porter quand même un biais caché via d'autres indices comme la forme du verre ou l'ordre de service ?"
+      },
+      "it": {
+        "title": "Metodologia di degustazione alla cieca a confronto",
+        "definition": "I protocolli di degustazione alla cieca nel vino, nel whisky e nel caffè mirano tutti a rimuovere il pregiudizio da etichetta, ma differiscono nella rigidità con cui controllano temperatura, bicchieri e ordine dei campioni.",
+        "why": "Un protocollo alla cieca più rigoroso di un settore può rivelare debolezze nel modo talvolta casuale in cui un altro settore conduce le proprie degustazioni alla cieca.",
+        "tip": "Confronta come una competizione di vino randomizza l'ordine dei campioni con come sono organizzate le tue sessioni di cupping del caffè.",
+        "mistake": "Supporre che qualsiasi degustazione fatta senza etichette visibili conti automaticamente come un protocollo alla cieca rigoroso.",
+        "challenge": "Perché una degustazione potrebbe essere tecnicamente 'alla cieca' ma comunque portare un pregiudizio nascosto tramite altri indizi come la forma del bicchiere o l'ordine di servizio?"
+      }
+    }
+  },
+  {
+    "number": "296",
+    "title": "Building a Cross-Trained Palate",
+    "category": "XSN",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "296.jpg",
+    "definition": "A cross-trained palate is developed by deliberately tasting across categories — coffee, wine, whiskey, chocolate — and actively comparing sensations rather than treating each as isolated practice.",
+    "why": "Sensory skill built in one category strengthens general tasting ability, but only if the learner actively draws the comparisons rather than tasting each category in isolation.",
+    "tip": "After tasting a new coffee, ask yourself what it would remind you of in wine, whiskey, or chocolate terms, even as a rough exercise.",
+    "mistake": "Assuming cross-category exposure alone builds skill without deliberate comparison and reflection.",
+    "challenge": "Why might simply drinking wine, whiskey, and coffee separately for years fail to build a genuinely cross-trained palate?",
+    "related": [
+      "279",
+      "291"
+    ],
+    "translations": {
+      "es": {
+        "title": "Desarrollar un paladar entrenado entre categorías",
+        "definition": "Un paladar entrenado entre categorías se desarrolla catando deliberadamente entre categorías —café, vino, whisky, chocolate— y comparando activamente las sensaciones en lugar de tratar cada una como una práctica aislada.",
+        "why": "La habilidad sensorial desarrollada en una categoría refuerza la capacidad de cata general, pero solo si quien aprende establece activamente las comparaciones en lugar de catar cada categoría de forma aislada.",
+        "tip": "Después de catar un café nuevo, pregúntate a qué te recordaría en términos de vino, whisky o chocolate, aunque sea como ejercicio aproximado.",
+        "mistake": "Suponer que la sola exposición entre categorías desarrolla habilidad sin comparación y reflexión deliberadas.",
+        "challenge": "¿Por qué simplemente beber vino, whisky y café por separado durante años podría no lograr desarrollar un paladar genuinamente entrenado entre categorías?"
+      },
+      "pt": {
+        "title": "Desenvolvendo um palato treinado entre categorias",
+        "definition": "Um palato treinado entre categorias se desenvolve degustando deliberadamente entre categorias — café, vinho, uísque, chocolate — e comparando ativamente as sensações em vez de tratar cada uma como uma prática isolada.",
+        "why": "A habilidade sensorial desenvolvida em uma categoria fortalece a capacidade geral de degustação, mas só se quem aprende traçar ativamente as comparações em vez de degustar cada categoria isoladamente.",
+        "tip": "Depois de degustar um café novo, pergunte-se do que ele lembraria em termos de vinho, uísque ou chocolate, mesmo como exercício aproximado.",
+        "mistake": "Supor que a mera exposição entre categorias desenvolve habilidade sem comparação e reflexão deliberadas.",
+        "challenge": "Por que simplesmente beber vinho, uísque e café separadamente por anos pode não conseguir desenvolver um palato genuinamente treinado entre categorias?"
+      },
+      "de": {
+        "title": "Aufbau eines kategorienübergreifend trainierten Gaumens",
+        "definition": "Ein kategorienübergreifend trainierter Gaumen entwickelt sich durch bewusstes Verkosten über Kategorien hinweg — Kaffee, Wein, Whisky, Schokolade — und aktives Vergleichen von Empfindungen, statt jede als isolierte Übung zu behandeln.",
+        "why": "In einer Kategorie erworbene sensorische Fähigkeit stärkt die allgemeine Verkostungsfähigkeit, aber nur, wenn der Lernende aktiv Vergleiche zieht, statt jede Kategorie isoliert zu verkosten.",
+        "tip": "Frage dich nach dem Verkosten eines neuen Kaffees, woran er dich in Wein-, Whisky- oder Schokoladenbegriffen erinnern würde, auch nur als grobe Übung.",
+        "mistake": "Anzunehmen, bloße kategorienübergreifende Erfahrung allein baue Fähigkeit auf ohne bewussten Vergleich und Reflexion.",
+        "challenge": "Warum könnte es scheitern, jahrelang einfach getrennt Wein, Whisky und Kaffee zu trinken, um einen wirklich kategorienübergreifend trainierten Gaumen aufzubauen?"
+      },
+      "fr": {
+        "title": "Développer un palais entraîné à travers les catégories",
+        "definition": "Un palais entraîné à travers les catégories se développe en dégustant délibérément à travers les catégories — café, vin, whisky, chocolat — et en comparant activement les sensations plutôt qu'en traitant chacune comme une pratique isolée.",
+        "why": "La compétence sensorielle acquise dans une catégorie renforce la capacité générale de dégustation, mais seulement si l'apprenant établit activement les comparaisons plutôt que de déguster chaque catégorie isolément.",
+        "tip": "Après avoir goûté un nouveau café, demandez-vous ce qu'il vous rappellerait en termes de vin, whisky ou chocolat, même comme exercice approximatif.",
+        "mistake": "Supposer que la simple exposition à travers les catégories développe la compétence sans comparaison et réflexion délibérées.",
+        "challenge": "Pourquoi le simple fait de boire séparément du vin, du whisky et du café pendant des années pourrait-il échouer à développer un palais véritablement entraîné à travers les catégories ?"
+      },
+      "it": {
+        "title": "Costruire un palato allenato tra le categorie",
+        "definition": "Un palato allenato tra le categorie si sviluppa degustando deliberatamente tra categorie — caffè, vino, whisky, cioccolato — e confrontando attivamente le sensazioni invece di trattare ciascuna come una pratica isolata.",
+        "why": "L'abilità sensoriale sviluppata in una categoria rafforza la capacità generale di degustazione, ma solo se chi apprende traccia attivamente i confronti invece di degustare ogni categoria in isolamento.",
+        "tip": "Dopo aver degustato un nuovo caffè, chiediti a cosa ti ricorderebbe in termini di vino, whisky o cioccolato, anche solo come esercizio approssimativo.",
+        "mistake": "Supporre che la sola esposizione tra categorie sviluppi abilità senza confronto e riflessione deliberati.",
+        "challenge": "Perché semplicemente bere vino, whisky e caffè separatamente per anni potrebbe non riuscire a costruire un palato genuinamente allenato tra le categorie?"
+      }
+    }
+  }
+]
