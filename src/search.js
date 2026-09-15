@@ -42,7 +42,8 @@ const CATEGORY_NAMES = {
     CAS: "Cascara & Byproducts",
     XSN: "Cross-Category Sensory",
     DEC: "Decaf",
-    HAC: "Food Safety"
+    HAC: "Food Safety",
+    WTR: "Water"
 };
 
 const search = document.getElementById("search");

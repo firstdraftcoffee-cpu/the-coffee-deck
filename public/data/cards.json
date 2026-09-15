@@ -23659,5 +23659,965 @@
       }
     },
     "id": 330
+  },
+  {
+    "number": "331",
+    "title": "Why Water Chemistry Matters",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "331.jpg",
+    "definition": "Water makes up roughly 98% of a brewed cup, meaning its mineral content directly shapes extraction and final flavor as much as the coffee itself.",
+    "why": "Ignoring water while obsessing over grind, dose, and roast means ignoring the single largest ingredient in the cup.",
+    "tip": "Change only your water source once, with everything else identical, to genuinely taste its impact in isolation.",
+    "mistake": "Assuming water is a neutral, flavorless base that can't meaningfully affect the final cup.",
+    "challenge": "Why might two identical brewing setups produce noticeably different results using water from two different taps?",
+    "related": [
+      "005",
+      "332"
+    ],
+    "translations": {
+      "es": {
+        "title": "Por qué importa la química del agua",
+        "definition": "El agua constituye aproximadamente el 98% de una taza preparada, lo que significa que su contenido mineral moldea directamente la extracción y el sabor final tanto como el propio café.",
+        "why": "Ignorar el agua mientras se obsesiona con el molido, la dosis y el tueste significa ignorar el ingrediente individual más grande de la taza.",
+        "tip": "Cambia solo tu fuente de agua una vez, manteniendo todo lo demás idéntico, para saborear genuinamente su impacto de forma aislada.",
+        "mistake": "Suponer que el agua es una base neutra y sin sabor que no puede afectar significativamente a la taza final.",
+        "challenge": "¿Por qué dos configuraciones de preparación idénticas podrían producir resultados notablemente distintos usando agua de dos grifos diferentes?"
+      },
+      "pt": {
+        "title": "Por que a química da água importa",
+        "definition": "A água constitui cerca de 98% de uma xícara preparada, o que significa que seu conteúdo mineral molda diretamente a extração e o sabor final tanto quanto o próprio café.",
+        "why": "Ignorar a água enquanto se obcecar com moagem, dose e torra significa ignorar o maior ingrediente individual da xícara.",
+        "tip": "Mude apenas sua fonte de água uma vez, mantendo tudo o mais idêntico, para realmente sentir seu impacto isoladamente.",
+        "mistake": "Supor que a água é uma base neutra e sem sabor que não pode afetar significativamente a xícara final.",
+        "challenge": "Por que duas configurações de preparo idênticas podem produzir resultados notavelmente diferentes usando água de duas torneiras diferentes?"
+      },
+      "de": {
+        "title": "Warum Wasserchemie wichtig ist",
+        "definition": "Wasser macht etwa 98% einer gebrühten Tasse aus, was bedeutet, dass sein Mineralgehalt Extraktion und Endgeschmack ebenso direkt prägt wie der Kaffee selbst.",
+        "why": "Wasser zu ignorieren, während man sich auf Mahlgrad, Dosis und Röstung fixiert, bedeutet, die einzelne größte Zutat in der Tasse zu ignorieren.",
+        "tip": "Ändere nur einmal deine Wasserquelle, bei ansonsten identischen Bedingungen, um ihren Einfluss wirklich isoliert zu schmecken.",
+        "mistake": "Anzunehmen, Wasser sei eine neutrale, geschmacklose Basis, die die fertige Tasse nicht bedeutsam beeinflussen kann.",
+        "challenge": "Warum könnten zwei identische Brüheinrichtungen mit Wasser aus zwei verschiedenen Wasserhähnen spürbar unterschiedliche Ergebnisse liefern?"
+      },
+      "fr": {
+        "title": "Pourquoi la chimie de l'eau compte",
+        "definition": "L'eau représente environ 98% d'une tasse infusée, ce qui signifie que sa teneur en minéraux façonne directement l'extraction et la saveur finale autant que le café lui-même.",
+        "why": "Ignorer l'eau tout en s'obsédant sur la mouture, la dose et la torréfaction revient à ignorer le plus grand ingrédient individuel de la tasse.",
+        "tip": "Changez uniquement votre source d'eau une fois, en gardant tout le reste identique, pour goûter réellement son impact isolément.",
+        "mistake": "Supposer que l'eau est une base neutre et sans saveur qui ne peut pas affecter significativement la tasse finale.",
+        "challenge": "Pourquoi deux configurations d'infusion identiques pourraient-elles produire des résultats sensiblement différents en utilisant l'eau de deux robinets différents ?"
+      },
+      "it": {
+        "title": "Perché la chimica dell'acqua è importante",
+        "definition": "L'acqua costituisce circa il 98% di una tazza preparata, il che significa che il suo contenuto minerale plasma direttamente l'estrazione e il sapore finale tanto quanto il caffè stesso.",
+        "why": "Ignorare l'acqua mentre ci si ossessiona su macinatura, dose e tostatura significa ignorare il singolo ingrediente più grande nella tazza.",
+        "tip": "Cambia solo la tua fonte d'acqua una volta, mantenendo tutto il resto identico, per assaggiare genuinamente il suo impatto isolatamente.",
+        "mistake": "Supporre che l'acqua sia una base neutra e senza sapore che non può influenzare significativamente la tazza finale.",
+        "challenge": "Perché due configurazioni di preparazione identiche potrebbero produrre risultati notevolmente diversi usando acqua da due rubinetti diversi?"
+      }
+    },
+    "id": 331
+  },
+  {
+    "number": "332",
+    "title": "Total Dissolved Solids (TDS)",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "332.jpg",
+    "definition": "TDS measures the total concentration of dissolved minerals and other substances in water, expressed in parts per million (ppm).",
+    "why": "Water with too little TDS extracts flat and lifeless coffee, while too much can extract muddled, over-mineralized flavor.",
+    "tip": "Test your water's TDS with an inexpensive handheld meter before assuming it falls in a good brewing range.",
+    "mistake": "Confusing water TDS (a property of the water alone) with brewed coffee TDS (a measure of the finished drink).",
+    "challenge": "Why are water TDS and coffee TDS measuring genuinely different things, despite sharing the same term?",
+    "related": [
+      "331",
+      "333"
+    ],
+    "translations": {
+      "es": {
+        "title": "Sólidos disueltos totales (TDS)",
+        "definition": "El TDS mide la concentración total de minerales disueltos y otras sustancias en el agua, expresada en partes por millón (ppm).",
+        "why": "El agua con muy poco TDS extrae un café plano y sin vida, mientras que demasiado puede extraer un sabor confuso y sobremineralizado.",
+        "tip": "Prueba el TDS de tu agua con un medidor portátil económico antes de suponer que se encuentra en un buen rango de preparación.",
+        "mistake": "Confundir el TDS del agua (una propiedad del agua sola) con el TDS del café preparado (una medida de la bebida terminada).",
+        "challenge": "¿Por qué el TDS del agua y el TDS del café miden en realidad cosas distintas, pese a compartir el mismo término?"
+      },
+      "pt": {
+        "title": "Sólidos dissolvidos totais (TDS)",
+        "definition": "O TDS mede a concentração total de minerais dissolvidos e outras substâncias na água, expressa em partes por milhão (ppm).",
+        "why": "Água com muito pouco TDS extrai café plano e sem vida, enquanto demais pode extrair sabor confuso e supermineralizado.",
+        "tip": "Teste o TDS da sua água com um medidor portátil barato antes de supor que ela se encaixa em uma boa faixa de preparo.",
+        "mistake": "Confundir o TDS da água (uma propriedade da água sozinha) com o TDS do café preparado (uma medida da bebida final).",
+        "challenge": "Por que o TDS da água e o TDS do café estão medindo coisas realmente diferentes, apesar de compartilharem o mesmo termo?"
+      },
+      "de": {
+        "title": "Gesamte gelöste Feststoffe (TDS)",
+        "definition": "TDS misst die Gesamtkonzentration gelöster Mineralien und anderer Stoffe im Wasser, ausgedrückt in Teilen pro Million (ppm).",
+        "why": "Wasser mit zu wenig TDS extrahiert flachen, leblosen Kaffee, während zu viel unklaren, übermineralisierten Geschmack extrahieren kann.",
+        "tip": "Teste den TDS-Wert deines Wassers mit einem günstigen Handmessgerät, bevor du annimmst, er liege in einem guten Brühbereich.",
+        "mistake": "Wasser-TDS (eine Eigenschaft des Wassers allein) mit Kaffee-TDS (ein Maß des fertigen Getränks) zu verwechseln.",
+        "challenge": "Warum messen Wasser-TDS und Kaffee-TDS tatsächlich unterschiedliche Dinge, obwohl sie denselben Begriff teilen?"
+      },
+      "fr": {
+        "title": "Solides dissous totaux (TDS)",
+        "definition": "Le TDS mesure la concentration totale de minéraux dissous et d'autres substances dans l'eau, exprimée en parties par million (ppm).",
+        "why": "Une eau avec trop peu de TDS extrait un café plat et sans vie, tandis que trop en extrait une saveur confuse et sur-minéralisée.",
+        "tip": "Testez le TDS de votre eau avec un appareil portatif peu coûteux avant de supposer qu'elle se situe dans une bonne plage d'infusion.",
+        "mistake": "Confondre le TDS de l'eau (une propriété de l'eau seule) avec le TDS du café infusé (une mesure de la boisson finie).",
+        "challenge": "Pourquoi le TDS de l'eau et le TDS du café mesurent-ils réellement des choses différentes, malgré le partage du même terme ?"
+      },
+      "it": {
+        "title": "Solidi disciolti totali (TDS)",
+        "definition": "Il TDS misura la concentrazione totale di minerali disciolti e altre sostanze nell'acqua, espressa in parti per milione (ppm).",
+        "why": "Un'acqua con troppo poco TDS estrae un caffè piatto e senza vita, mentre troppo può estrarre un sapore confuso e sovramineralizzato.",
+        "tip": "Testa il TDS della tua acqua con un misuratore portatile economico prima di supporre che rientri in un buon intervallo di preparazione.",
+        "mistake": "Confondere il TDS dell'acqua (una proprietà della sola acqua) con il TDS del caffè preparato (una misura della bevanda finita).",
+        "challenge": "Perché il TDS dell'acqua e il TDS del caffè misurano in realtà cose diverse, nonostante condividano lo stesso termine?"
+      }
+    },
+    "id": 332
+  },
+  {
+    "number": "333",
+    "title": "Water Hardness",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "333.jpg",
+    "definition": "Water hardness measures the concentration of calcium and magnesium specifically, which drive both scale formation and much of coffee's extraction efficiency.",
+    "why": "These two minerals in particular bond with flavor compounds during brewing, meaning hardness affects taste, not just equipment maintenance.",
+    "tip": "Distinguish general hardness (mostly calcium and magnesium) from total TDS, since they measure related but different things.",
+    "mistake": "Treating hardness and TDS as interchangeable measurements.",
+    "challenge": "Why might two waters with identical TDS readings still brew noticeably differently based on hardness alone?",
+    "related": [
+      "332",
+      "334"
+    ],
+    "translations": {
+      "es": {
+        "title": "Dureza del agua",
+        "definition": "La dureza del agua mide específicamente la concentración de calcio y magnesio, que impulsan tanto la formación de cal como gran parte de la eficiencia de extracción del café.",
+        "why": "Estos dos minerales en particular se unen a los compuestos de sabor durante la preparación, lo que significa que la dureza afecta al sabor, no solo al mantenimiento del equipo.",
+        "tip": "Distingue la dureza general (principalmente calcio y magnesio) del TDS total, ya que miden cosas relacionadas pero distintas.",
+        "mistake": "Tratar la dureza y el TDS como medidas intercambiables.",
+        "challenge": "¿Por qué dos aguas con lecturas de TDS idénticas podrían seguir preparando café notablemente distinto basándose solo en la dureza?"
+      },
+      "pt": {
+        "title": "Dureza da água",
+        "definition": "A dureza da água mede especificamente a concentração de cálcio e magnésio, que impulsionam tanto a formação de calcário quanto grande parte da eficiência de extração do café.",
+        "why": "Esses dois minerais em particular se ligam aos compostos de sabor durante o preparo, o que significa que a dureza afeta o sabor, não apenas a manutenção do equipamento.",
+        "tip": "Distinga a dureza geral (principalmente cálcio e magnésio) do TDS total, já que medem coisas relacionadas mas diferentes.",
+        "mistake": "Tratar dureza e TDS como medidas intercambiáveis.",
+        "challenge": "Por que duas águas com leituras de TDS idênticas podem ainda preparar café notavelmente diferente com base apenas na dureza?"
+      },
+      "de": {
+        "title": "Wasserhärte",
+        "definition": "Wasserhärte misst spezifisch die Konzentration von Kalzium und Magnesium, die sowohl Kalkbildung als auch einen Großteil der Extraktionseffizienz des Kaffees antreiben.",
+        "why": "Diese beiden Mineralien binden sich beim Brühen speziell an Geschmacksverbindungen, was bedeutet, dass Härte den Geschmack beeinflusst, nicht nur die Gerätewartung.",
+        "tip": "Unterscheide allgemeine Härte (hauptsächlich Kalzium und Magnesium) vom Gesamt-TDS, da sie verwandte, aber unterschiedliche Dinge messen.",
+        "mistake": "Härte und TDS als austauschbare Messungen zu behandeln.",
+        "challenge": "Warum könnten zwei Wässer mit identischen TDS-Werten allein aufgrund der Härte trotzdem spürbar unterschiedlich brühen?"
+      },
+      "fr": {
+        "title": "Dureté de l'eau",
+        "definition": "La dureté de l'eau mesure spécifiquement la concentration de calcium et de magnésium, qui pilotent à la fois la formation de tartre et une grande partie de l'efficacité d'extraction du café.",
+        "why": "Ces deux minéraux en particulier se lient aux composés aromatiques pendant l'infusion, ce qui signifie que la dureté affecte le goût, pas seulement l'entretien de l'équipement.",
+        "tip": "Distinguez la dureté générale (principalement calcium et magnésium) du TDS total, car ils mesurent des choses liées mais différentes.",
+        "mistake": "Traiter dureté et TDS comme des mesures interchangeables.",
+        "challenge": "Pourquoi deux eaux avec des relevés de TDS identiques pourraient-elles quand même infuser de façon sensiblement différente selon la seule dureté ?"
+      },
+      "it": {
+        "title": "Durezza dell'acqua",
+        "definition": "La durezza dell'acqua misura specificamente la concentrazione di calcio e magnesio, che guidano sia la formazione di calcare sia gran parte dell'efficienza di estrazione del caffè.",
+        "why": "Questi due minerali in particolare si legano ai composti di sapore durante la preparazione, il che significa che la durezza influisce sul gusto, non solo sulla manutenzione dell'attrezzatura.",
+        "tip": "Distingui la durezza generale (principalmente calcio e magnesio) dal TDS totale, poiché misurano cose correlate ma diverse.",
+        "mistake": "Trattare durezza e TDS come misure intercambiabili.",
+        "challenge": "Perché due acque con letture di TDS identiche potrebbero comunque preparare caffè notevolmente diverso in base alla sola durezza?"
+      }
+    },
+    "id": 333
+  },
+  {
+    "number": "334",
+    "title": "SCA Water Standards",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "334.jpg",
+    "definition": "The Specialty Coffee Association publishes target ranges for TDS, hardness, alkalinity, pH, and sodium, offering a benchmark for what makes water suitable for brewing.",
+    "why": "Having a published standard gives cafés and roasters a concrete target instead of guessing at what 'good' brewing water means.",
+    "tip": "Use the SCA standard as a starting reference point, then adjust based on your own cupping results rather than following it blindly.",
+    "mistake": "Assuming any published standard applies perfectly to your specific water source and equipment without verification.",
+    "challenge": "Why might a published industry standard still need local adaptation rather than universal application?",
+    "related": [
+      "331",
+      "332"
+    ],
+    "translations": {
+      "es": {
+        "title": "Estándares de agua de la SCA",
+        "definition": "La Specialty Coffee Association publica rangos objetivo para TDS, dureza, alcalinidad, pH y sodio, ofreciendo un punto de referencia sobre qué hace que el agua sea adecuada para preparar café.",
+        "why": "Tener un estándar publicado da a cafeterías y tostadores un objetivo concreto en lugar de adivinar qué significa 'buena' agua de preparación.",
+        "tip": "Usa el estándar de la SCA como punto de referencia inicial, y luego ajusta según tus propios resultados de catación en lugar de seguirlo ciegamente.",
+        "mistake": "Suponer que cualquier estándar publicado se aplica perfectamente a tu fuente de agua y equipo específicos sin verificación.",
+        "challenge": "¿Por qué un estándar de la industria publicado podría necesitar aun así adaptación local en lugar de aplicación universal?"
+      },
+      "pt": {
+        "title": "Padrões de água da SCA",
+        "definition": "A Specialty Coffee Association publica faixas-alvo para TDS, dureza, alcalinidade, pH e sódio, oferecendo um ponto de referência do que torna a água adequada para o preparo.",
+        "why": "Ter um padrão publicado dá a cafeterias e torrefadores um objetivo concreto em vez de adivinhar o que significa 'boa' água de preparo.",
+        "tip": "Use o padrão da SCA como ponto de referência inicial, e depois ajuste com base em seus próprios resultados de cupping em vez de segui-lo cegamente.",
+        "mistake": "Supor que qualquer padrão publicado se aplica perfeitamente à sua fonte de água e equipamento específicos sem verificação.",
+        "challenge": "Por que um padrão publicado da indústria pode ainda precisar de adaptação local em vez de aplicação universal?"
+      },
+      "de": {
+        "title": "SCA-Wasserstandards",
+        "definition": "Die Specialty Coffee Association veröffentlicht Zielbereiche für TDS, Härte, Alkalität, pH-Wert und Natrium und bietet damit einen Maßstab dafür, was Wasser zum Brühen geeignet macht.",
+        "why": "Ein veröffentlichter Standard gibt Cafés und Röstern ein konkretes Ziel, statt zu raten, was 'gutes' Brühwasser bedeutet.",
+        "tip": "Nutze den SCA-Standard als anfänglichen Referenzpunkt und passe ihn dann basierend auf deinen eigenen Cupping-Ergebnissen an, statt ihn blind zu befolgen.",
+        "mistake": "Anzunehmen, ein veröffentlichter Standard passe perfekt auf deine spezifische Wasserquelle und Ausrüstung, ohne es zu überprüfen.",
+        "challenge": "Warum könnte ein veröffentlichter Branchenstandard trotzdem lokale Anpassung statt universeller Anwendung benötigen?"
+      },
+      "fr": {
+        "title": "Normes de l'eau de la SCA",
+        "definition": "La Specialty Coffee Association publie des plages cibles pour TDS, dureté, alcalinité, pH et sodium, offrant un repère de ce qui rend l'eau adaptée à l'infusion.",
+        "why": "Avoir une norme publiée donne aux cafés et torréfacteurs un objectif concret plutôt que de deviner ce que signifie une « bonne » eau d'infusion.",
+        "tip": "Utilisez la norme SCA comme point de référence de départ, puis ajustez selon vos propres résultats de dégustation plutôt que de la suivre aveuglément.",
+        "mistake": "Supposer qu'une norme publiée s'applique parfaitement à votre source d'eau et équipement spécifiques sans vérification.",
+        "challenge": "Pourquoi une norme industrielle publiée pourrait-elle quand même nécessiter une adaptation locale plutôt qu'une application universelle ?"
+      },
+      "it": {
+        "title": "Standard sull'acqua della SCA",
+        "definition": "La Specialty Coffee Association pubblica intervalli target per TDS, durezza, alcalinità, pH e sodio, offrendo un riferimento su cosa renda l'acqua adatta alla preparazione.",
+        "why": "Avere uno standard pubblicato dà a bar e torrefattori un obiettivo concreto invece di indovinare cosa significhi 'buona' acqua di preparazione.",
+        "tip": "Usa lo standard SCA come punto di riferimento iniziale, poi regola in base ai tuoi risultati di cupping invece di seguirlo ciecamente.",
+        "mistake": "Supporre che qualsiasi standard pubblicato si applichi perfettamente alla tua specifica fonte d'acqua e attrezzatura senza verifica.",
+        "challenge": "Perché uno standard di settore pubblicato potrebbe comunque richiedere un adattamento locale invece di un'applicazione universale?"
+      }
+    },
+    "id": 334
+  },
+  {
+    "number": "335",
+    "title": "Alkalinity & pH",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "335.jpg",
+    "definition": "Alkalinity measures water's ability to resist pH change (its buffering capacity), while pH measures actual acidity or basicity at a single moment.",
+    "why": "High alkalinity can buffer against and mute the perceived acidity of coffee, flattening a cup regardless of the bean's own bright characteristics.",
+    "tip": "Check alkalinity specifically if a normally bright, acidic coffee tastes unexpectedly flat with your water.",
+    "mistake": "Assuming pH alone tells the whole story of how water will affect extraction, without considering alkalinity.",
+    "challenge": "Why could two waters with the same starting pH behave very differently once they interact with coffee's natural acids?",
+    "related": [
+      "331",
+      "334"
+    ],
+    "translations": {
+      "es": {
+        "title": "Alcalinidad y pH",
+        "definition": "La alcalinidad mide la capacidad del agua para resistir cambios de pH (su capacidad amortiguadora), mientras que el pH mide la acidez o basicidad real en un momento dado.",
+        "why": "Una alta alcalinidad puede amortiguar y silenciar la acidez percibida del café, aplanando una taza sin importar las características brillantes propias del grano.",
+        "tip": "Revisa la alcalinidad específicamente si un café normalmente brillante y ácido sabe inesperadamente plano con tu agua.",
+        "mistake": "Suponer que el pH por sí solo cuenta toda la historia de cómo afectará el agua a la extracción, sin considerar la alcalinidad.",
+        "challenge": "¿Por qué dos aguas con el mismo pH inicial podrían comportarse de forma muy distinta al interactuar con los ácidos naturales del café?"
+      },
+      "pt": {
+        "title": "Alcalinidade e pH",
+        "definition": "A alcalinidade mede a capacidade da água de resistir a mudanças de pH (sua capacidade tamponante), enquanto o pH mede a acidez ou basicidade real em um dado momento.",
+        "why": "Uma alta alcalinidade pode tamponar e silenciar a acidez percebida do café, achatando uma xícara independentemente das características brilhantes próprias do grão.",
+        "tip": "Verifique a alcalinidade especificamente se um café normalmente brilhante e ácido tiver gosto inesperadamente plano com sua água.",
+        "mistake": "Supor que o pH sozinho conta toda a história de como a água afetará a extração, sem considerar a alcalinidade.",
+        "challenge": "Por que duas águas com o mesmo pH inicial podem se comportar de forma muito diferente ao interagir com os ácidos naturais do café?"
+      },
+      "de": {
+        "title": "Alkalität und pH-Wert",
+        "definition": "Alkalität misst die Fähigkeit des Wassers, pH-Veränderungen zu widerstehen (seine Pufferkapazität), während der pH-Wert tatsächliche Säure oder Basizität in einem bestimmten Moment misst.",
+        "why": "Hohe Alkalität kann die wahrgenommene Säure des Kaffees puffern und dämpfen und eine Tasse abflachen, unabhängig von den eigenen lebhaften Eigenschaften der Bohne.",
+        "tip": "Prüfe gezielt die Alkalität, wenn ein normalerweise lebendiger, säurehaltiger Kaffee mit deinem Wasser unerwartet flach schmeckt.",
+        "mistake": "Anzunehmen, der pH-Wert allein erzähle die ganze Geschichte darüber, wie Wasser die Extraktion beeinflusst, ohne Alkalität zu berücksichtigen.",
+        "challenge": "Warum könnten zwei Wässer mit demselben Ausgangs-pH-Wert sich sehr unterschiedlich verhalten, sobald sie mit den natürlichen Säuren des Kaffees interagieren?"
+      },
+      "fr": {
+        "title": "Alcalinité et pH",
+        "definition": "L'alcalinité mesure la capacité de l'eau à résister aux changements de pH (sa capacité tampon), tandis que le pH mesure l'acidité ou la basicité réelle à un instant donné.",
+        "why": "Une alcalinité élevée peut tamponner et atténuer l'acidité perçue du café, aplatissant une tasse quelles que soient les caractéristiques vives propres du grain.",
+        "tip": "Vérifiez spécifiquement l'alcalinité si un café normalement vif et acide a un goût étonnamment plat avec votre eau.",
+        "mistake": "Supposer que le pH seul raconte toute l'histoire de la façon dont l'eau affectera l'extraction, sans tenir compte de l'alcalinité.",
+        "challenge": "Pourquoi deux eaux avec le même pH de départ pourraient-elles se comporter très différemment une fois en interaction avec les acides naturels du café ?"
+      },
+      "it": {
+        "title": "Alcalinità e pH",
+        "definition": "L'alcalinità misura la capacità dell'acqua di resistere ai cambiamenti di pH (la sua capacità tampone), mentre il pH misura l'acidità o basicità effettiva in un dato momento.",
+        "why": "Un'alta alcalinità può tamponare e attenuare l'acidità percepita del caffè, appiattendo una tazza indipendentemente dalle caratteristiche brillanti proprie del chicco.",
+        "tip": "Controlla specificamente l'alcalinità se un caffè normalmente brillante e acido sa inaspettatamente piatto con la tua acqua.",
+        "mistake": "Supporre che il pH da solo racconti tutta la storia di come l'acqua influenzerà l'estrazione, senza considerare l'alcalinità.",
+        "challenge": "Perché due acque con lo stesso pH iniziale potrebbero comportarsi in modo molto diverso una volta interagendo con gli acidi naturali del caffè?"
+      }
+    },
+    "id": 335
+  },
+  {
+    "number": "336",
+    "title": "Scale Formation",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "336.jpg",
+    "definition": "Scale forms when dissolved calcium and magnesium precipitate out of water as it heats, building up as solid deposits inside boilers, pipes, and heating elements.",
+    "why": "Understanding what causes scale explains why certain water profiles are gentler on equipment than others, beyond just flavor considerations.",
+    "tip": "Match your water treatment choice to your actual water hardness rather than applying the same filtration everywhere regardless of source.",
+    "mistake": "Treating scale purely as a maintenance nuisance rather than a direct, measurable consequence of water chemistry.",
+    "challenge": "Why does heating water specifically trigger scale formation rather than it happening at any temperature?",
+    "related": [
+      "248",
+      "333"
+    ],
+    "translations": {
+      "es": {
+        "title": "Formación de cal",
+        "definition": "La cal se forma cuando el calcio y el magnesio disueltos precipitan del agua al calentarse, acumulándose como depósitos sólidos dentro de calderas, tuberías y resistencias.",
+        "why": "Entender qué causa la cal explica por qué ciertos perfiles de agua son más suaves con el equipo que otros, más allá de las consideraciones de sabor.",
+        "tip": "Ajusta tu elección de tratamiento de agua a la dureza real de tu agua en lugar de aplicar la misma filtración en todas partes sin importar la fuente.",
+        "mistake": "Tratar la cal puramente como una molestia de mantenimiento en lugar de una consecuencia directa y medible de la química del agua.",
+        "challenge": "¿Por qué calentar el agua específicamente desencadena la formación de cal en lugar de que ocurra a cualquier temperatura?"
+      },
+      "pt": {
+        "title": "Formação de calcário",
+        "definition": "O calcário se forma quando cálcio e magnésio dissolvidos precipitam da água ao aquecer, acumulando-se como depósitos sólidos dentro de caldeiras, tubos e resistências.",
+        "why": "Entender o que causa o calcário explica por que certos perfis de água são mais suaves com o equipamento do que outros, além das considerações de sabor.",
+        "tip": "Combine sua escolha de tratamento de água com a dureza real da sua água em vez de aplicar a mesma filtração em todo lugar independentemente da fonte.",
+        "mistake": "Tratar o calcário puramente como um incômodo de manutenção em vez de uma consequência direta e mensurável da química da água.",
+        "challenge": "Por que aquecer a água especificamente desencadeia a formação de calcário em vez de acontecer em qualquer temperatura?"
+      },
+      "de": {
+        "title": "Kalkbildung",
+        "definition": "Kalk entsteht, wenn gelöstes Kalzium und Magnesium beim Erhitzen aus dem Wasser ausfallen und sich als feste Ablagerungen in Boilern, Rohren und Heizelementen aufbauen.",
+        "why": "Zu verstehen, was Kalk verursacht, erklärt, warum bestimmte Wasserprofile schonender für die Ausrüstung sind als andere, über bloße Geschmacksüberlegungen hinaus.",
+        "tip": "Passe deine Wasseraufbereitungswahl an deine tatsächliche Wasserhärte an, statt überall dieselbe Filtration anzuwenden, unabhängig von der Quelle.",
+        "mistake": "Kalk rein als Wartungsärgernis zu behandeln, statt als direkte, messbare Folge der Wasserchemie.",
+        "challenge": "Warum löst gerade das Erhitzen von Wasser Kalkbildung aus, statt dass sie bei jeder Temperatur auftritt?"
+      },
+      "fr": {
+        "title": "Formation de tartre",
+        "definition": "Le tartre se forme lorsque le calcium et le magnésium dissous précipitent hors de l'eau en chauffant, s'accumulant en dépôts solides à l'intérieur des chaudières, tuyaux et résistances.",
+        "why": "Comprendre ce qui cause le tartre explique pourquoi certains profils d'eau sont plus doux pour l'équipement que d'autres, au-delà des seules considérations de saveur.",
+        "tip": "Adaptez votre choix de traitement de l'eau à la dureté réelle de votre eau plutôt que d'appliquer la même filtration partout indépendamment de la source.",
+        "mistake": "Traiter le tartre uniquement comme une nuisance de maintenance plutôt qu'une conséquence directe et mesurable de la chimie de l'eau.",
+        "challenge": "Pourquoi le chauffage de l'eau déclenche-t-il spécifiquement la formation de tartre plutôt que cela se produise à n'importe quelle température ?"
+      },
+      "it": {
+        "title": "Formazione del calcare",
+        "definition": "Il calcare si forma quando calcio e magnesio disciolti precipitano dall'acqua mentre si riscalda, accumulandosi come depositi solidi all'interno di caldaie, tubi ed elementi riscaldanti.",
+        "why": "Capire cosa causa il calcare spiega perché certi profili d'acqua sono più delicati sull'attrezzatura di altri, oltre alle sole considerazioni di sapore.",
+        "tip": "Abbina la tua scelta di trattamento dell'acqua alla durezza reale della tua acqua invece di applicare la stessa filtrazione ovunque indipendentemente dalla fonte.",
+        "mistake": "Trattare il calcare puramente come un fastidio di manutenzione invece che una conseguenza diretta e misurabile della chimica dell'acqua.",
+        "challenge": "Perché riscaldare l'acqua innesca specificamente la formazione di calcare invece che questo accada a qualsiasi temperatura?"
+      }
+    },
+    "id": 336
+  },
+  {
+    "number": "337",
+    "title": "Reverse Osmosis Systems",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "337.jpg",
+    "definition": "Reverse osmosis (RO) forces water through a semi-permeable membrane, removing nearly all dissolved minerals and producing water close to pure H2O.",
+    "why": "RO gives complete control over water chemistry, but the resulting water is usually too stripped of minerals to brew well without further adjustment.",
+    "tip": "Never brew directly with pure RO output — always remineralize it to a target profile first.",
+    "mistake": "Assuming RO water is automatically ideal for brewing simply because it's extremely pure.",
+    "challenge": "Why might water that's almost completely mineral-free actually brew worse coffee than tap water?",
+    "related": [
+      "338",
+      "331"
+    ],
+    "translations": {
+      "es": {
+        "title": "Sistemas de ósmosis inversa",
+        "definition": "La ósmosis inversa (OI) fuerza el agua a través de una membrana semipermeable, eliminando casi todos los minerales disueltos y produciendo agua cercana al H2O puro.",
+        "why": "La OI da control completo sobre la química del agua, pero el agua resultante suele estar demasiado despojada de minerales para preparar bien café sin un ajuste adicional.",
+        "tip": "Nunca prepares café directamente con la salida de OI pura — siempre remineralízala a un perfil objetivo primero.",
+        "mistake": "Suponer que el agua de OI es automáticamente ideal para preparar café solo porque es extremadamente pura.",
+        "challenge": "¿Por qué el agua casi completamente libre de minerales podría en realidad preparar peor café que el agua del grifo?"
+      },
+      "pt": {
+        "title": "Sistemas de osmose reversa",
+        "definition": "A osmose reversa (OR) força a água através de uma membrana semipermeável, removendo quase todos os minerais dissolvidos e produzindo água próxima de H2O puro.",
+        "why": "A OR dá controle completo sobre a química da água, mas a água resultante geralmente fica destituída demais de minerais para preparar bem sem ajuste adicional.",
+        "tip": "Nunca prepare diretamente com a saída de OR pura — sempre remineralize-a para um perfil-alvo primeiro.",
+        "mistake": "Supor que a água de OR é automaticamente ideal para preparo só porque é extremamente pura.",
+        "challenge": "Por que uma água quase completamente livre de minerais pode na verdade preparar café pior que a água da torneira?"
+      },
+      "de": {
+        "title": "Umkehrosmose-Systeme",
+        "definition": "Umkehrosmose (RO) presst Wasser durch eine halbdurchlässige Membran, entfernt fast alle gelösten Mineralien und erzeugt Wasser nahe reinem H2O.",
+        "why": "RO gibt vollständige Kontrolle über die Wasserchemie, aber das resultierende Wasser ist meist zu stark von Mineralien befreit, um ohne weitere Anpassung gut zu brühen.",
+        "tip": "Brühe niemals direkt mit reinem RO-Ausgangswasser — remineralisiere es immer zuerst auf ein Zielprofil.",
+        "mistake": "Anzunehmen, RO-Wasser sei automatisch ideal zum Brühen, nur weil es extrem rein ist.",
+        "challenge": "Warum könnte fast völlig mineralfreies Wasser tatsächlich schlechteren Kaffee brühen als Leitungswasser?"
+      },
+      "fr": {
+        "title": "Systèmes d'osmose inverse",
+        "definition": "L'osmose inverse (OI) force l'eau à travers une membrane semi-perméable, éliminant presque tous les minéraux dissous et produisant une eau proche du H2O pur.",
+        "why": "L'OI donne un contrôle total sur la chimie de l'eau, mais l'eau résultante est généralement trop dépouillée de minéraux pour bien infuser sans ajustement supplémentaire.",
+        "tip": "N'infusez jamais directement avec la sortie OI pure — reminéralisez-la toujours d'abord vers un profil cible.",
+        "mistake": "Supposer que l'eau OI est automatiquement idéale pour l'infusion simplement parce qu'elle est extrêmement pure.",
+        "challenge": "Pourquoi une eau presque complètement dépourvue de minéraux pourrait-elle en réalité infuser un café pire que l'eau du robinet ?"
+      },
+      "it": {
+        "title": "Sistemi a osmosi inversa",
+        "definition": "L'osmosi inversa (RO) spinge l'acqua attraverso una membrana semipermeabile, rimuovendo quasi tutti i minerali disciolti e producendo acqua vicina all'H2O puro.",
+        "why": "L'RO dà controllo completo sulla chimica dell'acqua, ma l'acqua risultante è di solito troppo priva di minerali per preparare bene senza ulteriori aggiustamenti.",
+        "tip": "Non preparare mai direttamente con l'uscita RO pura — rimineralizzala sempre prima verso un profilo target.",
+        "mistake": "Supporre che l'acqua RO sia automaticamente ideale per la preparazione solo perché è estremamente pura.",
+        "challenge": "Perché un'acqua quasi completamente priva di minerali potrebbe in realtà preparare un caffè peggiore dell'acqua di rubinetto?"
+      }
+    },
+    "id": 337
+  },
+  {
+    "number": "338",
+    "title": "Remineralization",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "338.jpg",
+    "definition": "Remineralization adds back specific minerals to stripped water, either through commercial products like Third Wave Water or DIY mineral concentrate recipes.",
+    "why": "It gives brewers precise, repeatable control over water chemistry rather than relying on whatever minerals happen to be in local tap water.",
+    "tip": "Start with a commercial remineralization product before attempting your own mineral recipe, to learn what a well-balanced profile actually tastes like.",
+    "mistake": "Assuming more minerals added is always better rather than aiming for a specific balanced target.",
+    "challenge": "Why might adding minerals back to stripped water actually be easier to control than working with unpredictable tap water?",
+    "related": [
+      "337",
+      "334"
+    ],
+    "translations": {
+      "es": {
+        "title": "Remineralización",
+        "definition": "La remineralización añade de vuelta minerales específicos al agua despojada, ya sea mediante productos comerciales como Third Wave Water o recetas de concentrado mineral caseras.",
+        "why": "Da a los preparadores un control preciso y repetible sobre la química del agua en lugar de depender de los minerales que resulten estar en el agua del grifo local.",
+        "tip": "Empieza con un producto de remineralización comercial antes de intentar tu propia receta mineral, para aprender a qué sabe realmente un perfil bien equilibrado.",
+        "mistake": "Suponer que añadir más minerales siempre es mejor en lugar de apuntar a un objetivo equilibrado específico.",
+        "challenge": "¿Por qué podría ser en realidad más fácil de controlar añadir minerales de vuelta al agua despojada que trabajar con agua del grifo impredecible?"
+      },
+      "pt": {
+        "title": "Remineralização",
+        "definition": "A remineralização adiciona de volta minerais específicos à água destituída, seja por meio de produtos comerciais como Third Wave Water ou receitas caseiras de concentrado mineral.",
+        "why": "Dá aos preparadores controle preciso e repetível sobre a química da água em vez de depender de quaisquer minerais que estejam na água da torneira local.",
+        "tip": "Comece com um produto de remineralização comercial antes de tentar sua própria receita mineral, para aprender como realmente é o sabor de um perfil bem equilibrado.",
+        "mistake": "Supor que adicionar mais minerais é sempre melhor em vez de mirar em um alvo equilibrado específico.",
+        "challenge": "Por que adicionar minerais de volta à água destituída pode na verdade ser mais fácil de controlar do que trabalhar com água de torneira imprevisível?"
+      },
+      "de": {
+        "title": "Remineralisierung",
+        "definition": "Remineralisierung fügt entmineralisiertem Wasser gezielt Mineralien zurück, entweder durch kommerzielle Produkte wie Third Wave Water oder selbstgemachte Mineralkonzentrat-Rezepte.",
+        "why": "Sie gibt Brauern präzise, wiederholbare Kontrolle über die Wasserchemie, statt sich auf die zufälligen Mineralien im lokalen Leitungswasser zu verlassen.",
+        "tip": "Beginne mit einem kommerziellen Remineralisierungsprodukt, bevor du dein eigenes Mineralrezept versuchst, um zu lernen, wie ein gut ausbalanciertes Profil tatsächlich schmeckt.",
+        "mistake": "Anzunehmen, mehr zugesetzte Mineralien seien immer besser, statt ein bestimmtes ausgewogenes Ziel anzustreben.",
+        "challenge": "Warum könnte es tatsächlich einfacher zu kontrollieren sein, Mineralien zu entmineralisiertem Wasser zurückzufügen, als mit unvorhersehbarem Leitungswasser zu arbeiten?"
+      },
+      "fr": {
+        "title": "Reminéralisation",
+        "definition": "La reminéralisation ajoute des minéraux spécifiques à de l'eau dépouillée, soit par des produits commerciaux comme Third Wave Water, soit par des recettes maison de concentré minéral.",
+        "why": "Elle donne aux préparateurs un contrôle précis et reproductible de la chimie de l'eau plutôt que de dépendre des minéraux qui se trouvent par hasard dans l'eau du robinet locale.",
+        "tip": "Commencez par un produit de reminéralisation commercial avant de tenter votre propre recette minérale, pour apprendre à quoi ressemble réellement le goût d'un profil bien équilibré.",
+        "mistake": "Supposer que plus de minéraux ajoutés est toujours mieux plutôt que de viser une cible équilibrée spécifique.",
+        "challenge": "Pourquoi ajouter des minéraux à de l'eau dépouillée pourrait-il en réalité être plus facile à contrôler que de travailler avec une eau du robinet imprévisible ?"
+      },
+      "it": {
+        "title": "Rimineralizzazione",
+        "definition": "La rimineralizzazione riaggiunge minerali specifici all'acqua privata di minerali, sia attraverso prodotti commerciali come Third Wave Water sia ricette fai-da-te di concentrato minerale.",
+        "why": "Dà a chi prepara un controllo preciso e ripetibile sulla chimica dell'acqua invece di dipendere da qualsiasi minerale si trovi nell'acqua di rubinetto locale.",
+        "tip": "Inizia con un prodotto di rimineralizzazione commerciale prima di tentare la tua ricetta minerale, per imparare come sappia realmente un profilo ben equilibrato.",
+        "mistake": "Supporre che aggiungere più minerali sia sempre meglio invece di puntare a un target equilibrato specifico.",
+        "challenge": "Perché aggiungere minerali all'acqua privata di minerali potrebbe in realtà essere più facile da controllare rispetto a lavorare con acqua di rubinetto imprevedibile?"
+      }
+    },
+    "id": 338
+  },
+  {
+    "number": "339",
+    "title": "Filtered vs Bottled vs Tap",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "339.jpg",
+    "definition": "Filtered tap water, commercial bottled water, and unfiltered tap water all bring different, often inconsistent mineral profiles, requiring individual testing rather than assumption.",
+    "why": "Bottled water is not automatically better for brewing — some brands are far too mineral-heavy or mineral-light for good extraction.",
+    "tip": "Test the actual TDS and hardness of your preferred water option rather than assuming filtered or bottled means automatically suitable.",
+    "mistake": "Assuming any bottled water is inherently better brewing water than tap simply because it's sold as 'purified' or 'natural.'",
+    "challenge": "Why might a popular bottled water brand actually brew worse coffee than a well-filtered tap source?",
+    "related": [
+      "331",
+      "337"
+    ],
+    "translations": {
+      "es": {
+        "title": "Filtrada vs embotellada vs del grifo",
+        "definition": "El agua del grifo filtrada, el agua embotellada comercial y el agua del grifo sin filtrar tienen perfiles minerales distintos, a menudo inconsistentes, que requieren pruebas individuales en lugar de suposiciones.",
+        "why": "El agua embotellada no es automáticamente mejor para preparar café — algunas marcas tienen demasiados o muy pocos minerales para una buena extracción.",
+        "tip": "Prueba el TDS y la dureza reales de tu opción de agua preferida en lugar de suponer que filtrada o embotellada significa automáticamente adecuada.",
+        "mistake": "Suponer que cualquier agua embotellada es inherentemente mejor para preparar café que la del grifo solo porque se vende como 'purificada' o 'natural'.",
+        "challenge": "¿Por qué una marca popular de agua embotellada podría en realidad preparar peor café que una fuente de grifo bien filtrada?"
+      },
+      "pt": {
+        "title": "Filtrada vs engarrafada vs torneira",
+        "definition": "A água de torneira filtrada, a água engarrafada comercial e a água de torneira não filtrada trazem perfis minerais diferentes, muitas vezes inconsistentes, exigindo teste individual em vez de suposição.",
+        "why": "A água engarrafada não é automaticamente melhor para preparo — algumas marcas têm minerais demais ou de menos para uma boa extração.",
+        "tip": "Teste o TDS e a dureza reais da sua opção de água preferida em vez de supor que filtrada ou engarrafada significa automaticamente adequada.",
+        "mistake": "Supor que qualquer água engarrafada é inerentemente melhor para preparo do que a da torneira só porque é vendida como 'purificada' ou 'natural'.",
+        "challenge": "Por que uma marca popular de água engarrafada pode na verdade preparar café pior que uma fonte de torneira bem filtrada?"
+      },
+      "de": {
+        "title": "Gefiltert vs. abgefüllt vs. Leitungswasser",
+        "definition": "Gefiltertes Leitungswasser, kommerzielles Flaschenwasser und ungefiltertes Leitungswasser bringen alle unterschiedliche, oft uneinheitliche Mineralprofile mit, was individuelle Tests statt Annahmen erfordert.",
+        "why": "Flaschenwasser ist nicht automatisch besser zum Brühen — manche Marken sind für eine gute Extraktion viel zu mineralreich oder mineralarm.",
+        "tip": "Teste den tatsächlichen TDS-Wert und die Härte deiner bevorzugten Wasseroption, statt anzunehmen, gefiltert oder abgefüllt bedeute automatisch geeignet.",
+        "mistake": "Anzunehmen, jedes Flaschenwasser sei von Natur aus besseres Brühwasser als Leitungswasser, nur weil es als 'gereinigt' oder 'natürlich' verkauft wird.",
+        "challenge": "Warum könnte eine beliebte Flaschenwassermarke tatsächlich schlechteren Kaffee brühen als eine gut gefilterte Leitungswasserquelle?"
+      },
+      "fr": {
+        "title": "Filtrée vs en bouteille vs du robinet",
+        "definition": "L'eau du robinet filtrée, l'eau en bouteille commerciale et l'eau du robinet non filtrée apportent toutes des profils minéraux différents, souvent incohérents, nécessitant un test individuel plutôt qu'une supposition.",
+        "why": "L'eau en bouteille n'est pas automatiquement meilleure pour l'infusion — certaines marques sont bien trop riches ou trop pauvres en minéraux pour une bonne extraction.",
+        "tip": "Testez le TDS et la dureté réels de votre option d'eau préférée plutôt que de supposer que filtrée ou en bouteille signifie automatiquement adaptée.",
+        "mistake": "Supposer que toute eau en bouteille est intrinsèquement une meilleure eau d'infusion que le robinet simplement parce qu'elle est vendue comme « purifiée » ou « naturelle ».",
+        "challenge": "Pourquoi une marque d'eau en bouteille populaire pourrait-elle en réalité infuser un café pire qu'une source de robinet bien filtrée ?"
+      },
+      "it": {
+        "title": "Filtrata vs in bottiglia vs di rubinetto",
+        "definition": "L'acqua di rubinetto filtrata, l'acqua in bottiglia commerciale e l'acqua di rubinetto non filtrata portano tutte profili minerali diversi, spesso incoerenti, richiedendo un test individuale invece di una supposizione.",
+        "why": "L'acqua in bottiglia non è automaticamente migliore per la preparazione — alcuni marchi sono troppo ricchi o troppo poveri di minerali per una buona estrazione.",
+        "tip": "Testa il TDS e la durezza effettivi della tua opzione d'acqua preferita invece di supporre che filtrata o in bottiglia significhi automaticamente adatta.",
+        "mistake": "Supporre che qualsiasi acqua in bottiglia sia intrinsecamente un'acqua di preparazione migliore rispetto al rubinetto solo perché venduta come 'purificata' o 'naturale'.",
+        "challenge": "Perché un marchio popolare di acqua in bottiglia potrebbe in realtà preparare un caffè peggiore di una fonte di rubinetto ben filtrata?"
+      }
+    },
+    "id": 339
+  },
+  {
+    "number": "340",
+    "title": "Water's Effect on Extraction",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "340.jpg",
+    "definition": "Mineral content in water affects extraction efficiency directly, with certain minerals bonding to and pulling more flavor compounds out of the same coffee.",
+    "why": "The same coffee, grind, and brew method can taste meaningfully different, or extract at a different rate, purely based on water chemistry.",
+    "tip": "If a normally reliable recipe suddenly extracts differently, check your water source before assuming the coffee or equipment changed.",
+    "mistake": "Troubleshooting an extraction problem by adjusting grind and dose first, without ever checking whether the water changed.",
+    "challenge": "Why might water be one of the most overlooked variables when troubleshooting an inconsistent extraction?",
+    "related": [
+      "331",
+      "333"
+    ],
+    "translations": {
+      "es": {
+        "title": "El efecto del agua en la extracción",
+        "definition": "El contenido mineral del agua afecta directamente la eficiencia de extracción, ya que ciertos minerales se unen a los compuestos de sabor y extraen más de ellos del mismo café.",
+        "why": "El mismo café, molido y método de preparación pueden saber significativamente distinto, o extraer a un ritmo distinto, solo por la química del agua.",
+        "tip": "Si una receta normalmente fiable extrae de repente de forma distinta, revisa tu fuente de agua antes de suponer que cambió el café o el equipo.",
+        "mistake": "Solucionar un problema de extracción ajustando primero el molido y la dosis, sin revisar nunca si el agua cambió.",
+        "challenge": "¿Por qué el agua podría ser una de las variables más pasadas por alto al solucionar una extracción inconsistente?"
+      },
+      "pt": {
+        "title": "O efeito da água na extração",
+        "definition": "O conteúdo mineral da água afeta diretamente a eficiência de extração, com certos minerais se ligando e puxando mais compostos de sabor do mesmo café.",
+        "why": "O mesmo café, moagem e método de preparo podem ter gosto significativamente diferente, ou extrair em ritmo diferente, puramente com base na química da água.",
+        "tip": "Se uma receita normalmente confiável de repente extrai de forma diferente, verifique sua fonte de água antes de supor que o café ou o equipamento mudou.",
+        "mistake": "Solucionar um problema de extração ajustando primeiro moagem e dose, sem nunca verificar se a água mudou.",
+        "challenge": "Por que a água pode ser uma das variáveis mais negligenciadas ao solucionar uma extração inconsistente?"
+      },
+      "de": {
+        "title": "Der Einfluss von Wasser auf die Extraktion",
+        "definition": "Der Mineralgehalt des Wassers beeinflusst die Extraktionseffizienz direkt, wobei sich bestimmte Mineralien an Geschmacksverbindungen binden und mehr davon aus demselben Kaffee ziehen.",
+        "why": "Derselbe Kaffee, Mahlgrad und dieselbe Brühmethode können rein aufgrund der Wasserchemie spürbar unterschiedlich schmecken oder mit anderer Rate extrahieren.",
+        "tip": "Wenn ein normalerweise zuverlässiges Rezept plötzlich anders extrahiert, prüfe zuerst deine Wasserquelle, bevor du annimmst, Kaffee oder Ausrüstung hätten sich geändert.",
+        "mistake": "Ein Extraktionsproblem zuerst durch Anpassen von Mahlgrad und Dosis zu beheben, ohne je zu prüfen, ob sich das Wasser geändert hat.",
+        "challenge": "Warum könnte Wasser eine der am meisten übersehenen Variablen bei der Fehlersuche einer inkonsistenten Extraktion sein?"
+      },
+      "fr": {
+        "title": "L'effet de l'eau sur l'extraction",
+        "definition": "La teneur en minéraux de l'eau affecte directement l'efficacité d'extraction, certains minéraux se liant à et tirant plus de composés aromatiques du même café.",
+        "why": "Le même café, la même mouture et la même méthode d'infusion peuvent avoir un goût sensiblement différent, ou extraire à un rythme différent, purement en fonction de la chimie de l'eau.",
+        "tip": "Si une recette normalement fiable extrait soudainement différemment, vérifiez votre source d'eau avant de supposer que le café ou l'équipement a changé.",
+        "mistake": "Dépanner un problème d'extraction en ajustant d'abord la mouture et la dose, sans jamais vérifier si l'eau a changé.",
+        "challenge": "Pourquoi l'eau pourrait-elle être l'une des variables les plus négligées lors du dépannage d'une extraction incohérente ?"
+      },
+      "it": {
+        "title": "L'effetto dell'acqua sull'estrazione",
+        "definition": "Il contenuto minerale dell'acqua influenza direttamente l'efficienza di estrazione, con certi minerali che si legano e tirano fuori più composti di sapore dallo stesso caffè.",
+        "why": "Lo stesso caffè, macinatura e metodo di preparazione possono avere un sapore significativamente diverso, o estrarre a un ritmo diverso, puramente in base alla chimica dell'acqua.",
+        "tip": "Se una ricetta normalmente affidabile improvvisamente estrae in modo diverso, controlla la tua fonte d'acqua prima di supporre che il caffè o l'attrezzatura siano cambiati.",
+        "mistake": "Risolvere un problema di estrazione regolando prima macinatura e dose, senza mai controllare se l'acqua è cambiata.",
+        "challenge": "Perché l'acqua potrebbe essere una delle variabili più trascurate quando si risolve un'estrazione incoerente?"
+      }
+    },
+    "id": 340
+  },
+  {
+    "number": "341",
+    "title": "Testing Your Water",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "341.jpg",
+    "definition": "Basic water testing involves an inexpensive TDS meter and hardness test strips, giving enough information to compare your water against target brewing ranges.",
+    "why": "You can't fix a water problem you haven't measured, and assumptions about local water quality are often wrong in either direction.",
+    "tip": "Test water at the actual point of use (the machine's inlet), not just from an unrelated tap, since filtration and plumbing can change it along the way.",
+    "mistake": "Assuming all taps in the same building deliver identical water quality without testing each one.",
+    "challenge": "Why might water quality differ meaningfully between two taps in the very same building?",
+    "related": [
+      "332",
+      "333"
+    ],
+    "translations": {
+      "es": {
+        "title": "Probar tu agua",
+        "definition": "Las pruebas básicas de agua implican un medidor de TDS económico y tiras de prueba de dureza, dando suficiente información para comparar tu agua con los rangos objetivo de preparación.",
+        "why": "No puedes arreglar un problema de agua que no has medido, y las suposiciones sobre la calidad del agua local suelen ser erróneas en cualquier dirección.",
+        "tip": "Prueba el agua en el punto real de uso (la entrada de la máquina), no solo en un grifo no relacionado, ya que la filtración y la fontanería pueden cambiarla en el camino.",
+        "mistake": "Suponer que todos los grifos del mismo edificio entregan agua de calidad idéntica sin probar cada uno.",
+        "challenge": "¿Por qué la calidad del agua podría diferir significativamente entre dos grifos del mismo edificio?"
+      },
+      "pt": {
+        "title": "Testando sua água",
+        "definition": "O teste básico de água envolve um medidor de TDS barato e tiras de teste de dureza, dando informação suficiente para comparar sua água com as faixas-alvo de preparo.",
+        "why": "Você não pode consertar um problema de água que não mediu, e suposições sobre a qualidade da água local costumam estar erradas em qualquer direção.",
+        "tip": "Teste a água no ponto real de uso (a entrada da máquina), não apenas em uma torneira não relacionada, já que filtração e encanamento podem mudá-la pelo caminho.",
+        "mistake": "Supor que todas as torneiras do mesmo prédio entregam água de qualidade idêntica sem testar cada uma.",
+        "challenge": "Por que a qualidade da água pode diferir significativamente entre duas torneiras do mesmo prédio?"
+      },
+      "de": {
+        "title": "Dein Wasser testen",
+        "definition": "Grundlegende Wassertests umfassen ein günstiges TDS-Messgerät und Härte-Teststreifen, die genug Information liefern, um dein Wasser mit Zielbrühbereichen zu vergleichen.",
+        "why": "Man kann kein Wasserproblem beheben, das man nicht gemessen hat, und Annahmen über die lokale Wasserqualität liegen oft in beide Richtungen falsch.",
+        "tip": "Teste Wasser am tatsächlichen Nutzungspunkt (dem Einlass der Maschine), nicht nur an einem unabhängigen Wasserhahn, da Filtration und Sanitärinstallation es unterwegs verändern können.",
+        "mistake": "Anzunehmen, alle Wasserhähne im selben Gebäude lieferten identische Wasserqualität, ohne jeden einzelnen zu testen.",
+        "challenge": "Warum könnte sich die Wasserqualität zwischen zwei Wasserhähnen im selben Gebäude bedeutsam unterscheiden?"
+      },
+      "fr": {
+        "title": "Tester votre eau",
+        "definition": "Un test d'eau de base implique un compteur TDS peu coûteux et des bandelettes de test de dureté, donnant assez d'informations pour comparer votre eau aux plages cibles d'infusion.",
+        "why": "Vous ne pouvez pas résoudre un problème d'eau que vous n'avez pas mesuré, et les suppositions sur la qualité de l'eau locale sont souvent fausses dans un sens ou dans l'autre.",
+        "tip": "Testez l'eau au point d'utilisation réel (l'arrivée de la machine), pas seulement à un robinet sans rapport, car la filtration et la plomberie peuvent la modifier en chemin.",
+        "mistake": "Supposer que tous les robinets du même bâtiment délivrent une qualité d'eau identique sans tester chacun.",
+        "challenge": "Pourquoi la qualité de l'eau pourrait-elle différer significativement entre deux robinets dans le même bâtiment ?"
+      },
+      "it": {
+        "title": "Testare la tua acqua",
+        "definition": "Il test base dell'acqua prevede un misuratore TDS economico e strisce reattive per la durezza, fornendo informazioni sufficienti per confrontare la tua acqua con gli intervalli target di preparazione.",
+        "why": "Non puoi risolvere un problema d'acqua che non hai misurato, e le supposizioni sulla qualità dell'acqua locale sono spesso sbagliate in entrambe le direzioni.",
+        "tip": "Testa l'acqua nel punto effettivo di utilizzo (l'ingresso della macchina), non solo da un rubinetto non correlato, poiché filtrazione e impianto idraulico possono cambiarla lungo il percorso.",
+        "mistake": "Supporre che tutti i rubinetti nello stesso edificio forniscano acqua di qualità identica senza testare ciascuno.",
+        "challenge": "Perché la qualità dell'acqua potrebbe differire significativamente tra due rubinetti nello stesso edificio?"
+      }
+    },
+    "id": 341
+  },
+  {
+    "number": "342",
+    "title": "Sodium's Effect on Flavor",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "342.jpg",
+    "definition": "Sodium in brewing water can enhance perceived sweetness and body at very low concentrations, but becomes an off-flavor at higher levels typical of some water softeners.",
+    "why": "Water softened by traditional sodium-exchange systems can introduce noticeable off-flavors that have nothing to do with the coffee itself.",
+    "tip": "Avoid brewing with water from a household sodium-based softener; use it only for equipment protection where flavor doesn't matter.",
+    "mistake": "Assuming a water softener is always beneficial for coffee brewing, when it can introduce its own flavor problem.",
+    "challenge": "Why might solving a hardness problem with a sodium softener create an entirely new flavor problem?",
+    "related": [
+      "334",
+      "331"
+    ],
+    "translations": {
+      "es": {
+        "title": "El efecto del sodio en el sabor",
+        "definition": "El sodio en el agua de preparación puede realzar la dulzura y el cuerpo percibidos en concentraciones muy bajas, pero se convierte en un sabor extraño en niveles más altos, típicos de algunos suavizadores de agua.",
+        "why": "El agua ablandada por sistemas tradicionales de intercambio de sodio puede introducir sabores extraños notables que no tienen nada que ver con el café en sí.",
+        "tip": "Evita preparar café con agua de un suavizador doméstico a base de sodio; úsalo solo para proteger el equipo donde el sabor no importe.",
+        "mistake": "Suponer que un suavizador de agua siempre es beneficioso para preparar café, cuando puede introducir su propio problema de sabor.",
+        "challenge": "¿Por qué resolver un problema de dureza con un suavizador de sodio podría crear un problema de sabor completamente nuevo?"
+      },
+      "pt": {
+        "title": "O efeito do sódio no sabor",
+        "definition": "O sódio na água de preparo pode realçar a doçura e o corpo percebidos em concentrações muito baixas, mas se torna um sabor estranho em níveis mais altos, típicos de alguns amaciantes de água.",
+        "why": "A água amaciada por sistemas tradicionais de troca de sódio pode introduzir sabores estranhos perceptíveis que não têm nada a ver com o café em si.",
+        "tip": "Evite preparar café com água de um amaciador doméstico à base de sódio; use-o apenas para proteção do equipamento onde o sabor não importa.",
+        "mistake": "Supor que um amaciador de água é sempre benéfico para o preparo do café, quando pode introduzir seu próprio problema de sabor.",
+        "challenge": "Por que resolver um problema de dureza com um amaciador de sódio pode criar um problema de sabor totalmente novo?"
+      },
+      "de": {
+        "title": "Der Einfluss von Natrium auf den Geschmack",
+        "definition": "Natrium im Brühwasser kann bei sehr niedrigen Konzentrationen wahrgenommene Süße und Körper verstärken, wird aber bei höheren Werten, typisch für manche Wasserenthärter, zu einem Fehlgeschmack.",
+        "why": "Durch traditionelle Natrium-Austauschsysteme enthärtetes Wasser kann spürbare Fehlgeschmäcker einbringen, die nichts mit dem Kaffee selbst zu tun haben.",
+        "tip": "Vermeide es, mit Wasser aus einem haushaltsüblichen natriumbasierten Enthärter zu brühen; nutze ihn nur zum Geräteschutz, wo Geschmack keine Rolle spielt.",
+        "mistake": "Anzunehmen, ein Wasserenthärter sei immer vorteilhaft für die Kaffeezubereitung, obwohl er ein eigenes Geschmacksproblem einbringen kann.",
+        "challenge": "Warum könnte das Lösen eines Härteproblems mit einem Natriumenthärter ein völlig neues Geschmacksproblem erzeugen?"
+      },
+      "fr": {
+        "title": "L'effet du sodium sur la saveur",
+        "definition": "Le sodium dans l'eau d'infusion peut renforcer la douceur perçue et le corps à des concentrations très faibles, mais devient un défaut de saveur à des niveaux plus élevés typiques de certains adoucisseurs d'eau.",
+        "why": "L'eau adoucie par des systèmes traditionnels d'échange de sodium peut introduire des défauts de saveur notables qui n'ont rien à voir avec le café lui-même.",
+        "tip": "Évitez d'infuser avec de l'eau provenant d'un adoucisseur domestique à base de sodium ; utilisez-le uniquement pour la protection de l'équipement là où la saveur n'a pas d'importance.",
+        "mistake": "Supposer qu'un adoucisseur d'eau est toujours bénéfique pour l'infusion du café, alors qu'il peut introduire son propre problème de saveur.",
+        "challenge": "Pourquoi résoudre un problème de dureté avec un adoucisseur au sodium pourrait-il créer un tout nouveau problème de saveur ?"
+      },
+      "it": {
+        "title": "L'effetto del sodio sul sapore",
+        "definition": "Il sodio nell'acqua di preparazione può migliorare la dolcezza percepita e il corpo a concentrazioni molto basse, ma diventa un difetto di sapore a livelli più alti tipici di alcuni addolcitori d'acqua.",
+        "why": "L'acqua addolcita da sistemi tradizionali a scambio di sodio può introdurre difetti di sapore notevoli che non hanno nulla a che fare con il caffè stesso.",
+        "tip": "Evita di preparare con acqua da un addolcitore domestico a base di sodio; usalo solo per la protezione dell'attrezzatura dove il sapore non conta.",
+        "mistake": "Supporre che un addolcitore d'acqua sia sempre benefico per la preparazione del caffè, quando può introdurre un proprio problema di sapore.",
+        "challenge": "Perché risolvere un problema di durezza con un addolcitore al sodio potrebbe creare un problema di sapore completamente nuovo?"
+      }
+    },
+    "id": 342
+  },
+  {
+    "number": "343",
+    "title": "Water for Espresso vs Filter",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "343.jpg",
+    "definition": "Espresso and filter coffee can benefit from slightly different water profiles, since espresso's higher pressure and shorter contact time interact with minerals differently than filter's slower gravity extraction.",
+    "why": "A single one-size-fits-all water profile may not be optimal for a café running both methods at high volume.",
+    "tip": "If you have the infrastructure, experiment with slightly different remineralization targets for your espresso machine versus filter brewers.",
+    "mistake": "Assuming the exact same water profile must automatically suit every brewing method equally well.",
+    "challenge": "Why might the same water mineral profile interact differently with a fast, high-pressure extraction versus a slow, gravity-driven one?",
+    "related": [
+      "331",
+      "338"
+    ],
+    "translations": {
+      "es": {
+        "title": "Agua para espresso vs. filtro",
+        "definition": "El espresso y el café de filtro pueden beneficiarse de perfiles de agua ligeramente distintos, ya que la mayor presión y el menor tiempo de contacto del espresso interactúan con los minerales de forma diferente a la extracción por gravedad más lenta del filtro.",
+        "why": "Un único perfil de agua universal puede no ser óptimo para una cafetería que utiliza ambos métodos con gran volumen.",
+        "tip": "Si tienes la infraestructura, experimenta con objetivos de remineralización ligeramente distintos para tu máquina de espresso frente a tus preparadores de filtro.",
+        "mistake": "Suponer que exactamente el mismo perfil de agua debe servir automáticamente por igual para todos los métodos de preparación.",
+        "challenge": "¿Por qué el mismo perfil mineral del agua podría interactuar de forma distinta con una extracción rápida y de alta presión frente a una lenta e impulsada por gravedad?"
+      },
+      "pt": {
+        "title": "Água para espresso vs. filtro",
+        "definition": "O espresso e o café de filtro podem se beneficiar de perfis de água ligeiramente diferentes, já que a maior pressão e o menor tempo de contato do espresso interagem com os minerais de forma distinta da extração por gravidade mais lenta do filtro.",
+        "why": "Um único perfil de água universal pode não ser ideal para uma cafeteria que usa ambos os métodos em alto volume.",
+        "tip": "Se você tiver a infraestrutura, experimente objetivos de remineralização ligeiramente diferentes para sua máquina de espresso versus preparadores de filtro.",
+        "mistake": "Supor que exatamente o mesmo perfil de água deve automaticamente servir igualmente bem para todos os métodos de preparo.",
+        "challenge": "Por que o mesmo perfil mineral da água pode interagir de forma diferente com uma extração rápida e de alta pressão versus uma lenta e movida pela gravidade?"
+      },
+      "de": {
+        "title": "Wasser für Espresso vs. Filter",
+        "definition": "Espresso und Filterkaffee können von leicht unterschiedlichen Wasserprofilen profitieren, da der höhere Druck und die kürzere Kontaktzeit des Espressos anders mit Mineralien interagieren als die langsamere schwerkraftgetriebene Extraktion des Filters.",
+        "why": "Ein einziges universelles Wasserprofil ist möglicherweise nicht optimal für ein Café, das beide Methoden mit hohem Volumen betreibt.",
+        "tip": "Wenn du die Infrastruktur hast, experimentiere mit leicht unterschiedlichen Remineralisierungszielen für deine Espressomaschine gegenüber Filterbrühgeräten.",
+        "mistake": "Anzunehmen, genau dasselbe Wasserprofil müsse automatisch für jede Brühmethode gleich gut geeignet sein.",
+        "challenge": "Warum könnte dasselbe Wasserprofil unterschiedlich mit einer schnellen Hochdruckextraktion versus einer langsamen, schwerkraftgetriebenen interagieren?"
+      },
+      "fr": {
+        "title": "Eau pour espresso vs filtre",
+        "definition": "L'espresso et le café filtre peuvent bénéficier de profils d'eau légèrement différents, car la pression plus élevée et le temps de contact plus court de l'espresso interagissent différemment avec les minéraux que l'extraction plus lente par gravité du filtre.",
+        "why": "Un seul profil d'eau universel peut ne pas être optimal pour un café utilisant les deux méthodes en gros volume.",
+        "tip": "Si vous avez l'infrastructure, expérimentez avec des cibles de reminéralisation légèrement différentes pour votre machine à espresso par rapport aux préparateurs de filtre.",
+        "mistake": "Supposer que le même profil d'eau exact doit automatiquement convenir également bien à chaque méthode d'infusion.",
+        "challenge": "Pourquoi le même profil minéral de l'eau pourrait-il interagir différemment avec une extraction rapide à haute pression par rapport à une extraction lente entraînée par la gravité ?"
+      },
+      "it": {
+        "title": "Acqua per espresso vs filtro",
+        "definition": "Espresso e caffè filtro possono beneficiare di profili d'acqua leggermente diversi, poiché la maggiore pressione e il minor tempo di contatto dell'espresso interagiscono con i minerali in modo diverso rispetto all'estrazione più lenta a gravità del filtro.",
+        "why": "Un unico profilo d'acqua universale potrebbe non essere ottimale per un bar che usa entrambi i metodi ad alto volume.",
+        "tip": "Se hai l'infrastruttura, sperimenta con obiettivi di rimineralizzazione leggermente diversi per la tua macchina da espresso rispetto ai preparatori a filtro.",
+        "mistake": "Supporre che esattamente lo stesso profilo d'acqua debba automaticamente adattarsi ugualmente bene a ogni metodo di preparazione.",
+        "challenge": "Perché lo stesso profilo minerale dell'acqua potrebbe interagire diversamente con un'estrazione veloce ad alta pressione rispetto a una lenta guidata dalla gravità?"
+      }
+    },
+    "id": 343
+  },
+  {
+    "number": "344",
+    "title": "Regional Water Variation",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "344.jpg",
+    "definition": "Municipal water chemistry varies significantly between cities and even neighborhoods, meaning the exact same recipe can taste different simply based on location.",
+    "why": "A recipe developed and dialed in one city may need real adjustment when applied elsewhere, purely because of local water differences.",
+    "tip": "Never assume a published recipe will work identically in your location without accounting for your own water's mineral profile.",
+    "mistake": "Blaming your own technique when a well-documented recipe from elsewhere doesn't reproduce the same result locally.",
+    "challenge": "Why might the exact same coffee recipe genuinely require different adjustments in two different cities?",
+    "related": [
+      "331",
+      "339"
+    ],
+    "translations": {
+      "es": {
+        "title": "Variación regional del agua",
+        "definition": "La química del agua municipal varía significativamente entre ciudades e incluso entre barrios, lo que significa que exactamente la misma receta puede saber distinto solo por la ubicación.",
+        "why": "Una receta desarrollada y ajustada en una ciudad puede necesitar un ajuste real al aplicarse en otro lugar, puramente por las diferencias locales del agua.",
+        "tip": "Nunca supongas que una receta publicada funcionará de forma idéntica en tu ubicación sin tener en cuenta el perfil mineral de tu propia agua.",
+        "mistake": "Culpar a tu propia técnica cuando una receta bien documentada de otro lugar no reproduce el mismo resultado localmente.",
+        "challenge": "¿Por qué exactamente la misma receta de café podría requerir genuinamente ajustes distintos en dos ciudades diferentes?"
+      },
+      "pt": {
+        "title": "Variação regional da água",
+        "definition": "A química da água municipal varia significativamente entre cidades e até bairros, o que significa que exatamente a mesma receita pode ter gosto diferente só pela localização.",
+        "why": "Uma receita desenvolvida e ajustada em uma cidade pode precisar de ajuste real ao ser aplicada em outro lugar, puramente por diferenças locais da água.",
+        "tip": "Nunca suponha que uma receita publicada funcionará de forma idêntica na sua localização sem levar em conta o perfil mineral da sua própria água.",
+        "mistake": "Culpar sua própria técnica quando uma receita bem documentada de outro lugar não reproduz o mesmo resultado localmente.",
+        "challenge": "Por que exatamente a mesma receita de café pode genuinamente exigir ajustes diferentes em duas cidades diferentes?"
+      },
+      "de": {
+        "title": "Regionale Wasservariation",
+        "definition": "Die kommunale Wasserchemie variiert erheblich zwischen Städten und sogar Stadtteilen, was bedeutet, dass exakt dasselbe Rezept allein aufgrund des Standorts anders schmecken kann.",
+        "why": "Ein in einer Stadt entwickeltes und eingestelltes Rezept kann bei Anwendung anderswo eine echte Anpassung benötigen, rein wegen lokaler Wasserunterschiede.",
+        "tip": "Nimm nie an, ein veröffentlichtes Rezept funktioniere an deinem Standort identisch, ohne das Mineralprofil deines eigenen Wassers zu berücksichtigen.",
+        "mistake": "Der eigenen Technik die Schuld zu geben, wenn ein gut dokumentiertes Rezept von anderswo lokal nicht dasselbe Ergebnis reproduziert.",
+        "challenge": "Warum könnte genau dasselbe Kaffeerezept in zwei verschiedenen Städten tatsächlich unterschiedliche Anpassungen erfordern?"
+      },
+      "fr": {
+        "title": "Variation régionale de l'eau",
+        "definition": "La chimie de l'eau municipale varie significativement entre les villes et même les quartiers, ce qui signifie que la même recette exacte peut avoir un goût différent simplement selon l'emplacement.",
+        "why": "Une recette développée et réglée dans une ville peut nécessiter un véritable ajustement lorsqu'elle est appliquée ailleurs, purement à cause des différences d'eau locales.",
+        "tip": "Ne supposez jamais qu'une recette publiée fonctionnera de façon identique à votre emplacement sans tenir compte du profil minéral de votre propre eau.",
+        "mistake": "Blâmer votre propre technique quand une recette bien documentée d'ailleurs ne reproduit pas le même résultat localement.",
+        "challenge": "Pourquoi la même recette de café exacte pourrait-elle réellement nécessiter des ajustements différents dans deux villes différentes ?"
+      },
+      "it": {
+        "title": "Variazione regionale dell'acqua",
+        "definition": "La chimica dell'acqua municipale varia significativamente tra città e persino quartieri, il che significa che esattamente la stessa ricetta può avere un sapore diverso solo in base alla posizione.",
+        "why": "Una ricetta sviluppata e regolata in una città potrebbe necessitare di un vero adattamento se applicata altrove, puramente a causa delle differenze idriche locali.",
+        "tip": "Non supporre mai che una ricetta pubblicata funzionerà in modo identico nella tua posizione senza considerare il profilo minerale della tua acqua.",
+        "mistake": "Incolpare la propria tecnica quando una ricetta ben documentata di un altro posto non riproduce localmente lo stesso risultato.",
+        "challenge": "Perché esattamente la stessa ricetta di caffè potrebbe genuinamente richiedere aggiustamenti diversi in due città diverse?"
+      }
+    },
+    "id": 344
+  },
+  {
+    "number": "345",
+    "title": "Water Filter Maintenance Schedule",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "345.jpg",
+    "definition": "A water filter maintenance schedule tracks cartridge replacement by actual water volume filtered, not just elapsed calendar time.",
+    "why": "A high-volume café can exhaust a filter's capacity far sooner than the manufacturer's generic time-based recommendation assumes.",
+    "tip": "Install a flow meter or track liters brewed if your filter's capacity is volume-rated, rather than guessing based on time alone.",
+    "mistake": "Replacing water filters purely by calendar date regardless of actual usage volume.",
+    "challenge": "Why might a filter rated for a certain volume fail sooner in a busy café than a quiet one, even on the same replacement schedule?",
+    "related": [
+      "253",
+      "336"
+    ],
+    "translations": {
+      "es": {
+        "title": "Calendario de mantenimiento del filtro de agua",
+        "definition": "Un calendario de mantenimiento del filtro de agua registra el reemplazo del cartucho según el volumen de agua filtrada real, no solo el tiempo calendario transcurrido.",
+        "why": "Una cafetería de alto volumen puede agotar la capacidad de un filtro mucho antes de lo que asume la recomendación genérica basada en tiempo del fabricante.",
+        "tip": "Instala un medidor de flujo o registra los litros preparados si la capacidad de tu filtro está clasificada por volumen, en lugar de adivinar solo según el tiempo.",
+        "mistake": "Reemplazar filtros de agua puramente por fecha del calendario sin importar el volumen real de uso.",
+        "challenge": "¿Por qué un filtro clasificado para cierto volumen podría fallar antes en una cafetería concurrida que en una tranquila, incluso con el mismo calendario de reemplazo?"
+      },
+      "pt": {
+        "title": "Cronograma de manutenção do filtro de água",
+        "definition": "Um cronograma de manutenção do filtro de água rastreia a substituição do cartucho pelo volume real de água filtrada, não apenas pelo tempo de calendário decorrido.",
+        "why": "Uma cafeteria de alto volume pode esgotar a capacidade de um filtro muito antes do que assume a recomendação genérica baseada em tempo do fabricante.",
+        "tip": "Instale um medidor de fluxo ou rastreie os litros preparados se a capacidade do seu filtro for classificada por volume, em vez de adivinhar apenas com base no tempo.",
+        "mistake": "Substituir filtros de água puramente por data do calendário independentemente do volume real de uso.",
+        "challenge": "Por que um filtro classificado para um certo volume pode falhar mais cedo em uma cafeteria movimentada do que em uma tranquila, mesmo com o mesmo cronograma de substituição?"
+      },
+      "de": {
+        "title": "Wartungsplan für Wasserfilter",
+        "definition": "Ein Wartungsplan für Wasserfilter verfolgt den Kartuschenaustausch nach tatsächlich gefiltertem Wasservolumen, nicht nur nach verstrichener Kalenderzeit.",
+        "why": "Ein Café mit hohem Volumen kann die Kapazität eines Filters weit früher erschöpfen, als die generische zeitbasierte Empfehlung des Herstellers annimmt.",
+        "tip": "Installiere einen Durchflussmesser oder verfolge gebrühte Liter, wenn die Kapazität deines Filters nach Volumen bewertet ist, statt allein nach Zeit zu raten.",
+        "mistake": "Wasserfilter rein nach Kalenderdatum zu ersetzen, unabhängig vom tatsächlichen Nutzungsvolumen.",
+        "challenge": "Warum könnte ein für ein bestimmtes Volumen ausgelegter Filter in einem geschäftigen Café früher versagen als in einem ruhigen, selbst bei gleichem Austauschplan?"
+      },
+      "fr": {
+        "title": "Calendrier de maintenance du filtre à eau",
+        "definition": "Un calendrier de maintenance du filtre à eau suit le remplacement de la cartouche par volume d'eau réellement filtré, pas seulement par le temps calendaire écoulé.",
+        "why": "Un café à fort volume peut épuiser la capacité d'un filtre bien plus tôt que ne le suppose la recommandation générique basée sur le temps du fabricant.",
+        "tip": "Installez un débitmètre ou suivez les litres infusés si la capacité de votre filtre est notée en volume, plutôt que de deviner uniquement selon le temps.",
+        "mistake": "Remplacer les filtres à eau uniquement par date calendaire indépendamment du volume d'utilisation réel.",
+        "challenge": "Pourquoi un filtre noté pour un certain volume pourrait-il échouer plus tôt dans un café animé que dans un calme, même avec le même calendrier de remplacement ?"
+      },
+      "it": {
+        "title": "Programma di manutenzione del filtro dell'acqua",
+        "definition": "Un programma di manutenzione del filtro dell'acqua traccia la sostituzione della cartuccia in base al volume d'acqua effettivamente filtrato, non solo al tempo di calendario trascorso.",
+        "why": "Un bar ad alto volume può esaurire la capacità di un filtro molto prima di quanto presuma la raccomandazione generica basata sul tempo del produttore.",
+        "tip": "Installa un misuratore di flusso o traccia i litri preparati se la capacità del tuo filtro è valutata per volume, invece di indovinare solo in base al tempo.",
+        "mistake": "Sostituire i filtri dell'acqua puramente in base alla data del calendario indipendentemente dal volume d'uso effettivo.",
+        "challenge": "Perché un filtro valutato per un certo volume potrebbe guastarsi prima in un bar affollato rispetto a uno tranquillo, anche con lo stesso programma di sostituzione?"
+      }
+    },
+    "id": 345
+  },
+  {
+    "number": "346",
+    "title": "Building a Water Program",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "346.jpg",
+    "definition": "A water program combines testing, filtration or remineralization, equipment protection, and documented monitoring into one deliberate system rather than ad hoc decisions.",
+    "why": "Treating water as seriously as bean sourcing or roasting closes one of the most commonly overlooked gaps in overall coffee quality.",
+    "tip": "Document your water program's targets and actual test results the same way you'd document a roast profile or espresso recipe.",
+    "mistake": "Installing a filtration system once and never revisiting or re-testing whether it's still performing as intended.",
+    "challenge": "Why might water deserve the same level of deliberate program-building as roasting or brewing, rather than a one-time setup decision?",
+    "related": [
+      "334",
+      "341"
+    ],
+    "translations": {
+      "es": {
+        "title": "Construir un programa de agua",
+        "definition": "Un programa de agua combina pruebas, filtración o remineralización, protección del equipo y monitoreo documentado en un sistema deliberado, en lugar de decisiones improvisadas.",
+        "why": "Tratar el agua tan en serio como el abastecimiento de granos o el tueste cierra una de las brechas más comúnmente pasadas por alto en la calidad general del café.",
+        "tip": "Documenta los objetivos de tu programa de agua y los resultados reales de las pruebas de la misma forma que documentarías un perfil de tueste o una receta de espresso.",
+        "mistake": "Instalar un sistema de filtración una vez y nunca volver a revisar o probar si sigue funcionando como se pretendía.",
+        "challenge": "¿Por qué el agua podría merecer el mismo nivel de construcción deliberada de programa que el tueste o la preparación, en lugar de una decisión de instalación única?"
+      },
+      "pt": {
+        "title": "Construindo um programa de água",
+        "definition": "Um programa de água combina teste, filtração ou remineralização, proteção do equipamento e monitoramento documentado em um sistema deliberado, em vez de decisões ad hoc.",
+        "why": "Tratar a água tão seriamente quanto o abastecimento de grãos ou a torra fecha uma das lacunas mais comumente negligenciadas na qualidade geral do café.",
+        "tip": "Documente os objetivos do seu programa de água e os resultados reais de testes da mesma forma que documentaria um perfil de torra ou receita de espresso.",
+        "mistake": "Instalar um sistema de filtração uma vez e nunca revisitar ou retestar se ele ainda está funcionando como pretendido.",
+        "challenge": "Por que a água pode merecer o mesmo nível de construção deliberada de programa que a torra ou o preparo, em vez de uma decisão de instalação única?"
+      },
+      "de": {
+        "title": "Aufbau eines Wasserprogramms",
+        "definition": "Ein Wasserprogramm kombiniert Testen, Filtration oder Remineralisierung, Geräteschutz und dokumentierte Überwachung zu einem bewussten System statt Ad-hoc-Entscheidungen.",
+        "why": "Wasser genauso ernst zu nehmen wie Bohnenbeschaffung oder Röstung schließt eine der am häufigsten übersehenen Lücken in der gesamten Kaffeequalität.",
+        "tip": "Dokumentiere die Ziele deines Wasserprogramms und tatsächliche Testergebnisse genauso, wie du ein Röstprofil oder Espressorezept dokumentieren würdest.",
+        "mistake": "Ein Filtrationssystem einmal zu installieren und nie erneut zu prüfen oder zu testen, ob es noch wie beabsichtigt funktioniert.",
+        "challenge": "Warum könnte Wasser dasselbe Maß an bewusstem Programmaufbau verdienen wie Röstung oder Brühen, statt einer einmaligen Einrichtungsentscheidung?"
+      },
+      "fr": {
+        "title": "Construire un programme d'eau",
+        "definition": "Un programme d'eau combine test, filtration ou reminéralisation, protection de l'équipement et surveillance documentée en un système délibéré plutôt que des décisions ad hoc.",
+        "why": "Traiter l'eau aussi sérieusement que l'approvisionnement en grains ou la torréfaction comble l'une des lacunes les plus couramment négligées dans la qualité globale du café.",
+        "tip": "Documentez les cibles de votre programme d'eau et les résultats de tests réels de la même façon que vous documenteriez un profil de torréfaction ou une recette d'espresso.",
+        "mistake": "Installer un système de filtration une fois et ne jamais revisiter ou retester s'il fonctionne encore comme prévu.",
+        "challenge": "Pourquoi l'eau pourrait-elle mériter le même niveau de construction délibérée de programme que la torréfaction ou l'infusion, plutôt qu'une décision d'installation unique ?"
+      },
+      "it": {
+        "title": "Costruire un programma per l'acqua",
+        "definition": "Un programma per l'acqua combina test, filtrazione o rimineralizzazione, protezione dell'attrezzatura e monitoraggio documentato in un sistema deliberato invece che decisioni estemporanee.",
+        "why": "Trattare l'acqua con la stessa serietà dell'approvvigionamento dei chicchi o della tostatura colma una delle lacune più comunemente trascurate nella qualità complessiva del caffè.",
+        "tip": "Documenta gli obiettivi del tuo programma per l'acqua e i risultati effettivi dei test allo stesso modo in cui documenteresti un profilo di tostatura o una ricetta espresso.",
+        "mistake": "Installare un sistema di filtrazione una volta e non rivisitare o ritestare mai se sta ancora funzionando come previsto.",
+        "challenge": "Perché l'acqua potrebbe meritare lo stesso livello di costruzione deliberata di un programma quanto la tostatura o la preparazione, invece di una decisione di installazione una tantum?"
+      }
+    },
+    "id": 346
   }
 ]
