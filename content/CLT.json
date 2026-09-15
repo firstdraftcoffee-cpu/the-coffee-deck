@@ -1020,5 +1020,182 @@
       }
     },
     "id": 211
+  },
+  {
+    "number": "368",
+    "title": "Coffeehouse Chess and Slow Culture",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "368.jpg",
+    "definition": "Many historic coffeehouses became known as places for slow games like chess, where a single cup of coffee bought hours of table time and quiet concentration.",
+    "why": "This tradition shows coffee's historic role as a social lubricant for focus and patience, not just a quick source of energy.",
+    "tip": "Notice how modern \"slow coffee\" cafés and specialty seating still echo this — spaces designed for lingering, not turnover.",
+    "mistake": "Assuming café culture has always prioritized speed and takeaway, when historic coffeehouses often did the opposite.",
+    "challenge": "What does a café's seating and layout choices reveal about whether it wants patrons to linger or move through quickly?",
+    "related": [
+      "204",
+      "208"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Ajedrez en las Cafeterías y la Cultura Lenta",
+        "definition": "Muchas cafeterías históricas se hicieron conocidas como lugares para juegos lentos como el ajedrez, donde una sola taza de café compraba horas de mesa y concentración tranquila.",
+        "why": "Esta tradición muestra el papel histórico del café como lubricante social para la concentración y la paciencia, no solo como fuente rápida de energía.",
+        "tip": "Fíjate cómo las cafeterías modernas de \"café lento\" y sus asientos aún reflejan esto — espacios pensados para quedarse, no para la rotación rápida.",
+        "mistake": "Asumir que la cultura de café siempre priorizó la rapidez y para llevar, cuando las cafeterías históricas solían hacer justo lo contrario.",
+        "challenge": "¿Qué revelan las decisiones de asientos y disposición de una cafetería sobre si quiere que los clientes se queden o pasen rápido?"
+      },
+      "pt": {
+        "title": "Xadrez nas Cafeterias e a Cultura Lenta",
+        "definition": "Muitas cafeterias históricas ficaram conhecidas como locais para jogos lentos como xadrez, onde uma única xícara de café comprava horas de mesa e concentração tranquila.",
+        "why": "Essa tradição mostra o papel histórico do café como lubrificante social para foco e paciência, não apenas como fonte rápida de energia.",
+        "tip": "Note como cafeterias modernas de \"café lento\" e seus assentos ainda ecoam isso — espaços pensados para ficar, não para rotatividade.",
+        "mistake": "Assumir que a cultura de café sempre priorizou velocidade e para viagem, quando cafeterias históricas frequentemente faziam o oposto.",
+        "challenge": "O que as escolhas de assentos e layout de um café revelam sobre se ele quer que os clientes fiquem ou passem rapidamente?"
+      },
+      "de": {
+        "title": "Schach im Kaffeehaus und die Kultur der Langsamkeit",
+        "definition": "Viele historische Kaffeehäuser wurden bekannt als Orte für langsame Spiele wie Schach, wo eine einzige Tasse Kaffee stundenlangen Tischplatz und ruhige Konzentration erkaufte.",
+        "why": "Diese Tradition zeigt Kaffees historische Rolle als sozialer Katalysator für Konzentration und Geduld, nicht nur als schnelle Energiequelle.",
+        "tip": "Achte darauf, wie moderne \"Slow Coffee\"-Cafés und ihre Sitzgestaltung dies noch widerspiegeln — Räume, die zum Verweilen einladen, nicht zum schnellen Wechsel.",
+        "mistake": "Anzunehmen, Café-Kultur habe schon immer Schnelligkeit und Mitnahme priorisiert, obwohl historische Kaffeehäuser oft das Gegenteil taten.",
+        "challenge": "Was verraten Sitzordnung und Raumgestaltung eines Cafés darüber, ob Gäste verweilen oder schnell weiterziehen sollen?"
+      },
+      "fr": {
+        "title": "Les Échecs au Café et la Culture Lente",
+        "definition": "De nombreux cafés historiques sont devenus connus comme des lieux pour des jeux lents comme les échecs, où une seule tasse de café achetait des heures de table et de concentration tranquille.",
+        "why": "Cette tradition montre le rôle historique du café comme lubrifiant social pour la concentration et la patience, pas seulement comme source rapide d'énergie.",
+        "tip": "Remarquez comment les cafés modernes du \"slow coffee\" et leur agencement font encore écho à cela — des espaces pensés pour s'attarder, pas pour la rotation rapide.",
+        "mistake": "Supposer que la culture du café a toujours privilégié la rapidité et la vente à emporter, alors que les cafés historiques faisaient souvent l'inverse.",
+        "challenge": "Que révèlent les choix d'agencement et de sièges d'un café sur sa volonté de faire s'attarder ou circuler rapidement sa clientèle ?"
+      },
+      "it": {
+        "title": "Scacchi nei Caffè e la Cultura Lenta",
+        "definition": "Molti caffè storici divennero noti come luoghi per giochi lenti come gli scacchi, dove una sola tazza di caffè comprava ore di tavolo e concentrazione tranquilla.",
+        "why": "Questa tradizione mostra il ruolo storico del caffè come lubrificante sociale per la concentrazione e la pazienza, non solo come fonte rapida di energia.",
+        "tip": "Nota come i moderni caffè \"slow coffee\" e la loro disposizione dei posti a sedere riecheggino ancora questo — spazi pensati per trattenersi, non per il ricambio rapido.",
+        "mistake": "Presumere che la cultura del caffè abbia sempre privilegiato velocità e asporto, quando i caffè storici spesso facevano l'opposto.",
+        "challenge": "Cosa rivelano le scelte di posti a sedere e disposizione di un caffè sulla volontà di far trattenere o far circolare rapidamente la clientela?"
+      }
+    }
+  },
+  {
+    "number": "369",
+    "title": "Coffee and Religious Traditions",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "369.jpg",
+    "definition": "Coffee has intersected with religion across history, from Sufi orders using it to stay alert through night prayers to early debates over whether it should be considered permissible at all.",
+    "why": "These religious threads shaped how quickly and where coffee spread historically, well before it became a secular daily habit.",
+    "tip": "The word \"qahwa,\" coffee's Arabic root, originally referred more broadly to a drink that suppressed appetite — worth knowing for the etymology alone.",
+    "mistake": "Treating coffee's history as a purely secular, commercial story with no religious or spiritual dimension.",
+    "challenge": "Why might a stimulant become entangled in religious debate in a way that a purely social drink might not?",
+    "related": [
+      "200",
+      "210"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café y las Tradiciones Religiosas",
+        "definition": "El café se ha cruzado con la religión a lo largo de la historia, desde las órdenes sufíes que lo usaban para mantenerse alerta durante las oraciones nocturnas hasta los primeros debates sobre si debía considerarse permitido.",
+        "why": "Estos hilos religiosos moldearon la rapidez y los lugares por donde se extendió el café históricamente, mucho antes de convertirse en un hábito diario secular.",
+        "tip": "La palabra \"qahwa\", raíz árabe de café, originalmente se refería de forma más amplia a una bebida que suprimía el apetito — vale la pena conocerlo solo por la etimología.",
+        "mistake": "Tratar la historia del café como una historia puramente secular y comercial sin dimensión religiosa o espiritual.",
+        "challenge": "¿Por qué un estimulante podría verse envuelto en un debate religioso de una forma en que una bebida puramente social no lo estaría?"
+      },
+      "pt": {
+        "title": "O Café e as Tradições Religiosas",
+        "definition": "O café se cruzou com a religião ao longo da história, desde as ordens sufis que o usavam para se manter alerta durante orações noturnas até os primeiros debates sobre se deveria ser considerado permitido.",
+        "why": "Esses fios religiosos moldaram a rapidez e os lugares por onde o café se espalhou historicamente, muito antes de se tornar um hábito diário secular.",
+        "tip": "A palavra \"qahwa\", raiz árabe de café, originalmente se referia de forma mais ampla a uma bebida que suprimia o apetite — vale a pena conhecer só pela etimologia.",
+        "mistake": "Tratar a história do café como uma história puramente secular e comercial, sem dimensão religiosa ou espiritual.",
+        "challenge": "Por que um estimulante pode se enredar em um debate religioso de uma forma que uma bebida puramente social não se enredaria?"
+      },
+      "de": {
+        "title": "Kaffee und Religiöse Traditionen",
+        "definition": "Kaffee hat sich im Laufe der Geschichte immer wieder mit Religion überschnitten — von Sufi-Orden, die ihn nutzten, um während nächtlicher Gebete wach zu bleiben, bis zu frühen Debatten darüber, ob er überhaupt erlaubt sein sollte.",
+        "why": "Diese religiösen Fäden prägten, wie schnell und wo sich Kaffee historisch verbreitete, lange bevor er zur weltlichen Alltagsgewohnheit wurde.",
+        "tip": "Das Wort \"qahwa\", die arabische Wurzel von Kaffee, bezeichnete ursprünglich allgemeiner ein Getränk, das den Appetit unterdrückte — allein wegen der Etymologie wissenswert.",
+        "mistake": "Die Geschichte des Kaffees als rein weltliche, kommerzielle Geschichte ohne religiöse oder spirituelle Dimension zu behandeln.",
+        "challenge": "Warum könnte ein Stimulans in religiöse Debatten verstrickt werden, während ein rein geselliges Getränk das nicht würde?"
+      },
+      "fr": {
+        "title": "Le Café et les Traditions Religieuses",
+        "definition": "Le café a croisé la religion tout au long de l'histoire, des ordres soufis l'utilisant pour rester éveillés pendant les prières nocturnes aux premiers débats sur la question de savoir s'il devait être considéré comme permis.",
+        "why": "Ces fils religieux ont façonné la rapidité et les lieux de diffusion historique du café, bien avant qu'il ne devienne une habitude quotidienne laïque.",
+        "tip": "Le mot \"qahwa\", racine arabe de café, désignait à l'origine plus largement une boisson qui coupait l'appétit — cela vaut la peine d'être connu rien que pour l'étymologie.",
+        "mistake": "Traiter l'histoire du café comme une histoire purement laïque et commerciale, sans dimension religieuse ou spirituelle.",
+        "challenge": "Pourquoi un stimulant pourrait-il s'empêtrer dans un débat religieux d'une façon qu'une boisson purement sociale ne le ferait pas ?"
+      },
+      "it": {
+        "title": "Il Caffè e le Tradizioni Religiose",
+        "definition": "Il caffè si è intrecciato con la religione nel corso della storia, dagli ordini sufi che lo usavano per rimanere svegli durante le preghiere notturne ai primi dibattiti sul fatto che dovesse essere considerato lecito.",
+        "why": "Questi fili religiosi hanno plasmato la rapidità e i luoghi di diffusione storica del caffè, molto prima che diventasse un'abitudine quotidiana laica.",
+        "tip": "La parola \"qahwa\", radice araba di caffè, originariamente si riferiva più genericamente a una bevanda che sopprimeva l'appetito — vale la pena saperlo solo per l'etimologia.",
+        "mistake": "Trattare la storia del caffè come una storia puramente laica e commerciale, senza dimensione religiosa o spirituale.",
+        "challenge": "Perché uno stimolante potrebbe rimanere invischiato in un dibattito religioso in un modo in cui una bevanda puramente sociale non lo sarebbe?"
+      }
+    }
+  },
+  {
+    "number": "370",
+    "title": "Coffee Naming and Language Across Cultures",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "370.jpg",
+    "definition": "The word for coffee shares a recognizable root (\"kahve,\" \"café,\" \"kaffe,\" \"coffee\") across dozens of languages, tracing a single word's journey alongside the drink itself.",
+    "why": "Recognizing this shared linguistic root highlights how thoroughly one plant and drink spread across cultures from a single point of origin.",
+    "tip": "Notice how a menu's language choices — like keeping \"espresso\" untranslated — often signal which coffee tradition a café is drawing from.",
+    "mistake": "Assuming regional coffee terms are unrelated just because they sound different, when many trace back to the same linguistic root.",
+    "challenge": "Why would a single word spread almost unchanged across so many unrelated language families?",
+    "related": [
+      "197",
+      "210"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Nombre del Café en Distintas Culturas",
+        "definition": "La palabra para café comparte una raíz reconocible (\"kahve\", \"café\", \"kaffe\", \"coffee\") en decenas de idiomas, trazando el recorrido de una sola palabra junto con la bebida misma.",
+        "why": "Reconocer esta raíz lingüística compartida resalta cuán completamente una sola planta y bebida se extendió por las culturas desde un único punto de origen.",
+        "tip": "Fíjate cómo las decisiones de idioma en un menú — como dejar \"espresso\" sin traducir — a menudo señalan de qué tradición cafetera se inspira una cafetería.",
+        "mistake": "Asumir que términos regionales del café no están relacionados solo porque suenan distinto, cuando muchos remontan a la misma raíz lingüística.",
+        "challenge": "¿Por qué una sola palabra se extendería casi sin cambios a través de tantas familias lingüísticas no relacionadas?"
+      },
+      "pt": {
+        "title": "O Nome do Café em Diferentes Culturas",
+        "definition": "A palavra para café compartilha uma raiz reconhecível (\"kahve\", \"café\", \"kaffe\", \"coffee\") em dezenas de idiomas, traçando a jornada de uma única palavra junto com a própria bebida.",
+        "why": "Reconhecer essa raiz linguística compartilhada destaca o quão completamente uma única planta e bebida se espalhou pelas culturas a partir de um único ponto de origem.",
+        "tip": "Note como as escolhas de idioma de um cardápio — como manter \"espresso\" sem tradução — muitas vezes sinalizam de qual tradição cafeeira um café se inspira.",
+        "mistake": "Assumir que termos regionais de café não estão relacionados só porque soam diferentes, quando muitos remontam à mesma raiz linguística.",
+        "challenge": "Por que uma única palavra se espalharia quase sem mudanças por tantas famílias linguísticas não relacionadas?"
+      },
+      "de": {
+        "title": "Kaffee-Bezeichnungen über Kulturen Hinweg",
+        "definition": "Das Wort für Kaffee teilt sich eine erkennbare Wurzel (\"kahve\", \"café\", \"kaffe\", \"coffee\") in Dutzenden Sprachen und zeichnet die Reise eines einzigen Wortes gemeinsam mit dem Getränk selbst nach.",
+        "why": "Diese gemeinsame sprachliche Wurzel zu erkennen zeigt, wie gründlich sich eine einzige Pflanze und ein Getränk von einem einzigen Ursprungspunkt aus über Kulturen hinweg verbreitet hat.",
+        "tip": "Achte darauf, wie die Sprachwahl auf einer Speisekarte — etwa \"espresso\" unübersetzt zu lassen — oft signalisiert, aus welcher Kaffeetradition ein Café schöpft.",
+        "mistake": "Anzunehmen, regionale Kaffeebegriffe seien unabhängig voneinander, nur weil sie unterschiedlich klingen, obwohl viele auf dieselbe sprachliche Wurzel zurückgehen.",
+        "challenge": "Warum würde sich ein einziges Wort über so viele nicht verwandte Sprachfamilien hinweg fast unverändert verbreiten?"
+      },
+      "fr": {
+        "title": "Le Nom du Café à Travers les Cultures",
+        "definition": "Le mot pour café partage une racine reconnaissable (\"kahve\", \"café\", \"kaffe\", \"coffee\") dans des dizaines de langues, traçant le parcours d'un seul mot aux côtés de la boisson elle-même.",
+        "why": "Reconnaître cette racine linguistique commune met en évidence à quel point une seule plante et une seule boisson se sont répandues dans les cultures depuis un point d'origine unique.",
+        "tip": "Remarquez comment les choix de langue d'un menu — comme laisser \"espresso\" non traduit — signalent souvent de quelle tradition caféière un café s'inspire.",
+        "mistake": "Supposer que des termes régionaux pour le café ne sont pas liés simplement parce qu'ils sonnent différemment, alors que beaucoup remontent à la même racine linguistique.",
+        "challenge": "Pourquoi un seul mot se répandrait-il presque inchangé à travers autant de familles linguistiques non apparentées ?"
+      },
+      "it": {
+        "title": "Il Nome del Caffè tra le Culture",
+        "definition": "La parola per caffè condivide una radice riconoscibile (\"kahve\", \"café\", \"kaffe\", \"coffee\") in decine di lingue, tracciando il percorso di una singola parola insieme alla bevanda stessa.",
+        "why": "Riconoscere questa radice linguistica condivisa evidenzia quanto profondamente una singola pianta e bevanda si sia diffusa nelle culture da un unico punto di origine.",
+        "tip": "Nota come le scelte linguistiche di un menu — come lasciare \"espresso\" non tradotto — spesso segnalino da quale tradizione del caffè un locale attinge.",
+        "mistake": "Presumere che termini regionali del caffè non siano collegati solo perché suonano diversi, quando molti risalgono alla stessa radice linguistica.",
+        "challenge": "Perché una singola parola si diffonderebbe quasi invariata attraverso così tante famiglie linguistiche non correlate?"
+      }
+    }
   }
 ]

@@ -25579,5 +25579,485 @@
       }
     },
     "id": 362
+  },
+  {
+    "number": "363",
+    "title": "Indonesia: Sumatra Wet-Hulled Processing",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "363.jpg",
+    "definition": "Sumatra's wet-hulled process (Giling Basah) removes the parchment layer while beans are still high in moisture, producing coffee's characteristically low acidity, heavy body, and earthy, herbal flavor notes.",
+    "why": "Wet-hulling explains why Indonesian coffees taste so different from washed or natural coffees elsewhere — recognizing the process helps predict the cup before you even taste it.",
+    "tip": "Look for tasting notes like \"earthy,\" \"herbal,\" \"spice,\" or \"tobacco\" as strong indicators of a wet-hulled Sumatran coffee.",
+    "mistake": "Judging a wet-hulled Sumatran coffee against washed African or Central American coffees using the same expectations for clean acidity.",
+    "challenge": "Why might a processing method born from humid harvest conditions become a defining regional flavor signature rather than just a practical workaround?",
+    "related": [
+      "089",
+      "094"
+    ],
+    "translations": {
+      "es": {
+        "title": "Indonesia: Sumatra y el Procesado Semi-lavado",
+        "definition": "El proceso semi-lavado de Sumatra (Giling Basah) retira el pergamino mientras el grano aún tiene alta humedad, produciendo una acidez baja, cuerpo pesado y notas terrosas y herbales características.",
+        "why": "El semi-lavado explica por qué los cafés indonesios saben tan diferente a los lavados o naturales de otras zonas — reconocer el proceso ayuda a predecir la taza antes de probarla.",
+        "tip": "Busca notas como \"terroso\", \"herbal\", \"especiado\" o \"tabaco\" como fuertes indicadores de un Sumatra semi-lavado.",
+        "mistake": "Juzgar un Sumatra semi-lavado con las mismas expectativas de acidez limpia que un café lavado africano o centroamericano.",
+        "challenge": "¿Por qué un método de procesado nacido de condiciones húmedas de cosecha podría convertirse en una seña de identidad regional en vez de solo una solución práctica?"
+      },
+      "pt": {
+        "title": "Indonésia: Sumatra e o Processamento Semi-lavado",
+        "definition": "O processo semi-lavado de Sumatra (Giling Basah) remove o pergaminho enquanto o grão ainda tem alta umidade, produzindo baixa acidez, corpo pesado e notas terrosas e herbais características.",
+        "why": "O semi-lavado explica por que os cafés indonésios têm sabor tão diferente dos lavados ou naturais de outras regiões — reconhecer o processo ajuda a prever a xícara antes mesmo de prová-la.",
+        "tip": "Procure notas como \"terroso\", \"herbal\", \"especiado\" ou \"tabaco\" como fortes indicadores de um Sumatra semi-lavado.",
+        "mistake": "Julgar um Sumatra semi-lavado com as mesmas expectativas de acidez limpa de um café lavado africano ou centro-americano.",
+        "challenge": "Por que um método de processamento nascido de condições úmidas de colheita pode se tornar uma marca regional definidora em vez de apenas uma solução prática?"
+      },
+      "de": {
+        "title": "Indonesien: Sumatra und die Nassschälung",
+        "definition": "Beim sumatranischen Nassschälverfahren (Giling Basah) wird die Pergamenthaut entfernt, während die Bohnen noch sehr feucht sind — das ergibt die typisch niedrige Säure, den schweren Körper und erdig-krautige Aromen.",
+        "why": "Die Nassschälung erklärt, warum indonesischer Kaffee so anders schmeckt als gewaschener oder natural aufbereiteter Kaffee anderswo — wer das Verfahren kennt, kann die Tasse vorhersagen.",
+        "tip": "Achte auf Aromenbeschreibungen wie \"erdig\", \"krautig\", \"würzig\" oder \"Tabak\" als starke Hinweise auf einen nassgeschälten Sumatra.",
+        "mistake": "Einen nassgeschälten Sumatra mit denselben Erwartungen an klare Säure zu bewerten wie einen gewaschenen afrikanischen oder mittelamerikanischen Kaffee.",
+        "challenge": "Warum könnte ein Aufbereitungsverfahren, das aus feuchten Erntebedingungen entstand, zu einem regionalen Geschmacksmerkmal werden statt nur ein praktischer Behelf zu bleiben?"
+      },
+      "fr": {
+        "title": "Indonésie : Sumatra et le Procédé Semi-lavé",
+        "definition": "Le procédé semi-lavé de Sumatra (Giling Basah) retire le parchemin alors que les grains sont encore très humides, produisant une acidité faible, un corps lourd et des notes terreuses et herbacées caractéristiques.",
+        "why": "Le semi-lavé explique pourquoi les cafés indonésiens ont un goût si différent des cafés lavés ou naturels d'ailleurs — reconnaître le procédé aide à anticiper la tasse avant même de la goûter.",
+        "tip": "Recherchez des notes comme \"terreux\", \"herbacé\", \"épicé\" ou \"tabac\", indices forts d'un Sumatra semi-lavé.",
+        "mistake": "Juger un Sumatra semi-lavé avec les mêmes attentes d'acidité nette qu'un café lavé africain ou centraméricain.",
+        "challenge": "Pourquoi une méthode de traitement née de conditions de récolte humides pourrait-elle devenir une signature aromatique régionale plutôt qu'un simple palliatif pratique ?"
+      },
+      "it": {
+        "title": "Indonesia: Sumatra e la Lavorazione Semi-lavata",
+        "definition": "Il processo semi-lavato di Sumatra (Giling Basah) rimuove il pergamino mentre i chicchi hanno ancora un'umidità elevata, producendo bassa acidità, corpo pieno e note terrose ed erbacee caratteristiche.",
+        "why": "Il semi-lavato spiega perché i caffè indonesiani hanno un sapore così diverso da quelli lavati o naturali di altre zone — riconoscere il processo aiuta a prevedere la tazza ancora prima di assaggiarla.",
+        "tip": "Cerca note come \"terroso\", \"erbaceo\", \"speziato\" o \"tabacco\" come forti indicatori di un Sumatra semi-lavato.",
+        "mistake": "Giudicare un Sumatra semi-lavato con le stesse aspettative di acidità pulita di un caffè lavato africano o centroamericano.",
+        "challenge": "Perché un metodo di lavorazione nato da condizioni di raccolta umide potrebbe diventare una firma regionale di sapore invece di un semplice espediente pratico?"
+      }
+    },
+    "id": 363
+  },
+  {
+    "number": "364",
+    "title": "Coffee & Beer: Stouts and Barrel-Aged Collaborations",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "364.jpg",
+    "definition": "Coffee and beer intersect most visibly in coffee stouts and barrel-aged beers, where roasted malt's natural coffee-like bitterness is amplified with real cold brew or whole beans steeped directly in the fermenting beer.",
+    "why": "Understanding this crossover helps coffee professionals collaborate credibly with breweries and speak the shared roasted-bitterness vocabulary.",
+    "tip": "Taste a coffee stout alongside the actual coffee used in it to hear the specific flavor notes echoed in the beer.",
+    "mistake": "Assuming any dark beer counts as a \"coffee beer\" without real coffee addition — roasted-malt flavor alone isn't the same thing.",
+    "challenge": "What makes cold brew a more common brewing-industry addition than hot-brewed coffee for these collaborations?",
+    "related": [
+      "283",
+      "289"
+    ],
+    "translations": {
+      "es": {
+        "title": "Café y Cerveza: Stouts y Colaboraciones en Barrica",
+        "definition": "Café y cerveza se cruzan más claramente en las stouts de café y cervezas envejecidas en barrica, donde el amargor natural de la malta tostada se amplifica con cold brew real o granos enteros macerados directamente en la fermentación.",
+        "why": "Entender este cruce ayuda a los profesionales del café a colaborar de forma creíble con cervecerías y hablar el vocabulario compartido del amargor tostado.",
+        "tip": "Prueba una stout de café junto al café real usado en ella para reconocer las notas específicas que se reflejan en la cerveza.",
+        "mistake": "Asumir que cualquier cerveza oscura es una \"cerveza de café\" sin adición real de café — el sabor de malta tostada por sí solo no es lo mismo.",
+        "challenge": "¿Por qué el cold brew es una adición más común que el café preparado en caliente en estas colaboraciones?"
+      },
+      "pt": {
+        "title": "Café e Cerveja: Stouts e Colaborações em Barril",
+        "definition": "Café e cerveja se cruzam mais claramente nas stouts de café e cervejas envelhecidas em barril, onde o amargor natural do malte torrado é ampliado com cold brew real ou grãos inteiros infusionados diretamente na fermentação.",
+        "why": "Entender esse cruzamento ajuda profissionais de café a colaborar de forma credível com cervejarias e falar o vocabulário compartilhado de amargor torrado.",
+        "tip": "Prove uma stout de café junto com o café real usado nela para reconhecer as notas específicas ecoadas na cerveja.",
+        "mistake": "Assumir que qualquer cerveja escura conta como \"cerveja de café\" sem adição real de café — o sabor de malte torrado sozinho não é a mesma coisa.",
+        "challenge": "Por que o cold brew é uma adição mais comum que o café preparado quente nessas colaborações?"
+      },
+      "de": {
+        "title": "Kaffee & Bier: Stouts und Fassreifungen",
+        "definition": "Kaffee und Bier treffen sich am deutlichsten bei Kaffee-Stouts und fassgereiften Bieren, bei denen die natürliche Röstbitterkeit des Malzes mit echtem Cold Brew oder ganzen, direkt in der Gärung eingelegten Bohnen verstärkt wird.",
+        "why": "Wer dieses Crossover versteht, kann glaubwürdig mit Brauereien zusammenarbeiten und das gemeinsame Vokabular der Röstbitterkeit sprechen.",
+        "tip": "Probiere einen Kaffee-Stout zusammen mit dem tatsächlich verwendeten Kaffee, um die spezifischen Aromen im Bier wiederzuerkennen.",
+        "mistake": "Anzunehmen, jedes dunkle Bier zähle als \"Kaffeebier\", ohne dass echter Kaffee zugesetzt wurde — reine Röstmalz-Aromatik ist nicht dasselbe.",
+        "challenge": "Warum ist Cold Brew bei solchen Kollaborationen üblicher als heiß aufgebrühter Kaffee?"
+      },
+      "fr": {
+        "title": "Café et Bière : Stouts et Collaborations en Fût",
+        "definition": "Café et bière se rencontrent le plus nettement dans les stouts au café et les bières vieillies en fût, où l'amertume naturelle du malt torréfié est amplifiée par du vrai cold brew ou des grains entiers infusés directement dans la fermentation.",
+        "why": "Comprendre ce croisement aide les professionnels du café à collaborer de façon crédible avec les brasseries et à parler le vocabulaire commun de l'amertume torréfiée.",
+        "tip": "Goûtez une stout au café à côté du café réellement utilisé pour reconnaître les notes précises qui se retrouvent dans la bière.",
+        "mistake": "Supposer que toute bière brune est une \"bière au café\" sans ajout réel de café — l'arôme du malt torréfié seul n'est pas la même chose.",
+        "challenge": "Pourquoi le cold brew est-il un ajout plus courant que le café infusé chaud dans ces collaborations ?"
+      },
+      "it": {
+        "title": "Caffè e Birra: Stout e Collaborazioni in Botte",
+        "definition": "Caffè e birra si incontrano più chiaramente nelle stout al caffè e nelle birre invecchiate in botte, dove l'amarezza naturale del malto tostato viene amplificata con vero cold brew o chicchi interi infusi direttamente nella fermentazione.",
+        "why": "Capire questo incrocio aiuta i professionisti del caffè a collaborare in modo credibile con i birrifici e a parlare il vocabolario condiviso dell'amarezza tostata.",
+        "tip": "Assaggia una stout al caffè insieme al caffè realmente usato per riconoscere le note specifiche che riecheggiano nella birra.",
+        "mistake": "Presumere che qualsiasi birra scura conti come \"birra al caffè\" senza una vera aggiunta di caffè — il solo sapore di malto tostato non è la stessa cosa.",
+        "challenge": "Perché il cold brew è un'aggiunta più comune del caffè preparato caldo in queste collaborazioni?"
+      }
+    },
+    "id": 364
+  },
+  {
+    "number": "365",
+    "title": "Judging Score Sheets Compared",
+    "category": "XSN",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "365.jpg",
+    "definition": "SCA cupping forms, wine competition score sheets, and whisky judging cards all break a sensory experience into weighted categories, but assign very different point values to aroma, balance, and finish.",
+    "why": "Comparing score sheets reveals what each industry has decided matters most, which in turn shapes how products in that industry are actually made.",
+    "tip": "Read a sample score sheet from wine or whisky judging once — the category breakdown alone teaches you what experts are trained to notice first.",
+    "mistake": "Assuming a high overall score is a simple average rather than a weighted formula that favors specific categories.",
+    "challenge": "Why might very different industries independently converge on breaking a tasting experience into similar core categories like aroma, balance, and finish?",
+    "related": [
+      "292",
+      "295"
+    ],
+    "translations": {
+      "es": {
+        "title": "Comparando Hojas de Puntuación de Catas",
+        "definition": "Las hojas de catación SCA, las de competiciones de vino y las de whisky dividen la experiencia sensorial en categorías ponderadas, pero asignan valores muy distintos a aroma, equilibrio y final.",
+        "why": "Comparar hojas de puntuación revela qué considera prioritario cada industria, lo cual moldea cómo se elaboran realmente sus productos.",
+        "tip": "Lee una hoja de puntuación de vino o whisky una vez — el desglose de categorías por sí solo enseña qué se entrena a notar primero a los expertos.",
+        "mistake": "Asumir que una puntuación alta es un simple promedio en vez de una fórmula ponderada que favorece categorías específicas.",
+        "challenge": "¿Por qué industrias tan distintas podrían converger de forma independiente en dividir una experiencia de cata en categorías similares como aroma, equilibrio y final?"
+      },
+      "pt": {
+        "title": "Comparando Fichas de Pontuação de Degustação",
+        "definition": "As fichas de cupping da SCA, de competições de vinho e de uísque dividem a experiência sensorial em categorias ponderadas, mas atribuem valores muito diferentes a aroma, equilíbrio e final.",
+        "why": "Comparar fichas de pontuação revela o que cada indústria decidiu que importa mais, o que molda como os produtos daquela indústria são realmente feitos.",
+        "tip": "Leia uma ficha de pontuação de vinho ou uísque uma vez — a divisão de categorias por si só ensina o que os especialistas são treinados a notar primeiro.",
+        "mistake": "Assumir que uma pontuação geral alta é uma média simples em vez de uma fórmula ponderada que favorece categorias específicas.",
+        "challenge": "Por que indústrias tão diferentes podem convergir independentemente em dividir uma experiência de degustação em categorias centrais semelhantes, como aroma, equilíbrio e final?"
+      },
+      "de": {
+        "title": "Bewertungsbögen im Vergleich",
+        "definition": "SCA-Cupping-Bögen, Weinwettbewerbs-Bewertungen und Whisky-Jurykarten unterteilen das sensorische Erlebnis alle in gewichtete Kategorien, vergeben aber sehr unterschiedliche Punktwerte für Aroma, Balance und Abgang.",
+        "why": "Der Vergleich von Bewertungsbögen zeigt, was jede Branche für am wichtigsten hält — und das prägt wiederum, wie Produkte dort tatsächlich hergestellt werden.",
+        "tip": "Lies dir einmal einen Bewertungsbogen aus der Wein- oder Whisky-Jury durch — allein die Kategorieaufteilung zeigt, worauf Experten zuerst trainiert werden.",
+        "mistake": "Anzunehmen, eine hohe Gesamtpunktzahl sei ein einfacher Durchschnitt statt einer gewichteten Formel, die bestimmte Kategorien bevorzugt.",
+        "challenge": "Warum könnten sehr unterschiedliche Branchen unabhängig voneinander darauf kommen, ein Verkostungserlebnis in ähnliche Kernkategorien wie Aroma, Balance und Abgang zu unterteilen?"
+      },
+      "fr": {
+        "title": "Comparaison des Grilles de Notation",
+        "definition": "Les fiches de cupping SCA, les grilles de concours de vin et les cartes de jugement de whisky décomposent toutes l'expérience sensorielle en catégories pondérées, mais attribuent des valeurs très différentes à l'arôme, à l'équilibre et à la finale.",
+        "why": "Comparer les grilles de notation révèle ce que chaque industrie considère comme prioritaire, ce qui façonne en retour la façon dont ses produits sont réellement élaborés.",
+        "tip": "Lisez une grille de notation de vin ou de whisky une fois — la seule répartition des catégories enseigne ce que les experts sont formés à repérer en premier.",
+        "mistake": "Supposer qu'une note globale élevée est une simple moyenne plutôt qu'une formule pondérée favorisant certaines catégories.",
+        "challenge": "Pourquoi des industries si différentes pourraient-elles converger indépendamment vers des catégories centrales similaires comme l'arôme, l'équilibre et la finale ?"
+      },
+      "it": {
+        "title": "Confronto tra Schede di Valutazione",
+        "definition": "Le schede di cupping SCA, le griglie dei concorsi enologici e le schede di giudizio del whisky suddividono tutte l'esperienza sensoriale in categorie ponderate, ma assegnano valori molto diversi ad aroma, equilibrio e finale.",
+        "why": "Confrontare le schede di valutazione rivela cosa ogni settore ha deciso essere più importante, il che a sua volta plasma come i prodotti vengono realmente realizzati.",
+        "tip": "Leggi una scheda di valutazione del vino o del whisky una volta — la sola suddivisione in categorie insegna cosa gli esperti sono addestrati a notare per primo.",
+        "mistake": "Presumere che un punteggio complessivo alto sia una semplice media invece di una formula ponderata che favorisce categorie specifiche.",
+        "challenge": "Perché settori molto diversi potrebbero convergere indipendentemente nel suddividere un'esperienza di degustazione in categorie simili come aroma, equilibrio e finale?"
+      }
+    },
+    "id": 365
+  },
+  {
+    "number": "366",
+    "title": "Cross-Contamination Prevention",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "366.jpg",
+    "definition": "Cross-contamination prevention means keeping raw or allergen-containing ingredients, surfaces, and utensils physically separate from ready-to-serve food and drink at every step.",
+    "why": "A single shared scoop, cloth, or unwashed hand can transfer an allergen or pathogen even when every other food safety step was followed correctly.",
+    "tip": "Color-code or clearly label separate equipment for allergen-free prep, and never reuse a utensil across ingredients \"just this once.\"",
+    "mistake": "Assuming a quick rinse of a shared utensil is enough to remove allergen traces between uses.",
+    "challenge": "Why can a kitchen with excellent individual food safety habits still fail specifically on cross-contamination?",
+    "related": [
+      "316",
+      "324"
+    ],
+    "translations": {
+      "es": {
+        "title": "Prevención de Contaminación Cruzada",
+        "definition": "Prevenir la contaminación cruzada significa mantener los ingredientes crudos o alergénicos, superficies y utensilios físicamente separados de la comida y bebida lista para servir en cada paso.",
+        "why": "Una sola cuchara compartida, un paño o una mano sin lavar pueden transferir un alérgeno o patógeno aunque se hayan seguido bien todos los demás pasos de seguridad alimentaria.",
+        "tip": "Codifica por colores o etiqueta claramente el equipo separado para preparación libre de alérgenos, y nunca reutilices un utensilio entre ingredientes \"solo esta vez\".",
+        "mistake": "Asumir que un enjuague rápido de un utensilio compartido basta para eliminar rastros de alérgenos entre usos.",
+        "challenge": "¿Por qué una cocina con excelentes hábitos individuales de seguridad alimentaria puede aun así fallar específicamente en contaminación cruzada?"
+      },
+      "pt": {
+        "title": "Prevenção de Contaminação Cruzada",
+        "definition": "Prevenir a contaminação cruzada significa manter ingredientes crus ou alergênicos, superfícies e utensílios fisicamente separados dos alimentos e bebidas prontos para servir em cada etapa.",
+        "why": "Uma única colher compartilhada, pano ou mão não lavada pode transferir um alérgeno ou patógeno mesmo quando todas as outras etapas de segurança alimentar foram seguidas corretamente.",
+        "tip": "Use código de cores ou rotule claramente equipamentos separados para preparo livre de alérgenos, e nunca reutilize um utensílio entre ingredientes \"só desta vez\".",
+        "mistake": "Assumir que um enxágue rápido de um utensílio compartilhado basta para remover vestígios de alérgenos entre usos.",
+        "challenge": "Por que uma cozinha com excelentes hábitos individuais de segurança alimentar ainda pode falhar especificamente na contaminação cruzada?"
+      },
+      "de": {
+        "title": "Vermeidung von Kreuzkontamination",
+        "definition": "Kreuzkontamination zu vermeiden bedeutet, rohe oder allergenhaltige Zutaten, Oberflächen und Utensilien bei jedem Schritt physisch von servierfertigem Essen und Getränken getrennt zu halten.",
+        "why": "Ein einziger gemeinsam genutzter Löffel, ein Tuch oder eine ungewaschene Hand kann ein Allergen oder einen Erreger übertragen — selbst wenn alle anderen Hygieneschritte korrekt befolgt wurden.",
+        "tip": "Kennzeichne separates Equipment für allergenfreie Zubereitung farblich oder deutlich, und verwende ein Utensil nie \"nur dieses eine Mal\" für ein anderes Zutat.",
+        "mistake": "Anzunehmen, ein kurzes Abspülen eines gemeinsam genutzten Utensils reiche aus, um Allergenspuren zwischen den Anwendungen zu entfernen.",
+        "challenge": "Warum kann eine Küche mit hervorragenden individuellen Hygienegewohnheiten trotzdem gerade bei Kreuzkontamination versagen?"
+      },
+      "fr": {
+        "title": "Prévention de la Contamination Croisée",
+        "definition": "Prévenir la contamination croisée signifie garder les ingrédients crus ou allergènes, les surfaces et les ustensiles physiquement séparés des aliments et boissons prêts à servir, à chaque étape.",
+        "why": "Une seule cuillère partagée, un chiffon ou une main non lavée peut transférer un allergène ou un pathogène, même si toutes les autres étapes de sécurité alimentaire ont été correctement suivies.",
+        "tip": "Codez par couleur ou étiquetez clairement un équipement séparé pour la préparation sans allergènes, et ne réutilisez jamais un ustensile entre ingrédients \"juste cette fois\".",
+        "mistake": "Supposer qu'un simple rinçage rapide d'un ustensile partagé suffit à éliminer les traces d'allergènes entre deux usages.",
+        "challenge": "Pourquoi une cuisine aux excellentes habitudes individuelles d'hygiène alimentaire peut-elle quand même échouer spécifiquement sur la contamination croisée ?"
+      },
+      "it": {
+        "title": "Prevenzione della Contaminazione Incrociata",
+        "definition": "Prevenire la contaminazione incrociata significa mantenere ingredienti crudi o allergenici, superfici e utensili fisicamente separati dal cibo e dalle bevande pronte da servire in ogni fase.",
+        "why": "Un solo cucchiaio condiviso, un panno o una mano non lavata può trasferire un allergene o un patogeno anche quando tutti gli altri passaggi di sicurezza alimentare sono stati seguiti correttamente.",
+        "tip": "Codifica a colori o etichetta chiaramente attrezzature separate per la preparazione senza allergeni, e non riutilizzare mai un utensile tra ingredienti \"solo questa volta\".",
+        "mistake": "Presumere che un rapido risciacquo di un utensile condiviso sia sufficiente a rimuovere tracce di allergeni tra un uso e l'altro.",
+        "challenge": "Perché una cucina con ottime abitudini individuali di sicurezza alimentare può comunque fallire specificamente sulla contaminazione incrociata?"
+      }
+    },
+    "id": 366
+  },
+  {
+    "number": "367",
+    "title": "Recall & Corrective Action Procedures",
+    "category": "HAC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "367.jpg",
+    "definition": "A recall or corrective action procedure is the documented plan for exactly what a café does the moment a food safety problem is discovered — from pulling stock to notifying the right people.",
+    "why": "Reacting well in the first hour after discovering a problem limits harm and shows regulators the business takes food safety seriously.",
+    "tip": "Keep supplier and batch information easy to trace so affected stock can be identified and pulled quickly, not guessed at under pressure.",
+    "mistake": "Waiting to have \"the full picture\" before pulling potentially affected stock, when acting immediately and correcting course later is the safer choice.",
+    "challenge": "Why does having a written procedure in advance matter more than simply trusting staff to \"do the right thing\" in the moment?",
+    "related": [
+      "322",
+      "326"
+    ],
+    "translations": {
+      "es": {
+        "title": "Procedimientos de Retiro y Acción Correctiva",
+        "definition": "Un procedimiento de retiro o acción correctiva es el plan documentado de qué hace exactamente un café en el momento en que se descubre un problema de seguridad alimentaria — desde retirar el producto hasta notificar a las personas correctas.",
+        "why": "Reaccionar bien en la primera hora tras descubrir un problema limita el daño y demuestra a los reguladores que el negocio se toma en serio la seguridad alimentaria.",
+        "tip": "Mantén la información de proveedor y lote fácil de rastrear para poder identificar y retirar rápidamente el producto afectado, sin adivinar bajo presión.",
+        "mistake": "Esperar a tener \"el panorama completo\" antes de retirar producto potencialmente afectado, cuando actuar de inmediato y corregir el rumbo después es la opción más segura.",
+        "challenge": "¿Por qué tener un procedimiento escrito de antemano importa más que simplemente confiar en que el personal \"hará lo correcto\" en el momento?"
+      },
+      "pt": {
+        "title": "Procedimentos de Recolhimento e Ação Corretiva",
+        "definition": "Um procedimento de recolhimento ou ação corretiva é o plano documentado do que exatamente um café faz no momento em que um problema de segurança alimentar é descoberto — desde retirar o estoque até notificar as pessoas certas.",
+        "why": "Reagir bem na primeira hora após descobrir um problema limita o dano e mostra aos reguladores que o negócio leva a segurança alimentar a sério.",
+        "tip": "Mantenha as informações de fornecedor e lote fáceis de rastrear para que o estoque afetado possa ser identificado e retirado rapidamente, sem adivinhação sob pressão.",
+        "mistake": "Esperar ter \"o quadro completo\" antes de retirar estoque potencialmente afetado, quando agir imediatamente e corrigir o rumo depois é a opção mais segura.",
+        "challenge": "Por que ter um procedimento escrito com antecedência importa mais do que simplesmente confiar que a equipe vai \"fazer a coisa certa\" no momento?"
+      },
+      "de": {
+        "title": "Rückruf- und Korrekturmaßnahmen",
+        "definition": "Ein Rückruf- oder Korrekturmaßnahmenverfahren ist der dokumentierte Plan dafür, was ein Café genau in dem Moment tut, in dem ein Lebensmittelsicherheitsproblem entdeckt wird — vom Zurückziehen der Ware bis zur Benachrichtigung der richtigen Stellen.",
+        "why": "Gut auf die erste Stunde nach Entdeckung eines Problems zu reagieren begrenzt den Schaden und zeigt Aufsichtsbehörden, dass das Unternehmen Lebensmittelsicherheit ernst nimmt.",
+        "tip": "Halte Lieferanten- und Chargeninformationen leicht nachverfolgbar, damit betroffene Ware schnell identifiziert und zurückgezogen werden kann, statt unter Druck zu raten.",
+        "mistake": "Zu warten, bis man \"das vollständige Bild\" hat, bevor potenziell betroffene Ware zurückgezogen wird, obwohl sofortiges Handeln mit späterer Korrektur die sicherere Wahl ist.",
+        "challenge": "Warum ist ein im Voraus schriftlich festgelegtes Verfahren wichtiger, als einfach darauf zu vertrauen, dass Mitarbeiter im Moment \"das Richtige tun\"?"
+      },
+      "fr": {
+        "title": "Procédures de Rappel et d'Actions Correctives",
+        "definition": "Une procédure de rappel ou d'action corrective est le plan documenté précisant ce qu'un café fait exactement au moment où un problème de sécurité alimentaire est découvert — du retrait du stock à la notification des bonnes personnes.",
+        "why": "Bien réagir dans la première heure suivant la découverte d'un problème limite les dégâts et montre aux autorités que l'établissement prend la sécurité alimentaire au sérieux.",
+        "tip": "Gardez les informations sur le fournisseur et le lot faciles à tracer afin que le stock concerné puisse être identifié et retiré rapidement, sans deviner sous pression.",
+        "mistake": "Attendre d'avoir \"une vue d'ensemble complète\" avant de retirer un stock potentiellement concerné, alors qu'agir immédiatement puis ajuster ensuite est le choix le plus sûr.",
+        "challenge": "Pourquoi une procédure écrite à l'avance compte-t-elle plus que de simplement faire confiance au personnel pour \"faire ce qu'il faut\" sur le moment ?"
+      },
+      "it": {
+        "title": "Procedure di Richiamo e Azioni Correttive",
+        "definition": "Una procedura di richiamo o azione correttiva è il piano documentato di cosa fa esattamente un caffè nel momento in cui viene scoperto un problema di sicurezza alimentare — dal ritiro delle scorte alla notifica alle persone giuste.",
+        "why": "Reagire bene nella prima ora dopo la scoperta di un problema limita il danno e dimostra agli enti regolatori che l'attività prende sul serio la sicurezza alimentare.",
+        "tip": "Mantieni le informazioni su fornitore e lotto facilmente tracciabili così le scorte interessate possono essere identificate e ritirate rapidamente, senza indovinare sotto pressione.",
+        "mistake": "Aspettare di avere \"il quadro completo\" prima di ritirare scorte potenzialmente interessate, quando agire immediatamente e correggere in seguito è la scelta più sicura.",
+        "challenge": "Perché avere una procedura scritta in anticipo conta più che semplicemente fidarsi che il personale \"faccia la cosa giusta\" sul momento?"
+      }
+    },
+    "id": 367
+  },
+  {
+    "number": "368",
+    "title": "Coffeehouse Chess and Slow Culture",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "368.jpg",
+    "definition": "Many historic coffeehouses became known as places for slow games like chess, where a single cup of coffee bought hours of table time and quiet concentration.",
+    "why": "This tradition shows coffee's historic role as a social lubricant for focus and patience, not just a quick source of energy.",
+    "tip": "Notice how modern \"slow coffee\" cafés and specialty seating still echo this — spaces designed for lingering, not turnover.",
+    "mistake": "Assuming café culture has always prioritized speed and takeaway, when historic coffeehouses often did the opposite.",
+    "challenge": "What does a café's seating and layout choices reveal about whether it wants patrons to linger or move through quickly?",
+    "related": [
+      "204",
+      "208"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Ajedrez en las Cafeterías y la Cultura Lenta",
+        "definition": "Muchas cafeterías históricas se hicieron conocidas como lugares para juegos lentos como el ajedrez, donde una sola taza de café compraba horas de mesa y concentración tranquila.",
+        "why": "Esta tradición muestra el papel histórico del café como lubricante social para la concentración y la paciencia, no solo como fuente rápida de energía.",
+        "tip": "Fíjate cómo las cafeterías modernas de \"café lento\" y sus asientos aún reflejan esto — espacios pensados para quedarse, no para la rotación rápida.",
+        "mistake": "Asumir que la cultura de café siempre priorizó la rapidez y para llevar, cuando las cafeterías históricas solían hacer justo lo contrario.",
+        "challenge": "¿Qué revelan las decisiones de asientos y disposición de una cafetería sobre si quiere que los clientes se queden o pasen rápido?"
+      },
+      "pt": {
+        "title": "Xadrez nas Cafeterias e a Cultura Lenta",
+        "definition": "Muitas cafeterias históricas ficaram conhecidas como locais para jogos lentos como xadrez, onde uma única xícara de café comprava horas de mesa e concentração tranquila.",
+        "why": "Essa tradição mostra o papel histórico do café como lubrificante social para foco e paciência, não apenas como fonte rápida de energia.",
+        "tip": "Note como cafeterias modernas de \"café lento\" e seus assentos ainda ecoam isso — espaços pensados para ficar, não para rotatividade.",
+        "mistake": "Assumir que a cultura de café sempre priorizou velocidade e para viagem, quando cafeterias históricas frequentemente faziam o oposto.",
+        "challenge": "O que as escolhas de assentos e layout de um café revelam sobre se ele quer que os clientes fiquem ou passem rapidamente?"
+      },
+      "de": {
+        "title": "Schach im Kaffeehaus und die Kultur der Langsamkeit",
+        "definition": "Viele historische Kaffeehäuser wurden bekannt als Orte für langsame Spiele wie Schach, wo eine einzige Tasse Kaffee stundenlangen Tischplatz und ruhige Konzentration erkaufte.",
+        "why": "Diese Tradition zeigt Kaffees historische Rolle als sozialer Katalysator für Konzentration und Geduld, nicht nur als schnelle Energiequelle.",
+        "tip": "Achte darauf, wie moderne \"Slow Coffee\"-Cafés und ihre Sitzgestaltung dies noch widerspiegeln — Räume, die zum Verweilen einladen, nicht zum schnellen Wechsel.",
+        "mistake": "Anzunehmen, Café-Kultur habe schon immer Schnelligkeit und Mitnahme priorisiert, obwohl historische Kaffeehäuser oft das Gegenteil taten.",
+        "challenge": "Was verraten Sitzordnung und Raumgestaltung eines Cafés darüber, ob Gäste verweilen oder schnell weiterziehen sollen?"
+      },
+      "fr": {
+        "title": "Les Échecs au Café et la Culture Lente",
+        "definition": "De nombreux cafés historiques sont devenus connus comme des lieux pour des jeux lents comme les échecs, où une seule tasse de café achetait des heures de table et de concentration tranquille.",
+        "why": "Cette tradition montre le rôle historique du café comme lubrifiant social pour la concentration et la patience, pas seulement comme source rapide d'énergie.",
+        "tip": "Remarquez comment les cafés modernes du \"slow coffee\" et leur agencement font encore écho à cela — des espaces pensés pour s'attarder, pas pour la rotation rapide.",
+        "mistake": "Supposer que la culture du café a toujours privilégié la rapidité et la vente à emporter, alors que les cafés historiques faisaient souvent l'inverse.",
+        "challenge": "Que révèlent les choix d'agencement et de sièges d'un café sur sa volonté de faire s'attarder ou circuler rapidement sa clientèle ?"
+      },
+      "it": {
+        "title": "Scacchi nei Caffè e la Cultura Lenta",
+        "definition": "Molti caffè storici divennero noti come luoghi per giochi lenti come gli scacchi, dove una sola tazza di caffè comprava ore di tavolo e concentrazione tranquilla.",
+        "why": "Questa tradizione mostra il ruolo storico del caffè come lubrificante sociale per la concentrazione e la pazienza, non solo come fonte rapida di energia.",
+        "tip": "Nota come i moderni caffè \"slow coffee\" e la loro disposizione dei posti a sedere riecheggino ancora questo — spazi pensati per trattenersi, non per il ricambio rapido.",
+        "mistake": "Presumere che la cultura del caffè abbia sempre privilegiato velocità e asporto, quando i caffè storici spesso facevano l'opposto.",
+        "challenge": "Cosa rivelano le scelte di posti a sedere e disposizione di un caffè sulla volontà di far trattenere o far circolare rapidamente la clientela?"
+      }
+    },
+    "id": 368
+  },
+  {
+    "number": "369",
+    "title": "Coffee and Religious Traditions",
+    "category": "CLT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "369.jpg",
+    "definition": "Coffee has intersected with religion across history, from Sufi orders using it to stay alert through night prayers to early debates over whether it should be considered permissible at all.",
+    "why": "These religious threads shaped how quickly and where coffee spread historically, well before it became a secular daily habit.",
+    "tip": "The word \"qahwa,\" coffee's Arabic root, originally referred more broadly to a drink that suppressed appetite — worth knowing for the etymology alone.",
+    "mistake": "Treating coffee's history as a purely secular, commercial story with no religious or spiritual dimension.",
+    "challenge": "Why might a stimulant become entangled in religious debate in a way that a purely social drink might not?",
+    "related": [
+      "200",
+      "210"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Café y las Tradiciones Religiosas",
+        "definition": "El café se ha cruzado con la religión a lo largo de la historia, desde las órdenes sufíes que lo usaban para mantenerse alerta durante las oraciones nocturnas hasta los primeros debates sobre si debía considerarse permitido.",
+        "why": "Estos hilos religiosos moldearon la rapidez y los lugares por donde se extendió el café históricamente, mucho antes de convertirse en un hábito diario secular.",
+        "tip": "La palabra \"qahwa\", raíz árabe de café, originalmente se refería de forma más amplia a una bebida que suprimía el apetito — vale la pena conocerlo solo por la etimología.",
+        "mistake": "Tratar la historia del café como una historia puramente secular y comercial sin dimensión religiosa o espiritual.",
+        "challenge": "¿Por qué un estimulante podría verse envuelto en un debate religioso de una forma en que una bebida puramente social no lo estaría?"
+      },
+      "pt": {
+        "title": "O Café e as Tradições Religiosas",
+        "definition": "O café se cruzou com a religião ao longo da história, desde as ordens sufis que o usavam para se manter alerta durante orações noturnas até os primeiros debates sobre se deveria ser considerado permitido.",
+        "why": "Esses fios religiosos moldaram a rapidez e os lugares por onde o café se espalhou historicamente, muito antes de se tornar um hábito diário secular.",
+        "tip": "A palavra \"qahwa\", raiz árabe de café, originalmente se referia de forma mais ampla a uma bebida que suprimia o apetite — vale a pena conhecer só pela etimologia.",
+        "mistake": "Tratar a história do café como uma história puramente secular e comercial, sem dimensão religiosa ou espiritual.",
+        "challenge": "Por que um estimulante pode se enredar em um debate religioso de uma forma que uma bebida puramente social não se enredaria?"
+      },
+      "de": {
+        "title": "Kaffee und Religiöse Traditionen",
+        "definition": "Kaffee hat sich im Laufe der Geschichte immer wieder mit Religion überschnitten — von Sufi-Orden, die ihn nutzten, um während nächtlicher Gebete wach zu bleiben, bis zu frühen Debatten darüber, ob er überhaupt erlaubt sein sollte.",
+        "why": "Diese religiösen Fäden prägten, wie schnell und wo sich Kaffee historisch verbreitete, lange bevor er zur weltlichen Alltagsgewohnheit wurde.",
+        "tip": "Das Wort \"qahwa\", die arabische Wurzel von Kaffee, bezeichnete ursprünglich allgemeiner ein Getränk, das den Appetit unterdrückte — allein wegen der Etymologie wissenswert.",
+        "mistake": "Die Geschichte des Kaffees als rein weltliche, kommerzielle Geschichte ohne religiöse oder spirituelle Dimension zu behandeln.",
+        "challenge": "Warum könnte ein Stimulans in religiöse Debatten verstrickt werden, während ein rein geselliges Getränk das nicht würde?"
+      },
+      "fr": {
+        "title": "Le Café et les Traditions Religieuses",
+        "definition": "Le café a croisé la religion tout au long de l'histoire, des ordres soufis l'utilisant pour rester éveillés pendant les prières nocturnes aux premiers débats sur la question de savoir s'il devait être considéré comme permis.",
+        "why": "Ces fils religieux ont façonné la rapidité et les lieux de diffusion historique du café, bien avant qu'il ne devienne une habitude quotidienne laïque.",
+        "tip": "Le mot \"qahwa\", racine arabe de café, désignait à l'origine plus largement une boisson qui coupait l'appétit — cela vaut la peine d'être connu rien que pour l'étymologie.",
+        "mistake": "Traiter l'histoire du café comme une histoire purement laïque et commerciale, sans dimension religieuse ou spirituelle.",
+        "challenge": "Pourquoi un stimulant pourrait-il s'empêtrer dans un débat religieux d'une façon qu'une boisson purement sociale ne le ferait pas ?"
+      },
+      "it": {
+        "title": "Il Caffè e le Tradizioni Religiose",
+        "definition": "Il caffè si è intrecciato con la religione nel corso della storia, dagli ordini sufi che lo usavano per rimanere svegli durante le preghiere notturne ai primi dibattiti sul fatto che dovesse essere considerato lecito.",
+        "why": "Questi fili religiosi hanno plasmato la rapidità e i luoghi di diffusione storica del caffè, molto prima che diventasse un'abitudine quotidiana laica.",
+        "tip": "La parola \"qahwa\", radice araba di caffè, originariamente si riferiva più genericamente a una bevanda che sopprimeva l'appetito — vale la pena saperlo solo per l'etimologia.",
+        "mistake": "Trattare la storia del caffè come una storia puramente laica e commerciale, senza dimensione religiosa o spirituale.",
+        "challenge": "Perché uno stimolante potrebbe rimanere invischiato in un dibattito religioso in un modo in cui una bevanda puramente sociale non lo sarebbe?"
+      }
+    },
+    "id": 369
+  },
+  {
+    "number": "370",
+    "title": "Coffee Naming and Language Across Cultures",
+    "category": "CLT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "370.jpg",
+    "definition": "The word for coffee shares a recognizable root (\"kahve,\" \"café,\" \"kaffe,\" \"coffee\") across dozens of languages, tracing a single word's journey alongside the drink itself.",
+    "why": "Recognizing this shared linguistic root highlights how thoroughly one plant and drink spread across cultures from a single point of origin.",
+    "tip": "Notice how a menu's language choices — like keeping \"espresso\" untranslated — often signal which coffee tradition a café is drawing from.",
+    "mistake": "Assuming regional coffee terms are unrelated just because they sound different, when many trace back to the same linguistic root.",
+    "challenge": "Why would a single word spread almost unchanged across so many unrelated language families?",
+    "related": [
+      "197",
+      "210"
+    ],
+    "translations": {
+      "es": {
+        "title": "El Nombre del Café en Distintas Culturas",
+        "definition": "La palabra para café comparte una raíz reconocible (\"kahve\", \"café\", \"kaffe\", \"coffee\") en decenas de idiomas, trazando el recorrido de una sola palabra junto con la bebida misma.",
+        "why": "Reconocer esta raíz lingüística compartida resalta cuán completamente una sola planta y bebida se extendió por las culturas desde un único punto de origen.",
+        "tip": "Fíjate cómo las decisiones de idioma en un menú — como dejar \"espresso\" sin traducir — a menudo señalan de qué tradición cafetera se inspira una cafetería.",
+        "mistake": "Asumir que términos regionales del café no están relacionados solo porque suenan distinto, cuando muchos remontan a la misma raíz lingüística.",
+        "challenge": "¿Por qué una sola palabra se extendería casi sin cambios a través de tantas familias lingüísticas no relacionadas?"
+      },
+      "pt": {
+        "title": "O Nome do Café em Diferentes Culturas",
+        "definition": "A palavra para café compartilha uma raiz reconhecível (\"kahve\", \"café\", \"kaffe\", \"coffee\") em dezenas de idiomas, traçando a jornada de uma única palavra junto com a própria bebida.",
+        "why": "Reconhecer essa raiz linguística compartilhada destaca o quão completamente uma única planta e bebida se espalhou pelas culturas a partir de um único ponto de origem.",
+        "tip": "Note como as escolhas de idioma de um cardápio — como manter \"espresso\" sem tradução — muitas vezes sinalizam de qual tradição cafeeira um café se inspira.",
+        "mistake": "Assumir que termos regionais de café não estão relacionados só porque soam diferentes, quando muitos remontam à mesma raiz linguística.",
+        "challenge": "Por que uma única palavra se espalharia quase sem mudanças por tantas famílias linguísticas não relacionadas?"
+      },
+      "de": {
+        "title": "Kaffee-Bezeichnungen über Kulturen Hinweg",
+        "definition": "Das Wort für Kaffee teilt sich eine erkennbare Wurzel (\"kahve\", \"café\", \"kaffe\", \"coffee\") in Dutzenden Sprachen und zeichnet die Reise eines einzigen Wortes gemeinsam mit dem Getränk selbst nach.",
+        "why": "Diese gemeinsame sprachliche Wurzel zu erkennen zeigt, wie gründlich sich eine einzige Pflanze und ein Getränk von einem einzigen Ursprungspunkt aus über Kulturen hinweg verbreitet hat.",
+        "tip": "Achte darauf, wie die Sprachwahl auf einer Speisekarte — etwa \"espresso\" unübersetzt zu lassen — oft signalisiert, aus welcher Kaffeetradition ein Café schöpft.",
+        "mistake": "Anzunehmen, regionale Kaffeebegriffe seien unabhängig voneinander, nur weil sie unterschiedlich klingen, obwohl viele auf dieselbe sprachliche Wurzel zurückgehen.",
+        "challenge": "Warum würde sich ein einziges Wort über so viele nicht verwandte Sprachfamilien hinweg fast unverändert verbreiten?"
+      },
+      "fr": {
+        "title": "Le Nom du Café à Travers les Cultures",
+        "definition": "Le mot pour café partage une racine reconnaissable (\"kahve\", \"café\", \"kaffe\", \"coffee\") dans des dizaines de langues, traçant le parcours d'un seul mot aux côtés de la boisson elle-même.",
+        "why": "Reconnaître cette racine linguistique commune met en évidence à quel point une seule plante et une seule boisson se sont répandues dans les cultures depuis un point d'origine unique.",
+        "tip": "Remarquez comment les choix de langue d'un menu — comme laisser \"espresso\" non traduit — signalent souvent de quelle tradition caféière un café s'inspire.",
+        "mistake": "Supposer que des termes régionaux pour le café ne sont pas liés simplement parce qu'ils sonnent différemment, alors que beaucoup remontent à la même racine linguistique.",
+        "challenge": "Pourquoi un seul mot se répandrait-il presque inchangé à travers autant de familles linguistiques non apparentées ?"
+      },
+      "it": {
+        "title": "Il Nome del Caffè tra le Culture",
+        "definition": "La parola per caffè condivide una radice riconoscibile (\"kahve\", \"café\", \"kaffe\", \"coffee\") in decine di lingue, tracciando il percorso di una singola parola insieme alla bevanda stessa.",
+        "why": "Riconoscere questa radice linguistica condivisa evidenzia quanto profondamente una singola pianta e bevanda si sia diffusa nelle culture da un unico punto di origine.",
+        "tip": "Nota come le scelte linguistiche di un menu — come lasciare \"espresso\" non tradotto — spesso segnalino da quale tradizione del caffè un locale attinge.",
+        "mistake": "Presumere che termini regionali del caffè non siano collegati solo perché suonano diversi, quando molti risalgono alla stessa radice linguistica.",
+        "challenge": "Perché una singola parola si diffonderebbe quasi invariata attraverso così tante famiglie linguistiche non correlate?"
+      }
+    },
+    "id": 370
   }
 ]

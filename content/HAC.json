@@ -1060,5 +1060,123 @@
         "challenge": "Perché un sistema di sicurezza alimentare che funziona solo sotto supervisione potrebbe in realtà essere più fragile di quanto sembri?"
       }
     }
+  },
+  {
+    "number": "366",
+    "title": "Cross-Contamination Prevention",
+    "category": "HAC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "366.jpg",
+    "definition": "Cross-contamination prevention means keeping raw or allergen-containing ingredients, surfaces, and utensils physically separate from ready-to-serve food and drink at every step.",
+    "why": "A single shared scoop, cloth, or unwashed hand can transfer an allergen or pathogen even when every other food safety step was followed correctly.",
+    "tip": "Color-code or clearly label separate equipment for allergen-free prep, and never reuse a utensil across ingredients \"just this once.\"",
+    "mistake": "Assuming a quick rinse of a shared utensil is enough to remove allergen traces between uses.",
+    "challenge": "Why can a kitchen with excellent individual food safety habits still fail specifically on cross-contamination?",
+    "related": [
+      "316",
+      "324"
+    ],
+    "translations": {
+      "es": {
+        "title": "Prevención de Contaminación Cruzada",
+        "definition": "Prevenir la contaminación cruzada significa mantener los ingredientes crudos o alergénicos, superficies y utensilios físicamente separados de la comida y bebida lista para servir en cada paso.",
+        "why": "Una sola cuchara compartida, un paño o una mano sin lavar pueden transferir un alérgeno o patógeno aunque se hayan seguido bien todos los demás pasos de seguridad alimentaria.",
+        "tip": "Codifica por colores o etiqueta claramente el equipo separado para preparación libre de alérgenos, y nunca reutilices un utensilio entre ingredientes \"solo esta vez\".",
+        "mistake": "Asumir que un enjuague rápido de un utensilio compartido basta para eliminar rastros de alérgenos entre usos.",
+        "challenge": "¿Por qué una cocina con excelentes hábitos individuales de seguridad alimentaria puede aun así fallar específicamente en contaminación cruzada?"
+      },
+      "pt": {
+        "title": "Prevenção de Contaminação Cruzada",
+        "definition": "Prevenir a contaminação cruzada significa manter ingredientes crus ou alergênicos, superfícies e utensílios fisicamente separados dos alimentos e bebidas prontos para servir em cada etapa.",
+        "why": "Uma única colher compartilhada, pano ou mão não lavada pode transferir um alérgeno ou patógeno mesmo quando todas as outras etapas de segurança alimentar foram seguidas corretamente.",
+        "tip": "Use código de cores ou rotule claramente equipamentos separados para preparo livre de alérgenos, e nunca reutilize um utensílio entre ingredientes \"só desta vez\".",
+        "mistake": "Assumir que um enxágue rápido de um utensílio compartilhado basta para remover vestígios de alérgenos entre usos.",
+        "challenge": "Por que uma cozinha com excelentes hábitos individuais de segurança alimentar ainda pode falhar especificamente na contaminação cruzada?"
+      },
+      "de": {
+        "title": "Vermeidung von Kreuzkontamination",
+        "definition": "Kreuzkontamination zu vermeiden bedeutet, rohe oder allergenhaltige Zutaten, Oberflächen und Utensilien bei jedem Schritt physisch von servierfertigem Essen und Getränken getrennt zu halten.",
+        "why": "Ein einziger gemeinsam genutzter Löffel, ein Tuch oder eine ungewaschene Hand kann ein Allergen oder einen Erreger übertragen — selbst wenn alle anderen Hygieneschritte korrekt befolgt wurden.",
+        "tip": "Kennzeichne separates Equipment für allergenfreie Zubereitung farblich oder deutlich, und verwende ein Utensil nie \"nur dieses eine Mal\" für ein anderes Zutat.",
+        "mistake": "Anzunehmen, ein kurzes Abspülen eines gemeinsam genutzten Utensils reiche aus, um Allergenspuren zwischen den Anwendungen zu entfernen.",
+        "challenge": "Warum kann eine Küche mit hervorragenden individuellen Hygienegewohnheiten trotzdem gerade bei Kreuzkontamination versagen?"
+      },
+      "fr": {
+        "title": "Prévention de la Contamination Croisée",
+        "definition": "Prévenir la contamination croisée signifie garder les ingrédients crus ou allergènes, les surfaces et les ustensiles physiquement séparés des aliments et boissons prêts à servir, à chaque étape.",
+        "why": "Une seule cuillère partagée, un chiffon ou une main non lavée peut transférer un allergène ou un pathogène, même si toutes les autres étapes de sécurité alimentaire ont été correctement suivies.",
+        "tip": "Codez par couleur ou étiquetez clairement un équipement séparé pour la préparation sans allergènes, et ne réutilisez jamais un ustensile entre ingrédients \"juste cette fois\".",
+        "mistake": "Supposer qu'un simple rinçage rapide d'un ustensile partagé suffit à éliminer les traces d'allergènes entre deux usages.",
+        "challenge": "Pourquoi une cuisine aux excellentes habitudes individuelles d'hygiène alimentaire peut-elle quand même échouer spécifiquement sur la contamination croisée ?"
+      },
+      "it": {
+        "title": "Prevenzione della Contaminazione Incrociata",
+        "definition": "Prevenire la contaminazione incrociata significa mantenere ingredienti crudi o allergenici, superfici e utensili fisicamente separati dal cibo e dalle bevande pronte da servire in ogni fase.",
+        "why": "Un solo cucchiaio condiviso, un panno o una mano non lavata può trasferire un allergene o un patogeno anche quando tutti gli altri passaggi di sicurezza alimentare sono stati seguiti correttamente.",
+        "tip": "Codifica a colori o etichetta chiaramente attrezzature separate per la preparazione senza allergeni, e non riutilizzare mai un utensile tra ingredienti \"solo questa volta\".",
+        "mistake": "Presumere che un rapido risciacquo di un utensile condiviso sia sufficiente a rimuovere tracce di allergeni tra un uso e l'altro.",
+        "challenge": "Perché una cucina con ottime abitudini individuali di sicurezza alimentare può comunque fallire specificamente sulla contaminazione incrociata?"
+      }
+    }
+  },
+  {
+    "number": "367",
+    "title": "Recall & Corrective Action Procedures",
+    "category": "HAC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "367.jpg",
+    "definition": "A recall or corrective action procedure is the documented plan for exactly what a café does the moment a food safety problem is discovered — from pulling stock to notifying the right people.",
+    "why": "Reacting well in the first hour after discovering a problem limits harm and shows regulators the business takes food safety seriously.",
+    "tip": "Keep supplier and batch information easy to trace so affected stock can be identified and pulled quickly, not guessed at under pressure.",
+    "mistake": "Waiting to have \"the full picture\" before pulling potentially affected stock, when acting immediately and correcting course later is the safer choice.",
+    "challenge": "Why does having a written procedure in advance matter more than simply trusting staff to \"do the right thing\" in the moment?",
+    "related": [
+      "322",
+      "326"
+    ],
+    "translations": {
+      "es": {
+        "title": "Procedimientos de Retiro y Acción Correctiva",
+        "definition": "Un procedimiento de retiro o acción correctiva es el plan documentado de qué hace exactamente un café en el momento en que se descubre un problema de seguridad alimentaria — desde retirar el producto hasta notificar a las personas correctas.",
+        "why": "Reaccionar bien en la primera hora tras descubrir un problema limita el daño y demuestra a los reguladores que el negocio se toma en serio la seguridad alimentaria.",
+        "tip": "Mantén la información de proveedor y lote fácil de rastrear para poder identificar y retirar rápidamente el producto afectado, sin adivinar bajo presión.",
+        "mistake": "Esperar a tener \"el panorama completo\" antes de retirar producto potencialmente afectado, cuando actuar de inmediato y corregir el rumbo después es la opción más segura.",
+        "challenge": "¿Por qué tener un procedimiento escrito de antemano importa más que simplemente confiar en que el personal \"hará lo correcto\" en el momento?"
+      },
+      "pt": {
+        "title": "Procedimentos de Recolhimento e Ação Corretiva",
+        "definition": "Um procedimento de recolhimento ou ação corretiva é o plano documentado do que exatamente um café faz no momento em que um problema de segurança alimentar é descoberto — desde retirar o estoque até notificar as pessoas certas.",
+        "why": "Reagir bem na primeira hora após descobrir um problema limita o dano e mostra aos reguladores que o negócio leva a segurança alimentar a sério.",
+        "tip": "Mantenha as informações de fornecedor e lote fáceis de rastrear para que o estoque afetado possa ser identificado e retirado rapidamente, sem adivinhação sob pressão.",
+        "mistake": "Esperar ter \"o quadro completo\" antes de retirar estoque potencialmente afetado, quando agir imediatamente e corrigir o rumo depois é a opção mais segura.",
+        "challenge": "Por que ter um procedimento escrito com antecedência importa mais do que simplesmente confiar que a equipe vai \"fazer a coisa certa\" no momento?"
+      },
+      "de": {
+        "title": "Rückruf- und Korrekturmaßnahmen",
+        "definition": "Ein Rückruf- oder Korrekturmaßnahmenverfahren ist der dokumentierte Plan dafür, was ein Café genau in dem Moment tut, in dem ein Lebensmittelsicherheitsproblem entdeckt wird — vom Zurückziehen der Ware bis zur Benachrichtigung der richtigen Stellen.",
+        "why": "Gut auf die erste Stunde nach Entdeckung eines Problems zu reagieren begrenzt den Schaden und zeigt Aufsichtsbehörden, dass das Unternehmen Lebensmittelsicherheit ernst nimmt.",
+        "tip": "Halte Lieferanten- und Chargeninformationen leicht nachverfolgbar, damit betroffene Ware schnell identifiziert und zurückgezogen werden kann, statt unter Druck zu raten.",
+        "mistake": "Zu warten, bis man \"das vollständige Bild\" hat, bevor potenziell betroffene Ware zurückgezogen wird, obwohl sofortiges Handeln mit späterer Korrektur die sicherere Wahl ist.",
+        "challenge": "Warum ist ein im Voraus schriftlich festgelegtes Verfahren wichtiger, als einfach darauf zu vertrauen, dass Mitarbeiter im Moment \"das Richtige tun\"?"
+      },
+      "fr": {
+        "title": "Procédures de Rappel et d'Actions Correctives",
+        "definition": "Une procédure de rappel ou d'action corrective est le plan documenté précisant ce qu'un café fait exactement au moment où un problème de sécurité alimentaire est découvert — du retrait du stock à la notification des bonnes personnes.",
+        "why": "Bien réagir dans la première heure suivant la découverte d'un problème limite les dégâts et montre aux autorités que l'établissement prend la sécurité alimentaire au sérieux.",
+        "tip": "Gardez les informations sur le fournisseur et le lot faciles à tracer afin que le stock concerné puisse être identifié et retiré rapidement, sans deviner sous pression.",
+        "mistake": "Attendre d'avoir \"une vue d'ensemble complète\" avant de retirer un stock potentiellement concerné, alors qu'agir immédiatement puis ajuster ensuite est le choix le plus sûr.",
+        "challenge": "Pourquoi une procédure écrite à l'avance compte-t-elle plus que de simplement faire confiance au personnel pour \"faire ce qu'il faut\" sur le moment ?"
+      },
+      "it": {
+        "title": "Procedure di Richiamo e Azioni Correttive",
+        "definition": "Una procedura di richiamo o azione correttiva è il piano documentato di cosa fa esattamente un caffè nel momento in cui viene scoperto un problema di sicurezza alimentare — dal ritiro delle scorte alla notifica alle persone giuste.",
+        "why": "Reagire bene nella prima ora dopo la scoperta di un problema limita il danno e dimostra agli enti regolatori che l'attività prende sul serio la sicurezza alimentare.",
+        "tip": "Mantieni le informazioni su fornitore e lotto facilmente tracciabili così le scorte interessate possono essere identificate e ritirate rapidamente, senza indovinare sotto pressione.",
+        "mistake": "Aspettare di avere \"il quadro completo\" prima di ritirare scorte potenzialmente interessate, quando agire immediatamente e correggere in seguito è la scelta più sicura.",
+        "challenge": "Perché avere una procedura scritta in anticipo conta più che semplicemente fidarsi che il personale \"faccia la cosa giusta\" sul momento?"
+      }
+    }
   }
 ]

@@ -1141,5 +1141,64 @@
       }
     },
     "photo_placeholder": true
+  },
+  {
+    "number": "363",
+    "title": "Indonesia: Sumatra Wet-Hulled Processing",
+    "category": "ORG",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "363.jpg",
+    "definition": "Sumatra's wet-hulled process (Giling Basah) removes the parchment layer while beans are still high in moisture, producing coffee's characteristically low acidity, heavy body, and earthy, herbal flavor notes.",
+    "why": "Wet-hulling explains why Indonesian coffees taste so different from washed or natural coffees elsewhere — recognizing the process helps predict the cup before you even taste it.",
+    "tip": "Look for tasting notes like \"earthy,\" \"herbal,\" \"spice,\" or \"tobacco\" as strong indicators of a wet-hulled Sumatran coffee.",
+    "mistake": "Judging a wet-hulled Sumatran coffee against washed African or Central American coffees using the same expectations for clean acidity.",
+    "challenge": "Why might a processing method born from humid harvest conditions become a defining regional flavor signature rather than just a practical workaround?",
+    "related": [
+      "089",
+      "094"
+    ],
+    "translations": {
+      "es": {
+        "title": "Indonesia: Sumatra y el Procesado Semi-lavado",
+        "definition": "El proceso semi-lavado de Sumatra (Giling Basah) retira el pergamino mientras el grano aún tiene alta humedad, produciendo una acidez baja, cuerpo pesado y notas terrosas y herbales características.",
+        "why": "El semi-lavado explica por qué los cafés indonesios saben tan diferente a los lavados o naturales de otras zonas — reconocer el proceso ayuda a predecir la taza antes de probarla.",
+        "tip": "Busca notas como \"terroso\", \"herbal\", \"especiado\" o \"tabaco\" como fuertes indicadores de un Sumatra semi-lavado.",
+        "mistake": "Juzgar un Sumatra semi-lavado con las mismas expectativas de acidez limpia que un café lavado africano o centroamericano.",
+        "challenge": "¿Por qué un método de procesado nacido de condiciones húmedas de cosecha podría convertirse en una seña de identidad regional en vez de solo una solución práctica?"
+      },
+      "pt": {
+        "title": "Indonésia: Sumatra e o Processamento Semi-lavado",
+        "definition": "O processo semi-lavado de Sumatra (Giling Basah) remove o pergaminho enquanto o grão ainda tem alta umidade, produzindo baixa acidez, corpo pesado e notas terrosas e herbais características.",
+        "why": "O semi-lavado explica por que os cafés indonésios têm sabor tão diferente dos lavados ou naturais de outras regiões — reconhecer o processo ajuda a prever a xícara antes mesmo de prová-la.",
+        "tip": "Procure notas como \"terroso\", \"herbal\", \"especiado\" ou \"tabaco\" como fortes indicadores de um Sumatra semi-lavado.",
+        "mistake": "Julgar um Sumatra semi-lavado com as mesmas expectativas de acidez limpa de um café lavado africano ou centro-americano.",
+        "challenge": "Por que um método de processamento nascido de condições úmidas de colheita pode se tornar uma marca regional definidora em vez de apenas uma solução prática?"
+      },
+      "de": {
+        "title": "Indonesien: Sumatra und die Nassschälung",
+        "definition": "Beim sumatranischen Nassschälverfahren (Giling Basah) wird die Pergamenthaut entfernt, während die Bohnen noch sehr feucht sind — das ergibt die typisch niedrige Säure, den schweren Körper und erdig-krautige Aromen.",
+        "why": "Die Nassschälung erklärt, warum indonesischer Kaffee so anders schmeckt als gewaschener oder natural aufbereiteter Kaffee anderswo — wer das Verfahren kennt, kann die Tasse vorhersagen.",
+        "tip": "Achte auf Aromenbeschreibungen wie \"erdig\", \"krautig\", \"würzig\" oder \"Tabak\" als starke Hinweise auf einen nassgeschälten Sumatra.",
+        "mistake": "Einen nassgeschälten Sumatra mit denselben Erwartungen an klare Säure zu bewerten wie einen gewaschenen afrikanischen oder mittelamerikanischen Kaffee.",
+        "challenge": "Warum könnte ein Aufbereitungsverfahren, das aus feuchten Erntebedingungen entstand, zu einem regionalen Geschmacksmerkmal werden statt nur ein praktischer Behelf zu bleiben?"
+      },
+      "fr": {
+        "title": "Indonésie : Sumatra et le Procédé Semi-lavé",
+        "definition": "Le procédé semi-lavé de Sumatra (Giling Basah) retire le parchemin alors que les grains sont encore très humides, produisant une acidité faible, un corps lourd et des notes terreuses et herbacées caractéristiques.",
+        "why": "Le semi-lavé explique pourquoi les cafés indonésiens ont un goût si différent des cafés lavés ou naturels d'ailleurs — reconnaître le procédé aide à anticiper la tasse avant même de la goûter.",
+        "tip": "Recherchez des notes comme \"terreux\", \"herbacé\", \"épicé\" ou \"tabac\", indices forts d'un Sumatra semi-lavé.",
+        "mistake": "Juger un Sumatra semi-lavé avec les mêmes attentes d'acidité nette qu'un café lavé africain ou centraméricain.",
+        "challenge": "Pourquoi une méthode de traitement née de conditions de récolte humides pourrait-elle devenir une signature aromatique régionale plutôt qu'un simple palliatif pratique ?"
+      },
+      "it": {
+        "title": "Indonesia: Sumatra e la Lavorazione Semi-lavata",
+        "definition": "Il processo semi-lavato di Sumatra (Giling Basah) rimuove il pergamino mentre i chicchi hanno ancora un'umidità elevata, producendo bassa acidità, corpo pieno e note terrose ed erbacee caratteristiche.",
+        "why": "Il semi-lavato spiega perché i caffè indonesiani hanno un sapore così diverso da quelli lavati o naturali di altre zone — riconoscere il processo aiuta a prevedere la tazza ancora prima di assaggiarla.",
+        "tip": "Cerca note come \"terroso\", \"erbaceo\", \"speziato\" o \"tabacco\" come forti indicatori di un Sumatra semi-lavato.",
+        "mistake": "Giudicare un Sumatra semi-lavato con le stesse aspettative di acidità pulita di un caffè lavato africano o centroamericano.",
+        "challenge": "Perché un metodo di lavorazione nato da condizioni di raccolta umide potrebbe diventare una firma regionale di sapore invece di un semplice espediente pratico?"
+      }
+    }
   }
 ]
