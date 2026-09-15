@@ -1,0 +1,946 @@
+[
+  {
+    "number": "347",
+    "title": "Espresso Martini",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "347.jpg",
+    "definition": "A cocktail combining vodka, coffee liqueur, and freshly pulled espresso, shaken hard to create a signature layer of foam on top.",
+    "why": "It's one of the most requested coffee cocktails worldwide, giving cafés and bars a natural overlap point between coffee and evening drink menus.",
+    "tip": "Use genuinely fresh espresso, not batch-brewed backup shots, since the drink's whole appeal depends on real crema and aroma.",
+    "mistake": "Using stale or reheated espresso, which produces a flat, foam-less result no amount of shaking can fix.",
+    "challenge": "Why does the quality of the espresso matter just as much in a cocktail as it would in a straight shot?",
+    "related": [
+      "001",
+      "348"
+    ],
+    "translations": {
+      "es": {
+        "title": "Espresso Martini",
+        "definition": "Un cóctel que combina vodka, licor de café y espresso recién extraído, agitado con fuerza para crear una capa distintiva de espuma encima.",
+        "why": "Es uno de los cócteles de café más pedidos en el mundo, dando a cafeterías y bares un punto de superposición natural entre los menús de café y de bebidas nocturnas.",
+        "tip": "Usa espresso genuinamente fresco, no shots de reserva preparados por lotes, ya que todo el atractivo de la bebida depende de crema y aroma reales.",
+        "mistake": "Usar espresso rancio o recalentado, lo que produce un resultado plano y sin espuma que ninguna cantidad de agitación puede arreglar.",
+        "challenge": "¿Por qué la calidad del espresso importa tanto en un cóctel como lo haría en un shot solo?"
+      },
+      "pt": {
+        "title": "Espresso Martini",
+        "definition": "Um coquetel que combina vodca, licor de café e espresso recém-extraído, agitado com força para criar uma camada característica de espuma por cima.",
+        "why": "É um dos coquetéis de café mais pedidos no mundo, dando a cafeterias e bares um ponto natural de sobreposição entre os menus de café e de bebidas noturnas.",
+        "tip": "Use espresso genuinamente fresco, não shots de reserva preparados em lote, já que todo o apelo da bebida depende de crema e aroma reais.",
+        "mistake": "Usar espresso velho ou reaquecido, o que produz um resultado plano e sem espuma que nenhuma quantidade de agitação consegue consertar.",
+        "challenge": "Por que a qualidade do espresso importa tanto em um coquetel quanto importaria em um shot puro?"
+      },
+      "de": {
+        "title": "Espresso Martini",
+        "definition": "Ein Cocktail aus Wodka, Kaffeelikör und frisch gezogenem Espresso, kräftig geschüttelt, um eine charakteristische Schaumschicht obenauf zu erzeugen.",
+        "why": "Es ist einer der weltweit meistbestellten Kaffeecocktails und bietet Cafés und Bars einen natürlichen Überschneidungspunkt zwischen Kaffee- und Abendgetränkekarte.",
+        "tip": "Verwende wirklich frischen Espresso statt aus Vorrat gebrühter Reserve-Shots, da der gesamte Reiz des Getränks von echter Crema und Aroma abhängt.",
+        "mistake": "Abgestandenen oder wieder erwärmten Espresso zu verwenden, was ein flaches, schaumloses Ergebnis erzeugt, das kein Schütteln retten kann.",
+        "challenge": "Warum ist die Qualität des Espressos in einem Cocktail genauso wichtig wie in einem puren Shot?"
+      },
+      "fr": {
+        "title": "Espresso Martini",
+        "definition": "Un cocktail combinant vodka, liqueur de café et espresso fraîchement tiré, secoué vigoureusement pour créer une couche caractéristique de mousse sur le dessus.",
+        "why": "C'est l'un des cocktails au café les plus demandés au monde, offrant aux cafés et bars un point de chevauchement naturel entre les cartes café et boissons du soir.",
+        "tip": "Utilisez un espresso réellement frais, pas des shots de réserve préparés en lot, car tout l'attrait de la boisson dépend d'une vraie crema et d'un vrai arôme.",
+        "mistake": "Utiliser un espresso rassis ou réchauffé, ce qui produit un résultat plat et sans mousse qu'aucune quantité de secousse ne peut réparer.",
+        "challenge": "Pourquoi la qualité de l'espresso compte-t-elle autant dans un cocktail que dans un shot pur ?"
+      },
+      "it": {
+        "title": "Espresso Martini",
+        "definition": "Un cocktail che combina vodka, liquore al caffè ed espresso appena estratto, shakerato con forza per creare uno strato caratteristico di schiuma sopra.",
+        "why": "È uno dei cocktail al caffè più richiesti al mondo, dando a bar e locali un punto di sovrapposizione naturale tra i menu del caffè e delle bevande serali.",
+        "tip": "Usa espresso genuinamente fresco, non shot di riserva preparati in lotti, poiché tutto il fascino della bevanda dipende da crema e aroma reali.",
+        "mistake": "Usare espresso stantio o riscaldato, che produce un risultato piatto e senza schiuma che nessuna quantità di shakerata può riparare.",
+        "challenge": "Perché la qualità dell'espresso conta tanto in un cocktail quanto in uno shot puro?"
+      }
+    }
+  },
+  {
+    "number": "348",
+    "title": "Irish Coffee",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "348.jpg",
+    "definition": "A hot cocktail combining coffee, Irish whiskey, and sugar, topped with a layer of lightly whipped cream that floats rather than mixes in.",
+    "why": "It's one of the oldest and most recognized coffee cocktails, with the floating cream technique being the defining skill of the drink.",
+    "tip": "Whip cream only lightly, to a loose, pourable consistency, so it floats cleanly rather than sitting like whipped topping.",
+    "mistake": "Over-whipping the cream to a stiff peak, which prevents the correct floating layer effect.",
+    "challenge": "Why does the cream need to float rather than blend into the coffee below it?",
+    "related": [
+      "347",
+      "349"
+    ],
+    "translations": {
+      "es": {
+        "title": "Café irlandés",
+        "definition": "Un cóctel caliente que combina café, whisky irlandés y azúcar, coronado con una capa de crema ligeramente batida que flota en lugar de mezclarse.",
+        "why": "Es uno de los cócteles de café más antiguos y reconocidos, siendo la técnica de la crema flotante la habilidad definitoria de la bebida.",
+        "tip": "Bate la crema solo ligeramente, hasta una consistencia suelta y vertible, para que flote limpiamente en lugar de asentarse como cobertura batida.",
+        "mistake": "Batir demasiado la crema hasta picos firmes, lo que impide el efecto correcto de capa flotante.",
+        "challenge": "¿Por qué la crema necesita flotar en lugar de mezclarse con el café de debajo?"
+      },
+      "pt": {
+        "title": "Café irlandês",
+        "definition": "Um coquetel quente que combina café, uísque irlandês e açúcar, coberto com uma camada de creme levemente batido que flutua em vez de se misturar.",
+        "why": "É um dos coquetéis de café mais antigos e reconhecidos, sendo a técnica do creme flutuante a habilidade definidora da bebida.",
+        "tip": "Bata o creme apenas levemente, até uma consistência solta e derramável, para que flutue de forma limpa em vez de assentar como cobertura batida.",
+        "mistake": "Bater demais o creme até picos firmes, o que impede o efeito correto de camada flutuante.",
+        "challenge": "Por que o creme precisa flutuar em vez de se misturar com o café abaixo dele?"
+      },
+      "de": {
+        "title": "Irish Coffee",
+        "definition": "Ein heißer Cocktail aus Kaffee, irischem Whiskey und Zucker, gekrönt mit einer Schicht leicht geschlagener Sahne, die schwimmt statt sich zu vermischen.",
+        "why": "Er ist einer der ältesten und bekanntesten Kaffeecocktails, wobei die schwimmende Sahnetechnik die entscheidende Fertigkeit des Getränks darstellt.",
+        "tip": "Schlage die Sahne nur leicht auf, zu einer losen, gießbaren Konsistenz, damit sie sauber schwimmt statt wie Sahnehaube dazuliegen.",
+        "mistake": "Die Sahne zu steifen Spitzen zu überschlagen, was den korrekten Schwimmschichteffekt verhindert.",
+        "challenge": "Warum muss die Sahne schwimmen, statt sich mit dem Kaffee darunter zu vermischen?"
+      },
+      "fr": {
+        "title": "Café irlandais",
+        "definition": "Un cocktail chaud combinant café, whisky irlandais et sucre, surmonté d'une couche de crème légèrement fouettée qui flotte plutôt que de se mélanger.",
+        "why": "C'est l'un des plus anciens et des plus reconnus cocktails au café, la technique de la crème flottante étant la compétence caractéristique de la boisson.",
+        "tip": "Fouettez la crème seulement légèrement, jusqu'à une consistance souple et versable, pour qu'elle flotte proprement plutôt que de se poser comme une garniture fouettée.",
+        "mistake": "Trop fouetter la crème jusqu'à des pics fermes, ce qui empêche le bon effet de couche flottante.",
+        "challenge": "Pourquoi la crème doit-elle flotter plutôt que se mélanger au café en dessous ?"
+      },
+      "it": {
+        "title": "Irish coffee",
+        "definition": "Un cocktail caldo che combina caffè, whisky irlandese e zucchero, sormontato da uno strato di panna leggermente montata che galleggia invece di mescolarsi.",
+        "why": "È uno dei cocktail al caffè più antichi e riconosciuti, con la tecnica della panna galleggiante che rappresenta l'abilità distintiva della bevanda.",
+        "tip": "Monta la panna solo leggermente, fino a una consistenza morbida e versabile, così che galleggi in modo pulito invece di depositarsi come una copertura montata.",
+        "mistake": "Montare troppo la panna fino a picchi fermi, il che impedisce il corretto effetto di strato galleggiante.",
+        "challenge": "Perché la panna deve galleggiare invece di mescolarsi con il caffè sottostante?"
+      }
+    }
+  },
+  {
+    "number": "349",
+    "title": "Affogato",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "349.jpg",
+    "definition": "A simple dessert-cocktail hybrid made by pouring a hot espresso shot directly over a scoop of vanilla gelato or ice cream.",
+    "why": "Its simplicity is the whole point — the contrast of hot and cold, bitter and sweet, needs no additional technique to succeed.",
+    "tip": "Serve immediately after pouring, since the entire appeal depends on the contrast before the gelato fully melts.",
+    "mistake": "Over-engineering an affogato with unnecessary extra ingredients that dilute its intentional simplicity.",
+    "challenge": "Why might restraint be the actual skill required to make a great affogato, rather than added complexity?",
+    "related": [
+      "001",
+      "350"
+    ],
+    "translations": {
+      "es": {
+        "title": "Affogato",
+        "definition": "Un híbrido sencillo de postre y cóctel hecho vertiendo un shot de espresso caliente directamente sobre una bola de gelato o helado de vainilla.",
+        "why": "Su sencillez es todo el punto — el contraste de caliente y frío, amargo y dulce, no necesita técnica adicional para funcionar.",
+        "tip": "Sirve inmediatamente después de verter, ya que todo el atractivo depende del contraste antes de que el gelato se derrita por completo.",
+        "mistake": "Sobrecargar un affogato con ingredientes adicionales innecesarios que diluyen su sencillez intencional.",
+        "challenge": "¿Por qué la moderación podría ser la habilidad real necesaria para hacer un gran affogato, en lugar de más complejidad?"
+      },
+      "pt": {
+        "title": "Affogato",
+        "definition": "Um híbrido simples de sobremesa e coquetel feito derramando um shot de espresso quente diretamente sobre uma bola de gelato ou sorvete de baunilha.",
+        "why": "Sua simplicidade é todo o ponto — o contraste de quente e frio, amargo e doce, não precisa de técnica adicional para funcionar.",
+        "tip": "Sirva imediatamente após despejar, já que todo o apelo depende do contraste antes que o gelato derreta completamente.",
+        "mistake": "Superelaborar um affogato com ingredientes extras desnecessários que diluem sua simplicidade intencional.",
+        "challenge": "Por que a contenção pode ser a verdadeira habilidade necessária para fazer um ótimo affogato, em vez de mais complexidade?"
+      },
+      "de": {
+        "title": "Affogato",
+        "definition": "Eine einfache Dessert-Cocktail-Mischung, hergestellt, indem ein heißer Espresso-Shot direkt über eine Kugel Vanilleeis oder Gelato gegossen wird.",
+        "why": "Seine Einfachheit ist der ganze Sinn — der Kontrast von heiß und kalt, bitter und süß, braucht keine zusätzliche Technik, um zu funktionieren.",
+        "tip": "Serviere sofort nach dem Übergießen, da der gesamte Reiz vom Kontrast abhängt, bevor das Gelato vollständig schmilzt.",
+        "mistake": "Ein Affogato mit unnötigen zusätzlichen Zutaten zu überkonstruieren, die seine beabsichtigte Einfachheit verwässern.",
+        "challenge": "Warum könnte Zurückhaltung die eigentliche Fähigkeit sein, die für ein großartiges Affogato nötig ist, statt zusätzlicher Komplexität?"
+      },
+      "fr": {
+        "title": "Affogato",
+        "definition": "Un hybride simple entre dessert et cocktail réalisé en versant un shot d'espresso chaud directement sur une boule de gelato ou de glace à la vanille.",
+        "why": "Sa simplicité est tout l'intérêt — le contraste entre chaud et froid, amer et sucré, n'a besoin d'aucune technique supplémentaire pour réussir.",
+        "tip": "Servez immédiatement après avoir versé, car tout l'attrait dépend du contraste avant que le gelato ne fonde complètement.",
+        "mistake": "Sur-concevoir un affogato avec des ingrédients supplémentaires inutiles qui diluent sa simplicité intentionnelle.",
+        "challenge": "Pourquoi la retenue pourrait-elle être la véritable compétence requise pour réussir un excellent affogato, plutôt qu'une complexité ajoutée ?"
+      },
+      "it": {
+        "title": "Affogato",
+        "definition": "Un semplice ibrido tra dessert e cocktail fatto versando uno shot di espresso caldo direttamente su una pallina di gelato alla vaniglia.",
+        "why": "La sua semplicità è tutto il punto — il contrasto tra caldo e freddo, amaro e dolce, non ha bisogno di alcuna tecnica aggiuntiva per funzionare.",
+        "tip": "Servi immediatamente dopo aver versato, poiché tutto il fascino dipende dal contrasto prima che il gelato si sciolga completamente.",
+        "mistake": "Complicare eccessivamente un affogato con ingredienti extra non necessari che diluiscono la sua semplicità intenzionale.",
+        "challenge": "Perché la moderazione potrebbe essere la vera abilità richiesta per fare un ottimo affogato, invece di maggiore complessità?"
+      }
+    }
+  },
+  {
+    "number": "350",
+    "title": "Coffee in Good Spirits Competition",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "350.jpg",
+    "definition": "Coffee in Good Spirits is an official SCA competition discipline judging baristas on both a hot and cold original coffee cocktail, evaluated on balance, technique, and presentation.",
+    "why": "It formalizes coffee cocktail craft as a serious competitive discipline, not just a casual bar trend.",
+    "tip": "Watch a Coffee in Good Spirits competition round to see how judges balance alcohol, coffee, and other components as equal, deliberate elements.",
+    "mistake": "Assuming coffee cocktail creation is purely intuitive with no formal judged framework behind it.",
+    "challenge": "Why might treating coffee cocktails as a competition discipline push the craft further than casual bar experimentation alone?",
+    "related": [
+      "347",
+      "348"
+    ],
+    "translations": {
+      "es": {
+        "title": "Competición Coffee in Good Spirits",
+        "definition": "Coffee in Good Spirits es una disciplina oficial de competición de la SCA que juzga a baristas en un cóctel de café original, caliente y frío, evaluado por equilibrio, técnica y presentación.",
+        "why": "Formaliza el oficio de los cócteles de café como una disciplina competitiva seria, no solo una tendencia casual de bar.",
+        "tip": "Observa una ronda de competición de Coffee in Good Spirits para ver cómo los jueces equilibran alcohol, café y otros componentes como elementos iguales y deliberados.",
+        "mistake": "Suponer que la creación de cócteles de café es puramente intuitiva sin un marco formal de juicio detrás.",
+        "challenge": "¿Por qué tratar los cócteles de café como disciplina de competición podría llevar el oficio más lejos que la mera experimentación casual en un bar?"
+      },
+      "pt": {
+        "title": "Competição Coffee in Good Spirits",
+        "definition": "Coffee in Good Spirits é uma disciplina oficial de competição da SCA que julga baristas em um coquetel de café original, quente e frio, avaliado por equilíbrio, técnica e apresentação.",
+        "why": "Formaliza o ofício dos coquetéis de café como uma disciplina competitiva séria, não apenas uma tendência casual de bar.",
+        "tip": "Assista a uma rodada de competição de Coffee in Good Spirits para ver como os juízes equilibram álcool, café e outros componentes como elementos iguais e deliberados.",
+        "mistake": "Supor que a criação de coquetéis de café é puramente intuitiva sem uma estrutura formal de julgamento por trás.",
+        "challenge": "Por que tratar coquetéis de café como disciplina de competição pode levar o ofício mais longe do que a mera experimentação casual de bar?"
+      },
+      "de": {
+        "title": "Coffee-in-Good-Spirits-Wettbewerb",
+        "definition": "Coffee in Good Spirits ist eine offizielle SCA-Wettbewerbsdisziplin, bei der Baristas anhand eines heißen und kalten originellen Kaffeecocktails nach Balance, Technik und Präsentation bewertet werden.",
+        "why": "Es formalisiert das Kaffeecocktail-Handwerk als ernsthafte Wettbewerbsdisziplin, nicht nur als beiläufigen Bar-Trend.",
+        "tip": "Schau dir eine Coffee-in-Good-Spirits-Wettbewerbsrunde an, um zu sehen, wie Juroren Alkohol, Kaffee und andere Komponenten als gleichwertige, bewusste Elemente balancieren.",
+        "mistake": "Anzunehmen, die Kreation von Kaffeecocktails sei rein intuitiv, ohne formalen Bewertungsrahmen dahinter.",
+        "challenge": "Warum könnte die Behandlung von Kaffeecocktails als Wettbewerbsdisziplin das Handwerk weiter voranbringen als bloßes zwangloses Bar-Experimentieren allein?"
+      },
+      "fr": {
+        "title": "Compétition Coffee in Good Spirits",
+        "definition": "Coffee in Good Spirits est une discipline officielle de compétition SCA jugeant les baristas sur un cocktail au café original, chaud et froid, évalué sur l'équilibre, la technique et la présentation.",
+        "why": "Elle formalise l'art des cocktails au café comme une discipline compétitive sérieuse, pas seulement une tendance de bar occasionnelle.",
+        "tip": "Regardez une manche de compétition Coffee in Good Spirits pour voir comment les juges équilibrent alcool, café et autres composants comme des éléments égaux et délibérés.",
+        "mistake": "Supposer que la création de cocktails au café est purement intuitive sans cadre formel de jugement derrière.",
+        "challenge": "Pourquoi traiter les cocktails au café comme une discipline de compétition pourrait-il faire progresser l'art plus loin que la simple expérimentation de bar occasionnelle ?"
+      },
+      "it": {
+        "title": "Competizione Coffee in Good Spirits",
+        "definition": "Coffee in Good Spirits è una disciplina di competizione ufficiale SCA che giudica i baristi su un cocktail al caffè originale, caldo e freddo, valutato per equilibrio, tecnica e presentazione.",
+        "why": "Formalizza l'arte dei cocktail al caffè come disciplina competitiva seria, non solo una tendenza casuale da bar.",
+        "tip": "Guarda un turno di competizione Coffee in Good Spirits per vedere come i giudici bilanciano alcol, caffè e altri componenti come elementi uguali e deliberati.",
+        "mistake": "Supporre che la creazione di cocktail al caffè sia puramente intuitiva senza una struttura formale di giudizio dietro.",
+        "challenge": "Perché trattare i cocktail al caffè come disciplina di competizione potrebbe spingere l'arte oltre la semplice sperimentazione casuale da bar?"
+      }
+    }
+  },
+  {
+    "number": "351",
+    "title": "Cold Brew Cocktails",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "351.jpg",
+    "definition": "Cold brew's low acidity and smooth body make it a natural cocktail base, blending well with dark spirits, cream liqueurs, and simple syrups without competing acidity.",
+    "why": "Its gentler flavor profile gives bartenders more room to layer other ingredients than a sharper hot-brewed coffee typically allows.",
+    "tip": "Use a concentrated cold brew rather than a ready-to-drink dilution when building a cocktail, to control final strength precisely.",
+    "mistake": "Using a pre-diluted cold brew meant for drinking straight, which throws off the cocktail's intended ratios.",
+    "challenge": "Why might cold brew's lower acidity actually be an advantage specifically in cocktail applications?",
+    "related": [
+      "239",
+      "347"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cócteles de cold brew",
+        "definition": "La baja acidez y el cuerpo suave del cold brew lo convierten en una base natural para cócteles, mezclándose bien con licores oscuros, licores cremosos y jarabes simples sin acidez competidora.",
+        "why": "Su perfil de sabor más suave da a los bartenders más margen para superponer otros ingredientes de lo que normalmente permite un café más agudo preparado en caliente.",
+        "tip": "Usa un cold brew concentrado en lugar de una dilución lista para beber al construir un cóctel, para controlar con precisión la fuerza final.",
+        "mistake": "Usar un cold brew prediluido pensado para beber solo, lo que descompensa las proporciones previstas del cóctel.",
+        "challenge": "¿Por qué la menor acidez del cold brew podría ser en realidad una ventaja específicamente en aplicaciones de cóctel?"
+      },
+      "pt": {
+        "title": "Coquetéis de cold brew",
+        "definition": "A baixa acidez e o corpo suave do cold brew o tornam uma base natural para coquetéis, misturando-se bem com destilados escuros, licores cremosos e xaropes simples sem acidez concorrente.",
+        "why": "Seu perfil de sabor mais suave dá aos bartenders mais espaço para sobrepor outros ingredientes do que normalmente permite um café mais agudo preparado a quente.",
+        "tip": "Use um cold brew concentrado em vez de uma diluição pronta para beber ao criar um coquetel, para controlar a força final com precisão.",
+        "mistake": "Usar um cold brew pré-diluído destinado a beber puro, o que desequilibra as proporções pretendidas do coquetel.",
+        "challenge": "Por que a menor acidez do cold brew pode na verdade ser uma vantagem especificamente em aplicações de coquetéis?"
+      },
+      "de": {
+        "title": "Cold-Brew-Cocktails",
+        "definition": "Die geringe Säure und der weiche Körper von Cold Brew machen ihn zu einer natürlichen Cocktailbasis, die sich gut mit dunklen Spirituosen, Sahnelikören und einfachen Sirups mischt, ohne konkurrierende Säure.",
+        "why": "Sein sanfteres Geschmacksprofil gibt Barkeepern mehr Spielraum, andere Zutaten zu schichten, als es ein schärferer, heiß gebrühter Kaffee normalerweise erlaubt.",
+        "tip": "Verwende beim Mixen eines Cocktails einen konzentrierten Cold Brew statt einer trinkfertigen Verdünnung, um die Endstärke präzise zu kontrollieren.",
+        "mistake": "Einen bereits verdünnten, zum Purtrinken gedachten Cold Brew zu verwenden, was die beabsichtigten Verhältnisse des Cocktails durcheinanderbringt.",
+        "challenge": "Warum könnte die geringere Säure von Cold Brew tatsächlich ein Vorteil speziell bei Cocktailanwendungen sein?"
+      },
+      "fr": {
+        "title": "Cocktails au cold brew",
+        "definition": "La faible acidité et le corps lisse du cold brew en font une base de cocktail naturelle, se mariant bien avec des spiritueux foncés, des liqueurs crémeuses et des sirops simples sans acidité concurrente.",
+        "why": "Son profil de saveur plus doux donne aux barmen plus de marge pour superposer d'autres ingrédients qu'un café infusé chaud plus vif ne le permet généralement.",
+        "tip": "Utilisez un cold brew concentré plutôt qu'une dilution prête à boire lors de la construction d'un cocktail, pour contrôler précisément la force finale.",
+        "mistake": "Utiliser un cold brew pré-dilué destiné à être bu tel quel, ce qui déséquilibre les ratios prévus du cocktail.",
+        "challenge": "Pourquoi la plus faible acidité du cold brew pourrait-elle en réalité être un avantage spécifiquement dans les applications de cocktail ?"
+      },
+      "it": {
+        "title": "Cocktail al cold brew",
+        "definition": "La bassa acidità e il corpo morbido del cold brew lo rendono una base naturale per cocktail, miscelandosi bene con distillati scuri, liquori cremosi e sciroppi semplici senza acidità concorrente.",
+        "why": "Il suo profilo di sapore più delicato dà ai bartender più spazio per sovrapporre altri ingredienti di quanto normalmente permetta un caffè più aspro preparato caldo.",
+        "tip": "Usa un cold brew concentrato invece di una diluizione pronta da bere quando costruisci un cocktail, per controllare con precisione la forza finale.",
+        "mistake": "Usare un cold brew pre-diluito pensato per essere bevuto puro, il che sbilancia i rapporti previsti del cocktail.",
+        "challenge": "Perché la minore acidità del cold brew potrebbe in realtà essere un vantaggio specificamente nelle applicazioni per cocktail?"
+      }
+    }
+  },
+  {
+    "number": "352",
+    "title": "Coffee Liqueurs",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "352.jpg",
+    "definition": "Coffee liqueurs like Kahlúa and Mr Black are pre-made sweetened spirits infused with coffee, used as a shortcut ingredient in many coffee cocktails.",
+    "why": "Understanding the difference between sweeter, rum-based liqueurs and drier, coffee-forward ones helps match the right liqueur to a specific cocktail's intended balance.",
+    "tip": "Taste a coffee liqueur on its own before using it in a recipe, to know exactly how much sweetness and coffee intensity it will add.",
+    "mistake": "Treating all coffee liqueurs as interchangeable regardless of their sweetness and actual coffee character.",
+    "challenge": "Why might swapping one coffee liqueur for another change a cocktail's balance more than expected?",
+    "related": [
+      "347",
+      "351"
+    ],
+    "translations": {
+      "es": {
+        "title": "Licores de café",
+        "definition": "Los licores de café como Kahlúa y Mr Black son licores endulzados preelaborados infusionados con café, usados como ingrediente atajo en muchos cócteles de café.",
+        "why": "Entender la diferencia entre licores más dulces a base de ron y otros más secos y con más protagonismo del café ayuda a combinar el licor adecuado con el equilibrio previsto de un cóctel específico.",
+        "tip": "Prueba un licor de café solo antes de usarlo en una receta, para saber exactamente cuánta dulzura e intensidad de café aportará.",
+        "mistake": "Tratar todos los licores de café como intercambiables sin importar su dulzura y carácter real de café.",
+        "challenge": "¿Por qué cambiar un licor de café por otro podría alterar el equilibrio de un cóctel más de lo esperado?"
+      },
+      "pt": {
+        "title": "Licores de café",
+        "definition": "Licores de café como Kahlúa e Mr Black são licores adoçados pré-fabricados infundidos com café, usados como ingrediente atalho em muitos coquetéis de café.",
+        "why": "Entender a diferença entre licores mais doces à base de rum e outros mais secos e com mais protagonismo do café ajuda a combinar o licor certo com o equilíbrio pretendido de um coquetel específico.",
+        "tip": "Prove um licor de café sozinho antes de usá-lo em uma receita, para saber exatamente quanta doçura e intensidade de café ele adicionará.",
+        "mistake": "Tratar todos os licores de café como intercambiáveis independentemente de sua doçura e caráter real de café.",
+        "challenge": "Por que trocar um licor de café por outro pode alterar o equilíbrio de um coquetel mais do que o esperado?"
+      },
+      "de": {
+        "title": "Kaffeeliköre",
+        "definition": "Kaffeeliköre wie Kahlúa und Mr Black sind vorgefertigte gesüßte Spirituosen mit Kaffeeinfusion, verwendet als Abkürzungszutat in vielen Kaffeecocktails.",
+        "why": "Den Unterschied zwischen süßeren, rumbasierten Likören und trockeneren, kaffeebetonten zu verstehen hilft, den richtigen Likör zur beabsichtigten Balance eines bestimmten Cocktails passen zu lassen.",
+        "tip": "Verkoste einen Kaffeelikör pur, bevor du ihn in einem Rezept verwendest, um genau zu wissen, wie viel Süße und Kaffeeintensität er hinzufügen wird.",
+        "mistake": "Alle Kaffeeliköre als austauschbar zu behandeln, unabhängig von ihrer Süße und ihrem tatsächlichen Kaffeecharakter.",
+        "challenge": "Warum könnte das Austauschen eines Kaffeelikörs gegen einen anderen die Balance eines Cocktails stärker verändern als erwartet?"
+      },
+      "fr": {
+        "title": "Liqueurs de café",
+        "definition": "Les liqueurs de café comme Kahlúa et Mr Black sont des spiritueux sucrés préfabriqués infusés au café, utilisés comme ingrédient raccourci dans de nombreux cocktails au café.",
+        "why": "Comprendre la différence entre les liqueurs plus sucrées à base de rhum et celles plus sèches et davantage axées sur le café aide à associer la bonne liqueur à l'équilibre voulu d'un cocktail spécifique.",
+        "tip": "Goûtez une liqueur de café seule avant de l'utiliser dans une recette, pour savoir exactement combien de douceur et d'intensité café elle ajoutera.",
+        "mistake": "Traiter toutes les liqueurs de café comme interchangeables indépendamment de leur douceur et de leur caractère café réel.",
+        "challenge": "Pourquoi échanger une liqueur de café contre une autre pourrait-il changer l'équilibre d'un cocktail plus que prévu ?"
+      },
+      "it": {
+        "title": "Liquori al caffè",
+        "definition": "I liquori al caffè come Kahlúa e Mr Black sono distillati dolcificati prefabbricati infusi con caffè, usati come ingrediente scorciatoia in molti cocktail al caffè.",
+        "why": "Capire la differenza tra liquori più dolci a base di rum e altri più secchi e con più protagonismo del caffè aiuta ad abbinare il liquore giusto all'equilibrio previsto di un cocktail specifico.",
+        "tip": "Assaggia un liquore al caffè da solo prima di usarlo in una ricetta, per sapere esattamente quanta dolcezza e intensità di caffè aggiungerà.",
+        "mistake": "Trattare tutti i liquori al caffè come intercambiabili indipendentemente dalla loro dolcezza e reale carattere di caffè.",
+        "challenge": "Perché sostituire un liquore al caffè con un altro potrebbe cambiare l'equilibrio di un cocktail più del previsto?"
+      }
+    }
+  },
+  {
+    "number": "353",
+    "title": "Pairing Spirits with Origin",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "353.jpg",
+    "definition": "Different coffee origins pair more naturally with certain spirits — chocolatey Brazilian coffee with rum, fruity Ethiopian coffee with lighter gin, for example — based on complementary flavor notes.",
+    "why": "Choosing a spirit that echoes or contrasts a coffee's actual flavor notes produces a more intentional cocktail than defaulting to a generic pairing.",
+    "tip": "Taste the coffee alone first and identify two or three dominant notes before choosing which spirit to build around it.",
+    "mistake": "Choosing a spirit purely by popularity or habit rather than by how it actually complements the coffee's flavor profile.",
+    "challenge": "Why might a fruity, bright coffee call for a very different spirit pairing than a heavy, chocolatey one?",
+    "related": [
+      "279",
+      "290"
+    ],
+    "translations": {
+      "es": {
+        "title": "Maridar licores con el origen",
+        "definition": "Distintos orígenes de café combinan de forma más natural con ciertos licores —café brasileño achocolatado con ron, café etíope afrutado con ginebra más ligera, por ejemplo— según notas de sabor complementarias.",
+        "why": "Elegir un licor que haga eco o contraste con las notas de sabor reales de un café produce un cóctel más intencional que recurrir a un maridaje genérico.",
+        "tip": "Prueba el café solo primero e identifica dos o tres notas dominantes antes de elegir con qué licor construir alrededor de él.",
+        "mistake": "Elegir un licor solo por popularidad o costumbre en lugar de por cómo complementa realmente el perfil de sabor del café.",
+        "challenge": "¿Por qué un café afrutado y brillante podría pedir un maridaje de licor muy distinto al de uno pesado y achocolatado?"
+      },
+      "pt": {
+        "title": "Combinando destilados com a origem",
+        "definition": "Diferentes origens de café combinam de forma mais natural com certos destilados — café brasileiro achocolatado com rum, café etíope frutado com gin mais leve, por exemplo — com base em notas de sabor complementares.",
+        "why": "Escolher um destilado que ecoe ou contraste as notas de sabor reais de um café produz um coquetel mais intencional do que recorrer a uma combinação genérica.",
+        "tip": "Prove o café sozinho primeiro e identifique duas ou três notas dominantes antes de escolher qual destilado usar para construir em torno dele.",
+        "mistake": "Escolher um destilado apenas por popularidade ou hábito em vez de por como ele realmente complementa o perfil de sabor do café.",
+        "challenge": "Por que um café frutado e brilhante pode pedir uma combinação de destilado muito diferente de um pesado e achocolatado?"
+      },
+      "de": {
+        "title": "Spirituosen mit dem Ursprung kombinieren",
+        "definition": "Verschiedene Kaffeeursprünge harmonieren natürlicher mit bestimmten Spirituosen — schokoladiger brasilianischer Kaffee mit Rum, fruchtiger äthiopischer Kaffee mit leichterem Gin, zum Beispiel — basierend auf ergänzenden Geschmacksnoten.",
+        "why": "Die Wahl einer Spirituose, die die tatsächlichen Geschmacksnoten eines Kaffees widerspiegelt oder kontrastiert, erzeugt einen bewussteren Cocktail, als auf ein generisches Pairing zurückzugreifen.",
+        "tip": "Verkoste den Kaffee zuerst pur und identifiziere zwei oder drei dominante Noten, bevor du entscheidest, um welche Spirituose du ihn herum aufbaust.",
+        "mistake": "Eine Spirituose rein nach Beliebtheit oder Gewohnheit zu wählen, statt danach, wie gut sie das Geschmacksprofil des Kaffees tatsächlich ergänzt.",
+        "challenge": "Warum könnte ein fruchtiger, heller Kaffee eine ganz andere Spirituosenkombination verlangen als ein schwerer, schokoladiger?"
+      },
+      "fr": {
+        "title": "Associer les spiritueux à l'origine",
+        "definition": "Différentes origines de café s'associent plus naturellement à certains spiritueux — café brésilien chocolaté avec du rhum, café éthiopien fruité avec un gin plus léger, par exemple — selon des notes aromatiques complémentaires.",
+        "why": "Choisir un spiritueux qui fait écho ou contraste avec les notes aromatiques réelles d'un café produit un cocktail plus intentionnel que de recourir à un accord générique.",
+        "tip": "Goûtez d'abord le café seul et identifiez deux ou trois notes dominantes avant de choisir autour de quel spiritueux le construire.",
+        "mistake": "Choisir un spiritueux uniquement par popularité ou habitude plutôt que par la façon dont il complète réellement le profil de saveur du café.",
+        "challenge": "Pourquoi un café fruité et vif pourrait-il appeler un accord de spiritueux très différent d'un café lourd et chocolaté ?"
+      },
+      "it": {
+        "title": "Abbinare i distillati all'origine",
+        "definition": "Diverse origini di caffè si abbinano più naturalmente a certi distillati — caffè brasiliano cioccolatoso con rum, caffè etiope fruttato con gin più leggero, ad esempio — in base a note di sapore complementari.",
+        "why": "Scegliere un distillato che rispecchi o contrasti le note di sapore effettive di un caffè produce un cocktail più intenzionale che ricorrere a un abbinamento generico.",
+        "tip": "Assaggia prima il caffè da solo e identifica due o tre note dominanti prima di scegliere attorno a quale distillato costruirlo.",
+        "mistake": "Scegliere un distillato solo per popolarità o abitudine invece che per come completa realmente il profilo di sapore del caffè.",
+        "challenge": "Perché un caffè fruttato e brillante potrebbe richiedere un abbinamento di distillato molto diverso da uno pesante e cioccolatoso?"
+      }
+    }
+  },
+  {
+    "number": "354",
+    "title": "Building a Coffee Cocktail Menu",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "354.jpg",
+    "definition": "A well-built coffee cocktail menu balances a few signature, well-tested drinks against feasible execution speed during actual service volume.",
+    "why": "A cocktail that takes five minutes to build per order will collapse under real bar volume, regardless of how good it tastes.",
+    "tip": "Time-test every menu cocktail during a realistic simulated rush before committing it to the final menu.",
+    "mistake": "Designing a cocktail menu around what tastes impressive in testing without considering how it performs under real volume.",
+    "challenge": "Why might a cocktail that's excellent in isolated testing still be a poor choice for a busy service menu?",
+    "related": [
+      "347",
+      "352"
+    ],
+    "translations": {
+      "es": {
+        "title": "Crear un menú de cócteles de café",
+        "definition": "Un menú de cócteles de café bien construido equilibra unas pocas bebidas insignia bien probadas con la velocidad de ejecución factible durante el volumen real de servicio.",
+        "why": "Un cóctel que tarda cinco minutos en prepararse por pedido colapsará bajo el volumen real de un bar, sin importar lo bien que sepa.",
+        "tip": "Cronometra cada cóctel del menú durante una simulación realista de hora punta antes de incluirlo en el menú final.",
+        "mistake": "Diseñar un menú de cócteles según lo que sabe impresionante en pruebas sin considerar cómo funciona con volumen real.",
+        "challenge": "¿Por qué un cóctel excelente en pruebas aisladas podría seguir siendo una mala elección para un menú de servicio concurrido?"
+      },
+      "pt": {
+        "title": "Criando um menu de coquetéis de café",
+        "definition": "Um menu de coquetéis de café bem construído equilibra algumas bebidas de assinatura bem testadas com a velocidade de execução viável durante o volume real de serviço.",
+        "why": "Um coquetel que leva cinco minutos para ser preparado por pedido vai colapsar sob o volume real de um bar, não importa quão bom seja o sabor.",
+        "tip": "Cronometre cada coquetel do menu durante uma simulação realista de horário de pico antes de incluí-lo no menu final.",
+        "mistake": "Projetar um menu de coquetéis com base no que tem gosto impressionante em testes sem considerar como ele se sai com volume real.",
+        "challenge": "Por que um coquetel excelente em testes isolados ainda pode ser uma má escolha para um menu de serviço movimentado?"
+      },
+      "de": {
+        "title": "Aufbau einer Kaffeecocktailkarte",
+        "definition": "Eine gut aufgebaute Kaffeecocktailkarte balanciert wenige gut getestete Signature-Drinks gegen die machbare Ausführungsgeschwindigkeit bei tatsächlichem Servicevolumen.",
+        "why": "Ein Cocktail, der pro Bestellung fünf Minuten Zubereitung braucht, bricht bei echtem Barvolumen zusammen, egal wie gut er schmeckt.",
+        "tip": "Zeitmesse jeden Karten-Cocktail während einer realistisch simulierten Stoßzeit, bevor du ihn in die endgültige Karte aufnimmst.",
+        "mistake": "Eine Cocktailkarte danach zu gestalten, was beim Testen beeindruckend schmeckt, ohne zu berücksichtigen, wie sie unter echtem Volumen abschneidet.",
+        "challenge": "Warum könnte ein bei isoliertem Testen ausgezeichneter Cocktail trotzdem eine schlechte Wahl für eine geschäftige Servicekarte sein?"
+      },
+      "fr": {
+        "title": "Construire une carte de cocktails au café",
+        "definition": "Une carte de cocktails au café bien construite équilibre quelques boissons signature bien testées avec la vitesse d'exécution réalisable pendant le volume de service réel.",
+        "why": "Un cocktail qui prend cinq minutes à préparer par commande s'effondrera sous le volume réel d'un bar, quel que soit son bon goût.",
+        "tip": "Chronométrez chaque cocktail de la carte pendant une simulation réaliste de coup de feu avant de l'ajouter à la carte finale.",
+        "mistake": "Concevoir une carte de cocktails selon ce qui a bon goût lors des tests sans tenir compte de sa performance sous volume réel.",
+        "challenge": "Pourquoi un cocktail excellent lors de tests isolés pourrait-il quand même être un mauvais choix pour une carte de service chargée ?"
+      },
+      "it": {
+        "title": "Costruire un menu di cocktail al caffè",
+        "definition": "Un menu di cocktail al caffè ben costruito bilancia alcune bevande di punta ben testate con la velocità di esecuzione fattibile durante il volume di servizio reale.",
+        "why": "Un cocktail che richiede cinque minuti per essere preparato per ordine collasserà sotto il volume reale di un bar, indipendentemente da quanto sia buono il sapore.",
+        "tip": "Cronometra ogni cocktail del menu durante una simulazione realistica di ora di punta prima di inserirlo nel menu finale.",
+        "mistake": "Progettare un menu di cocktail in base a ciò che ha un sapore impressionante nei test senza considerare come si comporta con il volume reale.",
+        "challenge": "Perché un cocktail eccellente in test isolati potrebbe comunque essere una scelta scadente per un menu di servizio intenso?"
+      }
+    }
+  },
+  {
+    "number": "355",
+    "title": "Batching Coffee Cocktails for Volume",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "355.jpg",
+    "definition": "Batching pre-mixes stable cocktail components in bulk ahead of service, leaving only fresh, perishable elements like espresso to be added per order.",
+    "why": "It's the standard technique for serving complex cocktails quickly at high volume without sacrificing consistency.",
+    "tip": "Batch only the shelf-stable components (spirits, syrups) and keep truly fresh elements like espresso added fresh per drink.",
+    "mistake": "Batching perishable ingredients like fresh coffee days in advance, which defeats the purpose of using fresh espresso at all.",
+    "challenge": "Why does batching work well for some cocktail components but genuinely fail for others?",
+    "related": [
+      "354",
+      "347"
+    ],
+    "translations": {
+      "es": {
+        "title": "Preparar cócteles de café por lotes para volumen",
+        "definition": "El preparado por lotes premezcla componentes de cóctel estables a granel antes del servicio, dejando solo elementos frescos y perecederos como el espresso para añadirlos por pedido.",
+        "why": "Es la técnica estándar para servir cócteles complejos rápidamente con alto volumen sin sacrificar la consistencia.",
+        "tip": "Prepara por lotes solo los componentes estables en el estante (licores, jarabes) y mantén elementos verdaderamente frescos como el espresso añadidos frescos por bebida.",
+        "mistake": "Preparar por lotes ingredientes perecederos como café fresco con días de antelación, lo que anula el propósito de usar espresso fresco en absoluto.",
+        "challenge": "¿Por qué el preparado por lotes funciona bien para algunos componentes de cóctel pero falla genuinamente para otros?"
+      },
+      "pt": {
+        "title": "Preparando coquetéis de café em lote para volume",
+        "definition": "O preparo em lote pré-mistura componentes estáveis de coquetel em grande quantidade antes do serviço, deixando apenas elementos frescos e perecíveis como o espresso para serem adicionados por pedido.",
+        "why": "É a técnica padrão para servir coquetéis complexos rapidamente em alto volume sem sacrificar a consistência.",
+        "tip": "Prepare em lote apenas os componentes estáveis (destilados, xaropes) e mantenha elementos verdadeiramente frescos como o espresso adicionados frescos por bebida.",
+        "mistake": "Preparar em lote ingredientes perecíveis como café fresco com dias de antecedência, o que anula o propósito de usar espresso fresco.",
+        "challenge": "Por que o preparo em lote funciona bem para alguns componentes de coquetel mas falha genuinamente para outros?"
+      },
+      "de": {
+        "title": "Kaffeecocktails für Volumen vorab mischen (Batching)",
+        "definition": "Batching mischt stabile Cocktailkomponenten vorab im großen Maßstab, wobei nur frische, verderbliche Elemente wie Espresso pro Bestellung hinzugefügt werden.",
+        "why": "Es ist die Standardtechnik, um komplexe Cocktails bei hohem Volumen schnell zu servieren, ohne Konsistenz zu opfern.",
+        "tip": "Bereite nur die lagerstabilen Komponenten (Spirituosen, Sirups) vorab zu und füge wirklich frische Elemente wie Espresso pro Getränk frisch hinzu.",
+        "mistake": "Verderbliche Zutaten wie frischen Kaffee Tage im Voraus vorzumischen, was den Sinn der Verwendung von frischem Espresso überhaupt zunichtemacht.",
+        "challenge": "Warum funktioniert Batching bei manchen Cocktailkomponenten gut, scheitert aber bei anderen tatsächlich?"
+      },
+      "fr": {
+        "title": "Préparer des lots de cocktails au café pour le volume",
+        "definition": "Le batching pré-mélange des composants de cocktail stables en vrac avant le service, ne laissant que des éléments frais et périssables comme l'espresso à ajouter par commande.",
+        "why": "C'est la technique standard pour servir des cocktails complexes rapidement à fort volume sans sacrifier la constance.",
+        "tip": "Ne préparez en lot que les composants stables (spiritueux, sirops) et gardez les éléments réellement frais comme l'espresso ajoutés frais par boisson.",
+        "mistake": "Préparer en lot des ingrédients périssables comme du café frais des jours à l'avance, ce qui annule tout l'intérêt d'utiliser de l'espresso frais.",
+        "challenge": "Pourquoi le batching fonctionne-t-il bien pour certains composants de cocktail mais échoue-t-il réellement pour d'autres ?"
+      },
+      "it": {
+        "title": "Preparare cocktail al caffè in lotti per il volume",
+        "definition": "Il batching premiscela componenti stabili del cocktail in grandi quantità prima del servizio, lasciando solo elementi freschi e deperibili come l'espresso da aggiungere per ordine.",
+        "why": "È la tecnica standard per servire cocktail complessi rapidamente ad alto volume senza sacrificare la coerenza.",
+        "tip": "Prepara in lotti solo i componenti stabili sullo scaffale (distillati, sciroppi) e mantieni elementi veramente freschi come l'espresso aggiunti freschi per bevanda.",
+        "mistake": "Preparare in lotti ingredienti deperibili come caffè fresco giorni in anticipo, il che vanifica lo scopo di usare espresso fresco.",
+        "challenge": "Perché il batching funziona bene per alcuni componenti del cocktail ma fallisce genuinamente per altri?"
+      }
+    }
+  },
+  {
+    "number": "356",
+    "title": "Coffee Old Fashioned Variations",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "356.jpg",
+    "definition": "Coffee-infused Old Fashioned variations replace or supplement the classic's simple syrup and bitters with coffee-infused spirit, cold brew, or coffee bitters.",
+    "why": "It shows how a classic cocktail template can absorb a coffee component without losing its fundamental spirit-forward identity.",
+    "tip": "Infuse the base spirit with coffee beans directly rather than simply adding brewed coffee, to keep the drink's classic spirit-forward strength.",
+    "mistake": "Diluting the drink's strength too much by adding brewed coffee volume rather than an infused spirit.",
+    "challenge": "Why might infusing the spirit itself preserve a cocktail's character better than simply adding liquid coffee to it?",
+    "related": [
+      "353",
+      "352"
+    ],
+    "translations": {
+      "es": {
+        "title": "Variaciones del Old Fashioned de café",
+        "definition": "Las variaciones del Old Fashioned infusionadas con café reemplazan o complementan el jarabe simple y los bitters del clásico con licor infusionado con café, cold brew o bitters de café.",
+        "why": "Muestra cómo una plantilla de cóctel clásico puede absorber un componente de café sin perder su identidad fundamental centrada en el licor.",
+        "tip": "Infusiona el licor base directamente con granos de café en lugar de simplemente añadir café preparado, para mantener la fuerza clásica centrada en el licor.",
+        "mistake": "Diluir demasiado la fuerza de la bebida añadiendo volumen de café preparado en lugar de un licor infusionado.",
+        "challenge": "¿Por qué infusionar el propio licor podría preservar mejor el carácter de un cóctel que simplemente añadirle café líquido?"
+      },
+      "pt": {
+        "title": "Variações do Old Fashioned de café",
+        "definition": "As variações do Old Fashioned infundidas com café substituem ou complementam o xarope simples e os bitters do clássico com destilado infundido com café, cold brew ou bitters de café.",
+        "why": "Mostra como um modelo de coquetel clássico pode absorver um componente de café sem perder sua identidade fundamental centrada no destilado.",
+        "tip": "Infunda o destilado base diretamente com grãos de café em vez de simplesmente adicionar café preparado, para manter a força clássica centrada no destilado.",
+        "mistake": "Diluir demais a força da bebida adicionando volume de café preparado em vez de um destilado infundido.",
+        "challenge": "Por que infundir o próprio destilado pode preservar melhor o caráter de um coquetel do que simplesmente adicionar café líquido a ele?"
+      },
+      "de": {
+        "title": "Kaffee-Old-Fashioned-Variationen",
+        "definition": "Kaffeeinfundierte Old-Fashioned-Variationen ersetzen oder ergänzen den einfachen Sirup und die Bitters des Klassikers durch kaffeeinfundierte Spirituose, Cold Brew oder Kaffee-Bitters.",
+        "why": "Es zeigt, wie eine klassische Cocktailvorlage eine Kaffeekomponente aufnehmen kann, ohne ihre grundlegende, spirituosenbetonte Identität zu verlieren.",
+        "tip": "Infundiere die Basisspirituose direkt mit Kaffeebohnen, statt einfach gebrühten Kaffee hinzuzufügen, um die klassische spirituosenbetonte Stärke des Getränks zu erhalten.",
+        "mistake": "Die Stärke des Getränks zu sehr zu verdünnen, indem gebrühtes Kaffeevolumen statt einer infundierten Spirituose hinzugefügt wird.",
+        "challenge": "Warum könnte das Infundieren der Spirituose selbst den Charakter eines Cocktails besser bewahren, als ihm einfach flüssigen Kaffee hinzuzufügen?"
+      },
+      "fr": {
+        "title": "Variations du Old Fashioned au café",
+        "definition": "Les variations du Old Fashioned infusées au café remplacent ou complètent le sirop simple et les bitters classiques par un spiritueux infusé au café, du cold brew ou des bitters au café.",
+        "why": "Cela montre comment un modèle de cocktail classique peut absorber une composante café sans perdre son identité fondamentale centrée sur le spiritueux.",
+        "tip": "Infusez le spiritueux de base directement avec des grains de café plutôt que d'ajouter simplement du café infusé, pour préserver la force classique centrée sur le spiritueux de la boisson.",
+        "mistake": "Diluer trop la force de la boisson en ajoutant du volume de café infusé plutôt qu'un spiritueux infusé.",
+        "challenge": "Pourquoi infuser le spiritueux lui-même pourrait-il mieux préserver le caractère d'un cocktail que d'y ajouter simplement du café liquide ?"
+      },
+      "it": {
+        "title": "Variazioni dell'Old Fashioned al caffè",
+        "definition": "Le variazioni dell'Old Fashioned infuse al caffè sostituiscono o integrano lo sciroppo semplice e i bitter del classico con distillato infuso al caffè, cold brew o bitter al caffè.",
+        "why": "Mostra come un modello di cocktail classico possa assorbire una componente caffè senza perdere la sua identità fondamentale incentrata sul distillato.",
+        "tip": "Infondi il distillato base direttamente con chicchi di caffè invece di semplicemente aggiungere caffè preparato, per mantenere la classica forza incentrata sul distillato della bevanda.",
+        "mistake": "Diluire troppo la forza della bevanda aggiungendo volume di caffè preparato invece di un distillato infuso.",
+        "challenge": "Perché infondere il distillato stesso potrebbe preservare meglio il carattere di un cocktail rispetto ad aggiungervi semplicemente caffè liquido?"
+      }
+    }
+  },
+  {
+    "number": "357",
+    "title": "Nitro Coffee Serves",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "357.jpg",
+    "definition": "Nitro coffee infuses cold brew with nitrogen gas, creating a beer-like cascading foam and creamy mouthfeel without any dairy added.",
+    "why": "It gives cold coffee an entirely different textural experience, closer to a stout beer pour than a typical iced coffee.",
+    "tip": "Serve nitro coffee in a straight glass without ice, since the cascading foam effect is part of the visual and textural appeal.",
+    "mistake": "Adding ice to a nitro pour, which disrupts the intended texture and visual cascade effect.",
+    "challenge": "Why does nitrogen specifically, rather than the more common CO2, create that distinctive creamy texture?",
+    "related": [
+      "239",
+      "351"
+    ],
+    "translations": {
+      "es": {
+        "title": "Servicios de café nitro",
+        "definition": "El café nitro infusiona el cold brew con gas nitrógeno, creando una espuma en cascada similar a la cerveza y una textura cremosa en boca sin añadir lácteos.",
+        "why": "Da al café frío una experiencia textural completamente distinta, más cercana a una cerveza stout servida que a un café helado típico.",
+        "tip": "Sirve el café nitro en un vaso recto sin hielo, ya que el efecto de espuma en cascada forma parte del atractivo visual y textural.",
+        "mistake": "Añadir hielo a un servicio nitro, lo que altera la textura prevista y el efecto visual de cascada.",
+        "challenge": "¿Por qué el nitrógeno específicamente, en lugar del más común CO2, crea esa textura cremosa distintiva?"
+      },
+      "pt": {
+        "title": "Serviços de café nitro",
+        "definition": "O café nitro infunde o cold brew com gás nitrogênio, criando uma espuma em cascata semelhante à cerveja e uma textura cremosa na boca sem adicionar laticínios.",
+        "why": "Dá ao café frio uma experiência textural completamente diferente, mais próxima de uma cerveja stout servida do que de um café gelado típico.",
+        "tip": "Sirva o café nitro em um copo reto sem gelo, já que o efeito de espuma em cascata faz parte do apelo visual e textural.",
+        "mistake": "Adicionar gelo a um serviço nitro, o que atrapalha a textura pretendida e o efeito visual de cascata.",
+        "challenge": "Por que o nitrogênio especificamente, em vez do mais comum CO2, cria essa textura cremosa distinta?"
+      },
+      "de": {
+        "title": "Nitro-Kaffee-Servierungen",
+        "definition": "Nitro-Kaffee infundiert Cold Brew mit Stickstoffgas und erzeugt einen bierähnlichen kaskadierenden Schaum und cremiges Mundgefühl ohne zugesetzte Milchprodukte.",
+        "why": "Er gibt kaltem Kaffee ein völlig anderes texturales Erlebnis, näher an einem gezapften Stout-Bier als an einem typischen Eiskaffee.",
+        "tip": "Serviere Nitro-Kaffee in einem geraden Glas ohne Eis, da der kaskadierende Schaumeffekt Teil des visuellen und texturalen Reizes ist.",
+        "mistake": "Eis zu einem Nitro-Ausschank hinzuzufügen, was die beabsichtigte Textur und den visuellen Kaskadeneffekt stört.",
+        "challenge": "Warum erzeugt speziell Stickstoff statt des üblicheren CO2 diese charakteristische cremige Textur?"
+      },
+      "fr": {
+        "title": "Services de café nitro",
+        "definition": "Le café nitro infuse le cold brew avec du gaz azote, créant une mousse en cascade façon bière et une sensation crémeuse en bouche sans aucun ajout laitier.",
+        "why": "Il donne au café froid une expérience texturale entièrement différente, plus proche du service d'une bière stout que d'un café glacé typique.",
+        "tip": "Servez le café nitro dans un verre droit sans glace, car l'effet de mousse en cascade fait partie de l'attrait visuel et textural.",
+        "mistake": "Ajouter de la glace à un service nitro, ce qui perturbe la texture prévue et l'effet visuel de cascade.",
+        "challenge": "Pourquoi l'azote spécifiquement, plutôt que le CO2 plus courant, crée-t-il cette texture crémeuse caractéristique ?"
+      },
+      "it": {
+        "title": "Servizi di caffè nitro",
+        "definition": "Il caffè nitro infonde il cold brew con gas azoto, creando una schiuma a cascata simile alla birra e una texture cremosa in bocca senza alcuna aggiunta di latticini.",
+        "why": "Dà al caffè freddo un'esperienza tattile completamente diversa, più vicina alla spillatura di una birra stout che a un tipico caffè freddo.",
+        "tip": "Servi il caffè nitro in un bicchiere dritto senza ghiaccio, poiché l'effetto di schiuma a cascata fa parte del fascino visivo e tattile.",
+        "mistake": "Aggiungere ghiaccio a una mescita nitro, il che disturba la texture prevista e l'effetto visivo a cascata.",
+        "challenge": "Perché l'azoto specificamente, piuttosto che la più comune CO2, crea quella caratteristica texture cremosa?"
+      }
+    }
+  },
+  {
+    "number": "358",
+    "title": "Coffee as a Bitters or Modifier",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "358.jpg",
+    "definition": "Beyond a headline ingredient, coffee can play a supporting role in cocktails as a small-dose bitters or modifier, adding depth without dominating the drink.",
+    "why": "This use case lets coffee flavor appear in cocktails that aren't 'coffee drinks' at all, expanding where coffee craft can genuinely contribute.",
+    "tip": "Start with just a few dashes of coffee bitters in a non-coffee cocktail to add complexity without overpowering the base spirit.",
+    "mistake": "Assuming coffee can only work as a headline flavor rather than a supporting one.",
+    "challenge": "Why might a small amount of coffee bitters change a cocktail's perceived complexity more than its actual flavor intensity would suggest?",
+    "related": [
+      "352",
+      "353"
+    ],
+    "translations": {
+      "es": {
+        "title": "El café como bitter o modificador",
+        "definition": "Más allá de un ingrediente protagonista, el café puede desempeñar un papel de apoyo en los cócteles como bitter o modificador en dosis pequeñas, añadiendo profundidad sin dominar la bebida.",
+        "why": "Este uso permite que el sabor del café aparezca en cócteles que no son 'bebidas de café' en absoluto, ampliando dónde el oficio del café puede realmente contribuir.",
+        "tip": "Empieza con solo unas gotas de bitter de café en un cóctel sin café para añadir complejidad sin dominar el licor base.",
+        "mistake": "Suponer que el café solo puede funcionar como sabor protagonista y no como uno de apoyo.",
+        "challenge": "¿Por qué una pequeña cantidad de bitter de café podría cambiar la complejidad percibida de un cóctel más de lo que sugeriría su intensidad de sabor real?"
+      },
+      "pt": {
+        "title": "O café como bitter ou modificador",
+        "definition": "Além de um ingrediente principal, o café pode desempenhar um papel de apoio em coquetéis como bitter ou modificador em pequena dose, adicionando profundidade sem dominar a bebida.",
+        "why": "Esse uso permite que o sabor do café apareça em coquetéis que não são 'bebidas de café' de forma alguma, expandindo onde o ofício do café pode realmente contribuir.",
+        "tip": "Comece com apenas algumas gotas de bitter de café em um coquetel sem café para adicionar complexidade sem dominar o destilado base.",
+        "mistake": "Supor que o café só pode funcionar como sabor principal e não como um de apoio.",
+        "challenge": "Por que uma pequena quantidade de bitter de café pode mudar a complexidade percebida de um coquetel mais do que sua intensidade de sabor real sugeriria?"
+      },
+      "de": {
+        "title": "Kaffee als Bitters oder Modifikator",
+        "definition": "Über eine Hauptzutat hinaus kann Kaffee in Cocktails eine unterstützende Rolle als kleindosiertes Bitters oder Modifikator spielen, was Tiefe hinzufügt, ohne das Getränk zu dominieren.",
+        "why": "Dieser Einsatz lässt Kaffeegeschmack in Cocktails auftauchen, die überhaupt keine 'Kaffeegetränke' sind, und erweitert, wo Kaffeehandwerk tatsächlich beitragen kann.",
+        "tip": "Beginne mit nur wenigen Spritzern Kaffee-Bitters in einem Nicht-Kaffee-Cocktail, um Komplexität hinzuzufügen, ohne die Basisspirituose zu überdecken.",
+        "mistake": "Anzunehmen, Kaffee könne nur als Hauptgeschmack funktionieren, nicht als unterstützender.",
+        "challenge": "Warum könnte eine kleine Menge Kaffee-Bitters die wahrgenommene Komplexität eines Cocktails stärker verändern, als es seine tatsächliche Geschmacksintensität nahelegen würde?"
+      },
+      "fr": {
+        "title": "Le café comme bitters ou modificateur",
+        "definition": "Au-delà d'un ingrédient vedette, le café peut jouer un rôle de soutien dans les cocktails comme bitters ou modificateur à petite dose, ajoutant de la profondeur sans dominer la boisson.",
+        "why": "Cet usage permet au goût du café d'apparaître dans des cocktails qui ne sont pas du tout des « boissons au café », élargissant là où l'art du café peut réellement contribuer.",
+        "tip": "Commencez avec juste quelques traits de bitters au café dans un cocktail sans café pour ajouter de la complexité sans dominer le spiritueux de base.",
+        "mistake": "Supposer que le café ne peut fonctionner que comme saveur vedette et non comme soutien.",
+        "challenge": "Pourquoi une petite quantité de bitters au café pourrait-elle changer la complexité perçue d'un cocktail plus que ne le suggérerait son intensité de saveur réelle ?"
+      },
+      "it": {
+        "title": "Il caffè come bitter o modificatore",
+        "definition": "Oltre a essere un ingrediente protagonista, il caffè può svolgere un ruolo di supporto nei cocktail come bitter o modificatore a piccola dose, aggiungendo profondità senza dominare la bevanda.",
+        "why": "Questo utilizzo permette al sapore del caffè di comparire in cocktail che non sono affatto 'bevande al caffè', ampliando dove l'arte del caffè può realmente contribuire.",
+        "tip": "Inizia con solo poche gocce di bitter al caffè in un cocktail senza caffè per aggiungere complessità senza sovrastare il distillato base.",
+        "mistake": "Supporre che il caffè possa funzionare solo come sapore protagonista e non come uno di supporto.",
+        "challenge": "Perché una piccola quantità di bitter al caffè potrebbe cambiare la complessità percepita di un cocktail più di quanto suggerirebbe la sua intensità di sapore effettiva?"
+      }
+    }
+  },
+  {
+    "number": "359",
+    "title": "Cascara in Cocktails",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "359.jpg",
+    "definition": "Cascara's fruity sweetness makes it a natural cocktail ingredient, used as a steeped tea, syrup, or infused spirit distinct from coffee itself.",
+    "why": "It gives bartenders a genuinely different coffee-plant flavor to work with, separate from the roasted, bitter character of brewed coffee.",
+    "tip": "Reduce cascara tea into a syrup for cocktail use, concentrating its sweetness into a more versatile mixing ingredient.",
+    "mistake": "Assuming cascara cocktails will taste like coffee cocktails, when the flavor profile is genuinely distinct.",
+    "challenge": "Why does using cascara in a cocktail open up a flavor direction that brewed coffee itself can't offer?",
+    "related": [
+      "263",
+      "272"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cascara en cócteles",
+        "definition": "La dulzura afrutada de la cascara la convierte en un ingrediente natural para cócteles, usada como té infusionado, jarabe o licor infusionado distinto del café mismo.",
+        "why": "Da a los bartenders un sabor de la planta de café genuinamente distinto con el que trabajar, separado del carácter tostado y amargo del café preparado.",
+        "tip": "Reduce el té de cascara a un jarabe para uso en cócteles, concentrando su dulzura en un ingrediente de mezcla más versátil.",
+        "mistake": "Suponer que los cócteles de cascara sabrán como cócteles de café, cuando el perfil de sabor es genuinamente distinto.",
+        "challenge": "¿Por qué usar cascara en un cóctel abre una dirección de sabor que el café preparado en sí no puede ofrecer?"
+      },
+      "pt": {
+        "title": "Cascara em coquetéis",
+        "definition": "A doçura frutada da cascara a torna um ingrediente natural para coquetéis, usada como chá infundido, xarope ou destilado infundido distinto do próprio café.",
+        "why": "Dá aos bartenders um sabor da planta de café genuinamente distinto para trabalhar, separado do caráter torrado e amargo do café preparado.",
+        "tip": "Reduza o chá de cascara a um xarope para uso em coquetéis, concentrando sua doçura em um ingrediente de mistura mais versátil.",
+        "mistake": "Supor que coquetéis de cascara terão gosto de coquetéis de café, quando o perfil de sabor é genuinamente distinto.",
+        "challenge": "Por que usar cascara em um coquetel abre uma direção de sabor que o próprio café preparado não pode oferecer?"
+      },
+      "de": {
+        "title": "Cascara in Cocktails",
+        "definition": "Die fruchtige Süße von Cascara macht sie zu einer natürlichen Cocktailzutat, verwendet als gezogener Tee, Sirup oder infundierte Spirituose, getrennt vom Kaffee selbst.",
+        "why": "Sie gibt Barkeepern einen wirklich anderen Geschmack der Kaffeepflanze zum Arbeiten, getrennt vom gerösteten, bitteren Charakter gebrühten Kaffees.",
+        "tip": "Reduziere Cascara-Tee zu einem Sirup für die Cocktailverwendung und konzentriere seine Süße zu einer vielseitigeren Mixzutat.",
+        "mistake": "Anzunehmen, Cascara-Cocktails schmeckten wie Kaffeecocktails, obwohl das Geschmacksprofil wirklich verschieden ist.",
+        "challenge": "Warum eröffnet die Verwendung von Cascara in einem Cocktail eine Geschmacksrichtung, die gebrühter Kaffee selbst nicht bieten kann?"
+      },
+      "fr": {
+        "title": "La cascara dans les cocktails",
+        "definition": "La douceur fruitée de la cascara en fait un ingrédient de cocktail naturel, utilisée comme thé infusé, sirop ou spiritueux infusé distinct du café lui-même.",
+        "why": "Elle donne aux barmen une saveur de plante de café réellement différente à travailler, séparée du caractère torréfié et amer du café infusé.",
+        "tip": "Réduisez le thé de cascara en sirop pour un usage en cocktail, concentrant sa douceur en un ingrédient de mélange plus polyvalent.",
+        "mistake": "Supposer que les cocktails à la cascara auront le goût de cocktails au café, alors que le profil de saveur est réellement distinct.",
+        "challenge": "Pourquoi l'utilisation de la cascara dans un cocktail ouvre-t-elle une direction de saveur que le café infusé lui-même ne peut pas offrir ?"
+      },
+      "it": {
+        "title": "Cascara nei cocktail",
+        "definition": "La dolcezza fruttata della cascara la rende un ingrediente naturale per cocktail, usata come tè infuso, sciroppo o distillato infuso distinto dal caffè stesso.",
+        "why": "Dà ai bartender un sapore della pianta di caffè genuinamente diverso con cui lavorare, separato dal carattere tostato e amaro del caffè preparato.",
+        "tip": "Riduci il tè di cascara in uno sciroppo per l'uso in cocktail, concentrando la sua dolcezza in un ingrediente di miscelazione più versatile.",
+        "mistake": "Supporre che i cocktail alla cascara sapranno di cocktail al caffè, quando il profilo di sapore è genuinamente distinto.",
+        "challenge": "Perché usare la cascara in un cocktail apre una direzione di sapore che il caffè preparato in sé non può offrire?"
+      }
+    }
+  },
+  {
+    "number": "360",
+    "title": "Temperature & Dilution in Coffee Cocktails",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "360.jpg",
+    "definition": "Ice dilution and serving temperature affect coffee cocktails just as they do any other cocktail, changing both strength and how coffee's bitterness and acidity read.",
+    "why": "A coffee cocktail shaken too long or served too warm can taste noticeably different from the exact same recipe made correctly.",
+    "tip": "Time your shake and strain precisely, and taste-test at the actual intended serving temperature, not immediately after mixing.",
+    "mistake": "Treating a coffee cocktail recipe as fixed regardless of shake time, ice type, or serving temperature.",
+    "challenge": "Why might the exact same cocktail recipe taste different depending on how long it sat before being served?",
+    "related": [
+      "347",
+      "351"
+    ],
+    "translations": {
+      "es": {
+        "title": "Temperatura y dilución en cócteles de café",
+        "definition": "La dilución con hielo y la temperatura de servicio afectan a los cócteles de café igual que a cualquier otro cóctel, cambiando tanto la fuerza como cómo se percibe la amargura y acidez del café.",
+        "why": "Un cóctel de café agitado demasiado tiempo o servido demasiado caliente puede saber notablemente distinto de la misma receta exacta hecha correctamente.",
+        "tip": "Cronometra con precisión tu agitado y colado, y prueba a la temperatura de servicio realmente prevista, no inmediatamente después de mezclar.",
+        "mistake": "Tratar una receta de cóctel de café como fija sin importar el tiempo de agitado, el tipo de hielo o la temperatura de servicio.",
+        "challenge": "¿Por qué exactamente la misma receta de cóctel podría saber distinta según cuánto tiempo estuvo reposando antes de servirse?"
+      },
+      "pt": {
+        "title": "Temperatura e diluição em coquetéis de café",
+        "definition": "A diluição do gelo e a temperatura de serviço afetam os coquetéis de café assim como qualquer outro coquetel, mudando tanto a força quanto como o amargor e a acidez do café são percebidos.",
+        "why": "Um coquetel de café agitado por tempo demais ou servido quente demais pode ter gosto notavelmente diferente da mesma receita exata feita corretamente.",
+        "tip": "Cronometre com precisão sua agitação e coagem, e prove na temperatura de serviço realmente pretendida, não imediatamente após misturar.",
+        "mistake": "Tratar uma receita de coquetel de café como fixa independentemente do tempo de agitação, tipo de gelo ou temperatura de serviço.",
+        "challenge": "Por que exatamente a mesma receita de coquetel pode ter gosto diferente dependendo de quanto tempo ficou parada antes de ser servida?"
+      },
+      "de": {
+        "title": "Temperatur und Verdünnung bei Kaffeecocktails",
+        "definition": "Eisverdünnung und Serviertemperatur beeinflussen Kaffeecocktails genau wie jeden anderen Cocktail und verändern sowohl die Stärke als auch, wie Bitterkeit und Säure des Kaffees wahrgenommen werden.",
+        "why": "Ein zu lange geschüttelter oder zu warm servierter Kaffeecocktail kann spürbar anders schmecken als exakt dasselbe Rezept korrekt zubereitet.",
+        "tip": "Miss dein Schütteln und Abseihen genau, und probiere bei der tatsächlich beabsichtigten Serviertemperatur, nicht sofort nach dem Mixen.",
+        "mistake": "Ein Kaffeecocktailrezept als fest zu behandeln, unabhängig von Schüttelzeit, Eistyp oder Serviertemperatur.",
+        "challenge": "Warum könnte exakt dasselbe Cocktailrezept unterschiedlich schmecken, je nachdem wie lange es vor dem Servieren stand?"
+      },
+      "fr": {
+        "title": "Température et dilution dans les cocktails au café",
+        "definition": "La dilution par la glace et la température de service affectent les cocktails au café tout comme n'importe quel autre cocktail, changeant à la fois la force et la façon dont l'amertume et l'acidité du café se perçoivent.",
+        "why": "Un cocktail au café secoué trop longtemps ou servi trop chaud peut avoir un goût sensiblement différent de la même recette exacte faite correctement.",
+        "tip": "Chronométrez précisément votre secousse et votre filtrage, et goûtez à la température de service réellement prévue, pas immédiatement après le mélange.",
+        "mistake": "Traiter une recette de cocktail au café comme fixe indépendamment du temps de secousse, du type de glace ou de la température de service.",
+        "challenge": "Pourquoi exactement la même recette de cocktail pourrait-elle avoir un goût différent selon combien de temps elle a reposé avant d'être servie ?"
+      },
+      "it": {
+        "title": "Temperatura e diluizione nei cocktail al caffè",
+        "definition": "La diluizione del ghiaccio e la temperatura di servizio influenzano i cocktail al caffè proprio come qualsiasi altro cocktail, cambiando sia la forza sia come vengono percepite amarezza e acidità del caffè.",
+        "why": "Un cocktail al caffè shakerato troppo a lungo o servito troppo caldo può avere un sapore notevolmente diverso dalla stessa identica ricetta fatta correttamente.",
+        "tip": "Cronometra con precisione la tua shakerata e filtratura, e assaggia alla temperatura di servizio effettivamente prevista, non immediatamente dopo aver mescolato.",
+        "mistake": "Trattare una ricetta di cocktail al caffè come fissa indipendentemente dal tempo di shakerata, tipo di ghiaccio o temperatura di servizio.",
+        "challenge": "Perché esattamente la stessa ricetta di cocktail potrebbe avere un sapore diverso a seconda di quanto tempo è rimasta prima di essere servita?"
+      }
+    }
+  },
+  {
+    "number": "361",
+    "title": "Licensing Considerations for Cafés",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "361.jpg",
+    "definition": "Serving alcohol-based coffee cocktails requires the appropriate liquor license, staff training in responsible service, and awareness of local regulations that vary significantly by jurisdiction.",
+    "why": "A café adding cocktails to its menu is taking on real legal and regulatory obligations beyond its existing food service license.",
+    "tip": "Consult local licensing authorities directly before adding alcohol to a café menu, since requirements vary widely and change over time.",
+    "mistake": "Assuming an existing food service license automatically covers alcohol service.",
+    "challenge": "Why might expanding a menu from coffee to coffee cocktails involve a bigger regulatory shift than the drinks themselves suggest?",
+    "related": [
+      "354",
+      "347"
+    ],
+    "translations": {
+      "es": {
+        "title": "Consideraciones de licencia para cafeterías",
+        "definition": "Servir cócteles de café con alcohol requiere la licencia de licor adecuada, capacitación del personal en servicio responsable y conocimiento de las normativas locales, que varían significativamente según la jurisdicción.",
+        "why": "Una cafetería que añade cócteles a su menú asume obligaciones legales y regulatorias reales más allá de su licencia existente de servicio de alimentos.",
+        "tip": "Consulta directamente a las autoridades locales de licencias antes de añadir alcohol a un menú de cafetería, ya que los requisitos varían ampliamente y cambian con el tiempo.",
+        "mistake": "Suponer que una licencia existente de servicio de alimentos cubre automáticamente el servicio de alcohol.",
+        "challenge": "¿Por qué ampliar un menú de café a cócteles de café podría implicar un cambio regulatorio mayor de lo que sugieren las bebidas en sí?"
+      },
+      "pt": {
+        "title": "Considerações de licenciamento para cafeterias",
+        "definition": "Servir coquetéis de café à base de álcool requer a licença de bebidas adequada, treinamento da equipe em serviço responsável e conhecimento das regulamentações locais, que variam significativamente por jurisdição.",
+        "why": "Uma cafeteria que adiciona coquetéis ao seu menu assume obrigações legais e regulatórias reais além de sua licença existente de serviço de alimentos.",
+        "tip": "Consulte diretamente as autoridades locais de licenciamento antes de adicionar álcool a um menu de cafeteria, já que os requisitos variam amplamente e mudam com o tempo.",
+        "mistake": "Supor que uma licença existente de serviço de alimentos cobre automaticamente o serviço de álcool.",
+        "challenge": "Por que expandir um menu de café para coquetéis de café pode envolver uma mudança regulatória maior do que as bebidas em si sugerem?"
+      },
+      "de": {
+        "title": "Genehmigungsüberlegungen für Cafés",
+        "definition": "Das Servieren alkoholbasierter Kaffeecocktails erfordert die entsprechende Alkohollizenz, Personalschulung in verantwortungsvollem Ausschank und Kenntnis lokaler Vorschriften, die je nach Rechtsraum erheblich variieren.",
+        "why": "Ein Café, das Cocktails zu seiner Karte hinzufügt, übernimmt echte rechtliche und regulatorische Verpflichtungen über seine bestehende Gastronomielizenz hinaus.",
+        "tip": "Konsultiere direkt lokale Genehmigungsbehörden, bevor du Alkohol zu einer Café-Karte hinzufügst, da Anforderungen stark variieren und sich mit der Zeit ändern.",
+        "mistake": "Anzunehmen, eine bestehende Gastronomielizenz decke automatisch den Alkoholausschank ab.",
+        "challenge": "Warum könnte die Erweiterung einer Karte von Kaffee zu Kaffeecocktails eine größere regulatorische Veränderung bedeuten, als es die Getränke selbst nahelegen?"
+      },
+      "fr": {
+        "title": "Considérations de licence pour les cafés",
+        "definition": "Servir des cocktails au café à base d'alcool nécessite la licence d'alcool appropriée, la formation du personnel au service responsable, et la connaissance des réglementations locales qui varient significativement selon la juridiction.",
+        "why": "Un café ajoutant des cocktails à sa carte assume de véritables obligations légales et réglementaires au-delà de sa licence de restauration existante.",
+        "tip": "Consultez directement les autorités locales de licence avant d'ajouter de l'alcool à une carte de café, car les exigences varient largement et changent avec le temps.",
+        "mistake": "Supposer qu'une licence de restauration existante couvre automatiquement le service d'alcool.",
+        "challenge": "Pourquoi étendre une carte du café aux cocktails au café pourrait-il impliquer un changement réglementaire plus important que ne le suggèrent les boissons elles-mêmes ?"
+      },
+      "it": {
+        "title": "Considerazioni sulle licenze per i bar",
+        "definition": "Servire cocktail al caffè a base alcolica richiede la licenza per alcolici appropriata, formazione del personale sul servizio responsabile e consapevolezza delle normative locali, che variano significativamente per giurisdizione.",
+        "why": "Un bar che aggiunge cocktail al suo menu assume vere obbligazioni legali e normative oltre alla sua licenza esistente per il servizio alimentare.",
+        "tip": "Consulta direttamente le autorità locali per le licenze prima di aggiungere alcolici a un menu di un bar, poiché i requisiti variano ampiamente e cambiano nel tempo.",
+        "mistake": "Supporre che una licenza esistente per il servizio alimentare copra automaticamente il servizio di alcolici.",
+        "challenge": "Perché espandere un menu dal caffè ai cocktail al caffè potrebbe comportare un cambiamento normativo maggiore di quanto suggeriscano le bevande stesse?"
+      }
+    }
+  },
+  {
+    "number": "362",
+    "title": "Judging Criteria for Coffee Cocktails",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "362.jpg",
+    "definition": "Formal coffee cocktail judging evaluates balance between coffee and alcohol, technical execution, creativity, and overall drinkability, similar in structure to other coffee competition formats.",
+    "why": "Understanding formal judging criteria helps a bartender or barista design cocktails with intention rather than by pure trial and error.",
+    "tip": "Practice describing your own cocktail creations using competition-style criteria, even outside formal competition, to sharpen deliberate design skill.",
+    "mistake": "Assuming a cocktail's quality is purely subjective with no evaluable structure behind it.",
+    "challenge": "Why might applying formal judging criteria to your own cocktail experiments improve them faster than taste alone?",
+    "related": [
+      "350",
+      "354"
+    ],
+    "translations": {
+      "es": {
+        "title": "Criterios de evaluación para cócteles de café",
+        "definition": "El juicio formal de cócteles de café evalúa el equilibrio entre café y alcohol, la ejecución técnica, la creatividad y la bebibilidad general, con una estructura similar a otros formatos de competición de café.",
+        "why": "Entender los criterios formales de evaluación ayuda a un bartender o barista a diseñar cócteles con intención en lugar de por puro ensayo y error.",
+        "tip": "Practica describir tus propias creaciones de cócteles usando criterios de estilo competición, incluso fuera de una competición formal, para afinar la habilidad de diseño deliberado.",
+        "mistake": "Suponer que la calidad de un cóctel es puramente subjetiva sin ninguna estructura evaluable detrás.",
+        "challenge": "¿Por qué aplicar criterios formales de evaluación a tus propios experimentos con cócteles podría mejorarlos más rápido que solo el gusto?"
+      },
+      "pt": {
+        "title": "Critérios de julgamento para coquetéis de café",
+        "definition": "O julgamento formal de coquetéis de café avalia o equilíbrio entre café e álcool, execução técnica, criatividade e bebibilidade geral, com estrutura semelhante a outros formatos de competição de café.",
+        "why": "Entender os critérios formais de julgamento ajuda um bartender ou barista a projetar coquetéis com intenção em vez de por puro ensaio e erro.",
+        "tip": "Pratique descrever suas próprias criações de coquetéis usando critérios de estilo de competição, mesmo fora de uma competição formal, para aprimorar a habilidade de design deliberado.",
+        "mistake": "Supor que a qualidade de um coquetel é puramente subjetiva sem nenhuma estrutura avaliável por trás.",
+        "challenge": "Por que aplicar critérios formais de julgamento aos seus próprios experimentos de coquetéis pode melhorá-los mais rápido do que apenas o gosto?"
+      },
+      "de": {
+        "title": "Bewertungskriterien für Kaffeecocktails",
+        "definition": "Formale Kaffeecocktail-Bewertung beurteilt die Balance zwischen Kaffee und Alkohol, technische Ausführung, Kreativität und allgemeine Trinkbarkeit, strukturell ähnlich anderen Kaffeewettbewerbsformaten.",
+        "why": "Formale Bewertungskriterien zu verstehen hilft einem Barkeeper oder Barista, Cocktails mit Absicht statt durch reines Ausprobieren zu gestalten.",
+        "tip": "Übe, deine eigenen Cocktailkreationen mit wettbewerbsähnlichen Kriterien zu beschreiben, auch außerhalb formaler Wettbewerbe, um bewusste Gestaltungsfähigkeit zu schärfen.",
+        "mistake": "Anzunehmen, die Qualität eines Cocktails sei rein subjektiv ohne bewertbare Struktur dahinter.",
+        "challenge": "Warum könnte das Anwenden formaler Bewertungskriterien auf eigene Cocktailexperimente sie schneller verbessern als Geschmack allein?"
+      },
+      "fr": {
+        "title": "Critères de jugement pour les cocktails au café",
+        "definition": "Le jugement formel des cocktails au café évalue l'équilibre entre café et alcool, l'exécution technique, la créativité et la buvabilité globale, avec une structure similaire à d'autres formats de compétition café.",
+        "why": "Comprendre les critères de jugement formels aide un barman ou un barista à concevoir des cocktails avec intention plutôt que par pur essai-erreur.",
+        "tip": "Entraînez-vous à décrire vos propres créations de cocktails en utilisant des critères de style compétition, même hors compétition formelle, pour affiner une compétence de conception délibérée.",
+        "mistake": "Supposer que la qualité d'un cocktail est purement subjective sans aucune structure évaluable derrière.",
+        "challenge": "Pourquoi appliquer des critères de jugement formels à vos propres expérimentations de cocktails pourrait-il les améliorer plus vite que le goût seul ?"
+      },
+      "it": {
+        "title": "Criteri di giudizio per i cocktail al caffè",
+        "definition": "Il giudizio formale dei cocktail al caffè valuta l'equilibrio tra caffè e alcol, l'esecuzione tecnica, la creatività e la bevibilità complessiva, con una struttura simile ad altri formati di competizione del caffè.",
+        "why": "Capire i criteri di giudizio formali aiuta un bartender o un barista a progettare cocktail con intenzione invece che per puro tentativo ed errore.",
+        "tip": "Esercitati a descrivere le tue creazioni di cocktail usando criteri in stile competizione, anche fuori da una competizione formale, per affinare l'abilità di design deliberato.",
+        "mistake": "Supporre che la qualità di un cocktail sia puramente soggettiva senza alcuna struttura valutabile dietro.",
+        "challenge": "Perché applicare criteri di giudizio formali ai tuoi esperimenti di cocktail potrebbe migliorarli più velocemente rispetto al solo gusto?"
+      }
+    }
+  }
+]

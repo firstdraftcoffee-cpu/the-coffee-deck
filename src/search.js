@@ -43,7 +43,8 @@ const CATEGORY_NAMES = {
     XSN: "Cross-Category Sensory",
     DEC: "Decaf",
     HAC: "Food Safety",
-    WTR: "Water"
+    WTR: "Water",
+    CKT: "Coffee Cocktails"
 };
 
 const search = document.getElementById("search");
