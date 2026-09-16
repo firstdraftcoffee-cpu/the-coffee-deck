@@ -942,5 +942,241 @@
         "challenge": "Perché applicare criteri di giudizio formali ai tuoi esperimenti di cocktail potrebbe migliorarli più velocemente rispetto al solo gusto?"
       }
     }
+  },
+  {
+    "number": "375",
+    "title": "Coffee Cocktail Garnishing",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "375.jpg",
+    "definition": "Garnishes for coffee cocktails typically include coffee beans, citrus peel, or a light dusting of spice, chosen to hint at the drink's flavor rather than just decorate it.",
+    "why": "A well-chosen garnish communicates what's in the glass before the first sip, setting expectations the same way a coffee's aroma does before tasting.",
+    "tip": "Match the garnish to a flavor actually present in the drink rather than choosing one purely for visual appeal.",
+    "mistake": "Adding a garnish that looks appealing but has no genuine connection to the cocktail's actual flavor profile.",
+    "challenge": "Why might a mismatched garnish actively work against a customer's enjoyment of a well-made cocktail?",
+    "related": [
+      "347",
+      "354"
+    ],
+    "translations": {
+      "es": {
+        "title": "Guarnición de cócteles de café",
+        "definition": "Las guarniciones para cócteles de café suelen incluir granos de café, cáscara de cítricos o un ligero espolvoreado de especia, elegidas para insinuar el sabor de la bebida en lugar de solo decorarla.",
+        "why": "Una guarnición bien elegida comunica lo que hay en la copa antes del primer sorbo, generando expectativas de la misma forma que el aroma del café lo hace antes de probarlo.",
+        "tip": "Combina la guarnición con un sabor realmente presente en la bebida en lugar de elegirla solo por atractivo visual.",
+        "mistake": "Añadir una guarnición que se ve atractiva pero no tiene ninguna conexión real con el perfil de sabor real del cóctel.",
+        "challenge": "¿Por qué una guarnición mal combinada podría en realidad ir en contra del disfrute del cliente de un cóctel bien hecho?"
+      },
+      "pt": {
+        "title": "Guarnição de coquetéis de café",
+        "definition": "As guarnições para coquetéis de café geralmente incluem grãos de café, casca de cítricos ou um leve polvilhado de especiaria, escolhidas para sugerir o sabor da bebida em vez de apenas decorá-la.",
+        "why": "Uma guarnição bem escolhida comunica o que está no copo antes do primeiro gole, criando expectativas da mesma forma que o aroma do café faz antes de provar.",
+        "tip": "Combine a guarnição com um sabor realmente presente na bebida em vez de escolhê-la apenas pelo apelo visual.",
+        "mistake": "Adicionar uma guarnição que parece atraente mas não tem nenhuma conexão real com o perfil de sabor real do coquetel.",
+        "challenge": "Por que uma guarnição malcombinada pode na verdade atrapalhar o prazer do cliente com um coquetel bem feito?"
+      },
+      "de": {
+        "title": "Garnierung von Kaffeecocktails",
+        "definition": "Garnituren für Kaffeecocktails umfassen typischerweise Kaffeebohnen, Zitrusschale oder eine leichte Gewürzstäubung, gewählt, um auf den Geschmack des Getränks hinzuweisen, statt es nur zu dekorieren.",
+        "why": "Eine gut gewählte Garnitur kommuniziert, was im Glas ist, bevor der erste Schluck genommen wird, und setzt Erwartungen genauso wie das Aroma eines Kaffees vor der Verkostung.",
+        "tip": "Passe die Garnitur zu einem tatsächlich im Getränk vorhandenen Geschmack an, statt sie rein nach optischer Attraktivität zu wählen.",
+        "mistake": "Eine Garnitur hinzuzufügen, die ansprechend aussieht, aber keine echte Verbindung zum tatsächlichen Geschmacksprofil des Cocktails hat.",
+        "challenge": "Warum könnte eine nicht passende Garnitur dem Genuss eines gut gemachten Cocktails durch den Kunden tatsächlich entgegenwirken?"
+      },
+      "fr": {
+        "title": "Garniture des cocktails au café",
+        "definition": "Les garnitures pour cocktails au café incluent généralement des grains de café, du zeste d'agrumes ou une légère poudre d'épice, choisies pour suggérer la saveur de la boisson plutôt que de simplement la décorer.",
+        "why": "Une garniture bien choisie communique ce qu'il y a dans le verre avant la première gorgée, créant des attentes de la même façon que l'arôme d'un café le fait avant la dégustation.",
+        "tip": "Associez la garniture à une saveur réellement présente dans la boisson plutôt que de la choisir uniquement pour son attrait visuel.",
+        "mistake": "Ajouter une garniture qui semble attrayante mais n'a aucun lien réel avec le profil de saveur réel du cocktail.",
+        "challenge": "Pourquoi une garniture mal assortie pourrait-elle en réalité nuire au plaisir du client pour un cocktail bien préparé ?"
+      },
+      "it": {
+        "title": "Guarnizione dei cocktail al caffè",
+        "definition": "Le guarnizioni per cocktail al caffè includono tipicamente chicchi di caffè, scorza di agrumi o una leggera spolverata di spezie, scelte per suggerire il sapore della bevanda piuttosto che semplicemente decorarla.",
+        "why": "Una guarnizione ben scelta comunica cosa c'è nel bicchiere prima del primo sorso, creando aspettative allo stesso modo in cui l'aroma di un caffè lo fa prima dell'assaggio.",
+        "tip": "Abbina la guarnizione a un sapore realmente presente nella bevanda invece di sceglierla solo per attrattiva visiva.",
+        "mistake": "Aggiungere una guarnizione che sembra attraente ma non ha alcuna vera connessione con il profilo di sapore effettivo del cocktail.",
+        "challenge": "Perché una guarnizione non abbinata potrebbe effettivamente ostacolare il piacere del cliente per un cocktail ben fatto?"
+      }
+    }
+  },
+  {
+    "number": "376",
+    "title": "Bar Tools for Coffee Cocktails",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "376.jpg",
+    "definition": "Coffee cocktails require standard bar equipment — shakers, jiggers, strainers, and bar spoons — used alongside coffee-specific tools like an espresso machine or cold brew setup.",
+    "why": "Precise measurement with a jigger matters as much in a coffee cocktail as precise dosing does in a shot of espresso.",
+    "tip": "Keep bar tools and coffee equipment in the same accessible station if a café is running both, to avoid slowing down either side during service.",
+    "mistake": "Eyeballing spirit measurements instead of using a jigger, which introduces the same kind of inconsistency that eyeballing a coffee dose would.",
+    "challenge": "Why does a jigger matter as much to cocktail consistency as a scale matters to espresso consistency?",
+    "related": [
+      "354",
+      "002"
+    ],
+    "translations": {
+      "es": {
+        "title": "Herramientas de bar para cócteles de café",
+        "definition": "Los cócteles de café requieren equipo de bar estándar —coctelera, jigger, colador y cuchara de bar— usado junto con herramientas específicas de café como una máquina de espresso o un montaje de cold brew.",
+        "why": "La medición precisa con un jigger importa tanto en un cóctel de café como la dosificación precisa en un shot de espresso.",
+        "tip": "Mantén las herramientas de bar y el equipo de café en la misma estación accesible si una cafetería maneja ambos, para no ralentizar ninguno de los dos durante el servicio.",
+        "mistake": "Calcular a ojo las medidas de licor en lugar de usar un jigger, lo que introduce el mismo tipo de inconsistencia que calcular a ojo una dosis de café.",
+        "challenge": "¿Por qué un jigger importa tanto para la consistencia de un cóctel como una báscula importa para la consistencia del espresso?"
+      },
+      "pt": {
+        "title": "Ferramentas de bar para coquetéis de café",
+        "definition": "Coquetéis de café exigem equipamento de bar padrão — coqueteleira, dosador, coador e colher de bar — usado junto com ferramentas específicas de café como uma máquina de espresso ou um sistema de cold brew.",
+        "why": "A medição precisa com um dosador importa tanto em um coquetel de café quanto a dosagem precisa em um shot de espresso.",
+        "tip": "Mantenha as ferramentas de bar e o equipamento de café na mesma estação acessível se uma cafeteria opera ambos, para não atrasar nenhum dos dois durante o serviço.",
+        "mistake": "Estimar de olho as medidas do destilado em vez de usar um dosador, o que introduz o mesmo tipo de inconsistência que estimar de olho uma dose de café.",
+        "challenge": "Por que um dosador importa tanto para a consistência de um coquetel quanto uma balança importa para a consistência do espresso?"
+      },
+      "de": {
+        "title": "Barwerkzeuge für Kaffeecocktails",
+        "definition": "Kaffeecocktails erfordern Standardbarausrüstung — Shaker, Jigger, Sieb und Barlöffel — genutzt neben kaffeespezifischen Werkzeugen wie einer Espressomaschine oder einem Cold-Brew-Aufbau.",
+        "why": "Präzises Messen mit einem Jigger ist bei einem Kaffeecocktail genauso wichtig wie präzises Dosieren bei einem Espresso-Shot.",
+        "tip": "Halte Barwerkzeuge und Kaffeeausrüstung an derselben zugänglichen Station, wenn ein Café beides betreibt, um keine der beiden Seiten während des Service zu verlangsamen.",
+        "mistake": "Spirituosenmengen nach Augenmaß zu schätzen statt einen Jigger zu verwenden, was dieselbe Art von Inkonsistenz einbringt wie das Schätzen einer Kaffeedosis nach Augenmaß.",
+        "challenge": "Warum ist ein Jigger für die Cocktail-Konsistenz genauso wichtig wie eine Waage für die Espresso-Konsistenz?"
+      },
+      "fr": {
+        "title": "Outils de bar pour cocktails au café",
+        "definition": "Les cocktails au café nécessitent un équipement de bar standard — shaker, jigger, passoire et cuillère de bar — utilisé aux côtés d'outils spécifiques au café comme une machine à espresso ou un dispositif de cold brew.",
+        "why": "Une mesure précise avec un jigger compte autant dans un cocktail au café qu'un dosage précis dans un shot d'espresso.",
+        "tip": "Gardez les outils de bar et l'équipement café dans le même poste accessible si un café gère les deux, pour ne ralentir ni l'un ni l'autre pendant le service.",
+        "mistake": "Estimer les mesures de spiritueux à l'œil plutôt que d'utiliser un jigger, ce qui introduit le même type d'incohérence qu'estimer une dose de café à l'œil.",
+        "challenge": "Pourquoi un jigger compte-t-il autant pour la constance d'un cocktail qu'une balance pour la constance de l'espresso ?"
+      },
+      "it": {
+        "title": "Strumenti da bar per cocktail al caffè",
+        "definition": "I cocktail al caffè richiedono attrezzatura da bar standard — shaker, dosatore, colino e cucchiaio da bar — usata insieme a strumenti specifici per il caffè come una macchina da espresso o un impianto per cold brew.",
+        "why": "Una misurazione precisa con un dosatore conta tanto in un cocktail al caffè quanto un dosaggio preciso in uno shot di espresso.",
+        "tip": "Mantieni gli strumenti da bar e l'attrezzatura per il caffè nella stessa postazione accessibile se un bar gestisce entrambi, per non rallentare nessuno dei due durante il servizio.",
+        "mistake": "Stimare a occhio le misure del distillato invece di usare un dosatore, il che introduce lo stesso tipo di incoerenza che stimare a occhio una dose di caffè.",
+        "challenge": "Perché un dosatore conta tanto per la coerenza di un cocktail quanto una bilancia per la coerenza dell'espresso?"
+      }
+    }
+  },
+  {
+    "number": "377",
+    "title": "Non-Alcoholic Coffee Mocktails",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "377.jpg",
+    "definition": "Non-alcoholic coffee mocktails replicate cocktail structure and presentation using coffee, syrups, bitters, and mixers, without any actual spirit.",
+    "why": "They give cafés a way to serve a genuinely crafted drink to customers who don't drink alcohol, rather than a plain coffee as the only non-alcoholic option.",
+    "tip": "Use non-alcoholic bitters and complex syrups to replace the depth a spirit would normally provide, rather than just removing the alcohol and leaving a gap.",
+    "mistake": "Simply removing the alcohol from a cocktail recipe without replacing the complexity it was contributing.",
+    "challenge": "Why might a mocktail that's just 'the cocktail minus alcohol' taste noticeably thinner than the original?",
+    "related": [
+      "354",
+      "358"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mocktails de café sin alcohol",
+        "definition": "Los mocktails de café sin alcohol replican la estructura y presentación de un cóctel usando café, jarabes, bitters y mezcladores, sin ningún licor real.",
+        "why": "Dan a las cafeterías una forma de servir una bebida genuinamente elaborada a clientes que no beben alcohol, en lugar de un simple café como única opción sin alcohol.",
+        "tip": "Usa bitters sin alcohol y jarabes complejos para reemplazar la profundidad que normalmente aportaría un licor, en lugar de solo quitar el alcohol y dejar un vacío.",
+        "mistake": "Simplemente quitar el alcohol de una receta de cóctel sin reemplazar la complejidad que aportaba.",
+        "challenge": "¿Por qué un mocktail que es solo 'el cóctel menos el alcohol' podría saber notablemente más plano que el original?"
+      },
+      "pt": {
+        "title": "Mocktails de café sem álcool",
+        "definition": "Os mocktails de café sem álcool replicam a estrutura e apresentação de um coquetel usando café, xaropes, bitters e misturadores, sem nenhum destilado real.",
+        "why": "Dão às cafeterias uma forma de servir uma bebida genuinamente elaborada a clientes que não bebem álcool, em vez de um simples café como única opção sem álcool.",
+        "tip": "Use bitters sem álcool e xaropes complexos para substituir a profundidade que um destilado normalmente forneceria, em vez de apenas remover o álcool e deixar um vazio.",
+        "mistake": "Simplesmente remover o álcool de uma receita de coquetel sem substituir a complexidade que ele estava contribuindo.",
+        "challenge": "Por que um mocktail que é apenas 'o coquetel menos o álcool' pode ter um gosto notavelmente mais fraco que o original?"
+      },
+      "de": {
+        "title": "Alkoholfreie Kaffee-Mocktails",
+        "definition": "Alkoholfreie Kaffee-Mocktails ahmen Cocktailstruktur und -präsentation mit Kaffee, Sirups, Bitters und Mixern nach, ganz ohne echte Spirituose.",
+        "why": "Sie geben Cafés eine Möglichkeit, Kunden, die keinen Alkohol trinken, ein wirklich kunstvoll gemachtes Getränk zu servieren, statt nur einen einfachen Kaffee als einzige alkoholfreie Option.",
+        "tip": "Verwende alkoholfreie Bitters und komplexe Sirups, um die Tiefe zu ersetzen, die normalerweise eine Spirituose liefern würde, statt einfach den Alkohol zu entfernen und eine Lücke zu hinterlassen.",
+        "mistake": "Einfach den Alkohol aus einem Cocktailrezept zu entfernen, ohne die Komplexität zu ersetzen, die er beigetragen hat.",
+        "challenge": "Warum könnte ein Mocktail, der nur 'der Cocktail minus Alkohol' ist, spürbar dünner schmecken als das Original?"
+      },
+      "fr": {
+        "title": "Mocktails au café sans alcool",
+        "definition": "Les mocktails au café sans alcool reproduisent la structure et la présentation d'un cocktail en utilisant café, sirops, bitters et mixers, sans aucun spiritueux réel.",
+        "why": "Ils donnent aux cafés un moyen de servir une boisson véritablement élaborée aux clients qui ne boivent pas d'alcool, plutôt qu'un simple café comme seule option sans alcool.",
+        "tip": "Utilisez des bitters sans alcool et des sirops complexes pour remplacer la profondeur qu'un spiritueux fournirait normalement, plutôt que de simplement retirer l'alcool en laissant un vide.",
+        "mistake": "Simplement retirer l'alcool d'une recette de cocktail sans remplacer la complexité qu'il apportait.",
+        "challenge": "Pourquoi un mocktail qui n'est que « le cocktail moins l'alcool » pourrait-il avoir un goût sensiblement plus mince que l'original ?"
+      },
+      "it": {
+        "title": "Mocktail al caffè analcolici",
+        "definition": "I mocktail al caffè analcolici replicano la struttura e la presentazione di un cocktail usando caffè, sciroppi, bitter e mixer, senza alcun distillato reale.",
+        "why": "Danno ai bar un modo per servire una bevanda genuinamente elaborata a clienti che non bevono alcolici, invece di un semplice caffè come unica opzione analcolica.",
+        "tip": "Usa bitter analcolici e sciroppi complessi per sostituire la profondità che normalmente fornirebbe un distillato, invece di limitarti a rimuovere l'alcol lasciando un vuoto.",
+        "mistake": "Rimuovere semplicemente l'alcol da una ricetta di cocktail senza sostituire la complessità che stava contribuendo.",
+        "challenge": "Perché un mocktail che è solo 'il cocktail meno l'alcol' potrebbe avere un sapore notevolmente più sottile dell'originale?"
+      }
+    }
+  },
+  {
+    "number": "378",
+    "title": "Coffee & Dessert Wine Pairings",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "378.jpg",
+    "definition": "Sweet dessert wines like port or Sauternes can pair with coffee in a tasting flight or dessert menu, matching sweetness levels rather than combining the two in a single glass.",
+    "why": "It extends coffee pairing beyond spirits-based cocktails into the wine world, opening a different kind of menu opportunity than cocktail-making.",
+    "tip": "Match a coffee's sweetness and body to a dessert wine of similar intensity, rather than pairing a delicate coffee with an overpowering wine.",
+    "mistake": "Assuming coffee and wine pairing must mean mixing them together rather than serving them side by side.",
+    "challenge": "Why might serving coffee and dessert wine as a side-by-side tasting achieve something a mixed drink couldn't?",
+    "related": [
+      "291",
+      "280"
+    ],
+    "translations": {
+      "es": {
+        "title": "Maridajes de café y vino de postre",
+        "definition": "Los vinos de postre dulces como el oporto o el Sauternes pueden maridarse con café en un flight de cata o menú de postres, combinando niveles de dulzura en lugar de mezclar ambos en una sola copa.",
+        "why": "Extiende el maridaje del café más allá de los cócteles con licor hacia el mundo del vino, abriendo un tipo distinto de oportunidad de menú que la coctelería.",
+        "tip": "Combina la dulzura y el cuerpo de un café con un vino de postre de intensidad similar, en lugar de maridar un café delicado con un vino abrumador.",
+        "mistake": "Suponer que maridar café y vino significa necesariamente mezclarlos en lugar de servirlos uno junto al otro.",
+        "challenge": "¿Por qué servir café y vino de postre como una cata lado a lado podría lograr algo que una bebida mezclada no podría?"
+      },
+      "pt": {
+        "title": "Combinações de café e vinho de sobremesa",
+        "definition": "Vinhos de sobremesa doces como porto ou Sauternes podem combinar com café em uma degustação em sequência ou menu de sobremesas, ajustando níveis de doçura em vez de misturar os dois em uma única taça.",
+        "why": "Estende a combinação do café além dos coquetéis à base de destilados para o mundo do vinho, abrindo um tipo diferente de oportunidade de menu do que a coquetelaria.",
+        "tip": "Combine a doçura e o corpo de um café com um vinho de sobremesa de intensidade semelhante, em vez de combinar um café delicado com um vinho avassalador.",
+        "mistake": "Supor que combinar café e vinho significa necessariamente misturá-los em vez de servi-los lado a lado.",
+        "challenge": "Por que servir café e vinho de sobremesa como uma degustação lado a lado pode alcançar algo que uma bebida misturada não conseguiria?"
+      },
+      "de": {
+        "title": "Kaffee- und Dessertwein-Pairings",
+        "definition": "Süße Dessertweine wie Portwein oder Sauternes können in einem Verkostungsflight oder Dessertmenü mit Kaffee kombiniert werden, wobei Süßegrade abgestimmt werden, statt beide in einem Glas zu vermischen.",
+        "why": "Es erweitert das Kaffee-Pairing über spirituosenbasierte Cocktails hinaus in die Weinwelt und eröffnet eine andere Art von Menüchance als das Cocktailmixen.",
+        "tip": "Stimme Süße und Körper eines Kaffees mit einem Dessertwein ähnlicher Intensität ab, statt einen zarten Kaffee mit einem überwältigenden Wein zu kombinieren.",
+        "mistake": "Anzunehmen, Kaffee-Wein-Pairing bedeute zwangsläufig, beide zu vermischen, statt sie nebeneinander zu servieren.",
+        "challenge": "Warum könnte das Servieren von Kaffee und Dessertwein als nebeneinander stehende Verkostung etwas erreichen, das ein gemischtes Getränk nicht könnte?"
+      },
+      "fr": {
+        "title": "Accords café et vin de dessert",
+        "definition": "Les vins de dessert sucrés comme le porto ou le Sauternes peuvent s'accorder avec le café dans un flight de dégustation ou une carte de desserts, en associant les niveaux de douceur plutôt qu'en les combinant dans un seul verre.",
+        "why": "Cela étend l'accord café au-delà des cocktails à base de spiritueux vers le monde du vin, ouvrant un type d'opportunité de carte différent de la fabrication de cocktails.",
+        "tip": "Associez la douceur et le corps d'un café à un vin de dessert d'intensité similaire, plutôt que d'accorder un café délicat avec un vin écrasant.",
+        "mistake": "Supposer que l'accord café et vin doit forcément signifier les mélanger plutôt que de les servir côte à côte.",
+        "challenge": "Pourquoi servir le café et le vin de dessert en dégustation côte à côte pourrait-il accomplir quelque chose qu'une boisson mélangée ne pourrait pas ?"
+      },
+      "it": {
+        "title": "Abbinamenti tra caffè e vino da dessert",
+        "definition": "I vini da dessert dolci come il porto o il Sauternes possono abbinarsi al caffè in un flight di degustazione o in un menu dei dessert, abbinando i livelli di dolcezza invece di combinarli in un unico bicchiere.",
+        "why": "Estende l'abbinamento del caffè oltre i cocktail a base di distillati verso il mondo del vino, aprendo un tipo diverso di opportunità di menu rispetto alla preparazione di cocktail.",
+        "tip": "Abbina la dolcezza e il corpo di un caffè a un vino da dessert di intensità simile, invece di abbinare un caffè delicato a un vino travolgente.",
+        "mistake": "Supporre che abbinare caffè e vino debba necessariamente significare mescolarli invece di servirli fianco a fianco.",
+        "challenge": "Perché servire caffè e vino da dessert come degustazione fianco a fianco potrebbe ottenere qualcosa che una bevanda mescolata non potrebbe?"
+      }
+    }
   }
 ]

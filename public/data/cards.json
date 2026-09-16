@@ -26059,5 +26059,1805 @@
       }
     },
     "id": 370
+  },
+  {
+    "number": "371",
+    "title": "Cascara Nutrition & Caffeine Content",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "371.jpg",
+    "definition": "Cascara contains caffeine, antioxidants, and natural sugars, though at levels that vary widely by origin and processing rather than a single fixed value.",
+    "why": "Customers sometimes assume cascara is caffeine-free simply because it isn't coffee, which can be a genuine problem for anyone limiting caffeine intake.",
+    "tip": "Communicate that cascara contains some caffeine rather than letting customers assume it's automatically caffeine-free.",
+    "mistake": "Marketing cascara as a caffeine-free coffee alternative without checking its actual caffeine content.",
+    "challenge": "Why might a product made from the coffee plant still surprise people by containing caffeine at all?",
+    "related": [
+      "263",
+      "308"
+    ],
+    "translations": {
+      "es": {
+        "title": "Nutrición y contenido de cafeína de la cascara",
+        "definition": "La cascara contiene cafeína, antioxidantes y azúcares naturales, aunque en niveles que varían ampliamente según el origen y el procesamiento en lugar de un valor único fijo.",
+        "why": "A veces los clientes suponen que la cascara no tiene cafeína solo porque no es café, lo cual puede ser un problema real para quien limita su consumo de cafeína.",
+        "tip": "Comunica que la cascara contiene algo de cafeína en lugar de dejar que los clientes supongan que está automáticamente libre de ella.",
+        "mistake": "Comercializar la cascara como una alternativa de café sin cafeína sin verificar su contenido real de cafeína.",
+        "challenge": "¿Por qué un producto hecho de la planta de café podría sorprender a la gente al contener cafeína en absoluto?"
+      },
+      "pt": {
+        "title": "Nutrição e teor de cafeína da cascara",
+        "definition": "A cascara contém cafeína, antioxidantes e açúcares naturais, embora em níveis que variam amplamente por origem e processamento em vez de um único valor fixo.",
+        "why": "Às vezes os clientes supõem que a cascara não tem cafeína só porque não é café, o que pode ser um problema real para quem limita o consumo de cafeína.",
+        "tip": "Comunique que a cascara contém alguma cafeína em vez de deixar os clientes supor que é automaticamente livre dela.",
+        "mistake": "Divulgar a cascara como uma alternativa de café sem cafeína sem verificar seu teor real de cafeína.",
+        "challenge": "Por que um produto feito da planta do café pode surpreender as pessoas ao conter cafeína?"
+      },
+      "de": {
+        "title": "Cascara-Nährwert und Koffeingehalt",
+        "definition": "Cascara enthält Koffein, Antioxidantien und natürliche Zucker, allerdings in stark variierenden Mengen je nach Ursprung und Aufbereitung statt eines einzigen festen Werts.",
+        "why": "Kunden nehmen manchmal an, Cascara sei koffeinfrei, nur weil sie kein Kaffee ist, was für jemanden mit Koffeinbeschränkung ein echtes Problem sein kann.",
+        "tip": "Kommuniziere, dass Cascara etwas Koffein enthält, statt Kunden annehmen zu lassen, sie sei automatisch koffeinfrei.",
+        "mistake": "Cascara als koffeinfreie Kaffeealternative zu vermarkten, ohne ihren tatsächlichen Koffeingehalt zu prüfen.",
+        "challenge": "Warum könnte ein aus der Kaffeepflanze hergestelltes Produkt Menschen überraschen, indem es überhaupt Koffein enthält?"
+      },
+      "fr": {
+        "title": "Nutrition et teneur en caféine de la cascara",
+        "definition": "La cascara contient de la caféine, des antioxydants et des sucres naturels, mais à des niveaux qui varient largement selon l'origine et le traitement plutôt qu'une valeur unique fixe.",
+        "why": "Les clients supposent parfois que la cascara est sans caféine simplement parce que ce n'est pas du café, ce qui peut être un vrai problème pour quiconque limite sa consommation de caféine.",
+        "tip": "Communiquez que la cascara contient de la caféine plutôt que de laisser les clients supposer qu'elle en est automatiquement dépourvue.",
+        "mistake": "Commercialiser la cascara comme une alternative au café sans caféine sans vérifier sa teneur réelle en caféine.",
+        "challenge": "Pourquoi un produit fabriqué à partir de la plante de café pourrait-il surprendre les gens en contenant de la caféine ?"
+      },
+      "it": {
+        "title": "Nutrizione e contenuto di caffeina della cascara",
+        "definition": "La cascara contiene caffeina, antiossidanti e zuccheri naturali, sebbene a livelli che variano ampiamente per origine e lavorazione invece di un unico valore fisso.",
+        "why": "A volte i clienti suppongono che la cascara sia priva di caffeina solo perché non è caffè, il che può essere un vero problema per chi limita l'assunzione di caffeina.",
+        "tip": "Comunica che la cascara contiene un po' di caffeina invece di lasciare che i clienti suppongano che ne sia automaticamente priva.",
+        "mistake": "Commercializzare la cascara come alternativa al caffè priva di caffeina senza verificarne il contenuto effettivo.",
+        "challenge": "Perché un prodotto fatto dalla pianta del caffè potrebbe sorprendere le persone contenendo caffeina?"
+      }
+    },
+    "id": 371
+  },
+  {
+    "number": "372",
+    "title": "Cascara Storage & Shelf Life",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "372.jpg",
+    "definition": "Dried cascara needs cool, dry, airtight storage similar to green coffee, since residual moisture or humidity exposure can cause mold even after drying is complete.",
+    "why": "Cascara's fruit-based sugars make it more prone to moisture reabsorption and spoilage than roasted coffee if storage is careless.",
+    "tip": "Store cascara in a sealed, opaque container away from humidity, checking periodically for any off-smell or clumping.",
+    "mistake": "Storing cascara the same way as roasted coffee in an open valve bag, when its handling needs differ.",
+    "challenge": "Why might cascara's high sugar content make it more vulnerable to spoilage than the coffee bean it came from?",
+    "related": [
+      "266",
+      "273"
+    ],
+    "translations": {
+      "es": {
+        "title": "Almacenamiento y vida útil de la cascara",
+        "definition": "La cascara seca necesita almacenamiento fresco, seco y hermético similar al café verde, ya que la humedad residual o la exposición a humedad puede causar moho incluso después de completado el secado.",
+        "why": "Los azúcares de origen frutal de la cascara la hacen más propensa a reabsorber humedad y deteriorarse que el café tostado si el almacenamiento es descuidado.",
+        "tip": "Guarda la cascara en un recipiente sellado y opaco alejado de la humedad, revisando periódicamente si hay mal olor o apelmazamiento.",
+        "mistake": "Almacenar la cascara igual que el café tostado en una bolsa con válvula abierta, cuando sus necesidades de manejo son distintas.",
+        "challenge": "¿Por qué el alto contenido de azúcar de la cascara podría hacerla más vulnerable al deterioro que el grano de café del que proviene?"
+      },
+      "pt": {
+        "title": "Armazenamento e vida útil da cascara",
+        "definition": "A cascara seca precisa de armazenamento fresco, seco e hermético semelhante ao café verde, já que umidade residual ou exposição à umidade pode causar mofo mesmo após a secagem completa.",
+        "why": "Os açúcares de origem frutal da cascara a tornam mais propensa a reabsorver umidade e estragar do que o café torrado se o armazenamento for descuidado.",
+        "tip": "Guarde a cascara em um recipiente selado e opaco longe da umidade, verificando periodicamente qualquer cheiro estranho ou empedramento.",
+        "mistake": "Armazenar a cascara da mesma forma que o café torrado em um saco com válvula aberta, quando suas necessidades de manuseio são diferentes.",
+        "challenge": "Por que o alto teor de açúcar da cascara pode torná-la mais vulnerável à deterioração do que o grão de café de onde veio?"
+      },
+      "de": {
+        "title": "Cascara-Lagerung und Haltbarkeit",
+        "definition": "Getrocknete Cascara benötigt kühle, trockene, luftdichte Lagerung ähnlich wie Rohkaffee, da Restfeuchte oder Feuchtigkeitseinwirkung selbst nach abgeschlossener Trocknung Schimmel verursachen kann.",
+        "why": "Die fruchtbasierten Zucker der Cascara machen sie anfälliger für Feuchtigkeitsrückaufnahme und Verderb als gerösteten Kaffee, wenn die Lagerung nachlässig ist.",
+        "tip": "Lagere Cascara in einem versiegelten, undurchsichtigen Behälter fern von Feuchtigkeit und prüfe regelmäßig auf Fehlgeruch oder Verklumpung.",
+        "mistake": "Cascara genauso wie gerösteten Kaffee in einem offenen Ventilbeutel zu lagern, obwohl ihre Handhabungsbedürfnisse unterschiedlich sind.",
+        "challenge": "Warum könnte der hohe Zuckergehalt der Cascara sie anfälliger für Verderb machen als die Kaffeebohne, aus der sie stammt?"
+      },
+      "fr": {
+        "title": "Stockage et durée de conservation de la cascara",
+        "definition": "La cascara séchée nécessite un stockage frais, sec et hermétique similaire au café vert, car l'humidité résiduelle ou l'exposition à l'humidité peut causer de la moisissure même après séchage complet.",
+        "why": "Les sucres d'origine fruitée de la cascara la rendent plus sujette à la réabsorption d'humidité et à la détérioration que le café torréfié si le stockage est négligent.",
+        "tip": "Stockez la cascara dans un récipient scellé et opaque loin de l'humidité, en vérifiant périodiquement toute odeur anormale ou agglomération.",
+        "mistake": "Stocker la cascara de la même façon que le café torréfié dans un sac à valve ouvert, alors que ses besoins de manipulation diffèrent.",
+        "challenge": "Pourquoi la haute teneur en sucre de la cascara pourrait-elle la rendre plus vulnérable à la détérioration que le grain de café dont elle provient ?"
+      },
+      "it": {
+        "title": "Conservazione e durata della cascara",
+        "definition": "La cascara essiccata necessita di conservazione fresca, asciutta ed ermetica simile al caffè verde, poiché l'umidità residua o l'esposizione all'umidità può causare muffa anche dopo l'essiccazione completa.",
+        "why": "Gli zuccheri di origine fruttata della cascara la rendono più incline a riassorbire umidità e deteriorarsi rispetto al caffè tostato se la conservazione è trascurata.",
+        "tip": "Conserva la cascara in un contenitore sigillato e opaco lontano dall'umidità, controllando periodicamente eventuali cattivi odori o agglomerati.",
+        "mistake": "Conservare la cascara allo stesso modo del caffè tostato in un sacchetto a valvola aperto, quando le sue esigenze di gestione sono diverse.",
+        "challenge": "Perché l'alto contenuto di zucchero della cascara potrebbe renderla più vulnerabile al deterioramento rispetto al chicco di caffè da cui proviene?"
+      }
+    },
+    "id": 372
+  },
+  {
+    "number": "373",
+    "title": "Cascara in Baking",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "373.jpg",
+    "definition": "Beyond coffee flour, whole or coarsely ground cascara can be baked directly into granola, cookies, and bread for texture and fruity flavor, distinct from the flour-milling process.",
+    "why": "It's a lower-effort way for a café to use cascara creatively without needing the equipment to mill it into flour.",
+    "tip": "Rehydrate cascara briefly before baking with it, since its dried texture can otherwise stay tough in a finished baked good.",
+    "mistake": "Adding dry cascara directly into a batter expecting it to soften the same way raisins would.",
+    "challenge": "Why might cascara behave differently in baking than a more familiar dried fruit like raisins?",
+    "related": [
+      "267",
+      "263"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cascara en repostería",
+        "definition": "Más allá de la harina de café, la cascara entera o molida gruesa puede hornearse directamente en granola, galletas y pan para textura y sabor afrutado, distinto del proceso de molienda en harina.",
+        "why": "Es una forma de menor esfuerzo para que una cafetería use la cascara de forma creativa sin necesitar el equipo para molerla en harina.",
+        "tip": "Rehidrata la cascara brevemente antes de hornear con ella, ya que su textura seca puede quedar dura en el producto horneado final.",
+        "mistake": "Añadir cascara seca directamente a una masa esperando que se ablande igual que lo harían las pasas.",
+        "challenge": "¿Por qué la cascara podría comportarse de forma distinta al hornear que una fruta seca más conocida como las pasas?"
+      },
+      "pt": {
+        "title": "Cascara em panificação",
+        "definition": "Além da farinha de café, a cascara inteira ou moída grosseiramente pode ser assada diretamente em granola, biscoitos e pão para textura e sabor frutado, distinto do processo de moagem em farinha.",
+        "why": "É uma forma de menor esforço para uma cafeteria usar a cascara de forma criativa sem precisar do equipamento para moê-la em farinha.",
+        "tip": "Reidrate a cascara brevemente antes de assar com ela, já que sua textura seca pode ficar dura no produto assado final.",
+        "mistake": "Adicionar cascara seca diretamente a uma massa esperando que amoleça da mesma forma que passas.",
+        "challenge": "Por que a cascara pode se comportar de forma diferente ao assar do que uma fruta seca mais conhecida como passas?"
+      },
+      "de": {
+        "title": "Cascara beim Backen",
+        "definition": "Über Kaffeemehl hinaus kann ganze oder grob gemahlene Cascara direkt in Granola, Kekse und Brot eingebacken werden, für Textur und fruchtigen Geschmack, getrennt vom Mahlprozess zu Mehl.",
+        "why": "Es ist ein weniger aufwendiger Weg für ein Café, Cascara kreativ zu nutzen, ohne die Ausrüstung zum Mahlen zu Mehl zu benötigen.",
+        "tip": "Weiche Cascara kurz ein, bevor du damit bäckst, da ihre trockene Textur sonst im fertigen Backwerk zäh bleiben kann.",
+        "mistake": "Trockene Cascara direkt in einen Teig zu geben, in der Erwartung, sie werde sich wie Rosinen weichen.",
+        "challenge": "Warum könnte sich Cascara beim Backen anders verhalten als eine vertrautere Trockenfrucht wie Rosinen?"
+      },
+      "fr": {
+        "title": "La cascara en pâtisserie",
+        "definition": "Au-delà de la farine de café, la cascara entière ou grossièrement moulue peut être cuite directement dans du granola, des biscuits et du pain pour la texture et la saveur fruitée, distincte du processus de meunerie en farine.",
+        "why": "C'est un moyen moins exigeant pour un café d'utiliser la cascara de façon créative sans avoir besoin de l'équipement pour la moudre en farine.",
+        "tip": "Réhydratez brièvement la cascara avant de cuisiner avec, car sa texture séchée peut sinon rester dure dans le produit fini.",
+        "mistake": "Ajouter de la cascara sèche directement dans une pâte en espérant qu'elle ramollisse comme le feraient des raisins secs.",
+        "challenge": "Pourquoi la cascara pourrait-elle se comporter différemment à la cuisson qu'un fruit sec plus familier comme le raisin sec ?"
+      },
+      "it": {
+        "title": "Cascara in pasticceria",
+        "definition": "Oltre alla farina di caffè, la cascara intera o macinata grossolanamente può essere cotta direttamente in granola, biscotti e pane per texture e sapore fruttato, distinto dal processo di macinazione in farina.",
+        "why": "È un modo a minor sforzo per un bar di usare la cascara in modo creativo senza bisogno dell'attrezzatura per macinarla in farina.",
+        "tip": "Reidrata la cascara brevemente prima di cucinare con essa, poiché la sua texture secca potrebbe altrimenti rimanere dura nel prodotto finito.",
+        "mistake": "Aggiungere cascara secca direttamente in un impasto aspettandosi che si ammorbidisca come farebbe l'uvetta.",
+        "challenge": "Perché la cascara potrebbe comportarsi diversamente in cottura rispetto a un frutto secco più familiare come l'uvetta?"
+      }
+    },
+    "id": 373
+  },
+  {
+    "number": "374",
+    "title": "Global Cascara Production Regions",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "374.jpg",
+    "definition": "Cascara is produced wherever coffee cherries are processed, but commercial cascara production is currently concentrated in a handful of countries including El Salvador, Ethiopia, Bolivia, and Peru.",
+    "why": "Knowing which regions actively export cascara helps buyers source it through established, quality-controlled channels rather than one-off farm experiments.",
+    "tip": "Ask your green coffee importer whether they also carry cascara from the same origins, since supply chains often overlap.",
+    "mistake": "Assuming cascara is available from every coffee-producing country simply because every country grows coffee cherries.",
+    "challenge": "Why might a country that produces excellent coffee still have little to no commercial cascara production?",
+    "related": [
+      "273",
+      "278"
+    ],
+    "translations": {
+      "es": {
+        "title": "Regiones globales de producción de cascara",
+        "definition": "La cascara se produce dondequiera que se procesen cerezas de café, pero la producción comercial de cascara está actualmente concentrada en un puñado de países, entre ellos El Salvador, Etiopía, Bolivia y Perú.",
+        "why": "Saber qué regiones exportan activamente cascara ayuda a los compradores a abastecerse a través de canales establecidos y con control de calidad, en lugar de experimentos aislados de fincas.",
+        "tip": "Pregunta a tu importador de café verde si también maneja cascara de los mismos orígenes, ya que las cadenas de suministro suelen superponerse.",
+        "mistake": "Suponer que la cascara está disponible en todos los países productores de café solo porque todos cultivan cerezas de café.",
+        "challenge": "¿Por qué un país que produce café excelente podría tener poca o ninguna producción comercial de cascara?"
+      },
+      "pt": {
+        "title": "Regiões globais de produção de cascara",
+        "definition": "A cascara é produzida onde quer que cerejas de café sejam processadas, mas a produção comercial de cascara está atualmente concentrada em um punhado de países, incluindo El Salvador, Etiópia, Bolívia e Peru.",
+        "why": "Saber quais regiões exportam ativamente cascara ajuda os compradores a se abastecerem por canais estabelecidos e com controle de qualidade, em vez de experimentos isolados de fazendas.",
+        "tip": "Pergunte ao seu importador de café verde se ele também tem cascara das mesmas origens, já que as cadeias de fornecimento costumam se sobrepor.",
+        "mistake": "Supor que a cascara está disponível em todos os países produtores de café só porque todos cultivam cerejas de café.",
+        "challenge": "Por que um país que produz café excelente pode ter pouca ou nenhuma produção comercial de cascara?"
+      },
+      "de": {
+        "title": "Globale Cascara-Anbauregionen",
+        "definition": "Cascara wird überall dort produziert, wo Kaffeekirschen aufbereitet werden, aber die kommerzielle Cascara-Produktion konzentriert sich derzeit auf eine Handvoll Länder, darunter El Salvador, Äthiopien, Bolivien und Peru.",
+        "why": "Zu wissen, welche Regionen aktiv Cascara exportieren, hilft Käufern, sie über etablierte, qualitätskontrollierte Kanäle zu beziehen statt über einmalige Farmexperimente.",
+        "tip": "Frage deinen Rohkaffee-Importeur, ob er auch Cascara aus denselben Ursprüngen führt, da sich Lieferketten oft überschneiden.",
+        "mistake": "Anzunehmen, Cascara sei aus jedem kaffeeproduzierenden Land verfügbar, nur weil jedes Land Kaffeekirschen anbaut.",
+        "challenge": "Warum könnte ein Land, das exzellenten Kaffee produziert, trotzdem wenig bis keine kommerzielle Cascara-Produktion haben?"
+      },
+      "fr": {
+        "title": "Régions mondiales de production de cascara",
+        "definition": "La cascara est produite partout où des cerises de café sont traitées, mais la production commerciale de cascara est actuellement concentrée dans une poignée de pays dont le Salvador, l'Éthiopie, la Bolivie et le Pérou.",
+        "why": "Savoir quelles régions exportent activement de la cascara aide les acheteurs à s'approvisionner via des canaux établis et contrôlés en qualité plutôt que des expérimentations ponctuelles de fermes.",
+        "tip": "Demandez à votre importateur de café vert s'il propose aussi de la cascara des mêmes origines, car les chaînes d'approvisionnement se chevauchent souvent.",
+        "mistake": "Supposer que la cascara est disponible dans tous les pays producteurs de café simplement parce que chaque pays cultive des cerises de café.",
+        "challenge": "Pourquoi un pays qui produit un excellent café pourrait-il avoir peu ou pas de production commerciale de cascara ?"
+      },
+      "it": {
+        "title": "Regioni globali di produzione della cascara",
+        "definition": "La cascara viene prodotta ovunque vengano lavorate ciliegie di caffè, ma la produzione commerciale di cascara è attualmente concentrata in una manciata di paesi tra cui El Salvador, Etiopia, Bolivia e Perù.",
+        "why": "Sapere quali regioni esportano attivamente cascara aiuta gli acquirenti ad approvvigionarsi attraverso canali consolidati e con controllo di qualità invece di esperimenti isolati di singole aziende agricole.",
+        "tip": "Chiedi al tuo importatore di caffè verde se tratta anche cascara dalle stesse origini, poiché le catene di fornitura spesso si sovrappongono.",
+        "mistake": "Supporre che la cascara sia disponibile in ogni paese produttore di caffè solo perché ogni paese coltiva ciliegie di caffè.",
+        "challenge": "Perché un paese che produce caffè eccellente potrebbe avere poca o nessuna produzione commerciale di cascara?"
+      }
+    },
+    "id": 374
+  },
+  {
+    "number": "375",
+    "title": "Coffee Cocktail Garnishing",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "375.jpg",
+    "definition": "Garnishes for coffee cocktails typically include coffee beans, citrus peel, or a light dusting of spice, chosen to hint at the drink's flavor rather than just decorate it.",
+    "why": "A well-chosen garnish communicates what's in the glass before the first sip, setting expectations the same way a coffee's aroma does before tasting.",
+    "tip": "Match the garnish to a flavor actually present in the drink rather than choosing one purely for visual appeal.",
+    "mistake": "Adding a garnish that looks appealing but has no genuine connection to the cocktail's actual flavor profile.",
+    "challenge": "Why might a mismatched garnish actively work against a customer's enjoyment of a well-made cocktail?",
+    "related": [
+      "347",
+      "354"
+    ],
+    "translations": {
+      "es": {
+        "title": "Guarnición de cócteles de café",
+        "definition": "Las guarniciones para cócteles de café suelen incluir granos de café, cáscara de cítricos o un ligero espolvoreado de especia, elegidas para insinuar el sabor de la bebida en lugar de solo decorarla.",
+        "why": "Una guarnición bien elegida comunica lo que hay en la copa antes del primer sorbo, generando expectativas de la misma forma que el aroma del café lo hace antes de probarlo.",
+        "tip": "Combina la guarnición con un sabor realmente presente en la bebida en lugar de elegirla solo por atractivo visual.",
+        "mistake": "Añadir una guarnición que se ve atractiva pero no tiene ninguna conexión real con el perfil de sabor real del cóctel.",
+        "challenge": "¿Por qué una guarnición mal combinada podría en realidad ir en contra del disfrute del cliente de un cóctel bien hecho?"
+      },
+      "pt": {
+        "title": "Guarnição de coquetéis de café",
+        "definition": "As guarnições para coquetéis de café geralmente incluem grãos de café, casca de cítricos ou um leve polvilhado de especiaria, escolhidas para sugerir o sabor da bebida em vez de apenas decorá-la.",
+        "why": "Uma guarnição bem escolhida comunica o que está no copo antes do primeiro gole, criando expectativas da mesma forma que o aroma do café faz antes de provar.",
+        "tip": "Combine a guarnição com um sabor realmente presente na bebida em vez de escolhê-la apenas pelo apelo visual.",
+        "mistake": "Adicionar uma guarnição que parece atraente mas não tem nenhuma conexão real com o perfil de sabor real do coquetel.",
+        "challenge": "Por que uma guarnição malcombinada pode na verdade atrapalhar o prazer do cliente com um coquetel bem feito?"
+      },
+      "de": {
+        "title": "Garnierung von Kaffeecocktails",
+        "definition": "Garnituren für Kaffeecocktails umfassen typischerweise Kaffeebohnen, Zitrusschale oder eine leichte Gewürzstäubung, gewählt, um auf den Geschmack des Getränks hinzuweisen, statt es nur zu dekorieren.",
+        "why": "Eine gut gewählte Garnitur kommuniziert, was im Glas ist, bevor der erste Schluck genommen wird, und setzt Erwartungen genauso wie das Aroma eines Kaffees vor der Verkostung.",
+        "tip": "Passe die Garnitur zu einem tatsächlich im Getränk vorhandenen Geschmack an, statt sie rein nach optischer Attraktivität zu wählen.",
+        "mistake": "Eine Garnitur hinzuzufügen, die ansprechend aussieht, aber keine echte Verbindung zum tatsächlichen Geschmacksprofil des Cocktails hat.",
+        "challenge": "Warum könnte eine nicht passende Garnitur dem Genuss eines gut gemachten Cocktails durch den Kunden tatsächlich entgegenwirken?"
+      },
+      "fr": {
+        "title": "Garniture des cocktails au café",
+        "definition": "Les garnitures pour cocktails au café incluent généralement des grains de café, du zeste d'agrumes ou une légère poudre d'épice, choisies pour suggérer la saveur de la boisson plutôt que de simplement la décorer.",
+        "why": "Une garniture bien choisie communique ce qu'il y a dans le verre avant la première gorgée, créant des attentes de la même façon que l'arôme d'un café le fait avant la dégustation.",
+        "tip": "Associez la garniture à une saveur réellement présente dans la boisson plutôt que de la choisir uniquement pour son attrait visuel.",
+        "mistake": "Ajouter une garniture qui semble attrayante mais n'a aucun lien réel avec le profil de saveur réel du cocktail.",
+        "challenge": "Pourquoi une garniture mal assortie pourrait-elle en réalité nuire au plaisir du client pour un cocktail bien préparé ?"
+      },
+      "it": {
+        "title": "Guarnizione dei cocktail al caffè",
+        "definition": "Le guarnizioni per cocktail al caffè includono tipicamente chicchi di caffè, scorza di agrumi o una leggera spolverata di spezie, scelte per suggerire il sapore della bevanda piuttosto che semplicemente decorarla.",
+        "why": "Una guarnizione ben scelta comunica cosa c'è nel bicchiere prima del primo sorso, creando aspettative allo stesso modo in cui l'aroma di un caffè lo fa prima dell'assaggio.",
+        "tip": "Abbina la guarnizione a un sapore realmente presente nella bevanda invece di sceglierla solo per attrattiva visiva.",
+        "mistake": "Aggiungere una guarnizione che sembra attraente ma non ha alcuna vera connessione con il profilo di sapore effettivo del cocktail.",
+        "challenge": "Perché una guarnizione non abbinata potrebbe effettivamente ostacolare il piacere del cliente per un cocktail ben fatto?"
+      }
+    },
+    "id": 375
+  },
+  {
+    "number": "376",
+    "title": "Bar Tools for Coffee Cocktails",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "376.jpg",
+    "definition": "Coffee cocktails require standard bar equipment — shakers, jiggers, strainers, and bar spoons — used alongside coffee-specific tools like an espresso machine or cold brew setup.",
+    "why": "Precise measurement with a jigger matters as much in a coffee cocktail as precise dosing does in a shot of espresso.",
+    "tip": "Keep bar tools and coffee equipment in the same accessible station if a café is running both, to avoid slowing down either side during service.",
+    "mistake": "Eyeballing spirit measurements instead of using a jigger, which introduces the same kind of inconsistency that eyeballing a coffee dose would.",
+    "challenge": "Why does a jigger matter as much to cocktail consistency as a scale matters to espresso consistency?",
+    "related": [
+      "354",
+      "002"
+    ],
+    "translations": {
+      "es": {
+        "title": "Herramientas de bar para cócteles de café",
+        "definition": "Los cócteles de café requieren equipo de bar estándar —coctelera, jigger, colador y cuchara de bar— usado junto con herramientas específicas de café como una máquina de espresso o un montaje de cold brew.",
+        "why": "La medición precisa con un jigger importa tanto en un cóctel de café como la dosificación precisa en un shot de espresso.",
+        "tip": "Mantén las herramientas de bar y el equipo de café en la misma estación accesible si una cafetería maneja ambos, para no ralentizar ninguno de los dos durante el servicio.",
+        "mistake": "Calcular a ojo las medidas de licor en lugar de usar un jigger, lo que introduce el mismo tipo de inconsistencia que calcular a ojo una dosis de café.",
+        "challenge": "¿Por qué un jigger importa tanto para la consistencia de un cóctel como una báscula importa para la consistencia del espresso?"
+      },
+      "pt": {
+        "title": "Ferramentas de bar para coquetéis de café",
+        "definition": "Coquetéis de café exigem equipamento de bar padrão — coqueteleira, dosador, coador e colher de bar — usado junto com ferramentas específicas de café como uma máquina de espresso ou um sistema de cold brew.",
+        "why": "A medição precisa com um dosador importa tanto em um coquetel de café quanto a dosagem precisa em um shot de espresso.",
+        "tip": "Mantenha as ferramentas de bar e o equipamento de café na mesma estação acessível se uma cafeteria opera ambos, para não atrasar nenhum dos dois durante o serviço.",
+        "mistake": "Estimar de olho as medidas do destilado em vez de usar um dosador, o que introduz o mesmo tipo de inconsistência que estimar de olho uma dose de café.",
+        "challenge": "Por que um dosador importa tanto para a consistência de um coquetel quanto uma balança importa para a consistência do espresso?"
+      },
+      "de": {
+        "title": "Barwerkzeuge für Kaffeecocktails",
+        "definition": "Kaffeecocktails erfordern Standardbarausrüstung — Shaker, Jigger, Sieb und Barlöffel — genutzt neben kaffeespezifischen Werkzeugen wie einer Espressomaschine oder einem Cold-Brew-Aufbau.",
+        "why": "Präzises Messen mit einem Jigger ist bei einem Kaffeecocktail genauso wichtig wie präzises Dosieren bei einem Espresso-Shot.",
+        "tip": "Halte Barwerkzeuge und Kaffeeausrüstung an derselben zugänglichen Station, wenn ein Café beides betreibt, um keine der beiden Seiten während des Service zu verlangsamen.",
+        "mistake": "Spirituosenmengen nach Augenmaß zu schätzen statt einen Jigger zu verwenden, was dieselbe Art von Inkonsistenz einbringt wie das Schätzen einer Kaffeedosis nach Augenmaß.",
+        "challenge": "Warum ist ein Jigger für die Cocktail-Konsistenz genauso wichtig wie eine Waage für die Espresso-Konsistenz?"
+      },
+      "fr": {
+        "title": "Outils de bar pour cocktails au café",
+        "definition": "Les cocktails au café nécessitent un équipement de bar standard — shaker, jigger, passoire et cuillère de bar — utilisé aux côtés d'outils spécifiques au café comme une machine à espresso ou un dispositif de cold brew.",
+        "why": "Une mesure précise avec un jigger compte autant dans un cocktail au café qu'un dosage précis dans un shot d'espresso.",
+        "tip": "Gardez les outils de bar et l'équipement café dans le même poste accessible si un café gère les deux, pour ne ralentir ni l'un ni l'autre pendant le service.",
+        "mistake": "Estimer les mesures de spiritueux à l'œil plutôt que d'utiliser un jigger, ce qui introduit le même type d'incohérence qu'estimer une dose de café à l'œil.",
+        "challenge": "Pourquoi un jigger compte-t-il autant pour la constance d'un cocktail qu'une balance pour la constance de l'espresso ?"
+      },
+      "it": {
+        "title": "Strumenti da bar per cocktail al caffè",
+        "definition": "I cocktail al caffè richiedono attrezzatura da bar standard — shaker, dosatore, colino e cucchiaio da bar — usata insieme a strumenti specifici per il caffè come una macchina da espresso o un impianto per cold brew.",
+        "why": "Una misurazione precisa con un dosatore conta tanto in un cocktail al caffè quanto un dosaggio preciso in uno shot di espresso.",
+        "tip": "Mantieni gli strumenti da bar e l'attrezzatura per il caffè nella stessa postazione accessibile se un bar gestisce entrambi, per non rallentare nessuno dei due durante il servizio.",
+        "mistake": "Stimare a occhio le misure del distillato invece di usare un dosatore, il che introduce lo stesso tipo di incoerenza che stimare a occhio una dose di caffè.",
+        "challenge": "Perché un dosatore conta tanto per la coerenza di un cocktail quanto una bilancia per la coerenza dell'espresso?"
+      }
+    },
+    "id": 376
+  },
+  {
+    "number": "377",
+    "title": "Non-Alcoholic Coffee Mocktails",
+    "category": "CKT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "377.jpg",
+    "definition": "Non-alcoholic coffee mocktails replicate cocktail structure and presentation using coffee, syrups, bitters, and mixers, without any actual spirit.",
+    "why": "They give cafés a way to serve a genuinely crafted drink to customers who don't drink alcohol, rather than a plain coffee as the only non-alcoholic option.",
+    "tip": "Use non-alcoholic bitters and complex syrups to replace the depth a spirit would normally provide, rather than just removing the alcohol and leaving a gap.",
+    "mistake": "Simply removing the alcohol from a cocktail recipe without replacing the complexity it was contributing.",
+    "challenge": "Why might a mocktail that's just 'the cocktail minus alcohol' taste noticeably thinner than the original?",
+    "related": [
+      "354",
+      "358"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mocktails de café sin alcohol",
+        "definition": "Los mocktails de café sin alcohol replican la estructura y presentación de un cóctel usando café, jarabes, bitters y mezcladores, sin ningún licor real.",
+        "why": "Dan a las cafeterías una forma de servir una bebida genuinamente elaborada a clientes que no beben alcohol, en lugar de un simple café como única opción sin alcohol.",
+        "tip": "Usa bitters sin alcohol y jarabes complejos para reemplazar la profundidad que normalmente aportaría un licor, en lugar de solo quitar el alcohol y dejar un vacío.",
+        "mistake": "Simplemente quitar el alcohol de una receta de cóctel sin reemplazar la complejidad que aportaba.",
+        "challenge": "¿Por qué un mocktail que es solo 'el cóctel menos el alcohol' podría saber notablemente más plano que el original?"
+      },
+      "pt": {
+        "title": "Mocktails de café sem álcool",
+        "definition": "Os mocktails de café sem álcool replicam a estrutura e apresentação de um coquetel usando café, xaropes, bitters e misturadores, sem nenhum destilado real.",
+        "why": "Dão às cafeterias uma forma de servir uma bebida genuinamente elaborada a clientes que não bebem álcool, em vez de um simples café como única opção sem álcool.",
+        "tip": "Use bitters sem álcool e xaropes complexos para substituir a profundidade que um destilado normalmente forneceria, em vez de apenas remover o álcool e deixar um vazio.",
+        "mistake": "Simplesmente remover o álcool de uma receita de coquetel sem substituir a complexidade que ele estava contribuindo.",
+        "challenge": "Por que um mocktail que é apenas 'o coquetel menos o álcool' pode ter um gosto notavelmente mais fraco que o original?"
+      },
+      "de": {
+        "title": "Alkoholfreie Kaffee-Mocktails",
+        "definition": "Alkoholfreie Kaffee-Mocktails ahmen Cocktailstruktur und -präsentation mit Kaffee, Sirups, Bitters und Mixern nach, ganz ohne echte Spirituose.",
+        "why": "Sie geben Cafés eine Möglichkeit, Kunden, die keinen Alkohol trinken, ein wirklich kunstvoll gemachtes Getränk zu servieren, statt nur einen einfachen Kaffee als einzige alkoholfreie Option.",
+        "tip": "Verwende alkoholfreie Bitters und komplexe Sirups, um die Tiefe zu ersetzen, die normalerweise eine Spirituose liefern würde, statt einfach den Alkohol zu entfernen und eine Lücke zu hinterlassen.",
+        "mistake": "Einfach den Alkohol aus einem Cocktailrezept zu entfernen, ohne die Komplexität zu ersetzen, die er beigetragen hat.",
+        "challenge": "Warum könnte ein Mocktail, der nur 'der Cocktail minus Alkohol' ist, spürbar dünner schmecken als das Original?"
+      },
+      "fr": {
+        "title": "Mocktails au café sans alcool",
+        "definition": "Les mocktails au café sans alcool reproduisent la structure et la présentation d'un cocktail en utilisant café, sirops, bitters et mixers, sans aucun spiritueux réel.",
+        "why": "Ils donnent aux cafés un moyen de servir une boisson véritablement élaborée aux clients qui ne boivent pas d'alcool, plutôt qu'un simple café comme seule option sans alcool.",
+        "tip": "Utilisez des bitters sans alcool et des sirops complexes pour remplacer la profondeur qu'un spiritueux fournirait normalement, plutôt que de simplement retirer l'alcool en laissant un vide.",
+        "mistake": "Simplement retirer l'alcool d'une recette de cocktail sans remplacer la complexité qu'il apportait.",
+        "challenge": "Pourquoi un mocktail qui n'est que « le cocktail moins l'alcool » pourrait-il avoir un goût sensiblement plus mince que l'original ?"
+      },
+      "it": {
+        "title": "Mocktail al caffè analcolici",
+        "definition": "I mocktail al caffè analcolici replicano la struttura e la presentazione di un cocktail usando caffè, sciroppi, bitter e mixer, senza alcun distillato reale.",
+        "why": "Danno ai bar un modo per servire una bevanda genuinamente elaborata a clienti che non bevono alcolici, invece di un semplice caffè come unica opzione analcolica.",
+        "tip": "Usa bitter analcolici e sciroppi complessi per sostituire la profondità che normalmente fornirebbe un distillato, invece di limitarti a rimuovere l'alcol lasciando un vuoto.",
+        "mistake": "Rimuovere semplicemente l'alcol da una ricetta di cocktail senza sostituire la complessità che stava contribuendo.",
+        "challenge": "Perché un mocktail che è solo 'il cocktail meno l'alcol' potrebbe avere un sapore notevolmente più sottile dell'originale?"
+      }
+    },
+    "id": 377
+  },
+  {
+    "number": "378",
+    "title": "Coffee & Dessert Wine Pairings",
+    "category": "CKT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "378.jpg",
+    "definition": "Sweet dessert wines like port or Sauternes can pair with coffee in a tasting flight or dessert menu, matching sweetness levels rather than combining the two in a single glass.",
+    "why": "It extends coffee pairing beyond spirits-based cocktails into the wine world, opening a different kind of menu opportunity than cocktail-making.",
+    "tip": "Match a coffee's sweetness and body to a dessert wine of similar intensity, rather than pairing a delicate coffee with an overpowering wine.",
+    "mistake": "Assuming coffee and wine pairing must mean mixing them together rather than serving them side by side.",
+    "challenge": "Why might serving coffee and dessert wine as a side-by-side tasting achieve something a mixed drink couldn't?",
+    "related": [
+      "291",
+      "280"
+    ],
+    "translations": {
+      "es": {
+        "title": "Maridajes de café y vino de postre",
+        "definition": "Los vinos de postre dulces como el oporto o el Sauternes pueden maridarse con café en un flight de cata o menú de postres, combinando niveles de dulzura en lugar de mezclar ambos en una sola copa.",
+        "why": "Extiende el maridaje del café más allá de los cócteles con licor hacia el mundo del vino, abriendo un tipo distinto de oportunidad de menú que la coctelería.",
+        "tip": "Combina la dulzura y el cuerpo de un café con un vino de postre de intensidad similar, en lugar de maridar un café delicado con un vino abrumador.",
+        "mistake": "Suponer que maridar café y vino significa necesariamente mezclarlos en lugar de servirlos uno junto al otro.",
+        "challenge": "¿Por qué servir café y vino de postre como una cata lado a lado podría lograr algo que una bebida mezclada no podría?"
+      },
+      "pt": {
+        "title": "Combinações de café e vinho de sobremesa",
+        "definition": "Vinhos de sobremesa doces como porto ou Sauternes podem combinar com café em uma degustação em sequência ou menu de sobremesas, ajustando níveis de doçura em vez de misturar os dois em uma única taça.",
+        "why": "Estende a combinação do café além dos coquetéis à base de destilados para o mundo do vinho, abrindo um tipo diferente de oportunidade de menu do que a coquetelaria.",
+        "tip": "Combine a doçura e o corpo de um café com um vinho de sobremesa de intensidade semelhante, em vez de combinar um café delicado com um vinho avassalador.",
+        "mistake": "Supor que combinar café e vinho significa necessariamente misturá-los em vez de servi-los lado a lado.",
+        "challenge": "Por que servir café e vinho de sobremesa como uma degustação lado a lado pode alcançar algo que uma bebida misturada não conseguiria?"
+      },
+      "de": {
+        "title": "Kaffee- und Dessertwein-Pairings",
+        "definition": "Süße Dessertweine wie Portwein oder Sauternes können in einem Verkostungsflight oder Dessertmenü mit Kaffee kombiniert werden, wobei Süßegrade abgestimmt werden, statt beide in einem Glas zu vermischen.",
+        "why": "Es erweitert das Kaffee-Pairing über spirituosenbasierte Cocktails hinaus in die Weinwelt und eröffnet eine andere Art von Menüchance als das Cocktailmixen.",
+        "tip": "Stimme Süße und Körper eines Kaffees mit einem Dessertwein ähnlicher Intensität ab, statt einen zarten Kaffee mit einem überwältigenden Wein zu kombinieren.",
+        "mistake": "Anzunehmen, Kaffee-Wein-Pairing bedeute zwangsläufig, beide zu vermischen, statt sie nebeneinander zu servieren.",
+        "challenge": "Warum könnte das Servieren von Kaffee und Dessertwein als nebeneinander stehende Verkostung etwas erreichen, das ein gemischtes Getränk nicht könnte?"
+      },
+      "fr": {
+        "title": "Accords café et vin de dessert",
+        "definition": "Les vins de dessert sucrés comme le porto ou le Sauternes peuvent s'accorder avec le café dans un flight de dégustation ou une carte de desserts, en associant les niveaux de douceur plutôt qu'en les combinant dans un seul verre.",
+        "why": "Cela étend l'accord café au-delà des cocktails à base de spiritueux vers le monde du vin, ouvrant un type d'opportunité de carte différent de la fabrication de cocktails.",
+        "tip": "Associez la douceur et le corps d'un café à un vin de dessert d'intensité similaire, plutôt que d'accorder un café délicat avec un vin écrasant.",
+        "mistake": "Supposer que l'accord café et vin doit forcément signifier les mélanger plutôt que de les servir côte à côte.",
+        "challenge": "Pourquoi servir le café et le vin de dessert en dégustation côte à côte pourrait-il accomplir quelque chose qu'une boisson mélangée ne pourrait pas ?"
+      },
+      "it": {
+        "title": "Abbinamenti tra caffè e vino da dessert",
+        "definition": "I vini da dessert dolci come il porto o il Sauternes possono abbinarsi al caffè in un flight di degustazione o in un menu dei dessert, abbinando i livelli di dolcezza invece di combinarli in un unico bicchiere.",
+        "why": "Estende l'abbinamento del caffè oltre i cocktail a base di distillati verso il mondo del vino, aprendo un tipo diverso di opportunità di menu rispetto alla preparazione di cocktail.",
+        "tip": "Abbina la dolcezza e il corpo di un caffè a un vino da dessert di intensità simile, invece di abbinare un caffè delicato a un vino travolgente.",
+        "mistake": "Supporre che abbinare caffè e vino debba necessariamente significare mescolarli invece di servirli fianco a fianco.",
+        "challenge": "Perché servire caffè e vino da dessert come degustazione fianco a fianco potrebbe ottenere qualcosa che una bevanda mescolata non potrebbe?"
+      }
+    },
+    "id": 378
+  },
+  {
+    "number": "379",
+    "title": "Decaf Certification Labels",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "379.jpg",
+    "definition": "Decaf can carry additional certification labels like Organic or Fair Trade, layered on top of the decaffeination process name, each representing a separate, independently verified claim.",
+    "why": "Understanding that these labels are separate certifications, not part of the decaffeination process itself, prevents confusing what each one actually guarantees.",
+    "tip": "Check for both the decaffeination method and any additional certification separately, since one doesn't imply the other.",
+    "mistake": "Assuming an organic decaf label says anything about which decaffeination method was used.",
+    "challenge": "Why might a decaf be organic-certified but still processed using a chemical solvent method?",
+    "related": [
+      "310",
+      "297"
+    ],
+    "translations": {
+      "es": {
+        "title": "Etiquetas de certificación del descafeinado",
+        "definition": "El descafeinado puede llevar etiquetas de certificación adicionales como Orgánico o Comercio Justo, superpuestas al nombre del proceso de descafeinado, cada una representando una afirmación separada y verificada de forma independiente.",
+        "why": "Entender que estas etiquetas son certificaciones separadas, no parte del propio proceso de descafeinado, evita confundir lo que cada una realmente garantiza.",
+        "tip": "Revisa tanto el método de descafeinado como cualquier certificación adicional por separado, ya que uno no implica el otro.",
+        "mistake": "Suponer que una etiqueta de descafeinado orgánico dice algo sobre qué método de descafeinado se usó.",
+        "challenge": "¿Por qué un descafeinado podría estar certificado como orgánico pero seguir procesándose con un método de solvente químico?"
+      },
+      "pt": {
+        "title": "Selos de certificação do descafeinado",
+        "definition": "O descafeinado pode ter selos de certificação adicionais como Orgânico ou Comércio Justo, sobrepostos ao nome do processo de descafeinização, cada um representando uma alegação separada e verificada de forma independente.",
+        "why": "Entender que esses selos são certificações separadas, não parte do próprio processo de descafeinização, evita confundir o que cada um realmente garante.",
+        "tip": "Verifique tanto o método de descafeinização quanto qualquer certificação adicional separadamente, já que um não implica o outro.",
+        "mistake": "Supor que um selo de descafeinado orgânico diz algo sobre qual método de descafeinização foi usado.",
+        "challenge": "Por que um descafeinado pode ser certificado orgânico mas ainda ser processado usando um método de solvente químico?"
+      },
+      "de": {
+        "title": "Zertifizierungslabel für Decaf",
+        "definition": "Decaf kann zusätzliche Zertifizierungslabel wie Bio oder Fair Trade tragen, die über dem Namen des Entkoffeinierungsverfahrens liegen, jeweils eine separate, unabhängig verifizierte Behauptung darstellend.",
+        "why": "Zu verstehen, dass diese Label separate Zertifizierungen sind, nicht Teil des Entkoffeinierungsverfahrens selbst, verhindert Verwechslungen darüber, was jedes tatsächlich garantiert.",
+        "tip": "Prüfe sowohl die Entkoffeinierungsmethode als auch jede zusätzliche Zertifizierung getrennt, da eine nicht die andere impliziert.",
+        "mistake": "Anzunehmen, ein Bio-Decaf-Label sage etwas darüber aus, welche Entkoffeinierungsmethode verwendet wurde.",
+        "challenge": "Warum könnte ein Decaf bio-zertifiziert sein, aber trotzdem mit einer chemischen Lösungsmittelmethode verarbeitet worden sein?"
+      },
+      "fr": {
+        "title": "Labels de certification du décaféiné",
+        "definition": "Le décaféiné peut porter des labels de certification supplémentaires comme Bio ou Commerce Équitable, superposés au nom du procédé de décaféination, chacun représentant une affirmation distincte et vérifiée indépendamment.",
+        "why": "Comprendre que ces labels sont des certifications distinctes, ne faisant pas partie du procédé de décaféination lui-même, évite de confondre ce que chacun garantit réellement.",
+        "tip": "Vérifiez séparément la méthode de décaféination et toute certification supplémentaire, car l'une n'implique pas l'autre.",
+        "mistake": "Supposer qu'un label de décaféiné bio dit quelque chose sur la méthode de décaféination utilisée.",
+        "challenge": "Pourquoi un décaféiné pourrait-il être certifié biologique mais quand même traité avec une méthode de solvant chimique ?"
+      },
+      "it": {
+        "title": "Etichette di certificazione del decaffeinato",
+        "definition": "Il decaffeinato può portare etichette di certificazione aggiuntive come Biologico o Commercio Equo, sovrapposte al nome del processo di decaffeinizzazione, ciascuna che rappresenta un'affermazione separata e verificata in modo indipendente.",
+        "why": "Capire che queste etichette sono certificazioni separate, non parte del processo di decaffeinizzazione stesso, evita di confondere cosa ciascuna garantisca realmente.",
+        "tip": "Controlla separatamente sia il metodo di decaffeinizzazione sia qualsiasi certificazione aggiuntiva, poiché uno non implica l'altro.",
+        "mistake": "Supporre che un'etichetta di decaffeinato biologico dica qualcosa su quale metodo di decaffeinizzazione sia stato usato.",
+        "challenge": "Perché un decaffeinato potrebbe essere certificato biologico ma comunque lavorato usando un metodo a solvente chimico?"
+      }
+    },
+    "id": 379
+  },
+  {
+    "number": "380",
+    "title": "Half-Caf Blending",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "380.jpg",
+    "definition": "Half-caf blends combine regular and decaf beans in a single mix, typically to offer a reduced-caffeine option without eliminating caffeine entirely.",
+    "why": "It gives customers a middle option between full caffeine and none, useful for people managing intake rather than avoiding caffeine completely.",
+    "tip": "Blend at the green bean stage before roasting where possible, so both components develop together rather than mixing two separately roasted batches.",
+    "mistake": "Assuming a 50/50 label guarantees an exact 50% caffeine reduction, when actual content still depends on the beans used.",
+    "challenge": "Why might a labeled 50/50 half-caf blend not actually contain exactly half the caffeine of a regular cup?",
+    "related": [
+      "297",
+      "306"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mezclas semi-descafeinadas",
+        "definition": "Las mezclas semi-descafeinadas combinan granos normales y descafeinados en una sola mezcla, típicamente para ofrecer una opción de cafeína reducida sin eliminarla por completo.",
+        "why": "Da a los clientes una opción intermedia entre cafeína completa y ninguna, útil para quienes gestionan su consumo en lugar de evitar la cafeína por completo.",
+        "tip": "Mezcla en la etapa de grano verde antes de tostar cuando sea posible, para que ambos componentes se desarrollen juntos en lugar de mezclar dos lotes tostados por separado.",
+        "mistake": "Suponer que una etiqueta 50/50 garantiza exactamente un 50% de reducción de cafeína, cuando el contenido real sigue dependiendo de los granos usados.",
+        "challenge": "¿Por qué una mezcla semi-descafeinada etiquetada como 50/50 podría no contener realmente la mitad de cafeína que una taza normal?"
+      },
+      "pt": {
+        "title": "Blends meio-descafeinados",
+        "definition": "Os blends meio-descafeinados combinam grãos normais e descafeinados em uma única mistura, tipicamente para oferecer uma opção de cafeína reduzida sem eliminá-la por completo.",
+        "why": "Dá aos clientes uma opção intermediária entre cafeína total e nenhuma, útil para quem gerencia o consumo em vez de evitar a cafeína completamente.",
+        "tip": "Misture na fase de grão verde antes de torrar quando possível, para que os dois componentes se desenvolvam juntos em vez de misturar dois lotes torrados separadamente.",
+        "mistake": "Supor que um rótulo 50/50 garante exatamente 50% de redução de cafeína, quando o teor real ainda depende dos grãos usados.",
+        "challenge": "Por que um blend meio-descafeinado rotulado como 50/50 pode não conter exatamente metade da cafeína de uma xícara normal?"
+      },
+      "de": {
+        "title": "Half-Caf-Mischungen",
+        "definition": "Half-Caf-Mischungen kombinieren normale und entkoffeinierte Bohnen in einer einzigen Mischung, typischerweise um eine Option mit reduziertem Koffein zu bieten, ohne es vollständig zu eliminieren.",
+        "why": "Sie gibt Kunden eine mittlere Option zwischen voller Koffeinmenge und keiner, nützlich für Menschen, die ihre Aufnahme steuern, statt Koffein völlig zu meiden.",
+        "tip": "Mische wo möglich in der Rohbohnenstufe vor dem Rösten, damit sich beide Komponenten zusammen entwickeln, statt zwei getrennt geröstete Chargen zu mischen.",
+        "mistake": "Anzunehmen, ein 50/50-Etikett garantiere genau eine 50%ige Koffeinreduktion, während der tatsächliche Gehalt weiter von den verwendeten Bohnen abhängt.",
+        "challenge": "Warum könnte eine als 50/50 etikettierte Half-Caf-Mischung tatsächlich nicht genau die Hälfte des Koffeins einer normalen Tasse enthalten?"
+      },
+      "fr": {
+        "title": "Mélanges mi-décaféinés",
+        "definition": "Les mélanges mi-décaféinés combinent des grains normaux et décaféinés en un seul mélange, typiquement pour offrir une option à caféine réduite sans l'éliminer entièrement.",
+        "why": "Cela donne aux clients une option intermédiaire entre pleine caféine et aucune, utile pour ceux qui gèrent leur consommation plutôt que d'éviter totalement la caféine.",
+        "tip": "Mélangez au stade du grain vert avant torréfaction quand possible, afin que les deux composants se développent ensemble plutôt que de mélanger deux lots torréfiés séparément.",
+        "mistake": "Supposer qu'une étiquette 50/50 garantit exactement une réduction de caféine de 50%, alors que la teneur réelle dépend toujours des grains utilisés.",
+        "challenge": "Pourquoi un mélange mi-décaféiné étiqueté 50/50 pourrait-il ne pas contenir exactement la moitié de la caféine d'une tasse normale ?"
+      },
+      "it": {
+        "title": "Blend mezzo-decaffeinati",
+        "definition": "I blend mezzo-decaffeinati combinano chicchi normali e decaffeinati in un'unica miscela, tipicamente per offrire un'opzione a caffeina ridotta senza eliminarla completamente.",
+        "why": "Dà ai clienti un'opzione intermedia tra piena caffeina e nessuna, utile per chi gestisce l'assunzione invece di evitare completamente la caffeina.",
+        "tip": "Miscela nella fase del chicco verde prima della tostatura dove possibile, così che entrambi i componenti si sviluppino insieme invece di mescolare due lotti tostati separatamente.",
+        "mistake": "Supporre che un'etichetta 50/50 garantisca esattamente una riduzione del 50% della caffeina, quando il contenuto effettivo dipende ancora dai chicchi usati.",
+        "challenge": "Perché un blend mezzo-decaffeinato etichettato 50/50 potrebbe non contenere realmente la metà della caffeina di una tazza normale?"
+      }
+    },
+    "id": 380
+  },
+  {
+    "number": "381",
+    "title": "Triangulation Testing for Decaf QC",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "381.jpg",
+    "definition": "Triangulation testing presents three cupping samples, two identical and one different, asking tasters to identify the odd one out, a useful quality control method for verifying whether a decaffeination process created a detectable flavor difference.",
+    "why": "It gives a structured, statistically grounded way to confirm whether a flavor difference is genuinely perceptible rather than relying on a single taster's subjective impression.",
+    "tip": "Use triangulation testing with multiple tasters when evaluating a new decaf lot against its regular counterpart, not just a single side-by-side taste.",
+    "mistake": "Relying on one person's casual comparison to conclude a decaf process didn't affect flavor.",
+    "challenge": "Why is a single taster's opinion a weaker form of evidence than a properly run triangulation test?",
+    "related": [
+      "302",
+      "292"
+    ],
+    "translations": {
+      "es": {
+        "title": "Prueba de triangulación para control de calidad del descafeinado",
+        "definition": "La prueba de triangulación presenta tres muestras de catación, dos idénticas y una distinta, pidiendo a los catadores identificar la diferente, un método útil de control de calidad para verificar si un proceso de descafeinado creó una diferencia de sabor detectable.",
+        "why": "Ofrece una forma estructurada y estadísticamente fundamentada de confirmar si una diferencia de sabor es genuinamente perceptible en lugar de depender de la impresión subjetiva de un solo catador.",
+        "tip": "Usa la prueba de triangulación con varios catadores al evaluar un nuevo lote de descafeinado frente a su contraparte normal, no solo una cata comparativa individual.",
+        "mistake": "Confiar en la comparación casual de una sola persona para concluir que un proceso de descafeinado no afectó el sabor.",
+        "challenge": "¿Por qué la opinión de un solo catador es una forma de evidencia más débil que una prueba de triangulación bien realizada?"
+      },
+      "pt": {
+        "title": "Teste de triangulação para controle de qualidade do descafeinado",
+        "definition": "O teste de triangulação apresenta três amostras de cupping, duas idênticas e uma diferente, pedindo aos provadores que identifiquem a diferente, um método útil de controle de qualidade para verificar se um processo de descafeinização criou uma diferença de sabor detectável.",
+        "why": "Oferece uma forma estruturada e estatisticamente fundamentada de confirmar se uma diferença de sabor é genuinamente perceptível em vez de depender da impressão subjetiva de um único provador.",
+        "tip": "Use o teste de triangulação com vários provadores ao avaliar um novo lote de descafeinado contra sua contraparte normal, não apenas uma degustação comparativa individual.",
+        "mistake": "Confiar na comparação casual de uma única pessoa para concluir que um processo de descafeinização não afetou o sabor.",
+        "challenge": "Por que a opinião de um único provador é uma forma de evidência mais fraca do que um teste de triangulação bem conduzido?"
+      },
+      "de": {
+        "title": "Dreieckstest für Decaf-Qualitätskontrolle",
+        "definition": "Der Dreieckstest präsentiert drei Cupping-Proben, zwei identische und eine andere, und bittet Verkoster, die abweichende zu identifizieren — eine nützliche Qualitätskontrollmethode, um zu prüfen, ob ein Entkoffeinierungsverfahren einen erkennbaren Geschmacksunterschied erzeugt hat.",
+        "why": "Er bietet eine strukturierte, statistisch fundierte Möglichkeit zu bestätigen, ob ein Geschmacksunterschied tatsächlich wahrnehmbar ist, statt sich auf den subjektiven Eindruck eines einzelnen Verkosters zu verlassen.",
+        "tip": "Nutze den Dreieckstest mit mehreren Verkostern, wenn du ein neues Decaf-Los gegen sein normales Gegenstück bewertest, nicht nur eine einzelne Vergleichsverkostung.",
+        "mistake": "Sich auf den beiläufigen Vergleich einer Person zu verlassen, um zu schließen, ein Decaf-Verfahren habe den Geschmack nicht beeinflusst.",
+        "challenge": "Warum ist die Meinung eines einzelnen Verkosters eine schwächere Beweisform als ein ordentlich durchgeführter Dreieckstest?"
+      },
+      "fr": {
+        "title": "Test triangulaire pour le contrôle qualité du décaféiné",
+        "definition": "Le test triangulaire présente trois échantillons de dégustation, deux identiques et un différent, demandant aux dégustateurs d'identifier celui qui diffère, une méthode de contrôle qualité utile pour vérifier si un procédé de décaféination a créé une différence de saveur détectable.",
+        "why": "Il offre un moyen structuré et statistiquement fondé de confirmer si une différence de saveur est réellement perceptible plutôt que de dépendre de l'impression subjective d'un seul dégustateur.",
+        "tip": "Utilisez le test triangulaire avec plusieurs dégustateurs lors de l'évaluation d'un nouveau lot de décaféiné par rapport à son équivalent normal, pas seulement une dégustation comparative unique.",
+        "mistake": "Se fier à la comparaison occasionnelle d'une seule personne pour conclure qu'un procédé de décaféination n'a pas affecté la saveur.",
+        "challenge": "Pourquoi l'opinion d'un seul dégustateur est-elle une forme de preuve plus faible qu'un test triangulaire correctement mené ?"
+      },
+      "it": {
+        "title": "Test di triangolazione per il controllo qualità del decaffeinato",
+        "definition": "Il test di triangolazione presenta tre campioni di cupping, due identici e uno diverso, chiedendo agli assaggiatori di identificare quello diverso, un metodo utile di controllo qualità per verificare se un processo di decaffeinizzazione ha creato una differenza di sapore rilevabile.",
+        "why": "Offre un modo strutturato e statisticamente fondato per confermare se una differenza di sapore è genuinamente percettibile invece di affidarsi all'impressione soggettiva di un singolo assaggiatore.",
+        "tip": "Usa il test di triangolazione con più assaggiatori quando valuti un nuovo lotto di decaffeinato contro la sua controparte normale, non solo una degustazione comparativa singola.",
+        "mistake": "Affidarsi al confronto casuale di una sola persona per concludere che un processo di decaffeinizzazione non ha influenzato il sapore.",
+        "challenge": "Perché l'opinione di un singolo assaggiatore è una forma di prova più debole di un test di triangolazione condotto correttamente?"
+      }
+    },
+    "id": 381
+  },
+  {
+    "number": "382",
+    "title": "Decaf Health Marketing Claims",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "382.jpg",
+    "definition": "Decaf is often marketed with health-related claims around sleep, pregnancy, or heart health, some well-supported and others overstated relative to the actual evidence.",
+    "why": "Overstating decaf's health benefits can mislead customers making genuine medical decisions, particularly around pregnancy or specific health conditions.",
+    "tip": "Stick to verifiable claims about caffeine reduction rather than broader health promises the coffee itself can't substantiate.",
+    "mistake": "Repeating a health claim about decaf without checking whether it's actually well-supported by evidence.",
+    "challenge": "Why might a customer with a genuine medical reason for choosing decaf be poorly served by vague, unverified health marketing?",
+    "related": [
+      "308",
+      "297"
+    ],
+    "translations": {
+      "es": {
+        "title": "Afirmaciones de salud en el marketing del descafeinado",
+        "definition": "El descafeinado suele comercializarse con afirmaciones relacionadas con la salud sobre el sueño, el embarazo o la salud cardíaca, algunas bien respaldadas y otras exageradas en relación con la evidencia real.",
+        "why": "Exagerar los beneficios de salud del descafeinado puede engañar a clientes que toman decisiones médicas genuinas, especialmente en torno al embarazo o condiciones de salud específicas.",
+        "tip": "Cíñete a afirmaciones verificables sobre la reducción de cafeína en lugar de promesas de salud más amplias que el café en sí no puede sustentar.",
+        "mistake": "Repetir una afirmación de salud sobre el descafeinado sin verificar si realmente está bien respaldada por evidencia.",
+        "challenge": "¿Por qué un cliente con una razón médica genuina para elegir descafeinado podría estar mal servido por un marketing de salud vago y no verificado?"
+      },
+      "pt": {
+        "title": "Alegações de saúde no marketing do descafeinado",
+        "definition": "O descafeinado é frequentemente comercializado com alegações relacionadas à saúde sobre sono, gravidez ou saúde cardíaca, algumas bem embasadas e outras exageradas em relação à evidência real.",
+        "why": "Exagerar os benefícios de saúde do descafeinado pode enganar clientes tomando decisões médicas genuínas, particularmente em torno da gravidez ou condições de saúde específicas.",
+        "tip": "Atenha-se a alegações verificáveis sobre redução de cafeína em vez de promessas de saúde mais amplas que o café em si não pode sustentar.",
+        "mistake": "Repetir uma alegação de saúde sobre o descafeinado sem verificar se ela é realmente bem embasada por evidências.",
+        "challenge": "Por que um cliente com uma razão médica genuína para escolher descafeinado pode ser mal servido por um marketing de saúde vago e não verificado?"
+      },
+      "de": {
+        "title": "Gesundheitsbehauptungen im Decaf-Marketing",
+        "definition": "Decaf wird oft mit gesundheitsbezogenen Behauptungen über Schlaf, Schwangerschaft oder Herzgesundheit vermarktet, manche gut belegt und andere im Verhältnis zur tatsächlichen Evidenz übertrieben.",
+        "why": "Die Gesundheitsvorteile von Decaf zu übertreiben kann Kunden irreführen, die echte medizinische Entscheidungen treffen, besonders bei Schwangerschaft oder bestimmten Gesundheitszuständen.",
+        "tip": "Bleibe bei überprüfbaren Behauptungen zur Koffeinreduktion, statt breiteren Gesundheitsversprechen, die der Kaffee selbst nicht belegen kann.",
+        "mistake": "Eine Gesundheitsbehauptung über Decaf zu wiederholen, ohne zu prüfen, ob sie tatsächlich gut durch Evidenz belegt ist.",
+        "challenge": "Warum könnte ein Kunde mit echtem medizinischem Grund für Decaf durch vages, unbelegtes Gesundheitsmarketing schlecht bedient sein?"
+      },
+      "fr": {
+        "title": "Allégations santé dans le marketing du décaféiné",
+        "definition": "Le décaféiné est souvent commercialisé avec des allégations liées à la santé concernant le sommeil, la grossesse ou la santé cardiaque, certaines bien étayées et d'autres exagérées par rapport aux preuves réelles.",
+        "why": "Exagérer les bienfaits santé du décaféiné peut induire en erreur des clients prenant de véritables décisions médicales, notamment concernant la grossesse ou des conditions de santé spécifiques.",
+        "tip": "Tenez-vous-en à des allégations vérifiables sur la réduction de la caféine plutôt qu'à des promesses santé plus larges que le café lui-même ne peut justifier.",
+        "mistake": "Répéter une allégation santé sur le décaféiné sans vérifier si elle est réellement bien étayée par des preuves.",
+        "challenge": "Pourquoi un client ayant une véritable raison médicale de choisir le décaféiné pourrait-il être mal servi par un marketing santé vague et non vérifié ?"
+      },
+      "it": {
+        "title": "Affermazioni sulla salute nel marketing del decaffeinato",
+        "definition": "Il decaffeinato viene spesso commercializzato con affermazioni relative alla salute su sonno, gravidanza o salute cardiaca, alcune ben supportate e altre esagerate rispetto alle prove effettive.",
+        "why": "Esagerare i benefici per la salute del decaffeinato può fuorviare i clienti che prendono vere decisioni mediche, in particolare riguardo alla gravidanza o a condizioni di salute specifiche.",
+        "tip": "Attieniti ad affermazioni verificabili sulla riduzione della caffeina piuttosto che a promesse di salute più ampie che il caffè stesso non può dimostrare.",
+        "mistake": "Ripetere un'affermazione sulla salute riguardo al decaffeinato senza verificare se sia effettivamente ben supportata da prove.",
+        "challenge": "Perché un cliente con una vera ragione medica per scegliere il decaffeinato potrebbe essere servito male da un marketing sulla salute vago e non verificato?"
+      }
+    },
+    "id": 382
+  },
+  {
+    "number": "383",
+    "title": "Refractometer & Scale Calibration",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "383.jpg",
+    "definition": "Refractometers (for measuring brewed coffee TDS) and scales both drift out of calibration over time and need periodic checking against a known reference standard.",
+    "why": "A miscalibrated refractometer or scale can quietly feed inaccurate data into every extraction calculation and recipe built on top of it.",
+    "tip": "Calibrate a refractometer with distilled water and check scale accuracy with a certified reference weight on a regular schedule.",
+    "mistake": "Trusting a refractometer or scale reading indefinitely without ever rechecking it against a known standard.",
+    "challenge": "Why might a scale reading look perfectly normal on its display while still being measurably inaccurate?",
+    "related": [
+      "256",
+      "002"
+    ],
+    "translations": {
+      "es": {
+        "title": "Calibración de refractómetro y báscula",
+        "definition": "Los refractómetros (para medir el TDS del café preparado) y las básculas se desajustan de su calibración con el tiempo y necesitan revisión periódica frente a un estándar de referencia conocido.",
+        "why": "Un refractómetro o báscula mal calibrados pueden introducir silenciosamente datos inexactos en cada cálculo de extracción y receta construida sobre ellos.",
+        "tip": "Calibra un refractómetro con agua destilada y verifica la precisión de la báscula con un peso de referencia certificado según un calendario regular.",
+        "mistake": "Confiar indefinidamente en la lectura de un refractómetro o báscula sin volver a revisarla nunca frente a un estándar conocido.",
+        "challenge": "¿Por qué la lectura de una báscula podría verse perfectamente normal en su pantalla mientras sigue siendo mensurablemente inexacta?"
+      },
+      "pt": {
+        "title": "Calibração de refratômetro e balança",
+        "definition": "Refratômetros (para medir o TDS do café preparado) e balanças ambos saem de calibração com o tempo e precisam de verificação periódica contra um padrão de referência conhecido.",
+        "why": "Um refratômetro ou balança descalibrados podem alimentar silenciosamente dados imprecisos em cada cálculo de extração e receita construída sobre eles.",
+        "tip": "Calibre um refratômetro com água destilada e verifique a precisão da balança com um peso de referência certificado em um cronograma regular.",
+        "mistake": "Confiar indefinidamente na leitura de um refratômetro ou balança sem nunca revisá-la contra um padrão conhecido.",
+        "challenge": "Por que a leitura de uma balança pode parecer perfeitamente normal em seu visor enquanto ainda é mensuravelmente imprecisa?"
+      },
+      "de": {
+        "title": "Kalibrierung von Refraktometer und Waage",
+        "definition": "Refraktometer (zur Messung des TDS gebrühten Kaffees) und Waagen driften beide mit der Zeit aus der Kalibrierung und benötigen regelmäßige Überprüfung gegen einen bekannten Referenzstandard.",
+        "why": "Ein falsch kalibriertes Refraktometer oder eine falsch kalibrierte Waage kann still ungenaue Daten in jede Extraktionsberechnung und jedes darauf aufbauende Rezept einspeisen.",
+        "tip": "Kalibriere ein Refraktometer mit destilliertem Wasser und prüfe die Waagengenauigkeit regelmäßig mit einem zertifizierten Referenzgewicht.",
+        "mistake": "Einer Refraktometer- oder Waagenanzeige unbegrenzt zu vertrauen, ohne sie je gegen einen bekannten Standard erneut zu prüfen.",
+        "challenge": "Warum könnte eine Waagenanzeige auf dem Display völlig normal aussehen, obwohl sie messbar ungenau ist?"
+      },
+      "fr": {
+        "title": "Calibration du réfractomètre et de la balance",
+        "definition": "Les réfractomètres (pour mesurer le TDS du café infusé) et les balances dérivent tous deux de leur calibration avec le temps et nécessitent une vérification périodique par rapport à un étalon de référence connu.",
+        "why": "Un réfractomètre ou une balance mal calibrés peuvent alimenter silencieusement des données inexactes dans chaque calcul d'extraction et recette construite dessus.",
+        "tip": "Calibrez un réfractomètre avec de l'eau distillée et vérifiez la précision de la balance avec un poids de référence certifié selon un calendrier régulier.",
+        "mistake": "Faire confiance indéfiniment à une lecture de réfractomètre ou de balance sans jamais la revérifier par rapport à un étalon connu.",
+        "challenge": "Pourquoi la lecture d'une balance pourrait-elle paraître parfaitement normale sur son affichage tout en étant mesurablement inexacte ?"
+      },
+      "it": {
+        "title": "Calibrazione di rifrattometro e bilancia",
+        "definition": "I rifrattometri (per misurare il TDS del caffè preparato) e le bilance derivano entrambi dalla calibrazione nel tempo e necessitano di controllo periodico rispetto a uno standard di riferimento noto.",
+        "why": "Un rifrattometro o una bilancia mal calibrati possono alimentare silenziosamente dati imprecisi in ogni calcolo di estrazione e ricetta costruita su di essi.",
+        "tip": "Calibra un rifrattometro con acqua distillata e controlla la precisione della bilancia con un peso di riferimento certificato secondo un programma regolare.",
+        "mistake": "Fidarsi indefinitamente della lettura di un rifrattometro o di una bilancia senza mai ricontrollarla rispetto a uno standard noto.",
+        "challenge": "Perché la lettura di una bilancia potrebbe sembrare perfettamente normale sul display pur essendo misurabilmente imprecisa?"
+      }
+    },
+    "id": 383
+  },
+  {
+    "number": "384",
+    "title": "Machine Software & Firmware Updates",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "384.jpg",
+    "definition": "Modern espresso machines and grinders with digital controls receive periodic firmware updates that can fix bugs, add features, or change default behavior.",
+    "why": "Skipping updates can leave known issues unresolved, while applying them blindly without checking release notes can unexpectedly change settings staff rely on.",
+    "tip": "Read release notes before updating machine firmware, and test the machine thoroughly before returning it to live service.",
+    "mistake": "Updating firmware right before a busy service period without first testing that everything still works as expected.",
+    "challenge": "Why might a firmware update silently changing a default setting be more disruptive than a hardware failure would be?",
+    "related": [
+      "257",
+      "260"
+    ],
+    "translations": {
+      "es": {
+        "title": "Actualizaciones de software y firmware de la máquina",
+        "definition": "Las máquinas de espresso modernas y los molinos con controles digitales reciben actualizaciones periódicas de firmware que pueden corregir errores, añadir funciones o cambiar el comportamiento predeterminado.",
+        "why": "Omitir actualizaciones puede dejar problemas conocidos sin resolver, mientras que aplicarlas a ciegas sin revisar las notas de la versión puede cambiar inesperadamente ajustes de los que depende el personal.",
+        "tip": "Lee las notas de la versión antes de actualizar el firmware de la máquina, y prueba la máquina a fondo antes de devolverla al servicio activo.",
+        "mistake": "Actualizar el firmware justo antes de un período de servicio concurrido sin probar primero que todo siga funcionando como se espera.",
+        "challenge": "¿Por qué una actualización de firmware que cambia silenciosamente un ajuste predeterminado podría ser más disruptiva que una avería de hardware?"
+      },
+      "pt": {
+        "title": "Atualizações de software e firmware da máquina",
+        "definition": "Máquinas de espresso modernas e moedores com controles digitais recebem atualizações periódicas de firmware que podem corrigir bugs, adicionar recursos ou mudar o comportamento padrão.",
+        "why": "Pular atualizações pode deixar problemas conhecidos sem solução, enquanto aplicá-las cegamente sem verificar as notas de lançamento pode mudar inesperadamente configurações das quais a equipe depende.",
+        "tip": "Leia as notas de lançamento antes de atualizar o firmware da máquina, e teste-a completamente antes de devolvê-la ao serviço ativo.",
+        "mistake": "Atualizar o firmware bem antes de um período de serviço movimentado sem primeiro testar se tudo ainda funciona como esperado.",
+        "challenge": "Por que uma atualização de firmware que muda silenciosamente uma configuração padrão pode ser mais perturbadora do que uma falha de hardware?"
+      },
+      "de": {
+        "title": "Software- und Firmware-Updates der Maschine",
+        "definition": "Moderne Espressomaschinen und Mühlen mit digitalen Steuerungen erhalten regelmäßige Firmware-Updates, die Fehler beheben, Funktionen hinzufügen oder Standardverhalten ändern können.",
+        "why": "Updates zu überspringen kann bekannte Probleme ungelöst lassen, während sie blind ohne Prüfung der Versionshinweise anzuwenden unerwartet Einstellungen ändern kann, auf die sich das Personal verlässt.",
+        "tip": "Lies Versionshinweise vor dem Update der Maschinenfirmware und teste die Maschine gründlich, bevor sie wieder in den Live-Betrieb geht.",
+        "mistake": "Firmware direkt vor einer geschäftigen Servicezeit zu aktualisieren, ohne vorher zu testen, dass alles wie erwartet funktioniert.",
+        "challenge": "Warum könnte ein Firmware-Update, das still eine Standardeinstellung ändert, störender sein als ein Hardwareausfall?"
+      },
+      "fr": {
+        "title": "Mises à jour logiciel et firmware de la machine",
+        "definition": "Les machines à espresso et moulins modernes à commandes numériques reçoivent des mises à jour périodiques de firmware qui peuvent corriger des bugs, ajouter des fonctionnalités ou changer le comportement par défaut.",
+        "why": "Sauter des mises à jour peut laisser des problèmes connus non résolus, tandis que les appliquer aveuglément sans vérifier les notes de version peut changer de façon inattendue des réglages dont dépend le personnel.",
+        "tip": "Lisez les notes de version avant de mettre à jour le firmware de la machine, et testez-la minutieusement avant de la remettre en service actif.",
+        "mistake": "Mettre à jour le firmware juste avant une période de service chargée sans d'abord tester que tout fonctionne encore comme prévu.",
+        "challenge": "Pourquoi une mise à jour de firmware changeant silencieusement un réglage par défaut pourrait-elle être plus perturbatrice qu'une panne matérielle ?"
+      },
+      "it": {
+        "title": "Aggiornamenti software e firmware della macchina",
+        "definition": "Le macchine da espresso moderne e i macinacaffè con controlli digitali ricevono aggiornamenti periodici del firmware che possono correggere bug, aggiungere funzionalità o cambiare il comportamento predefinito.",
+        "why": "Saltare gli aggiornamenti può lasciare irrisolti problemi noti, mentre applicarli ciecamente senza controllare le note di rilascio può cambiare inaspettatamente impostazioni su cui il personale fa affidamento.",
+        "tip": "Leggi le note di rilascio prima di aggiornare il firmware della macchina, e testala accuratamente prima di rimetterla in servizio attivo.",
+        "mistake": "Aggiornare il firmware appena prima di un periodo di servizio intenso senza prima testare che tutto funzioni ancora come previsto.",
+        "challenge": "Perché un aggiornamento firmware che cambia silenziosamente un'impostazione predefinita potrebbe essere più dirompente di un guasto hardware?"
+      }
+    },
+    "id": 384
+  },
+  {
+    "number": "385",
+    "title": "Auto-Clean Program Verification",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "385.jpg",
+    "definition": "Many modern machines run automated backflush or rinse cycles on a timer, but these programs still need periodic manual verification that they're actually completing correctly.",
+    "why": "An automated cleaning cycle that silently fails or gets interrupted can create a false sense of security that cleaning is happening when it isn't.",
+    "tip": "Periodically observe a full auto-clean cycle in person to confirm it runs to completion, rather than trusting the schedule alone.",
+    "mistake": "Assuming an automated cleaning program is always working correctly simply because it's scheduled to run.",
+    "challenge": "Why might automation actually increase the risk of an unnoticed cleaning failure compared to a manual process?",
+    "related": [
+      "247",
+      "255"
+    ],
+    "translations": {
+      "es": {
+        "title": "Verificación del programa de autolimpieza",
+        "definition": "Muchas máquinas modernas ejecutan ciclos automáticos de retrolavado o enjuague con temporizador, pero estos programas aún necesitan verificación manual periódica de que realmente se completan correctamente.",
+        "why": "Un ciclo de limpieza automatizado que falla silenciosamente o se interrumpe puede crear una falsa sensación de seguridad de que la limpieza está ocurriendo cuando no es así.",
+        "tip": "Observa periódicamente en persona un ciclo completo de autolimpieza para confirmar que se ejecuta hasta el final, en lugar de confiar solo en el horario.",
+        "mistake": "Suponer que un programa de limpieza automatizado siempre funciona correctamente solo porque está programado para ejecutarse.",
+        "challenge": "¿Por qué la automatización podría en realidad aumentar el riesgo de un fallo de limpieza inadvertido en comparación con un proceso manual?"
+      },
+      "pt": {
+        "title": "Verificação do programa de autolimpeza",
+        "definition": "Muitas máquinas modernas executam ciclos automáticos de retrolavagem ou enxágue com temporizador, mas esses programas ainda precisam de verificação manual periódica de que realmente estão sendo concluídos corretamente.",
+        "why": "Um ciclo de limpeza automatizado que falha silenciosamente ou é interrompido pode criar uma falsa sensação de segurança de que a limpeza está acontecendo quando não está.",
+        "tip": "Observe periodicamente pessoalmente um ciclo completo de autolimpeza para confirmar que ele é concluído, em vez de confiar apenas no cronograma.",
+        "mistake": "Supor que um programa de limpeza automatizado sempre funciona corretamente só porque está programado para rodar.",
+        "challenge": "Por que a automação pode na verdade aumentar o risco de uma falha de limpeza não percebida em comparação com um processo manual?"
+      },
+      "de": {
+        "title": "Überprüfung des Auto-Reinigungsprogramms",
+        "definition": "Viele moderne Maschinen führen automatisierte Backflush- oder Spülzyklen nach Zeitplan aus, aber diese Programme benötigen weiterhin regelmäßige manuelle Überprüfung, ob sie tatsächlich korrekt abgeschlossen werden.",
+        "why": "Ein automatisierter Reinigungszyklus, der still fehlschlägt oder unterbrochen wird, kann ein falsches Sicherheitsgefühl erzeugen, dass Reinigung stattfindet, obwohl sie es nicht tut.",
+        "tip": "Beobachte gelegentlich persönlich einen vollständigen Auto-Reinigungszyklus, um zu bestätigen, dass er vollständig durchläuft, statt allein dem Zeitplan zu vertrauen.",
+        "mistake": "Anzunehmen, ein automatisiertes Reinigungsprogramm funktioniere immer korrekt, nur weil es planmäßig läuft.",
+        "challenge": "Warum könnte Automatisierung das Risiko eines unbemerkten Reinigungsausfalls im Vergleich zu einem manuellen Prozess tatsächlich erhöhen?"
+      },
+      "fr": {
+        "title": "Vérification du programme d'auto-nettoyage",
+        "definition": "De nombreuses machines modernes exécutent des cycles automatisés de rétro-lavage ou de rinçage sur minuterie, mais ces programmes nécessitent toujours une vérification manuelle périodique qu'ils se terminent effectivement correctement.",
+        "why": "Un cycle de nettoyage automatisé qui échoue silencieusement ou est interrompu peut créer un faux sentiment de sécurité que le nettoyage a lieu alors que ce n'est pas le cas.",
+        "tip": "Observez périodiquement en personne un cycle complet d'auto-nettoyage pour confirmer qu'il se déroule jusqu'au bout, plutôt que de faire confiance uniquement au calendrier.",
+        "mistake": "Supposer qu'un programme de nettoyage automatisé fonctionne toujours correctement simplement parce qu'il est programmé pour s'exécuter.",
+        "challenge": "Pourquoi l'automatisation pourrait-elle en réalité augmenter le risque d'un échec de nettoyage passé inaperçu par rapport à un processus manuel ?"
+      },
+      "it": {
+        "title": "Verifica del programma di auto-pulizia",
+        "definition": "Molte macchine moderne eseguono cicli automatizzati di backflush o risciacquo a tempo, ma questi programmi necessitano comunque di una verifica manuale periodica che si completino effettivamente in modo corretto.",
+        "why": "Un ciclo di pulizia automatizzato che fallisce silenziosamente o viene interrotto può creare un falso senso di sicurezza che la pulizia stia avvenendo quando non lo è.",
+        "tip": "Osserva periodicamente di persona un ciclo completo di auto-pulizia per confermare che venga eseguito fino al termine, invece di fidarti solo del programma.",
+        "mistake": "Supporre che un programma di pulizia automatizzato funzioni sempre correttamente solo perché è programmato per essere eseguito.",
+        "challenge": "Perché l'automazione potrebbe in realtà aumentare il rischio di un guasto di pulizia inosservato rispetto a un processo manuale?"
+      }
+    },
+    "id": 385
+  },
+  {
+    "number": "386",
+    "title": "Cold Brew Equipment Maintenance",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "386.jpg",
+    "definition": "Cold brew towers, immersion vessels, and filters require their own cleaning schedule distinct from espresso equipment, since residue builds up differently in slow, cold, immersion-based systems.",
+    "why": "Cold, slow-moving systems can harbor bacterial growth more readily than hot equipment if not cleaned on a proper schedule.",
+    "tip": "Disassemble cold brew equipment fully for cleaning rather than just rinsing it in place, since sediment collects in areas a quick rinse won't reach.",
+    "mistake": "Applying the same cleaning frequency and method used for hot espresso equipment to cold brew systems without adjustment.",
+    "challenge": "Why might cold equipment actually need more careful sanitation attention than hot equipment, not less?",
+    "related": [
+      "239",
+      "324"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mantenimiento del equipo de cold brew",
+        "definition": "Las torres de cold brew, los recipientes de inmersión y los filtros requieren su propio calendario de limpieza distinto del equipo de espresso, ya que los residuos se acumulan de forma diferente en sistemas lentos, fríos y de inmersión.",
+        "why": "Los sistemas fríos y de movimiento lento pueden albergar crecimiento bacteriano más fácilmente que el equipo caliente si no se limpian según un calendario adecuado.",
+        "tip": "Desmonta por completo el equipo de cold brew para limpiarlo en lugar de solo enjuagarlo en su lugar, ya que el sedimento se acumula en zonas que un enjuague rápido no alcanza.",
+        "mistake": "Aplicar la misma frecuencia y método de limpieza usados para el equipo de espresso caliente a los sistemas de cold brew sin ajuste.",
+        "challenge": "¿Por qué el equipo frío podría en realidad necesitar una atención de saneamiento más cuidadosa que el equipo caliente, no menos?"
+      },
+      "pt": {
+        "title": "Manutenção de equipamentos de cold brew",
+        "definition": "Torres de cold brew, recipientes de imersão e filtros requerem seu próprio cronograma de limpeza distinto do equipamento de espresso, já que o resíduo se acumula de forma diferente em sistemas lentos, frios e baseados em imersão.",
+        "why": "Sistemas frios e de movimento lento podem abrigar crescimento bacteriano mais facilmente do que equipamento quente se não forem limpos em um cronograma adequado.",
+        "tip": "Desmonte completamente o equipamento de cold brew para limpeza em vez de apenas enxaguá-lo no lugar, já que o sedimento se acumula em áreas que um enxágue rápido não alcança.",
+        "mistake": "Aplicar a mesma frequência e método de limpeza usados para equipamento de espresso quente aos sistemas de cold brew sem ajuste.",
+        "challenge": "Por que o equipamento frio pode na verdade precisar de atenção de higienização mais cuidadosa do que o equipamento quente, não menos?"
+      },
+      "de": {
+        "title": "Wartung von Cold-Brew-Ausrüstung",
+        "definition": "Cold-Brew-Türme, Immersionsgefäße und Filter benötigen einen eigenen, vom Espressoequipment getrennten Reinigungsplan, da sich Rückstände in langsamen, kalten, immersionsbasierten Systemen anders ansammeln.",
+        "why": "Kalte, langsam bewegte Systeme können bakterielles Wachstum leichter beherbergen als heiße Ausrüstung, wenn sie nicht nach einem ordentlichen Plan gereinigt werden.",
+        "tip": "Zerlege Cold-Brew-Ausrüstung zum Reinigen vollständig, statt sie nur an Ort und Stelle zu spülen, da sich Sediment in Bereichen sammelt, die ein schnelles Spülen nicht erreicht.",
+        "mistake": "Dieselbe Reinigungshäufigkeit und -methode wie bei heißer Espressoausrüstung ohne Anpassung auf Cold-Brew-Systeme anzuwenden.",
+        "challenge": "Warum könnte kalte Ausrüstung tatsächlich sorgfältigere Hygieneaufmerksamkeit benötigen als heiße, nicht weniger?"
+      },
+      "fr": {
+        "title": "Entretien de l'équipement de cold brew",
+        "definition": "Les tours de cold brew, récipients d'immersion et filtres nécessitent leur propre calendrier de nettoyage distinct de l'équipement espresso, car les résidus s'accumulent différemment dans les systèmes lents, froids et à immersion.",
+        "why": "Les systèmes froids et à mouvement lent peuvent héberger plus facilement une croissance bactérienne que l'équipement chaud s'ils ne sont pas nettoyés selon un calendrier approprié.",
+        "tip": "Démontez entièrement l'équipement de cold brew pour le nettoyage plutôt que de simplement le rincer en place, car les sédiments s'accumulent dans des zones qu'un rinçage rapide n'atteint pas.",
+        "mistake": "Appliquer la même fréquence et méthode de nettoyage utilisées pour l'équipement espresso chaud aux systèmes de cold brew sans ajustement.",
+        "challenge": "Pourquoi l'équipement froid pourrait-il en réalité nécessiter une attention de désinfection plus soignée que l'équipement chaud, pas moins ?"
+      },
+      "it": {
+        "title": "Manutenzione dell'attrezzatura per cold brew",
+        "definition": "Torri per cold brew, recipienti a immersione e filtri richiedono un proprio programma di pulizia distinto dall'attrezzatura per espresso, poiché i residui si accumulano diversamente in sistemi lenti, freddi e basati sull'immersione.",
+        "why": "I sistemi freddi e a movimento lento possono ospitare crescita batterica più facilmente dell'attrezzatura calda se non puliti secondo un programma adeguato.",
+        "tip": "Smonta completamente l'attrezzatura per cold brew per la pulizia invece di semplicemente risciacquarla in posizione, poiché il sedimento si accumula in aree che un rapido risciacquo non raggiunge.",
+        "mistake": "Applicare la stessa frequenza e metodo di pulizia usati per l'attrezzatura da espresso calda ai sistemi di cold brew senza adattamento.",
+        "challenge": "Perché l'attrezzatura fredda potrebbe in realtà aver bisogno di un'attenzione igienica più accurata rispetto a quella calda, non minore?"
+      }
+    },
+    "id": 386
+  },
+  {
+    "number": "387",
+    "title": "Chlorine & Chloramine Treatment",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "387.jpg",
+    "definition": "Municipal water is often treated with chlorine or chloramine for safety, both of which can carry through into brewing water and create a detectable off-flavor if not filtered out.",
+    "why": "Chloramine in particular is more resistant to standard carbon filtration than chlorine, requiring different filter media to remove effectively.",
+    "tip": "Check whether your water supplier uses chlorine or chloramine specifically, since the correct filtration approach depends on which one is present.",
+    "mistake": "Using a chlorine-only filter in an area treated with chloramine, leaving the actual contaminant largely unfiltered.",
+    "challenge": "Why might the same filter that works well in one city fail to solve the exact same-seeming problem in another?",
+    "related": [
+      "331",
+      "337"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tratamiento de cloro y cloramina",
+        "definition": "El agua municipal suele tratarse con cloro o cloramina por seguridad, ambos pueden pasar al agua de preparación y crear un sabor extraño detectable si no se filtran.",
+        "why": "La cloramina en particular es más resistente a la filtración estándar de carbón que el cloro, requiriendo un medio filtrante distinto para eliminarla eficazmente.",
+        "tip": "Verifica si tu proveedor de agua usa cloro o cloramina específicamente, ya que el enfoque de filtración correcto depende de cuál esté presente.",
+        "mistake": "Usar un filtro solo para cloro en una zona tratada con cloramina, dejando el contaminante real en gran parte sin filtrar.",
+        "challenge": "¿Por qué el mismo filtro que funciona bien en una ciudad podría no resolver el mismo problema aparente en otra?"
+      },
+      "pt": {
+        "title": "Tratamento de cloro e cloramina",
+        "definition": "A água municipal costuma ser tratada com cloro ou cloramina por segurança, ambos podem passar para a água de preparo e criar um sabor estranho detectável se não forem filtrados.",
+        "why": "A cloramina em particular é mais resistente à filtração de carvão padrão do que o cloro, exigindo um meio filtrante diferente para removê-la eficazmente.",
+        "tip": "Verifique se o seu fornecedor de água usa cloro ou cloramina especificamente, já que a abordagem de filtração correta depende de qual está presente.",
+        "mistake": "Usar um filtro apenas para cloro em uma área tratada com cloramina, deixando o contaminante real em grande parte sem filtrar.",
+        "challenge": "Por que o mesmo filtro que funciona bem em uma cidade pode não resolver o mesmo problema aparente em outra?"
+      },
+      "de": {
+        "title": "Chlor- und Chloramin-Behandlung",
+        "definition": "Kommunales Wasser wird oft aus Sicherheitsgründen mit Chlor oder Chloramin behandelt, beide können ins Brühwasser gelangen und einen erkennbaren Fehlgeschmack erzeugen, wenn sie nicht herausgefiltert werden.",
+        "why": "Chloramin ist besonders widerstandsfähig gegen Standard-Aktivkohlefiltration im Vergleich zu Chlor und benötigt ein anderes Filtermedium zur wirksamen Entfernung.",
+        "tip": "Prüfe gezielt, ob dein Wasserversorger Chlor oder Chloramin verwendet, da der richtige Filteransatz davon abhängt, welches vorhanden ist.",
+        "mistake": "Einen reinen Chlorfilter in einem mit Chloramin behandelten Gebiet zu verwenden, wodurch der eigentliche Schadstoff größtenteils ungefiltert bleibt.",
+        "challenge": "Warum könnte derselbe Filter, der in einer Stadt gut funktioniert, in einer anderen dasselbe scheinbare Problem nicht lösen?"
+      },
+      "fr": {
+        "title": "Traitement au chlore et à la chloramine",
+        "definition": "L'eau municipale est souvent traitée au chlore ou à la chloramine pour des raisons de sécurité, tous deux pouvant se retrouver dans l'eau d'infusion et créer un défaut de saveur détectable s'ils ne sont pas filtrés.",
+        "why": "La chloramine en particulier résiste davantage à la filtration standard au carbone que le chlore, nécessitant un média filtrant différent pour l'éliminer efficacement.",
+        "tip": "Vérifiez si votre fournisseur d'eau utilise spécifiquement du chlore ou de la chloramine, car la bonne approche de filtration dépend de celui présent.",
+        "mistake": "Utiliser un filtre uniquement anti-chlore dans une zone traitée à la chloramine, laissant le contaminant réel largement non filtré.",
+        "challenge": "Pourquoi le même filtre qui fonctionne bien dans une ville pourrait-il ne pas résoudre le même problème apparent dans une autre ?"
+      },
+      "it": {
+        "title": "Trattamento con cloro e cloramina",
+        "definition": "L'acqua municipale viene spesso trattata con cloro o cloramina per sicurezza, entrambi possono passare nell'acqua di preparazione e creare un difetto di sapore rilevabile se non filtrati.",
+        "why": "La cloramina in particolare è più resistente alla filtrazione standard a carbone rispetto al cloro, richiedendo un mezzo filtrante diverso per rimuoverla efficacemente.",
+        "tip": "Controlla se il tuo fornitore d'acqua usa specificamente cloro o cloramina, poiché l'approccio di filtrazione corretto dipende da quale sia presente.",
+        "mistake": "Usare un filtro solo per il cloro in una zona trattata con cloramina, lasciando il vero contaminante in gran parte non filtrato.",
+        "challenge": "Perché lo stesso filtro che funziona bene in una città potrebbe non risolvere lo stesso problema apparente in un'altra?"
+      }
+    },
+    "id": 387
+  },
+  {
+    "number": "388",
+    "title": "Water for Cold Brew",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "388.jpg",
+    "definition": "Cold brew's long steep time means water chemistry has extended contact with coffee, making mineral content matter just as much as in hot brewing despite the different temperature.",
+    "why": "Some brewers assume water quality matters less for cold extraction, when in fact the long contact time can amplify certain water-related flavor issues.",
+    "tip": "Apply the same water quality standards to cold brew that you would to hot brewing, rather than treating it as a lower-stakes use case.",
+    "mistake": "Using unfiltered or lower-quality water for cold brew because the process feels more forgiving than hot brewing.",
+    "challenge": "Why might a long steep time make water quality issues more noticeable rather than less?",
+    "related": [
+      "239",
+      "331"
+    ],
+    "translations": {
+      "es": {
+        "title": "Agua para el cold brew",
+        "definition": "El largo tiempo de infusión del cold brew significa que la química del agua tiene un contacto prolongado con el café, haciendo que el contenido mineral importe tanto como en la preparación en caliente pese a la temperatura distinta.",
+        "why": "Algunos preparadores suponen que la calidad del agua importa menos para la extracción en frío, cuando de hecho el largo tiempo de contacto puede amplificar ciertos problemas de sabor relacionados con el agua.",
+        "tip": "Aplica los mismos estándares de calidad de agua al cold brew que aplicarías a la preparación en caliente, en lugar de tratarlo como un caso de menor riesgo.",
+        "mistake": "Usar agua sin filtrar o de menor calidad para el cold brew porque el proceso se siente más indulgente que la preparación en caliente.",
+        "challenge": "¿Por qué un tiempo de infusión largo podría hacer los problemas de calidad del agua más notorios en lugar de menos?"
+      },
+      "pt": {
+        "title": "Água para o cold brew",
+        "definition": "O longo tempo de infusão do cold brew significa que a química da água tem contato prolongado com o café, tornando o teor mineral tão importante quanto no preparo quente apesar da temperatura diferente.",
+        "why": "Alguns preparadores supõem que a qualidade da água importa menos para a extração a frio, quando na verdade o longo tempo de contato pode amplificar certos problemas de sabor relacionados à água.",
+        "tip": "Aplique os mesmos padrões de qualidade de água ao cold brew que você aplicaria ao preparo quente, em vez de tratá-lo como um caso de menor risco.",
+        "mistake": "Usar água não filtrada ou de qualidade inferior para o cold brew porque o processo parece mais tolerante do que o preparo quente.",
+        "challenge": "Por que um longo tempo de infusão pode tornar problemas de qualidade da água mais perceptíveis em vez de menos?"
+      },
+      "de": {
+        "title": "Wasser für Cold Brew",
+        "definition": "Die lange Ziehzeit von Cold Brew bedeutet, dass die Wasserchemie verlängerten Kontakt mit dem Kaffee hat, wodurch der Mineralgehalt genauso wichtig ist wie beim Heißbrühen, trotz der unterschiedlichen Temperatur.",
+        "why": "Manche Brauer nehmen an, Wasserqualität sei für die Kaltextraktion weniger wichtig, obwohl die lange Kontaktzeit bestimmte wasserbedingte Geschmacksprobleme tatsächlich verstärken kann.",
+        "tip": "Wende dieselben Wasserqualitätsstandards auf Cold Brew an wie beim Heißbrühen, statt es als risikoärmeren Anwendungsfall zu behandeln.",
+        "mistake": "Ungefiltertes oder minderwertiges Wasser für Cold Brew zu verwenden, weil sich der Prozess nachsichtiger anfühlt als Heißbrühen.",
+        "challenge": "Warum könnte eine lange Ziehzeit Wasserqualitätsprobleme eher verstärken als abschwächen?"
+      },
+      "fr": {
+        "title": "Eau pour le cold brew",
+        "definition": "Le long temps d'infusion du cold brew signifie que la chimie de l'eau a un contact prolongé avec le café, rendant la teneur en minéraux tout aussi importante que pour l'infusion chaude malgré la température différente.",
+        "why": "Certains préparateurs supposent que la qualité de l'eau compte moins pour l'extraction à froid, alors qu'en réalité le long temps de contact peut amplifier certains problèmes de saveur liés à l'eau.",
+        "tip": "Appliquez les mêmes normes de qualité d'eau au cold brew que celles que vous appliqueriez à l'infusion chaude, plutôt que de le traiter comme un cas à moindre enjeu.",
+        "mistake": "Utiliser de l'eau non filtrée ou de qualité inférieure pour le cold brew parce que le processus semble plus tolérant que l'infusion chaude.",
+        "challenge": "Pourquoi un long temps d'infusion pourrait-il rendre les problèmes de qualité de l'eau plus perceptibles plutôt que moins ?"
+      },
+      "it": {
+        "title": "Acqua per il cold brew",
+        "definition": "Il lungo tempo di infusione del cold brew significa che la chimica dell'acqua ha un contatto prolungato con il caffè, rendendo il contenuto minerale importante tanto quanto nella preparazione calda nonostante la temperatura diversa.",
+        "why": "Alcuni preparatori suppongono che la qualità dell'acqua conti meno per l'estrazione a freddo, quando in realtà il lungo tempo di contatto può amplificare certi problemi di sapore legati all'acqua.",
+        "tip": "Applica gli stessi standard di qualità dell'acqua al cold brew che applicheresti alla preparazione calda, invece di trattarlo come un caso a minor rischio.",
+        "mistake": "Usare acqua non filtrata o di qualità inferiore per il cold brew perché il processo sembra più tollerante della preparazione calda.",
+        "challenge": "Perché un lungo tempo di infusione potrebbe rendere i problemi di qualità dell'acqua più evidenti invece che meno?"
+      }
+    },
+    "id": 388
+  },
+  {
+    "number": "389",
+    "title": "Portable Water Solutions for Travel",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "389.jpg",
+    "definition": "Portable remineralization drops, compact filters, and pre-measured mineral packets let brewers maintain consistent water chemistry while traveling or brewing away from their usual setup.",
+    "why": "Traveling brewers otherwise face completely unknown water at every new location, making consistent results difficult without portable tools.",
+    "tip": "Carry pre-measured mineral drops rather than trying to source and mix a full remineralization recipe on the road.",
+    "mistake": "Assuming any bottled water available while traveling will work as a reliable, unknown-free brewing base.",
+    "challenge": "Why might a competitive brewer specifically need portable water tools when traveling to a competition in an unfamiliar city?",
+    "related": [
+      "338",
+      "339"
+    ],
+    "translations": {
+      "es": {
+        "title": "Soluciones de agua portátiles para viajar",
+        "definition": "Las gotas portátiles de remineralización, filtros compactos y paquetes de minerales premedidos permiten a los preparadores mantener una química de agua constante mientras viajan o preparan café fuera de su configuración habitual.",
+        "why": "De lo contrario, los preparadores en viaje se enfrentan a agua completamente desconocida en cada nueva ubicación, dificultando resultados consistentes sin herramientas portátiles.",
+        "tip": "Lleva gotas minerales premedidas en lugar de intentar conseguir y mezclar una receta completa de remineralización sobre la marcha.",
+        "mistake": "Suponer que cualquier agua embotellada disponible mientras se viaja funcionará como base de preparación fiable y sin incógnitas.",
+        "challenge": "¿Por qué un preparador competitivo podría necesitar específicamente herramientas de agua portátiles al viajar a una competición en una ciudad desconocida?"
+      },
+      "pt": {
+        "title": "Soluções de água portáteis para viagem",
+        "definition": "Gotas portáteis de remineralização, filtros compactos e pacotes de minerais pré-medidos permitem que preparadores mantenham química de água consistente enquanto viajam ou preparam café fora de sua configuração habitual.",
+        "why": "Caso contrário, preparadores em viagem enfrentam água completamente desconhecida em cada novo local, dificultando resultados consistentes sem ferramentas portáteis.",
+        "tip": "Leve gotas minerais pré-medidas em vez de tentar obter e misturar uma receita completa de remineralização durante a viagem.",
+        "mistake": "Supor que qualquer água engarrafada disponível durante a viagem funcionará como base de preparo confiável e sem incógnitas.",
+        "challenge": "Por que um preparador competitivo pode precisar especificamente de ferramentas de água portáteis ao viajar para uma competição em uma cidade desconhecida?"
+      },
+      "de": {
+        "title": "Tragbare Wasserlösungen für unterwegs",
+        "definition": "Tragbare Remineralisierungstropfen, kompakte Filter und vorportionierte Mineralpakete lassen Brauer eine konsistente Wasserchemie beibehalten, während sie unterwegs oder abseits ihres üblichen Aufbaus brühen.",
+        "why": "Reisende Brauer stehen sonst an jedem neuen Ort völlig unbekanntem Wasser gegenüber, was konsistente Ergebnisse ohne tragbare Werkzeuge erschwert.",
+        "tip": "Nimm vorportionierte Mineraltropfen mit, statt unterwegs zu versuchen, ein vollständiges Remineralisierungsrezept zu beschaffen und zu mischen.",
+        "mistake": "Anzunehmen, jedes unterwegs erhältliche Flaschenwasser funktioniere als zuverlässige, unbekannte-freie Brühbasis.",
+        "challenge": "Warum könnte ein Wettbewerbsbrauer speziell tragbare Wasserwerkzeuge benötigen, wenn er zu einem Wettbewerb in einer unbekannten Stadt reist?"
+      },
+      "fr": {
+        "title": "Solutions d'eau portables pour les voyages",
+        "definition": "Les gouttes de reminéralisation portables, les filtres compacts et les sachets de minéraux prémesurés permettent aux préparateurs de maintenir une chimie de l'eau constante en voyage ou en infusant loin de leur configuration habituelle.",
+        "why": "Sinon, les préparateurs en voyage font face à une eau complètement inconnue à chaque nouvel endroit, rendant des résultats constants difficiles sans outils portables.",
+        "tip": "Emportez des gouttes minérales prémesurées plutôt que d'essayer de trouver et mélanger une recette complète de reminéralisation en déplacement.",
+        "mistake": "Supposer que toute eau en bouteille disponible en voyage fonctionnera comme base d'infusion fiable et sans inconnue.",
+        "challenge": "Pourquoi un préparateur en compétition pourrait-il spécifiquement avoir besoin d'outils d'eau portables en voyageant vers une compétition dans une ville inconnue ?"
+      },
+      "it": {
+        "title": "Soluzioni d'acqua portatili per i viaggi",
+        "definition": "Gocce portatili di rimineralizzazione, filtri compatti e bustine di minerali premisurate permettono a chi prepara caffè di mantenere una chimica dell'acqua costante mentre viaggia o prepara lontano dal proprio setup abituale.",
+        "why": "Altrimenti chi prepara in viaggio affronta acqua completamente sconosciuta in ogni nuova località, rendendo difficili risultati costanti senza strumenti portatili.",
+        "tip": "Porta con te gocce minerali premisurate invece di cercare di reperire e mescolare una ricetta completa di rimineralizzazione in viaggio.",
+        "mistake": "Supporre che qualsiasi acqua in bottiglia disponibile durante il viaggio funzionerà come base di preparazione affidabile e priva di incognite.",
+        "challenge": "Perché chi prepara caffè in competizione potrebbe aver bisogno specificamente di strumenti d'acqua portatili quando viaggia verso una competizione in una città sconosciuta?"
+      }
+    },
+    "id": 389
+  },
+  {
+    "number": "390",
+    "title": "Environmental Impact of Water Filtration",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "390.jpg",
+    "definition": "Reverse osmosis and other filtration systems produce wastewater as a byproduct, sometimes rejecting several times more water than they actually purify.",
+    "why": "A café's water program has a real environmental footprint on the input side, not just through cup waste or packaging on the output side.",
+    "tip": "Ask your filtration system's specifications for its reject ratio, and consider systems designed to minimize wastewater where sustainability is a priority.",
+    "mistake": "Focusing sustainability efforts entirely on visible waste like cups while ignoring water waste from filtration happening behind the scenes.",
+    "challenge": "Why might a café's most significant water waste be invisible, happening inside equipment rather than in front of customers?",
+    "related": [
+      "337",
+      "346"
+    ],
+    "translations": {
+      "es": {
+        "title": "Impacto ambiental de la filtración de agua",
+        "definition": "La ósmosis inversa y otros sistemas de filtración producen agua residual como subproducto, a veces rechazando varias veces más agua de la que realmente purifican.",
+        "why": "El programa de agua de una cafetería tiene una huella ambiental real en el lado de entrada, no solo a través de residuos de vasos o envases en el lado de salida.",
+        "tip": "Pregunta las especificaciones de tu sistema de filtración sobre su ratio de rechazo, y considera sistemas diseñados para minimizar el agua residual donde la sostenibilidad sea una prioridad.",
+        "mistake": "Centrar los esfuerzos de sostenibilidad enteramente en residuos visibles como los vasos mientras se ignora el desperdicio de agua de la filtración que ocurre entre bastidores.",
+        "challenge": "¿Por qué el desperdicio de agua más significativo de una cafetería podría ser invisible, ocurriendo dentro del equipo en lugar de frente a los clientes?"
+      },
+      "pt": {
+        "title": "Impacto ambiental da filtração de água",
+        "definition": "A osmose reversa e outros sistemas de filtração produzem água residual como subproduto, às vezes rejeitando várias vezes mais água do que realmente purificam.",
+        "why": "O programa de água de uma cafeteria tem uma pegada ambiental real no lado da entrada, não apenas por meio do desperdício de copos ou embalagens no lado da saída.",
+        "tip": "Pergunte as especificações do seu sistema de filtração sobre sua taxa de rejeição, e considere sistemas projetados para minimizar o desperdício de água onde a sustentabilidade for uma prioridade.",
+        "mistake": "Concentrar os esforços de sustentabilidade inteiramente em resíduos visíveis como copos enquanto ignora o desperdício de água da filtração acontecendo nos bastidores.",
+        "challenge": "Por que o desperdício de água mais significativo de uma cafeteria pode ser invisível, acontecendo dentro do equipamento em vez de na frente dos clientes?"
+      },
+      "de": {
+        "title": "Umweltauswirkungen der Wasserfiltration",
+        "definition": "Umkehrosmose und andere Filtrationssysteme erzeugen Abwasser als Nebenprodukt und verwerfen manchmal mehrfach so viel Wasser, wie sie tatsächlich reinigen.",
+        "why": "Das Wasserprogramm eines Cafés hat einen echten ökologischen Fußabdruck auf der Eingangsseite, nicht nur durch Becherabfall oder Verpackung auf der Ausgangsseite.",
+        "tip": "Frage nach den Spezifikationen deines Filtrationssystems zu seinem Ablehnungsverhältnis und erwäge Systeme, die Abwasser minimieren, wo Nachhaltigkeit Priorität hat.",
+        "mistake": "Nachhaltigkeitsbemühungen ganz auf sichtbaren Abfall wie Becher zu konzentrieren, während Wasserabfall aus der im Hintergrund stattfindenden Filtration ignoriert wird.",
+        "challenge": "Warum könnte der bedeutendste Wasserabfall eines Cafés unsichtbar sein und innerhalb der Ausrüstung statt vor den Kunden stattfinden?"
+      },
+      "fr": {
+        "title": "Impact environnemental de la filtration de l'eau",
+        "definition": "L'osmose inverse et d'autres systèmes de filtration produisent des eaux usées comme sous-produit, rejetant parfois plusieurs fois plus d'eau qu'ils n'en purifient réellement.",
+        "why": "Le programme d'eau d'un café a une véritable empreinte environnementale du côté de l'entrée, pas seulement via les déchets de gobelets ou d'emballage du côté de la sortie.",
+        "tip": "Demandez les spécifications de votre système de filtration concernant son taux de rejet, et envisagez des systèmes conçus pour minimiser les eaux usées là où la durabilité est une priorité.",
+        "mistake": "Concentrer les efforts de durabilité entièrement sur les déchets visibles comme les gobelets tout en ignorant le gaspillage d'eau de la filtration se produisant en coulisses.",
+        "challenge": "Pourquoi le gaspillage d'eau le plus significatif d'un café pourrait-il être invisible, se produisant à l'intérieur de l'équipement plutôt que devant les clients ?"
+      },
+      "it": {
+        "title": "Impatto ambientale della filtrazione dell'acqua",
+        "definition": "L'osmosi inversa e altri sistemi di filtrazione producono acque reflue come sottoprodotto, a volte scartando diverse volte più acqua di quanta ne purifichino effettivamente.",
+        "why": "Il programma per l'acqua di un bar ha una vera impronta ambientale sul lato dell'ingresso, non solo attraverso lo spreco di bicchieri o imballaggi sul lato dell'uscita.",
+        "tip": "Chiedi le specifiche del tuo sistema di filtrazione sul suo rapporto di scarto, e considera sistemi progettati per minimizzare le acque reflue dove la sostenibilità è una priorità.",
+        "mistake": "Concentrare gli sforzi di sostenibilità interamente sui rifiuti visibili come i bicchieri ignorando lo spreco d'acqua della filtrazione che avviene dietro le quinte.",
+        "challenge": "Perché lo spreco d'acqua più significativo di un bar potrebbe essere invisibile, avvenendo all'interno dell'attrezzatura invece che davanti ai clienti?"
+      }
+    },
+    "id": 390
+  },
+  {
+    "number": "391",
+    "title": "Crema",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "391.jpg",
+    "definition": "Crema is the reddish-brown foam layer on top of a fresh espresso shot, formed from emulsified oils and CO2 released during extraction under pressure.",
+    "why": "Crema is a useful freshness indicator, since it forms more readily on recently roasted, properly rested coffee than on stale beans.",
+    "tip": "Judge crema by its color and texture rather than sheer volume, since a thick crema alone doesn't guarantee good extraction.",
+    "mistake": "Judging shot quality by crema volume alone without tasting the espresso underneath it.",
+    "challenge": "Why might a visually impressive crema still sit on top of a poorly extracted shot?",
+    "related": [
+      "001",
+      "005"
+    ],
+    "translations": {
+      "es": {
+        "title": "Crema",
+        "definition": "La crema es la capa de espuma marrón rojiza sobre un shot de espresso fresco, formada por aceites emulsionados y CO2 liberado durante la extracción bajo presión.",
+        "why": "La crema es un indicador útil de frescura, ya que se forma más fácilmente en café recién tostado y bien reposado que en granos rancios.",
+        "tip": "Juzga la crema por su color y textura en lugar de por el volumen puro, ya que una crema espesa por sí sola no garantiza una buena extracción.",
+        "mistake": "Juzgar la calidad de un shot solo por el volumen de crema sin probar el espresso debajo de ella.",
+        "challenge": "¿Por qué una crema visualmente impresionante podría seguir estando sobre un shot mal extraído?"
+      },
+      "pt": {
+        "title": "Crema",
+        "definition": "A crema é a camada de espuma marrom-avermelhada sobre um shot de espresso fresco, formada por óleos emulsionados e CO2 liberado durante a extração sob pressão.",
+        "why": "A crema é um indicador útil de frescor, já que se forma mais facilmente em café recém-torrado e bem descansado do que em grãos velhos.",
+        "tip": "Julgue a crema pela cor e textura em vez do volume puro, já que uma crema espessa sozinha não garante uma boa extração.",
+        "mistake": "Julgar a qualidade de um shot apenas pelo volume da crema sem provar o espresso abaixo dela.",
+        "challenge": "Por que uma crema visualmente impressionante ainda pode estar sobre um shot mal extraído?"
+      },
+      "de": {
+        "title": "Crema",
+        "definition": "Crema ist die rotbraune Schaumschicht oben auf einem frischen Espresso-Shot, die aus emulgierten Ölen und während der Extraktion unter Druck freigesetztem CO2 entsteht.",
+        "why": "Crema ist ein nützlicher Frischeindikator, da sie sich bei kürzlich geröstetem, richtig geruhtem Kaffee leichter bildet als bei abgestandenen Bohnen.",
+        "tip": "Beurteile Crema nach Farbe und Textur statt nach reinem Volumen, da eine dicke Crema allein keine gute Extraktion garantiert.",
+        "mistake": "Die Shot-Qualität allein am Crema-Volumen zu beurteilen, ohne den darunter liegenden Espresso zu probieren.",
+        "challenge": "Warum könnte eine optisch beeindruckende Crema trotzdem auf einem schlecht extrahierten Shot liegen?"
+      },
+      "fr": {
+        "title": "Crema",
+        "definition": "La crema est la couche de mousse brun-rougeâtre au-dessus d'un shot d'espresso frais, formée d'huiles émulsionnées et de CO2 libéré pendant l'extraction sous pression.",
+        "why": "La crema est un indicateur de fraîcheur utile, car elle se forme plus facilement sur du café récemment torréfié et bien reposé que sur des grains rassis.",
+        "tip": "Jugez la crema sur sa couleur et sa texture plutôt que sur le seul volume, car une crema épaisse seule ne garantit pas une bonne extraction.",
+        "mistake": "Juger la qualité d'un shot uniquement sur le volume de crema sans goûter l'espresso en dessous.",
+        "challenge": "Pourquoi une crema visuellement impressionnante pourrait-elle quand même reposer sur un shot mal extrait ?"
+      },
+      "it": {
+        "title": "Crema",
+        "definition": "La crema è lo strato di schiuma bruno-rossastra sopra uno shot di espresso fresco, formata da oli emulsionati e CO2 rilasciata durante l'estrazione sotto pressione.",
+        "why": "La crema è un utile indicatore di freschezza, poiché si forma più facilmente su caffè tostato di recente e riposato correttamente rispetto a chicchi stantii.",
+        "tip": "Giudica la crema per colore e texture piuttosto che per il puro volume, poiché una crema spessa da sola non garantisce una buona estrazione.",
+        "mistake": "Giudicare la qualità di uno shot solo dal volume della crema senza assaggiare l'espresso sottostante.",
+        "challenge": "Perché una crema visivamente impressionante potrebbe comunque trovarsi sopra uno shot mal estratto?"
+      }
+    },
+    "id": 391
+  },
+  {
+    "number": "392",
+    "title": "Puck Preparation (WDT)",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "392.jpg",
+    "definition": "The Weiss Distribution Technique (WDT) uses a thin tool to stir grounds before tamping, breaking up clumps that can cause uneven water flow during extraction.",
+    "why": "Clumped grounds create preferential water paths that lead to channeling, regardless of how carefully the shot is dosed and tamped afterward.",
+    "tip": "Stir grounds gently in a circular and up-down motion until they look uniformly loose before leveling and tamping.",
+    "mistake": "Tamping firmly over clumped, unevenly distributed grounds and expecting the pressure alone to fix the distribution problem.",
+    "challenge": "Why can't tamping pressure alone fix a distribution problem that already exists in the grounds?",
+    "related": [
+      "009",
+      "008"
+    ],
+    "translations": {
+      "es": {
+        "title": "Preparación del puck (WDT)",
+        "definition": "La técnica de distribución Weiss (WDT) usa una herramienta fina para remover el café molido antes de tampar, rompiendo grumos que pueden causar un flujo de agua desigual durante la extracción.",
+        "why": "Los grumos crean caminos preferenciales de agua que llevan a la canalización, sin importar cuán cuidadosamente se dosifique y tampe el shot después.",
+        "tip": "Remueve el café molido suavemente con un movimiento circular y de arriba abajo hasta que se vea uniformemente suelto antes de nivelar y tampar.",
+        "mistake": "Tampar con firmeza sobre café molido apelmazado y mal distribuido esperando que solo la presión arregle el problema de distribución.",
+        "challenge": "¿Por qué la presión del tampado por sí sola no puede arreglar un problema de distribución que ya existe en el molido?"
+      },
+      "pt": {
+        "title": "Preparação do puck (WDT)",
+        "definition": "A Técnica de Distribuição Weiss (WDT) usa uma ferramenta fina para mexer o pó de café antes de apisoar, quebrando grumos que podem causar fluxo de água desigual durante a extração.",
+        "why": "Grumos criam caminhos preferenciais de água que levam à canalização, não importa quão cuidadosamente o shot seja dosado e apisoado depois.",
+        "tip": "Mexa o pó de café suavemente em movimento circular e de cima para baixo até parecer uniformemente solto antes de nivelar e apisoar.",
+        "mistake": "Apisoar com firmeza sobre pó de café empelotado e mal distribuído esperando que só a pressão resolva o problema de distribuição.",
+        "challenge": "Por que a pressão de apisoamento sozinha não pode resolver um problema de distribuição que já existe no pó?"
+      },
+      "de": {
+        "title": "Puck-Vorbereitung (WDT)",
+        "definition": "Die Weiss Distribution Technique (WDT) verwendet ein dünnes Werkzeug, um das Kaffeemehl vor dem Tampern umzurühren und Klumpen aufzubrechen, die während der Extraktion ungleichmäßigen Wasserfluss verursachen können.",
+        "why": "Verklumptes Kaffeemehl erzeugt bevorzugte Wasserwege, die zu Kanalbildung führen, unabhängig davon, wie sorgfältig der Shot danach dosiert und getampert wird.",
+        "tip": "Rühre das Kaffeemehl sanft in kreisender und Auf-und-ab-Bewegung, bis es gleichmäßig locker aussieht, bevor du glättest und tamperst.",
+        "mistake": "Fest über verklumptes, ungleichmäßig verteiltes Kaffeemehl zu tampern und zu erwarten, allein der Druck löse das Verteilungsproblem.",
+        "challenge": "Warum kann Tamperdruck allein kein Verteilungsproblem lösen, das bereits im Kaffeemehl besteht?"
+      },
+      "fr": {
+        "title": "Préparation de la galette (WDT)",
+        "definition": "La technique de distribution Weiss (WDT) utilise un outil fin pour remuer la mouture avant de tasser, brisant les grumeaux qui peuvent causer un flux d'eau inégal pendant l'extraction.",
+        "why": "Les grumeaux créent des chemins d'eau préférentiels menant au canaling, quelle que soit la minutie avec laquelle le shot est ensuite dosé et tassé.",
+        "tip": "Remuez la mouture doucement en mouvement circulaire et de haut en bas jusqu'à ce qu'elle paraisse uniformément aérée avant de niveler et tasser.",
+        "mistake": "Tasser fermement sur une mouture grumeleuse et mal distribuée en s'attendant à ce que la seule pression résolve le problème de distribution.",
+        "challenge": "Pourquoi la pression de tassage seule ne peut-elle pas résoudre un problème de distribution déjà présent dans la mouture ?"
+      },
+      "it": {
+        "title": "Preparazione del panetto (WDT)",
+        "definition": "La tecnica di distribuzione Weiss (WDT) usa uno strumento sottile per mescolare il macinato prima di pressare, rompendo i grumi che possono causare un flusso d'acqua irregolare durante l'estrazione.",
+        "why": "I grumi creano percorsi preferenziali dell'acqua che portano al channeling, indipendentemente da quanto attentamente lo shot venga poi dosato e pressato.",
+        "tip": "Mescola il macinato delicatamente con un movimento circolare e su e giù finché non appare uniformemente sciolto prima di livellare e pressare.",
+        "mistake": "Pressare con forza su macinato agglomerato e distribuito in modo irregolare aspettandosi che solo la pressione risolva il problema di distribuzione.",
+        "challenge": "Perché la sola pressione di pressatura non può risolvere un problema di distribuzione già esistente nel macinato?"
+      }
+    },
+    "id": 392
+  },
+  {
+    "number": "393",
+    "title": "Basket Types",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "393.jpg",
+    "definition": "Espresso baskets come in ridged and ridgeless designs, with hole patterns and precision varying significantly between standard and high-quality aftermarket options.",
+    "why": "Basket geometry directly affects water distribution and can either support or undermine an otherwise well-executed dose and tamp.",
+    "tip": "Match basket size precisely to your typical dose, since an oversized or undersized basket for the dose used changes puck depth and flow.",
+    "mistake": "Assuming all baskets of the same nominal size perform identically regardless of manufacturer or precision.",
+    "challenge": "Why might switching to a higher-precision aftermarket basket improve shot consistency without changing anything else in the recipe?",
+    "related": [
+      "038",
+      "009"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tipos de canasta",
+        "definition": "Las canastas de espresso vienen en diseños con o sin nervaduras, con patrones de orificios y precisión que varían significativamente entre opciones estándar y de posventa de alta calidad.",
+        "why": "La geometría de la canasta afecta directamente la distribución del agua y puede apoyar o socavar una dosis y tampado por lo demás bien ejecutados.",
+        "tip": "Combina el tamaño de la canasta con precisión a tu dosis típica, ya que una canasta demasiado grande o pequeña para la dosis usada cambia la profundidad y el flujo del puck.",
+        "mistake": "Suponer que todas las canastas del mismo tamaño nominal funcionan de forma idéntica sin importar el fabricante o la precisión.",
+        "challenge": "¿Por qué cambiar a una canasta de posventa de mayor precisión podría mejorar la consistencia del shot sin cambiar nada más en la receta?"
+      },
+      "pt": {
+        "title": "Tipos de cesto",
+        "definition": "Os cestos de espresso vêm em designs com ou sem nervuras, com padrões de furos e precisão que variam significativamente entre opções padrão e de reposição de alta qualidade.",
+        "why": "A geometria do cesto afeta diretamente a distribuição da água e pode apoiar ou minar uma dose e apisoamento por outro lado bem executados.",
+        "tip": "Combine o tamanho do cesto com precisão à sua dose típica, já que um cesto grande ou pequeno demais para a dose usada muda a profundidade e o fluxo do puck.",
+        "mistake": "Supor que todos os cestos do mesmo tamanho nominal têm desempenho idêntico independentemente do fabricante ou da precisão.",
+        "challenge": "Por que mudar para um cesto de reposição de maior precisão pode melhorar a consistência do shot sem mudar mais nada na receita?"
+      },
+      "de": {
+        "title": "Siebeinsatztypen",
+        "definition": "Espresso-Siebeinsätze gibt es in gerippten und ungerippten Designs, mit Lochmustern und Präzision, die zwischen Standard- und hochwertigen Nachrüstoptionen erheblich variieren.",
+        "why": "Die Siebgeometrie beeinflusst direkt die Wasserverteilung und kann eine ansonsten gut ausgeführte Dosis und Tampung unterstützen oder untergraben.",
+        "tip": "Passe die Siebgröße präzise an deine typische Dosis an, da ein für die verwendete Dosis zu großer oder kleiner Siebeinsatz Puck-Tiefe und Fluss verändert.",
+        "mistake": "Anzunehmen, alle Siebeinsätze derselben Nenngröße würden unabhängig von Hersteller oder Präzision identisch funktionieren.",
+        "challenge": "Warum könnte der Wechsel zu einem präziseren Nachrüst-Siebeinsatz die Shot-Konsistenz verbessern, ohne sonst etwas am Rezept zu ändern?"
+      },
+      "fr": {
+        "title": "Types de paniers",
+        "definition": "Les paniers d'espresso existent en designs nervurés et sans nervures, avec des motifs de trous et une précision variant significativement entre les options standard et les options du marché secondaire haut de gamme.",
+        "why": "La géométrie du panier affecte directement la distribution de l'eau et peut soutenir ou saper une dose et un tassage par ailleurs bien exécutés.",
+        "tip": "Adaptez précisément la taille du panier à votre dose habituelle, car un panier trop grand ou trop petit pour la dose utilisée change la profondeur et le flux de la galette.",
+        "mistake": "Supposer que tous les paniers de même taille nominale se comportent de façon identique quel que soit le fabricant ou la précision.",
+        "challenge": "Pourquoi passer à un panier du marché secondaire de plus grande précision pourrait-il améliorer la constance des shots sans rien changer d'autre à la recette ?"
+      },
+      "it": {
+        "title": "Tipi di filtro",
+        "definition": "I filtri per espresso esistono in design rigati e non rigati, con schemi di fori e precisione che variano significativamente tra opzioni standard e aftermarket di alta qualità.",
+        "why": "La geometria del filtro influisce direttamente sulla distribuzione dell'acqua e può sostenere o compromettere una dose e pressatura altrimenti ben eseguite.",
+        "tip": "Abbina la dimensione del filtro con precisione alla tua dose tipica, poiché un filtro troppo grande o piccolo per la dose usata cambia profondità e flusso del panetto.",
+        "mistake": "Supporre che tutti i filtri della stessa dimensione nominale si comportino in modo identico indipendentemente dal produttore o dalla precisione.",
+        "challenge": "Perché passare a un filtro aftermarket di maggiore precisione potrebbe migliorare la coerenza dello shot senza cambiare nient'altro nella ricetta?"
+      }
+    },
+    "id": 393
+  },
+  {
+    "number": "394",
+    "title": "Naked Portafilter",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "394.jpg",
+    "definition": "A naked (bottomless) portafilter removes the spouts, exposing the extraction directly beneath the basket for full visibility of flow and any channeling.",
+    "why": "It's one of the most useful diagnostic tools for spotting distribution and channeling problems that a spouted portafilter would otherwise hide.",
+    "tip": "Use a naked portafilter specifically for troubleshooting distribution technique, not necessarily as a daily service tool.",
+    "mistake": "Assuming a naked portafilter is purely a stylistic choice rather than a genuine diagnostic tool.",
+    "challenge": "Why might a channeling problem be invisible with a standard spouted portafilter but obvious with a naked one?",
+    "related": [
+      "008",
+      "009"
+    ],
+    "translations": {
+      "es": {
+        "title": "Portafiltro sin picos",
+        "definition": "Un portafiltro sin picos (bottomless) elimina los picos, exponiendo la extracción directamente bajo la canasta para total visibilidad del flujo y cualquier canalización.",
+        "why": "Es una de las herramientas de diagnóstico más útiles para detectar problemas de distribución y canalización que un portafiltro con picos ocultaría.",
+        "tip": "Usa un portafiltro sin picos específicamente para solucionar problemas de técnica de distribución, no necesariamente como herramienta diaria de servicio.",
+        "mistake": "Suponer que un portafiltro sin picos es puramente una elección estilística en lugar de una herramienta de diagnóstico genuina.",
+        "challenge": "¿Por qué un problema de canalización podría ser invisible con un portafiltro estándar con picos pero evidente con uno sin picos?"
+      },
+      "pt": {
+        "title": "Portafiltro sem bico",
+        "definition": "Um portafiltro sem bico (bottomless) remove os bicos, expondo a extração diretamente sob o cesto para visibilidade total do fluxo e de qualquer canalização.",
+        "why": "É uma das ferramentas de diagnóstico mais úteis para detectar problemas de distribuição e canalização que um portafiltro com bico esconderia.",
+        "tip": "Use um portafiltro sem bico especificamente para solucionar problemas de técnica de distribuição, não necessariamente como ferramenta diária de serviço.",
+        "mistake": "Supor que um portafiltro sem bico é puramente uma escolha estilística em vez de uma ferramenta de diagnóstico genuína.",
+        "challenge": "Por que um problema de canalização pode ser invisível com um portafiltro padrão com bico mas óbvio com um sem bico?"
+      },
+      "de": {
+        "title": "Bodenloser Siebträger",
+        "definition": "Ein bodenloser (nackter) Siebträger entfernt die Ausläufe und legt die Extraktion direkt unter dem Siebeinsatz für volle Sichtbarkeit von Fluss und Kanalbildung frei.",
+        "why": "Er ist eines der nützlichsten Diagnosewerkzeuge, um Verteilungs- und Kanalbildungsprobleme zu erkennen, die ein Siebträger mit Ausläufen sonst verbergen würde.",
+        "tip": "Verwende einen bodenlosen Siebträger gezielt zur Fehlersuche bei der Verteilungstechnik, nicht unbedingt als tägliches Servicewerkzeug.",
+        "mistake": "Anzunehmen, ein bodenloser Siebträger sei rein eine stilistische Wahl statt ein echtes Diagnosewerkzeug.",
+        "challenge": "Warum könnte ein Kanalbildungsproblem mit einem Standard-Siebträger mit Ausläufen unsichtbar, mit einem bodenlosen aber offensichtlich sein?"
+      },
+      "fr": {
+        "title": "Porte-filtre nu",
+        "definition": "Un porte-filtre nu (sans fond) retire les becs, exposant l'extraction directement sous le panier pour une visibilité totale du flux et de tout canaling.",
+        "why": "C'est l'un des outils de diagnostic les plus utiles pour repérer les problèmes de distribution et de canaling qu'un porte-filtre à becs cacherait autrement.",
+        "tip": "Utilisez un porte-filtre nu spécifiquement pour dépanner la technique de distribution, pas nécessairement comme outil quotidien de service.",
+        "mistake": "Supposer qu'un porte-filtre nu est purement un choix stylistique plutôt qu'un véritable outil de diagnostic.",
+        "challenge": "Pourquoi un problème de canaling pourrait-il être invisible avec un porte-filtre standard à becs mais évident avec un porte-filtre nu ?"
+      },
+      "it": {
+        "title": "Portafiltro senza beccucci",
+        "definition": "Un portafiltro senza beccucci (bottomless) rimuove i beccucci, esponendo l'estrazione direttamente sotto il filtro per piena visibilità del flusso e di eventuale channeling.",
+        "why": "È uno degli strumenti diagnostici più utili per individuare problemi di distribuzione e channeling che un portafiltro con beccucci altrimenti nasconderebbe.",
+        "tip": "Usa un portafiltro senza beccucci specificamente per risolvere problemi di tecnica di distribuzione, non necessariamente come strumento di servizio quotidiano.",
+        "mistake": "Supporre che un portafiltro senza beccucci sia puramente una scelta stilistica invece di un vero strumento diagnostico.",
+        "challenge": "Perché un problema di channeling potrebbe essere invisibile con un portafiltro standard con beccucci ma evidente con uno senza?"
+      }
+    },
+    "id": 394
+  },
+  {
+    "number": "395",
+    "title": "Ristretto & Lungo",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "395.jpg",
+    "definition": "Ristretto uses a shorter, more restricted yield than standard espresso, while lungo uses a longer yield, both from the same dose and grind starting point.",
+    "why": "Understanding these as ratio variations rather than separate drinks clarifies how they relate to a standard espresso recipe.",
+    "tip": "Adjust grind slightly finer for ristretto and slightly coarser for lungo, rather than using the exact same grind setting for all three.",
+    "mistake": "Simply stopping a standard espresso shot early to make a ristretto without any other recipe adjustment.",
+    "challenge": "Why might a ristretto made by only shortening a standard shot taste unbalanced compared to one dialled in specifically?",
+    "related": [
+      "004",
+      "014"
+    ],
+    "translations": {
+      "es": {
+        "title": "Ristretto y lungo",
+        "definition": "El ristretto usa un rendimiento más corto y restringido que el espresso estándar, mientras que el lungo usa un rendimiento más largo, ambos desde el mismo punto de partida de dosis y molido.",
+        "why": "Entenderlos como variaciones de proporción en lugar de bebidas separadas aclara cómo se relacionan con una receta de espresso estándar.",
+        "tip": "Ajusta el molido ligeramente más fino para el ristretto y ligeramente más grueso para el lungo, en lugar de usar exactamente el mismo ajuste de molido para los tres.",
+        "mistake": "Simplemente detener un shot de espresso estándar antes de tiempo para hacer un ristretto sin ningún otro ajuste de receta.",
+        "challenge": "¿Por qué un ristretto hecho solo acortando un shot estándar podría saber desequilibrado en comparación con uno ajustado específicamente?"
+      },
+      "pt": {
+        "title": "Ristretto e lungo",
+        "definition": "O ristretto usa um rendimento mais curto e restrito que o espresso padrão, enquanto o lungo usa um rendimento mais longo, ambos partindo da mesma dose e ajuste de moagem.",
+        "why": "Entendê-los como variações de proporção em vez de bebidas separadas esclarece como se relacionam com uma receita de espresso padrão.",
+        "tip": "Ajuste a moagem ligeiramente mais fina para o ristretto e ligeiramente mais grossa para o lungo, em vez de usar exatamente o mesmo ajuste de moagem para os três.",
+        "mistake": "Simplesmente parar um shot de espresso padrão mais cedo para fazer um ristretto sem nenhum outro ajuste de receita.",
+        "challenge": "Por que um ristretto feito apenas encurtando um shot padrão pode ter gosto desequilibrado comparado a um ajustado especificamente?"
+      },
+      "de": {
+        "title": "Ristretto und Lungo",
+        "definition": "Ristretto verwendet eine kürzere, eingeschränktere Ausbeute als Standard-Espresso, während Lungo eine längere Ausbeute verwendet, beide vom selben Dosis- und Mahlgrad-Ausgangspunkt.",
+        "why": "Sie als Verhältnisvariationen statt als separate Getränke zu verstehen, verdeutlicht, wie sie sich zu einem Standard-Espressorezept verhalten.",
+        "tip": "Stelle den Mahlgrad für Ristretto etwas feiner und für Lungo etwas gröber ein, statt für alle drei genau dieselbe Mahlgradeinstellung zu verwenden.",
+        "mistake": "Einfach einen Standard-Espresso-Shot vorzeitig zu stoppen, um einen Ristretto zu machen, ohne sonstige Rezeptanpassung.",
+        "challenge": "Warum könnte ein nur durch Verkürzen eines Standard-Shots hergestellter Ristretto unausgewogen schmecken im Vergleich zu einem speziell eingestellten?"
+      },
+      "fr": {
+        "title": "Ristretto et lungo",
+        "definition": "Le ristretto utilise un rendement plus court et plus restreint que l'espresso standard, tandis que le lungo utilise un rendement plus long, tous deux à partir du même point de départ de dose et de mouture.",
+        "why": "Les comprendre comme des variations de ratio plutôt que des boissons distinctes clarifie leur relation avec une recette d'espresso standard.",
+        "tip": "Ajustez la mouture légèrement plus fine pour le ristretto et légèrement plus grossière pour le lungo, plutôt que d'utiliser exactement le même réglage de mouture pour les trois.",
+        "mistake": "Simplement arrêter un shot d'espresso standard plus tôt pour faire un ristretto sans aucun autre ajustement de recette.",
+        "challenge": "Pourquoi un ristretto fait en raccourcissant simplement un shot standard pourrait-il avoir un goût déséquilibré comparé à un réglage spécifique ?"
+      },
+      "it": {
+        "title": "Ristretto e lungo",
+        "definition": "Il ristretto usa una resa più corta e ristretta rispetto all'espresso standard, mentre il lungo usa una resa più lunga, entrambi dallo stesso punto di partenza di dose e macinatura.",
+        "why": "Comprenderli come variazioni di rapporto invece che bevande separate chiarisce come si relazionano a una ricetta di espresso standard.",
+        "tip": "Regola la macinatura leggermente più fine per il ristretto e leggermente più grossa per il lungo, invece di usare esattamente la stessa impostazione di macinatura per tutti e tre.",
+        "mistake": "Fermare semplicemente uno shot di espresso standard prima del tempo per fare un ristretto senza alcun altro adattamento della ricetta.",
+        "challenge": "Perché un ristretto fatto solo accorciando uno shot standard potrebbe avere un sapore sbilanciato rispetto a uno regolato specificamente?"
+      }
+    },
+    "id": 395
+  },
+  {
+    "number": "396",
+    "title": "Airflow Control",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "396.jpg",
+    "definition": "Airflow in a roaster controls how quickly heat and smoke move through the drum, affecting both roast development and how chaff and smoke are removed.",
+    "why": "Airflow works together with heat, not separately from it, meaning a change in airflow can shift the roast even if temperature settings stay identical.",
+    "tip": "Adjust airflow deliberately and track its effect the same way you'd track a heat adjustment, rather than treating it as a fixed background setting.",
+    "mistake": "Only ever adjusting heat and never touching airflow, when both are active variables in the roast.",
+    "challenge": "Why might two roasts with identical heat settings turn out differently if airflow was set differently?",
+    "related": [
+      "099",
+      "103"
+    ],
+    "translations": {
+      "es": {
+        "title": "Control del flujo de aire",
+        "definition": "El flujo de aire en un tostador controla la rapidez con que el calor y el humo se mueven a través del tambor, afectando tanto el desarrollo del tueste como la eliminación de la cascarilla y el humo.",
+        "why": "El flujo de aire funciona junto con el calor, no por separado, lo que significa que un cambio en el flujo de aire puede alterar el tueste incluso si los ajustes de temperatura permanecen idénticos.",
+        "tip": "Ajusta el flujo de aire deliberadamente y sigue su efecto de la misma forma que seguirías un ajuste de calor, en lugar de tratarlo como un ajuste de fondo fijo.",
+        "mistake": "Ajustar siempre solo el calor y nunca tocar el flujo de aire, cuando ambos son variables activas en el tueste.",
+        "challenge": "¿Por qué dos tuestes con ajustes de calor idénticos podrían resultar diferentes si el flujo de aire se ajustó de forma distinta?"
+      },
+      "pt": {
+        "title": "Controle do fluxo de ar",
+        "definition": "O fluxo de ar em um torrador controla a rapidez com que o calor e a fumaça se movem pelo tambor, afetando tanto o desenvolvimento da torra quanto a remoção da película e da fumaça.",
+        "why": "O fluxo de ar funciona junto com o calor, não separadamente, o que significa que uma mudança no fluxo de ar pode alterar a torra mesmo que as configurações de temperatura permaneçam idênticas.",
+        "tip": "Ajuste o fluxo de ar deliberadamente e acompanhe seu efeito da mesma forma que acompanharia um ajuste de calor, em vez de tratá-lo como uma configuração de fundo fixa.",
+        "mistake": "Sempre ajustar apenas o calor e nunca mexer no fluxo de ar, quando ambos são variáveis ativas na torra.",
+        "challenge": "Por que duas torras com configurações de calor idênticas podem sair diferentes se o fluxo de ar foi ajustado de forma diferente?"
+      },
+      "de": {
+        "title": "Luftstromregelung",
+        "definition": "Der Luftstrom in einem Röster steuert, wie schnell Hitze und Rauch durch die Trommel bewegt werden, und beeinflusst sowohl die Röstentwicklung als auch die Entfernung von Silberhaut und Rauch.",
+        "why": "Der Luftstrom arbeitet zusammen mit der Hitze, nicht getrennt davon, was bedeutet, dass eine Änderung des Luftstroms die Röstung verschieben kann, selbst wenn die Temperatureinstellungen gleich bleiben.",
+        "tip": "Passe den Luftstrom bewusst an und verfolge seine Wirkung genauso, wie du eine Hitzeanpassung verfolgen würdest, statt ihn als feste Hintergrundeinstellung zu behandeln.",
+        "mistake": "Immer nur die Hitze anzupassen und den Luftstrom nie zu berühren, obwohl beide aktive Variablen der Röstung sind.",
+        "challenge": "Warum könnten zwei Röstungen mit identischen Hitzeeinstellungen unterschiedlich ausfallen, wenn der Luftstrom unterschiedlich eingestellt war?"
+      },
+      "fr": {
+        "title": "Contrôle du flux d'air",
+        "definition": "Le flux d'air dans un torréfacteur contrôle la vitesse à laquelle la chaleur et la fumée se déplacent dans le tambour, affectant à la fois le développement de la torréfaction et l'élimination des pellicules et de la fumée.",
+        "why": "Le flux d'air fonctionne avec la chaleur, pas séparément, ce qui signifie qu'un changement de flux d'air peut modifier la torréfaction même si les réglages de température restent identiques.",
+        "tip": "Ajustez le flux d'air délibérément et suivez son effet de la même façon que vous suivriez un ajustement de chaleur, plutôt que de le traiter comme un réglage de fond fixe.",
+        "mistake": "N'ajuster que la chaleur et ne jamais toucher au flux d'air, alors que les deux sont des variables actives de la torréfaction.",
+        "challenge": "Pourquoi deux torréfactions avec des réglages de chaleur identiques pourraient-elles s'avérer différentes si le flux d'air était réglé différemment ?"
+      },
+      "it": {
+        "title": "Controllo del flusso d'aria",
+        "definition": "Il flusso d'aria in un tostatore controlla quanto velocemente calore e fumo si muovono attraverso il tamburo, influenzando sia lo sviluppo della tostatura sia la rimozione di pula e fumo.",
+        "why": "Il flusso d'aria lavora insieme al calore, non separatamente, il che significa che un cambiamento nel flusso d'aria può spostare la tostatura anche se le impostazioni di temperatura rimangono identiche.",
+        "tip": "Regola il flusso d'aria deliberatamente e traccia il suo effetto allo stesso modo in cui traccieresti una regolazione del calore, invece di trattarlo come un'impostazione di sfondo fissa.",
+        "mistake": "Regolare sempre solo il calore e non toccare mai il flusso d'aria, quando entrambi sono variabili attive nella tostatura.",
+        "challenge": "Perché due tostature con impostazioni di calore identiche potrebbero risultare diverse se il flusso d'aria fosse impostato diversamente?"
+      }
+    },
+    "id": 396
+  },
+  {
+    "number": "397",
+    "title": "Batch Size & Loading",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "397.jpg",
+    "definition": "Loading a roaster below or above its designed batch size range changes how heat transfers to the beans, since the drum's thermal mass relative to bean volume shifts.",
+    "why": "A profile developed for a full batch often won't transfer directly to a half batch, since the ratio of heat energy to coffee mass has changed.",
+    "tip": "Treat significantly different batch sizes as requiring their own dialled-in profile rather than simply scaling one recipe.",
+    "mistake": "Assuming a roast profile scales linearly and identically across very different batch sizes.",
+    "challenge": "Why might a half-size batch roasted with a full-batch profile turn out over-developed or scorched?",
+    "related": [
+      "097",
+      "110"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tamaño de lote y carga",
+        "definition": "Cargar un tostador por debajo o por encima de su rango de tamaño de lote diseñado cambia cómo se transfiere el calor a los granos, ya que la masa térmica del tambor en relación con el volumen de grano cambia.",
+        "why": "Un perfil desarrollado para un lote completo a menudo no se transfiere directamente a medio lote, ya que la proporción de energía calorífica respecto a la masa de café ha cambiado.",
+        "tip": "Trata los tamaños de lote significativamente distintos como si necesitaran su propio perfil ajustado en lugar de simplemente escalar una receta.",
+        "mistake": "Suponer que un perfil de tueste escala de forma lineal e idéntica en tamaños de lote muy distintos.",
+        "challenge": "¿Por qué un lote de la mitad de tamaño tostado con un perfil de lote completo podría resultar sobredesarrollado o quemado?"
+      },
+      "pt": {
+        "title": "Tamanho do lote e carregamento",
+        "definition": "Carregar um torrador abaixo ou acima de sua faixa de tamanho de lote projetada muda como o calor é transferido para os grãos, já que a massa térmica do tambor em relação ao volume de grão muda.",
+        "why": "Um perfil desenvolvido para um lote completo frequentemente não se transfere diretamente para meio lote, já que a proporção de energia térmica em relação à massa de café mudou.",
+        "tip": "Trate tamanhos de lote significativamente diferentes como exigindo seu próprio perfil ajustado em vez de simplesmente escalar uma receita.",
+        "mistake": "Supor que um perfil de torra escala de forma linear e idêntica em tamanhos de lote muito diferentes.",
+        "challenge": "Por que um lote de metade do tamanho torrado com um perfil de lote completo pode sair superdesenvolvido ou queimado?"
+      },
+      "de": {
+        "title": "Chargengröße und Beladung",
+        "definition": "Das Beladen eines Rösters unterhalb oder oberhalb seines vorgesehenen Chargengrößenbereichs verändert, wie Hitze auf die Bohnen übertragen wird, da sich die thermische Masse der Trommel im Verhältnis zum Bohnenvolumen verschiebt.",
+        "why": "Ein für eine volle Charge entwickeltes Profil überträgt sich oft nicht direkt auf eine halbe Charge, da sich das Verhältnis von Wärmeenergie zu Kaffeemasse geändert hat.",
+        "tip": "Behandle deutlich unterschiedliche Chargengrößen als solche, die ein eigenes eingestelltes Profil benötigen, statt einfach ein Rezept zu skalieren.",
+        "mistake": "Anzunehmen, ein Röstprofil skaliere linear und identisch über sehr unterschiedliche Chargengrößen hinweg.",
+        "challenge": "Warum könnte eine mit einem Vollchargen-Profil gerösteten halbgroße Charge überentwickelt oder verbrannt ausfallen?"
+      },
+      "fr": {
+        "title": "Taille de lot et chargement",
+        "definition": "Charger un torréfacteur en dessous ou au-dessus de sa plage de taille de lot conçue change la façon dont la chaleur est transférée aux grains, car la masse thermique du tambour par rapport au volume de grain change.",
+        "why": "Un profil développé pour un lot complet ne se transfère souvent pas directement à un demi-lot, car le ratio d'énergie thermique par rapport à la masse de café a changé.",
+        "tip": "Traitez les tailles de lot significativement différentes comme nécessitant leur propre profil réglé plutôt que de simplement mettre une recette à l'échelle.",
+        "mistake": "Supposer qu'un profil de torréfaction s'adapte linéairement et de façon identique à des tailles de lot très différentes.",
+        "challenge": "Pourquoi un demi-lot torréfié avec un profil de lot complet pourrait-il s'avérer trop développé ou brûlé ?"
+      },
+      "it": {
+        "title": "Dimensione del lotto e caricamento",
+        "definition": "Caricare un tostatore sotto o sopra il suo intervallo di dimensione di lotto previsto cambia come il calore viene trasferito ai chicchi, poiché la massa termica del tamburo rispetto al volume del chicco cambia.",
+        "why": "Un profilo sviluppato per un lotto completo spesso non si trasferisce direttamente a mezzo lotto, poiché il rapporto tra energia termica e massa di caffè è cambiato.",
+        "tip": "Tratta dimensioni di lotto significativamente diverse come richiedenti un proprio profilo regolato invece di semplicemente scalare una ricetta.",
+        "mistake": "Supporre che un profilo di tostatura si scali in modo lineare e identico tra dimensioni di lotto molto diverse.",
+        "challenge": "Perché un lotto di metà dimensione tostato con un profilo per lotto completo potrebbe risultare sovrasviluppato o bruciato?"
+      }
+    },
+    "id": 397
+  },
+  {
+    "number": "398",
+    "title": "Roast Profile Logging",
+    "category": "RST",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "398.jpg",
+    "definition": "Roast profile logging records temperature, time, and airflow data throughout a roast, creating a reproducible record rather than relying on memory or intuition alone.",
+    "why": "A logged profile can be compared, repeated, and adjusted deliberately, while an unlogged roast can only ever be described approximately after the fact.",
+    "tip": "Log every production roast, not just experimental ones, so a well-performing batch can genuinely be reproduced later.",
+    "mistake": "Only logging roasts when developing a new profile and skipping logging during routine production.",
+    "challenge": "Why might a great-tasting roast be genuinely unrepeatable if it was never logged in the first place?",
+    "related": [
+      "110",
+      "103"
+    ],
+    "translations": {
+      "es": {
+        "title": "Registro del perfil de tueste",
+        "definition": "El registro del perfil de tueste graba datos de temperatura, tiempo y flujo de aire durante todo el tueste, creando un registro reproducible en lugar de depender solo de la memoria o la intuición.",
+        "why": "Un perfil registrado puede compararse, repetirse y ajustarse deliberadamente, mientras que un tueste no registrado solo puede describirse aproximadamente después del hecho.",
+        "tip": "Registra cada tueste de producción, no solo los experimentales, para que un lote con buen rendimiento pueda reproducirse genuinamente más tarde.",
+        "mistake": "Registrar tuestes solo al desarrollar un perfil nuevo y omitir el registro durante la producción rutinaria.",
+        "challenge": "¿Por qué un tueste de sabor excelente podría ser genuinamente irrepetible si nunca se registró en primer lugar?"
+      },
+      "pt": {
+        "title": "Registro do perfil de torra",
+        "definition": "O registro do perfil de torra grava dados de temperatura, tempo e fluxo de ar ao longo de toda a torra, criando um registro reproduzível em vez de depender apenas da memória ou intuição.",
+        "why": "Um perfil registrado pode ser comparado, repetido e ajustado deliberadamente, enquanto uma torra não registrada só pode ser descrita aproximadamente depois do fato.",
+        "tip": "Registre toda torra de produção, não apenas as experimentais, para que um lote com bom desempenho possa ser genuinamente reproduzido depois.",
+        "mistake": "Registrar torras apenas ao desenvolver um novo perfil e pular o registro durante a produção rotineira.",
+        "challenge": "Por que uma torra de sabor excelente pode ser genuinamente irreproduzível se nunca foi registrada em primeiro lugar?"
+      },
+      "de": {
+        "title": "Röstprofil-Protokollierung",
+        "definition": "Die Röstprofil-Protokollierung erfasst Temperatur-, Zeit- und Luftstromdaten während der gesamten Röstung und erzeugt so eine reproduzierbare Aufzeichnung, statt sich allein auf Gedächtnis oder Intuition zu verlassen.",
+        "why": "Ein protokolliertes Profil kann verglichen, wiederholt und bewusst angepasst werden, während eine nicht protokollierte Röstung im Nachhinein nur ungefähr beschrieben werden kann.",
+        "tip": "Protokolliere jede Produktionsröstung, nicht nur experimentelle, damit eine gut gelungene Charge später tatsächlich reproduziert werden kann.",
+        "mistake": "Röstungen nur bei der Entwicklung eines neuen Profils zu protokollieren und die Protokollierung während der Routineproduktion auszulassen.",
+        "challenge": "Warum könnte eine großartig schmeckende Röstung tatsächlich unwiederholbar sein, wenn sie nie protokolliert wurde?"
+      },
+      "fr": {
+        "title": "Enregistrement du profil de torréfaction",
+        "definition": "L'enregistrement du profil de torréfaction consigne les données de température, de temps et de flux d'air tout au long d'une torréfaction, créant un enregistrement reproductible plutôt que de se fier uniquement à la mémoire ou à l'intuition.",
+        "why": "Un profil enregistré peut être comparé, répété et ajusté délibérément, tandis qu'une torréfaction non enregistrée ne peut être décrite qu'approximativement après coup.",
+        "tip": "Enregistrez chaque torréfaction de production, pas seulement les expérimentales, afin qu'un lot performant puisse réellement être reproduit plus tard.",
+        "mistake": "N'enregistrer les torréfactions que lors du développement d'un nouveau profil et sauter l'enregistrement pendant la production de routine.",
+        "challenge": "Pourquoi une torréfaction au goût excellent pourrait-elle être réellement irreproductible si elle n'a jamais été enregistrée en premier lieu ?"
+      },
+      "it": {
+        "title": "Registrazione del profilo di tostatura",
+        "definition": "La registrazione del profilo di tostatura registra i dati di temperatura, tempo e flusso d'aria durante l'intera tostatura, creando un record riproducibile invece di affidarsi solo alla memoria o all'intuizione.",
+        "why": "Un profilo registrato può essere confrontato, ripetuto e regolato deliberatamente, mentre una tostatura non registrata può essere descritta solo approssimativamente dopo il fatto.",
+        "tip": "Registra ogni tostatura di produzione, non solo quelle sperimentali, così che un lotto ben riuscito possa essere genuinamente riprodotto in seguito.",
+        "mistake": "Registrare le tostature solo quando si sviluppa un nuovo profilo e saltare la registrazione durante la produzione di routine.",
+        "challenge": "Perché una tostatura dal sapore eccellente potrebbe essere genuinamente irripetibile se non è mai stata registrata fin dall'inizio?"
+      }
+    },
+    "id": 398
+  },
+  {
+    "number": "399",
+    "title": "Degassing After Roasting",
+    "category": "RST",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "399.jpg",
+    "definition": "Freshly roasted coffee releases carbon dioxide for days after roasting, a process that continues after the coffee has cooled and been packaged.",
+    "why": "Roasters need to plan packaging timing around degassing, since sealing coffee too soon can cause bags to swell or burst from trapped gas.",
+    "tip": "Allow coffee to degas briefly before sealing it in packaging without a one-way valve, or use valved packaging to manage ongoing degassing safely.",
+    "mistake": "Sealing freshly roasted coffee immediately in a completely airtight container with no way for gas to escape.",
+    "challenge": "Why does the roasting process itself, rather than anything added afterward, create the need for degassing management?",
+    "related": [
+      "213",
+      "107"
+    ],
+    "translations": {
+      "es": {
+        "title": "Desgasificación tras el tueste",
+        "definition": "El café recién tostado libera dióxido de carbono durante días después del tueste, un proceso que continúa después de que el café se ha enfriado y envasado.",
+        "why": "Los tostadores necesitan planificar el momento del envasado en torno a la desgasificación, ya que sellar el café demasiado pronto puede hacer que las bolsas se hinchen o revienten por el gas atrapado.",
+        "tip": "Permite que el café desgasifique brevemente antes de sellarlo en un envase sin válvula unidireccional, o usa envases con válvula para gestionar la desgasificación en curso de forma segura.",
+        "mistake": "Sellar café recién tostado inmediatamente en un envase completamente hermético sin ninguna forma de que escape el gas.",
+        "challenge": "¿Por qué el propio proceso de tueste, y no algo añadido después, crea la necesidad de gestionar la desgasificación?"
+      },
+      "pt": {
+        "title": "Desgaseificação após a torra",
+        "definition": "O café recém-torrado libera dióxido de carbono por dias após a torra, um processo que continua depois que o café esfriou e foi embalado.",
+        "why": "Os torrefadores precisam planejar o momento do embalamento em torno da desgaseificação, já que selar o café cedo demais pode fazer os sacos incharem ou estourarem devido ao gás preso.",
+        "tip": "Deixe o café desgaseificar brevemente antes de selá-lo em uma embalagem sem válvula unidirecional, ou use embalagens com válvula para gerenciar a desgaseificação contínua com segurança.",
+        "mistake": "Selar café recém-torrado imediatamente em um recipiente completamente hermético sem nenhuma forma de o gás escapar.",
+        "challenge": "Por que o próprio processo de torra, e não algo adicionado depois, cria a necessidade de gerenciamento da desgaseificação?"
+      },
+      "de": {
+        "title": "Entgasung nach der Röstung",
+        "definition": "Frisch gerösteter Kaffee gibt tagelang nach der Röstung Kohlendioxid ab, ein Prozess, der auch nach dem Abkühlen und Verpacken des Kaffees weitergeht.",
+        "why": "Röster müssen den Verpackungszeitpunkt um die Entgasung herum planen, da zu frühes Versiegeln des Kaffees dazu führen kann, dass Beutel durch eingeschlossenes Gas aufquellen oder platzen.",
+        "tip": "Lasse Kaffee kurz entgasen, bevor du ihn ohne Einwegventil verpackst, oder verwende Ventilverpackung, um die laufende Entgasung sicher zu managen.",
+        "mistake": "Frisch gerösteten Kaffee sofort in einem völlig luftdichten Behälter zu versiegeln, ohne Möglichkeit für das Gas zu entweichen.",
+        "challenge": "Warum schafft der Röstprozess selbst, statt etwas später Hinzugefügtes, die Notwendigkeit für Entgasungsmanagement?"
+      },
+      "fr": {
+        "title": "Dégazage après torréfaction",
+        "definition": "Le café fraîchement torréfié libère du dioxyde de carbone pendant des jours après la torréfaction, un processus qui se poursuit après que le café ait refroidi et soit emballé.",
+        "why": "Les torréfacteurs doivent planifier le moment de l'emballage autour du dégazage, car sceller le café trop tôt peut faire gonfler ou éclater les sacs à cause du gaz piégé.",
+        "tip": "Laissez le café dégazer brièvement avant de le sceller dans un emballage sans valve unidirectionnelle, ou utilisez un emballage à valve pour gérer le dégazage continu en toute sécurité.",
+        "mistake": "Sceller le café fraîchement torréfié immédiatement dans un récipient complètement hermétique sans aucun moyen pour le gaz de s'échapper.",
+        "challenge": "Pourquoi le processus de torréfaction lui-même, plutôt que quelque chose ajouté après, crée-t-il le besoin de gérer le dégazage ?"
+      },
+      "it": {
+        "title": "Degasaggio dopo la tostatura",
+        "definition": "Il caffè appena tostato rilascia anidride carbonica per giorni dopo la tostatura, un processo che continua dopo che il caffè si è raffreddato ed è stato imballato.",
+        "why": "I torrefattori devono pianificare la tempistica dell'imballaggio attorno al degasaggio, poiché sigillare il caffè troppo presto può far gonfiare o scoppiare i sacchetti a causa del gas intrappolato.",
+        "tip": "Lascia degasare brevemente il caffè prima di sigillarlo in un imballaggio senza valvola unidirezionale, o usa un imballaggio con valvola per gestire in sicurezza il degasaggio continuo.",
+        "mistake": "Sigillare il caffè appena tostato immediatamente in un contenitore completamente ermetico senza alcun modo per il gas di fuoriuscire.",
+        "challenge": "Perché il processo di tostatura stesso, piuttosto che qualcosa aggiunto dopo, crea la necessità di gestire il degasaggio?"
+      }
+    },
+    "id": 399
+  },
+  {
+    "number": "400",
+    "title": "Blending Before or After Roasting",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "400.jpg",
+    "definition": "Blends can be created by roasting different coffees together as one batch, or by roasting each component separately and combining them after roasting.",
+    "why": "Different beans often roast best at different rates, so combining them post-roast allows each to be optimally developed rather than compromising on one shared profile.",
+    "tip": "Roast components separately when they have very different densities or moisture levels, then blend afterward to combine the best of each.",
+    "mistake": "Roasting very different beans together as one batch and expecting each to develop equally well.",
+    "challenge": "Why might roasting two very different coffees together as a single batch actually undermine the quality of both?",
+    "related": [
+      "096",
+      "110"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mezcla antes o después del tueste",
+        "definition": "Las mezclas pueden crearse tostando distintos cafés juntos como un solo lote, o tostando cada componente por separado y combinándolos después del tueste.",
+        "why": "Distintos granos suelen tostar mejor a ritmos diferentes, así que combinarlos después del tueste permite que cada uno se desarrolle de forma óptima en lugar de comprometer un único perfil compartido.",
+        "tip": "Tuesta los componentes por separado cuando tengan densidades o niveles de humedad muy distintos, y luego mézclalos después para combinar lo mejor de cada uno.",
+        "mistake": "Tostar granos muy distintos juntos como un solo lote esperando que cada uno se desarrolle igual de bien.",
+        "challenge": "¿Por qué tostar dos cafés muy distintos juntos como un solo lote podría en realidad perjudicar la calidad de ambos?"
+      },
+      "pt": {
+        "title": "Mistura antes ou depois da torra",
+        "definition": "Os blends podem ser criados torrando cafés diferentes juntos como um único lote, ou torrando cada componente separadamente e combinando-os após a torra.",
+        "why": "Grãos diferentes costumam torrar melhor em ritmos diferentes, então combiná-los após a torra permite que cada um se desenvolva de forma ideal em vez de comprometer um único perfil compartilhado.",
+        "tip": "Torre os componentes separadamente quando tiverem densidades ou níveis de umidade muito diferentes, e depois misture-os para combinar o melhor de cada um.",
+        "mistake": "Torrar grãos muito diferentes juntos como um único lote esperando que cada um se desenvolva igualmente bem.",
+        "challenge": "Por que torrar dois cafés muito diferentes juntos como um único lote pode na verdade prejudicar a qualidade de ambos?"
+      },
+      "de": {
+        "title": "Mischen vor oder nach dem Rösten",
+        "definition": "Blends können entweder durch gemeinsames Rösten verschiedener Kaffees als eine Charge oder durch getrenntes Rösten jeder Komponente und Kombinieren nach der Röstung erstellt werden.",
+        "why": "Verschiedene Bohnen rösten oft am besten bei unterschiedlichen Raten, sodass das Kombinieren nach der Röstung jeder erlaubt, optimal entwickelt zu werden, statt bei einem gemeinsamen Profil Kompromisse einzugehen.",
+        "tip": "Röste Komponenten getrennt, wenn sie sehr unterschiedliche Dichten oder Feuchtigkeitswerte haben, und mische sie danach, um das Beste aus jeder zu kombinieren.",
+        "mistake": "Sehr unterschiedliche Bohnen zusammen als eine Charge zu rösten und zu erwarten, dass sich jede gleich gut entwickelt.",
+        "challenge": "Warum könnte das gemeinsame Rösten zweier sehr unterschiedlicher Kaffees als eine Charge tatsächlich die Qualität beider untergraben?"
+      },
+      "fr": {
+        "title": "Mélanger avant ou après la torréfaction",
+        "definition": "Les mélanges peuvent être créés en torréfiant différents cafés ensemble comme un seul lot, ou en torréfiant chaque composant séparément et en les combinant après la torréfaction.",
+        "why": "Différents grains torréfient souvent mieux à des rythmes différents, donc les combiner après la torréfaction permet à chacun d'être développé de façon optimale plutôt que de faire un compromis sur un profil partagé.",
+        "tip": "Torréfiez les composants séparément quand ils ont des densités ou des niveaux d'humidité très différents, puis mélangez-les ensuite pour combiner le meilleur de chacun.",
+        "mistake": "Torréfier des grains très différents ensemble comme un seul lot en s'attendant à ce que chacun se développe aussi bien.",
+        "challenge": "Pourquoi torréfier deux cafés très différents ensemble comme un seul lot pourrait-il en réalité nuire à la qualité des deux ?"
+      },
+      "it": {
+        "title": "Miscelare prima o dopo la tostatura",
+        "definition": "I blend possono essere creati tostando insieme caffè diversi come un unico lotto, o tostando ogni componente separatamente e combinandoli dopo la tostatura.",
+        "why": "Chicchi diversi spesso tostano meglio a ritmi diversi, quindi combinarli dopo la tostatura permette a ciascuno di svilupparsi in modo ottimale invece di scendere a compromessi su un unico profilo condiviso.",
+        "tip": "Tosta i componenti separatamente quando hanno densità o livelli di umidità molto diversi, poi mescolali dopo per combinare il meglio di ciascuno.",
+        "mistake": "Tostare chicchi molto diversi insieme come un unico lotto aspettandosi che ciascuno si sviluppi ugualmente bene.",
+        "challenge": "Perché tostare insieme due caffè molto diversi come un unico lotto potrebbe in realtà compromettere la qualità di entrambi?"
+      }
+    },
+    "id": 400
   }
 ]

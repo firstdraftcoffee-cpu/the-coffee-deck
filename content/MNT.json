@@ -942,5 +942,241 @@
         "challenge": "Perché una soluzione detergente più forte del raccomandato può in realtà causare più danni all'attrezzatura?"
       }
     }
+  },
+  {
+    "number": "383",
+    "title": "Refractometer & Scale Calibration",
+    "category": "MNT",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "383.jpg",
+    "definition": "Refractometers (for measuring brewed coffee TDS) and scales both drift out of calibration over time and need periodic checking against a known reference standard.",
+    "why": "A miscalibrated refractometer or scale can quietly feed inaccurate data into every extraction calculation and recipe built on top of it.",
+    "tip": "Calibrate a refractometer with distilled water and check scale accuracy with a certified reference weight on a regular schedule.",
+    "mistake": "Trusting a refractometer or scale reading indefinitely without ever rechecking it against a known standard.",
+    "challenge": "Why might a scale reading look perfectly normal on its display while still being measurably inaccurate?",
+    "related": [
+      "256",
+      "002"
+    ],
+    "translations": {
+      "es": {
+        "title": "Calibración de refractómetro y báscula",
+        "definition": "Los refractómetros (para medir el TDS del café preparado) y las básculas se desajustan de su calibración con el tiempo y necesitan revisión periódica frente a un estándar de referencia conocido.",
+        "why": "Un refractómetro o báscula mal calibrados pueden introducir silenciosamente datos inexactos en cada cálculo de extracción y receta construida sobre ellos.",
+        "tip": "Calibra un refractómetro con agua destilada y verifica la precisión de la báscula con un peso de referencia certificado según un calendario regular.",
+        "mistake": "Confiar indefinidamente en la lectura de un refractómetro o báscula sin volver a revisarla nunca frente a un estándar conocido.",
+        "challenge": "¿Por qué la lectura de una báscula podría verse perfectamente normal en su pantalla mientras sigue siendo mensurablemente inexacta?"
+      },
+      "pt": {
+        "title": "Calibração de refratômetro e balança",
+        "definition": "Refratômetros (para medir o TDS do café preparado) e balanças ambos saem de calibração com o tempo e precisam de verificação periódica contra um padrão de referência conhecido.",
+        "why": "Um refratômetro ou balança descalibrados podem alimentar silenciosamente dados imprecisos em cada cálculo de extração e receita construída sobre eles.",
+        "tip": "Calibre um refratômetro com água destilada e verifique a precisão da balança com um peso de referência certificado em um cronograma regular.",
+        "mistake": "Confiar indefinidamente na leitura de um refratômetro ou balança sem nunca revisá-la contra um padrão conhecido.",
+        "challenge": "Por que a leitura de uma balança pode parecer perfeitamente normal em seu visor enquanto ainda é mensuravelmente imprecisa?"
+      },
+      "de": {
+        "title": "Kalibrierung von Refraktometer und Waage",
+        "definition": "Refraktometer (zur Messung des TDS gebrühten Kaffees) und Waagen driften beide mit der Zeit aus der Kalibrierung und benötigen regelmäßige Überprüfung gegen einen bekannten Referenzstandard.",
+        "why": "Ein falsch kalibriertes Refraktometer oder eine falsch kalibrierte Waage kann still ungenaue Daten in jede Extraktionsberechnung und jedes darauf aufbauende Rezept einspeisen.",
+        "tip": "Kalibriere ein Refraktometer mit destilliertem Wasser und prüfe die Waagengenauigkeit regelmäßig mit einem zertifizierten Referenzgewicht.",
+        "mistake": "Einer Refraktometer- oder Waagenanzeige unbegrenzt zu vertrauen, ohne sie je gegen einen bekannten Standard erneut zu prüfen.",
+        "challenge": "Warum könnte eine Waagenanzeige auf dem Display völlig normal aussehen, obwohl sie messbar ungenau ist?"
+      },
+      "fr": {
+        "title": "Calibration du réfractomètre et de la balance",
+        "definition": "Les réfractomètres (pour mesurer le TDS du café infusé) et les balances dérivent tous deux de leur calibration avec le temps et nécessitent une vérification périodique par rapport à un étalon de référence connu.",
+        "why": "Un réfractomètre ou une balance mal calibrés peuvent alimenter silencieusement des données inexactes dans chaque calcul d'extraction et recette construite dessus.",
+        "tip": "Calibrez un réfractomètre avec de l'eau distillée et vérifiez la précision de la balance avec un poids de référence certifié selon un calendrier régulier.",
+        "mistake": "Faire confiance indéfiniment à une lecture de réfractomètre ou de balance sans jamais la revérifier par rapport à un étalon connu.",
+        "challenge": "Pourquoi la lecture d'une balance pourrait-elle paraître parfaitement normale sur son affichage tout en étant mesurablement inexacte ?"
+      },
+      "it": {
+        "title": "Calibrazione di rifrattometro e bilancia",
+        "definition": "I rifrattometri (per misurare il TDS del caffè preparato) e le bilance derivano entrambi dalla calibrazione nel tempo e necessitano di controllo periodico rispetto a uno standard di riferimento noto.",
+        "why": "Un rifrattometro o una bilancia mal calibrati possono alimentare silenziosamente dati imprecisi in ogni calcolo di estrazione e ricetta costruita su di essi.",
+        "tip": "Calibra un rifrattometro con acqua distillata e controlla la precisione della bilancia con un peso di riferimento certificato secondo un programma regolare.",
+        "mistake": "Fidarsi indefinitamente della lettura di un rifrattometro o di una bilancia senza mai ricontrollarla rispetto a uno standard noto.",
+        "challenge": "Perché la lettura di una bilancia potrebbe sembrare perfettamente normale sul display pur essendo misurabilmente imprecisa?"
+      }
+    }
+  },
+  {
+    "number": "384",
+    "title": "Machine Software & Firmware Updates",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "384.jpg",
+    "definition": "Modern espresso machines and grinders with digital controls receive periodic firmware updates that can fix bugs, add features, or change default behavior.",
+    "why": "Skipping updates can leave known issues unresolved, while applying them blindly without checking release notes can unexpectedly change settings staff rely on.",
+    "tip": "Read release notes before updating machine firmware, and test the machine thoroughly before returning it to live service.",
+    "mistake": "Updating firmware right before a busy service period without first testing that everything still works as expected.",
+    "challenge": "Why might a firmware update silently changing a default setting be more disruptive than a hardware failure would be?",
+    "related": [
+      "257",
+      "260"
+    ],
+    "translations": {
+      "es": {
+        "title": "Actualizaciones de software y firmware de la máquina",
+        "definition": "Las máquinas de espresso modernas y los molinos con controles digitales reciben actualizaciones periódicas de firmware que pueden corregir errores, añadir funciones o cambiar el comportamiento predeterminado.",
+        "why": "Omitir actualizaciones puede dejar problemas conocidos sin resolver, mientras que aplicarlas a ciegas sin revisar las notas de la versión puede cambiar inesperadamente ajustes de los que depende el personal.",
+        "tip": "Lee las notas de la versión antes de actualizar el firmware de la máquina, y prueba la máquina a fondo antes de devolverla al servicio activo.",
+        "mistake": "Actualizar el firmware justo antes de un período de servicio concurrido sin probar primero que todo siga funcionando como se espera.",
+        "challenge": "¿Por qué una actualización de firmware que cambia silenciosamente un ajuste predeterminado podría ser más disruptiva que una avería de hardware?"
+      },
+      "pt": {
+        "title": "Atualizações de software e firmware da máquina",
+        "definition": "Máquinas de espresso modernas e moedores com controles digitais recebem atualizações periódicas de firmware que podem corrigir bugs, adicionar recursos ou mudar o comportamento padrão.",
+        "why": "Pular atualizações pode deixar problemas conhecidos sem solução, enquanto aplicá-las cegamente sem verificar as notas de lançamento pode mudar inesperadamente configurações das quais a equipe depende.",
+        "tip": "Leia as notas de lançamento antes de atualizar o firmware da máquina, e teste-a completamente antes de devolvê-la ao serviço ativo.",
+        "mistake": "Atualizar o firmware bem antes de um período de serviço movimentado sem primeiro testar se tudo ainda funciona como esperado.",
+        "challenge": "Por que uma atualização de firmware que muda silenciosamente uma configuração padrão pode ser mais perturbadora do que uma falha de hardware?"
+      },
+      "de": {
+        "title": "Software- und Firmware-Updates der Maschine",
+        "definition": "Moderne Espressomaschinen und Mühlen mit digitalen Steuerungen erhalten regelmäßige Firmware-Updates, die Fehler beheben, Funktionen hinzufügen oder Standardverhalten ändern können.",
+        "why": "Updates zu überspringen kann bekannte Probleme ungelöst lassen, während sie blind ohne Prüfung der Versionshinweise anzuwenden unerwartet Einstellungen ändern kann, auf die sich das Personal verlässt.",
+        "tip": "Lies Versionshinweise vor dem Update der Maschinenfirmware und teste die Maschine gründlich, bevor sie wieder in den Live-Betrieb geht.",
+        "mistake": "Firmware direkt vor einer geschäftigen Servicezeit zu aktualisieren, ohne vorher zu testen, dass alles wie erwartet funktioniert.",
+        "challenge": "Warum könnte ein Firmware-Update, das still eine Standardeinstellung ändert, störender sein als ein Hardwareausfall?"
+      },
+      "fr": {
+        "title": "Mises à jour logiciel et firmware de la machine",
+        "definition": "Les machines à espresso et moulins modernes à commandes numériques reçoivent des mises à jour périodiques de firmware qui peuvent corriger des bugs, ajouter des fonctionnalités ou changer le comportement par défaut.",
+        "why": "Sauter des mises à jour peut laisser des problèmes connus non résolus, tandis que les appliquer aveuglément sans vérifier les notes de version peut changer de façon inattendue des réglages dont dépend le personnel.",
+        "tip": "Lisez les notes de version avant de mettre à jour le firmware de la machine, et testez-la minutieusement avant de la remettre en service actif.",
+        "mistake": "Mettre à jour le firmware juste avant une période de service chargée sans d'abord tester que tout fonctionne encore comme prévu.",
+        "challenge": "Pourquoi une mise à jour de firmware changeant silencieusement un réglage par défaut pourrait-elle être plus perturbatrice qu'une panne matérielle ?"
+      },
+      "it": {
+        "title": "Aggiornamenti software e firmware della macchina",
+        "definition": "Le macchine da espresso moderne e i macinacaffè con controlli digitali ricevono aggiornamenti periodici del firmware che possono correggere bug, aggiungere funzionalità o cambiare il comportamento predefinito.",
+        "why": "Saltare gli aggiornamenti può lasciare irrisolti problemi noti, mentre applicarli ciecamente senza controllare le note di rilascio può cambiare inaspettatamente impostazioni su cui il personale fa affidamento.",
+        "tip": "Leggi le note di rilascio prima di aggiornare il firmware della macchina, e testala accuratamente prima di rimetterla in servizio attivo.",
+        "mistake": "Aggiornare il firmware appena prima di un periodo di servizio intenso senza prima testare che tutto funzioni ancora come previsto.",
+        "challenge": "Perché un aggiornamento firmware che cambia silenziosamente un'impostazione predefinita potrebbe essere più dirompente di un guasto hardware?"
+      }
+    }
+  },
+  {
+    "number": "385",
+    "title": "Auto-Clean Program Verification",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "385.jpg",
+    "definition": "Many modern machines run automated backflush or rinse cycles on a timer, but these programs still need periodic manual verification that they're actually completing correctly.",
+    "why": "An automated cleaning cycle that silently fails or gets interrupted can create a false sense of security that cleaning is happening when it isn't.",
+    "tip": "Periodically observe a full auto-clean cycle in person to confirm it runs to completion, rather than trusting the schedule alone.",
+    "mistake": "Assuming an automated cleaning program is always working correctly simply because it's scheduled to run.",
+    "challenge": "Why might automation actually increase the risk of an unnoticed cleaning failure compared to a manual process?",
+    "related": [
+      "247",
+      "255"
+    ],
+    "translations": {
+      "es": {
+        "title": "Verificación del programa de autolimpieza",
+        "definition": "Muchas máquinas modernas ejecutan ciclos automáticos de retrolavado o enjuague con temporizador, pero estos programas aún necesitan verificación manual periódica de que realmente se completan correctamente.",
+        "why": "Un ciclo de limpieza automatizado que falla silenciosamente o se interrumpe puede crear una falsa sensación de seguridad de que la limpieza está ocurriendo cuando no es así.",
+        "tip": "Observa periódicamente en persona un ciclo completo de autolimpieza para confirmar que se ejecuta hasta el final, en lugar de confiar solo en el horario.",
+        "mistake": "Suponer que un programa de limpieza automatizado siempre funciona correctamente solo porque está programado para ejecutarse.",
+        "challenge": "¿Por qué la automatización podría en realidad aumentar el riesgo de un fallo de limpieza inadvertido en comparación con un proceso manual?"
+      },
+      "pt": {
+        "title": "Verificação do programa de autolimpeza",
+        "definition": "Muitas máquinas modernas executam ciclos automáticos de retrolavagem ou enxágue com temporizador, mas esses programas ainda precisam de verificação manual periódica de que realmente estão sendo concluídos corretamente.",
+        "why": "Um ciclo de limpeza automatizado que falha silenciosamente ou é interrompido pode criar uma falsa sensação de segurança de que a limpeza está acontecendo quando não está.",
+        "tip": "Observe periodicamente pessoalmente um ciclo completo de autolimpeza para confirmar que ele é concluído, em vez de confiar apenas no cronograma.",
+        "mistake": "Supor que um programa de limpeza automatizado sempre funciona corretamente só porque está programado para rodar.",
+        "challenge": "Por que a automação pode na verdade aumentar o risco de uma falha de limpeza não percebida em comparação com um processo manual?"
+      },
+      "de": {
+        "title": "Überprüfung des Auto-Reinigungsprogramms",
+        "definition": "Viele moderne Maschinen führen automatisierte Backflush- oder Spülzyklen nach Zeitplan aus, aber diese Programme benötigen weiterhin regelmäßige manuelle Überprüfung, ob sie tatsächlich korrekt abgeschlossen werden.",
+        "why": "Ein automatisierter Reinigungszyklus, der still fehlschlägt oder unterbrochen wird, kann ein falsches Sicherheitsgefühl erzeugen, dass Reinigung stattfindet, obwohl sie es nicht tut.",
+        "tip": "Beobachte gelegentlich persönlich einen vollständigen Auto-Reinigungszyklus, um zu bestätigen, dass er vollständig durchläuft, statt allein dem Zeitplan zu vertrauen.",
+        "mistake": "Anzunehmen, ein automatisiertes Reinigungsprogramm funktioniere immer korrekt, nur weil es planmäßig läuft.",
+        "challenge": "Warum könnte Automatisierung das Risiko eines unbemerkten Reinigungsausfalls im Vergleich zu einem manuellen Prozess tatsächlich erhöhen?"
+      },
+      "fr": {
+        "title": "Vérification du programme d'auto-nettoyage",
+        "definition": "De nombreuses machines modernes exécutent des cycles automatisés de rétro-lavage ou de rinçage sur minuterie, mais ces programmes nécessitent toujours une vérification manuelle périodique qu'ils se terminent effectivement correctement.",
+        "why": "Un cycle de nettoyage automatisé qui échoue silencieusement ou est interrompu peut créer un faux sentiment de sécurité que le nettoyage a lieu alors que ce n'est pas le cas.",
+        "tip": "Observez périodiquement en personne un cycle complet d'auto-nettoyage pour confirmer qu'il se déroule jusqu'au bout, plutôt que de faire confiance uniquement au calendrier.",
+        "mistake": "Supposer qu'un programme de nettoyage automatisé fonctionne toujours correctement simplement parce qu'il est programmé pour s'exécuter.",
+        "challenge": "Pourquoi l'automatisation pourrait-elle en réalité augmenter le risque d'un échec de nettoyage passé inaperçu par rapport à un processus manuel ?"
+      },
+      "it": {
+        "title": "Verifica del programma di auto-pulizia",
+        "definition": "Molte macchine moderne eseguono cicli automatizzati di backflush o risciacquo a tempo, ma questi programmi necessitano comunque di una verifica manuale periodica che si completino effettivamente in modo corretto.",
+        "why": "Un ciclo di pulizia automatizzato che fallisce silenziosamente o viene interrotto può creare un falso senso di sicurezza che la pulizia stia avvenendo quando non lo è.",
+        "tip": "Osserva periodicamente di persona un ciclo completo di auto-pulizia per confermare che venga eseguito fino al termine, invece di fidarti solo del programma.",
+        "mistake": "Supporre che un programma di pulizia automatizzato funzioni sempre correttamente solo perché è programmato per essere eseguito.",
+        "challenge": "Perché l'automazione potrebbe in realtà aumentare il rischio di un guasto di pulizia inosservato rispetto a un processo manuale?"
+      }
+    }
+  },
+  {
+    "number": "386",
+    "title": "Cold Brew Equipment Maintenance",
+    "category": "MNT",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "386.jpg",
+    "definition": "Cold brew towers, immersion vessels, and filters require their own cleaning schedule distinct from espresso equipment, since residue builds up differently in slow, cold, immersion-based systems.",
+    "why": "Cold, slow-moving systems can harbor bacterial growth more readily than hot equipment if not cleaned on a proper schedule.",
+    "tip": "Disassemble cold brew equipment fully for cleaning rather than just rinsing it in place, since sediment collects in areas a quick rinse won't reach.",
+    "mistake": "Applying the same cleaning frequency and method used for hot espresso equipment to cold brew systems without adjustment.",
+    "challenge": "Why might cold equipment actually need more careful sanitation attention than hot equipment, not less?",
+    "related": [
+      "239",
+      "324"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mantenimiento del equipo de cold brew",
+        "definition": "Las torres de cold brew, los recipientes de inmersión y los filtros requieren su propio calendario de limpieza distinto del equipo de espresso, ya que los residuos se acumulan de forma diferente en sistemas lentos, fríos y de inmersión.",
+        "why": "Los sistemas fríos y de movimiento lento pueden albergar crecimiento bacteriano más fácilmente que el equipo caliente si no se limpian según un calendario adecuado.",
+        "tip": "Desmonta por completo el equipo de cold brew para limpiarlo en lugar de solo enjuagarlo en su lugar, ya que el sedimento se acumula en zonas que un enjuague rápido no alcanza.",
+        "mistake": "Aplicar la misma frecuencia y método de limpieza usados para el equipo de espresso caliente a los sistemas de cold brew sin ajuste.",
+        "challenge": "¿Por qué el equipo frío podría en realidad necesitar una atención de saneamiento más cuidadosa que el equipo caliente, no menos?"
+      },
+      "pt": {
+        "title": "Manutenção de equipamentos de cold brew",
+        "definition": "Torres de cold brew, recipientes de imersão e filtros requerem seu próprio cronograma de limpeza distinto do equipamento de espresso, já que o resíduo se acumula de forma diferente em sistemas lentos, frios e baseados em imersão.",
+        "why": "Sistemas frios e de movimento lento podem abrigar crescimento bacteriano mais facilmente do que equipamento quente se não forem limpos em um cronograma adequado.",
+        "tip": "Desmonte completamente o equipamento de cold brew para limpeza em vez de apenas enxaguá-lo no lugar, já que o sedimento se acumula em áreas que um enxágue rápido não alcança.",
+        "mistake": "Aplicar a mesma frequência e método de limpeza usados para equipamento de espresso quente aos sistemas de cold brew sem ajuste.",
+        "challenge": "Por que o equipamento frio pode na verdade precisar de atenção de higienização mais cuidadosa do que o equipamento quente, não menos?"
+      },
+      "de": {
+        "title": "Wartung von Cold-Brew-Ausrüstung",
+        "definition": "Cold-Brew-Türme, Immersionsgefäße und Filter benötigen einen eigenen, vom Espressoequipment getrennten Reinigungsplan, da sich Rückstände in langsamen, kalten, immersionsbasierten Systemen anders ansammeln.",
+        "why": "Kalte, langsam bewegte Systeme können bakterielles Wachstum leichter beherbergen als heiße Ausrüstung, wenn sie nicht nach einem ordentlichen Plan gereinigt werden.",
+        "tip": "Zerlege Cold-Brew-Ausrüstung zum Reinigen vollständig, statt sie nur an Ort und Stelle zu spülen, da sich Sediment in Bereichen sammelt, die ein schnelles Spülen nicht erreicht.",
+        "mistake": "Dieselbe Reinigungshäufigkeit und -methode wie bei heißer Espressoausrüstung ohne Anpassung auf Cold-Brew-Systeme anzuwenden.",
+        "challenge": "Warum könnte kalte Ausrüstung tatsächlich sorgfältigere Hygieneaufmerksamkeit benötigen als heiße, nicht weniger?"
+      },
+      "fr": {
+        "title": "Entretien de l'équipement de cold brew",
+        "definition": "Les tours de cold brew, récipients d'immersion et filtres nécessitent leur propre calendrier de nettoyage distinct de l'équipement espresso, car les résidus s'accumulent différemment dans les systèmes lents, froids et à immersion.",
+        "why": "Les systèmes froids et à mouvement lent peuvent héberger plus facilement une croissance bactérienne que l'équipement chaud s'ils ne sont pas nettoyés selon un calendrier approprié.",
+        "tip": "Démontez entièrement l'équipement de cold brew pour le nettoyage plutôt que de simplement le rincer en place, car les sédiments s'accumulent dans des zones qu'un rinçage rapide n'atteint pas.",
+        "mistake": "Appliquer la même fréquence et méthode de nettoyage utilisées pour l'équipement espresso chaud aux systèmes de cold brew sans ajustement.",
+        "challenge": "Pourquoi l'équipement froid pourrait-il en réalité nécessiter une attention de désinfection plus soignée que l'équipement chaud, pas moins ?"
+      },
+      "it": {
+        "title": "Manutenzione dell'attrezzatura per cold brew",
+        "definition": "Torri per cold brew, recipienti a immersione e filtri richiedono un proprio programma di pulizia distinto dall'attrezzatura per espresso, poiché i residui si accumulano diversamente in sistemi lenti, freddi e basati sull'immersione.",
+        "why": "I sistemi freddi e a movimento lento possono ospitare crescita batterica più facilmente dell'attrezzatura calda se non puliti secondo un programma adeguato.",
+        "tip": "Smonta completamente l'attrezzatura per cold brew per la pulizia invece di semplicemente risciacquarla in posizione, poiché il sedimento si accumula in aree che un rapido risciacquo non raggiunge.",
+        "mistake": "Applicare la stessa frequenza e metodo di pulizia usati per l'attrezzatura da espresso calda ai sistemi di cold brew senza adattamento.",
+        "challenge": "Perché l'attrezzatura fredda potrebbe in realtà aver bisogno di un'attenzione igienica più accurata rispetto a quella calda, non minore?"
+      }
+    }
   }
 ]

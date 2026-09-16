@@ -899,5 +899,300 @@
         "challenge": "Quali sono le cinque variabili di tostatura più importanti da monitorare?"
       }
     }
+  },
+  {
+    "number": "396",
+    "title": "Airflow Control",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "396.jpg",
+    "definition": "Airflow in a roaster controls how quickly heat and smoke move through the drum, affecting both roast development and how chaff and smoke are removed.",
+    "why": "Airflow works together with heat, not separately from it, meaning a change in airflow can shift the roast even if temperature settings stay identical.",
+    "tip": "Adjust airflow deliberately and track its effect the same way you'd track a heat adjustment, rather than treating it as a fixed background setting.",
+    "mistake": "Only ever adjusting heat and never touching airflow, when both are active variables in the roast.",
+    "challenge": "Why might two roasts with identical heat settings turn out differently if airflow was set differently?",
+    "related": [
+      "099",
+      "103"
+    ],
+    "translations": {
+      "es": {
+        "title": "Control del flujo de aire",
+        "definition": "El flujo de aire en un tostador controla la rapidez con que el calor y el humo se mueven a través del tambor, afectando tanto el desarrollo del tueste como la eliminación de la cascarilla y el humo.",
+        "why": "El flujo de aire funciona junto con el calor, no por separado, lo que significa que un cambio en el flujo de aire puede alterar el tueste incluso si los ajustes de temperatura permanecen idénticos.",
+        "tip": "Ajusta el flujo de aire deliberadamente y sigue su efecto de la misma forma que seguirías un ajuste de calor, en lugar de tratarlo como un ajuste de fondo fijo.",
+        "mistake": "Ajustar siempre solo el calor y nunca tocar el flujo de aire, cuando ambos son variables activas en el tueste.",
+        "challenge": "¿Por qué dos tuestes con ajustes de calor idénticos podrían resultar diferentes si el flujo de aire se ajustó de forma distinta?"
+      },
+      "pt": {
+        "title": "Controle do fluxo de ar",
+        "definition": "O fluxo de ar em um torrador controla a rapidez com que o calor e a fumaça se movem pelo tambor, afetando tanto o desenvolvimento da torra quanto a remoção da película e da fumaça.",
+        "why": "O fluxo de ar funciona junto com o calor, não separadamente, o que significa que uma mudança no fluxo de ar pode alterar a torra mesmo que as configurações de temperatura permaneçam idênticas.",
+        "tip": "Ajuste o fluxo de ar deliberadamente e acompanhe seu efeito da mesma forma que acompanharia um ajuste de calor, em vez de tratá-lo como uma configuração de fundo fixa.",
+        "mistake": "Sempre ajustar apenas o calor e nunca mexer no fluxo de ar, quando ambos são variáveis ativas na torra.",
+        "challenge": "Por que duas torras com configurações de calor idênticas podem sair diferentes se o fluxo de ar foi ajustado de forma diferente?"
+      },
+      "de": {
+        "title": "Luftstromregelung",
+        "definition": "Der Luftstrom in einem Röster steuert, wie schnell Hitze und Rauch durch die Trommel bewegt werden, und beeinflusst sowohl die Röstentwicklung als auch die Entfernung von Silberhaut und Rauch.",
+        "why": "Der Luftstrom arbeitet zusammen mit der Hitze, nicht getrennt davon, was bedeutet, dass eine Änderung des Luftstroms die Röstung verschieben kann, selbst wenn die Temperatureinstellungen gleich bleiben.",
+        "tip": "Passe den Luftstrom bewusst an und verfolge seine Wirkung genauso, wie du eine Hitzeanpassung verfolgen würdest, statt ihn als feste Hintergrundeinstellung zu behandeln.",
+        "mistake": "Immer nur die Hitze anzupassen und den Luftstrom nie zu berühren, obwohl beide aktive Variablen der Röstung sind.",
+        "challenge": "Warum könnten zwei Röstungen mit identischen Hitzeeinstellungen unterschiedlich ausfallen, wenn der Luftstrom unterschiedlich eingestellt war?"
+      },
+      "fr": {
+        "title": "Contrôle du flux d'air",
+        "definition": "Le flux d'air dans un torréfacteur contrôle la vitesse à laquelle la chaleur et la fumée se déplacent dans le tambour, affectant à la fois le développement de la torréfaction et l'élimination des pellicules et de la fumée.",
+        "why": "Le flux d'air fonctionne avec la chaleur, pas séparément, ce qui signifie qu'un changement de flux d'air peut modifier la torréfaction même si les réglages de température restent identiques.",
+        "tip": "Ajustez le flux d'air délibérément et suivez son effet de la même façon que vous suivriez un ajustement de chaleur, plutôt que de le traiter comme un réglage de fond fixe.",
+        "mistake": "N'ajuster que la chaleur et ne jamais toucher au flux d'air, alors que les deux sont des variables actives de la torréfaction.",
+        "challenge": "Pourquoi deux torréfactions avec des réglages de chaleur identiques pourraient-elles s'avérer différentes si le flux d'air était réglé différemment ?"
+      },
+      "it": {
+        "title": "Controllo del flusso d'aria",
+        "definition": "Il flusso d'aria in un tostatore controlla quanto velocemente calore e fumo si muovono attraverso il tamburo, influenzando sia lo sviluppo della tostatura sia la rimozione di pula e fumo.",
+        "why": "Il flusso d'aria lavora insieme al calore, non separatamente, il che significa che un cambiamento nel flusso d'aria può spostare la tostatura anche se le impostazioni di temperatura rimangono identiche.",
+        "tip": "Regola il flusso d'aria deliberatamente e traccia il suo effetto allo stesso modo in cui traccieresti una regolazione del calore, invece di trattarlo come un'impostazione di sfondo fissa.",
+        "mistake": "Regolare sempre solo il calore e non toccare mai il flusso d'aria, quando entrambi sono variabili attive nella tostatura.",
+        "challenge": "Perché due tostature con impostazioni di calore identiche potrebbero risultare diverse se il flusso d'aria fosse impostato diversamente?"
+      }
+    }
+  },
+  {
+    "number": "397",
+    "title": "Batch Size & Loading",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "397.jpg",
+    "definition": "Loading a roaster below or above its designed batch size range changes how heat transfers to the beans, since the drum's thermal mass relative to bean volume shifts.",
+    "why": "A profile developed for a full batch often won't transfer directly to a half batch, since the ratio of heat energy to coffee mass has changed.",
+    "tip": "Treat significantly different batch sizes as requiring their own dialled-in profile rather than simply scaling one recipe.",
+    "mistake": "Assuming a roast profile scales linearly and identically across very different batch sizes.",
+    "challenge": "Why might a half-size batch roasted with a full-batch profile turn out over-developed or scorched?",
+    "related": [
+      "097",
+      "110"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tamaño de lote y carga",
+        "definition": "Cargar un tostador por debajo o por encima de su rango de tamaño de lote diseñado cambia cómo se transfiere el calor a los granos, ya que la masa térmica del tambor en relación con el volumen de grano cambia.",
+        "why": "Un perfil desarrollado para un lote completo a menudo no se transfiere directamente a medio lote, ya que la proporción de energía calorífica respecto a la masa de café ha cambiado.",
+        "tip": "Trata los tamaños de lote significativamente distintos como si necesitaran su propio perfil ajustado en lugar de simplemente escalar una receta.",
+        "mistake": "Suponer que un perfil de tueste escala de forma lineal e idéntica en tamaños de lote muy distintos.",
+        "challenge": "¿Por qué un lote de la mitad de tamaño tostado con un perfil de lote completo podría resultar sobredesarrollado o quemado?"
+      },
+      "pt": {
+        "title": "Tamanho do lote e carregamento",
+        "definition": "Carregar um torrador abaixo ou acima de sua faixa de tamanho de lote projetada muda como o calor é transferido para os grãos, já que a massa térmica do tambor em relação ao volume de grão muda.",
+        "why": "Um perfil desenvolvido para um lote completo frequentemente não se transfere diretamente para meio lote, já que a proporção de energia térmica em relação à massa de café mudou.",
+        "tip": "Trate tamanhos de lote significativamente diferentes como exigindo seu próprio perfil ajustado em vez de simplesmente escalar uma receita.",
+        "mistake": "Supor que um perfil de torra escala de forma linear e idêntica em tamanhos de lote muito diferentes.",
+        "challenge": "Por que um lote de metade do tamanho torrado com um perfil de lote completo pode sair superdesenvolvido ou queimado?"
+      },
+      "de": {
+        "title": "Chargengröße und Beladung",
+        "definition": "Das Beladen eines Rösters unterhalb oder oberhalb seines vorgesehenen Chargengrößenbereichs verändert, wie Hitze auf die Bohnen übertragen wird, da sich die thermische Masse der Trommel im Verhältnis zum Bohnenvolumen verschiebt.",
+        "why": "Ein für eine volle Charge entwickeltes Profil überträgt sich oft nicht direkt auf eine halbe Charge, da sich das Verhältnis von Wärmeenergie zu Kaffeemasse geändert hat.",
+        "tip": "Behandle deutlich unterschiedliche Chargengrößen als solche, die ein eigenes eingestelltes Profil benötigen, statt einfach ein Rezept zu skalieren.",
+        "mistake": "Anzunehmen, ein Röstprofil skaliere linear und identisch über sehr unterschiedliche Chargengrößen hinweg.",
+        "challenge": "Warum könnte eine mit einem Vollchargen-Profil gerösteten halbgroße Charge überentwickelt oder verbrannt ausfallen?"
+      },
+      "fr": {
+        "title": "Taille de lot et chargement",
+        "definition": "Charger un torréfacteur en dessous ou au-dessus de sa plage de taille de lot conçue change la façon dont la chaleur est transférée aux grains, car la masse thermique du tambour par rapport au volume de grain change.",
+        "why": "Un profil développé pour un lot complet ne se transfère souvent pas directement à un demi-lot, car le ratio d'énergie thermique par rapport à la masse de café a changé.",
+        "tip": "Traitez les tailles de lot significativement différentes comme nécessitant leur propre profil réglé plutôt que de simplement mettre une recette à l'échelle.",
+        "mistake": "Supposer qu'un profil de torréfaction s'adapte linéairement et de façon identique à des tailles de lot très différentes.",
+        "challenge": "Pourquoi un demi-lot torréfié avec un profil de lot complet pourrait-il s'avérer trop développé ou brûlé ?"
+      },
+      "it": {
+        "title": "Dimensione del lotto e caricamento",
+        "definition": "Caricare un tostatore sotto o sopra il suo intervallo di dimensione di lotto previsto cambia come il calore viene trasferito ai chicchi, poiché la massa termica del tamburo rispetto al volume del chicco cambia.",
+        "why": "Un profilo sviluppato per un lotto completo spesso non si trasferisce direttamente a mezzo lotto, poiché il rapporto tra energia termica e massa di caffè è cambiato.",
+        "tip": "Tratta dimensioni di lotto significativamente diverse come richiedenti un proprio profilo regolato invece di semplicemente scalare una ricetta.",
+        "mistake": "Supporre che un profilo di tostatura si scali in modo lineare e identico tra dimensioni di lotto molto diverse.",
+        "challenge": "Perché un lotto di metà dimensione tostato con un profilo per lotto completo potrebbe risultare sovrasviluppato o bruciato?"
+      }
+    }
+  },
+  {
+    "number": "398",
+    "title": "Roast Profile Logging",
+    "category": "RST",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "398.jpg",
+    "definition": "Roast profile logging records temperature, time, and airflow data throughout a roast, creating a reproducible record rather than relying on memory or intuition alone.",
+    "why": "A logged profile can be compared, repeated, and adjusted deliberately, while an unlogged roast can only ever be described approximately after the fact.",
+    "tip": "Log every production roast, not just experimental ones, so a well-performing batch can genuinely be reproduced later.",
+    "mistake": "Only logging roasts when developing a new profile and skipping logging during routine production.",
+    "challenge": "Why might a great-tasting roast be genuinely unrepeatable if it was never logged in the first place?",
+    "related": [
+      "110",
+      "103"
+    ],
+    "translations": {
+      "es": {
+        "title": "Registro del perfil de tueste",
+        "definition": "El registro del perfil de tueste graba datos de temperatura, tiempo y flujo de aire durante todo el tueste, creando un registro reproducible en lugar de depender solo de la memoria o la intuición.",
+        "why": "Un perfil registrado puede compararse, repetirse y ajustarse deliberadamente, mientras que un tueste no registrado solo puede describirse aproximadamente después del hecho.",
+        "tip": "Registra cada tueste de producción, no solo los experimentales, para que un lote con buen rendimiento pueda reproducirse genuinamente más tarde.",
+        "mistake": "Registrar tuestes solo al desarrollar un perfil nuevo y omitir el registro durante la producción rutinaria.",
+        "challenge": "¿Por qué un tueste de sabor excelente podría ser genuinamente irrepetible si nunca se registró en primer lugar?"
+      },
+      "pt": {
+        "title": "Registro do perfil de torra",
+        "definition": "O registro do perfil de torra grava dados de temperatura, tempo e fluxo de ar ao longo de toda a torra, criando um registro reproduzível em vez de depender apenas da memória ou intuição.",
+        "why": "Um perfil registrado pode ser comparado, repetido e ajustado deliberadamente, enquanto uma torra não registrada só pode ser descrita aproximadamente depois do fato.",
+        "tip": "Registre toda torra de produção, não apenas as experimentais, para que um lote com bom desempenho possa ser genuinamente reproduzido depois.",
+        "mistake": "Registrar torras apenas ao desenvolver um novo perfil e pular o registro durante a produção rotineira.",
+        "challenge": "Por que uma torra de sabor excelente pode ser genuinamente irreproduzível se nunca foi registrada em primeiro lugar?"
+      },
+      "de": {
+        "title": "Röstprofil-Protokollierung",
+        "definition": "Die Röstprofil-Protokollierung erfasst Temperatur-, Zeit- und Luftstromdaten während der gesamten Röstung und erzeugt so eine reproduzierbare Aufzeichnung, statt sich allein auf Gedächtnis oder Intuition zu verlassen.",
+        "why": "Ein protokolliertes Profil kann verglichen, wiederholt und bewusst angepasst werden, während eine nicht protokollierte Röstung im Nachhinein nur ungefähr beschrieben werden kann.",
+        "tip": "Protokolliere jede Produktionsröstung, nicht nur experimentelle, damit eine gut gelungene Charge später tatsächlich reproduziert werden kann.",
+        "mistake": "Röstungen nur bei der Entwicklung eines neuen Profils zu protokollieren und die Protokollierung während der Routineproduktion auszulassen.",
+        "challenge": "Warum könnte eine großartig schmeckende Röstung tatsächlich unwiederholbar sein, wenn sie nie protokolliert wurde?"
+      },
+      "fr": {
+        "title": "Enregistrement du profil de torréfaction",
+        "definition": "L'enregistrement du profil de torréfaction consigne les données de température, de temps et de flux d'air tout au long d'une torréfaction, créant un enregistrement reproductible plutôt que de se fier uniquement à la mémoire ou à l'intuition.",
+        "why": "Un profil enregistré peut être comparé, répété et ajusté délibérément, tandis qu'une torréfaction non enregistrée ne peut être décrite qu'approximativement après coup.",
+        "tip": "Enregistrez chaque torréfaction de production, pas seulement les expérimentales, afin qu'un lot performant puisse réellement être reproduit plus tard.",
+        "mistake": "N'enregistrer les torréfactions que lors du développement d'un nouveau profil et sauter l'enregistrement pendant la production de routine.",
+        "challenge": "Pourquoi une torréfaction au goût excellent pourrait-elle être réellement irreproductible si elle n'a jamais été enregistrée en premier lieu ?"
+      },
+      "it": {
+        "title": "Registrazione del profilo di tostatura",
+        "definition": "La registrazione del profilo di tostatura registra i dati di temperatura, tempo e flusso d'aria durante l'intera tostatura, creando un record riproducibile invece di affidarsi solo alla memoria o all'intuizione.",
+        "why": "Un profilo registrato può essere confrontato, ripetuto e regolato deliberatamente, mentre una tostatura non registrata può essere descritta solo approssimativamente dopo il fatto.",
+        "tip": "Registra ogni tostatura di produzione, non solo quelle sperimentali, così che un lotto ben riuscito possa essere genuinamente riprodotto in seguito.",
+        "mistake": "Registrare le tostature solo quando si sviluppa un nuovo profilo e saltare la registrazione durante la produzione di routine.",
+        "challenge": "Perché una tostatura dal sapore eccellente potrebbe essere genuinamente irripetibile se non è mai stata registrata fin dall'inizio?"
+      }
+    }
+  },
+  {
+    "number": "399",
+    "title": "Degassing After Roasting",
+    "category": "RST",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "399.jpg",
+    "definition": "Freshly roasted coffee releases carbon dioxide for days after roasting, a process that continues after the coffee has cooled and been packaged.",
+    "why": "Roasters need to plan packaging timing around degassing, since sealing coffee too soon can cause bags to swell or burst from trapped gas.",
+    "tip": "Allow coffee to degas briefly before sealing it in packaging without a one-way valve, or use valved packaging to manage ongoing degassing safely.",
+    "mistake": "Sealing freshly roasted coffee immediately in a completely airtight container with no way for gas to escape.",
+    "challenge": "Why does the roasting process itself, rather than anything added afterward, create the need for degassing management?",
+    "related": [
+      "213",
+      "107"
+    ],
+    "translations": {
+      "es": {
+        "title": "Desgasificación tras el tueste",
+        "definition": "El café recién tostado libera dióxido de carbono durante días después del tueste, un proceso que continúa después de que el café se ha enfriado y envasado.",
+        "why": "Los tostadores necesitan planificar el momento del envasado en torno a la desgasificación, ya que sellar el café demasiado pronto puede hacer que las bolsas se hinchen o revienten por el gas atrapado.",
+        "tip": "Permite que el café desgasifique brevemente antes de sellarlo en un envase sin válvula unidireccional, o usa envases con válvula para gestionar la desgasificación en curso de forma segura.",
+        "mistake": "Sellar café recién tostado inmediatamente en un envase completamente hermético sin ninguna forma de que escape el gas.",
+        "challenge": "¿Por qué el propio proceso de tueste, y no algo añadido después, crea la necesidad de gestionar la desgasificación?"
+      },
+      "pt": {
+        "title": "Desgaseificação após a torra",
+        "definition": "O café recém-torrado libera dióxido de carbono por dias após a torra, um processo que continua depois que o café esfriou e foi embalado.",
+        "why": "Os torrefadores precisam planejar o momento do embalamento em torno da desgaseificação, já que selar o café cedo demais pode fazer os sacos incharem ou estourarem devido ao gás preso.",
+        "tip": "Deixe o café desgaseificar brevemente antes de selá-lo em uma embalagem sem válvula unidirecional, ou use embalagens com válvula para gerenciar a desgaseificação contínua com segurança.",
+        "mistake": "Selar café recém-torrado imediatamente em um recipiente completamente hermético sem nenhuma forma de o gás escapar.",
+        "challenge": "Por que o próprio processo de torra, e não algo adicionado depois, cria a necessidade de gerenciamento da desgaseificação?"
+      },
+      "de": {
+        "title": "Entgasung nach der Röstung",
+        "definition": "Frisch gerösteter Kaffee gibt tagelang nach der Röstung Kohlendioxid ab, ein Prozess, der auch nach dem Abkühlen und Verpacken des Kaffees weitergeht.",
+        "why": "Röster müssen den Verpackungszeitpunkt um die Entgasung herum planen, da zu frühes Versiegeln des Kaffees dazu führen kann, dass Beutel durch eingeschlossenes Gas aufquellen oder platzen.",
+        "tip": "Lasse Kaffee kurz entgasen, bevor du ihn ohne Einwegventil verpackst, oder verwende Ventilverpackung, um die laufende Entgasung sicher zu managen.",
+        "mistake": "Frisch gerösteten Kaffee sofort in einem völlig luftdichten Behälter zu versiegeln, ohne Möglichkeit für das Gas zu entweichen.",
+        "challenge": "Warum schafft der Röstprozess selbst, statt etwas später Hinzugefügtes, die Notwendigkeit für Entgasungsmanagement?"
+      },
+      "fr": {
+        "title": "Dégazage après torréfaction",
+        "definition": "Le café fraîchement torréfié libère du dioxyde de carbone pendant des jours après la torréfaction, un processus qui se poursuit après que le café ait refroidi et soit emballé.",
+        "why": "Les torréfacteurs doivent planifier le moment de l'emballage autour du dégazage, car sceller le café trop tôt peut faire gonfler ou éclater les sacs à cause du gaz piégé.",
+        "tip": "Laissez le café dégazer brièvement avant de le sceller dans un emballage sans valve unidirectionnelle, ou utilisez un emballage à valve pour gérer le dégazage continu en toute sécurité.",
+        "mistake": "Sceller le café fraîchement torréfié immédiatement dans un récipient complètement hermétique sans aucun moyen pour le gaz de s'échapper.",
+        "challenge": "Pourquoi le processus de torréfaction lui-même, plutôt que quelque chose ajouté après, crée-t-il le besoin de gérer le dégazage ?"
+      },
+      "it": {
+        "title": "Degasaggio dopo la tostatura",
+        "definition": "Il caffè appena tostato rilascia anidride carbonica per giorni dopo la tostatura, un processo che continua dopo che il caffè si è raffreddato ed è stato imballato.",
+        "why": "I torrefattori devono pianificare la tempistica dell'imballaggio attorno al degasaggio, poiché sigillare il caffè troppo presto può far gonfiare o scoppiare i sacchetti a causa del gas intrappolato.",
+        "tip": "Lascia degasare brevemente il caffè prima di sigillarlo in un imballaggio senza valvola unidirezionale, o usa un imballaggio con valvola per gestire in sicurezza il degasaggio continuo.",
+        "mistake": "Sigillare il caffè appena tostato immediatamente in un contenitore completamente ermetico senza alcun modo per il gas di fuoriuscire.",
+        "challenge": "Perché il processo di tostatura stesso, piuttosto che qualcosa aggiunto dopo, crea la necessità di gestire il degasaggio?"
+      }
+    }
+  },
+  {
+    "number": "400",
+    "title": "Blending Before or After Roasting",
+    "category": "RST",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "400.jpg",
+    "definition": "Blends can be created by roasting different coffees together as one batch, or by roasting each component separately and combining them after roasting.",
+    "why": "Different beans often roast best at different rates, so combining them post-roast allows each to be optimally developed rather than compromising on one shared profile.",
+    "tip": "Roast components separately when they have very different densities or moisture levels, then blend afterward to combine the best of each.",
+    "mistake": "Roasting very different beans together as one batch and expecting each to develop equally well.",
+    "challenge": "Why might roasting two very different coffees together as a single batch actually undermine the quality of both?",
+    "related": [
+      "096",
+      "110"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mezcla antes o después del tueste",
+        "definition": "Las mezclas pueden crearse tostando distintos cafés juntos como un solo lote, o tostando cada componente por separado y combinándolos después del tueste.",
+        "why": "Distintos granos suelen tostar mejor a ritmos diferentes, así que combinarlos después del tueste permite que cada uno se desarrolle de forma óptima en lugar de comprometer un único perfil compartido.",
+        "tip": "Tuesta los componentes por separado cuando tengan densidades o niveles de humedad muy distintos, y luego mézclalos después para combinar lo mejor de cada uno.",
+        "mistake": "Tostar granos muy distintos juntos como un solo lote esperando que cada uno se desarrolle igual de bien.",
+        "challenge": "¿Por qué tostar dos cafés muy distintos juntos como un solo lote podría en realidad perjudicar la calidad de ambos?"
+      },
+      "pt": {
+        "title": "Mistura antes ou depois da torra",
+        "definition": "Os blends podem ser criados torrando cafés diferentes juntos como um único lote, ou torrando cada componente separadamente e combinando-os após a torra.",
+        "why": "Grãos diferentes costumam torrar melhor em ritmos diferentes, então combiná-los após a torra permite que cada um se desenvolva de forma ideal em vez de comprometer um único perfil compartilhado.",
+        "tip": "Torre os componentes separadamente quando tiverem densidades ou níveis de umidade muito diferentes, e depois misture-os para combinar o melhor de cada um.",
+        "mistake": "Torrar grãos muito diferentes juntos como um único lote esperando que cada um se desenvolva igualmente bem.",
+        "challenge": "Por que torrar dois cafés muito diferentes juntos como um único lote pode na verdade prejudicar a qualidade de ambos?"
+      },
+      "de": {
+        "title": "Mischen vor oder nach dem Rösten",
+        "definition": "Blends können entweder durch gemeinsames Rösten verschiedener Kaffees als eine Charge oder durch getrenntes Rösten jeder Komponente und Kombinieren nach der Röstung erstellt werden.",
+        "why": "Verschiedene Bohnen rösten oft am besten bei unterschiedlichen Raten, sodass das Kombinieren nach der Röstung jeder erlaubt, optimal entwickelt zu werden, statt bei einem gemeinsamen Profil Kompromisse einzugehen.",
+        "tip": "Röste Komponenten getrennt, wenn sie sehr unterschiedliche Dichten oder Feuchtigkeitswerte haben, und mische sie danach, um das Beste aus jeder zu kombinieren.",
+        "mistake": "Sehr unterschiedliche Bohnen zusammen als eine Charge zu rösten und zu erwarten, dass sich jede gleich gut entwickelt.",
+        "challenge": "Warum könnte das gemeinsame Rösten zweier sehr unterschiedlicher Kaffees als eine Charge tatsächlich die Qualität beider untergraben?"
+      },
+      "fr": {
+        "title": "Mélanger avant ou après la torréfaction",
+        "definition": "Les mélanges peuvent être créés en torréfiant différents cafés ensemble comme un seul lot, ou en torréfiant chaque composant séparément et en les combinant après la torréfaction.",
+        "why": "Différents grains torréfient souvent mieux à des rythmes différents, donc les combiner après la torréfaction permet à chacun d'être développé de façon optimale plutôt que de faire un compromis sur un profil partagé.",
+        "tip": "Torréfiez les composants séparément quand ils ont des densités ou des niveaux d'humidité très différents, puis mélangez-les ensuite pour combiner le meilleur de chacun.",
+        "mistake": "Torréfier des grains très différents ensemble comme un seul lot en s'attendant à ce que chacun se développe aussi bien.",
+        "challenge": "Pourquoi torréfier deux cafés très différents ensemble comme un seul lot pourrait-il en réalité nuire à la qualité des deux ?"
+      },
+      "it": {
+        "title": "Miscelare prima o dopo la tostatura",
+        "definition": "I blend possono essere creati tostando insieme caffè diversi come un unico lotto, o tostando ogni componente separatamente e combinandoli dopo la tostatura.",
+        "why": "Chicchi diversi spesso tostano meglio a ritmi diversi, quindi combinarli dopo la tostatura permette a ciascuno di svilupparsi in modo ottimale invece di scendere a compromessi su un unico profilo condiviso.",
+        "tip": "Tosta i componenti separatamente quando hanno densità o livelli di umidità molto diversi, poi mescolali dopo per combinare il meglio di ciascuno.",
+        "mistake": "Tostare chicchi molto diversi insieme come un unico lotto aspettandosi che ciascuno si sviluppi ugualmente bene.",
+        "challenge": "Perché tostare insieme due caffè molto diversi come un unico lotto potrebbe in realtà compromettere la qualità di entrambi?"
+      }
+    }
   }
 ]

@@ -900,5 +900,300 @@
         "challenge": "Costruisci una ricetta per una dose da 18g."
       }
     }
+  },
+  {
+    "number": "391",
+    "title": "Crema",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "391.jpg",
+    "definition": "Crema is the reddish-brown foam layer on top of a fresh espresso shot, formed from emulsified oils and CO2 released during extraction under pressure.",
+    "why": "Crema is a useful freshness indicator, since it forms more readily on recently roasted, properly rested coffee than on stale beans.",
+    "tip": "Judge crema by its color and texture rather than sheer volume, since a thick crema alone doesn't guarantee good extraction.",
+    "mistake": "Judging shot quality by crema volume alone without tasting the espresso underneath it.",
+    "challenge": "Why might a visually impressive crema still sit on top of a poorly extracted shot?",
+    "related": [
+      "001",
+      "005"
+    ],
+    "translations": {
+      "es": {
+        "title": "Crema",
+        "definition": "La crema es la capa de espuma marrón rojiza sobre un shot de espresso fresco, formada por aceites emulsionados y CO2 liberado durante la extracción bajo presión.",
+        "why": "La crema es un indicador útil de frescura, ya que se forma más fácilmente en café recién tostado y bien reposado que en granos rancios.",
+        "tip": "Juzga la crema por su color y textura en lugar de por el volumen puro, ya que una crema espesa por sí sola no garantiza una buena extracción.",
+        "mistake": "Juzgar la calidad de un shot solo por el volumen de crema sin probar el espresso debajo de ella.",
+        "challenge": "¿Por qué una crema visualmente impresionante podría seguir estando sobre un shot mal extraído?"
+      },
+      "pt": {
+        "title": "Crema",
+        "definition": "A crema é a camada de espuma marrom-avermelhada sobre um shot de espresso fresco, formada por óleos emulsionados e CO2 liberado durante a extração sob pressão.",
+        "why": "A crema é um indicador útil de frescor, já que se forma mais facilmente em café recém-torrado e bem descansado do que em grãos velhos.",
+        "tip": "Julgue a crema pela cor e textura em vez do volume puro, já que uma crema espessa sozinha não garante uma boa extração.",
+        "mistake": "Julgar a qualidade de um shot apenas pelo volume da crema sem provar o espresso abaixo dela.",
+        "challenge": "Por que uma crema visualmente impressionante ainda pode estar sobre um shot mal extraído?"
+      },
+      "de": {
+        "title": "Crema",
+        "definition": "Crema ist die rotbraune Schaumschicht oben auf einem frischen Espresso-Shot, die aus emulgierten Ölen und während der Extraktion unter Druck freigesetztem CO2 entsteht.",
+        "why": "Crema ist ein nützlicher Frischeindikator, da sie sich bei kürzlich geröstetem, richtig geruhtem Kaffee leichter bildet als bei abgestandenen Bohnen.",
+        "tip": "Beurteile Crema nach Farbe und Textur statt nach reinem Volumen, da eine dicke Crema allein keine gute Extraktion garantiert.",
+        "mistake": "Die Shot-Qualität allein am Crema-Volumen zu beurteilen, ohne den darunter liegenden Espresso zu probieren.",
+        "challenge": "Warum könnte eine optisch beeindruckende Crema trotzdem auf einem schlecht extrahierten Shot liegen?"
+      },
+      "fr": {
+        "title": "Crema",
+        "definition": "La crema est la couche de mousse brun-rougeâtre au-dessus d'un shot d'espresso frais, formée d'huiles émulsionnées et de CO2 libéré pendant l'extraction sous pression.",
+        "why": "La crema est un indicateur de fraîcheur utile, car elle se forme plus facilement sur du café récemment torréfié et bien reposé que sur des grains rassis.",
+        "tip": "Jugez la crema sur sa couleur et sa texture plutôt que sur le seul volume, car une crema épaisse seule ne garantit pas une bonne extraction.",
+        "mistake": "Juger la qualité d'un shot uniquement sur le volume de crema sans goûter l'espresso en dessous.",
+        "challenge": "Pourquoi une crema visuellement impressionnante pourrait-elle quand même reposer sur un shot mal extrait ?"
+      },
+      "it": {
+        "title": "Crema",
+        "definition": "La crema è lo strato di schiuma bruno-rossastra sopra uno shot di espresso fresco, formata da oli emulsionati e CO2 rilasciata durante l'estrazione sotto pressione.",
+        "why": "La crema è un utile indicatore di freschezza, poiché si forma più facilmente su caffè tostato di recente e riposato correttamente rispetto a chicchi stantii.",
+        "tip": "Giudica la crema per colore e texture piuttosto che per il puro volume, poiché una crema spessa da sola non garantisce una buona estrazione.",
+        "mistake": "Giudicare la qualità di uno shot solo dal volume della crema senza assaggiare l'espresso sottostante.",
+        "challenge": "Perché una crema visivamente impressionante potrebbe comunque trovarsi sopra uno shot mal estratto?"
+      }
+    }
+  },
+  {
+    "number": "392",
+    "title": "Puck Preparation (WDT)",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "392.jpg",
+    "definition": "The Weiss Distribution Technique (WDT) uses a thin tool to stir grounds before tamping, breaking up clumps that can cause uneven water flow during extraction.",
+    "why": "Clumped grounds create preferential water paths that lead to channeling, regardless of how carefully the shot is dosed and tamped afterward.",
+    "tip": "Stir grounds gently in a circular and up-down motion until they look uniformly loose before leveling and tamping.",
+    "mistake": "Tamping firmly over clumped, unevenly distributed grounds and expecting the pressure alone to fix the distribution problem.",
+    "challenge": "Why can't tamping pressure alone fix a distribution problem that already exists in the grounds?",
+    "related": [
+      "009",
+      "008"
+    ],
+    "translations": {
+      "es": {
+        "title": "Preparación del puck (WDT)",
+        "definition": "La técnica de distribución Weiss (WDT) usa una herramienta fina para remover el café molido antes de tampar, rompiendo grumos que pueden causar un flujo de agua desigual durante la extracción.",
+        "why": "Los grumos crean caminos preferenciales de agua que llevan a la canalización, sin importar cuán cuidadosamente se dosifique y tampe el shot después.",
+        "tip": "Remueve el café molido suavemente con un movimiento circular y de arriba abajo hasta que se vea uniformemente suelto antes de nivelar y tampar.",
+        "mistake": "Tampar con firmeza sobre café molido apelmazado y mal distribuido esperando que solo la presión arregle el problema de distribución.",
+        "challenge": "¿Por qué la presión del tampado por sí sola no puede arreglar un problema de distribución que ya existe en el molido?"
+      },
+      "pt": {
+        "title": "Preparação do puck (WDT)",
+        "definition": "A Técnica de Distribuição Weiss (WDT) usa uma ferramenta fina para mexer o pó de café antes de apisoar, quebrando grumos que podem causar fluxo de água desigual durante a extração.",
+        "why": "Grumos criam caminhos preferenciais de água que levam à canalização, não importa quão cuidadosamente o shot seja dosado e apisoado depois.",
+        "tip": "Mexa o pó de café suavemente em movimento circular e de cima para baixo até parecer uniformemente solto antes de nivelar e apisoar.",
+        "mistake": "Apisoar com firmeza sobre pó de café empelotado e mal distribuído esperando que só a pressão resolva o problema de distribuição.",
+        "challenge": "Por que a pressão de apisoamento sozinha não pode resolver um problema de distribuição que já existe no pó?"
+      },
+      "de": {
+        "title": "Puck-Vorbereitung (WDT)",
+        "definition": "Die Weiss Distribution Technique (WDT) verwendet ein dünnes Werkzeug, um das Kaffeemehl vor dem Tampern umzurühren und Klumpen aufzubrechen, die während der Extraktion ungleichmäßigen Wasserfluss verursachen können.",
+        "why": "Verklumptes Kaffeemehl erzeugt bevorzugte Wasserwege, die zu Kanalbildung führen, unabhängig davon, wie sorgfältig der Shot danach dosiert und getampert wird.",
+        "tip": "Rühre das Kaffeemehl sanft in kreisender und Auf-und-ab-Bewegung, bis es gleichmäßig locker aussieht, bevor du glättest und tamperst.",
+        "mistake": "Fest über verklumptes, ungleichmäßig verteiltes Kaffeemehl zu tampern und zu erwarten, allein der Druck löse das Verteilungsproblem.",
+        "challenge": "Warum kann Tamperdruck allein kein Verteilungsproblem lösen, das bereits im Kaffeemehl besteht?"
+      },
+      "fr": {
+        "title": "Préparation de la galette (WDT)",
+        "definition": "La technique de distribution Weiss (WDT) utilise un outil fin pour remuer la mouture avant de tasser, brisant les grumeaux qui peuvent causer un flux d'eau inégal pendant l'extraction.",
+        "why": "Les grumeaux créent des chemins d'eau préférentiels menant au canaling, quelle que soit la minutie avec laquelle le shot est ensuite dosé et tassé.",
+        "tip": "Remuez la mouture doucement en mouvement circulaire et de haut en bas jusqu'à ce qu'elle paraisse uniformément aérée avant de niveler et tasser.",
+        "mistake": "Tasser fermement sur une mouture grumeleuse et mal distribuée en s'attendant à ce que la seule pression résolve le problème de distribution.",
+        "challenge": "Pourquoi la pression de tassage seule ne peut-elle pas résoudre un problème de distribution déjà présent dans la mouture ?"
+      },
+      "it": {
+        "title": "Preparazione del panetto (WDT)",
+        "definition": "La tecnica di distribuzione Weiss (WDT) usa uno strumento sottile per mescolare il macinato prima di pressare, rompendo i grumi che possono causare un flusso d'acqua irregolare durante l'estrazione.",
+        "why": "I grumi creano percorsi preferenziali dell'acqua che portano al channeling, indipendentemente da quanto attentamente lo shot venga poi dosato e pressato.",
+        "tip": "Mescola il macinato delicatamente con un movimento circolare e su e giù finché non appare uniformemente sciolto prima di livellare e pressare.",
+        "mistake": "Pressare con forza su macinato agglomerato e distribuito in modo irregolare aspettandosi che solo la pressione risolva il problema di distribuzione.",
+        "challenge": "Perché la sola pressione di pressatura non può risolvere un problema di distribuzione già esistente nel macinato?"
+      }
+    }
+  },
+  {
+    "number": "393",
+    "title": "Basket Types",
+    "category": "ESP",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "393.jpg",
+    "definition": "Espresso baskets come in ridged and ridgeless designs, with hole patterns and precision varying significantly between standard and high-quality aftermarket options.",
+    "why": "Basket geometry directly affects water distribution and can either support or undermine an otherwise well-executed dose and tamp.",
+    "tip": "Match basket size precisely to your typical dose, since an oversized or undersized basket for the dose used changes puck depth and flow.",
+    "mistake": "Assuming all baskets of the same nominal size perform identically regardless of manufacturer or precision.",
+    "challenge": "Why might switching to a higher-precision aftermarket basket improve shot consistency without changing anything else in the recipe?",
+    "related": [
+      "038",
+      "009"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tipos de canasta",
+        "definition": "Las canastas de espresso vienen en diseños con o sin nervaduras, con patrones de orificios y precisión que varían significativamente entre opciones estándar y de posventa de alta calidad.",
+        "why": "La geometría de la canasta afecta directamente la distribución del agua y puede apoyar o socavar una dosis y tampado por lo demás bien ejecutados.",
+        "tip": "Combina el tamaño de la canasta con precisión a tu dosis típica, ya que una canasta demasiado grande o pequeña para la dosis usada cambia la profundidad y el flujo del puck.",
+        "mistake": "Suponer que todas las canastas del mismo tamaño nominal funcionan de forma idéntica sin importar el fabricante o la precisión.",
+        "challenge": "¿Por qué cambiar a una canasta de posventa de mayor precisión podría mejorar la consistencia del shot sin cambiar nada más en la receta?"
+      },
+      "pt": {
+        "title": "Tipos de cesto",
+        "definition": "Os cestos de espresso vêm em designs com ou sem nervuras, com padrões de furos e precisão que variam significativamente entre opções padrão e de reposição de alta qualidade.",
+        "why": "A geometria do cesto afeta diretamente a distribuição da água e pode apoiar ou minar uma dose e apisoamento por outro lado bem executados.",
+        "tip": "Combine o tamanho do cesto com precisão à sua dose típica, já que um cesto grande ou pequeno demais para a dose usada muda a profundidade e o fluxo do puck.",
+        "mistake": "Supor que todos os cestos do mesmo tamanho nominal têm desempenho idêntico independentemente do fabricante ou da precisão.",
+        "challenge": "Por que mudar para um cesto de reposição de maior precisão pode melhorar a consistência do shot sem mudar mais nada na receita?"
+      },
+      "de": {
+        "title": "Siebeinsatztypen",
+        "definition": "Espresso-Siebeinsätze gibt es in gerippten und ungerippten Designs, mit Lochmustern und Präzision, die zwischen Standard- und hochwertigen Nachrüstoptionen erheblich variieren.",
+        "why": "Die Siebgeometrie beeinflusst direkt die Wasserverteilung und kann eine ansonsten gut ausgeführte Dosis und Tampung unterstützen oder untergraben.",
+        "tip": "Passe die Siebgröße präzise an deine typische Dosis an, da ein für die verwendete Dosis zu großer oder kleiner Siebeinsatz Puck-Tiefe und Fluss verändert.",
+        "mistake": "Anzunehmen, alle Siebeinsätze derselben Nenngröße würden unabhängig von Hersteller oder Präzision identisch funktionieren.",
+        "challenge": "Warum könnte der Wechsel zu einem präziseren Nachrüst-Siebeinsatz die Shot-Konsistenz verbessern, ohne sonst etwas am Rezept zu ändern?"
+      },
+      "fr": {
+        "title": "Types de paniers",
+        "definition": "Les paniers d'espresso existent en designs nervurés et sans nervures, avec des motifs de trous et une précision variant significativement entre les options standard et les options du marché secondaire haut de gamme.",
+        "why": "La géométrie du panier affecte directement la distribution de l'eau et peut soutenir ou saper une dose et un tassage par ailleurs bien exécutés.",
+        "tip": "Adaptez précisément la taille du panier à votre dose habituelle, car un panier trop grand ou trop petit pour la dose utilisée change la profondeur et le flux de la galette.",
+        "mistake": "Supposer que tous les paniers de même taille nominale se comportent de façon identique quel que soit le fabricant ou la précision.",
+        "challenge": "Pourquoi passer à un panier du marché secondaire de plus grande précision pourrait-il améliorer la constance des shots sans rien changer d'autre à la recette ?"
+      },
+      "it": {
+        "title": "Tipi di filtro",
+        "definition": "I filtri per espresso esistono in design rigati e non rigati, con schemi di fori e precisione che variano significativamente tra opzioni standard e aftermarket di alta qualità.",
+        "why": "La geometria del filtro influisce direttamente sulla distribuzione dell'acqua e può sostenere o compromettere una dose e pressatura altrimenti ben eseguite.",
+        "tip": "Abbina la dimensione del filtro con precisione alla tua dose tipica, poiché un filtro troppo grande o piccolo per la dose usata cambia profondità e flusso del panetto.",
+        "mistake": "Supporre che tutti i filtri della stessa dimensione nominale si comportino in modo identico indipendentemente dal produttore o dalla precisione.",
+        "challenge": "Perché passare a un filtro aftermarket di maggiore precisione potrebbe migliorare la coerenza dello shot senza cambiare nient'altro nella ricetta?"
+      }
+    }
+  },
+  {
+    "number": "394",
+    "title": "Naked Portafilter",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "394.jpg",
+    "definition": "A naked (bottomless) portafilter removes the spouts, exposing the extraction directly beneath the basket for full visibility of flow and any channeling.",
+    "why": "It's one of the most useful diagnostic tools for spotting distribution and channeling problems that a spouted portafilter would otherwise hide.",
+    "tip": "Use a naked portafilter specifically for troubleshooting distribution technique, not necessarily as a daily service tool.",
+    "mistake": "Assuming a naked portafilter is purely a stylistic choice rather than a genuine diagnostic tool.",
+    "challenge": "Why might a channeling problem be invisible with a standard spouted portafilter but obvious with a naked one?",
+    "related": [
+      "008",
+      "009"
+    ],
+    "translations": {
+      "es": {
+        "title": "Portafiltro sin picos",
+        "definition": "Un portafiltro sin picos (bottomless) elimina los picos, exponiendo la extracción directamente bajo la canasta para total visibilidad del flujo y cualquier canalización.",
+        "why": "Es una de las herramientas de diagnóstico más útiles para detectar problemas de distribución y canalización que un portafiltro con picos ocultaría.",
+        "tip": "Usa un portafiltro sin picos específicamente para solucionar problemas de técnica de distribución, no necesariamente como herramienta diaria de servicio.",
+        "mistake": "Suponer que un portafiltro sin picos es puramente una elección estilística en lugar de una herramienta de diagnóstico genuina.",
+        "challenge": "¿Por qué un problema de canalización podría ser invisible con un portafiltro estándar con picos pero evidente con uno sin picos?"
+      },
+      "pt": {
+        "title": "Portafiltro sem bico",
+        "definition": "Um portafiltro sem bico (bottomless) remove os bicos, expondo a extração diretamente sob o cesto para visibilidade total do fluxo e de qualquer canalização.",
+        "why": "É uma das ferramentas de diagnóstico mais úteis para detectar problemas de distribuição e canalização que um portafiltro com bico esconderia.",
+        "tip": "Use um portafiltro sem bico especificamente para solucionar problemas de técnica de distribuição, não necessariamente como ferramenta diária de serviço.",
+        "mistake": "Supor que um portafiltro sem bico é puramente uma escolha estilística em vez de uma ferramenta de diagnóstico genuína.",
+        "challenge": "Por que um problema de canalização pode ser invisível com um portafiltro padrão com bico mas óbvio com um sem bico?"
+      },
+      "de": {
+        "title": "Bodenloser Siebträger",
+        "definition": "Ein bodenloser (nackter) Siebträger entfernt die Ausläufe und legt die Extraktion direkt unter dem Siebeinsatz für volle Sichtbarkeit von Fluss und Kanalbildung frei.",
+        "why": "Er ist eines der nützlichsten Diagnosewerkzeuge, um Verteilungs- und Kanalbildungsprobleme zu erkennen, die ein Siebträger mit Ausläufen sonst verbergen würde.",
+        "tip": "Verwende einen bodenlosen Siebträger gezielt zur Fehlersuche bei der Verteilungstechnik, nicht unbedingt als tägliches Servicewerkzeug.",
+        "mistake": "Anzunehmen, ein bodenloser Siebträger sei rein eine stilistische Wahl statt ein echtes Diagnosewerkzeug.",
+        "challenge": "Warum könnte ein Kanalbildungsproblem mit einem Standard-Siebträger mit Ausläufen unsichtbar, mit einem bodenlosen aber offensichtlich sein?"
+      },
+      "fr": {
+        "title": "Porte-filtre nu",
+        "definition": "Un porte-filtre nu (sans fond) retire les becs, exposant l'extraction directement sous le panier pour une visibilité totale du flux et de tout canaling.",
+        "why": "C'est l'un des outils de diagnostic les plus utiles pour repérer les problèmes de distribution et de canaling qu'un porte-filtre à becs cacherait autrement.",
+        "tip": "Utilisez un porte-filtre nu spécifiquement pour dépanner la technique de distribution, pas nécessairement comme outil quotidien de service.",
+        "mistake": "Supposer qu'un porte-filtre nu est purement un choix stylistique plutôt qu'un véritable outil de diagnostic.",
+        "challenge": "Pourquoi un problème de canaling pourrait-il être invisible avec un porte-filtre standard à becs mais évident avec un porte-filtre nu ?"
+      },
+      "it": {
+        "title": "Portafiltro senza beccucci",
+        "definition": "Un portafiltro senza beccucci (bottomless) rimuove i beccucci, esponendo l'estrazione direttamente sotto il filtro per piena visibilità del flusso e di eventuale channeling.",
+        "why": "È uno degli strumenti diagnostici più utili per individuare problemi di distribuzione e channeling che un portafiltro con beccucci altrimenti nasconderebbe.",
+        "tip": "Usa un portafiltro senza beccucci specificamente per risolvere problemi di tecnica di distribuzione, non necessariamente come strumento di servizio quotidiano.",
+        "mistake": "Supporre che un portafiltro senza beccucci sia puramente una scelta stilistica invece di un vero strumento diagnostico.",
+        "challenge": "Perché un problema di channeling potrebbe essere invisibile con un portafiltro standard con beccucci ma evidente con uno senza?"
+      }
+    }
+  },
+  {
+    "number": "395",
+    "title": "Ristretto & Lungo",
+    "category": "ESP",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "395.jpg",
+    "definition": "Ristretto uses a shorter, more restricted yield than standard espresso, while lungo uses a longer yield, both from the same dose and grind starting point.",
+    "why": "Understanding these as ratio variations rather than separate drinks clarifies how they relate to a standard espresso recipe.",
+    "tip": "Adjust grind slightly finer for ristretto and slightly coarser for lungo, rather than using the exact same grind setting for all three.",
+    "mistake": "Simply stopping a standard espresso shot early to make a ristretto without any other recipe adjustment.",
+    "challenge": "Why might a ristretto made by only shortening a standard shot taste unbalanced compared to one dialled in specifically?",
+    "related": [
+      "004",
+      "014"
+    ],
+    "translations": {
+      "es": {
+        "title": "Ristretto y lungo",
+        "definition": "El ristretto usa un rendimiento más corto y restringido que el espresso estándar, mientras que el lungo usa un rendimiento más largo, ambos desde el mismo punto de partida de dosis y molido.",
+        "why": "Entenderlos como variaciones de proporción en lugar de bebidas separadas aclara cómo se relacionan con una receta de espresso estándar.",
+        "tip": "Ajusta el molido ligeramente más fino para el ristretto y ligeramente más grueso para el lungo, en lugar de usar exactamente el mismo ajuste de molido para los tres.",
+        "mistake": "Simplemente detener un shot de espresso estándar antes de tiempo para hacer un ristretto sin ningún otro ajuste de receta.",
+        "challenge": "¿Por qué un ristretto hecho solo acortando un shot estándar podría saber desequilibrado en comparación con uno ajustado específicamente?"
+      },
+      "pt": {
+        "title": "Ristretto e lungo",
+        "definition": "O ristretto usa um rendimento mais curto e restrito que o espresso padrão, enquanto o lungo usa um rendimento mais longo, ambos partindo da mesma dose e ajuste de moagem.",
+        "why": "Entendê-los como variações de proporção em vez de bebidas separadas esclarece como se relacionam com uma receita de espresso padrão.",
+        "tip": "Ajuste a moagem ligeiramente mais fina para o ristretto e ligeiramente mais grossa para o lungo, em vez de usar exatamente o mesmo ajuste de moagem para os três.",
+        "mistake": "Simplesmente parar um shot de espresso padrão mais cedo para fazer um ristretto sem nenhum outro ajuste de receita.",
+        "challenge": "Por que um ristretto feito apenas encurtando um shot padrão pode ter gosto desequilibrado comparado a um ajustado especificamente?"
+      },
+      "de": {
+        "title": "Ristretto und Lungo",
+        "definition": "Ristretto verwendet eine kürzere, eingeschränktere Ausbeute als Standard-Espresso, während Lungo eine längere Ausbeute verwendet, beide vom selben Dosis- und Mahlgrad-Ausgangspunkt.",
+        "why": "Sie als Verhältnisvariationen statt als separate Getränke zu verstehen, verdeutlicht, wie sie sich zu einem Standard-Espressorezept verhalten.",
+        "tip": "Stelle den Mahlgrad für Ristretto etwas feiner und für Lungo etwas gröber ein, statt für alle drei genau dieselbe Mahlgradeinstellung zu verwenden.",
+        "mistake": "Einfach einen Standard-Espresso-Shot vorzeitig zu stoppen, um einen Ristretto zu machen, ohne sonstige Rezeptanpassung.",
+        "challenge": "Warum könnte ein nur durch Verkürzen eines Standard-Shots hergestellter Ristretto unausgewogen schmecken im Vergleich zu einem speziell eingestellten?"
+      },
+      "fr": {
+        "title": "Ristretto et lungo",
+        "definition": "Le ristretto utilise un rendement plus court et plus restreint que l'espresso standard, tandis que le lungo utilise un rendement plus long, tous deux à partir du même point de départ de dose et de mouture.",
+        "why": "Les comprendre comme des variations de ratio plutôt que des boissons distinctes clarifie leur relation avec une recette d'espresso standard.",
+        "tip": "Ajustez la mouture légèrement plus fine pour le ristretto et légèrement plus grossière pour le lungo, plutôt que d'utiliser exactement le même réglage de mouture pour les trois.",
+        "mistake": "Simplement arrêter un shot d'espresso standard plus tôt pour faire un ristretto sans aucun autre ajustement de recette.",
+        "challenge": "Pourquoi un ristretto fait en raccourcissant simplement un shot standard pourrait-il avoir un goût déséquilibré comparé à un réglage spécifique ?"
+      },
+      "it": {
+        "title": "Ristretto e lungo",
+        "definition": "Il ristretto usa una resa più corta e ristretta rispetto all'espresso standard, mentre il lungo usa una resa più lunga, entrambi dallo stesso punto di partenza di dose e macinatura.",
+        "why": "Comprenderli come variazioni di rapporto invece che bevande separate chiarisce come si relazionano a una ricetta di espresso standard.",
+        "tip": "Regola la macinatura leggermente più fine per il ristretto e leggermente più grossa per il lungo, invece di usare esattamente la stessa impostazione di macinatura per tutti e tre.",
+        "mistake": "Fermare semplicemente uno shot di espresso standard prima del tempo per fare un ristretto senza alcun altro adattamento della ricetta.",
+        "challenge": "Perché un ristretto fatto solo accorciando uno shot standard potrebbe avere un sapore sbilanciato rispetto a uno regolato specificamente?"
+      }
+    }
   }
 ]

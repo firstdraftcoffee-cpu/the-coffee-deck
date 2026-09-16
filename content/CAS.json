@@ -942,5 +942,241 @@
         "challenge": "Perché un reddito extra da un sottoprodotto potrebbe contare più per un agricoltore che per un acquirente?"
       }
     }
+  },
+  {
+    "number": "371",
+    "title": "Cascara Nutrition & Caffeine Content",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "371.jpg",
+    "definition": "Cascara contains caffeine, antioxidants, and natural sugars, though at levels that vary widely by origin and processing rather than a single fixed value.",
+    "why": "Customers sometimes assume cascara is caffeine-free simply because it isn't coffee, which can be a genuine problem for anyone limiting caffeine intake.",
+    "tip": "Communicate that cascara contains some caffeine rather than letting customers assume it's automatically caffeine-free.",
+    "mistake": "Marketing cascara as a caffeine-free coffee alternative without checking its actual caffeine content.",
+    "challenge": "Why might a product made from the coffee plant still surprise people by containing caffeine at all?",
+    "related": [
+      "263",
+      "308"
+    ],
+    "translations": {
+      "es": {
+        "title": "Nutrición y contenido de cafeína de la cascara",
+        "definition": "La cascara contiene cafeína, antioxidantes y azúcares naturales, aunque en niveles que varían ampliamente según el origen y el procesamiento en lugar de un valor único fijo.",
+        "why": "A veces los clientes suponen que la cascara no tiene cafeína solo porque no es café, lo cual puede ser un problema real para quien limita su consumo de cafeína.",
+        "tip": "Comunica que la cascara contiene algo de cafeína en lugar de dejar que los clientes supongan que está automáticamente libre de ella.",
+        "mistake": "Comercializar la cascara como una alternativa de café sin cafeína sin verificar su contenido real de cafeína.",
+        "challenge": "¿Por qué un producto hecho de la planta de café podría sorprender a la gente al contener cafeína en absoluto?"
+      },
+      "pt": {
+        "title": "Nutrição e teor de cafeína da cascara",
+        "definition": "A cascara contém cafeína, antioxidantes e açúcares naturais, embora em níveis que variam amplamente por origem e processamento em vez de um único valor fixo.",
+        "why": "Às vezes os clientes supõem que a cascara não tem cafeína só porque não é café, o que pode ser um problema real para quem limita o consumo de cafeína.",
+        "tip": "Comunique que a cascara contém alguma cafeína em vez de deixar os clientes supor que é automaticamente livre dela.",
+        "mistake": "Divulgar a cascara como uma alternativa de café sem cafeína sem verificar seu teor real de cafeína.",
+        "challenge": "Por que um produto feito da planta do café pode surpreender as pessoas ao conter cafeína?"
+      },
+      "de": {
+        "title": "Cascara-Nährwert und Koffeingehalt",
+        "definition": "Cascara enthält Koffein, Antioxidantien und natürliche Zucker, allerdings in stark variierenden Mengen je nach Ursprung und Aufbereitung statt eines einzigen festen Werts.",
+        "why": "Kunden nehmen manchmal an, Cascara sei koffeinfrei, nur weil sie kein Kaffee ist, was für jemanden mit Koffeinbeschränkung ein echtes Problem sein kann.",
+        "tip": "Kommuniziere, dass Cascara etwas Koffein enthält, statt Kunden annehmen zu lassen, sie sei automatisch koffeinfrei.",
+        "mistake": "Cascara als koffeinfreie Kaffeealternative zu vermarkten, ohne ihren tatsächlichen Koffeingehalt zu prüfen.",
+        "challenge": "Warum könnte ein aus der Kaffeepflanze hergestelltes Produkt Menschen überraschen, indem es überhaupt Koffein enthält?"
+      },
+      "fr": {
+        "title": "Nutrition et teneur en caféine de la cascara",
+        "definition": "La cascara contient de la caféine, des antioxydants et des sucres naturels, mais à des niveaux qui varient largement selon l'origine et le traitement plutôt qu'une valeur unique fixe.",
+        "why": "Les clients supposent parfois que la cascara est sans caféine simplement parce que ce n'est pas du café, ce qui peut être un vrai problème pour quiconque limite sa consommation de caféine.",
+        "tip": "Communiquez que la cascara contient de la caféine plutôt que de laisser les clients supposer qu'elle en est automatiquement dépourvue.",
+        "mistake": "Commercialiser la cascara comme une alternative au café sans caféine sans vérifier sa teneur réelle en caféine.",
+        "challenge": "Pourquoi un produit fabriqué à partir de la plante de café pourrait-il surprendre les gens en contenant de la caféine ?"
+      },
+      "it": {
+        "title": "Nutrizione e contenuto di caffeina della cascara",
+        "definition": "La cascara contiene caffeina, antiossidanti e zuccheri naturali, sebbene a livelli che variano ampiamente per origine e lavorazione invece di un unico valore fisso.",
+        "why": "A volte i clienti suppongono che la cascara sia priva di caffeina solo perché non è caffè, il che può essere un vero problema per chi limita l'assunzione di caffeina.",
+        "tip": "Comunica che la cascara contiene un po' di caffeina invece di lasciare che i clienti suppongano che ne sia automaticamente priva.",
+        "mistake": "Commercializzare la cascara come alternativa al caffè priva di caffeina senza verificarne il contenuto effettivo.",
+        "challenge": "Perché un prodotto fatto dalla pianta del caffè potrebbe sorprendere le persone contenendo caffeina?"
+      }
+    }
+  },
+  {
+    "number": "372",
+    "title": "Cascara Storage & Shelf Life",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "372.jpg",
+    "definition": "Dried cascara needs cool, dry, airtight storage similar to green coffee, since residual moisture or humidity exposure can cause mold even after drying is complete.",
+    "why": "Cascara's fruit-based sugars make it more prone to moisture reabsorption and spoilage than roasted coffee if storage is careless.",
+    "tip": "Store cascara in a sealed, opaque container away from humidity, checking periodically for any off-smell or clumping.",
+    "mistake": "Storing cascara the same way as roasted coffee in an open valve bag, when its handling needs differ.",
+    "challenge": "Why might cascara's high sugar content make it more vulnerable to spoilage than the coffee bean it came from?",
+    "related": [
+      "266",
+      "273"
+    ],
+    "translations": {
+      "es": {
+        "title": "Almacenamiento y vida útil de la cascara",
+        "definition": "La cascara seca necesita almacenamiento fresco, seco y hermético similar al café verde, ya que la humedad residual o la exposición a humedad puede causar moho incluso después de completado el secado.",
+        "why": "Los azúcares de origen frutal de la cascara la hacen más propensa a reabsorber humedad y deteriorarse que el café tostado si el almacenamiento es descuidado.",
+        "tip": "Guarda la cascara en un recipiente sellado y opaco alejado de la humedad, revisando periódicamente si hay mal olor o apelmazamiento.",
+        "mistake": "Almacenar la cascara igual que el café tostado en una bolsa con válvula abierta, cuando sus necesidades de manejo son distintas.",
+        "challenge": "¿Por qué el alto contenido de azúcar de la cascara podría hacerla más vulnerable al deterioro que el grano de café del que proviene?"
+      },
+      "pt": {
+        "title": "Armazenamento e vida útil da cascara",
+        "definition": "A cascara seca precisa de armazenamento fresco, seco e hermético semelhante ao café verde, já que umidade residual ou exposição à umidade pode causar mofo mesmo após a secagem completa.",
+        "why": "Os açúcares de origem frutal da cascara a tornam mais propensa a reabsorver umidade e estragar do que o café torrado se o armazenamento for descuidado.",
+        "tip": "Guarde a cascara em um recipiente selado e opaco longe da umidade, verificando periodicamente qualquer cheiro estranho ou empedramento.",
+        "mistake": "Armazenar a cascara da mesma forma que o café torrado em um saco com válvula aberta, quando suas necessidades de manuseio são diferentes.",
+        "challenge": "Por que o alto teor de açúcar da cascara pode torná-la mais vulnerável à deterioração do que o grão de café de onde veio?"
+      },
+      "de": {
+        "title": "Cascara-Lagerung und Haltbarkeit",
+        "definition": "Getrocknete Cascara benötigt kühle, trockene, luftdichte Lagerung ähnlich wie Rohkaffee, da Restfeuchte oder Feuchtigkeitseinwirkung selbst nach abgeschlossener Trocknung Schimmel verursachen kann.",
+        "why": "Die fruchtbasierten Zucker der Cascara machen sie anfälliger für Feuchtigkeitsrückaufnahme und Verderb als gerösteten Kaffee, wenn die Lagerung nachlässig ist.",
+        "tip": "Lagere Cascara in einem versiegelten, undurchsichtigen Behälter fern von Feuchtigkeit und prüfe regelmäßig auf Fehlgeruch oder Verklumpung.",
+        "mistake": "Cascara genauso wie gerösteten Kaffee in einem offenen Ventilbeutel zu lagern, obwohl ihre Handhabungsbedürfnisse unterschiedlich sind.",
+        "challenge": "Warum könnte der hohe Zuckergehalt der Cascara sie anfälliger für Verderb machen als die Kaffeebohne, aus der sie stammt?"
+      },
+      "fr": {
+        "title": "Stockage et durée de conservation de la cascara",
+        "definition": "La cascara séchée nécessite un stockage frais, sec et hermétique similaire au café vert, car l'humidité résiduelle ou l'exposition à l'humidité peut causer de la moisissure même après séchage complet.",
+        "why": "Les sucres d'origine fruitée de la cascara la rendent plus sujette à la réabsorption d'humidité et à la détérioration que le café torréfié si le stockage est négligent.",
+        "tip": "Stockez la cascara dans un récipient scellé et opaque loin de l'humidité, en vérifiant périodiquement toute odeur anormale ou agglomération.",
+        "mistake": "Stocker la cascara de la même façon que le café torréfié dans un sac à valve ouvert, alors que ses besoins de manipulation diffèrent.",
+        "challenge": "Pourquoi la haute teneur en sucre de la cascara pourrait-elle la rendre plus vulnérable à la détérioration que le grain de café dont elle provient ?"
+      },
+      "it": {
+        "title": "Conservazione e durata della cascara",
+        "definition": "La cascara essiccata necessita di conservazione fresca, asciutta ed ermetica simile al caffè verde, poiché l'umidità residua o l'esposizione all'umidità può causare muffa anche dopo l'essiccazione completa.",
+        "why": "Gli zuccheri di origine fruttata della cascara la rendono più incline a riassorbire umidità e deteriorarsi rispetto al caffè tostato se la conservazione è trascurata.",
+        "tip": "Conserva la cascara in un contenitore sigillato e opaco lontano dall'umidità, controllando periodicamente eventuali cattivi odori o agglomerati.",
+        "mistake": "Conservare la cascara allo stesso modo del caffè tostato in un sacchetto a valvola aperto, quando le sue esigenze di gestione sono diverse.",
+        "challenge": "Perché l'alto contenuto di zucchero della cascara potrebbe renderla più vulnerabile al deterioramento rispetto al chicco di caffè da cui proviene?"
+      }
+    }
+  },
+  {
+    "number": "373",
+    "title": "Cascara in Baking",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "373.jpg",
+    "definition": "Beyond coffee flour, whole or coarsely ground cascara can be baked directly into granola, cookies, and bread for texture and fruity flavor, distinct from the flour-milling process.",
+    "why": "It's a lower-effort way for a café to use cascara creatively without needing the equipment to mill it into flour.",
+    "tip": "Rehydrate cascara briefly before baking with it, since its dried texture can otherwise stay tough in a finished baked good.",
+    "mistake": "Adding dry cascara directly into a batter expecting it to soften the same way raisins would.",
+    "challenge": "Why might cascara behave differently in baking than a more familiar dried fruit like raisins?",
+    "related": [
+      "267",
+      "263"
+    ],
+    "translations": {
+      "es": {
+        "title": "Cascara en repostería",
+        "definition": "Más allá de la harina de café, la cascara entera o molida gruesa puede hornearse directamente en granola, galletas y pan para textura y sabor afrutado, distinto del proceso de molienda en harina.",
+        "why": "Es una forma de menor esfuerzo para que una cafetería use la cascara de forma creativa sin necesitar el equipo para molerla en harina.",
+        "tip": "Rehidrata la cascara brevemente antes de hornear con ella, ya que su textura seca puede quedar dura en el producto horneado final.",
+        "mistake": "Añadir cascara seca directamente a una masa esperando que se ablande igual que lo harían las pasas.",
+        "challenge": "¿Por qué la cascara podría comportarse de forma distinta al hornear que una fruta seca más conocida como las pasas?"
+      },
+      "pt": {
+        "title": "Cascara em panificação",
+        "definition": "Além da farinha de café, a cascara inteira ou moída grosseiramente pode ser assada diretamente em granola, biscoitos e pão para textura e sabor frutado, distinto do processo de moagem em farinha.",
+        "why": "É uma forma de menor esforço para uma cafeteria usar a cascara de forma criativa sem precisar do equipamento para moê-la em farinha.",
+        "tip": "Reidrate a cascara brevemente antes de assar com ela, já que sua textura seca pode ficar dura no produto assado final.",
+        "mistake": "Adicionar cascara seca diretamente a uma massa esperando que amoleça da mesma forma que passas.",
+        "challenge": "Por que a cascara pode se comportar de forma diferente ao assar do que uma fruta seca mais conhecida como passas?"
+      },
+      "de": {
+        "title": "Cascara beim Backen",
+        "definition": "Über Kaffeemehl hinaus kann ganze oder grob gemahlene Cascara direkt in Granola, Kekse und Brot eingebacken werden, für Textur und fruchtigen Geschmack, getrennt vom Mahlprozess zu Mehl.",
+        "why": "Es ist ein weniger aufwendiger Weg für ein Café, Cascara kreativ zu nutzen, ohne die Ausrüstung zum Mahlen zu Mehl zu benötigen.",
+        "tip": "Weiche Cascara kurz ein, bevor du damit bäckst, da ihre trockene Textur sonst im fertigen Backwerk zäh bleiben kann.",
+        "mistake": "Trockene Cascara direkt in einen Teig zu geben, in der Erwartung, sie werde sich wie Rosinen weichen.",
+        "challenge": "Warum könnte sich Cascara beim Backen anders verhalten als eine vertrautere Trockenfrucht wie Rosinen?"
+      },
+      "fr": {
+        "title": "La cascara en pâtisserie",
+        "definition": "Au-delà de la farine de café, la cascara entière ou grossièrement moulue peut être cuite directement dans du granola, des biscuits et du pain pour la texture et la saveur fruitée, distincte du processus de meunerie en farine.",
+        "why": "C'est un moyen moins exigeant pour un café d'utiliser la cascara de façon créative sans avoir besoin de l'équipement pour la moudre en farine.",
+        "tip": "Réhydratez brièvement la cascara avant de cuisiner avec, car sa texture séchée peut sinon rester dure dans le produit fini.",
+        "mistake": "Ajouter de la cascara sèche directement dans une pâte en espérant qu'elle ramollisse comme le feraient des raisins secs.",
+        "challenge": "Pourquoi la cascara pourrait-elle se comporter différemment à la cuisson qu'un fruit sec plus familier comme le raisin sec ?"
+      },
+      "it": {
+        "title": "Cascara in pasticceria",
+        "definition": "Oltre alla farina di caffè, la cascara intera o macinata grossolanamente può essere cotta direttamente in granola, biscotti e pane per texture e sapore fruttato, distinto dal processo di macinazione in farina.",
+        "why": "È un modo a minor sforzo per un bar di usare la cascara in modo creativo senza bisogno dell'attrezzatura per macinarla in farina.",
+        "tip": "Reidrata la cascara brevemente prima di cucinare con essa, poiché la sua texture secca potrebbe altrimenti rimanere dura nel prodotto finito.",
+        "mistake": "Aggiungere cascara secca direttamente in un impasto aspettandosi che si ammorbidisca come farebbe l'uvetta.",
+        "challenge": "Perché la cascara potrebbe comportarsi diversamente in cottura rispetto a un frutto secco più familiare come l'uvetta?"
+      }
+    }
+  },
+  {
+    "number": "374",
+    "title": "Global Cascara Production Regions",
+    "category": "CAS",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "374.jpg",
+    "definition": "Cascara is produced wherever coffee cherries are processed, but commercial cascara production is currently concentrated in a handful of countries including El Salvador, Ethiopia, Bolivia, and Peru.",
+    "why": "Knowing which regions actively export cascara helps buyers source it through established, quality-controlled channels rather than one-off farm experiments.",
+    "tip": "Ask your green coffee importer whether they also carry cascara from the same origins, since supply chains often overlap.",
+    "mistake": "Assuming cascara is available from every coffee-producing country simply because every country grows coffee cherries.",
+    "challenge": "Why might a country that produces excellent coffee still have little to no commercial cascara production?",
+    "related": [
+      "273",
+      "278"
+    ],
+    "translations": {
+      "es": {
+        "title": "Regiones globales de producción de cascara",
+        "definition": "La cascara se produce dondequiera que se procesen cerezas de café, pero la producción comercial de cascara está actualmente concentrada en un puñado de países, entre ellos El Salvador, Etiopía, Bolivia y Perú.",
+        "why": "Saber qué regiones exportan activamente cascara ayuda a los compradores a abastecerse a través de canales establecidos y con control de calidad, en lugar de experimentos aislados de fincas.",
+        "tip": "Pregunta a tu importador de café verde si también maneja cascara de los mismos orígenes, ya que las cadenas de suministro suelen superponerse.",
+        "mistake": "Suponer que la cascara está disponible en todos los países productores de café solo porque todos cultivan cerezas de café.",
+        "challenge": "¿Por qué un país que produce café excelente podría tener poca o ninguna producción comercial de cascara?"
+      },
+      "pt": {
+        "title": "Regiões globais de produção de cascara",
+        "definition": "A cascara é produzida onde quer que cerejas de café sejam processadas, mas a produção comercial de cascara está atualmente concentrada em um punhado de países, incluindo El Salvador, Etiópia, Bolívia e Peru.",
+        "why": "Saber quais regiões exportam ativamente cascara ajuda os compradores a se abastecerem por canais estabelecidos e com controle de qualidade, em vez de experimentos isolados de fazendas.",
+        "tip": "Pergunte ao seu importador de café verde se ele também tem cascara das mesmas origens, já que as cadeias de fornecimento costumam se sobrepor.",
+        "mistake": "Supor que a cascara está disponível em todos os países produtores de café só porque todos cultivam cerejas de café.",
+        "challenge": "Por que um país que produz café excelente pode ter pouca ou nenhuma produção comercial de cascara?"
+      },
+      "de": {
+        "title": "Globale Cascara-Anbauregionen",
+        "definition": "Cascara wird überall dort produziert, wo Kaffeekirschen aufbereitet werden, aber die kommerzielle Cascara-Produktion konzentriert sich derzeit auf eine Handvoll Länder, darunter El Salvador, Äthiopien, Bolivien und Peru.",
+        "why": "Zu wissen, welche Regionen aktiv Cascara exportieren, hilft Käufern, sie über etablierte, qualitätskontrollierte Kanäle zu beziehen statt über einmalige Farmexperimente.",
+        "tip": "Frage deinen Rohkaffee-Importeur, ob er auch Cascara aus denselben Ursprüngen führt, da sich Lieferketten oft überschneiden.",
+        "mistake": "Anzunehmen, Cascara sei aus jedem kaffeeproduzierenden Land verfügbar, nur weil jedes Land Kaffeekirschen anbaut.",
+        "challenge": "Warum könnte ein Land, das exzellenten Kaffee produziert, trotzdem wenig bis keine kommerzielle Cascara-Produktion haben?"
+      },
+      "fr": {
+        "title": "Régions mondiales de production de cascara",
+        "definition": "La cascara est produite partout où des cerises de café sont traitées, mais la production commerciale de cascara est actuellement concentrée dans une poignée de pays dont le Salvador, l'Éthiopie, la Bolivie et le Pérou.",
+        "why": "Savoir quelles régions exportent activement de la cascara aide les acheteurs à s'approvisionner via des canaux établis et contrôlés en qualité plutôt que des expérimentations ponctuelles de fermes.",
+        "tip": "Demandez à votre importateur de café vert s'il propose aussi de la cascara des mêmes origines, car les chaînes d'approvisionnement se chevauchent souvent.",
+        "mistake": "Supposer que la cascara est disponible dans tous les pays producteurs de café simplement parce que chaque pays cultive des cerises de café.",
+        "challenge": "Pourquoi un pays qui produit un excellent café pourrait-il avoir peu ou pas de production commerciale de cascara ?"
+      },
+      "it": {
+        "title": "Regioni globali di produzione della cascara",
+        "definition": "La cascara viene prodotta ovunque vengano lavorate ciliegie di caffè, ma la produzione commerciale di cascara è attualmente concentrata in una manciata di paesi tra cui El Salvador, Etiopia, Bolivia e Perù.",
+        "why": "Sapere quali regioni esportano attivamente cascara aiuta gli acquirenti ad approvvigionarsi attraverso canali consolidati e con controllo di qualità invece di esperimenti isolati di singole aziende agricole.",
+        "tip": "Chiedi al tuo importatore di caffè verde se tratta anche cascara dalle stesse origini, poiché le catene di fornitura spesso si sovrappongono.",
+        "mistake": "Supporre che la cascara sia disponibile in ogni paese produttore di caffè solo perché ogni paese coltiva ciliegie di caffè.",
+        "challenge": "Perché un paese che produce caffè eccellente potrebbe avere poca o nessuna produzione commerciale di cascara?"
+      }
+    }
   }
 ]

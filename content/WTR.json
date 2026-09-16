@@ -942,5 +942,241 @@
         "challenge": "Perché l'acqua potrebbe meritare lo stesso livello di costruzione deliberata di un programma quanto la tostatura o la preparazione, invece di una decisione di installazione una tantum?"
       }
     }
+  },
+  {
+    "number": "387",
+    "title": "Chlorine & Chloramine Treatment",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "387.jpg",
+    "definition": "Municipal water is often treated with chlorine or chloramine for safety, both of which can carry through into brewing water and create a detectable off-flavor if not filtered out.",
+    "why": "Chloramine in particular is more resistant to standard carbon filtration than chlorine, requiring different filter media to remove effectively.",
+    "tip": "Check whether your water supplier uses chlorine or chloramine specifically, since the correct filtration approach depends on which one is present.",
+    "mistake": "Using a chlorine-only filter in an area treated with chloramine, leaving the actual contaminant largely unfiltered.",
+    "challenge": "Why might the same filter that works well in one city fail to solve the exact same-seeming problem in another?",
+    "related": [
+      "331",
+      "337"
+    ],
+    "translations": {
+      "es": {
+        "title": "Tratamiento de cloro y cloramina",
+        "definition": "El agua municipal suele tratarse con cloro o cloramina por seguridad, ambos pueden pasar al agua de preparación y crear un sabor extraño detectable si no se filtran.",
+        "why": "La cloramina en particular es más resistente a la filtración estándar de carbón que el cloro, requiriendo un medio filtrante distinto para eliminarla eficazmente.",
+        "tip": "Verifica si tu proveedor de agua usa cloro o cloramina específicamente, ya que el enfoque de filtración correcto depende de cuál esté presente.",
+        "mistake": "Usar un filtro solo para cloro en una zona tratada con cloramina, dejando el contaminante real en gran parte sin filtrar.",
+        "challenge": "¿Por qué el mismo filtro que funciona bien en una ciudad podría no resolver el mismo problema aparente en otra?"
+      },
+      "pt": {
+        "title": "Tratamento de cloro e cloramina",
+        "definition": "A água municipal costuma ser tratada com cloro ou cloramina por segurança, ambos podem passar para a água de preparo e criar um sabor estranho detectável se não forem filtrados.",
+        "why": "A cloramina em particular é mais resistente à filtração de carvão padrão do que o cloro, exigindo um meio filtrante diferente para removê-la eficazmente.",
+        "tip": "Verifique se o seu fornecedor de água usa cloro ou cloramina especificamente, já que a abordagem de filtração correta depende de qual está presente.",
+        "mistake": "Usar um filtro apenas para cloro em uma área tratada com cloramina, deixando o contaminante real em grande parte sem filtrar.",
+        "challenge": "Por que o mesmo filtro que funciona bem em uma cidade pode não resolver o mesmo problema aparente em outra?"
+      },
+      "de": {
+        "title": "Chlor- und Chloramin-Behandlung",
+        "definition": "Kommunales Wasser wird oft aus Sicherheitsgründen mit Chlor oder Chloramin behandelt, beide können ins Brühwasser gelangen und einen erkennbaren Fehlgeschmack erzeugen, wenn sie nicht herausgefiltert werden.",
+        "why": "Chloramin ist besonders widerstandsfähig gegen Standard-Aktivkohlefiltration im Vergleich zu Chlor und benötigt ein anderes Filtermedium zur wirksamen Entfernung.",
+        "tip": "Prüfe gezielt, ob dein Wasserversorger Chlor oder Chloramin verwendet, da der richtige Filteransatz davon abhängt, welches vorhanden ist.",
+        "mistake": "Einen reinen Chlorfilter in einem mit Chloramin behandelten Gebiet zu verwenden, wodurch der eigentliche Schadstoff größtenteils ungefiltert bleibt.",
+        "challenge": "Warum könnte derselbe Filter, der in einer Stadt gut funktioniert, in einer anderen dasselbe scheinbare Problem nicht lösen?"
+      },
+      "fr": {
+        "title": "Traitement au chlore et à la chloramine",
+        "definition": "L'eau municipale est souvent traitée au chlore ou à la chloramine pour des raisons de sécurité, tous deux pouvant se retrouver dans l'eau d'infusion et créer un défaut de saveur détectable s'ils ne sont pas filtrés.",
+        "why": "La chloramine en particulier résiste davantage à la filtration standard au carbone que le chlore, nécessitant un média filtrant différent pour l'éliminer efficacement.",
+        "tip": "Vérifiez si votre fournisseur d'eau utilise spécifiquement du chlore ou de la chloramine, car la bonne approche de filtration dépend de celui présent.",
+        "mistake": "Utiliser un filtre uniquement anti-chlore dans une zone traitée à la chloramine, laissant le contaminant réel largement non filtré.",
+        "challenge": "Pourquoi le même filtre qui fonctionne bien dans une ville pourrait-il ne pas résoudre le même problème apparent dans une autre ?"
+      },
+      "it": {
+        "title": "Trattamento con cloro e cloramina",
+        "definition": "L'acqua municipale viene spesso trattata con cloro o cloramina per sicurezza, entrambi possono passare nell'acqua di preparazione e creare un difetto di sapore rilevabile se non filtrati.",
+        "why": "La cloramina in particolare è più resistente alla filtrazione standard a carbone rispetto al cloro, richiedendo un mezzo filtrante diverso per rimuoverla efficacemente.",
+        "tip": "Controlla se il tuo fornitore d'acqua usa specificamente cloro o cloramina, poiché l'approccio di filtrazione corretto dipende da quale sia presente.",
+        "mistake": "Usare un filtro solo per il cloro in una zona trattata con cloramina, lasciando il vero contaminante in gran parte non filtrato.",
+        "challenge": "Perché lo stesso filtro che funziona bene in una città potrebbe non risolvere lo stesso problema apparente in un'altra?"
+      }
+    }
+  },
+  {
+    "number": "388",
+    "title": "Water for Cold Brew",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "388.jpg",
+    "definition": "Cold brew's long steep time means water chemistry has extended contact with coffee, making mineral content matter just as much as in hot brewing despite the different temperature.",
+    "why": "Some brewers assume water quality matters less for cold extraction, when in fact the long contact time can amplify certain water-related flavor issues.",
+    "tip": "Apply the same water quality standards to cold brew that you would to hot brewing, rather than treating it as a lower-stakes use case.",
+    "mistake": "Using unfiltered or lower-quality water for cold brew because the process feels more forgiving than hot brewing.",
+    "challenge": "Why might a long steep time make water quality issues more noticeable rather than less?",
+    "related": [
+      "239",
+      "331"
+    ],
+    "translations": {
+      "es": {
+        "title": "Agua para el cold brew",
+        "definition": "El largo tiempo de infusión del cold brew significa que la química del agua tiene un contacto prolongado con el café, haciendo que el contenido mineral importe tanto como en la preparación en caliente pese a la temperatura distinta.",
+        "why": "Algunos preparadores suponen que la calidad del agua importa menos para la extracción en frío, cuando de hecho el largo tiempo de contacto puede amplificar ciertos problemas de sabor relacionados con el agua.",
+        "tip": "Aplica los mismos estándares de calidad de agua al cold brew que aplicarías a la preparación en caliente, en lugar de tratarlo como un caso de menor riesgo.",
+        "mistake": "Usar agua sin filtrar o de menor calidad para el cold brew porque el proceso se siente más indulgente que la preparación en caliente.",
+        "challenge": "¿Por qué un tiempo de infusión largo podría hacer los problemas de calidad del agua más notorios en lugar de menos?"
+      },
+      "pt": {
+        "title": "Água para o cold brew",
+        "definition": "O longo tempo de infusão do cold brew significa que a química da água tem contato prolongado com o café, tornando o teor mineral tão importante quanto no preparo quente apesar da temperatura diferente.",
+        "why": "Alguns preparadores supõem que a qualidade da água importa menos para a extração a frio, quando na verdade o longo tempo de contato pode amplificar certos problemas de sabor relacionados à água.",
+        "tip": "Aplique os mesmos padrões de qualidade de água ao cold brew que você aplicaria ao preparo quente, em vez de tratá-lo como um caso de menor risco.",
+        "mistake": "Usar água não filtrada ou de qualidade inferior para o cold brew porque o processo parece mais tolerante do que o preparo quente.",
+        "challenge": "Por que um longo tempo de infusão pode tornar problemas de qualidade da água mais perceptíveis em vez de menos?"
+      },
+      "de": {
+        "title": "Wasser für Cold Brew",
+        "definition": "Die lange Ziehzeit von Cold Brew bedeutet, dass die Wasserchemie verlängerten Kontakt mit dem Kaffee hat, wodurch der Mineralgehalt genauso wichtig ist wie beim Heißbrühen, trotz der unterschiedlichen Temperatur.",
+        "why": "Manche Brauer nehmen an, Wasserqualität sei für die Kaltextraktion weniger wichtig, obwohl die lange Kontaktzeit bestimmte wasserbedingte Geschmacksprobleme tatsächlich verstärken kann.",
+        "tip": "Wende dieselben Wasserqualitätsstandards auf Cold Brew an wie beim Heißbrühen, statt es als risikoärmeren Anwendungsfall zu behandeln.",
+        "mistake": "Ungefiltertes oder minderwertiges Wasser für Cold Brew zu verwenden, weil sich der Prozess nachsichtiger anfühlt als Heißbrühen.",
+        "challenge": "Warum könnte eine lange Ziehzeit Wasserqualitätsprobleme eher verstärken als abschwächen?"
+      },
+      "fr": {
+        "title": "Eau pour le cold brew",
+        "definition": "Le long temps d'infusion du cold brew signifie que la chimie de l'eau a un contact prolongé avec le café, rendant la teneur en minéraux tout aussi importante que pour l'infusion chaude malgré la température différente.",
+        "why": "Certains préparateurs supposent que la qualité de l'eau compte moins pour l'extraction à froid, alors qu'en réalité le long temps de contact peut amplifier certains problèmes de saveur liés à l'eau.",
+        "tip": "Appliquez les mêmes normes de qualité d'eau au cold brew que celles que vous appliqueriez à l'infusion chaude, plutôt que de le traiter comme un cas à moindre enjeu.",
+        "mistake": "Utiliser de l'eau non filtrée ou de qualité inférieure pour le cold brew parce que le processus semble plus tolérant que l'infusion chaude.",
+        "challenge": "Pourquoi un long temps d'infusion pourrait-il rendre les problèmes de qualité de l'eau plus perceptibles plutôt que moins ?"
+      },
+      "it": {
+        "title": "Acqua per il cold brew",
+        "definition": "Il lungo tempo di infusione del cold brew significa che la chimica dell'acqua ha un contatto prolungato con il caffè, rendendo il contenuto minerale importante tanto quanto nella preparazione calda nonostante la temperatura diversa.",
+        "why": "Alcuni preparatori suppongono che la qualità dell'acqua conti meno per l'estrazione a freddo, quando in realtà il lungo tempo di contatto può amplificare certi problemi di sapore legati all'acqua.",
+        "tip": "Applica gli stessi standard di qualità dell'acqua al cold brew che applicheresti alla preparazione calda, invece di trattarlo come un caso a minor rischio.",
+        "mistake": "Usare acqua non filtrata o di qualità inferiore per il cold brew perché il processo sembra più tollerante della preparazione calda.",
+        "challenge": "Perché un lungo tempo di infusione potrebbe rendere i problemi di qualità dell'acqua più evidenti invece che meno?"
+      }
+    }
+  },
+  {
+    "number": "389",
+    "title": "Portable Water Solutions for Travel",
+    "category": "WTR",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "389.jpg",
+    "definition": "Portable remineralization drops, compact filters, and pre-measured mineral packets let brewers maintain consistent water chemistry while traveling or brewing away from their usual setup.",
+    "why": "Traveling brewers otherwise face completely unknown water at every new location, making consistent results difficult without portable tools.",
+    "tip": "Carry pre-measured mineral drops rather than trying to source and mix a full remineralization recipe on the road.",
+    "mistake": "Assuming any bottled water available while traveling will work as a reliable, unknown-free brewing base.",
+    "challenge": "Why might a competitive brewer specifically need portable water tools when traveling to a competition in an unfamiliar city?",
+    "related": [
+      "338",
+      "339"
+    ],
+    "translations": {
+      "es": {
+        "title": "Soluciones de agua portátiles para viajar",
+        "definition": "Las gotas portátiles de remineralización, filtros compactos y paquetes de minerales premedidos permiten a los preparadores mantener una química de agua constante mientras viajan o preparan café fuera de su configuración habitual.",
+        "why": "De lo contrario, los preparadores en viaje se enfrentan a agua completamente desconocida en cada nueva ubicación, dificultando resultados consistentes sin herramientas portátiles.",
+        "tip": "Lleva gotas minerales premedidas en lugar de intentar conseguir y mezclar una receta completa de remineralización sobre la marcha.",
+        "mistake": "Suponer que cualquier agua embotellada disponible mientras se viaja funcionará como base de preparación fiable y sin incógnitas.",
+        "challenge": "¿Por qué un preparador competitivo podría necesitar específicamente herramientas de agua portátiles al viajar a una competición en una ciudad desconocida?"
+      },
+      "pt": {
+        "title": "Soluções de água portáteis para viagem",
+        "definition": "Gotas portáteis de remineralização, filtros compactos e pacotes de minerais pré-medidos permitem que preparadores mantenham química de água consistente enquanto viajam ou preparam café fora de sua configuração habitual.",
+        "why": "Caso contrário, preparadores em viagem enfrentam água completamente desconhecida em cada novo local, dificultando resultados consistentes sem ferramentas portáteis.",
+        "tip": "Leve gotas minerais pré-medidas em vez de tentar obter e misturar uma receita completa de remineralização durante a viagem.",
+        "mistake": "Supor que qualquer água engarrafada disponível durante a viagem funcionará como base de preparo confiável e sem incógnitas.",
+        "challenge": "Por que um preparador competitivo pode precisar especificamente de ferramentas de água portáteis ao viajar para uma competição em uma cidade desconhecida?"
+      },
+      "de": {
+        "title": "Tragbare Wasserlösungen für unterwegs",
+        "definition": "Tragbare Remineralisierungstropfen, kompakte Filter und vorportionierte Mineralpakete lassen Brauer eine konsistente Wasserchemie beibehalten, während sie unterwegs oder abseits ihres üblichen Aufbaus brühen.",
+        "why": "Reisende Brauer stehen sonst an jedem neuen Ort völlig unbekanntem Wasser gegenüber, was konsistente Ergebnisse ohne tragbare Werkzeuge erschwert.",
+        "tip": "Nimm vorportionierte Mineraltropfen mit, statt unterwegs zu versuchen, ein vollständiges Remineralisierungsrezept zu beschaffen und zu mischen.",
+        "mistake": "Anzunehmen, jedes unterwegs erhältliche Flaschenwasser funktioniere als zuverlässige, unbekannte-freie Brühbasis.",
+        "challenge": "Warum könnte ein Wettbewerbsbrauer speziell tragbare Wasserwerkzeuge benötigen, wenn er zu einem Wettbewerb in einer unbekannten Stadt reist?"
+      },
+      "fr": {
+        "title": "Solutions d'eau portables pour les voyages",
+        "definition": "Les gouttes de reminéralisation portables, les filtres compacts et les sachets de minéraux prémesurés permettent aux préparateurs de maintenir une chimie de l'eau constante en voyage ou en infusant loin de leur configuration habituelle.",
+        "why": "Sinon, les préparateurs en voyage font face à une eau complètement inconnue à chaque nouvel endroit, rendant des résultats constants difficiles sans outils portables.",
+        "tip": "Emportez des gouttes minérales prémesurées plutôt que d'essayer de trouver et mélanger une recette complète de reminéralisation en déplacement.",
+        "mistake": "Supposer que toute eau en bouteille disponible en voyage fonctionnera comme base d'infusion fiable et sans inconnue.",
+        "challenge": "Pourquoi un préparateur en compétition pourrait-il spécifiquement avoir besoin d'outils d'eau portables en voyageant vers une compétition dans une ville inconnue ?"
+      },
+      "it": {
+        "title": "Soluzioni d'acqua portatili per i viaggi",
+        "definition": "Gocce portatili di rimineralizzazione, filtri compatti e bustine di minerali premisurate permettono a chi prepara caffè di mantenere una chimica dell'acqua costante mentre viaggia o prepara lontano dal proprio setup abituale.",
+        "why": "Altrimenti chi prepara in viaggio affronta acqua completamente sconosciuta in ogni nuova località, rendendo difficili risultati costanti senza strumenti portatili.",
+        "tip": "Porta con te gocce minerali premisurate invece di cercare di reperire e mescolare una ricetta completa di rimineralizzazione in viaggio.",
+        "mistake": "Supporre che qualsiasi acqua in bottiglia disponibile durante il viaggio funzionerà come base di preparazione affidabile e priva di incognite.",
+        "challenge": "Perché chi prepara caffè in competizione potrebbe aver bisogno specificamente di strumenti d'acqua portatili quando viaggia verso una competizione in una città sconosciuta?"
+      }
+    }
+  },
+  {
+    "number": "390",
+    "title": "Environmental Impact of Water Filtration",
+    "category": "WTR",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "390.jpg",
+    "definition": "Reverse osmosis and other filtration systems produce wastewater as a byproduct, sometimes rejecting several times more water than they actually purify.",
+    "why": "A café's water program has a real environmental footprint on the input side, not just through cup waste or packaging on the output side.",
+    "tip": "Ask your filtration system's specifications for its reject ratio, and consider systems designed to minimize wastewater where sustainability is a priority.",
+    "mistake": "Focusing sustainability efforts entirely on visible waste like cups while ignoring water waste from filtration happening behind the scenes.",
+    "challenge": "Why might a café's most significant water waste be invisible, happening inside equipment rather than in front of customers?",
+    "related": [
+      "337",
+      "346"
+    ],
+    "translations": {
+      "es": {
+        "title": "Impacto ambiental de la filtración de agua",
+        "definition": "La ósmosis inversa y otros sistemas de filtración producen agua residual como subproducto, a veces rechazando varias veces más agua de la que realmente purifican.",
+        "why": "El programa de agua de una cafetería tiene una huella ambiental real en el lado de entrada, no solo a través de residuos de vasos o envases en el lado de salida.",
+        "tip": "Pregunta las especificaciones de tu sistema de filtración sobre su ratio de rechazo, y considera sistemas diseñados para minimizar el agua residual donde la sostenibilidad sea una prioridad.",
+        "mistake": "Centrar los esfuerzos de sostenibilidad enteramente en residuos visibles como los vasos mientras se ignora el desperdicio de agua de la filtración que ocurre entre bastidores.",
+        "challenge": "¿Por qué el desperdicio de agua más significativo de una cafetería podría ser invisible, ocurriendo dentro del equipo en lugar de frente a los clientes?"
+      },
+      "pt": {
+        "title": "Impacto ambiental da filtração de água",
+        "definition": "A osmose reversa e outros sistemas de filtração produzem água residual como subproduto, às vezes rejeitando várias vezes mais água do que realmente purificam.",
+        "why": "O programa de água de uma cafeteria tem uma pegada ambiental real no lado da entrada, não apenas por meio do desperdício de copos ou embalagens no lado da saída.",
+        "tip": "Pergunte as especificações do seu sistema de filtração sobre sua taxa de rejeição, e considere sistemas projetados para minimizar o desperdício de água onde a sustentabilidade for uma prioridade.",
+        "mistake": "Concentrar os esforços de sustentabilidade inteiramente em resíduos visíveis como copos enquanto ignora o desperdício de água da filtração acontecendo nos bastidores.",
+        "challenge": "Por que o desperdício de água mais significativo de uma cafeteria pode ser invisível, acontecendo dentro do equipamento em vez de na frente dos clientes?"
+      },
+      "de": {
+        "title": "Umweltauswirkungen der Wasserfiltration",
+        "definition": "Umkehrosmose und andere Filtrationssysteme erzeugen Abwasser als Nebenprodukt und verwerfen manchmal mehrfach so viel Wasser, wie sie tatsächlich reinigen.",
+        "why": "Das Wasserprogramm eines Cafés hat einen echten ökologischen Fußabdruck auf der Eingangsseite, nicht nur durch Becherabfall oder Verpackung auf der Ausgangsseite.",
+        "tip": "Frage nach den Spezifikationen deines Filtrationssystems zu seinem Ablehnungsverhältnis und erwäge Systeme, die Abwasser minimieren, wo Nachhaltigkeit Priorität hat.",
+        "mistake": "Nachhaltigkeitsbemühungen ganz auf sichtbaren Abfall wie Becher zu konzentrieren, während Wasserabfall aus der im Hintergrund stattfindenden Filtration ignoriert wird.",
+        "challenge": "Warum könnte der bedeutendste Wasserabfall eines Cafés unsichtbar sein und innerhalb der Ausrüstung statt vor den Kunden stattfinden?"
+      },
+      "fr": {
+        "title": "Impact environnemental de la filtration de l'eau",
+        "definition": "L'osmose inverse et d'autres systèmes de filtration produisent des eaux usées comme sous-produit, rejetant parfois plusieurs fois plus d'eau qu'ils n'en purifient réellement.",
+        "why": "Le programme d'eau d'un café a une véritable empreinte environnementale du côté de l'entrée, pas seulement via les déchets de gobelets ou d'emballage du côté de la sortie.",
+        "tip": "Demandez les spécifications de votre système de filtration concernant son taux de rejet, et envisagez des systèmes conçus pour minimiser les eaux usées là où la durabilité est une priorité.",
+        "mistake": "Concentrer les efforts de durabilité entièrement sur les déchets visibles comme les gobelets tout en ignorant le gaspillage d'eau de la filtration se produisant en coulisses.",
+        "challenge": "Pourquoi le gaspillage d'eau le plus significatif d'un café pourrait-il être invisible, se produisant à l'intérieur de l'équipement plutôt que devant les clients ?"
+      },
+      "it": {
+        "title": "Impatto ambientale della filtrazione dell'acqua",
+        "definition": "L'osmosi inversa e altri sistemi di filtrazione producono acque reflue come sottoprodotto, a volte scartando diverse volte più acqua di quanta ne purifichino effettivamente.",
+        "why": "Il programma per l'acqua di un bar ha una vera impronta ambientale sul lato dell'ingresso, non solo attraverso lo spreco di bicchieri o imballaggi sul lato dell'uscita.",
+        "tip": "Chiedi le specifiche del tuo sistema di filtrazione sul suo rapporto di scarto, e considera sistemi progettati per minimizzare le acque reflue dove la sostenibilità è una priorità.",
+        "mistake": "Concentrare gli sforzi di sostenibilità interamente sui rifiuti visibili come i bicchieri ignorando lo spreco d'acqua della filtrazione che avviene dietro le quinte.",
+        "challenge": "Perché lo spreco d'acqua più significativo di un bar potrebbe essere invisibile, avvenendo all'interno dell'attrezzatura invece che davanti ai clienti?"
+      }
+    }
   }
 ]

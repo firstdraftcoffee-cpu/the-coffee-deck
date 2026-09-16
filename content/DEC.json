@@ -942,5 +942,241 @@
         "challenge": "Perché la reputazione del decaffeinato di un bar potrebbe contare in modo sproporzionato per la piccola percentuale di clienti che lo ordina?"
       }
     }
+  },
+  {
+    "number": "379",
+    "title": "Decaf Certification Labels",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "379.jpg",
+    "definition": "Decaf can carry additional certification labels like Organic or Fair Trade, layered on top of the decaffeination process name, each representing a separate, independently verified claim.",
+    "why": "Understanding that these labels are separate certifications, not part of the decaffeination process itself, prevents confusing what each one actually guarantees.",
+    "tip": "Check for both the decaffeination method and any additional certification separately, since one doesn't imply the other.",
+    "mistake": "Assuming an organic decaf label says anything about which decaffeination method was used.",
+    "challenge": "Why might a decaf be organic-certified but still processed using a chemical solvent method?",
+    "related": [
+      "310",
+      "297"
+    ],
+    "translations": {
+      "es": {
+        "title": "Etiquetas de certificación del descafeinado",
+        "definition": "El descafeinado puede llevar etiquetas de certificación adicionales como Orgánico o Comercio Justo, superpuestas al nombre del proceso de descafeinado, cada una representando una afirmación separada y verificada de forma independiente.",
+        "why": "Entender que estas etiquetas son certificaciones separadas, no parte del propio proceso de descafeinado, evita confundir lo que cada una realmente garantiza.",
+        "tip": "Revisa tanto el método de descafeinado como cualquier certificación adicional por separado, ya que uno no implica el otro.",
+        "mistake": "Suponer que una etiqueta de descafeinado orgánico dice algo sobre qué método de descafeinado se usó.",
+        "challenge": "¿Por qué un descafeinado podría estar certificado como orgánico pero seguir procesándose con un método de solvente químico?"
+      },
+      "pt": {
+        "title": "Selos de certificação do descafeinado",
+        "definition": "O descafeinado pode ter selos de certificação adicionais como Orgânico ou Comércio Justo, sobrepostos ao nome do processo de descafeinização, cada um representando uma alegação separada e verificada de forma independente.",
+        "why": "Entender que esses selos são certificações separadas, não parte do próprio processo de descafeinização, evita confundir o que cada um realmente garante.",
+        "tip": "Verifique tanto o método de descafeinização quanto qualquer certificação adicional separadamente, já que um não implica o outro.",
+        "mistake": "Supor que um selo de descafeinado orgânico diz algo sobre qual método de descafeinização foi usado.",
+        "challenge": "Por que um descafeinado pode ser certificado orgânico mas ainda ser processado usando um método de solvente químico?"
+      },
+      "de": {
+        "title": "Zertifizierungslabel für Decaf",
+        "definition": "Decaf kann zusätzliche Zertifizierungslabel wie Bio oder Fair Trade tragen, die über dem Namen des Entkoffeinierungsverfahrens liegen, jeweils eine separate, unabhängig verifizierte Behauptung darstellend.",
+        "why": "Zu verstehen, dass diese Label separate Zertifizierungen sind, nicht Teil des Entkoffeinierungsverfahrens selbst, verhindert Verwechslungen darüber, was jedes tatsächlich garantiert.",
+        "tip": "Prüfe sowohl die Entkoffeinierungsmethode als auch jede zusätzliche Zertifizierung getrennt, da eine nicht die andere impliziert.",
+        "mistake": "Anzunehmen, ein Bio-Decaf-Label sage etwas darüber aus, welche Entkoffeinierungsmethode verwendet wurde.",
+        "challenge": "Warum könnte ein Decaf bio-zertifiziert sein, aber trotzdem mit einer chemischen Lösungsmittelmethode verarbeitet worden sein?"
+      },
+      "fr": {
+        "title": "Labels de certification du décaféiné",
+        "definition": "Le décaféiné peut porter des labels de certification supplémentaires comme Bio ou Commerce Équitable, superposés au nom du procédé de décaféination, chacun représentant une affirmation distincte et vérifiée indépendamment.",
+        "why": "Comprendre que ces labels sont des certifications distinctes, ne faisant pas partie du procédé de décaféination lui-même, évite de confondre ce que chacun garantit réellement.",
+        "tip": "Vérifiez séparément la méthode de décaféination et toute certification supplémentaire, car l'une n'implique pas l'autre.",
+        "mistake": "Supposer qu'un label de décaféiné bio dit quelque chose sur la méthode de décaféination utilisée.",
+        "challenge": "Pourquoi un décaféiné pourrait-il être certifié biologique mais quand même traité avec une méthode de solvant chimique ?"
+      },
+      "it": {
+        "title": "Etichette di certificazione del decaffeinato",
+        "definition": "Il decaffeinato può portare etichette di certificazione aggiuntive come Biologico o Commercio Equo, sovrapposte al nome del processo di decaffeinizzazione, ciascuna che rappresenta un'affermazione separata e verificata in modo indipendente.",
+        "why": "Capire che queste etichette sono certificazioni separate, non parte del processo di decaffeinizzazione stesso, evita di confondere cosa ciascuna garantisca realmente.",
+        "tip": "Controlla separatamente sia il metodo di decaffeinizzazione sia qualsiasi certificazione aggiuntiva, poiché uno non implica l'altro.",
+        "mistake": "Supporre che un'etichetta di decaffeinato biologico dica qualcosa su quale metodo di decaffeinizzazione sia stato usato.",
+        "challenge": "Perché un decaffeinato potrebbe essere certificato biologico ma comunque lavorato usando un metodo a solvente chimico?"
+      }
+    }
+  },
+  {
+    "number": "380",
+    "title": "Half-Caf Blending",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "380.jpg",
+    "definition": "Half-caf blends combine regular and decaf beans in a single mix, typically to offer a reduced-caffeine option without eliminating caffeine entirely.",
+    "why": "It gives customers a middle option between full caffeine and none, useful for people managing intake rather than avoiding caffeine completely.",
+    "tip": "Blend at the green bean stage before roasting where possible, so both components develop together rather than mixing two separately roasted batches.",
+    "mistake": "Assuming a 50/50 label guarantees an exact 50% caffeine reduction, when actual content still depends on the beans used.",
+    "challenge": "Why might a labeled 50/50 half-caf blend not actually contain exactly half the caffeine of a regular cup?",
+    "related": [
+      "297",
+      "306"
+    ],
+    "translations": {
+      "es": {
+        "title": "Mezclas semi-descafeinadas",
+        "definition": "Las mezclas semi-descafeinadas combinan granos normales y descafeinados en una sola mezcla, típicamente para ofrecer una opción de cafeína reducida sin eliminarla por completo.",
+        "why": "Da a los clientes una opción intermedia entre cafeína completa y ninguna, útil para quienes gestionan su consumo en lugar de evitar la cafeína por completo.",
+        "tip": "Mezcla en la etapa de grano verde antes de tostar cuando sea posible, para que ambos componentes se desarrollen juntos en lugar de mezclar dos lotes tostados por separado.",
+        "mistake": "Suponer que una etiqueta 50/50 garantiza exactamente un 50% de reducción de cafeína, cuando el contenido real sigue dependiendo de los granos usados.",
+        "challenge": "¿Por qué una mezcla semi-descafeinada etiquetada como 50/50 podría no contener realmente la mitad de cafeína que una taza normal?"
+      },
+      "pt": {
+        "title": "Blends meio-descafeinados",
+        "definition": "Os blends meio-descafeinados combinam grãos normais e descafeinados em uma única mistura, tipicamente para oferecer uma opção de cafeína reduzida sem eliminá-la por completo.",
+        "why": "Dá aos clientes uma opção intermediária entre cafeína total e nenhuma, útil para quem gerencia o consumo em vez de evitar a cafeína completamente.",
+        "tip": "Misture na fase de grão verde antes de torrar quando possível, para que os dois componentes se desenvolvam juntos em vez de misturar dois lotes torrados separadamente.",
+        "mistake": "Supor que um rótulo 50/50 garante exatamente 50% de redução de cafeína, quando o teor real ainda depende dos grãos usados.",
+        "challenge": "Por que um blend meio-descafeinado rotulado como 50/50 pode não conter exatamente metade da cafeína de uma xícara normal?"
+      },
+      "de": {
+        "title": "Half-Caf-Mischungen",
+        "definition": "Half-Caf-Mischungen kombinieren normale und entkoffeinierte Bohnen in einer einzigen Mischung, typischerweise um eine Option mit reduziertem Koffein zu bieten, ohne es vollständig zu eliminieren.",
+        "why": "Sie gibt Kunden eine mittlere Option zwischen voller Koffeinmenge und keiner, nützlich für Menschen, die ihre Aufnahme steuern, statt Koffein völlig zu meiden.",
+        "tip": "Mische wo möglich in der Rohbohnenstufe vor dem Rösten, damit sich beide Komponenten zusammen entwickeln, statt zwei getrennt geröstete Chargen zu mischen.",
+        "mistake": "Anzunehmen, ein 50/50-Etikett garantiere genau eine 50%ige Koffeinreduktion, während der tatsächliche Gehalt weiter von den verwendeten Bohnen abhängt.",
+        "challenge": "Warum könnte eine als 50/50 etikettierte Half-Caf-Mischung tatsächlich nicht genau die Hälfte des Koffeins einer normalen Tasse enthalten?"
+      },
+      "fr": {
+        "title": "Mélanges mi-décaféinés",
+        "definition": "Les mélanges mi-décaféinés combinent des grains normaux et décaféinés en un seul mélange, typiquement pour offrir une option à caféine réduite sans l'éliminer entièrement.",
+        "why": "Cela donne aux clients une option intermédiaire entre pleine caféine et aucune, utile pour ceux qui gèrent leur consommation plutôt que d'éviter totalement la caféine.",
+        "tip": "Mélangez au stade du grain vert avant torréfaction quand possible, afin que les deux composants se développent ensemble plutôt que de mélanger deux lots torréfiés séparément.",
+        "mistake": "Supposer qu'une étiquette 50/50 garantit exactement une réduction de caféine de 50%, alors que la teneur réelle dépend toujours des grains utilisés.",
+        "challenge": "Pourquoi un mélange mi-décaféiné étiqueté 50/50 pourrait-il ne pas contenir exactement la moitié de la caféine d'une tasse normale ?"
+      },
+      "it": {
+        "title": "Blend mezzo-decaffeinati",
+        "definition": "I blend mezzo-decaffeinati combinano chicchi normali e decaffeinati in un'unica miscela, tipicamente per offrire un'opzione a caffeina ridotta senza eliminarla completamente.",
+        "why": "Dà ai clienti un'opzione intermedia tra piena caffeina e nessuna, utile per chi gestisce l'assunzione invece di evitare completamente la caffeina.",
+        "tip": "Miscela nella fase del chicco verde prima della tostatura dove possibile, così che entrambi i componenti si sviluppino insieme invece di mescolare due lotti tostati separatamente.",
+        "mistake": "Supporre che un'etichetta 50/50 garantisca esattamente una riduzione del 50% della caffeina, quando il contenuto effettivo dipende ancora dai chicchi usati.",
+        "challenge": "Perché un blend mezzo-decaffeinato etichettato 50/50 potrebbe non contenere realmente la metà della caffeina di una tazza normale?"
+      }
+    }
+  },
+  {
+    "number": "381",
+    "title": "Triangulation Testing for Decaf QC",
+    "category": "DEC",
+    "difficulty": 2,
+    "reading_time": 2,
+    "hero_image": "381.jpg",
+    "definition": "Triangulation testing presents three cupping samples, two identical and one different, asking tasters to identify the odd one out, a useful quality control method for verifying whether a decaffeination process created a detectable flavor difference.",
+    "why": "It gives a structured, statistically grounded way to confirm whether a flavor difference is genuinely perceptible rather than relying on a single taster's subjective impression.",
+    "tip": "Use triangulation testing with multiple tasters when evaluating a new decaf lot against its regular counterpart, not just a single side-by-side taste.",
+    "mistake": "Relying on one person's casual comparison to conclude a decaf process didn't affect flavor.",
+    "challenge": "Why is a single taster's opinion a weaker form of evidence than a properly run triangulation test?",
+    "related": [
+      "302",
+      "292"
+    ],
+    "translations": {
+      "es": {
+        "title": "Prueba de triangulación para control de calidad del descafeinado",
+        "definition": "La prueba de triangulación presenta tres muestras de catación, dos idénticas y una distinta, pidiendo a los catadores identificar la diferente, un método útil de control de calidad para verificar si un proceso de descafeinado creó una diferencia de sabor detectable.",
+        "why": "Ofrece una forma estructurada y estadísticamente fundamentada de confirmar si una diferencia de sabor es genuinamente perceptible en lugar de depender de la impresión subjetiva de un solo catador.",
+        "tip": "Usa la prueba de triangulación con varios catadores al evaluar un nuevo lote de descafeinado frente a su contraparte normal, no solo una cata comparativa individual.",
+        "mistake": "Confiar en la comparación casual de una sola persona para concluir que un proceso de descafeinado no afectó el sabor.",
+        "challenge": "¿Por qué la opinión de un solo catador es una forma de evidencia más débil que una prueba de triangulación bien realizada?"
+      },
+      "pt": {
+        "title": "Teste de triangulação para controle de qualidade do descafeinado",
+        "definition": "O teste de triangulação apresenta três amostras de cupping, duas idênticas e uma diferente, pedindo aos provadores que identifiquem a diferente, um método útil de controle de qualidade para verificar se um processo de descafeinização criou uma diferença de sabor detectável.",
+        "why": "Oferece uma forma estruturada e estatisticamente fundamentada de confirmar se uma diferença de sabor é genuinamente perceptível em vez de depender da impressão subjetiva de um único provador.",
+        "tip": "Use o teste de triangulação com vários provadores ao avaliar um novo lote de descafeinado contra sua contraparte normal, não apenas uma degustação comparativa individual.",
+        "mistake": "Confiar na comparação casual de uma única pessoa para concluir que um processo de descafeinização não afetou o sabor.",
+        "challenge": "Por que a opinião de um único provador é uma forma de evidência mais fraca do que um teste de triangulação bem conduzido?"
+      },
+      "de": {
+        "title": "Dreieckstest für Decaf-Qualitätskontrolle",
+        "definition": "Der Dreieckstest präsentiert drei Cupping-Proben, zwei identische und eine andere, und bittet Verkoster, die abweichende zu identifizieren — eine nützliche Qualitätskontrollmethode, um zu prüfen, ob ein Entkoffeinierungsverfahren einen erkennbaren Geschmacksunterschied erzeugt hat.",
+        "why": "Er bietet eine strukturierte, statistisch fundierte Möglichkeit zu bestätigen, ob ein Geschmacksunterschied tatsächlich wahrnehmbar ist, statt sich auf den subjektiven Eindruck eines einzelnen Verkosters zu verlassen.",
+        "tip": "Nutze den Dreieckstest mit mehreren Verkostern, wenn du ein neues Decaf-Los gegen sein normales Gegenstück bewertest, nicht nur eine einzelne Vergleichsverkostung.",
+        "mistake": "Sich auf den beiläufigen Vergleich einer Person zu verlassen, um zu schließen, ein Decaf-Verfahren habe den Geschmack nicht beeinflusst.",
+        "challenge": "Warum ist die Meinung eines einzelnen Verkosters eine schwächere Beweisform als ein ordentlich durchgeführter Dreieckstest?"
+      },
+      "fr": {
+        "title": "Test triangulaire pour le contrôle qualité du décaféiné",
+        "definition": "Le test triangulaire présente trois échantillons de dégustation, deux identiques et un différent, demandant aux dégustateurs d'identifier celui qui diffère, une méthode de contrôle qualité utile pour vérifier si un procédé de décaféination a créé une différence de saveur détectable.",
+        "why": "Il offre un moyen structuré et statistiquement fondé de confirmer si une différence de saveur est réellement perceptible plutôt que de dépendre de l'impression subjective d'un seul dégustateur.",
+        "tip": "Utilisez le test triangulaire avec plusieurs dégustateurs lors de l'évaluation d'un nouveau lot de décaféiné par rapport à son équivalent normal, pas seulement une dégustation comparative unique.",
+        "mistake": "Se fier à la comparaison occasionnelle d'une seule personne pour conclure qu'un procédé de décaféination n'a pas affecté la saveur.",
+        "challenge": "Pourquoi l'opinion d'un seul dégustateur est-elle une forme de preuve plus faible qu'un test triangulaire correctement mené ?"
+      },
+      "it": {
+        "title": "Test di triangolazione per il controllo qualità del decaffeinato",
+        "definition": "Il test di triangolazione presenta tre campioni di cupping, due identici e uno diverso, chiedendo agli assaggiatori di identificare quello diverso, un metodo utile di controllo qualità per verificare se un processo di decaffeinizzazione ha creato una differenza di sapore rilevabile.",
+        "why": "Offre un modo strutturato e statisticamente fondato per confermare se una differenza di sapore è genuinamente percettibile invece di affidarsi all'impressione soggettiva di un singolo assaggiatore.",
+        "tip": "Usa il test di triangolazione con più assaggiatori quando valuti un nuovo lotto di decaffeinato contro la sua controparte normale, non solo una degustazione comparativa singola.",
+        "mistake": "Affidarsi al confronto casuale di una sola persona per concludere che un processo di decaffeinizzazione non ha influenzato il sapore.",
+        "challenge": "Perché l'opinione di un singolo assaggiatore è una forma di prova più debole di un test di triangolazione condotto correttamente?"
+      }
+    }
+  },
+  {
+    "number": "382",
+    "title": "Decaf Health Marketing Claims",
+    "category": "DEC",
+    "difficulty": 1,
+    "reading_time": 2,
+    "hero_image": "382.jpg",
+    "definition": "Decaf is often marketed with health-related claims around sleep, pregnancy, or heart health, some well-supported and others overstated relative to the actual evidence.",
+    "why": "Overstating decaf's health benefits can mislead customers making genuine medical decisions, particularly around pregnancy or specific health conditions.",
+    "tip": "Stick to verifiable claims about caffeine reduction rather than broader health promises the coffee itself can't substantiate.",
+    "mistake": "Repeating a health claim about decaf without checking whether it's actually well-supported by evidence.",
+    "challenge": "Why might a customer with a genuine medical reason for choosing decaf be poorly served by vague, unverified health marketing?",
+    "related": [
+      "308",
+      "297"
+    ],
+    "translations": {
+      "es": {
+        "title": "Afirmaciones de salud en el marketing del descafeinado",
+        "definition": "El descafeinado suele comercializarse con afirmaciones relacionadas con la salud sobre el sueño, el embarazo o la salud cardíaca, algunas bien respaldadas y otras exageradas en relación con la evidencia real.",
+        "why": "Exagerar los beneficios de salud del descafeinado puede engañar a clientes que toman decisiones médicas genuinas, especialmente en torno al embarazo o condiciones de salud específicas.",
+        "tip": "Cíñete a afirmaciones verificables sobre la reducción de cafeína en lugar de promesas de salud más amplias que el café en sí no puede sustentar.",
+        "mistake": "Repetir una afirmación de salud sobre el descafeinado sin verificar si realmente está bien respaldada por evidencia.",
+        "challenge": "¿Por qué un cliente con una razón médica genuina para elegir descafeinado podría estar mal servido por un marketing de salud vago y no verificado?"
+      },
+      "pt": {
+        "title": "Alegações de saúde no marketing do descafeinado",
+        "definition": "O descafeinado é frequentemente comercializado com alegações relacionadas à saúde sobre sono, gravidez ou saúde cardíaca, algumas bem embasadas e outras exageradas em relação à evidência real.",
+        "why": "Exagerar os benefícios de saúde do descafeinado pode enganar clientes tomando decisões médicas genuínas, particularmente em torno da gravidez ou condições de saúde específicas.",
+        "tip": "Atenha-se a alegações verificáveis sobre redução de cafeína em vez de promessas de saúde mais amplas que o café em si não pode sustentar.",
+        "mistake": "Repetir uma alegação de saúde sobre o descafeinado sem verificar se ela é realmente bem embasada por evidências.",
+        "challenge": "Por que um cliente com uma razão médica genuína para escolher descafeinado pode ser mal servido por um marketing de saúde vago e não verificado?"
+      },
+      "de": {
+        "title": "Gesundheitsbehauptungen im Decaf-Marketing",
+        "definition": "Decaf wird oft mit gesundheitsbezogenen Behauptungen über Schlaf, Schwangerschaft oder Herzgesundheit vermarktet, manche gut belegt und andere im Verhältnis zur tatsächlichen Evidenz übertrieben.",
+        "why": "Die Gesundheitsvorteile von Decaf zu übertreiben kann Kunden irreführen, die echte medizinische Entscheidungen treffen, besonders bei Schwangerschaft oder bestimmten Gesundheitszuständen.",
+        "tip": "Bleibe bei überprüfbaren Behauptungen zur Koffeinreduktion, statt breiteren Gesundheitsversprechen, die der Kaffee selbst nicht belegen kann.",
+        "mistake": "Eine Gesundheitsbehauptung über Decaf zu wiederholen, ohne zu prüfen, ob sie tatsächlich gut durch Evidenz belegt ist.",
+        "challenge": "Warum könnte ein Kunde mit echtem medizinischem Grund für Decaf durch vages, unbelegtes Gesundheitsmarketing schlecht bedient sein?"
+      },
+      "fr": {
+        "title": "Allégations santé dans le marketing du décaféiné",
+        "definition": "Le décaféiné est souvent commercialisé avec des allégations liées à la santé concernant le sommeil, la grossesse ou la santé cardiaque, certaines bien étayées et d'autres exagérées par rapport aux preuves réelles.",
+        "why": "Exagérer les bienfaits santé du décaféiné peut induire en erreur des clients prenant de véritables décisions médicales, notamment concernant la grossesse ou des conditions de santé spécifiques.",
+        "tip": "Tenez-vous-en à des allégations vérifiables sur la réduction de la caféine plutôt qu'à des promesses santé plus larges que le café lui-même ne peut justifier.",
+        "mistake": "Répéter une allégation santé sur le décaféiné sans vérifier si elle est réellement bien étayée par des preuves.",
+        "challenge": "Pourquoi un client ayant une véritable raison médicale de choisir le décaféiné pourrait-il être mal servi par un marketing santé vague et non vérifié ?"
+      },
+      "it": {
+        "title": "Affermazioni sulla salute nel marketing del decaffeinato",
+        "definition": "Il decaffeinato viene spesso commercializzato con affermazioni relative alla salute su sonno, gravidanza o salute cardiaca, alcune ben supportate e altre esagerate rispetto alle prove effettive.",
+        "why": "Esagerare i benefici per la salute del decaffeinato può fuorviare i clienti che prendono vere decisioni mediche, in particolare riguardo alla gravidanza o a condizioni di salute specifiche.",
+        "tip": "Attieniti ad affermazioni verificabili sulla riduzione della caffeina piuttosto che a promesse di salute più ampie che il caffè stesso non può dimostrare.",
+        "mistake": "Ripetere un'affermazione sulla salute riguardo al decaffeinato senza verificare se sia effettivamente ben supportata da prove.",
+        "challenge": "Perché un cliente con una vera ragione medica per scegliere il decaffeinato potrebbe essere servito male da un marketing sulla salute vago e non verificato?"
+      }
+    }
   }
 ]
