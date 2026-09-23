@@ -1,56 +1,90 @@
 import { getLocale, onLocaleChange } from "./i18n.js";
-import { hasAccess } from "./access.js";
+import { hasAccess, getAccessPass } from "./access.js";
 
-const TRANSLATABLE_FIELDS = [
-    "title",
-    "definition",
-    "why",
-    "tip",
-    "mistake",
-    "challenge",
-    "recipe"
-];
+// Card data arrives already translated, one language at a time:
+//   /data/deck/free-<lang>.json  public free sample + deck totals
+//   /api/deck?lang=<lang>        full deck, only for verified subscribers
+// Decks are kept per language, so switching back to a language already
+// used this session is instant.
 
-let rawCards = [];
+const decks = {};
+
+let total = 0;
 let cards = [];
 
-function localize(card, locale) {
+async function fetchDeck(locale) {
 
-    const overrides = card.translations?.[locale];
+    const free = await (await fetch(`./data/deck/free-${locale}.json`)).json();
 
-    if (!overrides) return card;
+    total = free.total;
 
-    const localized = { ...card };
+    let list = free.cards;
 
-    TRANSLATABLE_FIELDS.forEach(field => {
+    const pass = getAccessPass();
 
-        if (overrides[field]) {
+    if (hasAccess() && pass) {
 
-            localized[field] = overrides[field];
+        try {
+
+            const res = await fetch(`/api/deck?lang=${locale}`, {
+
+                headers: { Authorization: `Bearer ${pass}` }
+
+            });
+
+            if (res.ok) {
+
+                list = await res.json();
+
+            }
+
+        } catch {
+
+            // Offline with nothing cached: fall back to the free sample.
 
         }
 
-    });
+    }
 
-    return localized;
+    decks[locale] = list;
+
+    return list;
 
 }
 
 function rebuild() {
 
-    const locale = getLocale();
+    const list = decks[getLocale()];
 
-    const localized = rawCards.map(card => localize(card, locale));
+    if (list) {
 
-    cards = hasAccess()
-        ? localized
-        : localized.filter(card => card.free_sample);
+        cards = list;
+
+    }
 
 }
 
 onLocaleChange(rebuild);
 
-export function refreshAccess() {
+// Load a language's cards before switching to it, so everything that
+// re-renders on the locale change already has the right cards.
+export async function prepareLocale(locale) {
+
+    if (!decks[locale]) {
+
+        await fetchDeck(locale);
+
+    }
+
+}
+
+// Call after access changes (subscribe, restore): drops cached decks and
+// reloads the current language with the new access level.
+export async function refreshAccess() {
+
+    Object.keys(decks).forEach(key => delete decks[key]);
+
+    await fetchDeck(getLocale());
 
     rebuild();
 
@@ -58,15 +92,13 @@ export function refreshAccess() {
 
 export function totalCardCount() {
 
-    return rawCards.length;
+    return total;
 
 }
 
 export async function loadCards() {
 
-    const response = await fetch("./data/cards.json");
-
-    rawCards = await response.json();
+    await fetchDeck(getLocale());
 
     rebuild();
 

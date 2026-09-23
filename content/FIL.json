@@ -542,7 +542,7 @@
   },
   {
     "number": "035",
-    "title": "Brew Ratio",
+    "title": "Filter Brew Ratio",
     "category": "FIL",
     "difficulty": 2,
     "reading_time": 2,
@@ -559,7 +559,7 @@
     ],
     "translations": {
       "es": {
-        "title": "Relación de Preparación",
+        "title": "Relación de Preparación en Filtrado",
         "definition": "La relación entre la dosis de café y el agua de preparación.",
         "why": "Determina la fuerza de la bebida.",
         "tip": "Empieza alrededor de 60 g/L.",
@@ -567,7 +567,7 @@
         "challenge": "Calcula una preparación de 300 ml usando 60 g/L."
       },
       "pt": {
-        "title": "Proporção de Preparo",
+        "title": "Proporção de Preparo no Filtrado",
         "definition": "A relação entre a dose de café e a água de preparo.",
         "why": "Determina a força da bebida.",
         "tip": "Comece em torno de 60g/L.",
@@ -575,7 +575,7 @@
         "challenge": "Calcule um preparo de 300ml usando 60g/L."
       },
       "de": {
-        "title": "Brühverhältnis",
+        "title": "Filter-Brühverhältnis",
         "definition": "Das Verhältnis zwischen Kaffeedosis und Brühwasser.",
         "why": "Es bestimmt die Getränkestärke.",
         "tip": "Beginne bei etwa 60g/L.",
@@ -583,7 +583,7 @@
         "challenge": "Berechne einen 300ml-Brühansatz mit 60g/L."
       },
       "fr": {
-        "title": "Ratio d'infusion",
+        "title": "Ratio d'infusion en filtre",
         "definition": "La relation entre la dose de café et l'eau d'infusion.",
         "why": "Elle détermine la force de la boisson.",
         "tip": "Commencez autour de 60g/L.",
@@ -591,7 +591,7 @@
         "challenge": "Calculez une infusion de 300ml en utilisant 60g/L."
       },
       "it": {
-        "title": "Rapporto di infusione",
+        "title": "Rapporto di infusione nel filtro",
         "definition": "La relazione tra dose di caffè e acqua di infusione.",
         "why": "Determina la forza della bevanda.",
         "tip": "Inizia intorno a 60g/L.",

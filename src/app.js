@@ -2,7 +2,8 @@ import {
     loadCards,
     allCards,
     totalCardCount,
-    refreshAccess
+    refreshAccess,
+    prepareLocale
 } from "./cards.js";
 
 import {
@@ -189,7 +190,9 @@ function renderLangSwitch() {
 
         }
 
-        button.onclick = () => {
+        button.onclick = async () => {
+
+            await prepareLocale(locale.code);
 
             setLocale(locale.code);
 
@@ -622,7 +625,7 @@ function renderPaywallCard() {
 
             if (active) {
 
-                refreshAccess();
+                await refreshAccess();
 
                 homeIndex = 0;
 

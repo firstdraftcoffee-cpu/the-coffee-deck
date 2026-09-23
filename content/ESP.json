@@ -182,7 +182,7 @@
   },
   {
     "number": "004",
-    "title": "Brew Ratio",
+    "title": "Espresso Brew Ratio",
     "category": "ESP",
     "difficulty": 2,
     "reading_time": 2,
@@ -199,7 +199,7 @@
     ],
     "translations": {
       "es": {
-        "title": "Relación de Preparación",
+        "title": "Relación de Preparación en Espresso",
         "definition": "La relación entre la dosis de café y el rendimiento de la bebida.",
         "why": "Uno de los mayores controles de sabor.",
         "tip": "Empieza alrededor de 1:2.",
@@ -207,7 +207,7 @@
         "challenge": "Compara 1:1.5 y 1:3."
       },
       "pt": {
-        "title": "Proporção de Preparo",
+        "title": "Proporção de Preparo no Espresso",
         "definition": "A relação entre a dose de café e o rendimento da bebida.",
         "why": "Um dos maiores controles de sabor.",
         "tip": "Comece em torno de 1:2.",
@@ -215,7 +215,7 @@
         "challenge": "Compare 1:1.5 e 1:3."
       },
       "de": {
-        "title": "Brühverhältnis",
+        "title": "Espresso-Brühverhältnis",
         "definition": "Das Verhältnis zwischen Kaffeedosis und Getränkeausbeute.",
         "why": "Eine der größten Geschmackskontrollen.",
         "tip": "Beginne bei etwa 1:2.",
@@ -223,7 +223,7 @@
         "challenge": "Vergleiche 1:1.5 und 1:3."
       },
       "fr": {
-        "title": "Ratio d'infusion",
+        "title": "Ratio d'infusion en espresso",
         "definition": "La relation entre la dose de café et le rendement de la boisson.",
         "why": "L'un des plus grands leviers de contrôle de la saveur.",
         "tip": "Commencez autour de 1:2.",
@@ -231,7 +231,7 @@
         "challenge": "Comparez 1:1,5 et 1:3."
       },
       "it": {
-        "title": "Rapporto di infusione",
+        "title": "Rapporto di infusione nell'espresso",
         "definition": "La relazione tra dose di caffè e resa della bevanda.",
         "why": "Uno dei più grandi controlli sul sapore.",
         "tip": "Inizia intorno a 1:2.",
@@ -380,7 +380,7 @@
     ],
     "translations": {
       "es": {
-        "title": "Tiempo de Extracción",
+        "title": "Tiempo del Shot",
         "definition": "El tiempo necesario para alcanzar el peso objetivo de la bebida.",
         "why": "Solo es útil junto con el rendimiento y el sabor.",
         "tip": "Registra cada extracción.",
@@ -388,7 +388,7 @@
         "challenge": "¿Pueden tiempos idénticos saber diferente?"
       },
       "pt": {
-        "title": "Tempo de Extração",
+        "title": "Tempo do Shot",
         "definition": "O tempo necessário para atingir o peso alvo da bebida.",
         "why": "Só é útil junto com o rendimento e o sabor.",
         "tip": "Registre cada extração.",

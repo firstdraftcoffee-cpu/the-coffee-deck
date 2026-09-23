@@ -1,7 +1,7 @@
 // Coffee Deck service worker.
 // Bump CACHE_NAME on any change to this file's caching logic so old
 // clients pick up the new behavior instead of running stale code forever.
-const CACHE_NAME = "coffee-deck-v3";
+const CACHE_NAME = "coffee-deck-v4";
 
 self.addEventListener("install", () => {
     self.skipWaiting();
@@ -30,6 +30,13 @@ self.addEventListener("fetch", (event) => {
     // to do so throws. Let the browser handle anything outside our
     // own scope untouched.
     if (url.origin !== self.location.origin) {
+        return;
+    }
+
+    // The subscriber deck: network-first so it stays current, with the
+    // last copy kept on this device so the full deck still works offline.
+    if (url.pathname === "/api/deck" && request.method === "GET") {
+        event.respondWith(networkFirst(request));
         return;
     }
 

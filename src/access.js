@@ -12,6 +12,14 @@ export function hasAccess() {
 
 }
 
+export function getAccessPass() {
+
+    const access = load("access", null);
+
+    return access?.pass || null;
+
+}
+
 export function getAccessEmail() {
 
     const access = load("access", null);
@@ -20,11 +28,12 @@ export function getAccessEmail() {
 
 }
 
-function setAccess(email) {
+function setAccess(email, pass) {
 
     save("access", {
 
         email,
+        pass,
         verifiedAt: Date.now()
 
     });
@@ -87,7 +96,7 @@ export async function restoreAccess(email) {
 
     if (data.active) {
 
-        setAccess(email);
+        setAccess(email, data.pass);
 
         return true;
 
@@ -119,7 +128,7 @@ export async function handleCheckoutReturn() {
 
             if (data.active && data.email) {
 
-                setAccess(data.email);
+                setAccess(data.email, data.pass);
 
                 return true;
 
@@ -147,7 +156,9 @@ export async function reverifyIfStale() {
 
     if (!access || !access.email) return;
 
-    if (Date.now() - access.verifiedAt < REVERIFY_AFTER_MS) return;
+    // Subscribers from before access passes existed have no pass yet, so
+    // fetch one straight away rather than waiting for the daily re-check.
+    if (access.pass && Date.now() - access.verifiedAt < REVERIFY_AFTER_MS) return;
 
     try {
 

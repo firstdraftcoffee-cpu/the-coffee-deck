@@ -701,7 +701,7 @@
   },
   {
     "number": "236",
-    "title": "French Press",
+    "title": "French Press Recipe",
     "category": "REC",
     "difficulty": 1,
     "reading_time": 3,
@@ -774,7 +774,7 @@
     },
     "translations": {
       "es": {
-        "title": "Prensa Francesa",
+        "title": "Receta de Prensa Francesa",
         "definition": "Un método de preparación por inmersión completa donde el café molido grueso reposa directamente en agua caliente antes de que un émbolo de malla metálica separe los posos del café preparado.",
         "why": "Como el filtro metálico deja pasar más aceites y partículas finas que el papel, la prensa francesa produce una taza de cuerpo más completo y pesado que la mayoría de los métodos filtrados.",
         "tip": "Rompe la costra de posos que se forma en la superficie después del reposo y déjala asentar un minuto antes de presionar; esto reduce los sedimentos en la taza final.",
@@ -839,7 +839,7 @@
         }
       },
       "pt": {
-        "title": "Prensa Francesa",
+        "title": "Receita de Prensa Francesa",
         "definition": "Um método de preparo por imersão total em que o café moído grosso repousa diretamente em água quente antes de um êmbolo de tela metálica separar a borra do café preparado.",
         "why": "Como o filtro metálico deixa passar mais óleos e partículas finas do que o papel, a prensa francesa produz uma xícara de corpo mais encorpado e pesado do que a maioria dos métodos filtrados.",
         "tip": "Quebre a crosta de borra que se forma na superfície após o repouso e deixe assentar por um minuto antes de pressionar; isso reduz o sedimento na xícara final.",
@@ -904,7 +904,7 @@
         }
       },
       "de": {
-        "title": "French Press",
+        "title": "French-Press-Rezept",
         "definition": "Eine Vollimmersions-Brühmethode, bei der grob gemahlener Kaffee direkt in heißem Wasser zieht, bevor ein Metallsieb-Kolben das Kaffeemehl vom gebrühten Kaffee trennt.",
         "why": "Da der Metallfilter mehr Öle und feine Partikel durchlässt als Papier, ergibt die French Press eine vollmundigere, schwerere Tasse als die meisten gefilterten Methoden.",
         "tip": "Brich die Kruste aus Kaffeemehl, die sich oben nach dem Ziehen bildet, und lass sie sich eine Minute setzen, bevor du drückst — das reduziert Bodensatz in der fertigen Tasse.",
@@ -947,7 +947,7 @@
         }
       },
       "fr": {
-        "title": "Cafetière à piston",
+        "title": "Recette cafetière à piston",
         "definition": "Une méthode d'infusion en immersion totale où du café grossièrement moulu infuse directement dans l'eau chaude avant qu'un piston à tamis métallique ne sépare la mouture du café infusé.",
         "why": "Comme le filtre métallique laisse passer plus d'huiles et de fines particules que le papier, la cafetière à piston produit une tasse plus corsée et plus lourde que la plupart des méthodes filtrées.",
         "tip": "Cassez la croûte de mouture qui se forme dessus après l'infusion et laissez reposer une minute avant de presser — cela réduit les sédiments dans la tasse finale.",
@@ -990,7 +990,7 @@
         }
       },
       "it": {
-        "title": "French press",
+        "title": "Ricetta French press",
         "definition": "Un metodo di preparazione a immersione totale dove caffè macinato grosso infonde direttamente in acqua calda prima che uno stantuffo a rete metallica separi il macinato dal caffè preparato.",
         "why": "Poiché il filtro metallico lascia passare più oli e particelle fini della carta, la French press produce una tazza più corposa e pesante rispetto alla maggior parte dei metodi filtrati.",
         "tip": "Rompi la crosta di macinato che si forma sopra dopo l'infusione e lasciala depositare per un minuto prima di premere — questo riduce i sedimenti nella tazza finale.",
@@ -1037,7 +1037,7 @@
   },
   {
     "number": "237",
-    "title": "Chemex",
+    "title": "Chemex Recipe",
     "category": "REC",
     "difficulty": 2,
     "reading_time": 3,
@@ -1110,7 +1110,7 @@
     },
     "translations": {
       "es": {
-        "title": "Chemex",
+        "title": "Receta de Chemex",
         "definition": "Un método de filtrado que utiliza un característico recipiente de vidrio con forma de reloj de arena y un filtro de papel patentado, notablemente grueso, que elimina más aceites y finos que los filtros de papel estándar.",
         "why": "El grueso filtro Chemex produce una de las tazas más limpias y de cuerpo más ligero que se pueden lograr con filtrado, lo que lo convierte en favorito para resaltar cafés delicados y de gran claridad.",
         "tip": "Como el filtro es tan grueso, usa un molido ligeramente más grueso que el que usarías para un V60, para evitar un drenaje lento y sobreextraído.",
@@ -1175,7 +1175,7 @@
         }
       },
       "pt": {
-        "title": "Chemex",
+        "title": "Receita de Chemex",
         "definition": "Um método de filtro que usa um recipiente de vidro característico em formato de ampulheta e um filtro de papel próprio, notavelmente espesso, que remove mais óleos e finos do que os filtros de papel padrão.",
         "why": "O filtro espesso do Chemex produz uma das xícaras mais limpas e de corpo mais leve possíveis com filtro, tornando-o favorito para destacar cafés delicados e de alta clareza.",
         "tip": "Como o filtro é tão espesso, use uma moagem um pouco mais grossa do que usaria num V60, para evitar um escoamento lento e superextraído.",
@@ -1240,7 +1240,7 @@
         }
       },
       "de": {
-        "title": "Chemex",
+        "title": "Chemex-Rezept",
         "definition": "Eine Filterbrühmethode mit einem markanten sanduhrförmigen Glasgefäß und einem auffallend dicken Markenpapierfilter, der mehr Öle und Feinanteile entfernt als Standardfilterpapier.",
         "why": "Der dicke Chemex-Filter erzeugt eine der saubersten, leichtesten Tassen, die mit Filterbrühen erreichbar sind, was ihn zu einem Favoriten macht, um delikate, hochklare Kaffees hervorzuheben.",
         "tip": "Da der Filter so dick ist, verwende einen etwas gröberen Mahlgrad als für einen V60, um einen langsamen, überextrahierten Drawdown zu vermeiden.",
@@ -1283,7 +1283,7 @@
         }
       },
       "fr": {
-        "title": "Chemex",
+        "title": "Recette Chemex",
         "definition": "Une méthode de filtre manuel utilisant un récipient en verre en forme de sablier caractéristique et un filtre en papier propriétaire notablement épais qui retire plus d'huiles et de fines que les papiers filtres standards.",
         "why": "Le filtre Chemex épais produit l'une des tasses les plus propres et légères réalisables en filtre manuel, en faisant un favori pour mettre en valeur des cafés délicats et très clairs.",
         "tip": "Comme le filtre est si épais, utilisez une mouture légèrement plus grossière que pour un V60 pour éviter un drainage lent et sur-extrait.",
@@ -1326,7 +1326,7 @@
         }
       },
       "it": {
-        "title": "Chemex",
+        "title": "Ricetta Chemex",
         "definition": "Un metodo a filtro manuale che usa un caratteristico recipiente di vetro a forma di clessidra e un filtro di carta proprietario notevolmente spesso che rimuove più oli e fini rispetto ai filtri di carta standard.",
         "why": "Il filtro Chemex spesso produce una delle tazze più pulite e leggere ottenibili con il filtro manuale, rendendolo un favorito per valorizzare caffè delicati e ad alta chiarezza.",
         "tip": "Poiché il filtro è così spesso, usa una macinatura leggermente più grossa rispetto a quella per un V60 per evitare un drenaggio lento e sovraestratto.",
@@ -1373,7 +1373,7 @@
   },
   {
     "number": "238",
-    "title": "Moka Pot (Stovetop)",
+    "title": "Moka Pot Recipe",
     "category": "REC",
     "difficulty": 2,
     "reading_time": 3,
@@ -1446,7 +1446,7 @@
     },
     "translations": {
       "es": {
-        "title": "Cafetera Moka (de Fuego)",
+        "title": "Receta de Cafetera Moka",
         "definition": "Un dispositivo de preparación de fuego directo que usa presión de vapor para empujar agua caliente a través de un lecho de café molido fino, produciendo una preparación fuerte y concentrada más cercana en estilo al espresso que al café filtrado.",
         "why": "Es uno de los métodos de preparación doméstica más utilizados en Italia y América Latina, valorado por producir café fuerte sin necesidad de una máquina de espresso.",
         "tip": "Usa agua que ya esté caliente (no fría) al llenar la base; esto reduce el tiempo que el café pasa sobre el fuego y disminuye el riesgo de un resultado quemado y amargo.",
@@ -1511,7 +1511,7 @@
         }
       },
       "pt": {
-        "title": "Cafeteira Moka (de Fogão)",
+        "title": "Receita de Cafeteira Moka",
         "definition": "Um dispositivo de preparo no fogão que usa pressão de vapor para empurrar água quente através de uma camada de café moído fino, produzindo um preparo forte e concentrado mais próximo em estilo do espresso do que do café filtrado.",
         "why": "É um dos métodos de preparo doméstico mais usados na Itália e na América Latina, valorizado por produzir café forte sem precisar de uma máquina de espresso.",
         "tip": "Use água já quente (não fria) ao encher a base; isso reduz o tempo que o café passa no fogo e diminui o risco de um resultado queimado e amargo.",
@@ -1576,7 +1576,7 @@
         }
       },
       "de": {
-        "title": "Moka-Kanne (Herd)",
+        "title": "Moka-Kannen-Rezept",
         "definition": "Ein Herdbrühgerät, das Dampfdruck nutzt, um heißes Wasser durch ein Bett aus fein gemahlenem Kaffee nach oben zu drücken und eine starke, konzentrierte Brühung erzeugt, die im Stil näher an Espresso als an Filterkaffee liegt.",
         "why": "Es ist eine der am weitesten verbreiteten Hausbrühmethoden in Italien und Lateinamerika, geschätzt dafür, starken Kaffee ohne Espressomaschine zu erzeugen.",
         "tip": "Verwende bereits heißes (nicht kaltes) Wasser zum Befüllen des Bodens — das verkürzt die Zeit, die der Kaffee über der Hitze verbringt, und senkt das Risiko eines verbrannten, bitteren Ergebnisses.",
@@ -1619,7 +1619,7 @@
         }
       },
       "fr": {
-        "title": "Cafetière italienne (moka)",
+        "title": "Recette cafetière italienne (moka)",
         "definition": "Un dispositif d'infusion de cuisinière qui utilise la pression de vapeur pour pousser l'eau chaude à travers un lit de café finement moulu, produisant une infusion forte et concentrée plus proche en style de l'espresso que du café filtre.",
         "why": "C'est l'une des méthodes d'infusion maison les plus utilisées en Italie et en Amérique latine, appréciée pour produire un café fort sans avoir besoin d'une machine à espresso.",
         "tip": "Utilisez de l'eau déjà chaude (pas froide) en remplissant la base — cela réduit le temps que le café passe sur la chaleur et diminue le risque d'un résultat brûlé et amer.",
@@ -1662,7 +1662,7 @@
         }
       },
       "it": {
-        "title": "Moka (fornello)",
+        "title": "Ricetta moka",
         "definition": "Un dispositivo di preparazione da fornello che usa pressione di vapore per spingere acqua calda attraverso un letto di caffè macinato fine, producendo un'infusione forte e concentrata più vicina nello stile all'espresso che al caffè filtro.",
         "why": "È uno dei metodi di preparazione domestica più usati in Italia e America Latina, apprezzato per produrre caffè forte senza bisogno di una macchina da espresso.",
         "tip": "Usa acqua già calda (non fredda) quando riempi la base — questo riduce il tempo che il caffè passa sul calore e abbassa il rischio di un risultato bruciato e amaro.",
@@ -2381,7 +2381,7 @@
   },
   {
     "number": "241",
-    "title": "Siphon (Vacuum Pot)",
+    "title": "Siphon Recipe",
     "category": "REC",
     "difficulty": 3,
     "reading_time": 3,
@@ -2454,7 +2454,7 @@
     },
     "translations": {
       "es": {
-        "title": "Sifón (Vacuum Pot)",
+        "title": "Receta de Sifón",
         "definition": "Un método de preparación con dos cámaras donde la presión de vapor empuja el agua calentada hacia arriba, a una cámara con los posos de café, y al retirar la fuente de calor, el café preparado se filtra de vuelta hacia abajo a través de un filtro.",
         "why": "Es uno de los métodos de preparación más teatrales visualmente y produce una taza limpia y de sabor pleno, pero el control preciso de temperatura y tiempo que exige lo hace más exigente técnicamente que la mayoría de los métodos de filtrado.",
         "tip": "Remueve suavemente al inicio de la fase de preparación para asegurar que todos los posos queden saturados de manera uniforme, ya que la cámara superior no permite un segundo vertido como en los métodos de filtrado.",
@@ -2519,7 +2519,7 @@
         }
       },
       "pt": {
-        "title": "Sifão (Vacuum Pot)",
+        "title": "Receita de Sifão",
         "definition": "Um método de preparo com duas câmaras em que a pressão do vapor empurra a água aquecida para cima, para uma câmara com a borra de café, e ao remover a fonte de calor, o café preparado é filtrado de volta para baixo através de um filtro.",
         "why": "É um dos métodos de preparo mais teatrais visualmente e produz uma xícara limpa e de sabor pleno, mas o controle preciso de temperatura e tempo que exige o torna mais exigente tecnicamente do que a maioria dos métodos de filtro.",
         "tip": "Mexa suavemente no início da fase de preparo para garantir que toda a borra fique saturada de forma uniforme, já que a câmara superior não permite um segundo despejo como nos métodos de filtro.",
@@ -2584,7 +2584,7 @@
         }
       },
       "de": {
-        "title": "Siphon (Vakuumkocher)",
+        "title": "Siphon-Rezept",
         "definition": "Eine Brühmethode mit zwei Kammern, bei der Dampfdruck erhitztes Wasser in eine Kammer mit Kaffeemehl nach oben drückt, und das Entfernen der Wärmequelle dann den gebrühten Kaffee durch einen Filter zurück nach unten zieht.",
         "why": "Es ist eine der visuell theatralischsten Brühmethoden und erzeugt eine saubere, vollmundige Tasse, aber die präzise Temperatur- und Zeitkontrolle, die sie verlangt, macht sie technisch anspruchsvoller als die meisten Filterbrühmethoden.",
         "tip": "Rühre sanft zu Beginn der Brühphase, um sicherzustellen, dass das gesamte Kaffeemehl gleichmäßig gesättigt ist, da die obere Kammer keinen zweiten Aufguss wie bei Filterbrühmethoden erlaubt.",
@@ -2627,7 +2627,7 @@
         }
       },
       "fr": {
-        "title": "Siphon (cafetière à dépression)",
+        "title": "Recette siphon",
         "definition": "Une méthode d'infusion utilisant deux chambres où la pression de vapeur pousse l'eau chauffée vers le haut dans une chambre contenant la mouture de café, et le retrait de la source de chaleur fait ensuite redescendre le café infusé à travers un filtre.",
         "why": "C'est l'une des méthodes d'infusion les plus théâtrales visuellement et elle produit une tasse propre et pleine de saveur, mais le contrôle précis de température et de timing qu'elle exige la rend plus techniquement exigeante que la plupart des méthodes de filtre manuel.",
         "tip": "Remuez doucement au début de l'étape d'infusion pour vous assurer que toute la mouture est saturée uniformément, puisque la chambre supérieure ne permet pas un second versement comme les méthodes de filtre manuel.",
@@ -2670,7 +2670,7 @@
         }
       },
       "it": {
-        "title": "Sifone (caffettiera sottovuoto)",
+        "title": "Ricetta sifone",
         "definition": "Un metodo di preparazione che usa due camere dove la pressione del vapore spinge l'acqua riscaldata verso l'alto in una camera contenente il macinato di caffè, e la rimozione della fonte di calore fa poi ridiscendere il caffè preparato attraverso un filtro.",
         "why": "È uno dei metodi di preparazione visivamente più teatrali e produce una tazza pulita e piena di sapore, ma il controllo preciso di temperatura e tempistica che richiede lo rende più tecnicamente impegnativo della maggior parte dei metodi a filtro manuale.",
         "tip": "Mescola delicatamente all'inizio della fase di preparazione per assicurarti che tutto il macinato sia saturo uniformemente, poiché la camera superiore non permette una seconda versata come i metodi a filtro manuale.",

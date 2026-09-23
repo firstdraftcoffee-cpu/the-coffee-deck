@@ -904,7 +904,7 @@
     "number": "396",
     "title": "Airflow Control",
     "category": "RST",
-    "difficulty": 2,
+    "difficulty": 3,
     "reading_time": 2,
     "hero_image": "396.jpg",
     "definition": "Airflow in a roaster controls how quickly heat and smoke move through the drum, affecting both roast development and how chaff and smoke are removed.",

@@ -2,8 +2,29 @@ import { JSDOM } from "jsdom";
 import fs from "fs";
 
 const html = fs.readFileSync("./dist/index.html", "utf8");
-const cardsData = JSON.parse(fs.readFileSync("./dist/data/cards.json", "utf8"));
-const TOTAL_CARDS = String(cardsData.length);
+import worker, { createPass } from "./worker/index.js";
+
+// The deck is served the same way as in production: the free sample from the
+// built public files, and the full deck through the real worker code, which
+// only answers requests carrying a valid access pass.
+const TEST_ENV = { STRIPE_SECRET_KEY: "sk_test_smoke", ASSETS: { fetch: async () => new Response("") } };
+const freeDeck = lang => JSON.parse(fs.readFileSync(`./dist/data/deck/free-${lang}.json`, "utf8"));
+const TOTAL_CARDS = String(freeDeck("en").total);
+const TEST_PASS = await createPass(TEST_ENV, "test@example.com");
+
+async function deckFetch(url, options) {
+    const freeMatch = url.match(/data\/deck\/free-(\w+)\.json/);
+    if (freeMatch) {
+        const data = freeDeck(freeMatch[1]);
+        return { ok: true, json: async () => data };
+    }
+    if (url.includes("/api/deck")) {
+        const res = await worker.fetch(new Request(new URL(url, "http://localhost/"), { headers: options?.headers || {} }), TEST_ENV);
+        const body = await res.text();
+        return { ok: res.ok, status: res.status, json: async () => JSON.parse(body) };
+    }
+    return null;
+}
 const jsFile = fs.readdirSync("./dist/assets").find(f => f.startsWith("main-") && f.endsWith(".js"));
 
 const dom = new JSDOM(html, {
@@ -28,13 +49,12 @@ global.requestAnimationFrame = window.requestAnimationFrame || (cb => setTimeout
 let errors = [];
 
 global.fetch = async (url, options) => {
-    if (url.includes("cards.json")) {
-        return { json: async () => JSON.parse(JSON.stringify(cardsData)) };
-    }
+    const deckResponse = await deckFetch(url, options);
+    if (deckResponse) return deckResponse;
     if (url.includes("/api/verify-access")) {
         const body = JSON.parse(options?.body || "{}");
         const active = body.email === "subscriber@example.com";
-        return { ok: true, json: async () => ({ active, email: body.email }) };
+        return { ok: true, json: async () => ({ active, email: body.email, pass: active ? await createPass(TEST_ENV, body.email) : undefined }) };
     }
     if (url.includes("/api/create-checkout-session")) {
         return { ok: true, json: async () => ({ url: "https://checkout.stripe.com/mock-session" }) };
@@ -74,7 +94,7 @@ async function simulateFastFlick(el, dxTotal, elapsedMs) {
     el.dispatchEvent(up);
 }
 
-global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "test@example.com", verifiedAt: Date.now() }));
+global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "test@example.com", pass: TEST_PASS, verifiedAt: Date.now() }));
 
 // Boots a fresh JSDOM instance of index.html at a given URL (used to test
 // the ?card=NNN deep-link feature, which replaced search as the way to
@@ -97,7 +117,7 @@ async function bootIndex(url) {
     global.Node = bootWindow.Node;
     global.requestAnimationFrame = bootWindow.requestAnimationFrame || (cb => setTimeout(cb, 0));
 
-    global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "test@example.com", verifiedAt: Date.now() }));
+    global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "test@example.com", pass: TEST_PASS, verifiedAt: Date.now() }));
 
     try {
         await import(`./dist/assets/${jsFile}?t=${Date.now()}-${Math.random()}`);
@@ -480,6 +500,7 @@ if (esButton) {
 
     check("Nav label updates to Spanish after switching language", doc.getElementById("studyToggle")?.textContent.includes("Estudiar"));
     check("Locale choice persists to storage", global.localStorage.getItem("coffeeDeck:locale") === JSON.stringify("es"));
+    check("Subscriber still has the full deck after switching language", doc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 
     const homeCardEs = doc.querySelector(".home-card");
     check("Translated pilot card (Espresso #001) shows Spanish definition text", homeCardEs?.textContent.includes("El espresso es una bebida"));
@@ -596,13 +617,12 @@ global.requestAnimationFrame = freeWindow.requestAnimationFrame || (cb => setTim
 let checkoutCalls = [];
 
 global.fetch = async (url, options) => {
-    if (url.includes("cards.json")) {
-        return { json: async () => JSON.parse(JSON.stringify(cardsData)) };
-    }
+    const deckResponse = await deckFetch(url, options);
+    if (deckResponse) return deckResponse;
     if (url.includes("/api/verify-access")) {
         const body = JSON.parse(options?.body || "{}");
         const active = body.email === "subscriber@example.com";
-        return { ok: true, json: async () => ({ active, email: body.email }) };
+        return { ok: true, json: async () => ({ active, email: body.email, pass: active ? await createPass(TEST_ENV, body.email) : undefined }) };
     }
     if (url.includes("/api/create-checkout-session")) {
         const body = JSON.parse(options?.body || "{}");
@@ -671,5 +691,62 @@ freeDoc.getElementById("paywall-verify")?.dispatchEvent(new freeWindow.Event("cl
 await new Promise(r => setTimeout(r, 250));
 check("Restoring access with a valid subscriber email unlocks the full deck", freeDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 check("Header Subscribe button hides once access is restored", freeDoc.getElementById("subscribeToggle")?.hidden === true);
+
+// =====================================================================
+// EXISTING SUBSCRIBER FROM BEFORE ACCESS PASSES - saved access has an
+// email but no pass; the app should fetch one and unlock the full deck
+// without the subscriber doing anything.
+// =====================================================================
+
+const legacyDom = new JSDOM(html, { url: "http://localhost/", pretendToBeVisual: true });
+global.window = legacyDom.window;
+global.document = legacyDom.window.document;
+global.localStorage = legacyDom.window.localStorage;
+global.Event = legacyDom.window.Event;
+global.CustomEvent = legacyDom.window.CustomEvent;
+global.MutationObserver = legacyDom.window.MutationObserver;
+global.HTMLElement = legacyDom.window.HTMLElement;
+global.Node = legacyDom.window.Node;
+global.localStorage.setItem("coffeeDeck:access", JSON.stringify({ email: "subscriber@example.com", verifiedAt: Date.now() }));
+
+try {
+    await import(`./dist/assets/${jsFile}?t=${Date.now()}-legacy`);
+} catch (e) {
+    errors.push(e.stack || e.message);
+}
+
+await new Promise(r => setTimeout(r, 400));
+
+check("Existing subscriber without a pass is upgraded automatically and sees the full deck", legacyDom.window.document.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+check("Upgraded subscriber now has an access pass saved", !!JSON.parse(global.localStorage.getItem("coffeeDeck:access") || "{}").pass);
+
+// =====================================================================
+// PAID CONTENT STAYS PRIVATE
+// =====================================================================
+
+const fullEnglish = await (await deckFetch("/api/deck?lang=en", { headers: { Authorization: `Bearer ${TEST_PASS}` } })).json();
+const paidSnippets = fullEnglish.filter(card => !card.free_sample).map(card => card.definition.slice(0, 60));
+
+function listFiles(dir) {
+    return fs.readdirSync(dir, { withFileTypes: true }).flatMap(entry =>
+        entry.isDirectory() ? listFiles(`${dir}/${entry.name}`) : [`${dir}/${entry.name}`]);
+}
+
+const publicText = listFiles("./dist")
+    .filter(file => /\.(json|js|html|css|webmanifest)$/.test(file))
+    .map(file => fs.readFileSync(file, "utf8"))
+    .join("\n");
+
+check(`Full deck from the worker has all ${TOTAL_CARDS} cards`, String(fullEnglish.length) === TOTAL_CARDS);
+check("No paid card text anywhere in the public build", paidSnippets.length > 0 && paidSnippets.every(snippet => !publicText.includes(snippet)));
+check("Old all-in-one public cards.json is gone", !fs.existsSync("./dist/data/cards.json"));
+check("Public free files hold only free-sample cards", ["en", "es", "pt", "de", "fr", "it"].every(lang => freeDeck(lang).cards.every(card => card.free_sample)));
+check("Deck request without an access pass is refused", (await deckFetch("/api/deck?lang=en", {})).status === 401);
+
+const inboundCount = new Map();
+fullEnglish.flatMap(card => card.related).forEach(id => inboundCount.set(id, (inboundCount.get(id) || 0) + 1));
+check("Every card is linked from at least one other card", fullEnglish.every(card => inboundCount.get(card.number) > 0));
+check("No card lists more than 6 related cards", fullEnglish.every(card => card.related.length <= 6));
+check("Every card title is unique", new Set(fullEnglish.map(card => card.title.toLowerCase())).size === fullEnglish.length);
 
 console.log("\nDone.");

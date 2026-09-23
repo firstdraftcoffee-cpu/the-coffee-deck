@@ -1,4 +1,115 @@
+import deck from "./deck.js";
+
 const STRIPE_API = "https://api.stripe.com/v1";
+
+// Access passes: after Stripe confirms a subscription, the worker hands the
+// browser a signed pass (email + expiry). /api/deck only serves the full deck
+// to requests carrying a valid, unexpired pass. The browser re-verifies with
+// Stripe daily and gets a fresh pass each time, so a cancelled subscription
+// stops working within the pass lifetime.
+const PASS_LIFETIME_MS = 8 * 24 * 60 * 60 * 1000;
+
+const encoder = new TextEncoder();
+
+function toBase64Url(bytes) {
+
+    let binary = "";
+
+    bytes.forEach(b => { binary += String.fromCharCode(b); });
+
+    return btoa(binary).replace(/\+/g, "-").replace(/\//g, "_").replace(/=+$/, "");
+
+}
+
+function fromBase64Url(text) {
+
+    const padded = text.replace(/-/g, "+").replace(/_/g, "/") + "===".slice((text.length + 3) % 4);
+
+    return Uint8Array.from(atob(padded), c => c.charCodeAt(0));
+
+}
+
+async function signingKey(env) {
+
+    // A dedicated ACCESS_TOKEN_SECRET is used if one is set; otherwise the key
+    // is derived from the Stripe secret, so no extra setup is needed.
+    const secret = env.ACCESS_TOKEN_SECRET || `coffee-deck-access:${env.STRIPE_SECRET_KEY}`;
+
+    return crypto.subtle.importKey(
+        "raw",
+        encoder.encode(secret),
+        { name: "HMAC", hash: "SHA-256" },
+        false,
+        ["sign", "verify"]
+    );
+
+}
+
+export async function createPass(env, email, now = Date.now()) {
+
+    const payload = toBase64Url(encoder.encode(JSON.stringify({ email, exp: now + PASS_LIFETIME_MS })));
+
+    const signature = await crypto.subtle.sign("HMAC", await signingKey(env), encoder.encode(payload));
+
+    return `${payload}.${toBase64Url(new Uint8Array(signature))}`;
+
+}
+
+export async function readPass(env, pass, now = Date.now()) {
+
+    if (typeof pass !== "string" || !pass.includes(".")) return null;
+
+    const [payload, signature] = pass.split(".");
+
+    try {
+
+        const valid = await crypto.subtle.verify(
+            "HMAC",
+            await signingKey(env),
+            fromBase64Url(signature),
+            encoder.encode(payload)
+        );
+
+        if (!valid) return null;
+
+        const data = JSON.parse(new TextDecoder().decode(fromBase64Url(payload)));
+
+        return data.exp > now ? data : null;
+
+    } catch {
+
+        return null;
+
+    }
+
+}
+
+async function serveDeck(request, env) {
+
+    const url = new URL(request.url);
+
+    const lang = deck[url.searchParams.get("lang")] ? url.searchParams.get("lang") : "en";
+
+    const auth = request.headers.get("Authorization") || "";
+
+    const pass = await readPass(env, auth.replace(/^Bearer\s+/i, ""));
+
+    if (!pass) {
+
+        return json({ error: "Subscription required" }, 401);
+
+    }
+
+    return new Response(JSON.stringify(deck[lang]), {
+
+        headers: {
+            "Content-Type": "application/json",
+            "Cache-Control": "private, no-store"
+        }
+
+    });
+
+}
 
 function corsHeaders() {
 
@@ -8,7 +119,7 @@ function corsHeaders() {
 
         "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
 
-        "Access-Control-Allow-Headers": "Content-Type"
+        "Access-Control-Allow-Headers": "Content-Type, Authorization"
 
     };
 
@@ -111,10 +222,13 @@ async function checkoutSuccess(request, env) {
 
     }
 
+    const email = session.customer_details?.email || session.customer_email;
+
     return json({
 
         active: true,
-        email: session.customer_details?.email || session.customer_email
+        email,
+        pass: await createPass(env, email)
 
     });
 
@@ -144,7 +258,7 @@ async function verifyAccess(request, env) {
 
         if (subs.data && subs.data.length > 0) {
 
-            return json({ active: true, email });
+            return json({ active: true, email, pass: await createPass(env, email) });
 
         }
 
@@ -152,7 +266,7 @@ async function verifyAccess(request, env) {
 
         if (trialing.data && trialing.data.length > 0) {
 
-            return json({ active: true, email });
+            return json({ active: true, email, pass: await createPass(env, email) });
 
         }
 
@@ -185,6 +299,12 @@ export default {
             if (url.pathname === "/api/checkout-success" && request.method === "GET") {
 
                 return await checkoutSuccess(request, env);
+
+            }
+
+            if (url.pathname === "/api/deck" && request.method === "GET") {
+
+                return await serveDeck(request, env);
 
             }
 
