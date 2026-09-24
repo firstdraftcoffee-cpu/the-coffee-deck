@@ -12,14 +12,46 @@ const freeDeck = lang => JSON.parse(fs.readFileSync(`./dist/data/deck/free-${lan
 const TOTAL_CARDS = String(freeDeck("en").total);
 const TEST_PASS = await createPass(TEST_ENV, "test@example.com");
 
+// Fake Stripe and Resend, used by the real worker code during tests.
+const SUBSCRIBERS = new Set(["test@example.com", "subscriber@example.com"]);
+const sentEmails = [];
+
+function fakeExternal(url, options) {
+    if (url.startsWith("https://api.stripe.com/v1/customers")) {
+        const email = decodeURIComponent(url.match(/email=([^&]+)/)[1]);
+        return new Response(JSON.stringify({ data: SUBSCRIBERS.has(email) ? [{ id: "cus_" + email }] : [] }));
+    }
+    if (url.startsWith("https://api.stripe.com/v1/subscriptions")) {
+        return new Response(JSON.stringify({ data: url.includes("status=active") ? [{ id: "sub_1" }] : [] }));
+    }
+    if (url === "https://api.resend.com/emails") {
+        sentEmails.push(JSON.parse(options.body));
+        return new Response(JSON.stringify({ id: "email_1" }));
+    }
+    return null;
+}
+
+// Which worker settings the tests run against. Switched to include a
+// Resend key to test the email sign-in journey.
+let apiEnv = TEST_ENV;
+
+// Serves the app's data and account requests the way production does:
+// free sample from the built files, everything else through the worker.
 async function deckFetch(url, options) {
+    url = String(url);
+    const external = fakeExternal(url, options);
+    if (external) return external;
     const freeMatch = url.match(/data\/deck\/free-(\w+)\.json/);
     if (freeMatch) {
         const data = freeDeck(freeMatch[1]);
         return { ok: true, json: async () => data };
     }
-    if (url.includes("/api/deck")) {
-        const res = await worker.fetch(new Request(new URL(url, "http://localhost/"), { headers: options?.headers || {} }), TEST_ENV);
+    if (/\/api\/(deck|request-link|redeem-link|refresh-pass|verify-access)/.test(url)) {
+        const res = await worker.fetch(new Request(new URL(url, "http://localhost/"), {
+            method: options?.method || "GET",
+            headers: options?.headers || {},
+            body: options?.body
+        }), apiEnv);
         const body = await res.text();
         return { ok: res.ok, status: res.status, json: async () => JSON.parse(body) };
     }
@@ -51,11 +83,6 @@ let errors = [];
 global.fetch = async (url, options) => {
     const deckResponse = await deckFetch(url, options);
     if (deckResponse) return deckResponse;
-    if (url.includes("/api/verify-access")) {
-        const body = JSON.parse(options?.body || "{}");
-        const active = body.email === "subscriber@example.com";
-        return { ok: true, json: async () => ({ active, email: body.email, pass: active ? await createPass(TEST_ENV, body.email) : undefined }) };
-    }
     if (url.includes("/api/create-checkout-session")) {
         return { ok: true, json: async () => ({ url: "https://checkout.stripe.com/mock-session" }) };
     }
@@ -619,11 +646,6 @@ let checkoutCalls = [];
 global.fetch = async (url, options) => {
     const deckResponse = await deckFetch(url, options);
     if (deckResponse) return deckResponse;
-    if (url.includes("/api/verify-access")) {
-        const body = JSON.parse(options?.body || "{}");
-        const active = body.email === "subscriber@example.com";
-        return { ok: true, json: async () => ({ active, email: body.email, pass: active ? await createPass(TEST_ENV, body.email) : undefined }) };
-    }
     if (url.includes("/api/create-checkout-session")) {
         const body = JSON.parse(options?.body || "{}");
         checkoutCalls.push(body.plan);
@@ -719,6 +741,78 @@ await new Promise(r => setTimeout(r, 400));
 
 check("Existing subscriber without a pass is upgraded automatically and sees the full deck", legacyDom.window.document.getElementById("count")?.textContent.includes(TOTAL_CARDS));
 check("Upgraded subscriber now has an access pass saved", !!JSON.parse(global.localStorage.getItem("coffeeDeck:access") || "{}").pass);
+
+// =====================================================================
+// EMAIL SIGN-IN JOURNEY - worker has a Resend key, so restore sends a
+// link rather than unlocking from a typed email
+// =====================================================================
+
+async function bootFresh(url, access) {
+    const bootDom = new JSDOM(html, { url, pretendToBeVisual: true });
+    const w = bootDom.window;
+    global.window = w;
+    global.document = w.document;
+    global.localStorage = w.localStorage;
+    global.KeyboardEvent = w.KeyboardEvent;
+    global.Event = w.Event;
+    global.PointerEvent = w.PointerEvent || w.Event;
+    global.CustomEvent = w.CustomEvent;
+    global.MutationObserver = w.MutationObserver;
+    global.HTMLElement = w.HTMLElement;
+    global.Node = w.Node;
+    if (access) global.localStorage.setItem("coffeeDeck:access", JSON.stringify(access));
+    try {
+        await import(`./dist/assets/${jsFile}?t=${Date.now()}-${Math.random()}`);
+    } catch (e) {
+        errors.push(e.stack || e.message);
+    }
+    await new Promise(r => setTimeout(r, 400));
+    return w;
+}
+
+apiEnv = { ...TEST_ENV, RESEND_API_KEY: "re_test", SITE_URL: "http://localhost" };
+sentEmails.length = 0;
+
+const emailWin = await bootFresh("http://localhost/");
+const emailDoc = emailWin.document;
+emailDoc.getElementById("subscribeToggle")?.onclick?.();
+await new Promise(r => setTimeout(r, 150));
+emailDoc.getElementById("paywall-restore-toggle")?.dispatchEvent(new emailWin.Event("click", { bubbles: true }));
+emailDoc.getElementById("paywall-email").value = "subscriber@example.com";
+emailDoc.getElementById("paywall-verify")?.dispatchEvent(new emailWin.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 300));
+
+check("Restore with email sign-in: shows 'we've sent a link' message", emailDoc.getElementById("paywall-status")?.textContent.includes("sign-in link"));
+check("Restore with email sign-in: typing the email alone does NOT unlock the deck", !emailDoc.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+check("Restore with email sign-in: one email sent to the subscriber", sentEmails.length === 1 && sentEmails[0].to[0] === "subscriber@example.com");
+
+emailDoc.getElementById("paywall-email").value = "nobody@example.com";
+emailDoc.getElementById("paywall-verify")?.dispatchEvent(new emailWin.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 300));
+check("Unknown email sees the same neutral message (no way to probe subscribers)", emailDoc.getElementById("paywall-status")?.textContent.includes("sign-in link"));
+check("Unknown email: nothing sent", sentEmails.length === 1);
+
+const emailedLink = sentEmails[0]?.html.match(/href="([^"]+)"/)?.[1].replace(/&amp;/g, "&");
+const linkWin = await bootFresh(emailedLink);
+check("Opening the emailed link unlocks the full deck", linkWin.document.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+check("Emailed link is removed from the address bar after use", !linkWin.location.href.includes("signin="));
+check("Opening the emailed link saves an access pass", !!JSON.parse(global.localStorage.getItem("coffeeDeck:access") || "{}").pass);
+
+const badWin = await bootFresh("http://localhost/?signin=not-a-real-link");
+check("A bad or expired link lands on the paywall with an explanation", badWin.document.getElementById("paywall-status")?.textContent.includes("expired"));
+check("...with the email form already open for a new link", badWin.document.getElementById("paywall-restore-form")?.hidden === false);
+check("...and the deck stays locked", !badWin.document.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+
+const staleWin = await bootFresh("http://localhost/", { email: "subscriber@example.com", pass: await createPass(TEST_ENV, "subscriber@example.com"), verifiedAt: Date.now() - 2 * 86400000 });
+check("Daily re-check with a saved pass keeps the subscriber unlocked", staleWin.document.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+check("Daily re-check refreshes the saved date", Date.now() - JSON.parse(global.localStorage.getItem("coffeeDeck:access")).verifiedAt < 60000);
+
+SUBSCRIBERS.delete("subscriber@example.com");
+const cancelledWin = await bootFresh("http://localhost/", { email: "subscriber@example.com", pass: await createPass(TEST_ENV, "subscriber@example.com"), verifiedAt: Date.now() - 2 * 86400000 });
+check("After cancelling, the daily re-check locks the deck again", !cancelledWin.document.getElementById("count")?.textContent.includes(TOTAL_CARDS));
+SUBSCRIBERS.add("subscriber@example.com");
+
+apiEnv = TEST_ENV;
 
 // =====================================================================
 // PAID CONTENT STAYS PRIVATE

@@ -142,6 +142,8 @@ const strings = {
         emailPlaceholder: "Your email",
         verify: "Verify",
         restoreFailed: "No active subscription found for that email.",
+        restoreLinkSent: "If that email has a subscription, we've sent it a sign-in link. It works for 20 minutes.",
+        signinFailed: "That sign-in link has expired or already been replaced. Enter your email to get a new one.",
         checkoutFailed: "Something went wrong — please try again.",
         checkingOut: "Redirecting to checkout…",
         verifying: "Checking…"
@@ -278,6 +280,8 @@ const strings = {
         emailPlaceholder: "Tu correo electrónico",
         verify: "Verificar",
         restoreFailed: "No se encontró una suscripción activa para ese correo.",
+        restoreLinkSent: "Si ese correo tiene una suscripción, le hemos enviado un enlace de acceso. Funciona durante 20 minutos.",
+        signinFailed: "Ese enlace de acceso ha caducado o ya no es válido. Escribe tu correo para recibir uno nuevo.",
         checkoutFailed: "Algo salió mal — inténtalo de nuevo.",
         checkingOut: "Redirigiendo al pago…",
         verifying: "Verificando…"
@@ -414,6 +418,8 @@ const strings = {
         emailPlaceholder: "Seu e-mail",
         verify: "Verificar",
         restoreFailed: "Nenhuma assinatura ativa encontrada para esse e-mail.",
+        restoreLinkSent: "Se esse e-mail tiver uma assinatura, enviamos um link de acesso. Ele funciona por 20 minutos.",
+        signinFailed: "Esse link de acesso expirou ou não é mais válido. Digite seu e-mail para receber um novo.",
         checkoutFailed: "Algo deu errado — tente novamente.",
         checkingOut: "Redirecionando para o pagamento…",
         verifying: "Verificando…"
@@ -550,6 +556,8 @@ const strings = {
         emailPlaceholder: "Deine E-Mail",
         verify: "Überprüfen",
         restoreFailed: "Kein aktives Abo für diese E-Mail gefunden.",
+        restoreLinkSent: "Falls zu dieser E-Mail ein Abo gehört, haben wir einen Anmeldelink geschickt. Er ist 20 Minuten gültig.",
+        signinFailed: "Dieser Anmeldelink ist abgelaufen oder nicht mehr gültig. Gib deine E-Mail ein, um einen neuen zu erhalten.",
         checkoutFailed: "Etwas ist schiefgelaufen — bitte versuche es erneut.",
         checkingOut: "Weiterleitung zur Kasse…",
         verifying: "Überprüfung…"
@@ -686,6 +694,8 @@ const strings = {
         emailPlaceholder: "Votre e-mail",
         verify: "Vérifier",
         restoreFailed: "Aucun abonnement actif trouvé pour cet e-mail.",
+        restoreLinkSent: "Si cet e-mail a un abonnement, nous lui avons envoyé un lien de connexion. Il est valable 20 minutes.",
+        signinFailed: "Ce lien de connexion a expiré ou n'est plus valide. Saisissez votre e-mail pour en recevoir un nouveau.",
         checkoutFailed: "Un problème est survenu — veuillez réessayer.",
         checkingOut: "Redirection vers le paiement…",
         verifying: "Vérification…"
@@ -822,6 +832,8 @@ const strings = {
         emailPlaceholder: "La tua email",
         verify: "Verifica",
         restoreFailed: "Nessun abbonamento attivo trovato per quell'email.",
+        restoreLinkSent: "Se quell'email ha un abbonamento, le abbiamo inviato un link di accesso. È valido per 20 minuti.",
+        signinFailed: "Quel link di accesso è scaduto o non è più valido. Inserisci la tua email per riceverne uno nuovo.",
         checkoutFailed: "Qualcosa è andato storto — riprova.",
         checkingOut: "Reindirizzamento al pagamento…",
         verifying: "Verifica in corso…"

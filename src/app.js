@@ -11,6 +11,7 @@ import {
     startCheckout,
     restoreAccess,
     handleCheckoutReturn,
+    handleSigninLink,
     reverifyIfStale
 } from "./access.js";
 
@@ -68,9 +69,21 @@ const langSwitch = document.getElementById("langSwitch");
 const homeButton = document.getElementById("homeButton");
 const themeToggle = document.getElementById("themeToggle");
 
+// A message to show on the paywall the next time it's drawn (e.g. an
+// expired sign-in link), with the restore form already open.
+let pendingPaywallNotice = null;
+
 async function init() {
 
     await handleCheckoutReturn();
+
+    const signin = await handleSigninLink();
+
+    if (signin === false) {
+
+        pendingPaywallNotice = "signinFailed";
+
+    }
 
     await reverifyIfStale();
 
@@ -113,6 +126,12 @@ async function init() {
             });
 
         }
+
+    } else if (pendingPaywallNotice && !hasAccess()) {
+
+        // Came from a sign-in link that didn't work: go straight to the
+        // paywall so they can request a fresh one.
+        subscribeToggle.onclick();
 
     } else {
 
@@ -571,6 +590,16 @@ function renderPaywallCard() {
 
     };
 
+    if (pendingPaywallNotice) {
+
+        setStatus(t(pendingPaywallNotice), true);
+
+        el.querySelector("#paywall-restore-form").hidden = false;
+
+        pendingPaywallNotice = null;
+
+    }
+
     el.querySelector("#paywall-monthly").onclick = async () => {
 
         setStatus(t("checkingOut"));
@@ -621,15 +650,19 @@ function renderPaywallCard() {
 
         try {
 
-            const active = await restoreAccess(email);
+            const result = await restoreAccess(email, getLocale());
 
-            if (active) {
+            if (result === "unlocked") {
 
                 await refreshAccess();
 
                 homeIndex = 0;
 
                 renderHome();
+
+            } else if (result === "emailSent") {
+
+                setStatus(t("restoreLinkSent"));
 
             } else {
 
