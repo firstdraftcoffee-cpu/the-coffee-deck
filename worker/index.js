@@ -142,7 +142,7 @@ export function signinEmail(link, lang) {
 
     const text = EMAIL_TEXT[lang] || EMAIL_TEXT.en;
 
-    const html = `<div style="font-family:Arial,Helvetica,sans-serif;max-width:480px;margin:0 auto;padding:24px;color:#2b2320">
+    const html = `<div style="font-family:Nunito,Helvetica,Arial,sans-serif;max-width:480px;margin:0 auto;padding:24px;color:#2b2320">
 <p style="font-size:18px;font-weight:bold;margin:0 0 16px">The Coffee Deck</p>
 <p style="font-size:15px;line-height:1.5;margin:0 0 24px">${escapeHtml(text.intro)}</p>
 <p style="margin:0 0 24px"><a href="${escapeHtml(link)}" style="display:inline-block;background:#8a5a3c;color:#ffffff;text-decoration:none;padding:12px 20px;border-radius:8px;font-weight:bold">${escapeHtml(text.button)}</a></p>

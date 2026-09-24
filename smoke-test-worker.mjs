@@ -1,11 +1,15 @@
 import worker, { createPass, readPass } from "./worker/index.js";
 const env = { STRIPE_SECRET_KEY: "sk_test_abc", ASSETS: { fetch: async () => new Response("asset") } };
 let fails = 0;
+// Damage a token by changing one character in the middle of its signature
+// (always a real change, unlike overwriting the end, which can by chance
+// match or only touch unused padding bits).
+const tamper = t => { const i = t.indexOf(".") + 10; return t.slice(0, i) + (t[i] === "A" ? "B" : "A") + t.slice(i + 1); };
 const check = (l, c) => { console.log((c ? "PASS" : "FAIL") + " - " + l); if (!c) fails++; };
 
 const pass = await createPass(env, "a@b.com");
 check("valid pass reads back", (await readPass(env, pass))?.email === "a@b.com");
-check("tampered pass rejected", (await readPass(env, pass.slice(0, -2) + "xx")) === null);
+check("tampered pass rejected", (await readPass(env, tamper(pass))) === null);
 const forged = Buffer.from(JSON.stringify({ email: "x@y.com", exp: Date.now() + 1e9 })).toString("base64url") + "." + pass.split(".")[1];
 check("forged payload rejected", (await readPass(env, forged)) === null);
 check("expired pass rejected", (await readPass(env, await createPass(env, "a@b.com", Date.now() - 9 * 86400000))) === null);
@@ -74,7 +78,7 @@ const token = decodeURIComponent(new URL(linkMatch[1].replace(/&amp;/g, "&")).se
 const redeemed = await (await post("/api/redeem-link", { token })).json();
 check("Redeeming the emailed link gives a working pass", redeemed.active && redeemed.email === SUBSCRIBER && !!(await readPass(env, redeemed.pass)));
 
-const tampered = await (await post("/api/redeem-link", { token: token.slice(0, -3) + "abc" })).json();
+const tampered = await (await post("/api/redeem-link", { token: tamper(token) })).json();
 check("Tampered sign-in link is rejected", !tampered.active && !tampered.pass);
 const expiredToken = await createSigninToken(env, SUBSCRIBER, Date.now() - 21 * 60 * 1000);
 check("Sign-in link older than 20 minutes is rejected", !(await (await post("/api/redeem-link", { token: expiredToken })).json()).active);
