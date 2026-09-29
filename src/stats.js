@@ -58,8 +58,12 @@ export function openStats() {
         .filter(h => h.review.lastReviewed)
         .slice(0, 8);
 
-    const bookmarks = getBookmarks();
-    const recent = getRecent();
+    // Saved bookmarks/recent may include cards that aren't live right now
+    // (waiting for a photo). They're kept in storage so they reappear later,
+    // but only live cards are counted and shown.
+    const liveNumbers = new Set(cards.map(card => card.number));
+    const bookmarks = getBookmarks().filter(id => liveNumbers.has(id));
+    const recent = getRecent().filter(id => liveNumbers.has(id));
     const dueCards = getDueCards(cards);
 
     const completionPct = cards.length

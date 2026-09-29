@@ -1,3 +1,4 @@
+import fs from "fs";
 import worker, { createPass, readPass } from "./worker/index.js";
 const env = { STRIPE_SECRET_KEY: "sk_test_abc", ASSETS: { fetch: async () => new Response("asset") } };
 let fails = 0;
@@ -21,7 +22,7 @@ const bad = await worker.fetch(new Request("https://x/api/deck?lang=en", { heade
 check("deck with junk pass -> 401", bad.status === 401);
 const ok = await worker.fetch(new Request("https://x/api/deck?lang=de", { headers: { Authorization: "Bearer " + pass } }), env);
 const cards = await ok.json();
-check("deck with valid pass -> full localized deck", ok.status === 200 && cards.length === 400 && !cards[0].translations);
+check("deck with valid pass -> full localized deck", ok.status === 200 && cards.length === JSON.parse(fs.readFileSync("./public/data/deck/free-en.json", "utf8")).total && !cards[0].translations);
 check("static assets still pass through", (await (await worker.fetch(new Request("https://x/index.html"), env)).text()) === "asset");
 process.exitCode = fails ? 1 : 0;
 

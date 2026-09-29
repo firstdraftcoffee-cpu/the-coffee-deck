@@ -58,7 +58,8 @@ check("No errors during search page load/init", errors.length === 0);
 if (errors.length) console.log(errors.join("\n---\n"));
 
 check("Search input exists", !!doc.getElementById("search"));
-check("Category list renders", doc.querySelectorAll(".category-pill").length === 29); // 28 categories + ALL
+const LIVE_CATEGORIES = Object.keys(freeDeck("en").categoryCounts).length;
+check("Category list renders (every live category + All)", doc.querySelectorAll(".category-pill").length === LIVE_CATEGORIES + 1);
 check("'All Categories' pill shown with full total", doc.querySelector(".category-pill")?.textContent.includes(String(TOTAL)));
 check("Category pills use full display names, not abbreviations", [...doc.querySelectorAll(".category-pill")].some(p => p.textContent.includes("Espresso")));
 check("No raw 3-letter category codes visible in pills (e.g. bare 'ESP')", ![...doc.querySelectorAll(".category-pill")].some(p => /^ESP\s/.test(p.textContent.trim())));

@@ -747,7 +747,7 @@ check("Upgraded subscriber now has an access pass saved", !!JSON.parse(global.lo
 // link rather than unlocking from a typed email
 // =====================================================================
 
-async function bootFresh(url, access) {
+async function bootFresh(url, access, storage = {}) {
     const bootDom = new JSDOM(html, { url, pretendToBeVisual: true });
     const w = bootDom.window;
     global.window = w;
@@ -761,6 +761,7 @@ async function bootFresh(url, access) {
     global.HTMLElement = w.HTMLElement;
     global.Node = w.Node;
     if (access) global.localStorage.setItem("coffeeDeck:access", JSON.stringify(access));
+    for (const [key, value] of Object.entries(storage)) global.localStorage.setItem(key, JSON.stringify(value));
     try {
         await import(`./dist/assets/${jsFile}?t=${Date.now()}-${Math.random()}`);
     } catch (e) {
@@ -815,6 +816,40 @@ SUBSCRIBERS.add("subscriber@example.com");
 apiEnv = TEST_ENV;
 
 // =====================================================================
+// CARDS WAITING FOR PHOTOS - held back from the app, but a returning
+// subscriber's saved progress on them must not break anything
+// =====================================================================
+
+const allWritten = fs.readdirSync("./content").flatMap(f => JSON.parse(fs.readFileSync(`./content/${f}`, "utf8")));
+const waitingCards = allWritten.filter(card => !fs.existsSync(`./public/images/cards/${card.hero_image}`));
+const heldCard = waitingCards[0];
+
+const errorsBefore = errors.length;
+const liveCard = allWritten.find(card => fs.existsSync(`./public/images/cards/${card.hero_image}`));
+const reloadWin = await bootFresh("http://localhost/", { email: "test@example.com", pass: TEST_PASS, verifiedAt: Date.now() }, {
+    coffeeDeckReviews: {
+        [heldCard.number]: { state: "review", ease: 2.5, interval: 3, due: Date.now() - 1000, lastReviewed: Date.now() - 86400000 },
+        [liveCard.number]: { state: "review", ease: 2.5, interval: 3, due: Date.now() - 1000, lastReviewed: Date.now() - 86400000 }
+    },
+    "coffeeDeck:bookmarks": [heldCard.number, liveCard.number],
+    "coffeeDeck:recent": [heldCard.number, liveCard.number]
+});
+check("Test really seeded progress on a waiting card", JSON.parse(reloadWin.localStorage.getItem("coffeeDeckReviews"))[heldCard.number]?.state === "review");
+reloadWin.document.getElementById("statsToggle")?.onclick?.();
+await new Promise(r => setTimeout(r, 200));
+check("Saved progress/bookmarks on a waiting card don't cause errors", errors.length === errorsBefore);
+check("Stats still open with progress on a waiting card", !!reloadWin.document.getElementById("stats-mode"));
+const bookmarkTile = reloadWin.document.getElementById("tile-bookmarks");
+check("Bookmarks tile counts only live cards", bookmarkTile?.textContent.includes("1") && !bookmarkTile?.textContent.includes("2"));
+bookmarkTile?.dispatchEvent(new reloadWin.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("Opening bookmarks with a waiting card among them works", !!reloadWin.document.getElementById("study-mode") && errors.length === errorsBefore);
+reloadWin.document.getElementById("tile-recent")?.dispatchEvent(new reloadWin.Event("click", { bubbles: true }));
+await new Promise(r => setTimeout(r, 250));
+check("No errors from recent/bookmark views with waiting cards", errors.length === errorsBefore);
+
+
+// =====================================================================
 // PAID CONTENT STAYS PRIVATE
 // =====================================================================
 
@@ -841,6 +876,10 @@ const inboundCount = new Map();
 fullEnglish.flatMap(card => card.related).forEach(id => inboundCount.set(id, (inboundCount.get(id) || 0) + 1));
 check("Every card is linked from at least one other card", fullEnglish.every(card => inboundCount.get(card.number) > 0));
 check("No card lists more than 6 related cards", fullEnglish.every(card => card.related.length <= 6));
+check("No card waiting for a photo is served, even to subscribers", waitingCards.every(w => !fullEnglish.some(card => card.number === w.number)));
+check("Every live card has its photo", fullEnglish.every(card => fs.existsSync(`./public/images/cards/${card.hero_image}`)));
+check("Related links only point to live cards", fullEnglish.every(card => card.related.every(id => fullEnglish.some(c => c.number === id))));
+check("Waiting list is written for Ger", fs.readFileSync("./docs/cards-awaiting-images.md", "utf8").includes(`${waitingCards.length} waiting`));
 check("Every card title is unique", new Set(fullEnglish.map(card => card.title.toLowerCase())).size === fullEnglish.length);
 
 console.log("\nDone.");
