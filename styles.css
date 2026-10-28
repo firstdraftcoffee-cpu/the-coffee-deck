@@ -1058,6 +1058,8 @@ nav{
 
 .paywall-body h2{
 
+    color:var(--ink);
+
     font-size:var(--text-2xl);
 
     margin:0 0 var(--sp-3);
