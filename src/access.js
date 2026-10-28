@@ -56,13 +56,13 @@ export async function startCheckout(plan, locale) {
 
     });
 
+    const data = await res.json().catch(() => ({}));
+
     if (!res.ok) {
 
-        throw new Error("Could not start checkout");
+        throw new Error(data.error || "Could not start checkout");
 
     }
-
-    const data = await res.json();
 
     if (data.url) {
 
