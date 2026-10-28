@@ -603,9 +603,9 @@ function renderPaywallCard() {
 
             await startCheckout("lifetime", getLocale());
 
-        } catch (err) {
+        } catch {
 
-            setStatus(`${t("checkoutFailed")} (${err.message})`, true);
+            setStatus(t("checkoutFailed"), true);
 
         }
 
