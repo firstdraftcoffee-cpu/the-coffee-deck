@@ -532,15 +532,10 @@ function renderPaywallCard() {
 
 <div class="paywall-plans">
 
-<button id="paywall-monthly" class="paywall-plan">
-<span class="paywall-plan-price">$4.99</span>
-<span class="paywall-plan-period">${t("perMonth")}</span>
-</button>
-
-<button id="paywall-yearly" class="paywall-plan featured">
-<span class="paywall-plan-badge">${t("bestValue")}</span>
-<span class="paywall-plan-price">$39</span>
-<span class="paywall-plan-period">${t("perYear")}</span>
+<button id="paywall-buy" class="paywall-plan featured">
+<span class="paywall-plan-badge">${t("lifetimeBadge")}</span>
+<span class="paywall-plan-price">€2.99</span>
+<span class="paywall-plan-period">${t("oneOff")}</span>
 </button>
 
 </div>
@@ -600,29 +595,13 @@ function renderPaywallCard() {
 
     }
 
-    el.querySelector("#paywall-monthly").onclick = async () => {
+    el.querySelector("#paywall-buy").onclick = async () => {
 
         setStatus(t("checkingOut"));
 
         try {
 
-            await startCheckout("monthly", getLocale());
-
-        } catch {
-
-            setStatus(t("checkoutFailed"), true);
-
-        }
-
-    };
-
-    el.querySelector("#paywall-yearly").onclick = async () => {
-
-        setStatus(t("checkingOut"));
-
-        try {
-
-            await startCheckout("yearly", getLocale());
+            await startCheckout("lifetime", getLocale());
 
         } catch {
 

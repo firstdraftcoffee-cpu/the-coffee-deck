@@ -7,7 +7,7 @@ A spaced-repetition flashcard app for coffee professionals — baristas, roaster
 - Study mode with Again / Hard / Good / Easy spaced repetition, progress stats and streaks
 - Interactive recipe cards with a live ratio calculator
 - Installable as an app (PWA) and works offline
-- Free sample tier plus Coffee Deck Pro subscription (Stripe)
+- Free sample tier plus Coffee Deck Pro one-off lifetime purchase, €2.99 (Stripe; earlier subscribers keep access)
 
 Live at thecoffeedeck.net. Built by First Draft Coffee.
 

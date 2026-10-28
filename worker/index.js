@@ -211,7 +211,7 @@ async function requestLink(request, env) {
 
     }
 
-    const active = await hasActiveSubscription(env, email);
+    const active = await hasAccess(env, email);
 
     // Until Resend is set up, restore works the old way so nobody gets
     // locked out. Adding the RESEND_API_KEY secret switches this off.
@@ -250,9 +250,9 @@ async function redeemLink(request, env) {
 
     }
 
-    if (!(await hasActiveSubscription(env, data.email))) {
+    if (!(await hasAccess(env, data.email))) {
 
-        return json({ active: false, reason: "no-subscription" });
+        return json({ active: false, reason: "no-access" });
 
     }
 
@@ -272,9 +272,9 @@ async function refreshPass(request, env) {
 
     }
 
-    if (!(await hasActiveSubscription(env, data.email))) {
+    if (!(await hasAccess(env, data.email))) {
 
-        return json({ active: false, reason: "no-subscription" });
+        return json({ active: false, reason: "no-access" });
 
     }
 
@@ -372,13 +372,13 @@ async function stripeRequest(env, path, method = "GET", body = null) {
 
 async function createCheckoutSession(request, env) {
 
-    const { plan, locale } = await request.json();
+    const { locale } = await request.json();
 
-    const priceId = plan === "yearly" ? env.STRIPE_PRICE_YEARLY : env.STRIPE_PRICE_MONTHLY;
+    const priceId = env.STRIPE_PRICE_LIFETIME;
 
     if (!priceId) {
 
-        return json({ error: "Invalid plan" }, 400);
+        return json({ error: "Lifetime price not set up" }, 400);
 
     }
 
@@ -386,7 +386,8 @@ async function createCheckoutSession(request, env) {
 
     const session = await stripeRequest(env, "checkout/sessions", "POST", {
 
-        "mode": "subscription",
+        "mode": "payment",
+        "customer_creation": "always",
         "line_items[0][price]": priceId,
         "line_items[0][quantity]": "1",
         "success_url": `${origin}/?checkout=success&session_id={CHECKOUT_SESSION_ID}`,
@@ -452,6 +453,38 @@ async function hasActiveSubscription(env, email) {
 
 }
 
+// A paid one-off lifetime purchase, matched by the customer's email.
+async function hasPurchased(env, email) {
+
+    if (!env.STRIPE_PRICE_LIFETIME) return false;
+
+    const customers = await stripeRequest(env, `customers?email=${encodeURIComponent(email)}&limit=5`);
+
+    for (const customer of customers.data || []) {
+
+        const sessions = await stripeRequest(env, `checkout/sessions?customer=${customer.id}&limit=20&expand[]=data.line_items`);
+
+        for (const session of sessions.data || []) {
+
+            if (session.payment_status !== "paid") continue;
+
+            if ((session.line_items?.data || []).some(item => item.price?.id === env.STRIPE_PRICE_LIFETIME)) return true;
+
+        }
+
+    }
+
+    return false;
+
+}
+
+// Access = the lifetime purchase, or a subscription from before the switch.
+async function hasAccess(env, email) {
+
+    return (await hasPurchased(env, email)) || (await hasActiveSubscription(env, email));
+
+}
+
 // Old email-only check, kept only so browsers saved before access passes
 // existed can upgrade during the grace period. Closes after the cutoff.
 async function verifyAccess(request, env) {
@@ -470,7 +503,7 @@ async function verifyAccess(request, env) {
 
     }
 
-    if (await hasActiveSubscription(env, email)) {
+    if (await hasAccess(env, email)) {
 
         return json({ active: true, email, pass: await createPass(env, email) });
 

@@ -688,15 +688,12 @@ for (let i = 0; i < 25; i++) {
 }
 
 check("Reaching the end of the free sample shows the paywall card", !!freeDoc.querySelector(".paywall-card"));
-check("Paywall card shows both a monthly and yearly plan", !!freeDoc.getElementById("paywall-monthly") && !!freeDoc.getElementById("paywall-yearly"));
+check("Paywall card shows a single lifetime purchase button", !!freeDoc.getElementById("paywall-buy") && !freeDoc.getElementById("paywall-monthly") && !freeDoc.getElementById("paywall-yearly"));
+check("Paywall button shows the one-off price", freeDoc.getElementById("paywall-buy")?.textContent.includes("\u20ac2.99"));
 
-freeDoc.getElementById("paywall-monthly")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
+freeDoc.getElementById("paywall-buy")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 150));
-check("Clicking Subscribe Monthly calls checkout with the monthly plan", checkoutCalls.includes("monthly"));
-
-freeDoc.getElementById("paywall-yearly")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
-await new Promise(r => setTimeout(r, 150));
-check("Clicking Subscribe Yearly calls checkout with the yearly plan", checkoutCalls.includes("yearly"));
+check("Clicking the button starts checkout for the lifetime plan", checkoutCalls.includes("lifetime"));
 
 freeDoc.getElementById("paywall-restore-toggle")?.dispatchEvent(new freeWindow.Event("click", { bubbles: true }));
 await new Promise(r => setTimeout(r, 100));

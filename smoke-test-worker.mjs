@@ -34,17 +34,31 @@ const { createSigninToken, signinEmail, EMAIL_ONLY_UPGRADE_UNTIL } = await impor
 
 const SUBSCRIBER = "fan@example.com";
 let sentEmails = [];
+const BUYER = "buyer@example.com";
+const OTHER_BUYER = "other@example.com";
 let subscriberActive = true;
+let checkoutBodies = [];
 
 globalThis.fetch = async (url, options) => {
     url = String(url);
     if (url.startsWith("https://api.stripe.com/v1/customers")) {
         const email = decodeURIComponent(url.match(/email=([^&]+)/)[1]);
-        return new Response(JSON.stringify({ data: email === SUBSCRIBER ? [{ id: "cus_1" }] : [] }));
+        const ids = { [SUBSCRIBER]: "cus_1", [BUYER]: "cus_2", [OTHER_BUYER]: "cus_3" };
+        return new Response(JSON.stringify({ data: ids[email] ? [{ id: ids[email] }] : [] }));
+    }
+    if (url.startsWith("https://api.stripe.com/v1/checkout/sessions") && options?.method === "POST") {
+        checkoutBodies.push(String(options.body));
+        return new Response(JSON.stringify({ url: "https://checkout.stripe.com/pay/test" }));
+    }
+    if (url.startsWith("https://api.stripe.com/v1/checkout/sessions?")) {
+        const customer = url.match(/customer=(\w+)/)[1];
+        const price = customer === "cus_2" ? "price_life_test" : customer === "cus_3" ? "price_something_else" : null;
+        return new Response(JSON.stringify({ data: price ? [{ payment_status: "paid", line_items: { data: [{ price: { id: price } }] } }] : [] }));
     }
     if (url.startsWith("https://api.stripe.com/v1/subscriptions")) {
         const status = url.match(/status=(\w+)/)[1];
-        return new Response(JSON.stringify({ data: subscriberActive && status === "active" ? [{ id: "sub_1" }] : [] }));
+        const customer = url.match(/customer=(\w+)/)[1];
+        return new Response(JSON.stringify({ data: subscriberActive && customer === "cus_1" && status === "active" ? [{ id: "sub_1" }] : [] }));
     }
     if (url === "https://api.resend.com/emails") {
         sentEmails.push(JSON.parse(options.body));
@@ -53,7 +67,7 @@ globalThis.fetch = async (url, options) => {
     throw new Error("Unexpected fetch in worker test: " + url);
 };
 
-const withResend = { ...env, RESEND_API_KEY: "re_test", SITE_URL: "https://thecoffeedeck.net" };
+const withResend = { ...env, RESEND_API_KEY: "re_test", SITE_URL: "https://thecoffeedeck.net", STRIPE_PRICE_LIFETIME: "price_life_test" };
 const post = (path, body, e = withResend, headers = {}) =>
     worker.fetch(new Request(`https://thecoffeedeck.net${path}`, { method: "POST", headers: { "Content-Type": "application/json", ...headers }, body: JSON.stringify(body || {}) }), e);
 
@@ -62,6 +76,19 @@ const direct = await (await post("/api/request-link", { email: SUBSCRIBER }, env
 check("Without Resend key: subscriber restores directly (nobody locked out before setup)", direct.mode === "direct" && direct.active && !!direct.pass);
 const directNo = await (await post("/api/request-link", { email: "stranger@example.com" }, env)).json();
 check("Without Resend key: non-subscriber gets no pass", directNo.mode === "direct" && !directNo.active && !directNo.pass);
+
+// One-off lifetime purchase
+const directBuyer = await (await post("/api/request-link", { email: BUYER }, { ...env, STRIPE_PRICE_LIFETIME: "price_life_test" })).json();
+check("Lifetime buyer restores access (direct mode)", directBuyer.mode === "direct" && directBuyer.active && !!directBuyer.pass);
+const directOther = await (await post("/api/request-link", { email: OTHER_BUYER }, { ...env, STRIPE_PRICE_LIFETIME: "price_life_test" })).json();
+check("A paid purchase of a different price does NOT grant access", directOther.mode === "direct" && !directOther.active && !directOther.pass);
+const checkout = await (await post("/api/create-checkout-session", { locale: "en" }, withResend)).json();
+check("Checkout starts as a one-off payment at the lifetime price", !!checkout.url && checkoutBodies[0].includes("mode=payment") && checkoutBodies[0].includes("price_life_test") && !checkoutBodies[0].includes("subscription"));
+check("Checkout refuses when no lifetime price is set up", (await post("/api/create-checkout-session", { locale: "en" }, env)).status === 400);
+const sentBefore = sentEmails.length;
+await post("/api/request-link", { email: BUYER, lang: "en" });
+check("Lifetime buyer gets a sign-in email on restore", sentEmails.length === sentBefore + 1 && sentEmails.at(-1).to[0] === BUYER);
+sentEmails = [];
 
 // With Resend: email link only
 const sub = await (await post("/api/request-link", { email: SUBSCRIBER, lang: "de" })).json();
