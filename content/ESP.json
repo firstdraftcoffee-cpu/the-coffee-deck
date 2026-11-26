@@ -249,7 +249,7 @@
     "hero_image": "005.jpg",
     "definition": "The removal of soluble compounds from coffee using water.",
     "why": "Extraction determines sweetness, acidity and bitterness.",
-    "tip": "Taste every shot.",
+    "tip": "Taste when you dial in, then keep time and weight steady.",
     "mistake": "Relying on shot time alone.",
     "challenge": "Describe over-extraction.",
     "related": [
@@ -262,7 +262,7 @@
         "title": "Extracción",
         "definition": "La remoción de compuestos solubles del café usando agua.",
         "why": "La extracción determina la dulzura, la acidez y el amargor.",
-        "tip": "Prueba cada extracción.",
+        "tip": "Prueba al calibrar y luego mantén estable el tiempo y el peso.",
         "mistake": "Confiar solo en el tiempo de extracción.",
         "challenge": "Describe la sobreextracción."
       },
@@ -270,7 +270,7 @@
         "title": "Extração",
         "definition": "A remoção de compostos solúveis do café usando água.",
         "why": "A extração determina a doçura, a acidez e o amargor.",
-        "tip": "Prove cada extração.",
+        "tip": "Prove ao calibrar e depois mantenha o tempo e o peso estáveis.",
         "mistake": "Confiar apenas no tempo de extração.",
         "challenge": "Descreva a superextração."
       },
@@ -278,7 +278,7 @@
         "title": "Extraktion",
         "definition": "Das Herauslösen löslicher Verbindungen aus Kaffee mittels Wasser.",
         "why": "Extraktion bestimmt Süße, Säure und Bitterkeit.",
-        "tip": "Verkoste jeden Shot.",
+        "tip": "Verkoste beim Einstellen, dann halte Zeit und Gewicht konstant.",
         "mistake": "Sich allein auf die Shot-Zeit zu verlassen.",
         "challenge": "Beschreibe Überextraktion."
       },
@@ -286,7 +286,7 @@
         "title": "Extraction",
         "definition": "L'élimination des composés solubles du café à l'aide d'eau.",
         "why": "L'extraction détermine la douceur, l'acidité et l'amertume.",
-        "tip": "Goûtez chaque shot.",
+        "tip": "Goûtez pendant le réglage, puis gardez le temps et le poids constants.",
         "mistake": "Se fier uniquement au temps du shot.",
         "challenge": "Décrivez la sur-extraction."
       },
@@ -294,7 +294,7 @@
         "title": "Estrazione",
         "definition": "La rimozione dei composti solubili dal caffè usando l'acqua.",
         "why": "L'estrazione determina dolcezza, acidità e amarezza.",
-        "tip": "Assaggia ogni shot.",
+        "tip": "Assaggia mentre calibri, poi mantieni costanti tempo e peso.",
         "mistake": "Affidarsi solo al tempo dello shot.",
         "challenge": "Descrivi la sovraestrazione."
       }
