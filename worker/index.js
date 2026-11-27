@@ -33,6 +33,7 @@ async function signingKey(env) {
 
     // A dedicated ACCESS_TOKEN_SECRET is used if one is set; otherwise the key
     // is derived from the Stripe secret, so no extra setup is needed.
+    if (!env.ACCESS_TOKEN_SECRET && !env.STRIPE_SECRET_KEY) throw new Error("Access signing unavailable");
     const secret = env.ACCESS_TOKEN_SECRET || `coffee-deck-access:${env.STRIPE_SECRET_KEY}`;
 
     return crypto.subtle.importKey(
@@ -211,17 +212,8 @@ async function requestLink(request, env) {
 
     }
 
+    if (!env.RESEND_API_KEY) return json({ error: "Email sign-in temporarily unavailable" }, 503);
     const active = await hasAccess(env, email);
-
-    // Until Resend is set up, restore works the old way so nobody gets
-    // locked out. Adding the RESEND_API_KEY secret switches this off.
-    if (!env.RESEND_API_KEY) {
-
-        return json(active
-            ? { mode: "direct", active: true, email, pass: await createPass(env, email) }
-            : { mode: "direct", active: false });
-
-    }
 
     if (active && !(await recentlySent(email))) {
 
@@ -331,6 +323,7 @@ function json(data, status = 200) {
 
         headers: {
             "Content-Type": "application/json",
+            "Cache-Control": "private, no-store",
             ...corsHeaders()
         }
 
@@ -401,27 +394,30 @@ async function createCheckoutSession(request, env) {
 
 }
 
+function isPaidDeckCheckout(session,priceId){return Boolean(priceId&&session?.mode==="payment"&&session.status==="complete"&&session.payment_status==="paid"&&session.line_items?.has_more===false&&session.line_items?.data?.length===1&&session.line_items.data[0].price?.id===priceId&&session.line_items.data[0].quantity===1)}
+
 async function checkoutSuccess(request, env) {
 
     const url = new URL(request.url);
 
     const sessionId = url.searchParams.get("session_id");
 
-    if (!sessionId) {
+    if (!sessionId || !/^cs_(test|live)_[A-Za-z0-9_]+$/.test(sessionId)) {
 
         return json({ error: "Missing session_id" }, 400);
 
     }
 
-    const session = await stripeRequest(env, `checkout/sessions/${sessionId}`);
+    const session = await stripeRequest(env, `checkout/sessions/${encodeURIComponent(sessionId)}?expand[]=line_items`);
 
-    if (session.payment_status !== "paid" && session.status !== "complete") {
+    if (!isPaidDeckCheckout(session, env.STRIPE_PRICE_LIFETIME)) {
 
         return json({ active: false });
 
     }
 
     const email = session.customer_details?.email || session.customer_email;
+    if (typeof email !== "string" || !email) return json({active:false});
 
     return json({
 
@@ -488,29 +484,7 @@ async function hasAccess(env, email) {
 // Old email-only check, kept only so browsers saved before access passes
 // existed can upgrade during the grace period. Closes after the cutoff.
 async function verifyAccess(request, env) {
-
-    const { email } = await request.json();
-
-    if (!email) {
-
-        return json({ error: "Missing email" }, 400);
-
-    }
-
-    if (Date.now() > EMAIL_ONLY_UPGRADE_UNTIL && env.RESEND_API_KEY) {
-
-        return json({ active: false, reason: "closed" });
-
-    }
-
-    if (await hasAccess(env, email)) {
-
-        return json({ active: true, email, pass: await createPass(env, email) });
-
-    }
-
-    return json({ active: false });
-
+    return json({ active: false, reason: "closed" });
 }
 
 export default {
@@ -571,7 +545,7 @@ export default {
 
         } catch (err) {
 
-            return json({ error: err.message || "Server error" }, 500);
+            return json({ error: "Service temporarily unavailable" }, 500);
 
         }
 
