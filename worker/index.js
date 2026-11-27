@@ -202,54 +202,55 @@ async function recentlySent(email) {
 
 }
 
+async function tokenHash(token) {
+    return Array.from(new Uint8Array(await crypto.subtle.digest("SHA-256", encoder.encode(token))), b=>b.toString(16).padStart(2,"0")).join("");
+}
+
+async function authLimit(env, scope, max, windowMs, now) {
+    const digest = toBase64Url(new Uint8Array(await crypto.subtle.sign("HMAC", await signingKey(env), encoder.encode("limit:"+scope))));
+    const row = await env.AUTH_DB.prepare("INSERT INTO deck_auth_limits(scope,attempts,expires_at) VALUES (?,1,?) ON CONFLICT(scope) DO UPDATE SET attempts=CASE WHEN expires_at <= ? THEN 1 ELSE attempts+1 END, expires_at=CASE WHEN expires_at <= ? THEN excluded.expires_at ELSE expires_at END RETURNING attempts").bind(digest,now+windowMs,now,now).first();
+    return Boolean(row && row.attempts <= max);
+}
+
 async function requestLink(request, env) {
-
-    const { email, lang } = await request.json();
-
-    if (!email || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) {
-
-        return json({ error: "Missing email" }, 400);
-
+    const body = await request.json();
+    const email = typeof body.email === "string" ? body.email.trim().toLowerCase() : "";
+    if (!email || email.length>254 || !/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(email)) return json({error:"Missing email"},400);
+    if (!env.RESEND_API_KEY || !env.ACCESS_TOKEN_SECRET || !env.AUTH_DB) return json({error:"Email sign-in temporarily unavailable"},503);
+    const now = Date.now();
+    const ip = request.headers.get("CF-Connecting-IP") || "unknown";
+    if (!(await authLimit(env,"ip:"+ip,20,15*60*1000,now))) return json({mode:"email"});
+    if (!(await authLimit(env,"email:"+email,2,15*60*1000,now))) return json({mode:"email"});
+    // Remove expired records in bounded batches.
+    await env.AUTH_DB.prepare("DELETE FROM deck_signin_tokens WHERE token_hash IN (SELECT token_hash FROM deck_signin_tokens WHERE expires_at <= ? LIMIT 100)").bind(now).run();
+    await env.AUTH_DB.prepare("DELETE FROM deck_auth_limits WHERE scope IN (SELECT scope FROM deck_auth_limits WHERE expires_at <= ? LIMIT 100)").bind(now).run();
+    if (await hasAccess(env,email)) {
+        const exp = now + SIGNIN_LINK_LIFETIME_MS;
+        const token = await signToken(env,{kind:"signin",email,exp,nonce:crypto.randomUUID()});
+        const hash = await tokenHash(token);
+        await env.AUTH_DB.prepare("INSERT INTO deck_signin_tokens(token_hash,email,expires_at) VALUES (?,?,?)").bind(hash,email,exp).run();
+        try {
+            await sendSigninEmail(env,email,"https://thecoffeedeck.net/?signin="+encodeURIComponent(token),body.lang);
+        } catch {
+            await env.AUTH_DB.prepare("DELETE FROM deck_signin_tokens WHERE token_hash=?").bind(hash).run();
+            console.warn("Deck sign-in email delivery failed");
+        }
     }
-
-    if (!env.RESEND_API_KEY) return json({ error: "Email sign-in temporarily unavailable" }, 503);
-    const active = await hasAccess(env, email);
-
-    if (active && !(await recentlySent(email))) {
-
-        const origin = env.SITE_URL || new URL(request.url).origin;
-
-        const link = `${origin}/?signin=${encodeURIComponent(await createSigninToken(env, email))}`;
-
-        await sendSigninEmail(env, email, link, lang);
-
-    }
-
-    // Same answer whether or not the email belongs to a subscriber.
-    return json({ mode: "email" });
-
+    return json({mode:"email"});
 }
 
 async function redeemLink(request, env) {
-
-    const { token } = await request.json();
-
-    const data = await readToken(env, token);
-
-    if (!data || data.kind !== "signin" || data.exp <= Date.now()) {
-
-        return json({ active: false, reason: "invalid-link" });
-
-    }
-
-    if (!(await hasAccess(env, data.email))) {
-
-        return json({ active: false, reason: "no-access" });
-
-    }
-
-    return json({ active: true, email: data.email, pass: await createPass(env, data.email) });
-
+    if (!env.ACCESS_TOKEN_SECRET || !env.AUTH_DB) return json({error:"Email sign-in temporarily unavailable"},503);
+    const {token} = await request.json();
+    if(typeof token !== "string" || token.length>4096) return json({active:false,reason:"invalid-link"});
+    const data = await readToken(env,token);
+    if (!data || data.kind !== "signin" || !data.nonce || typeof data.email!=="string" || data.exp<=Date.now()) return json({active:false,reason:"invalid-link"});
+    const now = Date.now();
+    const hash = await tokenHash(token);
+    const row = await env.AUTH_DB.prepare("UPDATE deck_signin_tokens SET used_at=? WHERE token_hash=? AND email=? AND expires_at>? AND used_at IS NULL RETURNING email").bind(now,hash,data.email,now).first();
+    if (!row) return json({active:false,reason:"invalid-link"});
+    if (!(await hasAccess(env,row.email))) return json({active:false,reason:"no-access"});
+    return json({active:true,email:row.email,pass:await createPass(env,row.email)});
 }
 
 async function refreshPass(request, env) {
@@ -437,9 +438,9 @@ async function hasActiveSubscription(env, email) {
 
         for (const status of ["active", "trialing"]) {
 
-            const subs = await stripeRequest(env, `subscriptions?customer=${customer.id}&status=${status}&limit=1`);
+            const subs = await stripeRequest(env, `subscriptions?customer=${customer.id}&status=${status}&limit=100`);
 
-            if (subs.data && subs.data.length > 0) return true;
+            if ((subs.data || []).some(sub => (sub.items?.data || []).some(item => [env.STRIPE_PRICE_MONTHLY, env.STRIPE_PRICE_YEARLY].filter(Boolean).includes(item.price?.id)))) return true;
 
         }
 
