@@ -1,1 +1,20 @@
-{"$schema": "./node_modules/wrangler/config-schema.json", "name": "the-coffee-deck", "compatibility_date": "2026-08-11", "main": "worker/index.js", "assets": {"directory": "./dist", "binding": "ASSETS"}}
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "the-coffee-deck",
+  "compatibility_date": "2026-08-11",
+  "main": "worker/index.js",
+  "assets": {
+    "directory": "./dist",
+    "binding": "ASSETS"
+  },
+  "d1_databases": [
+    {
+      "binding": "AUTH_DB",
+      "database_name": "coffee-deck-auth-db",
+      "database_id": "91902f80-598d-4b78-9830-b748e19c8d94"
+    }
+  ],
+  "vars": {
+    "SITE_URL": "https://thecoffeedeck.net"
+  }
+}
